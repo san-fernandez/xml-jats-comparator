@@ -1,67 +1,93 @@
 from typing import List, Dict, Tuple
 from comparator import Difference
 
-# Penalties for each comparison mode
-PENALTIES: Dict[str, Dict[str, float]] = {
+# Weights per difference type (0.0–1.0): how "severe" each kind of diff is.
+# The score formula is:  100 × (1 − Σ weights / estimated_total_nodes)
+WEIGHTS: Dict[str, Dict[str, float]] = {
     "strict": {
-        "TAG_MISMATCH": 30.0,
-        "STRUCTURE_MISMATCH": 25.0,
-        "MISSING_TAG": 20.0,
-        "UNEXPECTED_TAG": 20.0,
-        "ORDER_MISMATCH": 15.0,
-        "CARDINALITY_MISMATCH": 10.0,
-        "ATTR_MISMATCH": 10.0,
+        "TAG_MISMATCH":        1.0,
+        "STRUCTURE_MISMATCH":  0.8,
+        "MISSING_TAG":         0.7,
+        "UNEXPECTED_TAG":      0.7,
+        "ORDER_MISMATCH":      0.5,
+        "CARDINALITY_MISMATCH": 0.4,
+        "ATTR_MISMATCH":       0.4,
     },
     "balanced": {
-        "TAG_MISMATCH": 30.0,
-        "STRUCTURE_MISMATCH": 25.0,
-        "MISSING_TAG": 20.0,
-        "UNEXPECTED_TAG": 20.0,
-        "ORDER_MISMATCH": 10.0,
-        "CARDINALITY_MISMATCH": 5.0,
-        "ATTR_MISMATCH": 5.0,
+        "TAG_MISMATCH":        1.0,
+        "STRUCTURE_MISMATCH":  0.6,
+        "MISSING_TAG":         0.5,
+        "UNEXPECTED_TAG":      0.4,
+        "ORDER_MISMATCH":      0.2,
+        "CARDINALITY_MISMATCH": 0.15,
+        "ATTR_MISMATCH":       0.15,
     },
     "relaxed": {
-        "TAG_MISMATCH": 30.0,
-        "STRUCTURE_MISMATCH": 20.0,
-        "MISSING_TAG": 15.0,
-        "UNEXPECTED_TAG": 10.0,
-        "ORDER_MISMATCH": 5.0,
-        "CARDINALITY_MISMATCH": 2.0,
-        "ATTR_MISMATCH": 2.0,
-    }
+        "TAG_MISMATCH":        1.0,
+        "STRUCTURE_MISMATCH":  0.4,
+        "MISSING_TAG":         0.3,
+        "UNEXPECTED_TAG":      0.2,
+        "ORDER_MISMATCH":      0.1,
+        "CARDINALITY_MISMATCH": 0.05,
+        "ATTR_MISMATCH":       0.05,
+    },
 }
 
-def calculate_score(differences: List[Difference], mode: str = "balanced") -> Tuple[float, str, bool]:
+
+def _estimate_total_nodes(differences: List[Difference]) -> int:
+    """
+    Estimate how many nodes were involved in the comparison.
+
+    Every difference implies at least one node was examined; matched nodes
+    that produced no diff are invisible here, so we use a baseline that
+    grows with the number of diffs to keep scores proportional.
+    The minimum (20) represents a minimal JATS article skeleton.
+    """
+    # Count unique paths mentioned in differences as a proxy for tree size
+    unique_paths = {d.path for d in differences}
+    return max(len(unique_paths) + len(differences), 20)
+
+
+def calculate_score(
+    differences: List[Difference], mode: str = "balanced"
+) -> Tuple[float, str, bool]:
     """
     Calculates the similarity score (0.0 to 100.0) based on differences and mode.
-    
+
+    The score is proportional: many small diffs in a large tree still yield
+    a meaningful (non-zero) score.
+
     Returns:
         tuple: (similarity_score, status, compatible_structure)
     """
     mode = mode.lower()
-    if mode not in PENALTIES:
+    if mode not in WEIGHTS:
         mode = "balanced"
-        
-    mode_penalties = PENALTIES[mode]
-    
-    total_penalty = 0.0
-    for diff in differences:
-        penalty = mode_penalties.get(diff.type, 10.0)  # Default penalty to 10 if unknown type
-        total_penalty += penalty
-        
-    similarity = max(0.0, 100.0 - total_penalty)
-    
-    # Classification logic
-    if not differences and similarity >= 100.0:
-        status = "EXACT_MATCH"
-    elif similarity >= 80.0:
+
+    mode_weights = WEIGHTS[mode]
+
+    if not differences:
+        return 100.0, "EXACT_MATCH", True
+
+    total_weight = sum(
+        mode_weights.get(d.type, 0.3) for d in differences
+    )
+    total_nodes = _estimate_total_nodes(differences)
+
+    # Ratio of "bad weight" to total nodes, capped at 1.0
+    penalty_ratio = min(total_weight / total_nodes, 1.0)
+    similarity = max(0.0, round((1.0 - penalty_ratio) * 100, 1))
+
+    # Classification
+    if similarity >= 80.0:
         status = "STRUCTURE_COMPATIBLE"
     elif similarity >= 50.0:
         status = "PARTIAL_MATCH"
+    elif similarity >= 20.0:
+        status = "LOW_MATCH"
     else:
         status = "INCOMPATIBLE"
-        
+
     compatible_structure = status in ("EXACT_MATCH", "STRUCTURE_COMPATIBLE")
-    
-    return round(similarity, 1), status, compatible_structure
+
+    return similarity, status, compatible_structure
