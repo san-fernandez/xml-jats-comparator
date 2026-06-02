@@ -1,36 +1,36 @@
-# Motor de Comparación Estructural de XML con Score de Similitud
+# Motor de Comparación Estructural de XML JATS
 
-Este motor permite determinar el grado de similitud estructural entre dos documentos XML sin considerar su contenido textual o valores internos. Valida si siguen una estructura equivalente o compatible, manejando diferencias de cardinalidad (repeticiones consecutivas), ausencia de etiquetas, variaciones en la jerarquía y alteración del orden de etiquetas.
+Sistema para comparar la estructura de documentos XML JATS sin considerar contenido textual. Permite tanto la comparación individual entre dos archivos como la **comparación masiva cruzada** entre corpus completos desde archivos comprimidos (.tar.gz, .zip).
 
 ## 🛠️ Arquitectura
 
-El sistema está diseñado en capas completamente desacopladas de acuerdo con la especificación:
-
-1. **`parser.py`**: Parsea archivos XML usando la API segura de `xml.etree.ElementTree`.
-2. **`normalizer.py`**: Transforma el XML en una representación intermedia estructurada, agrupando nodos repetidos consecutivos y eliminando contenido de texto.
-3. **`comparator.py`**: Algoritmo recursivo que compara nodos, realiza alineación posicional de los hijos, detecta orden y diferencias estructurales internas.
-4. **`scorer.py`**: Aplica penalizaciones según el modo de tolerancia y clasifica la compatibilidad.
-5. **`reporter.py`**: Formatea las diferencias detectadas en formato amigable de consola o JSON.
-6. **`compare_xml.py`**: Interfaz de línea de comandos (CLI) que orquesta las capas anteriores.
-7. **`bulk_compare.py`**: Script de procesamiento masivo paralelo para comparar múltiples XMLs simultáneamente.
+| Módulo | Responsabilidad |
+|--------|----------------|
+| `parser.py` | Parsea XML desde archivos o strings usando `xml.etree.ElementTree` |
+| `normalizer.py` | Transforma el XML en `StructNode`, agrupando nodos repetidos consecutivos |
+| `comparator.py` | Comparación recursiva de dos árboles estructurales con detección de diferencias |
+| `scorer.py` | Scoring proporcional al tamaño del árbol, con pesos por tipo de diferencia |
+| `reporter.py` | Formateo de resultados en texto o JSON |
+| `compare_xml.py` | CLI para comparación individual (2 archivos) |
+| `bulk_compare.py` | CLI para comparación masiva con soporte de archivos comprimidos |
 
 ---
 
-## 🚀 Uso del CLI (Individual)
-
-Puedes ejecutar el motor pasando las rutas del XML esperado (referencia) y el candidato:
+## 🚀 Comparación Individual
 
 ```bash
 python compare_xml.py expected.xml candidate.xml
 ```
 
-### Opciones de comando:
+### Opciones:
 
-* `--mode {strict,balanced,relaxed}`: Establece el nivel de tolerancia (por defecto: `balanced`).
-* `--json`: Devuelve la salida estructurada en formato JSON válido en lugar de texto amigable.
-* `--compare-attrs`: Habilita la comparación de existencia y valores de los atributos.
+| Flag | Descripción |
+|------|-------------|
+| `--mode {strict,balanced,relaxed}` | Nivel de tolerancia (default: `balanced`) |
+| `--json` | Salida en JSON |
+| `--compare-attrs` | Comparar atributos XML |
 
-### Ejemplo de Salida Consola (Balanced)
+### Ejemplo:
 
 ```text
 Similarity: 75.0%
@@ -47,59 +47,112 @@ Differences:
 
 ---
 
-## 📂 Procesamiento Masivo (Carga Masiva)
+## 📂 Comparación Masiva
 
-Para procesar múltiples comparaciones de manera concurrente (aprovechando todos los núcleos de CPU), utiliza `bulk_compare.py`.
+`bulk_compare.py` permite comparar corpus completos de XMLs, leyendo directamente desde archivos comprimidos y ejecutando las comparaciones en paralelo.
 
-### 1. Comparar una carpeta de candidatos contra una ÚNICA referencia:
+### Fuentes soportadas:
+
+- Directorio con archivos `.xml` sueltos
+- Archivo `.tar.gz` (incluyendo `.zip` internos con XMLs)
+- Directorio con archivos `.zip` (extrae todos los XMLs)
+
+### Modos de emparejamiento:
+
+| Modo | Descripción |
+|------|-------------|
+| Por nombre (default) | Empareja archivos de referencia y candidato que tengan el mismo nombre |
+| `--cross` | Comparación cruzada: cada candidato contra cada referencia (todos vs todos) |
+
+### Ejemplos:
+
+**Comparación cruzada SUMARC vs Redalyc (todos los archivos):**
 
 ```bash
-python bulk_compare.py -r expected.xml -d /ruta/a/candidatos --format table
+python bulk_compare.py \
+  -r redalyc-xml/ \
+  -c sumarc-xml/XMLEnriquecidos.tar.gz \
+  --cross \
+  --mode relaxed \
+  -f csv \
+  -o resultado_completo.csv
 ```
 
-### 2. Comparar carpetas aparejando por nombre de archivo:
-Si tienes una carpeta de referencia y otra de candidatos con nombres de archivo idénticos (ej. `doc1.xml`, `doc2.xml`):
+**Con muestra aleatoria de referencia (más rápido):**
 
 ```bash
-python bulk_compare.py --ref-dir /ruta/a/referencias -d /ruta/a/candidatos --format table
+python bulk_compare.py \
+  -r redalyc-xml/ \
+  -c sumarc-xml/XMLEnriquecidos.tar.gz \
+  --cross \
+  --sample 10 \
+  --mode relaxed
 ```
 
-### Opciones del Procesador Masivo:
+**Emparejamiento por nombre entre dos directorios:**
 
-* `--mode {strict,balanced,relaxed}`: Modo de comparación (por defecto: `balanced`).
-* `--format {table,csv,json}`: Formato de reporte de salida (por defecto: `table`).
-* `--output -o <path>`: Guarda el reporte generado en el archivo indicado.
-* `--workers -w <int>`: Número de procesos paralelos concurrentes (por defecto: número total de CPUs del sistema).
-* `--compare-attrs`: Activa comparación de atributos.
+```bash
+python bulk_compare.py -r /ruta/a/referencias -c /ruta/a/candidatos
+```
 
-### Ejemplo de Reporte en Consola (`table`)
+### Opciones completas:
+
+| Flag | Descripción |
+|------|-------------|
+| `--ref, -r` | Referencia: directorio, `.tar.gz`, o directorio de `.zip` |
+| `--candidate, -c` | Candidato: directorio, `.tar.gz`, o directorio de `.zip` |
+| `--cross` | Comparación cruzada todos vs todos |
+| `--sample, -s N` | Tomar N archivos de referencia al azar (0 = todos) |
+| `--mode {strict,balanced,relaxed}` | Modo de comparación (default: `balanced`) |
+| `--compare-attrs` | Comparar atributos |
+| `--format, -f {table,csv,json}` | Formato de salida (default: `table`) |
+| `--output, -o` | Guardar resultado en archivo |
+| `--workers, -w N` | Procesos paralelos (default: todos los CPUs) |
+
+### Ejemplo de salida (tabla):
 
 ```text
-Expected File   | Candidate File  | Score  | Status                 | Compatible | Diff Summary                     
-----------------+-----------------+--------+------------------------+------------+----------------------------------
-expected.xml    | candidate_1.xml | 75.0%  | PARTIAL_MATCH          | No         | CARDINALITY_MISMATCH, MISSING_TAG
-expected.xml    | candidate_2.xml | 100.0% | EXACT_MATCH            | Yes        | None                             
+Referencia           | Candidato                    | Score  | Status               | Compat. | Diferencias
+---------------------+------------------------------+--------+----------------------+---------+---------------------------
+10745321006.xml      | Artículo_PEZZANO-enriched.xml | 91.3%  | STRUCTURE_COMPATIBLE | Si      | CARDINALITY_MISMATCH, ...
+10745321013.xml      | Rossi-enriched.xml            | 91.2%  | STRUCTURE_COMPATIBLE | Si      | MISSING_TAG, ...
 ```
 
 ---
 
-## 📈 Modos de Comparación y Penalizaciones
+## 📈 Sistema de Scoring
 
-| Tipo de Diferencia | STRICT | BALANCED (Default) | RELAXED |
-| :--- | :---: | :---: | :---: |
-| **`TAG_MISMATCH`** | -30 | -30 | -30 |
-| **`STRUCTURE_MISMATCH`** | -25 | -25 | -20 |
-| **`MISSING_TAG`** | -20 | -20 | -15 |
-| **`UNEXPECTED_TAG`** | -20 | -20 | -10 |
-| **`ORDER_MISMATCH`** | -15 | -10 | -5 |
-| **`CARDINALITY_MISMATCH`** | -10 | -5 | -2 |
-| **`ATTR_MISMATCH`** | -10 | -5 | -2 |
+El score es **proporcional al tamaño del árbol comparado**:
+
+```
+score = 100 × (1 − Σ pesos / nodos_totales_estimados)
+```
+
+Cada tipo de diferencia tiene un peso de 0.0 a 1.0 según el modo:
+
+| Tipo de Diferencia | STRICT | BALANCED | RELAXED |
+|:---|:---:|:---:|:---:|
+| `TAG_MISMATCH` | 1.0 | 1.0 | 1.0 |
+| `STRUCTURE_MISMATCH` | 0.8 | 0.6 | 0.4 |
+| `MISSING_TAG` | 0.7 | 0.5 | 0.3 |
+| `UNEXPECTED_TAG` | 0.7 | 0.4 | 0.2 |
+| `ORDER_MISMATCH` | 0.5 | 0.2 | 0.1 |
+| `CARDINALITY_MISMATCH` | 0.4 | 0.15 | 0.05 |
+| `ATTR_MISMATCH` | 0.4 | 0.15 | 0.05 |
+
+### Clasificación:
+
+| Score | Status |
+|-------|--------|
+| 100% | `EXACT_MATCH` |
+| ≥ 80% | `STRUCTURE_COMPATIBLE` |
+| ≥ 50% | `PARTIAL_MATCH` |
+| ≥ 20% | `LOW_MATCH` |
+| < 20% | `INCOMPATIBLE` |
 
 ---
 
-## 🧪 Pruebas Unitarias
-
-El suite incluye pruebas unitarias cubriendo los 7 casos obligatorios de la especificación y pruebas de comparación de atributos. Para ejecutarlas:
+## 🧪 Tests
 
 ```bash
 python test_compare_xml.py
