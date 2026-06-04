@@ -33,24 +33,24 @@
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0006-3017-509X</contrib-id>
+          <contrib-id contrib-id-type="orcid">0009-0006-3017-509X</contrib-id>
           <name>
             <surname>Rossi</surname>
             <given-names>Laura</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1">
+          <xref ref-type="aff" rid="aff01">
             <sup>1</sup>
           </xref>
-          <email>laurarossimt1@gmail.com</email>
         </contrib>
       </contrib-group>
-      <aff id="aff1">
+      <aff id="aff01">
         <label>1</label>
-        <institution content-type="original">Universidad de Buenos Aires, Hospital Neuropsiquiátrico Braulio A. Moyano, Argentina</institution>
-        <addr-line/>
+        <institution content-type="orgname">Universidad de Buenos Aires, Hospital Neuropsiquiátrico Braulio A. Moyano, Argentina</institution>
+        <email>laurarossimt1@gmail.com</email>
         <country country="AR">argentina</country>
+        <institution content-type="original">Universidad de Buenos Aires, Hospital Neuropsiquiátrico Braulio A. Moyano, Argentina. laurarossimt1@gmail.com</institution>
       </aff>
-      <pub-date date-type="pub" publication-format="electronic">
+      <pub-date pub-type="epub">
         <day>19</day>
         <month>11</month>
         <year>2025</year>
@@ -109,6 +109,13 @@ Este artigo busca apresentar uma clínica de musicoterapia focada na redução d
         <kwd>clínica de musicoterapia</kwd>
         <kwd>elaboração subjetiva</kwd>
       </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="39"/>
+        <page-count count="1"/>
+      </counts>
       <custom-meta-group>
         <custom-meta>
           <meta-name>section-title</meta-name>

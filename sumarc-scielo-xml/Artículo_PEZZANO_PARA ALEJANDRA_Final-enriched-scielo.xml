@@ -32,27 +32,27 @@
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-6794-7915</contrib-id>
+          <contrib-id contrib-id-type="orcid">0000-0002-6794-7915</contrib-id>
           <name>
             <surname>Pezzano</surname>
             <given-names>Luciano</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1">
+          <xref ref-type="aff" rid="aff01">
             <sup>1</sup>
           </xref>
-          <email>luciano.pezzano@unc.edu.ar</email>
           <bio>
             <p>Doctor en Derecho y Ciencias Sociales (UNC). Investigador y Profesor Titular de Derechos Humanos desde la Perspectiva Internacional (UCES), Profesor Ayudante de Derecho Internacional Público (UNC). </p>
           </bio>
         </contrib>
       </contrib-group>
-      <aff id="aff1">
+      <aff id="aff01">
         <label>1</label>
-        <institution content-type="original">Universidad Nacional de Córdoba, Argentina</institution>
-        <addr-line/>
+        <institution content-type="orgname">Universidad Nacional de Córdoba, Argentina</institution>
+        <email>luciano.pezzano@unc.edu.ar</email>
         <country country="AR">argentina</country>
+        <institution content-type="original">Universidad Nacional de Córdoba, Argentina. luciano.pezzano@unc.edu.ar</institution>
       </aff>
-      <pub-date date-type="pub" publication-format="electronic">
+      <pub-date pub-type="epub">
         <day>26</day>
         <month>05</month>
         <year>2026</year>
@@ -106,6 +106,13 @@
         <kwd>debates de la Asamblea General de las Naciones Unidas</kwd>
         <kwd>informes del Secretario General de las Naciones Unidas </kwd>
       </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="32"/>
+        <page-count count="1"/>
+      </counts>
       <custom-meta-group>
         <custom-meta>
           <meta-name>section-title</meta-name>

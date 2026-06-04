@@ -37,35 +37,40 @@
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-6108-723X</contrib-id>
+          <contrib-id contrib-id-type="orcid">0000-0002-6108-723X</contrib-id>
           <name>
             <surname>Shifres</surname>
             <given-names>Favio</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1">
+          <xref ref-type="aff" rid="aff01">
             <sup>1</sup>
           </xref>
-          <email>favioshifres@gmail.com</email>
         </contrib>
         <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2969-7916</contrib-id>
+          <contrib-id contrib-id-type="orcid">0000-0003-2969-7916</contrib-id>
           <name>
             <surname>Burcet</surname>
             <given-names>María Inés</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1">
+          <xref ref-type="aff" rid="aff02">
             <sup>1</sup>
           </xref>
-          <email>inesburcet@yahoo.com.ar</email>
         </contrib>
       </contrib-group>
-      <aff id="aff1">
+      <aff id="aff01">
         <label>1</label>
-        <institution content-type="original">Universidad Nacional de La Plata, Argentina</institution>
-        <addr-line/>
+        <institution content-type="orgname">Universidad Nacional de La Plata, Argentina</institution>
+        <email>favioshifres@gmail.com</email>
         <country country="AR">argentina</country>
+        <institution content-type="original">Universidad Nacional de La Plata, Argentina. favioshifres@gmail.com</institution>
       </aff>
-      <pub-date date-type="pub" publication-format="electronic">
+      <aff id="aff02">
+        <label>1</label>
+        <institution content-type="orgname">Universidad Nacional de La Plata, Argentina</institution>
+        <email>inesburcet@yahoo.com.ar</email>
+        <institution content-type="original">Universidad Nacional de La Plata, Argentina. inesburcet@yahoo.com.ar</institution>
+      </aff>
+      <pub-date pub-type="epub">
         <day>10</day>
         <month>12</month>
         <year>2025</year>
@@ -125,6 +130,13 @@
         <kwd>educação musical</kwd>
         <kwd>notação musical</kwd>
       </kwd-group>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="39"/>
+        <page-count count="1"/>
+      </counts>
       <custom-meta-group>
         <custom-meta>
           <meta-name>section-title</meta-name>

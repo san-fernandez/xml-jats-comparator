@@ -31,27 +31,27 @@
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0008-0434-3744</contrib-id>
+          <contrib-id contrib-id-type="orcid">0009-0008-0434-3744</contrib-id>
           <name>
             <surname>Molina Cáceres</surname>
             <given-names>Paloma</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1">
+          <xref ref-type="aff" rid="aff01">
             <sup>1</sup>
           </xref>
-          <email>palomamolinac19@gmail.com</email>
           <bio>
             <p>Graduada en Derecho por la Universidad de Málaga (España), especializada en Derecho Internacional por el Máster de Derecho Internacional de la Universidad Complutense de Madrid (España). Actualmente Doctoranda en Derecho Internacional por la Universidad de Málaga.&amp;nbsp;</p>
           </bio>
         </contrib>
       </contrib-group>
-      <aff id="aff1">
+      <aff id="aff01">
         <label>1</label>
-        <institution content-type="original">Universidad de Málaga, España</institution>
-        <addr-line/>
+        <institution content-type="orgname">Universidad de Málaga, España</institution>
+        <email>palomamolinac19@gmail.com</email>
         <country country="ES">españa</country>
+        <institution content-type="original">Universidad de Málaga, España. palomamolinac19@gmail.com</institution>
       </aff>
-      <pub-date date-type="pub" publication-format="electronic">
+      <pub-date pub-type="epub">
         <day>04</day>
         <month>12</month>
         <year>2025</year>
@@ -104,6 +104,13 @@
         <kwd>jurisdictional immunity</kwd>
         <kwd>institutional confusion</kwd>
       </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="3"/>
+        <page-count count="1"/>
+      </counts>
       <custom-meta-group>
         <custom-meta>
           <meta-name>section-title</meta-name>

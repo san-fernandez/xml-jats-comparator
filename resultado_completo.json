@@ -1,0 +1,5260 @@
+[
+  {
+    "expected_file": "scielo-chile1L.xml",
+    "candidate_file": "Artículo_Aguirre Lanegra_PARA ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 6
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 11,
+        "actual": 42
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile2.xml",
+    "candidate_file": "Artículo_Aguirre Lanegra_PARA ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.5,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "volume",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'volume', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 8,
+        "actual": 6
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 48,
+        "actual": 42
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-españa.xml",
+    "candidate_file": "Artículo_Aguirre Lanegra_PARA ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.5,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 6
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 151,
+        "actual": 42
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-peru.xml",
+    "candidate_file": "Artículo_Aguirre Lanegra_PARA ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.5,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 4,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 13,
+        "actual": 6
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 45,
+        "actual": 42
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-uruguay.xml",
+    "candidate_file": "Artículo_Aguirre Lanegra_PARA ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.5,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 9,
+        "actual": 6
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 31,
+        "actual": 42
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile1L.xml",
+    "candidate_file": "Artículo_PEZZANO_PARA ALEJANDRA_Final-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 11,
+        "actual": 32
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile2.xml",
+    "candidate_file": "Artículo_PEZZANO_PARA ALEJANDRA_Final-enriched-scielo.xml",
+    "similarity": 91.5,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "volume",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'volume', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 8,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 48,
+        "actual": 32
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-españa.xml",
+    "candidate_file": "Artículo_PEZZANO_PARA ALEJANDRA_Final-enriched-scielo.xml",
+    "similarity": 91.5,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 151,
+        "actual": 32
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-peru.xml",
+    "candidate_file": "Artículo_PEZZANO_PARA ALEJANDRA_Final-enriched-scielo.xml",
+    "similarity": 91.5,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 4,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 13,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 45,
+        "actual": 32
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-uruguay.xml",
+    "candidate_file": "Artículo_PEZZANO_PARA ALEJANDRA_Final-enriched-scielo.xml",
+    "similarity": 91.5,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 9,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 31,
+        "actual": 32
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile1L.xml",
+    "candidate_file": "RECENSIÓN_Molina+Cáceres_corregido+por+Juana_para+ALEJANDRA-enriched-scielo.xml",
+    "similarity": 90.8,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "article-id",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['article-id', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 11,
+        "actual": 3
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile2.xml",
+    "candidate_file": "RECENSIÓN_Molina+Cáceres_corregido+por+Juana_para+ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "article-id",
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "volume",
+          "issue",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['article-id', 'numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'volume', 'issue', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 8,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 48,
+        "actual": 3
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-españa.xml",
+    "candidate_file": "RECENSIÓN_Molina+Cáceres_corregido+por+Juana_para+ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "article-id",
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['article-id', 'numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 151,
+        "actual": 3
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-peru.xml",
+    "candidate_file": "RECENSIÓN_Molina+Cáceres_corregido+por+Juana_para+ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "article-id",
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['article-id', 'numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 4,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 13,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 45,
+        "actual": 3
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-uruguay.xml",
+    "candidate_file": "RECENSIÓN_Molina+Cáceres_corregido+por+Juana_para+ALEJANDRA-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/journal-meta/issn",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "article-id",
+          "numero",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['article-id', 'numero', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/bio"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 9,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 31,
+        "actual": 3
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile1L.xml",
+    "candidate_file": "Rossi_+para+marcado 131125-enriched-scielo.xml",
+    "similarity": 90.8,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 11,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile2.xml",
+    "candidate_file": "Rossi_+para+marcado 131125-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "volume",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'volume', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 8,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 48,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-españa.xml",
+    "candidate_file": "Rossi_+para+marcado 131125-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 151,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-peru.xml",
+    "candidate_file": "Rossi_+para+marcado 131125-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 4,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 13,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 45,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-uruguay.xml",
+    "candidate_file": "Rossi_+para+marcado 131125-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 9,
+        "actual": 5
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/back/fn-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 31,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile1L.xml",
+    "candidate_file": "Shifres Burcet marcar-enriched-scielo.xml",
+    "similarity": 91.3,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 4
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 11,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile2.xml",
+    "candidate_file": "Shifres Burcet marcar-enriched-scielo.xml",
+    "similarity": 91.0,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "volume",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'volume', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 8,
+        "actual": 4
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 48,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-españa.xml",
+    "candidate_file": "Shifres Burcet marcar-enriched-scielo.xml",
+    "similarity": 91.0,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 4
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 151,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-peru.xml",
+    "candidate_file": "Shifres Burcet marcar-enriched-scielo.xml",
+    "similarity": 91.3,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 4,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 13,
+        "actual": 4
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 45,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-uruguay.xml",
+    "candidate_file": "Shifres Burcet marcar-enriched-scielo.xml",
+    "similarity": 91.3,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 5,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 5,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 9,
+        "actual": 4
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 31,
+        "actual": 39
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile1L.xml",
+    "candidate_file": "e048_ Robles-enriched-scielo.xml",
+    "similarity": 90.9,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 11,
+        "actual": 12
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile2.xml",
+    "candidate_file": "e048_ Robles-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "volume",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'volume', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 8,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 48,
+        "actual": 12
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-españa.xml",
+    "candidate_file": "e048_ Robles-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 151,
+        "actual": 12
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-peru.xml",
+    "candidate_file": "e048_ Robles-enriched-scielo.xml",
+    "similarity": 91.2,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 4,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 13,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 45,
+        "actual": 12
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-uruguay.xml",
+    "candidate_file": "e048_ Robles-enriched-scielo.xml",
+    "similarity": 91.3,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "elocation-id",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'elocation-id', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 5,
+        "actual": 1
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 9,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 31,
+        "actual": 12
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile1L.xml",
+    "candidate_file": "marchiano martínez marcar-enriched-scielo.xml",
+    "similarity": 91.3,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 5
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 11,
+        "actual": 34
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-chile2.xml",
+    "candidate_file": "marchiano martínez marcar-enriched-scielo.xml",
+    "similarity": 91.0,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "volume",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'volume', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 8,
+        "actual": 5
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 48,
+        "actual": 34
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-españa.xml",
+    "candidate_file": "marchiano martínez marcar-enriched-scielo.xml",
+    "similarity": 91.0,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 10,
+        "actual": 5
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 151,
+        "actual": 34
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-peru.xml",
+    "candidate_file": "marchiano martínez marcar-enriched-scielo.xml",
+    "similarity": 91.3,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "fpage",
+          "lpage",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'fpage', 'lpage', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 4,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 1,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 13,
+        "actual": 5
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 45,
+        "actual": 34
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  },
+  {
+    "expected_file": "scielo-uruguay.xml",
+    "candidate_file": "marchiano martínez marcar-enriched-scielo.xml",
+    "similarity": 91.3,
+    "status": "STRUCTURE_COMPATIBLE",
+    "compatible_structure": true,
+    "differences": [
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/body"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/journal-meta",
+        "expected": [
+          "journal-title",
+          "abbrev-journal-title"
+        ],
+        "actual": [
+          "journal-title-group"
+        ],
+        "details": "Missing tags: ['journal-title', 'abbrev-journal-title']. Unexpected tags: ['journal-title-group']."
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/journal-meta/publisher/publisher-loc"
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta",
+        "expected": [
+          "numero",
+          "copyright-statement",
+          "copyright-year"
+        ],
+        "actual": [
+          "article-categories",
+          "issue",
+          "elocation-id",
+          "supplementary-material",
+          "history",
+          "permissions",
+          "trans-abstract",
+          "counts",
+          "custom-meta-group"
+        ],
+        "details": "Missing tags: ['numero', 'copyright-statement', 'copyright-year']. Unexpected tags: ['article-categories', 'issue', 'elocation-id', 'supplementary-material', 'history', 'permissions', 'trans-abstract', 'counts', 'custom-meta-group']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/article-id",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/subtitle"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/title-group/trans-title-group"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/title-group/article-title",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/contrib-group/contrib",
+        "expected": 5,
+        "actual": 2
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/contrib-id"
+      },
+      {
+        "type": "UNEXPECTED_TAG",
+        "path": "/article/front/article-meta/contrib-group/contrib/xref/sup"
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": 5,
+        "actual": 2
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/front/article-meta/aff",
+        "expected": [
+          "addr-line"
+        ],
+        "actual": [
+          "label",
+          "email",
+          "institution"
+        ],
+        "details": "Missing tags: ['addr-line']. Unexpected tags: ['label', 'email', 'institution']."
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/pub-date",
+        "expected": 2,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/self-uri",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/abstract",
+        "expected": 3,
+        "actual": 1
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group",
+        "expected": 1,
+        "actual": 3
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/front/article-meta/kwd-group/kwd",
+        "expected": 9,
+        "actual": 5
+      },
+      {
+        "type": "CARDINALITY_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": 31,
+        "actual": 34
+      },
+      {
+        "type": "STRUCTURE_MISMATCH",
+        "path": "/article/back/ref-list/ref",
+        "expected": [
+          "nlm-citation"
+        ],
+        "actual": [
+          "mixed-citation",
+          "element-citation"
+        ],
+        "details": "Missing tags: ['nlm-citation']. Unexpected tags: ['mixed-citation', 'element-citation']."
+      }
+    ]
+  }
+]

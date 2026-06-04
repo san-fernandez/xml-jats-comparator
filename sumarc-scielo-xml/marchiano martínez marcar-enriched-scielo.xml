@@ -37,35 +37,40 @@
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1837-5957</contrib-id>
+          <contrib-id contrib-id-type="orcid">0000-0002-1837-5957</contrib-id>
           <name>
             <surname>Martínez</surname>
             <given-names>Isabel Cecilia</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1">
+          <xref ref-type="aff" rid="aff01">
             <sup>1</sup>
           </xref>
-          <email>isabelceciliamartinez@gmail.com</email>
         </contrib>
         <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3686-1040</contrib-id>
+          <contrib-id contrib-id-type="orcid">0000-0003-3686-1040</contrib-id>
           <name>
             <surname>Marchiano</surname>
             <given-names>María</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1">
+          <xref ref-type="aff" rid="aff02">
             <sup>1</sup>
           </xref>
-          <email>marchiano.maria@gmail.com</email>
         </contrib>
       </contrib-group>
-      <aff id="aff1">
+      <aff id="aff01">
         <label>1</label>
-        <institution content-type="original">Universidad Nacional de La Plata, Argentina</institution>
-        <addr-line/>
+        <institution content-type="orgname">Universidad Nacional de La Plata, Argentina</institution>
+        <email>isabelceciliamartinez@gmail.com</email>
         <country country="AR">argentina</country>
+        <institution content-type="original">Universidad Nacional de La Plata, Argentina. isabelceciliamartinez@gmail.com</institution>
       </aff>
-      <pub-date date-type="pub" publication-format="electronic">
+      <aff id="aff02">
+        <label>1</label>
+        <institution content-type="orgname">Universidad Nacional de La Plata, Argentina</institution>
+        <email>marchiano.maria@gmail.com</email>
+        <institution content-type="original">Universidad Nacional de La Plata, Argentina. marchiano.maria@gmail.com</institution>
+      </aff>
+      <pub-date pub-type="epub">
         <day>10</day>
         <month>12</month>
         <year>2025</year>
@@ -152,6 +157,13 @@
         <kwd>enativismo</kwd>
         <kwd>segunda pessoa</kwd>
       </kwd-group>
+      <counts>
+        <fig-count count="7"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="34"/>
+        <page-count count="1"/>
+      </counts>
       <custom-meta-group>
         <custom-meta>
           <meta-name>section-title</meta-name>

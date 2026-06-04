@@ -33,24 +33,24 @@
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0000-7006-4067</contrib-id>
+          <contrib-id contrib-id-type="orcid">0009-0000-7006-4067</contrib-id>
           <name>
             <surname>Robles</surname>
             <given-names>Josefina</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1">
+          <xref ref-type="aff" rid="aff01">
             <sup>1</sup>
           </xref>
-          <email>josefinarobles.mt@gmail.com</email>
         </contrib>
       </contrib-group>
-      <aff id="aff1">
+      <aff id="aff01">
         <label>1</label>
-        <institution content-type="original">Hospital Infanto-Juvenil Tobar García, Argentina</institution>
-        <addr-line/>
+        <institution content-type="orgname">Hospital Infanto-Juvenil Tobar García, Argentina</institution>
+        <email>josefinarobles.mt@gmail.com</email>
         <country country="AR">argentina</country>
+        <institution content-type="original">Hospital Infanto-Juvenil Tobar García, Argentina. josefinarobles.mt@gmail.com</institution>
       </aff>
-      <pub-date date-type="pub" publication-format="electronic">
+      <pub-date pub-type="epub">
         <day>16</day>
         <month>12</month>
         <year>2025</year>
@@ -99,6 +99,13 @@
         <kwd>adolescência</kwd>
         <kwd> invenção subjetiva</kwd>
       </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="12"/>
+        <page-count count="1"/>
+      </counts>
       <custom-meta-group>
         <custom-meta>
           <meta-name>section-title</meta-name>
