@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000100099</article-id>
+         <article-id pub-id-type="publisher-id">00008</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Neutralidad de las descripciones y compromiso del investigador</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Neutrality of descriptions and commitment of the researcher</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4403-1178</contrib-id>
+               <name>
+                  <surname>Jiménez-Albornoz</surname>
+                  <given-names>Juan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Tecnológica Metropolitana, Santiago, Chile</institution>
+            <institution content-type="normalized">Universidad Tecnológica Metropolitana</institution>
+            <institution content-type="orgname">Universidad Tecnológica Metropolitana</institution>
+            <country country="CL">Chile</country>
+            <email>j.jimeneza@utem.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>64</issue>
+         <fpage>99</fpage>
+         <lpage>113</lpage>
+         <history>
+            <date date-type="received">
+               <day>21</day>
+               <month>12</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>28</day>
+               <month>02</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>La diferencia entre juicios de hecho y juicios de valor fundamenta, al mismo tiempo, la neutralidad de las descripciones y el inherente compromiso del investigador, y ello sin devaluar la validez de los juicios de valor y del compromiso. Es importante reconocer la diferencia entre aquello que funda un juicio de hecho y aquello que funda un juicio de valor. Lo que es inaceptable -tanto como juicio de hecho como juicio de valor- es la pretensión de derivar recomendaciones neutrales solo desde los hechos, la idea tecnocrática de una intervención que no requiere compromiso. No existe tal cosa como una acción neutral y el reino de la neutralidad se reduce solo a la descripción.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The distinction between facts judgments and value judgments is the basis, at the same time, of both the neutrality of descriptions and the inherent commitment of the researcher, without devaluing the validity of value judgments. It is relevant to acknowledge the difference between what grounds a fact judgment from what grounds a value judgment. What is invalid -as fact judgment and as value judgment- is the attempt to generate neutral recommendations only from facts, the technocratic idea of an intervention that do not involves commitment. There is no such thing as a neutral action, and the real of neutrality is reduce only to description.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>neutralidad valorativa</kwd>
+            <kwd>compromiso</kwd>
+            <kwd>juicios de hecho</kwd>
+            <kwd>juicios de valor</kwd>
+            <kwd>positivo normativo</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>value neutrality</kwd>
+            <kwd>commitment</kwd>
+            <kwd>fact judgments</kwd>
+            <kwd>value judgments</kwd>
+            <kwd>positive normative</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="22" />
+            <page-count count="15" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>1. Introducción</title>
+         <p>La distinción entre los juicios de hecho y juicios de valor ha sido muy discutida en ciencias sociales. Muchos autores la rechazan puesto que la neutralidad valorativa que deriva de ella sería incompatible con una investigación comprometida o implicaría negar que los juicios de valor sean juicios fundados. Entonces, dado que los valores siempre están (y deben estar) involucrados en la investigación, la pretensión de un espacio neutral sería invalida e indeseable.</p>
+         <p>El presente artículo defiende que la distinción de juicios de hecho y juicios de valor es una distinción correcta, y por lo tanto lo es también el requerimiento de neutralidad valorativa. Defiende, también, que ello no afecta la validez o carácter necesario del compromiso. Esto porque la neutralidad de las afirmaciones se da al mismo tiempo que el compromiso de las acciones. El hecho y el valor se mezclan e integran en los juicios concretos, lo cual no obsta para que se los pueda distinguir porque las consideraciones que están detrás de cada uno de ellos son diferentes. En la primera sección defenderemos la afirmación que la neutralidad de los enunciados es verdad. En la sección siguiente mostraremos que es con el compromiso del investigador. En la tercera sección postularemos que la idea de una intervención neutral, la posición tecnocrática básica, es equivocada y que una correcta comprensión de la exigencia de neutralidad es antitecnocrática.</p>
+      </sec>
+      <sec>
+         <title>2. El requerimiento de la neutralidad de la descripción</title>
+         <p>Resulta usual en sociología buscar el origen de la idea de neutralidad en los escritos de Weber. Sin embargo, la posición weberiana -con su mezcla de neokantismo e ideas de Nietzsche- no es la más adecuada para ello. La posición de neutralidad se fundamenta de mejor forma desde Hume, y en su versión de la distinción entre juicios de hecho y juicios de valor: “In every system of morality, which I have hitherto met with, I have always remark’d, that the author proceeds for some time in the ordinary way of reasoning, and establishes the being of a God, or makes observations concerning human affairs; when of a sudden I am surpriz’d to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is, however, of the last consequence. For as this ought, or ought not, expresses some new relation or affirmation, ’tis necessary that it shou’d be observ’d and explain’d; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it” (Hume, Treatise of Human Nature 3.1.1).</p>
+         <p>Hume formula la distinción como una diferencia entre ‘ser’ y ‘deber ser’. Pensar la ética de esta forma es muy particular, y ocurre en el pensamiento occidental a través de una transformación de largo plazo que produjo “l’introduction successive du devoir comme concept fondamental de l’éthique” (Agamben 2016:767) a partir de la concepción del sacerdocio (del oficio). ¿Se mantiene la importancia de la distinción de juicios de hecho y juicios de valor si se piensa la ética desde otros parámetros? Varias de las mejores críticas a la distinción tienen índole aristotélica (como Gorski o MacIntyre en años recientes) piensan, precisamente, desde otros parámetros la ética. Sin embargo, como se observará en el transcurso del texto, la diferencia de juicios de hecho y juicios de valor no depende mayormente de cómo se concibe la ética: Podríamos reemplazar el ‘ought’ en la cita de Hume por otros términos morales sin cambiar el punto.</p>
+         <p>Como cualquier posición filosófica relevante, la frase de Hume ha sido interpretada de diversas formas. La interpretación que seguiremos aquí es bastante sencilla e intenta limitarse a algo que aparece literalmente: que en un razonamiento dado se introduce una nueva circunstancia (el que algo deba ser) que es distinta de la afirmación de hecho. “Value conclusions cannot be derived solely from factual assumptions: one or more value principles must also serve as premises” (Hammersley 2017:5, quien interpreta de ese mismo modo la idea de neutralidad valorativa a partir en su caso de Weber). Transitar desde un juicio de hecho a un juicio de valor requiere añadir una consideración de valor. La mera descripción es neutral en términos valorativos porque la sola descripción no tiene elemento normativo alguno.</p>
+         <p>Interpretada así se puede mostrar que (a) algunas de las principales críticas aducidas en contra de la distinción no aplican y que (b) la tesis entendida de esa forma es correcta, o al menos se adecua a las formas en que efectivamente argumentamos.</p>
+         <sec>
+            <title>2.1. La idea de neutralidad es compatible con las transiciones argumentativas entre asuntos de hecho y asuntos de valor</title>
+            <p>Se plantea en ocasiones que la idea de neutralidad se invalida dado que en las discusiones éticas usamos afirmaciones de hecho, y muchas veces obtenemos conclusiones normativas desde situaciones de hecho. En última instancia, ocurre “that values are fact laden. In other words, our values have an experiential basis” (Gorski 2013:543). Se ha aducido en relación con la medición, algo que está asociado al acto de describir, que “the relation between measure and value is necessarily circular – better, entangled” (Brighenti 2017:25).</p>
+            <p>Así en una discusión sobre si los animales tienen derechos, aduciremos, por ejemplo, el hecho empírico que los animales sienten. Usando argumentos más formales, la ética de la liberación de Dussel, en particular su principio material (que el viviente debe elegir la vida), usa un argumento que transita desde un juicio de hecho (X tiene hambre) al juicio de valor (X debe comer), mostrando que ésta es una transición natural y bien fundamentada. El mismo Hume inicia su Enquiry concerning the principles of morals con una discusión empírica sobre los juicios de valor que los seres humanos tienen en la realidad, y a partir de ello desarrolla su teoría. Podrían darse sin dificultad más ejemplos.</p>
+            <p>Luego, una separación completa entre juicio de hecho y juicio de valor es insostenible. Por lo tanto, podría preferirse una propuesta que “it argues that the descriptive and the normative are always complexly entangled. Rather than trying to keep the two apart, I argue, a critical social science should attend explicitly and systematically to their interrelationship” (Gorski 2017:424).</p>
+            <p>Sin embargo, la integración no refuta la distinción, puesto que nada obliga a entender dicha distinción como una separación que prohíba transitar desde juicios de hecho a juicios de valor. Reconocer su imbricación no implica fusionarlas: “Mais que science et idéologie scientifique soient ainsi emmêlées, imbriquées, enchâssées l’une en l’autre ne signifie pas qu’il faille se résigner à leur confusion” (Olivier de Sardan 2008:326). Al fin y al cabo, postular que A es distinto de B no implica que A no tiene relación con B.</p>
+            <p>La tesis, como se mencionó anteriormente, solo requiere la afirmación que la transición del hecho al valor requiere agregar adicionalmente premisas de valor: que ser capaz de sufrimiento funda un derecho a ser tratado como sujeto de derecho, que la vida es el valor basal de toda ética posible, o que los sentimientos morales comunes de la humanidad son premisas básicas irrecusables. El hecho que basemos el juicio de valor (X es malo) en una consideración de hecho (consideramos que X es malo porque se asocia a Y) no refuta la tesis porque ese paso de la consideración de hecho a la afirmación de valor requiere de una premisa normativa (Y es malo). Esta última premisa no se deriva del hecho, pero es necesario agregarla para que se genere la consecuencia normativa. Más en general, que Dussel realice esa conexión reconociendo la validez de la distinción humeana, o que el mismo Hume realice esa transición en su argumentación, muestran de manera suficiente por qué la integración no refuta la tesis.</p>
+         </sec>
+         <sec>
+            <title>2.2. La neutralidad es compatible con la idea que la realidad social incluye de forma intrínseca una evaluación</title>
+            <p>Un segundo argumento en contra de la distinción entre juicio de hecho y juicio de valor es que toda realidad, en particular la realidad social, incorpora de manera intrínseca una valuación. Las prácticas sociales deben poder diferenciar lo que está bien de lo que está mal hecho. Las valoraciones son, por lo tanto, parte de las descripciones de la realidad social. Esta unión es tan estrecha que en ocasiones no describir con términos evaluativos es falsear la descripción. Como planteaba Arendt, no usar términos como ‘infierno’ para referirse a la situación de Auschwitz es una forma de no describir Auschwitz.</p>
+            <p>En ocasiones esa valoración inscrita se usa para validarla, en otras lo que se hace es criticar la normatividad que conlleva la realidad. Esta diferencia se basa, muchas veces, en una diferencia en la concepción de las prácticas: cuando se piensa en la práctica sin enfatizar la dominación, se tiende a validar su valoración implícita; cuando se enfatiza que la práctica emerge de una dominación, entonces se critica ese mundo, y “las ciencias sociales proveen de guías para la acción en un contexto emancipatorio” (Scribano 2014:75). Esta discusión no es algo que interese solo a los estudiosos, también opera al interior de la vida social: corresponde a la diferencia entre el registro confirmatorio y el crítico en la sociología pragmática de la crítica de Boltanski. Las diferencias sobre la valoración son, en sí mismas, parte de cómo se experimenta la vida social.</p>
+            <p>El hecho que una misma circunstancia (que una práctica implique valores) tenga lecturas normativas tan distintas podría demostrar, prima facie, que lo normativo no puede derivarse directamente desde lo descriptivo. Puede retrucarse a ello que la principal diferencia ocurre en un nivel descriptivo, empírico (sobre el papel de la dominación en las prácticas), y luego sería compatible con la idea que la consideración normativa se derive de la empírica. Además, puede argüirse que la postura crítica suele denunciar la realidad existente en nombre de una realidad más profunda, y no es una exigencia ética ‘caída del cielo’. Para usar textos clásicos, cuando Horkheimer en la Crítica de la razón instrumental denosta la subjetivización de la razón y defiende una ’razón objetiva’ está hablando en nombre de la realidad; cuando en la Dialéctica de la ilustración se llama a evitar el error de la Ilustración real y su lógica puramente instrumental de dominio, también ello se hace desde una realidad (desde el punto de vista de la realidad reconciliada). Una cita más reciente que intenta sintetizar la teoría crítica tiene el mismo tenor: Ella sería la teoría que intenta “poder descifrar y exponer el horizonte normativo presente ya en interacciones, procesos e instituciones sociales y el modo en que dicho horizonte se realiza y se niega en las sociedades contemporáneas” (Leyva y Sampaio de Madureira 2012:323).</p>
+            <p>El caso es que siendo cierto que lo normativo es parte intrínseca de la realidad social, ello no prueba lo que se quiere probar, la indiferenciación entre lo empírico y lo normativo. Resulta siempre posible diferenciar el reconocimiento empírico de una valoración (‘sucede que X es valorado en el contexto de Y’) de tomar parte sobre esa valoración (‘estimo que X (no) debe ser valorado en ese contexto’). Esta separación se mantiene incluso si uno acepta el argumento, de índole habermasiana, que “entendemos un acto de habla cuando sabemos qué lo hace aceptable” (Habermas 2010:344). En última instancia, puedo comprender por qué de X puede derivarse Y, sin necesariamente aceptar o negar la validez de X (o incluso de la transición como tal: entender por qué se pasa de X a Y no implica aceptar como válido ese paso).</p>
+            <p>Esta separación entre la comprensión y la valoración salta a la vista cuando estudiamos prácticas con las cuales no compartimos sus valoraciones: podemos entender por qué se valora X (cuáles son las condiciones que hacen de X una buena realización de esa práctica), sin que necesariamente valoremos dicha práctica y acción. Comprender la práctica del sacrificio entre los aztecas implica comprender cómo al interior de ella se pasa ‘del ser al deber ser’ (como del hecho: ‘he aquí un prisionero’ se obtiene la conclusión ‘he aquí alguien que debe ser sacrificado’); pero eso no implica que la persona que está analizando dicha práctica tenga que, a su vez, aceptar esa transición.</p>
+            <p>Para recuperar el carácter intrínseco positivo de la práctica, y negar lo anterior, cabe definir práctica como algo positivo. Así, ellas pueden ser “understood as syntheses of particular activities and relationships – those that enable human flourishing” (así Davydova y Sharrock 2003:368 describen la postura de MacIntyre que, en su After Virtue, hace una de las principales recuperaciones recientes de una ética aristótelica). Lo anterior puede ser impecable normativamente, pero resulta inútil empíricamente: todo lo que MacIntyre ha argumentado en torno a que una práctica tiene inscrita una valoración intrínseca sigue siendo válido para actividades que no permitan el florecimiento humano, aquellas a las que niega el estatuto de práctica, y también sucede que para comprenderlas se debe comprender sus valoraciones intrínsecas.</p>
+            <p>Sigue ocurriendo que para poder extraer una conclusión normativa de esos reconocimientos de normatividad de la práctica, se requiere agregar un postulado normativo adicional. Del hecho que existan valoraciones interiores a la práctica no se sigue nada de manera directa en lo normativo (ya sea para un observador o para un participante que todavía puede criticar o aceptar ello). Así, en el caso de Boltanski, su postura que “la position méta critique considéra donc à tirer parti du point de vue des actors, c’est-à-dire à prendre appui sur leur sens moral” (Boltanski 2009:56), requiere una premisa adicional, que no proviene del solo hecho que los actores tienen actitudes y capacidades para la crítica.</p>
+            <p>Esta necesidad de una premisa normativa adicional también aparece en la diferencia basal entre una aproximación naturalista y una crítica. La idea, mencionada anteriormente, que la diferencia entre ellas es solo un asunto empírico es incorrecta, puesto que es a través de enunciados normativos que la diferencia empírica tiene consecuencias: la premisa que la dominación es negativa es la que permite pasar de constatar que una determinada práctica tenga como base la dominación a criticar dichas prácticas. De la realidad ya sea como ser, potencial u horizonte no se sigue ningún juicio de valor, a menos que agregue una valoración a ese ser, a ese potencial o a ese horizonte.</p>
+            <p>En este punto es necesario enfatizar que una correcta visión descriptiva de esa normatividad implica observarla como normatividad. Pero, al respecto “it seems fair to say that mainstream sociology has grown sceptical of its own ability to think the normative as normative” (Chernilo 2014:349): tanto entre quienes piensan lo normativo como un hecho no moral como quienes introducen lo normativo de manera militante, pero como compromiso exógeno, no existe el espacio para pensar normativamente lo normativo. La sociología crítica de Bourdieu, por ejemplo, no solo no puede explicar sus propias elecciones normativas, ni siquiera puede introducir la moral qua moral en sus análisis: “But Bourdieu does not conceptualise normativity sociologically; normative ideas are not included as an actual dimension of the social world because conflict and power struggles are deemed enough for a fully formed ontology of the social” (Chernilo 2017:9). Incluso si solo se observa lo normativo, debe ser reconocido como normativo, al decir de Kant en la Crítica de la razón práctica que hay tal cosa como el hecho de la moral (lo normativo qua normativo existe).</p>
+            <p>En conclusión, el hecho que una práctica tenga una valoración inscrita no afecta la diferencia entre una descripción de ella y su valoración.</p>
+         </sec>
+         <sec>
+            <title>2.3. La diferencia entre los juicios de hecho y los juicios de valor</title>
+            <p>Las consideraciones anteriores muestran que las principales críticas no refutan la tesis, sin embargo, no la hemos fundamentado. A continuación, realizaremos dicha tarea.</p>
+            <p>Una primera observación se basa en las diversas formas de las transiciones entre juicios de hecho y juicios de valor, puesto que hay una asimetría al respecto: la posición que de un enunciado de hecho (X sucede) es posible derivar conclusiones normativas (X es bueno) tiene un apoyo relevante. Pero pocos defenderían que dada una afirmación normativa (X es bueno) se siga un enunciado de hecho (X sucede). Esta asimetría muestra, por sí misma, que estamos ante dos tipos de enunciados distintos. En ocasiones, en particular cuando el criterio normativo es universal o nos parece obvio, usamos esas transiciones de manera implícita y actuamos como si la descripción ya contuviere una evaluación (si estamos de acuerdo en que cuando pasa X es malo, entonces describir a algo con X implica connotarlo negativamente). Sin embargo, dicha premisa no deja de existir, ni perder su carácter normativo, simplemente porque nos parezca obvia. Es por ello que la objeción sobre que se requiere describir Auschwitz como un infierno no afecta la distinción. Compartimos y juzgamos necesaria la ética bajo la cual describir a Auschwitz como infierno es la única descripción real, pero no por ello deja de existir un postulado ético.</p>
+            <p>De hecho, la importancia de la diferencia queda incluso más clara al observarla como discusiones de enunciados que integran elementos descriptivos y normativos. El aserto ‘los conquistadores españoles produjeron un genocidio en las poblaciones de los pueblos originarios en América’ integra tanto un juicio de hecho como un juicio de valor: no se dice genocidio sin condenarlo. Ahora bien, el camino de discusión del aserto es distinto si se ponen en juego consideraciones empíricas o normativas. Si aduzco que no fue genocidio porque no hubo voluntad de exterminio o los causantes fueron las enfermedades, la discusión procederá a través de juicios de hecho, sin que los elementos normativos sean relevantes para validarlos: las preguntas serán entonces sobre si existió dicha voluntad o sobre las causas de la debacle demográfica. En este caso, la línea puramente normativa sobre el juicio que el genocidio es negativo no se sigue, dado que ella es afirmada universalmente -no hay actor que lo niegue.</p>
+            <p>Ahora bien, resta una respuesta que de nuevo combine elementos de hecho y de valor, como el aserto ‘bajo las ideas de la época esos comportamientos eran normales y por eso no debemos criticar a los conquistadores’. De nuevo ocurre aquí que puedo distinguir líneas de discusión de hecho y líneas normativas. Puedo examinar si de hecho era verdad que bajo las ideas de la época esa conducta se justificaba (por ejemplo, puedo negar que así fuera y recordar el debate de la Junta de Valladolid en 1550-1551) o puedo hacer la pregunta normativa si es excusa válida plantear que fueron las ideas de la época (¿sirve para excusar una conducta que juzgamos no ética el que fuera un juicio usual en ese tiempo?). Podría aquí responderse de nuevo con una afirmación que integrara elementos de hecho y de valor, pero de nuevo podríamos distinguir las consideraciones al discutir. No hay afirmación integrada en la cual sea imposible distinguir consideraciones descriptivas y normativas al discutir sus condiciones de validez.</p>
+            <p>En conclusión, los elementos que sirven para validar un elemento de hecho son distintos de los elementos que sirven para validar un elemento de valor, aunque sean parte de la misma afirmación. Este significado ‘operacional’ de la distinción muestra su importancia y que no estamos ante un prurito solo teórico, sino que tiene consecuencias prácticas.</p>
+            <p>Además, y ahora salimos de los hechos para pasar a valores, la pretensión de obtener de manera directa consecuencias normativas desde una afirmación de hecho tiene consecuencias normativas indeseables. El mundo no está bajo ninguna obligación de ajustarse a creencia normativa alguna. No es el caso, pero bien pudiera serlo, que existan ‘razas desiguales’. Si se pueden obtener directamente consecuencias éticas de un asunto de hecho, si el hecho fuera la desigualdad, entonces podría justificarse un tratamiento desigual de personas de distintas ‘razas’. Ahora, si se sigue la distinción entre juicios de hecho y juicios de valor no hay tal consecuencia: nada que suceda en el mundo cambia la exigencia ética de tratar a todos como iguales sujetos en derechos. Como decía Arendt, en general es un hecho empírico que somos desiguales, lo que no obsta para tratarnos como iguales al construir comunidad: “The equality attending the public realm is necessarily an equality of unequal who stand in need of being ‘equalized’ in certain respects and for specific purposes” (Arendt 1958:215).</p>
+            <p>La asimetría en las transiciones y las distintas cadenas de razonamiento fundamenta la validez empírica de la distinción, y las consecuencias normativas problemáticas muestran porque debiéramos insistir en ella. Es importante insistir que la tesis de la neutralidad de la descripción es como tal una tesis de hecho: no estamos ante un deber ético, que puede ser muy complejo de realizar, por ejemplo “que la objetividad y la neutralidad valorativa no son algo dado, sino una conquista difícil y siempre provisoria” (Solari 2011:187), sino ante una simple constatación de que las consideraciones relevantes para lo empírico y las relevantes para lo normativo son distintas. El deber normativo es el de atenerse a la distinción y no intentar pasar elementos de hecho como si fueran de valor, y viceversa; pero ese deber no afecta a la existencia de la distinción.</p>
+         </sec>
+         <sec>
+            <title>2.4. Un límite en la distinción entre juicios de hecho y juicios de valor: la idea de validez en la investigación</title>
+            <p>Los argumentos usados para defender la distinción usan la noción de validez, ahora bien, ¿no es la idea de validez una que muestra la imposibilidad de distinguir el valor del hecho? La idea misma de inferencia válida implica una evaluación, y bien puede decirse que no hay forma de evitar que la palabra verdad tenga una buena evaluación. Estos serían casos claros de ‘conceptos éticos densos’ los cuales “when used properly –this is the crucial point– they are both factual and evaluative” (Gorski 2013:547).</p>
+            <p>Ninguno de los contraargumentos aducidos en estas páginas aplica para este caso. No se podría aducir que esa relación entre juicio de valor y juicio de hecho nos parece tan directa simplemente porque estando de acuerdo con la posición ética la transición es implícita. Esto porque la valoración sería intrínseca al hecho en cuestión: el presunto juicio ético implícito ‘una inferencia válida es buena’ ya está agregado siempre cuando se dice ‘inferencia válida’. Tampoco valdría observar la ocurrencia de ese juicio de valor sin compartirlo, porque compartir esos juicios de valor es necesario para toda comunicación: no se puede conversar con quien no asume que una ‘inferencia válida es buena’. Borges, en su texto ‘Avatares de la Tortuga’, refiere una historia de Lewis Carroll, en el cual la persona observa una inferencia, pero rechaza obtener la conclusión, y como ello lleva a un regreso infinito. No podemos dejar de pensar que quien hace esa exigencia está siendo irrazonable.</p>
+            <p>Responderemos a ello al final del artículo, porque dicha respuesta usa una conclusión de la sección tercera: que la idea de una acción neutral es un oxímoron -y esto se deduce de la idea de neutralidad de las descripciones-, y es porque estamos hablando de la acción y práctica de investigar o describir (y no solamente de su resultante, una descripción) que ‘inferencia válida’ es equivalente a ‘inferencia válida es buena’. Ello es compatible con la tesis porque aquí ya estamos en el reino de las acciones y no el de las descripciones, y la acción requiere compromisos, que es lo que será defendido en las secciones siguientes.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>3. El requerimiento de neutralidad no se opone al compromiso valorativo</title>
+         <p>Una de las críticas tradicionales a la postura de la neutralidad es que implicaría un rechazo a todo compromiso por parte del investigador. Tomar cualquier compromiso evitaría cumplir con la mirada neutral que requiere el análisis. Incluso si se acepta que el compromiso pudiera ser compatible con la neutralidad, se prosigue devaluando el compromiso, transformándolo en mera elección sin razón, en mero emocionalismo: para usar un ejemplo clásico, Weber mismo plantea en El sentido de la neutralidad valorativa de 1917, uno de sus ensayos metodológicos tardíos, que incorporar de manera abierta elementos valorativos en textos descriptivos resultaba adecuado porque “un fuerte acento emotivo permite al menos que el propio oyente aprecie la subjetividad de la valoración de su profesor” (Weber 1977:223). Lo que valor implica para Weber (emoción subjetiva) es claro.</p>
+         <p>En esta sección rechazaremos ambas críticas. Es plenamente compatible con la idea que las descripciones son neutrales el compromiso por parte del investigador o que el juicio de valor sea un juicio fundado. En cualquier caso, es necesario recordar que los críticos tienen razón en que una parte importante de los defensores de la neutralidad sí han defendido esas posiciones. Es por ello relevante el refutar esas confusiones.</p>
+         <sec>
+            <title>3.1. La posición de la neutralidad no implica eliminar el compromiso del investigador</title>
+            <p>Uno de los primeros textos que hablan desde una perspectiva de análisis social es el panfleto de quien ha sido llamado el Viejo Oligarca (mucho tiempo adscrito a Jenofonte, pero en la actualidad se lo piensa apócrifo) en el siglo V antes de nuestra era. Un análisis fuertemente crítico, y desde una perspectiva aristocratizante, de la democracia ateniense. ¿Por qué decimos que tiene una perspectiva de ciencia social? Citemos parte del inicio: “Pues bien, sobre el sistema político de los atenienses, el que hayan elegido este tipo de sistema político no lo apruebo por lo siguiente: porque al elegirlo optaron por que los plebeyos estén mejor que los aristócratas: ésta es justamente la causa por la que no lo apruebo. Pero una vez que les pareció que así debía ser, les demostraré que preservan bien su sistema político y ejecutan bien las otras cosas en las que los otros griegos creen que ellos se equivocan” (seudo-Jenofonte, La República de los Atenienses 1,1).</p>
+            <p>La distinción entre la evaluación, negativa, y el análisis, cómo se preserva ese tipo de gobierno, está expuesta con claridad. Frente a las críticas puramente normativas de sus contemporáneos a la democracia, lo que plantea el texto es que hay un hecho relevante -ese régimen subsiste- que hay que explicar, y del cual una perspectiva puramente normativa no puede dar cuenta. La razón por la cual se necesita una perspectiva analítica ya es clara en este primer texto de análisis social.</p>
+            <p>Dado que no compartimos la visión crítica del Viejo Oligarca, la diferencia entre el análisis y del compromiso aparece con facilidad: es trivial distinguir las frases críticas del texto (todas las referencias a lo perverso que es que los pocos y nobles no gobiernen y que sí lo hagan los muchos y sin valor) del análisis empírico (por ejemplo, cuando expone la relación entre poder naval y democracia en Atenas). A su vez, es fácil observar que el juicio sobre sus explicaciones y sobre sus evaluaciones puede ser diferente: compartir (o no) el análisis es independiente de si compartimos (o no) su crítica aristocratizante.</p>
+            <p>Los juicios empíricos siguen siendo neutrales -siguen siendo juicios que se evalúan solo por su relación con los hechos- incluso en un texto que es abiertamente comprometido. Lo que hemos mostrado en este primer texto de análisis se puede mostrar con muchos otros. El mismo Weber, el principal adalid de la neutralidad, como cualquier lector de la Ética protestante es bien consciente, bien podía también incluir juicios evaluativos en sus textos. Ahora bien, esas consideraciones normativas no son relevantes para el resto del análisis de Weber: las razones para criticar o defender la tesis sobre la relación entre la ética protestante y el espíritu del capitalismo en el siglo XVII son diferentes de aquellas que se requieren para validar sus reflexiones sobre la jaula de hierro.</p>
+            <p>Esta plena compatibilidad entre neutralidad y compromiso permite, a su vez, integrar otra crítica usual: la idea que es a través de un compromiso que se pueden analizar ciertos aspectos, que los estudios ‘neutrales’ no analizarían. Hobsbawm argumenta, por ejemplo, a propósito de los beneficios para el estudio del intelectual comprometido que: “partisan intellectuals may be the only ones ready to investigate problems, or subjects which (for ideological or other reasons) the rest of the intellectual community fails to consider. The history of the British labour movement until late in the twentieth century was overwhelmingly in the hands of people who sympathized with it -from Sidney and Beatrice Webb onwards- because hardly any ‘orthodox’ historians took any serious interest in it until well after the Second World War” (Hobsbawm 1997:134). Se podrían entregar ejemplos más recientes en el caso de estudios de género o poscoloniales que muestran el mismo punto.</p>
+            <p>El aserto es correcto, pero no es incompatible con la neutralidad. Como ya hemos dicho, ésta solo exige diferenciar las tareas orientadas a establecer cómo un juicio de hecho es correcto de aquellas que establecen cómo un juicio de valor es correcto. Al fin y al cabo, Weber ya decía que la elección de un tema era algo influenciado por valores, y no por ello dejaba de mantener su tesis de neutralidad. Es por lo que alguien como Rita Segato, quien defiende la necesidad y utilidad del compromiso del investigador, puede plantear una frase muy weberiana: “Si en este segundo momento [de observación] la posición del observador es, sí, ‘neutra’ y lo más objetiva posible, en el primer momento [elección del tema] su posición es plenamente política” (Segato 2015:15). Ello ocurre porque esto no afecta la idea basal de la neutralidad.</p>
+            <p>Entonces, el compromiso del investigador y la neutralidad del análisis son elementos compatibles; ya estando plenamente integradas en lo que se puede declarar es uno de los primeros textos del análisis social. Para usar otros términos: “Que la sociología sea value free no significa que el sociólogo lo sea” (Solari 2011:186). La neutralidad de la descripción (de la sociología) y el compromiso del investigador (del sociólogo) son asuntos separados; y por ello puede integrarse en un mismo texto descripciones neutrales y compromisos normativos.</p>
+         </sec>
+         <sec>
+            <title>3.2. La posición de la neutralidad no implica devaluar el compromiso del investigador</title>
+            <p>Una segunda crítica que se aduce en contra de la idea de neutralidad es que de aceptarse la distinción se seguiría que las afirmaciones éticas, aquellas que fundamentarían cualquier compromiso, serían de menor valor. El uso de la expresión valor no es casual: sucede que se discute sobre la distinción en términos normativos. Volveremos a esta aparente contradicción más adelante.</p>
+            <p>Gorski al revisar posiciones de defensores de la neutralidad nos recuerda que para muchos de ellos: “Values were quite a different matter. They were held to be fundamentally irrational and subjective. On this subject philosophy had little to say, strictly speaking, the idea of ‘moral philosophy’ was a contradiction in terms. To say ‘X is good’, said the positivists, is tantamount to shouting ‘Hurray X!’. To say ‘X is bad’, is equivalent to exclaiming ‘Boo X” (2017:424).</p>
+            <p>Muchos de los críticos también comparten la idea que distinguir entre juicios de hecho y de valor tiene esa consecuencia, y ello está entre los motivos para criticarla. Así Davydova y Sharrock plantean que una consecuencia es reducir el valor a la subjetividad y preferencias no objetivas: “The first type of judgments [juicios de hecho] may be verified, for they may be tested against empirically given facts, which can be agreed amongst observers, but the bedrock of the second is individual preference only” (2003:358, paréntesis cuadrado añadido). En otro caso, se nos plantea que una consecuencia de la distinción sería un subjetivismo ético sin razones: “Moreover, if we knew that [ausencia de relación ente hecho y valor], the effect might well be a kind of deeply demoralized cynicism or scepticism, because we would know that ‘anything goes’ with regard to value, since value amounts to no more than projected feelings and desires” (Jacobs 2013:569, paréntesis cuadrado añadido).</p>
+            <p>Sin embargo, la distinción como tal no tiene esa consecuencia. Ella se da solo bajo las ideas del positivismo: es bajo ellas que las únicas afirmaciones que tienen fundamento o tienen sentido son aquellas reducibles a juicios de hecho, y por lo tanto el juicio de valor sería devaluado. Usando el ejemplo del final del Tractatus de Wittgenstein, el paso de “El sentido del mundo tiene que estar fuera de él. En el mundo todo es como es y todo sucede como sucede; en él no hay valor alguno, y si lo hubiera carecería de valor” (6.41) a “Por eso tampoco puede haber proposiciones éticas” (6.42) requiere la teoría sobre la proposición de ese texto. Para quien no asume esa teoría, el ’por eso’ está de más -no hay forma de llegar directamente del 6.41 al 6.42. La confusión entre la distinción entre hecho y valor con esta posición positivista ha ocurrido en otras tradiciones, y así en economía podemos ver algo similar: “For logical positivists, ethics is non-cognitive and meaningless. However, for Robbins, as for both Mill and Keynes, ethics is not meaningless; it plays an essential role in economic policy analysis” (Colander y Su 2015:161).</p>
+            <p>Sin usar la premisa positivista, entonces del puro hecho de la diferencia entre juicio de hecho y de juicio de valor no se sigue nada en relación con la racionalidad, objetividad o universalidad de los juicios de valor (de hecho, ni siquiera para la aplicación de esos atributos a los juicios de hecho). Nada en el argumento de la distinción requiere pensar que no exista tal cosa como un razonamiento ético objetivo, y ella es compatible con la afirmación que existan razones diferentes a las de hecho con las cuales se pueden fundamentar juicios de valor. La tesis solo tiene como consecuencia que las consideraciones para fundamentar un juicio de hecho no son las mismas de aquellas que fundamentan un juicio de valor, pero es independiente de cualquier posición sobre el razonamiento ético como tal.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>4. La neutralidad no se opone al compromiso, se opone a la idea de una acción neutral</title>
+         <p>La discusión sobre neutralidad es también una discusión sobre qué se puede decir sobre la acción desde la ciencia o desde la descripción. A este respecto argumentaremos que (a) defender la idea de una acción neutral, la idea tecnocrática, es incompatible con la tesis de neutralidad defendida aquí y (b) que el intento de buscar fundamentar la acción desde la ciencia produce problemas normativos.</p>
+         <sec>
+            <title>4.1. La neutralidad de las descripciones es incompatible con la neutralidad de la acción</title>
+            <p>Una tendencia de muchos defensores de la neutralidad es intentar construir un espacio neutral para la acción: que es posible establecer la mejor acción sin hacer referencia o sin comprometerse con un valor. Entre los clásicos de la sociología podemos observar dos posiciones contrastadas al respecto, pero en ambos se genera, finalmente, un espacio neutral en la acción.</p>
+            <p>Existe, por un lado, la posición weberiana, como se muestra en textos como La ciencia como vocación o en su formulación canónica en el ensayo La objetividad cognoscitiva de 1904: “Una ciencia empírica no puede enseñar a nadie qué debe hacer, sino únicamente que puede hacer y, en ciertas circunstancias, que quiere” (Weber 1977:44). Así se diferencia entre el campo técnico, donde opera el investigador, sin vinculación con compromiso alguno, del campo de los valores y el político, solo depositario de campo de los fines; y quien recomienda no estaría adscrito a cualesquiera fines que estén en la recomendación.</p>
+            <p>Durkheim -y de hecho en Las reglas del método sociológico, que es un texto anterior a los de Weber- hizo una clara réplica a ello: si la ciencia no puede decir nada de los fines, tampoco puede decirnos mucho sobre qué medio elegir: “Pourquoi nous recommanderait-elle la plus rapide de préférence à la plus économique, la plus sûre plutôt que la plus simple, ou inversement?” (Durkheim 2013:48). Más aún, la diferencia medios/fines no permite separar un espacio técnico, puesto que lo que es fin en una acción puede ser medio en otra, y así sucesivamente. Una ciencia neutral no puede recomendar acciones. Frente a ello, entonces Durkheim busca derivar recomendaciones prácticas desde la ciencia; y para ello negará la distinción entre juicio de hecho y juicio de valor. Intenta entonces derivar desde los hechos un criterio de lo bueno y de lo malo, y lo hace a través de la diferencia entre lo ‘normal’ y lo ‘patológico’ -con la premisa, que al menos en el caso de Durkheim es defendida, que lo normal es bueno y deseable.</p>
+            <p>Estas tesis, aunque contradictorias, comparten la búsqueda de un espacio para la acción que no dependa de criterios normativos, que pueda derivarse solo de un examen de hechos. Esa conclusión común es equivocada.</p>
+            <p>No hay espacio en la acción que pueda ser pensado como ajeno al compromiso. Una acción requiere una toma de postura (X es mejor que Y) y la idea base de la tesis de la neutralidad es que nada en la pura descripción permite pasar a la acción sin agregar una premisa normativa. En otras palabras, la idea que la acción no puede ser neutral es una consecuencia de la idea de neutralidad de la descripción. Las descripciones son neutrales (por lo tanto: ‘que X sea el hecho no implica en sí compromiso normativo alguno’) y la acción neutral es imposible (toda acción que se desprenda de reconocer que ‘X es el hecho’ implica añadir un elemento evaluativo). El intento de Durkheim esconde que la premisa que le permite generar su recomendación es normativa, y una que de hecho resulta discutible. Como han enfatizado Davydova y Sharrock, en relación con uno de los caminos que siguió esta visión de lo normal como equivalente a bueno después de Durkheim: “the sociologist’s verdict that morality really is whatever people of a society treat as morality is in itself, and inevitably so, a moral judgment (repellent to many)” (2003:372). Ahora, del juicio empírico X ‘en tal contexto Y es considerado moral’ y del juicio metodológico ‘estudiar la moralidad implica analizar los juicios empíricos X’ no se sigue ningún juicio ético. Lo que es neutral es la descripción, y en cuanto se sale de la descripción dicha neutralidad se pierde.</p>
+            <p>Lo que rechaza la idea de neutralidad de las descripciones es lo mismo que rechazan los defensores del compromiso: la idea de una intervención neutral y la falsa consolación de la tecnocracia. Esta última intenta pasar de contrabando un juicio moral como un juicio empírico, como si fuera posible hacer recomendaciones prácticas sin compromiso ético. Se intenta participar de la acción sin hacerse cargo de las tensiones y responsabilidades que la acción requiere, que es lo que la transforma en una falsa consolación. Si el investigador pasa al campo de la acción, y la recomendación técnica implica ese paso, entonces ha ido más allá de la neutralidad.</p>
+            <p>Cabe una respuesta a lo anterior: la postura bajo la cual el técnico asume los fines dados por otros y no es responsable subjetivamente de ellos: ‘Si se quiere hacer X, recomiendo hacer Y; pero yo no opino sobre ese querer hacer X’. E incluso este asumir los fines de otros puede presentarse como éticamente correcta, así entre economistas que piensan “their empirical work as guiding policy makers who are implementing society’s social welfare function” (Colander y Su 2015:167). La acción puede ser irremediablemente normativa, pero el que recomienda no es parte plena de la acción. La refutación de ello requiere incorporar un aspecto normativo, y con ello pasamos a la siguiente sección.</p>
+         </sec>
+         <sec>
+            <title>4.2. Los problemas normativos de la idea de acción neutral</title>
+            <p>Las últimas consideraciones nos acercan a nuestro segundo punto: la idea de una acción neutral no solo es falsa como juicio de hecho, es además normativamente problemática.</p>
+            <p>El primer problema normativo se relaciona con la pretensión, ya mencionada, que el investigador usa, sin incorporar para sí, los fines dados por otros. Ello no es más que una forma de hacer pasar la irresponsabilidad como si fuera adecuada. Ahora bien, quien hace una recomendación está pragmáticamente implicado en los fines de la acción en la que se inserta: al recomendar basado en ciertos valores, se está aceptando en la práctica esos valores.</p>
+            <p>Por cierto, existen profesiones, el derecho es el caso más claro, donde esa abdicación de responsabilidad es parte de su propia ética profesional. Ello se acepta allí porque así se asegura un valor superior -que todos puedan disponer de defensa-, pero es una excepción. En el caso de investigadores, no hay bien ético superior que se salvaguarde por su irresponsabilidad y quedan entonces sujetos a la idea general que toda persona es responsable de las acciones en las que es parte. Luego, el investigador no debiera participar en la acción y al mismo tiempo escabullir la responsabilidad de la acción.</p>
+            <p>Un segundo problema normativo proviene de unas de las pulsiones que lleva a defender esa idea, y que en realidad es compartida por los defensores de la tecnocracia y los del compromiso: la idea que la ciencia nos diga cómo vivir. Para algunos, si la ciencia qua ciencia no puede decirnos cómo vivir, entonces la discusión ética se traslada a la “moral philosophy and kindred fields” (Gorski 2017:439). Frente a ello, el abandono del científico social frente a los temas morales sería indeseable. Estamos ante la idea que, aunque todos pueden participar de los debates éticos, existen los especialistas en ética, y ellos poseen entonces una autoridad y responsabilidad especial en los debates: hablan en ellos no solo por sus derechos como ciudadanos, sino además con la autoridad de su conocimiento.</p>
+            <p>Frente a ello cabe negar tanto (a) la existencia de saberes especiales sobre lo normativo y (b) que los analistas requieran para poder participar en esos debates de un saber especial.</p>
+            <p>En líneas generales, no existe especialización para hablar de lo normativo. Y ello, precisamente, por las razones que indican lo intrínseco de la valoración para actuar. Si para participar de una práctica hay que hacer valoraciones, entonces todos los actores poseen el saber y la capacidad. Las consideraciones éticas son asuntos de cada uno y asuntos de todos. No hay ciencia en torno a la vida en común (un punto enfatizado por Castoriadis, en particular, en su análisis de la política representativa moderna). Si uno piensa el ejemplo de la construcción de una casa como actividad, la ciencia y el científico (la arquitectura y el arquitecto) pueden decir muchas cosas al respecto, pero en relación con el problema práctico (ético) de qué es lo que hay que hacer, es el dueño de la vivienda o el habitante quienes tienen la palabra decisiva.</p>
+            <p>Ello no es una conclusión confortable, dado que en muchas ocasiones la decisión tomada por los actores será (muy) incorrecta para los analistas (o para otros actores más en general), y esta posición implica aceptar como legítimo que se tomen malas decisiones. Además, está el hecho práctico que no todos participan de igual modo en esas discusiones, y queda la pregunta de “analysing and criticising the social conditions that thwart these reflexive capacities and the practices that correspond to them” (Celikates 2018:8). Todo ello, empero, no cambia que es el actor el que decide sobre sí.</p>
+            <p>En última instancia, no hay mayor ni mejor autoridad para hablar y decidir que la de ser persona. Lo cual nos lleva entonces a que esta conclusión no evita la participación de los investigadores: además de ser investigadores y entregar descripciones, seguimos siendo partícipes en igual derecho a otros en esta discusión en tanto actores. La existencia de un campo de descripciones neutrales no afecta para nada ese derecho. En el ejemplo anterior de la casa, si estamos hablando de una casa común donde también vive el investigador, él es participante pleno de esas decisiones.</p>
+            <p>En tercer lugar, la idea de acciones neutrales genera en la práctica una separación entre aquello que se considera neutral y lo que se considera comprometido que es ilegítima. Los términos usados en la investigación, como cualquier término, suelen tener asociaciones normativas. Las elecciones de términos no solo no son neutrales, nombrar es ya una acción (un acto de habla para usar esa terminología), sino que además no son tratadas como neutrales. Entonces, es así que la idea de realizar un estudio sobre la democracia parece, a ojos de las instituciones, algo neutral y normal; la idea de realizar un estudio sobre el imperialismo sería crítico, alejado de la neutralidad y entonces ‘indeseable’. Defender la neutralidad en esas circunstancias resulta una perversidad. Para evitar tal consecuencia es necesario insistir -entonces- que no hay tal cosa como una acción neutral.</p>
+            <p>Las consideraciones de esta subsección son juicios de valor. Dado que estamos, aquí, en el campo de las exigencias normativas en la práctica, de lo que debe hacer el investigador (o la persona en general), resulta perfectamente coherente con el planteamiento de este texto realizar aseveraciones normativas en este contexto. Si investigar es una acción, entonces las recomendaciones sobre esos actos requieren fundamentos normativos. La distinción de hecho entre juicio de hecho y de valor se transforma en la exigencia normativa de mantener la diferencia entre los dos tipos de consideraciones por este tipo de consideraciones. Lo anterior tiene su fundamento final, como veremos en la conclusión, en un compromiso ético que sí es inherente a la práctica de investigar.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>5. Conclusión</title>
+         <p>¿Por qué es relevante insistir en la distinción entre neutralidad de la descripción y compromiso de la acción? Al fin y al cabo, a lo largo de este texto hemos insistido que la distinción no implica separación entre ambos, o que así se distinga un ámbito de racionalidad superior a una pura decisión o emoción, y así con varias otras consecuencias usuales. Cuando se han eliminado tantas de lo que se considera las implicancias de la neutralidad, seguir en el tema bien puede parecer innecesario.</p>
+         <p>Existen dos motivos fundamentales para enfatizar la distinción: (a) Porque así se insiste en que las razones que damos para fundamentar un elemento empírico o para fundamentar un elemento de valor son cadenas distintas de razonamiento: no refuto un hecho como hecho diciendo que es malo, no refuto la bondad (o falta de ella) como bondad de algo diciendo que existe (o no existe); y ello ocurre, aunque las mezclemos e integremos en los juicios concretos. (b) Que insistir en esa distinción permite, entonces, observar con más claridad cuando se intenta pasar de contrabando una consideración de uno de esos ámbitos (empírico o evaluativo) como perteneciendo al otro, que como hemos planteado es lo que típicamente realiza la idea tecnocrática.</p>
+         <p>Como nota final, volvamos a algo mencionado anteriormente: que los términos que se usan para analizar y hacer descripciones son intrínsecamente también términos normativos (así sucede con validez, corrección, etc.). A este respecto cabe recordar, que el investigador es, por el hecho de hacer investigaciones, parte de una práctica que diferencia -como toda práctica- formas correctas e incorrectas de realizarlas. En relación con esa práctica del investigar y del conocer ocurre una transición intrínseca de lo descriptivo a lo normativo; y en esa práctica el investigador no es solo un observador, es también un participante -y como tal, no le queda más que adoptar una actitud normativa al respecto.</p>
+         <p>Entonces existe un compromiso ético que está indisolublemente ligado al hecho mismo de ser investigador. ¿Cuál es del deber del investigador en tanto investigador? Uno que se enuncia fácilmente, aun cuando se usen palabras que nos cuesta decir en la actualidad y que nos pueden sonar vacías y rimbombantes: el deber del investigador es hacia la verdad. Dado entonces ello, del hecho válido que las consideraciones de hecho y de valor son diferentes, se sigue la exigencia que esa diferencia debe ser reconocida y que intentar hacer valer consideraciones de un tipo en el otro no debe realizarse. En otras palabras, que ha de ceñir sus argumentos a la distinción entre consideraciones de hecho y de valor.</p>
+         <p>Que ese es el deber del investigador no es una idea nueva. Como ya planteaba Aristóteles en la Ética a Nicomaco, al criticar a los platonistas, a quienes contaba entre sus amigos, que entre aquellos que se denominan filósofos “incluso si son amigos, prefieren la verdad” (Ética a Nicómaco 1096a). Ese es el compromiso propio de la investigación y quien no lo tiene, ni lo aprecia, no debe dedicarse a la investigación.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Agradezco los comentarios realizados a versiones anteriores de este artículo de Rodrigo Asún, Daniel Chernilo y Miguel Urrutia.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Agamben, G.,  (2016).
+               <italic>Homo sacer. L’intégrale 1997-2015</italic>
+               .  Paris: Éditions du Seuil
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <source>Homo sacer. L’intégrale 1997-2015</source>
+               <publisher-name>Éditions du Seuil</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Arendt, H.,  (1958).
+               <italic>The human condition</italic>
+               .  Chicago: The University of Chicago Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arendt</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>1958</year>
+               <source>The human condition</source>
+               <publisher-name>The University of Chicago Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Boltanski, L.,  (2009).
+               <italic>De la critique</italic>
+               .  Paris: Gallimard
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Boltanski</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>De la critique</source>
+               <publisher-name>Gallimard</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Brighenti, A.(2017). "The social life of measures: conceptualizing measure–value environments".
+               <italic>Theory, Culture &amp; Society. 35</italic>
+               (1), 23-44. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0263276416689028">https://doi.org/10.1177/0263276416689028</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brighenti</surname>
+                     <given-names>A.M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>The social life of measures: conceptualizing measure–value environments</article-title>
+               <source>Theory, Culture &amp; Society</source>
+               <volume>35</volume>
+               <issue>1</issue>
+               <fpage>23</fpage>
+               <lpage>44</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0263276416689028">https://doi.org/10.1177/0263276416689028"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Celikates, R.,  (2018).
+               <italic>Critique as social practice</italic>
+               .  London: Rowman &amp; Littlefield International
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Celikates</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Critique as social practice</source>
+               <publisher-name>Rowman &amp; Littlefield International</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Chernilo, D.(2014). "The idea of philosophical sociology".
+               <italic>British Journal of Sociology. 65</italic>
+               (2), 338-357. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1468-4446.12077">https://doi.org/10.1111/1468-4446.12077</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chernilo</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>The idea of philosophical sociology</article-title>
+               <source>British Journal of Sociology</source>
+               <volume>65</volume>
+               <issue>2</issue>
+               <fpage>338</fpage>
+               <lpage>357</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1468-4446.12077">https://doi.org/10.1111/1468-4446.12077"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Chernilo, D.,  (2017).
+               <italic>Debating humanity</italic>
+               .  Cambridge: Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chernilo</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Debating humanity</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Colander, D., Su, H.(2015). "Making sense of economists’ positive-normative distinction".
+               <italic>Journal of Economic Methodology. 22</italic>
+               (5), 157-170. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/1350178X.2015.1024877">https://doi.org/10.1080/1350178X.2015.1024877</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Colander</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Su</surname>
+                     <given-names>H-C.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Making sense of economists’ positive-normative distinction</article-title>
+               <source>Journal of Economic Methodology</source>
+               <volume>22</volume>
+               <issue>5</issue>
+               <fpage>157</fpage>
+               <lpage>170</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/1350178X.2015.1024877">https://doi.org/10.1080/1350178X.2015.1024877"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Davydova, I., Sharrock, W.(2003). "The rise and fall of the fact/value distinction".
+               <italic>The Sociological Review. 51</italic>
+               (3), 357-375. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1467-954X.00425">https://doi.org/10.1111/1467-954X.00425</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Davydova</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sharrock</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>The rise and fall of the fact/value distinction</article-title>
+               <source>The Sociological Review</source>
+               <volume>51</volume>
+               <issue>3</issue>
+               <fpage>357</fpage>
+               <lpage>375</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1467-954X.00425">https://doi.org/10.1111/1467-954X.00425"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Durkheim, E.,  (2013).
+               <italic>Las règles de la méthode sociologique</italic>
+               .  Paris: Presses Universitaires de France
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Durkheim</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>Las règles de la méthode sociologique</source>
+               <publisher-name>Presses Universitaires de France</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Gorski, P.(2013). "Beyond the fact/value distinction: ethical naturalism and the social sciences".
+               <italic>Society. 50</italic>
+               (6), 543-553. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12115-013-9709-2">https://doi.org/10.1007/s12115-013-9709-2</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gorski</surname>
+                     <given-names>P.S.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Beyond the fact/value distinction: ethical naturalism and the social sciences</article-title>
+               <source>Society</source>
+               <volume>50</volume>
+               <issue>6</issue>
+               <fpage>543</fpage>
+               <lpage>553</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12115-013-9709-2">https://doi.org/10.1007/s12115-013-9709-2"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Gorski, P.(2017). "From sinks to webs: critical social science after the fact/value distinction".
+               <italic>Canadian Review of Sociology. 54</italic>
+               (4), 543-553. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/cars.12169">https://doi.org/10.1111/cars.12169</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gorski</surname>
+                     <given-names>P.S.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>From sinks to webs: critical social science after the fact/value distinction</article-title>
+               <source>Canadian Review of Sociology</source>
+               <volume>54</volume>
+               <issue>4</issue>
+               <fpage>543</fpage>
+               <lpage>553</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/cars.12169">https://doi.org/10.1111/cars.12169"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Habermas, J.,  (2010).
+               <italic>Teoría de la acción comunicativa</italic>
+               .  Madrid: Trotta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Habermas</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Teoría de la acción comunicativa</source>
+               <publisher-name>Trotta</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Hammersley, M.(2017). "On the role of values in social research: Weber vindicated?".
+               <italic>Sociological Research Online. 22</italic>
+               (1), 1-12. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5153/sro.4197">https://doi.org/10.5153/sro.4197</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hammersley</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>On the role of values in social research: Weber vindicated?</article-title>
+               <source>Sociological Research Online</source>
+               <volume>22</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>12</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5153/sro.4197">https://doi.org/10.5153/sro.4197"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Hobsbawm, E.,  (1997).
+               <italic>On history</italic>
+               .  New York: New Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hobsbawm</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>On history</source>
+               <publisher-name>New Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Jacobs, J.(2013). "The fact/value distinction and the social sciences".
+               <italic>Society. 50</italic>
+               (6), 560-569. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12115-013-9711-8">https://doi.org/10.1007/s12115-013-9711-8</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jacobs</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>The fact/value distinction and the social sciences</article-title>
+               <source>Society</source>
+               <volume>50</volume>
+               <issue>6</issue>
+               <fpage>560</fpage>
+               <lpage>569</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12115-013-9711-8">https://doi.org/10.1007/s12115-013-9711-8"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Leyva, G., Sampaio de Madureira, M. (2012).
+               <italic>Teoría crítica: el indisoluble vínculo ente la teoría social y la crítica normativa inmanente</italic>
+               . En De la Garza Toledo, E., Leyva, G (autor.);Tratado de metodología de las ciencias sociales: perspectivas actuales.  (256-336). Ciudad de México: FCE
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Leyva</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sampaio de Madureira</surname>
+                     <given-names>M.M.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Teoría crítica: el indisoluble vínculo ente la teoría social y la crítica normativa inmanente</chapter-title>
+               <year>2012</year>
+               <source>Tratado de metodología de las ciencias sociales: perspectivas actuales</source>
+               <publisher-name>FCE</publisher-name>
+               <fpage>256</fpage>
+               <lpage>336</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Olivier de Sardan, J.,  (2008).
+               <italic>La rigueur du qualitatif</italic>
+               .  Brussels: Academia Bruylant
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Olivier de Sardan</surname>
+                     <given-names>J-P.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>La rigueur du qualitatif</source>
+               <publisher-name>Academia Bruylant</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Scribano, A. (2014).
+               <italic>Teoría crítica en América Latina</italic>
+               . En Osorio, F (eds.);pistemología y ciencias sociales: ensayos latinoamericanos.  (69-88). Santiago: LOM
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scribano</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Teoría crítica en América Latina</chapter-title>
+               <year>2014</year>
+               <source>pistemología y ciencias sociales: ensayos latinoamericanos</source>
+               <publisher-name>LOM</publisher-name>
+               <fpage>69</fpage>
+               <lpage>88</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Segato, R.,  (2015).
+               <italic>La crítica de la colonialidad en ocho ensayos</italic>
+               .  Buenos Aires: Prometeo Libros
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Segato</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>La crítica de la colonialidad en ocho ensayos</source>
+               <publisher-name>Prometeo Libros</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Solari, A.(2011). "Algunas reflexiones sobre el problema de los valores, la objetividad y el compromiso en las ciencias sociales".
+               <italic>Revista Colombiana de Sociología. 34</italic>
+               (2), 181-199. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.15446/rcs">http://dx.doi.org/10.15446/rcs</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Solari</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Algunas reflexiones sobre el problema de los valores, la objetividad y el compromiso en las ciencias sociales</article-title>
+               <source>Revista Colombiana de Sociología</source>
+               <volume>34</volume>
+               <issue>2</issue>
+               <fpage>181</fpage>
+               <lpage>199</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.15446/rcs">http://dx.doi.org/10.15446/rcs"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Weber, M.,  (1977).
+               <italic>Ensayos sobre metodología sociológica</italic>
+               .  Buenos Aires: Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weber</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1977</year>
+               <source>Ensayos sobre metodología sociológica</source>
+               <publisher-name>Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

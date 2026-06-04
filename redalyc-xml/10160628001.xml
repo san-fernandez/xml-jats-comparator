@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000200145</article-id>
+ 			<article-id pub-id-type="publisher-id">00001</article-id>        
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>El uso de las definiciones de violencia escolar como un problema teórico</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The use of definitions of school violence as a theoretical problem</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3956-700X</contrib-id>
+               <name>
+                  <surname>Guajardo-Soto</surname>
+                  <given-names>Gabriel</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5845-561X</contrib-id>
+               <name>
+                  <surname>Toledo-Jofré</surname>
+                  <given-names>María Isabel</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8318-675X</contrib-id>
+               <name>
+                  <surname>Miranda-Jaña</surname>
+                  <given-names>Christian</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1441-7563</contrib-id>
+               <name>
+                  <surname>Sáez</surname>
+                  <given-names>Carolina Andrea</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad Latinoamericana de Ciencias Sociales Chile. Chile</institution>
+            <institution content-type="normalized">Facultad Latinoamericana de Ciencias Sociales Chile</institution>
+            <institution content-type="orgname">Facultad Latinoamericana de Ciencias Sociales Chile</institution>
+            <country country="CL">Chile</country>
+            <email>gabriel.guajardo@flacsochile.org</email>
+         </aff>
+         <aff id="aff2">
+            <label>2</label>
+            <institution content-type="original">Universidad Diego Portales. Chile</institution>
+            <institution content-type="normalized">Universidad Diego Portales</institution>
+            <institution content-type="orgname">Universidad Diego Portales</institution>
+            <country country="CL">Chile</country>
+            <email>maria.toledo@udp.cl</email>
+            <email>carolina.saez@mail.udp.cl</email>
+         </aff>
+         <aff id="aff3">
+            <label>3</label>
+            <institution content-type="original">Universidad de Chile. Chile</institution>
+            <institution content-type="normalized">Universidad de Chile</institution>
+            <institution content-type="orgname">Universidad de Chile</institution>
+            <country country="CL">Chile</country>
+            <email>christian.miranda@u.uchile.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2019</year>
+         </pub-date>
+         <!--volume>0</volume-->
+         <issue>65</issue>
+         <fpage>145</fpage>
+         <lpage>158</lpage>
+         <history>
+            <date date-type="received">
+               <day>29</day>
+               <month>03</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El estatuto teórico del concepto de la violencia escolar se ha resuelto parcialmente mediante el uso de definiciones. En el caso del campo científico chileno las definiciones de violencia escolar se formulan desde una episteme dualista, que establece la distinción entre lo escolar y lo no escolar, priorizan a un individuo abstracto, donde el espacio prima sobre el tiempo, las relaciones son causales y, en menor medida, de tipo covariación, constructiva de realidades y especular. El componente performativo es doble: i) un modo de codificación y clasificaciones que estabilizan a un objeto que irrumpe en el campo científico y escolar; ii) producen una ausencia y exclusión de las relaciones y categorías posibles. No obstante, se observa que al interior de las propias definiciones se encuentran las semillas para un trabajo de transformación hacia epistemes no dualistas y complejas mediante las dimensiones de producción, reproducción y cruce de las violencias en la institución escolar según un enfoque tríadico. Esta reconstrucción se basa en un corpus de artículos indexados del campo de la educación sobre Chile entre los años 2001 a 2013.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The theoretical statute of the concept of school violence has been partly solved using definitions. In the case of the Chilean scientific field, the definitions of school violence are defined from a dualistic episteme that establishes the distinction between what is part of the school and what is not, that prioritizes an abstract subject, where space is more important than time, the relationships are of causal type and, to a lesser extent, of covariation type, that builds realities and that is speculative. The performative component has two aspects: i) a coding mode and classifications that stabilize an object that disrupts the scientific and school fields, and ii) produce a lack and exclusion of the relationships and potential categories. Nevertheless, it has been observed that there are some elements within the own definitions that could work for the transformation of dualistic and complex epistemes, through a dimension of production, reproduction, and the cross of different types of violence at school, following a triadic approach. This reconstruction is based on a corpus of articles from indexed journals about the Chilean educational field between 2001 and 2013.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>violencia</kwd>
+            <kwd>escuela</kwd>
+            <kwd>concepto</kwd>
+            <kwd>enfoque tríadico</kwd>
+            <kwd>heurística</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>violence</kwd>
+            <kwd>school</kwd>
+            <kwd>concept</kwd>
+            <kwd>triadic approach</kwd>
+            <kwd>heuristics</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="1" />
+            <table-count count="5" />
+            <equation-count count="0" />
+            <ref-count count="4" />
+            <page-count count="14" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>
+            La  investigación  en  educación  en  violencia  escolar  ha  mantenido  un  rezago  en  su  dimensión  teórica  (Toledo et. al.
+            <ext-link ext-link-type="uri" xlink:href="http://repositorio.uchile.cl/handle/2250/159210">Propuesta tríadica para el estudio de la violencia escolar</ext-link>
+            ). Este déficit teórico, que privilegia la  exposición  de  los  datos,  especialmente  originados  en  mediciones,  es  coincidente  con  la  promoción  estatal de la noción de convivencia escolar fundada en los derechos humanos del siglo XXI. Esta disparidad entre el discurso científico en educación y las políticas públicas en violencia escolar enfatiza el componente performativo de los conceptos (Mascareño
+            <ext-link ext-link-type="uri" xlink:href="https://revistadesociologia.uchile.cl/index.php/RDS/article/view/14492">Acción, estructura y emergencia en la teoría sociológica</ext-link>
+            ), es decir, se produce la extensión de las teorías hacia el cambio o transformación de las condiciones sociales que describen o explican con sus consiguientes efectos normativos. En este orden de cosas, el pensar un objeto  concreto  supone  enfrentar  categorías  y  redes  de  categorías  que  se  busca  sean  aceptadas  como  parte del mundo dado, donde las alternativas se arriesgan a quedar “fuera de juego”.
+         </p>
+         <p>La innovación conceptual que representa el uso del concepto y el término de violencia escolar es, sin duda, parte de un escenario global de cambio conceptual y de términos especializados en las ciencias, una de cuyas  expresiones  es  la  proliferación  de  neologismos,  anglicismos  o  el  uso  de  metáforas.  Este  cambio  acelerado no asegura un igual destino a otros niveles de la teoría o en la arquitectura teórica de un campo científico. Es posible una depuración lingüística respecto de conceptos que se juzgan sesgados u obsoletos desde  nuevas  perspectivas  y,  no  obstante,  se  preservan  sus  definiciones,  teorizaciones  o  sentidos.  En  particular, el concepto de violencia escolar es compuesto por dos términos antiguos, violencia (del latín violentĭa) y escolar (del latín excolāre), que formarían dos tokens mentales: una cadena de significantes interrelacionados en una situación real que admite muchos modelos con diversas formas de enunciación.</p>
+         <p>
+            La convergencia entre el concepto y su expresión léxica con las prenociones, que circulan en el espacio social, configura un problema teórico (Bialakowsky
+            <ext-link ext-link-type="uri" xlink:href="https://scielo.conicyt.cl/scielo.php?script=sci_arttext&amp;pid=S0717-554X2017000200116&amp;lng=en&amp;nrm=iso&amp;tlng=en">El abordaje problemático como metodología para la investigación en teoría sociológica y el análisis de las clasificaciones sociales</ext-link>
+            ). Es un problema, como señaló Durkheim en su momento, debido a la claridad de las prenociones y la autoridad que surge de la repetición y del uso constante en diferentes situaciones no necesariamente del campo científico; en este argumento es del todo necesaria la elaboración de definiciones o la redefinición de conceptos y términos en ciencias sociales.  Sin  embargo,  el  rol  de  las  definiciones  es  polémico.  Basta  observar  los  casos  polares  de  las  definiciones  formales  y  el  uso  de  conceptos  borrosos  y  plásticos.  Se  suma  el  asunto  de  los  géneros  discursivos propios de los campos científicos, que pueden prescindir de la necesidad de definir los términos según su propósito comunicativo.
+         </p>
+         <p>
+            En síntesis, la definición sería un indicio del estatuto teórico del objeto en el campo de investigación en educación y, también, de sus condicionantes sociales e históricas. Sin duda el espacio de la teoría no se agota  en  el  uso  o  no  de  este  recurso.  El  concepto  de  violencia  escolar  ha  tenido  dificultades  en  su  elucidación,  al  igual  que  la  pretendida  “asepsia”  teorizante  de  las  mediciones  y  el  privilegio  de  las  significaciones  de  los  actores  escolares  en  los  estudios  cualitativos  (Neut
+            <ext-link ext-link-type="uri" xlink:href="https://scielo.conicyt.cl/scielo.php?pid=S0718-45652017000100222&amp;script=sci_abstract&amp;tlng=en">Las  violencias  escolares  en  el  escenario educativo chileno</ext-link>
+            ). En este contexto, el uso de categorías y sus conexiones en cada definición se configura en un problema teórico que requiere ser abordado por su papel heurístico. Este artículo busca reconstruir la mediación conceptual que significan las categorías, las redes de categorías y sus efectos de sentido que se cristalizan en las definiciones de violencia escolar. Este propósito se servirá de un corpusde artículos indexados en el campo de la educación sobre la violencia escolar en Chile, en lengua española, publicados en la primera década del siglo XXI.
+         </p>
+      </sec>
+      <sec sec-type="methods">
+         <title>Metodología</title>
+         <p>La metodología de investigación fue de tipo documental y de caso único en tres etapas de desarrollo:</p>
+         <p>Planificación de la búsqueda bibliográfica</p>
+         <p>-Identificación de bases de datos: SciELO-Chile, SciELO y WoS.</p>
+         <p>-Identificación de palabras claves iniciales: búsqueda en Tesauro de la Educación UNESCO-OIE: violencia escolar y Chile.</p>
+         <p>-Criterios  de  búsqueda  bibliográfica:  artículo  científico,  libro  y  tesis,  título,  resumen,  palabras  claves  (violencia escolar y Chile), año de publicación 2000 a 2017.</p>
+         <p>Recolección de información bibliográfica</p>
+         <p>-Aplicación de palabras claves iniciales: se obtienen 44 referencias bibliográficas con acceso a documento completo.</p>
+         <p>
+            -Selección de artículos científicos en lengua española con definiciones o conceptualizaciones explícitas del concepto violencia escolar y sobre Chile: Corpus de 9 referencias bibliográficas con acceso a documento completo publicadas entre los años 2001 a 2013 (
+            <xref ref-type="table" rid="gt1">Tabla 1</xref>
+            ).
+         </p>
+         <p>-Período de búsqueda en bases de datos: noviembre y diciembre de 2017.</p>
+         <p>Análisis se orienta según un enfoque tríadico de la violencia escolar</p>
+         <p>-Construcción  de  mapa  conceptual  con  programa  computacional  de  libre  acceso  Cmaps  Tools  y  de  esquemas de categorías.</p>
+         <p>
+            -Análisis  de  mapa  conceptual  y  esquemas  de  categorías  según  propuesta  tríadica  para  el  estudio  de  la  violencia escolar (Toledo et.al.
+            <ext-link ext-link-type="uri" xlink:href="http://repositorio.uchile.cl/handle/2250/159210">Propuesta tríadica para el estudio de la violencia escolar</ext-link>
+            ). Se cita el número asignado a cada artículo.
+         </p>
+         <p>Los procedimientos y criterios éticos utilizados fueron: uso de fuentes de información de tipo documental, pública y en bases de datos de acceso gratuito. Se transcriben literalmente fragmentos textuales de las publicaciones y se indica su referencia bibliográfica completa.</p>
+         <p>
+            <table-wrap id="gt1">
+               <label>Tabla 1</label>
+               <caption>
+                  <title>Tabla 1. Nómina de artículos científicos seleccionados en lengua española en SciELO-Chile, SciELO, Web of Science (WoS)</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-65-00145-tab1.PNG" />
+               <table-wrap-foot>
+                  <fn id="TFN1">
+                     <p>Fuente propia</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+         </p>
+         <sec>
+            <title>Alcances a la metodología</title>
+            <p>El conjunto de artículos obtenido en las bases de datos es mayor que el número de textos con definiciones explícitas. Esta ausencia de definiciones no excluye el uso de reflexiones teóricas, conceptos abstractos, referencias a escuelas de pensamiento o adhesiones a perspectivas o teorías.</p>
+            <p>El  estudio  busca  la  reconstrucción  de  las  categorías  y  las  redes  de  categorías  que  se  cristalizan  en  las  definiciones y producen efectos de sentido. Por ello, el número de 9 de artículos y sus fragmentos textuales son suficientes para un análisis cualitativo; los resultados pueden ser sometidos a prueba en estados del arte, discusiones conceptuales, panoramas generales y en trabajos de productividad científica.</p>
+            <p>El  recorte  metodológico  del  estado-nación  de  Chile  provoca  una  doble  tensión:  (i)  entre  el  desarrollo  histórico del campo escolar y las tendencias globalizantes de una economía de mercado que estimula la internacionalización  de  la  ciencia  local y  (ii)  entre  el  reduccionismo  nacionalista  y  la  generalización  cosmopolita en una producción científica al participar de las bases de datos indexadas on line. El examen de la forma de expresión de estas tensiones en las conceptualizaciones excede el presente artículo.</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Resultados</title>
+         <p>El conjunto de definiciones en estudio es de tipo denotativa, es decir, se nombra y describen los objetos indicados por el concepto de violencia escolar. En general, son formuladas de modo positivo (1, 2, 4, 8, 9) y en algunos casos de modo negativo, al explicitar aquello que no es su significado (2, 3, 6, 7). En ambos casos se observa la necesidad de contrastar los conceptos de violencia escolar con la intimidación o con su anglicismo de bullying, aun cuando el carácter englobante o de hiperónimo de violencia escolar es igualmente constante.</p>
+         <sec>
+            <title>Los niveles de la violencia escolar en la delimitación del objeto de estudio</title>
+            <p>En cuatro casos se señala que la violencia escolar es “imprevisible” (2), “multiforme” (6), con “múltiples niveles de análisis” (7) y “multicausado” (9). Estas distinciones de niveles son compartidas y permite comprender que en el corpus se identifiquen 8 diferentes niveles en la investigación de este concepto. Sin embargo, un plano multinivel dentro de los 8 niveles se configura en indeterminado, no solo por la apelación a la variedad de elementos, que deben estar presentes en un análisis, sino también por no dar cuenta de los eslabones entre esos niveles, restándose claridad para un ejercicio de observación; este déficit tiene el reverso en fortalecer el supuesto ontológico de cómo es la realidad escolar en violencia: tiene niveles.</p>
+            <p>Un primer nivel es el individuo (1, 2, 7, 8) o sus términos asociados como sujeto, participante, persona y actor, pues comparten la característica de ser una unidad que no puede ser dividida en otros componentes, tampoco cuenta con una especificación, ni su uso se refiere a otras unidades para dar cuenta de otras significaciones guiadas teóricamente. Un segundo nivel lo constituyen las diadas, pares, la serie de individuos, relaciones interpersonales, interacciones y procesos de comunicación entre dos personas o más (1, 3, 4, 7), donde se mantiene la unidad del individuo, pero es puesta en relación con otros individuos. Se diferencia un nivel siguiente, tercero, que se refiere a los grupos de estudiantes (3, 7, 9). Un cuarto nivel corresponde a la escuela, que concita una mayor concentración de indicaciones. Además de la categoría escuela encontramos los términos de centros educativos, establecimientos educacionales y comunidad escolar (1, 5, 6, 7, 8, 9). Se trata de un nivel de la institución que integra otros componentes y, por tanto, se presume que es englobante de otras categorías. Hay indicios de circularidad (el definiendum aparece en el definiens) respecto del uso de la palabra escolar y sus sinónimos.</p>
+            <p>En los niveles quinto, sexto y séptimo no hay indicios de jerarquía entre sí. Existe una equivalencia al contener menos información en su caracterización y, por tanto, su diferenciación requiere mayor esfuerzo y competencia para su desciframiento, además del hecho evidente de corresponder a entidades diferenciadas por el nombre. El quinto nivel es el sistema educativo (7), el sexto son las políticas educativas (7) y, finalmente, el nivel séptimo se refiere a los contextos, estructuras culturales, sociales, socioculturales y la comunidad (3, 4, 5, 7, 9).</p>
+            <p>Se observan que cuatro de estos niveles se localizan al interior de la escuela como un nivel aglutinador del resto: “dentro del colegio” (1); “del ámbito escolar” (4), (8), (9); “dentro del centro educativo” (5); “violencia en la escuela” (6); “elementos del espacio escolar” (7). Los demás niveles -sistema educativo, políticas educativas y contextos- estarían ubicados en un exterior a lo propiamente escolar. Este conjunto posee un nivel de generalidad, como son los conceptos de cultura, comunidad o sociedad. Entonces, se actualiza la distinción binaria entre lo escolar y lo no escolar referida a la violencia escolar con el punto de inflexión en la categoría escuela (nivel 4).</p>
+            <p>
+               En la distinción entre los niveles escolares y no escolares, los niveles de lo escolar se especifican en una relación incluyente. Cada elemento queda incluido en el precedente, donde el grado de especificidad es mayor de izquierda a derecha (
+               <xref ref-type="table" rid="gt2">Tabla 2</xref>
+               ).
+            </p>
+            <p>
+               <table-wrap id="gt2">
+                  <label>Tabla 2</label>
+                  <caption>
+                     <title>Tabla 2. Esquema de inclusividad de mayor a menor en las categorías del ámbito escolar en artículos científicos seleccionados</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00145-tab2.PNG" />
+                  <table-wrap-foot>
+                     <fn id="TFN2">
+                        <p>Fuente propia</p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
+            </p>
+         </sec>
+         <sec>
+            <title>El nivel básico en el concepto de la violencia escolar: el prototipo</title>
+            <p>Hay elementos más característicos en su relación con la violencia y que se consideran un mejor ejemplo en comparación con el resto de los niveles que se proponen en los artículos. El segundo nivel (1, 3, 4, 7) se propone como (hipótesis de trabajo) un nivel básico o prototipo de violencia escolar en este corpus, por tres razones: (i) incluye los elementos de violencia escolar discriminantes para los actores escolares: las interacciones entre individuos en la escuela expresados en las diadas, pares, la serie de individuos, las relaciones interpersonales, las interacciones y procesos de comunicación entre dos personas o más; (ii) proporciona una imagen central de los objetos relacionados a través de la categoría escuela como un referente real; (iii) es el único nivel que cuenta social e institucionalmente con un término específico en uso, esto es, el anglicismo bullying. En español es equivalente a intimidación, acoso escolar o matonaje.</p>
+            <p>
+               La identificación de un nivel básico en la violencia escolar permite una lectura de los niveles jerárquicos de categorización y de la relación prototipo y periferia. Este nivel básico es más importante cognitivamente, más rico y eficiente que aquellos superordinado y subordinado. El nivel superordinado corresponde a la distinción de lo no escolar con el uso de conceptos de cultura, sociedad, comunidad, donde no hay una relación de inclusión como en lo escolar. Se trata de conceptos de alto nivel de generalidad; la asociación con el nivel básico les proporcionaría una cierta caracterización. En cambio, escuela, grupo de estudiante e individuo son subordinados, pues por sí solos son pocos informativos para la violencia escolar (decir escuela no necesariamente es decir violencia escolar) y son periféricos al prototipo de violencia escolar: bullying (
+               <xref ref-type="table" rid="gt3">Tabla 3</xref>
+               ).
+            </p>
+            <p>
+               <table-wrap id="gt3">
+                  <label>Tabla 3</label>
+                  <caption>
+                     <title>Tabla 3. Esquema de la relación prototipo/periferia según niveles jerárquicos de categorización en artículos científicos seleccionados</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00145-tab3.PNG" />
+                  <table-wrap-foot>
+                     <fn id="TFN3">
+                        <p>Fuente propia</p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
+            </p>
+         </sec>
+         <sec>
+            <title>Las categorías para definir la violencia escolar</title>
+            <p>En términos tradicionales, una definición nombra el objeto de conocimiento con un verbo de existencia, luego indica la clase a la que pertenece y las características individuales que diferencian ese objeto de otros de la misma clase. Al flexibilizar la presencia o ausencia de la condición de un verbo de existencia, es posible constatar 11 categorías para la definición de violencia escolar. En algunas publicaciones se producen definiciones por acumulación de categorías diferentes (1, 2, 3, 5, 6, 8) y, en otras, se emplea una única categoría (4, 7, 9).</p>
+            <p>Las publicaciones en la acumulación de categorías no necesariamente guardan relaciones de sinonimia que habilitaría su puesta en relación directa (o podrían serlo al compartir una articulación teórica explícita). Por ejemplo, la categoría situación percibida con manifestación (1) o forma, actividades, acciones y práctica (6).</p>
+            <p>
+               El repertorio de 11 categorías, que hemos ya señalado, corresponde a dos tipos de definiciones: lógicas y denominación. Las primeras de tipo lógico caracterizadas por un verbo de existencia (2, 3, 7, 9) y las segundas de denominación (1, 4, 5, 6) que buscan centralmente la designación del objeto definido y proporciona una orientación normativa en el ámbito preventivo (9). En este último caso se incluyen las referencias bibliográficas de otros autores en el texto de la década de los años noventa del siglo XX e inicio del siglo XXI, que provocan una cierta distancia entre la autoría y la exposición de la definición, además que la citación es un indicio manifiesto de intertextualidad al interior del campo en educación. Hay categorías en dos tipos de definición diferentes, tal es el caso de acto (lógica/denominación) y conducta (lógica/denominación) (
+               <xref ref-type="table" rid="gt4">Tabla 4</xref>
+               ).
+            </p>
+            <p>En esta serie de categorías existe un subconjunto que cualifican las violencias: agresión, agresivo, agresividad, daño, uso de fuerza y coerción; constituyen un cierto núcleo de sentido donde el acontecimiento violento se configura como una potencialidad de algo que está por venir, una realización efectiva y huellas o efectos de lo ocurrido. Es un universo de referencia heterogéneo formado por una enumeración antes que un ordenamiento jerárquico por grupo de similitudes percibidas; su efecto inmediato es situar ciertos límites de lo reconocible como violencia.</p>
+            <p>
+               <table-wrap id="gt4">
+                  <label>Tabla 4</label>
+                  <caption>
+                     <title>Tabla 4. Binomio, niveles y categorías de definiciones en publicaciones científicas (fuente propia)</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00145-tab4.PNG" />
+                  <table-wrap-foot>
+                     <fn id="TFN4">
+                        <p>Fuente propia</p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
+            </p>
+         </sec>
+         <sec>
+            <title>La relación entre las categorías con las teorías</title>
+            <p>
+               El posicionamiento teórico explícito se encuentra en 3 de las 9 publicaciones: teoría de la reproducción cultural (1), perspectiva discursiva pragmática (6), y el modelo ecológico (7) del psicólogo estadounidense Urie Bronfenbrenner. Efectivamente, estas tres teorías corresponden a una posición teórica entendida como un “conjunto de supuestos valorativos, ontológicos y epistemológico-metodológico que orientan el trabajo de una comunidad académica participar y que permite producir investigaciones concretas” (
+               <xref ref-type="bibr" rid="B3">Gándara 1994</xref>
+               :74); entonces, es esperable un efecto de coherencia semántica en el uso de los conceptos y su terminología. No obstante, el trabajo científico de ciencias sociales y del lenguaje que lo acompaña, “se define por la lucha constante e ininterrumpida contra la connotación” (
+               <xref ref-type="bibr" rid="B4">Verón 1996</xref>
+               :291).
+            </p>
+            <p>Esta lucha se refiere al debate crítico ante la naturalización de las teorías y conceptos involucrados en la investigación empírica. En estos tres casos podemos reducir la incertidumbre de interpretaciones posibles y sus términos a la luz de estas teorías; en los demás casos, no habría una relación manifiesta entre definición y teoría de la violencia escolar, ni se asegura un trabajo de ruptura con las prenociones. Las categorías que tienen un posicionamiento teórico explícito son las siguientes: forma, manifestación, fenómeno, actividad y acciones, situación y práctica; a diferencia de las categorías de modo, modalidad, acto, comportamiento y conducta, que no lo tienen. Esta ausencia de relación entre definición y teoría de la violencia escolar es un obstáculo para la comprensión, debate epistemológico y los demás aspectos del proceso de investigación.</p>
+            <p>Sin embargo, a modo de hipótesis de trabajo, la actual ausencia de relación explícita entre la formulación de definiciones sobre violencia escolar con una posición teórica concordante, genera un proceso de significación del concepto en los diferentes contextos de investigación, que actualizaría el supuesto binario de lo escolar/no escolar y diversificaría las características del nivel básico o prototipo.</p>
+            <p>
+               Justamente, como hemos propuesto anteriormente, la necesidad de pasar de un objeto binario que separa, a veces en términos de oposición, la escuela de la sociedad a un objeto de estudio de tres dimensiones: (i) las violencias que produce la escuela, (ii) las violencias que se reproducen en la escuela, (iii) las violencias que cruzan la escuela. Desde la perspectiva de reformulación tríadica del objeto de estudio es posible examinar las relaciones que establecen (
+               <xref ref-type="table" rid="gt5">Tabla 5</xref>
+               ).
+            </p>
+            <p>Las relaciones posibles entre las categorías para definir la violencia escolar se concentran en las relaciones de causalidad y, con una menor presencia, las de tipo covariación, creación de realidades y especular. Este conjunto de relaciones, al ser examinadas desde las dimensiones de construcción de objeto de estudio, en su mayoría apuntan a las violencias que produce la escuela a través de relaciones de causalidad, covariación, constructiva y especularidad; otras se localizan en la reproducción de violencias en la escuela (nivel 4). Respecto de lo que se reproduce desde las violencias en la escuela son: las estructuras sociales (6) y, en el caso de su cruce, la escuela con la comunidad y la cultura (9).</p>
+            <p>En los niveles individuales (niveles 1 y 2) los tipos de relaciones son causales y especulares. Las causas próximas abarcan el ejercicio del poder, el uso de la fuerza, los procesos comunicacionales e interaccionales, el control en contextos interpersonales, la intención de dominar y la agresividad entre personas pares. Se reconoce un nivel multicausal y multinivel que debería cubrir todos los niveles señalados, excepto el nivel grupal, sino se enfatiza que es el individuo que interactúa con otros individuos. Las causas últimas o basales que se identifican son el desequilibrio y desigualdad de poder y la coerción. En las relaciones de tipo especular o de reflejo entre categorías se encuentra la situación percibida de agresiones y la posesión de armas. Los niveles individuales comparten con el de escuela (nivel 4) las categorías de manifestación, fenómeno, actividad, acciones y situación percibida.</p>
+            <table-wrap id="gt5">
+               <label>Tabla 5</label>
+               <caption>
+                  <title>Tabla 5. Dimensiones del objeto de estudio violencias en la escuela según relaciones posibles entre categorías de definiciones en publicaciones científicas</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-65-00145-tab5.PNG" />
+               <table-wrap-foot>
+                  <fn id="TFN5">
+                     <p>Fuente propia</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+         </sec>
+         <sec>
+            <title>Especificación de las categorías de violencia escolar</title>
+            <p>Cada una de las 11 categorías tiene derivaciones en características que se van especificando en forma de cascada o secuencia y se enlazan con las palabras conectoras respectivas. En este caso se logró distinguir características primarias, secundarias y terciarias.</p>
+            <p>
+               Comportamiento es la única categoría de las 11 que posee hasta una tercera jerarquía. La ubicación de la categoría comportamiento, en el corpus de artículos de investigación, es indicativa del logro de una secuencia de lo general a lo particular, de mayor diversificación y de una mayor potencialidad de abstraer una síntesis “de la jerarquización de las características y de las vinculaciones internas y externas de los procesos” (
+               <xref ref-type="bibr" rid="B1">Arellano y Santoyo 2009</xref>
+               :138). Este juego de cascada de las características y de las vinculaciones internas y externas de los procesos, se esperaría que estuviera basado en una posición teórica que permitiera establecer su potencialidad y riqueza de distinciones para el estudio de la violencia escolar. Cuando no se expone una posición teórica y se apela a lo neutro de la categoría y sus características, se asiste a efectos ideológicos o connotativos como ya hemos señalado.
+            </p>
+            <p>
+               No hay formulación de definiciones sin algún grado de especificación. La categoría comportamiento (4) posee la mayor extensión expresada en su caracterización: primaria, secundaria y terciaria; desde la distinción binaria de lo escolar y no escolar asienta la intimidación o bullying, como imagen central de la violencia escolar, que se observa en el nivel de interacción entre individuos (nivel 2). La definición ejemplar en este plano de análisis es la utilizada por Saavedra, Villauta y Muñoz
+               <ext-link ext-link-type="uri" xlink:href="http://limite.uta.cl/index.php/limite/article/view/58/136">Violencia escolar: la mirada de los docentes</ext-link>
+               (4): “Por violencia escolar entenderemos un comportamiento coercitivo, que tiene la intención de dominar y ejercer control sobre otro sujeto (del ámbito escolar) y que se da en un contexto interpersonal, pudiendo producir daño físico, psicológico o afectar el ámbito social” (
+               <xref ref-type="bibr" rid="B2">Costa 1998</xref>
+               :40).
+            </p>
+            <p>El comportamiento, como una categoría de mayor especificación que el resto de las categorías, no tiene una relación explícita con la teoría, a pesar del hecho de su uso extenso en ciencias sociales y su antigüedad en la lengua española. Esta palabra aparece por primera vez en el Diccionario de la Real Academia de la Lengua Española en el año 1837, es decir, al año 2018 tiene 181 años en este repertorio de la lengua. Esta ausencia de una especificación teórica es una limitación por su historia conceptual.</p>
+         </sec>
+         <sec>
+            <title>Las relaciones entre los niveles según el binomio escolar/no escolar</title>
+            <p>Al examinar las relaciones entre los niveles y las categorías en las definiciones de violencia escolar, es posible observar la extensión de los términos y la densidad de categorías que concitan dichos niveles. Las categorías para definir violencia escolar en ambos componentes del binomio escolar y no escolar son: fenómeno, actividad y acciones, comportamiento, conducta, modalidad y modo. En cambio, los términos que se encuentran solo en el ámbito de lo escolar son: acto, situación percibida, práctica, forma y manifestación. No hay categorías que solo se localicen en el ámbito de lo no escolar.</p>
+            <p>Los niveles no escolares – sistema educativo, política educativa, contextos y estructuras – comparten la categoría de ser fenómenos en las definiciones. Los niveles quinto, sexto y séptimo engloban a los contextos y estructuras culturales, sociales, socioculturales y la comunidad. Sin duda se trata de un nivel de gran extensión y que podría abarcar los objetos de estudio de varias disciplinas de ciencias sociales. En este último subconjunto se emplean los términos: modo, modalidad, comportamiento, actividad, acciones, fenómeno y conducta.</p>
+            <p>En los cuatro niveles escolares -individuo, individuos en interacción, grupo y escuela- se constatan diferencias en la concentración de categorías. Los niveles de escuela (nivel 4) e individuos en interacción (nivel 2) tienen el mayor número de términos. En el caso de la escuela se emplea para las definiciones de violencia escolar el ser: fenómeno, actividad y acciones, situación percibida, práctica, conducta, forma y manifestación. En el nivel de individuos en interacción la definición utiliza como categorías centrales el ser: fenómeno, acto, situación percibida, comportamiento, modalidad y manifestación.</p>
+            <p>En el nivel individuo (nivel 1) es definida la violencia escolar mediante las categorías de fenómeno, actividad y acciones, situación percibida, comportamiento y manifestación. El nivel con menor número de categorías es grupo (nivel 3) donde se emplean las categorías de modo y modalidad.</p>
+            <p>
+               El esquema del concepto de violencia escolar definido en los artículos seleccionados (
+               <xref ref-type="fig" rid="gf1">Figura 1</xref>
+               ) posibilita una síntesis de la dimensión representacional en juego en las definiciones, más allá de una categoría en particular o un tipo de definición. Se trata de una esquematización fundamentalmente espacial y morfológica de la violencia escolar en un único tiempo, es decir, con el primado de la sincronía constante. El supuesto teórico del concepto es el binomio escolar/no escolar que posibilita el despliegue conceptual de la violencia escolar. Ese despliegue, según el corpus de definiciones analizadas, es acotado con un repertorio de 11 categorías, donde algunas guardan una mayor o menor cercanía de sentido dependiendo de sus usos específicos. En el conjunto de las relaciones entre las categorías predominan las de causalidad y, en menor medida, covariación, constructiva de realidades y especular.
+            </p>
+            <p>Estas categorías alcanzan extensión o especificación, en general, de tipo primaria y en un único caso terciaria a través de la categoría comportamiento. Estas características se concretizan en una ontología de la realidad de la violencia escolar que se entiende segmentada en niveles. Son 7 niveles, de los cuales de 1 a 4 son propiamente escolares; los niveles 5 a 7 aluden a lo no escolar sin una jerarquía entre sí. En el repertorio el nivel prototipo o básico es el nivel 2, cuya categoría es el bullying, que posibilita condensar de un modo ejemplar los sentidos y significados del concepto.</p>
+            <p>
+               <fig id="gf1">
+                  <label>Figura 1</label>
+                  <caption>
+                     <title>Figura 1. Esquema de las redes de categorías del concepto de violencia escolar definido en artículos científicos seleccionados</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00145-fig1.PNG" />
+                  <attrib>Fuente propia</attrib>
+               </fig>
+            </p>
+         </sec>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Reflexiones finales</title>
+         <p>¿Qué es la violencia escolar? Fue una pregunta que tuvo sentido en un lapso en la investigación educacional chilena de inicios del siglo XXI. Las respuestas que se formularon se cristalizaron en definiciones que registran la vigencia del binomio escolar/no escolar en cuanto supuesto compartido que organiza el despliegue categorial y la cascada de sus características. La escuela deja de ser considerada como una totalidad que goza de autonomía pues, en estas definiciones, corresponde a un nivel específico y un punto de inflexión del binomio. Tal vez, es uno de los aspectos más notorios que muestran estas conceptualizaciones.</p>
+         <p>
+            Este supuesto teórico tuvo una cierta plausibilidad en el campo de la investigación en educación en Chile por la preponderancia de la disciplina escolar, pero hoy (desde las primeras décadas del siglo XXI) asistiríamos a su declive o tensiones sociales cada vez más visibles, por la promoción de la convivencia escolar basado en el respeto y promoción de los derechos humanos (la descripción y análisis de ese contexto ameritaría un estudio específico). No obstante, ya se ha señalado el ensamblaje entre ciencias sociales y políticas públicas, que junto con el mercado de la educación, configuran dispositivos heterogéneos y de racionalidades convergentes que sostienen estas distinciones, de un modo no evidente y a veces con tensiones e incoherencias en la regulación de la población (Ramos-Zincke
+            <ext-link ext-link-type="uri" xlink:href="https://cintademoebio.uchile.cl/index.php/CDM/article/view/48545/53609">Dispositivo de evaluación y gubernamentalidad del sistema educacional</ext-link>
+            ). Es esa relación de ensamblaje entre investigación educativa, estado y mercado que exige un trabajo epistemológico crítico y sistemático. En el caso chileno las definiciones de violencia escolar se concentran antes de la promulgación de la política pública para los años 2015 a 2018 (Ministerio de Educación
+            <ext-link ext-link-type="uri" xlink:href="http://convivenciaescolar.mineduc.cl/wp-content/uploads/2018/10/Politica-Nacional-de-Convivencia-Escolar-2015.2018.pdf">Política Nacional de Convivencia Escolar 2015/2018</ext-link>
+            ), lo cual podría ser un indicio para pensar en el establecimiento de un límite para un objeto de estudio e intervención pública; o también, la ausencia de definiciones entre 2014 y 2017 podría corresponder a una disminución de publicaciones indexadas en español frente al inglés, ante el prestigio de las lenguas en el posicionamiento científico. Sin duda una investigación sociológica e histórica de las ciencias podría esclarecer esos ensamblajes.
+         </p>
+         <p>El objeto de la violencia escolar se construye, igualmente, desde un supuesto ontológico compartido: existe la realidad de la violencia escolar, tiene niveles discretos que se desplazan en una escala de inclusividad entre las categorías, con relaciones de jerarquía para los niveles escolares y sin jerarquía en el entorno. En definitiva, hay una ontología estratificada compuesta por ámbitos diferenciados y dependiendo del caso, autónomos.</p>
+         <p>
+            Esta primacía en la espacialidad, al configurar la realidad de la violencia, deja en una posición subordinada a la problematización del tiempo o, de un modo implícito, se instaura una sincronía constante o una estática. Esta sincronía constante limita el estudio de los procesos o trayectos de violencias; es una decisión de comprensión de lo empírico con una abstracción conceptual no asumida explícitamente y que se anticipa a la observación (Cordero y Salinas
+            <ext-link ext-link-type="uri" xlink:href="https://scielo.conicyt.cl/scielo.php?script=sci_arttext&amp;pid=S0717-554X2017000100061&amp;lng=es&amp;nrm=iso&amp;tlng=es">Hacia una sociología de la abstracción</ext-link>
+            ). La obliteración de la temporalidad y la densidad histórica en la violencia escolar mantienen la investigación en un tiempo suspendido respecto de las transformaciones, aun cuando se declare la urgencia de la aplicabilidad o utilidad del conocimiento en esta materia. En este plano, la realidad se representa estratificada en niveles y externa al problema de las posiciones de observación, a pesar de que en términos escriturales se empleen los conceptos de construcción o producción de la violencia.
+         </p>
+         <p>Las definiciones se sitúan en una episteme donde el individuo es una unidad mínima, indivisible y que mediante sus relaciones o combinaciones en series se configuran los niveles que son parte de la violencia escolar como una realidad observable. El individuo es nominado de diversas formas (persona, participante y actor) que carecen de marcas de sexo, género, cuerpo, territorios, etnia/raza/color o afectos que le otorguen coordenadas de concreción e inscripción histórica y social. En estas omisiones se encuentran las categorías de subjetividad, experiencia o discursos de ese individuo prefigurado. Por tanto, hay indicios de la pretensión de su generalidad y que, al olvidar las diferencias individuales, establece una homogeneidad entre los grupos de individuos. Luego, es posible pensar una aleatorización desde la teoría estadística, una transnacionalización y una legibilidad para otros sistemas escolares no locales.</p>
+         <p>En coherencia con una episteme dualista, que prioriza a un individuo abstracto, donde el espacio prima sobre el tiempo, y las relaciones que se enfatizan son las de causalidad, este predominio no es absoluto, pues se agregan las relaciones de tipo especular, covariación y de creación de realidades; en su mayoría apuntan a las violencias que produce la escuela. Estas violencias son las estructuras sociales y, en el caso de su cruce, son los niveles de la escuela con la comunidad y la cultura. Estos últimos niveles poseen la característica de generalidad que, a su vez, potencialmente serían incluyentes de categorías omitidas, por ejemplo: familias, barrios, vecindarios, organizaciones, sistema de salud o justicia, sistema político y otras que podamos enumerar desde el conocimiento y experiencia de sociedades complejas.</p>
+         <p>En este examen de los escritos del campo de educación se observa un déficit en la relación entre el acto de definición y la explicitación de la posición teórica en la construcción del objeto. No se trata de una falta a un protocolo esperado de una publicación, sino de un cierre a la reflexión de los potenciales efectos ideológicos de una definición sin una guía teórica. En este aspecto Verón señala que “el ‘efecto ideológico’ existe cuando el discurso se representa como el único posible, y desaparece cuando la selección y la combinación se manifiestan a sí mismas como operaciones fundamentales” (1996:292). El énfasis es del propio Verón y buscó marcar que la discusión no se da a nivel de las proposiciones conceptuales aisladas, sino que el problema central es “las condiciones de producción” de esas proposiciones que definen el horizonte que permite hablar de una cierta manera sobre un cierto objeto. La presencia de la dimensión ideológica en el discurso científico se encuentra en el sistema de decisiones implícito en la construcción de los mensajes científicos.</p>
+         <p>La opción por la binarización de las violencias escolares en el discurso científico construye una frontera entre dominios separados. Esta frontera es una limitación para la posibilidad de pensar objetos híbridos ontológicos que traspasen el punto de inflexión del binomio. Ejemplos de esos objetos híbridos a través de fronteras son, por ejemplo, las violencias escolares en el uso de las tecnologías de información y comunicación; las materialidades de la escuela y los usos de los objetos; los movimientos estudiantiles, gremiales y sociales en relación con las violencias escolares; las violencias entre humanos y no-humanos, los animales en particular y diversos seres vivos.</p>
+         <p>Finalmente, el componente perfomativo de las conceptualizaciones mencionado al inicio del artículo, proporciona un modo de codificación y clasificaciones que estabilizan a un objeto (las violencias observables en la institución escolar como parte de un mismo mundo fáctico) que irrumpe en el campo científico y escolar con una serie de categorías analíticas para entidades desiguales, donde las perspectivas teóricas no juegan un rol determinante, especialmente en sus configuraciones ni en el tipo de explicación. Al mismo tiempo, por la naturaleza de las definiciones producen un efecto de ausencia de relaciones y categorías posibles (los caminos alternos) en la delimitación del objeto que se intenta conocer, y de este modo, quedan excluidas de ese acto. Sin embargo, las diversas categorías, sus conexiones y las potenciales explicaciones no solo de tipo causal, permiten introducir (llevándolas a un límite de consistencia) las posiciones de observación desde las dimensiones de producción, reproducción y cruce de las violencias en la institución escolar según un enfoque tríadico. Paradojalmente, al interior de las propias definiciones se encuentran las semillas para un trabajo de transformación hacia epistemes no dualistas y complejas.</p>
+         <sec>
+            <title>Alcance y limitaciones del estudio</title>
+            <p>Es necesario ampliar la muestra de casos de publicaciones científicas sobre violencia en escolar con géneros discursivos diferentes del artículo científico, como son las tesis de doctorado y los libros; luego, su comparación con publicaciones de diferentes comunidades académicas de los países de América Latina y el Caribe; además, de la producción en lengua inglesa dadas las exigencias de publicación actuales, todo ello podría contribuir a conocer las continuidades y variaciones en el significado y delimitación de este objeto de estudio. Las bases de datos de indexación constituyen una condición que requiere ser examinada en los países de la región por la exclusión de publicaciones que no adhieren o se encuentran fuera de su accionar. Para un cuadro de mayor profundidad es necesario tener presente los diferentes componentes de un espacio teórico y dispositivos heurísticos más allá de la definición.</p>
+         </sec>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Este artículo fue elaborado en el marco de los proyectos Fondecyt Nº 1140135 “Violencias en la escuela desde  la  perspectiva  de  estudiantes,  profesores  y  apoderados:  Un  enfoque  trans-disciplinar  y  multi-metodológico para su comprensión” y Fondecyt Nº 1170328 “Violencia verbal en la escuela: etnografía de la  interacción  entre  actores  escolares”.  Se  agradece  la  orientación  bibliográfica  sobre  la  definición  de  conceptos en ciencias sociales del profesor Andrés Gómez Seguel del Departamento de Antropología de la Universidad de Chile.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Arellano, J., Santoyo, M.,  (2009).
+               <italic>Investigar con mapas conceptuales. Procesos metodológicos</italic>
+               .  Madrid: Narcea ediciones
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arellano</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Santoyo</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Investigar con mapas conceptuales. Procesos metodológicos</source>
+               <publisher-name>Narcea ediciones</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Costa, M.(1998). "¿Por qué hay niños que cuando jóvenes llegan a comportarse violentamente? Claves para comprender    el    desarrollo    de    la    violencia".
+               <italic>Anuario    de    Psicología    Jurídica. 2</italic>
+               (15), 163-179. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://journals.copmadrid.org/apj/archivos/43985.pdf">https://journals.copmadrid.org/apj/archivos/43985.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Costa</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <article-title>¿Por qué hay niños que cuando jóvenes llegan a comportarse violentamente? Claves para comprender    el    desarrollo    de    la    violencia</article-title>
+               <source>Anuario    de    Psicología    Jurídica</source>
+               <volume>2</volume>
+               <issue>15</issue>
+               <fpage>163</fpage>
+               <lpage>179</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://journals.copmadrid.org/apj/archivos/43985.pdf">https://journals.copmadrid.org/apj/archivos/43985.pdf"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Gándara, M. (1994).
+               <italic>Consecuencias  metodológicas  de  la  adopción  de  una  ontología  de  la  cultura:  una  perspectiva desde la arqueología</italic>
+               . En González, J., Galindo,   (autor.);Metodología y cultura.  (67-118)., México: Consejo Nacional para la Cultura y las Artes
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gándara</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Consecuencias  metodológicas  de  la  adopción  de  una  ontología  de  la  cultura:  una  perspectiva desde la arqueología</chapter-title>
+               <year>1994</year>
+               <source>Metodología y cultura</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Consejo Nacional para la Cultura y las Artes</publisher-name>
+               <fpage>67</fpage>
+               <lpage>118</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Verón, E.,  (1996).
+               <italic>Conducta,  estructura  y  comunicación.  Escritos  teóricos  1959-1973</italic>
+               .  Buenos  Aires: Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Verón</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>Conducta,  estructura  y  comunicación.  Escritos  teóricos  1959-1973</source>
+               <publisher-name>Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

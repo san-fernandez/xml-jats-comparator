@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000200254</article-id>
+         <article-id pub-id-type="publisher-id">00010</article-id>         
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Big data, algoritmos y política: las ciencias sociales en la era de las redes digitales</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Big data, algorithms and politics: the social sciences in the era of social media</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7666-1281</contrib-id>
+               <name>
+                  <surname>González</surname>
+                  <given-names>Felipe</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Central de Chile. Chile</institution>
+            <institution content-type="normalized">Universidad Central de Chile</institution>
+            <institution content-type="orgname">Universidad Central de Chile</institution>
+            <country country="CL">Chile</country>
+            <email>felipe.gonzalez@ucentral.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2019</year>
+         </pub-date>
+         <!--volume>0</volume-->
+         <issue>65</issue>
+         <fpage>267</fpage>
+         <lpage>280</lpage>
+         <history>
+            <date date-type="received">
+               <day>21</day>
+               <month>03</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>06</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El presente artículo ofrece un estado del arte de cómo se ha venido a estudiar empíricamente la relación entre política y redes sociales en la última década, desde el punto de vista de la naturaleza del objeto de estudio, las nuevas técnicas de análisis y métodos sobre las que se han apoyado las ciencias sociales, las agendas de investigación a que ha dado lugar y algunos de los dilemas éticos que suscita. El artículo consta de tres partes. Primero, desarrollamos una discusión de los principales métodos de análisis de la relación entre política y redes sociales, el big data y los algoritmos, y lo comparamos con los métodos tradicionales de encuestas de opinión. Segundo, ofrecemos una revisión de las principales preocupaciones que han guiado la investigación en los últimos diez años: la representación y campañas políticas, nuevas comunidades políticas y nuevas formas de acción colectiva. Finalmente, la tercera sección reflexiona sobre los dilemas éticos y debates que plantea el uso de las nuevas técnicas de análisis en las ciencias sociales.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The article offers a state of art about the empirical study of the relationship between politics and social media during the last decade, from the point of view of the nature of the subject, new research techniques and methods used in the social sciences, the research agendas it has fostered, and some of the ethical dilemmas this research raises. The article is divided in three main parts. Firstly, we develop a discussion of the main research methods to approach the relationship between politics and digital media, big data and algorithms, which we compare with traditional opinion polls. Secondly, we offer a review of the main issues that have guided this research agenda during the last ten years: political representation and campaigns, emerging political communities, and new forms of collective action. Finally, the last section reflects on the ethical dilemmas and debates that arise from the utilization of new research methods in the social sciences.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>política</kwd>
+            <kwd>redes sociales</kwd>
+            <kwd>big data</kwd>
+            <kwd>algoritmos</kwd>
+            <kwd>encuestas opinión</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>politics</kwd>
+            <kwd>social media</kwd>
+            <kwd>big data</kwd>
+            <kwd>algorithms</kwd>
+            <kwd>opinion survey</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="2" />
+            <equation-count count="0" />
+            <ref-count count="4" />
+            <page-count count="14" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>En 2014, la firma de análisis de datos que trabajó en la campaña de Donald Trump y de Brexit, Cambridge Analytica, llevó a cabo un estudio en el cual utilizó la plataforma de Facebook para realizar pruebas de personalidad a cientos de miles de usuarios de la red social. El objetivo declarado era el de desarrollar modelos que permitan predecir el comportamiento de los usuarios. Sin embargo, la empresa usó la ocasión -con fines supuestamente académicos- para extraer información de los contactos de los sujetos estudiados, produciendo una base de decenas de millones de personas. Como vendría a saberse unos años después, el objetivo de la minería de datos fue el de producir modelos predictivos que tenían el fin de influenciar la conducta de los votantes (en su mayoría registrados) por medio del envío de información selectiva.</p>
+         <p>
+            Esta tendencia no era nueva. Ya en 2010 el equipo de Facebook había incluido en su plataforma una pantalla que indicaba a los usuarios las amistades que ya habían votado en las elecciones. Como posteriormente publicara el grupo de investigadores a cargo del experimento en la revista Nature (
+            <ext-link ext-link-type="uri" xlink:href="https://www.nature.com/articles/nature11421">A 61-million-person experiment in social influence and political mobilization</ext-link>
+            ), alrededor de 340 mil personas hubiesen preferido no votar de no haber visto que parte que sus amistades había participado en los comicios. Historias como estas, que destacan el creciente uso político de datos producidos en redes sociales como Facebook o Twitter, son cada vez más comunes en los medios de comunicación y en la conversación social. Conceptos como noticias falsas, bots, post-verdad y discurso de odio, por mencionar algunos, se han ido asentando en nuestro acervo cotidiano y hoy se toman también la agenda pública.
+         </p>
+         <p>¿Qué agenda de investigación surge del análisis de la relación entre política y redes sociales y qué herramientas disponen las ciencias sociales dar cuenta de estas nuevas realidades? Dada la naturaleza del objeto, este tipo de preguntas han sido abordadas de manera multidisciplinaria, conectando las ciencias de análisis de datos y programación, con ciencias del comportamiento humano como la sociología, la ciencia política y la psicología social. En Chile y Latinoamérica, sin embargo, esta agenda de investigación está en pleno desarrollo y los trabajos ensayísticos dan paso de a poco a los intentos por entender y sistematizar la relación entre política y redes sociales de manera empírica.</p>
+         <p>En este contexto, el presente artículo busca ofrecer un estado del arte de cómo se ha estudiado este vínculo, qué preguntas suscita, las nuevas técnicas de análisis sobre las que han de apoyarse las ciencias sociales, las investigaciones a que han dado lugar, así como algunos de los dilemas éticos.</p>
+         <p>
+            Como estrategia metodológica el artículo pasa revista a la literatura que tiene un marcado énfasis empírico, en el cual se despliegan y han venido desarrollando las nuevas técnicas de recolección y procesamiento de datos en ciencias sociales. Esto explica que para algunos temas la literatura revisada sea en gran parte (aunque no exclusivamente) de habla inglesa, puesto que las revistas especializadas que han surgido en el último tiempo lo han hecho en dicho idioma (por ejemplo,
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/home/bds">Big Data &amp; Society</ext-link>
+            ). Además, una parte importante es de publicación reciente, lo que se debe tanto a que esta agenda de investigación ha logrado una masa crítica en los últimos años, y que muchas de las técnicas de análisis de datos se han ido desarrollando y refinando en las ciencias sociales solo en el último tiempo. En este sentido, el presente trabajo puede considerarse un aporte a la divulgación de trabajos para la comunidad hispanoparlante.
+         </p>
+         <p>
+            Con todo, la estrategia metodológica implica que quedarán fuera importantes contribuciones y debates de orden ensayístico y teórico, cuya reseña escapa a los límites de esta revisión. Entre ellos, podemos encontrar notables contribuciones como
+            <ext-link ext-link-type="uri" xlink:href="http://www.fondodeculturaeconomica.cl/1266b9a1-f5c9-47c5-a7d2-19123edf1784/Mecanismos-de-la-posverdad.aspx">Mecanismos de la posverdad</ext-link>
+            de Jacqueline Fowks, publicado en 2017, y otro tipo de reflexiones teóricas sobre el rol de las redes sociales en la esfera pública en volúmenes especializados, como las que contiene el volumen
+            <ext-link ext-link-type="uri" xlink:href="http://editorialrazonypalabra.org/pdf/ryp/InvestigarRedesSociales.pdf">Investigar las redes sociales</ext-link>
+            editado en 2013 por Octavio Islas y Paola Ricaurte en México, o el tipo de reflexiones desarrolladas por Teresa Ayala en su artículo
+            <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/459/45931862002.pdf">Redes sociales, poder y participación ciudadana</ext-link>
+            .
+         </p>
+         <p>El artículo se estructura en tres partes. En primer lugar, abordamos los desafíos metodológicos que plantean los grandes volúmenes de datos a las ciencias del comportamiento, con especial énfasis en la distinción entre métodos convencionales como encuestas de opinión y el análisis de big data. Luego, revisamos tres agendas de investigación en torno a los cuales se ha desarrollado la investigación empírica respecto a la relación entre política y redes sociales (social media). Concluimos esbozando algunos temas de discusión que suscita este campo de estudio en las ciencias sociales.</p>
+      </sec>
+      <sec>
+         <title>Big data y la emergencia de un nuevo paradigma en las ciencias del comportamiento humano</title>
+         <p>
+            La novedad para las ciencias sociales es que los métodos convencionales como las encuestas de opinión han sido desplazadas por las técnicas de manejo y análisis de grandes volúmenes de datos conocidos como minería de datos y big data, que tienen una aproximación diferente al comportamiento humano. ¿Cómo se define este concepto y qué relación tiene con las ciencias sociales? Rob Kitchin y Gavin McArdle en
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/2053951716631130">What makes Big Data, Big Data?</ext-link>
+            señalan que el apelativo “big data” se utiliza para referirse al manejo de datos que tienen al menos tres características: son enormes volúmenes de información, creados en tiempo real y en una variedad de formatos (estructurados, semi-estructurados o no estructurados). El uso de la “big data” se ha convertido en un imperativo para ciencias tan diversas como la biología, informática, física, sociología y economía.
+         </p>
+         <p>
+            Desde una perspectiva que acentúa su rol como una práctica social, Karen Yeung lo entiende como un “arreglo socio-técnico que utiliza una técnica metodológica que combina la tecnología (constituida por una configuración de hardware de procesamiento de información y software que puede examinar y organizar grandes cantidades de datos en poco tiempo), con procesos (a través de los cuales se aplican procesos para minar datos, convertir patrones en análisis predictivos, y utilizar dichos analíticos para analizar más datos)” (
+            <xref ref-type="bibr" rid="B4">Yeung 2018</xref>
+            :1).
+         </p>
+         <p>En términos de comportamiento humano, hay múltiples fuentes de datos que tienen las características antes mencionadas, y que han comenzado a ser explotados a partir de la lógica algorítmica antes descrita. En este sentido, para las ciencias sociales el hecho fundamental es que en la interacción mediada por tecnologías digitales (que incluye intermediarios diversos como smartphones, tarjetas de crédito, páginas web, interfaces, detectores o redes sociales, por mencionar algunos), las personas producimos datos en tiempo real que se van almacenando y pueden ser analizados. Estos tienen la característica de que no reflejan las opiniones expresadas por las personas, sino que son “rastros” que dejamos involuntariamente en nuestros quehaceres cotidianos. Esto nos entrega una comprensión más amplia del tipo de información que se produce en la interacción con las tecnologías digitales. Los ciudadanos, consumidores o votantes no solo dejamos rastros en las redes sociales (me gusta, comentarios, fotos, clicks, etc.), sino también en todas aquellas operaciones en las que se deja un registro, tales como transacciones con tarjetas de crédito en los puntos de compra, la utilización de tarjetas en los medios de transportes, las mediciones realizadas por censores en un mall, datos de teléfonos móviles o los registros efectuados por cámaras de vigilancia. De este modo, producimos flujos de información de gran magnitud que difícilmente pueden ser entendidos y procesados con los métodos tradicionales dadas sus limitaciones logísticas. A su vez, el acceso y procesamiento de dicha información sirve como una nueva manera de extraer ganancias y de aumentar la “vigilancia” de poblaciones a través la creciente interconexión de bases de datos y técnicas de análisis.</p>
+         <p>En el plano de los recursos digitales, los pioneros en la explotación de esta información (que se conoce en primera instancia como minería de datos) han sido las grandes empresas tecnológicas como Amazon, Netflix y Google; al igual que las de redes sociales como Twitter, Snapchat o Facebook. Todos ellos han utilizado el inmenso volumen de información con que cuentan para la producción de datos no estructurados y la construcción de perfiles de usuarios. De manera más general, esto se enmarca en lo que se ha venido a llamar el “capitalismo de plataforma”, en el cual las nuevas empresas tecnológicas establecen instrumentos que permiten la coordinación de los consumidores y operan en gran medida como intermediarios. En este contexto, los datos se han convertido en la materia prima de las grandes corporaciones, las cuales extraen sus ganancias de la producción y procesamiento de la información, comúnmente segregada para usos publicitarios.</p>
+         <p>
+            En línea con estos nuevos desarrollos, con el advenimiento y consolidación de los medios digitales se constituyen exorbitantes volúmenes de información. Según Smith, solo los datos producidos por Facebook, por ejemplo, alcanzaban en 2018 los 10 billones de mensajes, 5.7 billones de “me gusta” y 350 millones de fotos en un día. Estos datos, materia prima de muchas investigaciones, son producidos por los usuarios de plataformas digitales sin mediación de un tercero, lo que contrasta con cualquier encuesta tradicional, que requieren de muestreos y diseños determinados previamente con temáticas que al momento de su aplicación ya pueden haber quedado fuera del ámbito de interés. Esto implica que quienes realizamos investigación empírica nos vemos enfrentados a organizar una infraestructura de datos acorde a otros estándares, tales como el uso servidores online para recolectar y procesar información producida en tiempo real, o el aumento de la capacidad computacional para procesar grandes volúmenes de datos. Así, por ejemplo, estudiando la ideología política de usuarios online, Barberá (
+            <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/abs/10.1177/0956797615594620">Tweeting from left to right</ext-link>
+            ) utiliza la interface de aplicación para programación (conocida como API por su acrónimo en inglés) para extraer más de 70 millones de comentarios producidos y reproducidos por los usuarios en Twitter en tiempo real. De manera similar, Sanovich comenta en
+            <ext-link ext-link-type="uri" xlink:href="https://www.oxfordscholarship.com/view/10.1093/oso/9780190931407.001.0001/oso-9780190931407-chapter-2">Russia. The origins of digial misinformation</ext-link>
+            que su estudio sobre desinformación fue a partir de más de 14 millones de tweets posteados entre febrero de 2014 y diciembre de 2015.
+         </p>
+      </sec>
+      <sec>
+         <title>¿Big data o encuesta de opinión?</title>
+         <p>Considerando los aspectos antes mencionados, cabe preguntarse cuál es entonces la diferencia entre encuestas de opinión y el análisis de la conversación e interacción política en la red abierta, tanto en términos de las metodologías que las informan como de los resultados que pueden presentar. En primer lugar, las encuestas de opinión siguen la lógica de las estadísticas convencionales, mientras que el análisis de redes sociales persigue más bien la lógica de la minería de datos. Mientras que las estadísticas fueron desarrolladas y puestas en funcionamiento por los Estados intentando gobernar las poblaciones por medio de la creación de información y la cuantificación del comportamiento humano, la minería de datos fue desarrollada por compañías que ya registraban enormes volúmenes de datos sobre sus clientes, sin necesariamente saber qué hacer con ellos. Por eso, puede decirse que las estadísticas operan bajo el imperativo de “construir” el dato por medio de censos presenciales, que recién en los años 1930 se basaron en muestreos representativos.</p>
+         <p>
+            Siguiendo este razonamiento, Fourcade y Healy (
+            <ext-link ext-link-type="uri" xlink:href="https://pure.mpg.de/pubman/faces/ViewItemFullPage.jsp?itemId=item_1868104_7">Classification situations</ext-link>
+            ) señalan que la minería de datos opera bajo el imperativo de que los datos se recolectan porque ya se dispone de ellos, los cuales se analizan y exploran para rastrear conductas y buscar nuevas oportunidades de ganancia. Esto genera una distinción fundamental respecto a los costos del levantamiento de la información, como puede observarse al comparar una encuesta representativa frente al análisis de una base de datos de una empresa que registra sus transacciones día a día de manera automatizada (
+            <xref ref-type="table" rid="gt1">Tabla 1</xref>
+            ).
+         </p>
+         <p>Por eso, la captura ininterrumpida de la información no solo permite abordar el fenómeno de la opinión pública de manera compleja y fluida, sino también sortear situaciones que son tradicionalmente adversas a las metodologías de encuestas que representan una “toma instantánea” altamente influenciada por la contingencia. Un ejemplo de esto sería la bajada de un candidato presidencial en medio del levantamiento de una encuesta de opinión. Por eso, siguiendo la metáfora, si las encuestas de opinión pueden describirse como una “foto instantánea” de la realidad, el monitoreo de redes es un “video” que captura la opinión pública y las conductas en movimiento, distinguiendo entre tendencias instaladas, hechos coyunturales y temas emergentes.</p>
+         <p>Otra diferencia fundamental con las encuestas de opinión es que la información y los temas de búsqueda no se definen ex ante en una pauta de encuestador, sino que estos aparecen como una masa de información tremenda que debe ser ordenada y clasificada ex post. Mientras las encuestas y datos administrativos son diseñados para propósitos estadísticos, el big data opera en muchas ocasiones en base a datos que fueron recogidos para otros propósitos. Por eso, el big data más bien parece una forma de “escucha” inductiva más que un levantamiento de datos tradicional. Ahora bien, para llevar a cabo esta tarea es necesario contar con la participación de investigadores y analistas que den sentido a la información a partir de teorías, sin perjuicio de que se puedan usar algoritmos que busquen patrones en la información. La propiedad de los datos, por otro lado, no es solo de los organismos gubernamentales o de quién diseña el instrumento de medición, sino que se encuentra dispersa en el amplio espectro de organizaciones que registran información de usuarios.</p>
+         <p>
+            Finalmente, otra diferencia respecto de las encuestas de opinión convencionales dice relación con las capacidades computacionales para el procesamiento de la información, así como de almacenamiento de dichos volúmenes de datos (de terabytes o petabytes, 240 y 250 bytes, respectivamente) y de visualización. Aunque no existe una definición unívoca, sino más bien distintos tipos de big data (Kitchin y McArdle prueban este punto en
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/2053951716631130">What makes big data, big data?</ext-link>
+            a través del análisis de 26 distintas bases de datos consideradas “big data”), queda claro que las técnicas de análisis y capacidades de acumulación de información difieren de manera significativa. Baste con seguir un solo ejemplo. Si una encuesta de opinión pública semanal como la encuesta Cadem en Chile varía entre 700 y 1400 casos, el Informe Interbarómetro de la Universidad Central de Chile se realiza (mensualmente) sobre la base de más de un millón de documentos o puntos de observación.
+         </p>
+         <p>
+            Con todo, es preciso señalar que estas herramientas no reemplazan a una encuesta de opinión pública convencional, sino más bien la complementa en el objetivo de comprender los vaivenes de la opinión o el comportamiento en espacios a los que las primeras no tienen acceso. Esto porque tanto el tipo de muestreo como el formato de la información difieren de manera importante. Así, mientras las encuestas de opinión buscan dar con una muestra representativa de la población (habitantes de una región o el país completo), las técnicas de recolección y procesamiento de datos ayudan a recoger las opiniones exclusivamente expresadas en las redes sociales (
+            <xref ref-type="table" rid="gt2">Tabla 2</xref>
+            ).
+         </p>
+         <p>Cabe notar que una diferencia importante con las encuestas de opinión dice relación con los métodos de recolección de información. Si la encuesta de opinión se basa en el despliegue de encuestadores cara a cara, vía telefónica, y últimamente a través de internet, en el análisis de redes sociales digitales es necesario desplegar otro tipo de conocimientos. Gran parte de los datos sobre redes digitales o internet se obtienen a partir de métodos de programación mediante los cuales se automatiza la recolección de información de sitios web, periódicos o redes sociales, una técnica conocida como “web scraping”. Twitter, por ejemplo, ha desarrollado y puesto a disposición del público un código que sirve como vía de acceso a la información que se produce públicamente en la red, a través de lo que se conoce como “Application Programming Interface” o API. Esto explica por qué una parte importante de la investigación empírica en este campo se base en datos recogidos de dicha red (pues no es el caso de Facebook, que tiene políticas de privacidad que impiden extraer información de cuentas que no sean públicas). En este sentido, los investigadores quedan a merced de las empresas que sirven de intermediarios, en la medida en que estás deben poner la información a disposición, muchas veces de manera limitada. Adicionalmente, esto abre todo un campo de discusión sobre los dilemas éticos que plantea el uso de información privada. Si bien las plataformas de micro-blogging han ido acomodándose a las regulaciones existentes en distintos contextos institucionales -y viceversa-, cuestiones como el consentimiento del uso de la información quedan muchas veces en “zonas grises” de interpretación. En la medida en que los países van convergiendo a estándares de uso de la información privada, como en la Unión Europea, se plantean nuevos dilemas éticos y prácticos tales como la propiedad de dichos datos y el resguardo que se hace de los mismos en vista de su uso comercial.</p>
+         <p>
+            Un aspecto importante del análisis de esta información dice relación con la frontera entre análisis de datos cualitativos y cuantitativos. Debido a que estas plataformas permiten compartir información escrita, académicos y analistas han desarrollado innovadoras técnicas para dar sentido al contenido y formato de la información producida por plataformas virtuales a través del análisis semántico computarizado. Entre estos, se encuentra el popular análisis de sentimientos -o estados de ánimo- en Facebook de Caton, Hall y Weinhardt (
+            <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/full/10.1177/2053951715612822">How do politicians use Facebook?</ext-link>
+            ) realizado en 2015, que se basa en la utilización de diccionarios pre-fabricados para caracterizar el “tono” de las comunicaciones emitidas o reproducidas por usuarios (normalmente positivo, negativo o neutro), que también ha sido desarrollado en investigaciones recientes como la de Soroka, Daku, Hiaeshutter-Ricke, Guggenheim y Pasek (
+            <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/abs/10.1177/0093650217725870">Negativity and positivity biases in economic news coverage</ext-link>
+            ). Otra técnica que ha ganado prominencia es la modelación de tópicos, que como muestran Dimaggio, Nag y Blei en 2013 (
+            <ext-link ext-link-type="uri" xlink:href="https://nyuscholars.nyu.edu/en/publications/exploiting-affinities-between-topic-modeling-and-the-sociological">Exploiting affinities between topic modeling and the sociological perspective on culture</ext-link>
+            ) es capaz de llevar a cabo análisis semánticos de sendas cantidades de documentos como libros, noticias, columnas de opinión en periódicos o artículos científicos. Esta técnica utiliza algoritmos para buscar “clusters” de palabras en archivos extensos con información temática y, a diferencia de los análisis de prensa tradicionales en los cuales la investigación asigna criterios de clasificación a priori, el topic modelling es una técnica inductiva en la cual los temas aparecen a partir del análisis probabilístico de los textos (Latent Dirichlet Allocation es el modelo más simple, que busca capturar la intuición de que hay múltiples temas en los textos). Un tema se considera una distribución sobre un vocabulario fijo y los términos que son predominantes en un “tópico”, son aquellos que aparecen juntos recurrentemente en un documento. Como sugiere Dimaggio y su equipo, la modelación de tópicos basada en el Latent Dirichlet Allocation realiza una aproximación relacional a los significados, puesto que asume que las co-ocurrencias son importantes en la asignación de palabras a determinados tópicos.
+         </p>
+         <p>
+            <table-wrap id="gt1">
+               <label>Tabla 1</label>
+               <caption>
+                  <title>Tabla 1</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-65-00267-tab1.PNG" />
+               <table-wrap-foot>
+                  <fn id="TFN1">
+                     <p>
+                        Fuente: elaborado con información de Kitchin and McArdle (
+                        <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/2053951716631130">What makes big data, big data?</ext-link>
+                        )
+                     </p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+         </p>
+         <p>
+            <table-wrap id="gt2">
+               <label>Tabla 2</label>
+               <caption>
+                  <title>Tabla 2</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-65-00267-tab2.PNG" />
+               <table-wrap-foot>
+                  <fn id="TFN2">
+                     <p>Elaboración propia</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+         </p>
+      </sec>
+      <sec>
+         <title>Política, redes sociales y big data: mapeando la agenda de investigación</title>
+         <p>Como cabe esperar, parte importante de las aproximaciones y técnicas antes señaladas no se han desarrollado necesariamente en el campo de las ciencias sociales. Más bien, provienen de múltiples disciplinas tales como las matemáticas, la programación e informática, y más recientemente la llamada “ciencia de datos”. Por eso, la comprensión de la relación entre redes sociales y política utilizando estas herramientas implica un proceso de aprendizaje, en el que las técnicas se importan a otro campo científico y se ponen al servicio de otras agendas de investigación, preguntas y teorías. En ciencia política, por ejemplo, las preguntas centrales que han ocupado a los observadores son de variada índole. Por ejemplo, ¿cómo cambia la comunicación política y cuál es su relación con antiguas formas de comunicación de masas?, ¿qué comunidades políticas se forman en redes sociales?, ¿cómo se hace campaña en redes sociales y si estas tienen la capacidad de influir en los votantes? Organizando la literatura, podemos encontrar al menos tres ejes principales sobre los cuales se aglutinan importantes agendas de investigación empírica, sin desmedro de que esto no agota la creciente literatura que ha ido consolidándose en la última década.</p>
+      </sec>
+      <sec>
+         <title>Redes sociales y campañas políticas</title>
+         <p>
+            Una importante agenda se deriva del hecho de que, con las redes sociales, el electorado y los medios para alcanzarlo han experimentado una revolución. Con internet en la casa, el trabajo o el bolsillo, el potencial elector promedio tiene acceso a múltiples fuentes y formatos de información que circulan en tiempo real y está al alcance de las campañas políticas por una multiplicidad de canales. Como señala Kruikemeier: “el potencial de internet de conectar con votantes y movilizarlos, les da a los políticos la oportunidad de promoverse a ellos mismos y comunicar interactivamente con el electorado, sin la interferencia de los periodistas” (
+            <xref ref-type="bibr" rid="B2">2014</xref>
+            :132). Por eso, si las campañas tradicionales se basaban en las franjas televisivas y radiales, así como en el “puerta a puerta”, hoy en día se trata de distinguir nichos y encapsular la oferta política en formatos que circulan a gran velocidad: tuits, videos, imágenes, correos electrónicos, mensajes de texto, memes, etc. Se trata entonces de cualquier canal que permita a los candidatos exponer su vida privada para mostrar cercanía, circular una frase célebre, o emplazar a otro candidato con el fin de atraer, sino votantes, al menos “seguidores”. De allí que algunos estudios como el de Daniel, Obholzer y Hurka (
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/1354068817747755?ai=1gvoi&amp;mi=3ricys&amp;af=R">Static and dynamic incentives for twitter usage in the European parliament</ext-link>
+            ) hayan apuntado a explicar la presencia y frecuencia de uso de las redes sociales por parte de políticos.
+         </p>
+         <p>
+            De manera general, subyace la idea de que las tecnologías digitales abren espacios para nuevas dinámicas políticas, especialmente a partir de lo que se ha denominado “interactividad”, como lo llama Kruikemeier, o el hecho de que la información entre políticos y representados fluye en ambas direcciones. En el caso de Twitter, por ejemplo, los políticos y candidatos tienen la opción de interactuar con las cuentas de los demás, y estudios como los de Lyons y Veenstra (
+            <ext-link ext-link-type="uri" xlink:href="https://www.liebertpub.com/doi/abs/10.1089/cyber.2015.0319">How (not) to talk on twitter</ext-link>
+            ) ha mostrado que aquellos que incluyen señales conversacionales son más probables de ser vistos de manera positiva. De todos modos, el uso que se da a las redes sociales difiere en los distintos contextos. Por ejemplo, Theocharis, Barberá, Fazekas, Popa y Parnet (
+            <ext-link ext-link-type="uri" xlink:href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jcom.12259">A bad workman blames his tweets</ext-link>
+            ) muestran en contexto europeo y norteamericano que los políticos utilizan las redes, especialmente Twittter, como medio para difusión de sus mensajes. Por otro lado, Muñiz, Salazar, Alonzo y Martínez muestran en
+            <ext-link ext-link-type="uri" xlink:href="http://amic2015.uaq.mx/docs/memorias/GI_10_PDF/GI_10_El_uso_politico.pdf">El uso político de las redes sociales en elecciones</ext-link>
+            que para el caso de las campañas electorales de 2013 en México, los políticos no utilizan tanto sus redes sociales (en este caso Facebook) para promover la participación ciudadana o difundir mensajes, sino para recibir propuestas y reflexiones. Finalmente, Vásquez analiza cuentas institucionales en España para mostrar que existe también un uso partidista en cuentas de Twitter en la administración pública (
+            <ext-link ext-link-type="uri" xlink:href="http://www.revistalatinacs.org/071/paper/1106/26es.html">Usos político-partidistas</ext-link>
+            ).
+         </p>
+         <p>
+            Lo que se desprende de lo anterior, como sugiere Fernández en
+            <ext-link ext-link-type="uri" xlink:href="https://doctrina.vlex.com.co/vid/twitter-ciberpolitica-653317225">Twitter y la ciberpolítica</ext-link>
+            , es que las contiendas y campañas políticas han cambiado porque el territorio digital se ha convertido en un espacio de disputa, sino por los votos, por las preferencias y la atención del público en general. Por eso, una parte importante de la investigación sobre política y redes sociales, como la de Caton, Hall y Weinhardt (
+            <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/full/10.1177/2053951715612822">How do politicians use Facebook?</ext-link>
+            ) o Dolezal (
+            <ext-link ext-link-type="uri" xlink:href="https://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.83">Online campaigning by Austrian political candidates</ext-link>
+            ), ha seguido esta línea y se aboca a entender cómo los candidatos montan campañas online y cuál es el eventual impacto que esto tiene en el comportamiento de los votantes, o bien, cómo se transforma la comunicación política en este contexto como el artículo de Nulty, Theocharis, Popa, Parnet y Benoit (
+            <ext-link ext-link-type="uri" xlink:href="https://www.mzes.uni-mannheim.de/d7/en/publications/journal-article/social-media-and-political-communication-in-the-2014-elections-to-the-european-parliament">Social media and political communication</ext-link>
+            ). En esta línea, por ejemplo, Deltell, Claes y Osteso (
+            <ext-link ext-link-type="uri" xlink:href="https://idus.us.es/xmlui/handle/11441/66738">Predicción de tendencia política por Twitter</ext-link>
+            ) analizan el caso de las elecciones Andaluzas en 2012 y muestran que los sentimientos y tendencias políticas de una comunidad se pueden predecir con Twitter. De manera similar, Kruikemeier en
+            <ext-link ext-link-type="uri" xlink:href="https://www.sciencedirect.com/science/article/pii/S0747563214000302?via%3Dihub">How political candidates use Twitter and the impact on votes</ext-link>
+            encuentra una asociación positiva entre el número de votos y el uso de redes sociales, así como el hecho de que el uso de Twitter de manera interactiva tiene impactos positivos sobre el electorado. Por otro lado, Díaz en
+            <ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/318561327_Las_redes_sociales_en_las_campanas_de_los_candidatos_a_diputados_locales_del_PRI_el_PAN_y_el_PRD_en_las_elecciones_de_2015_en_el_Estado_de_Mexico">Las redes sociales en las campañas de los candidatos a diputados locales del PRI, el PAN y el PRD en las elecciones de 2015 en el Estado de México</ext-link>
+            realizan un análisis de contenido desplegado en las campañas del congreso local del Estado de México (45 distritos) y muestran que en este espacio las redes digitales no han logrado desplazar los medios de comunicación convencionales. Las redes sociales en estos casos fueron usadas sistemáticamente como agendas o diarios para documentar las actividades de los candidatos.
+         </p>
+         <p>Ahora bien, no existe consenso en la literatura sobre el impacto que tienen el número de seguidores o las redes sociales en la movilización de votantes. Muchas veces el debate se orienta (equivocadamente) a juzgar el hecho de que el número de seguidores en Twitter o RTs, por ejemplo, no implican una relación directa con los votos. Esta es una manera errónea de enfocar el problema, porque las redes sociales y la información que allí circula tiene la capacidad de incidir sobre el comportamiento de las personas a través de otros mecanismos más sutiles y no capturados por los métodos tradicionales como encuestas de opinión. De hecho, desde la teoría convencional de redes hay buenas razones para pensar que el uso de redes sociales digitales ejerce un efecto sobre el comportamiento político de las personas.</p>
+         <p>
+            Una de las principales es que la exposición a la información (o des-información) termina afectando la percepción que tienen las personas respecto de los candidatos, sus opciones reales de ganar una elección o de la opinión de los demás. Esto puede modificar la conducta al producir efectos imitativos, bajar el costo reputacional de seguir a algún candidato/a controvertido, o bien, alentar o desalentar la participación en elecciones. Esto quedó mostrado en el artículo publicado en la prestigiosa revista Nature mencionado en la introducción. A través de un diseño experimental en el cual se enviaron mensajes sobre movilización política a 61 millones de usuarios de Facebook durante las elecciones del congreso estadounidense en 2010, investigadores de la Universidad de California en San Diego mostraron que las redes tienen la capacidad de influenciar la expresión política, la búsqueda de información y el comportamiento electoral. En este caso, este efecto era principalmente ejercido por la transmisión del mensaje, más que por el mensaje mismo. Así, no es necesario seguir a candidatos políticos de cerca, ni interactuar con ellos, para que las redes sociales ejerzan alguna influencia en el comportamiento de las personas. Más bien, como argumentan O`Connor y Weatherhall en
+            <ext-link ext-link-type="uri" xlink:href="https://yalebooks.yale.edu/book/9780300234015/misinformation-age">The misinformation age</ext-link>
+            , la pregunta parece ser cómo circula la información o des-información y cómo esta afecta a los que están expuestos a ella. Se trata de una pregunta fundamental, por cuanto la democracia supone al menos la existencia de ciudadanos informados y capaces de tomar decisiones basadas en información confiable.
+         </p>
+      </sec>
+      <sec>
+         <title>Redes sociales, opinión pública y comunidades políticas</title>
+         <p>
+            Una segunda área de estudio dice relación con el hecho de que con las redes sociales cambia también la opinión pública, sus medios de expresión, la velocidad de circulación y el impacto que esta tiene en las decisiones de los gobernantes y viceversa. Por un lado, las redes sociales permiten expresar opiniones en tiempo real, generar tendencias e incidir en las expectativas de aquellos que toman decisiones. Esto es lo que está detrás de los “trending topics” que instalan temas en la agenda “desde abajo”. Como muestra la investigación de Conway, Kenski y Wang (
+            <ext-link ext-link-type="uri" xlink:href="https://onlinelibrary.wiley.com/doi/full/10.1111/jcc4.12124">The rise of twitter in the political campaign</ext-link>
+            ) basadas en el estudio de series de tiempo, parece haber una relación simbiótica entre la agenda que instalan los medios tradicionales y los candidatos y políticos en las redes sociales. En Chile, los informes
+            <ext-link ext-link-type="uri" xlink:href="https://www.politicayredessociales.cl/interbarometro">Interbarómetro</ext-link>
+            han mostrado que, al menos en términos de temas y cobertura de políticos, los periódicos digitales y las redes sociales no necesariamente convergen. Candidatos más jóvenes y menos consolidados tienen mayor vitrina en los medios digitales, mientras que políticos más tradicionales tienen una cobertura mayor. Lo mismo ocurre con los temas en que se pueden clasificar las conversaciones en redes y en los artículos en medios digitales.
+         </p>
+         <p>
+            Por otro lado, Bastos, Mercea y Charpentier (
+            <ext-link ext-link-type="uri" xlink:href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jcom.12145">Tents, tweets, and events</ext-link>
+            ) señalan que las redes sociales también exponen a las personas a fuentes de información que tienen altos sesgos de selección, planteando la pregunta por las comunidades políticas que se forman en el territorio digital o su relación con procesos de movilización política y acción colectiva. Así, por ejemplo, una pregunta recurrente en los estudios es si la comunicación online implica segmentación por medio de la exposición selectiva a la información conocido como cámaras de ecos (eco chambers), o bien, constituye una conversación más integradora y “nacional”. Siguiendo esta línea, Barberá, Jost, Nagler, Tucker y Bonneau, muestran en
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/0956797615594620?journalCode=pssa">Tweeting from left to right</ext-link>
+            que la información política es intercambiada principalmente entre individuos con ideologías y preferencias similares, pero no así otros temas. Otras conversaciones, en cambio, son más dinámicas y comienzan como una “conversación nacional” para posteriormente polarizarse. En definitiva, y en línea con los estudios de opinión pública, Huckfeldt (
+            <ext-link ext-link-type="uri" xlink:href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199270125.001.0001/oxfordhb-9780199270125-e-006">Information, persuasion, and political communication networks</ext-link>
+            ) muestra que la estructura o morfología de las redes por donde circula la información puede producir efectos como “falsos consensos”.
+         </p>
+         <p>
+            En general estos estudios también apuntan en dirección de otro tipo de preguntas de orden político normativo, tales como la propensión a producir discurso del odio, propio de las redes y un catalizador de la polarización. Pues las redes sociales generan dilemas éticos tales como la agresividad que ampara el anonimato, los límites de la libertad de expresión y la generación de noticias falsas. En este plano, como muestran Barberá, Jost, Nagler, Tucker y Bonneau (
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/0956797615594620?journalCode=pssa">Tweeting from left to right</ext-link>
+            ), las redes no siempre conducen a la polarización, sin perjuicio de que estas sean utilizadas para difundir noticias falsas, desinformar, e incluso producir conversación a partir de cuentas falsas conocidas como bots. El mismo Barberá en
+            <ext-link ext-link-type="uri" xlink:href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.658.5476">How social media reduces mass political polarization</ext-link>
+            estudia el rol de los llamados “vínculos débiles” en exponer a las personas a información y opiniones políticas más diversas, mostrando que estos pueden conducir a disminuir el extremismo político. Basándose en un estudio de panel de usuarios de Twitter en Alemania, España y los Estados Unidos, Barberá muestra que la mayor parte de los usuarios están situados en redes ideológicamente diversas y que dicha diversidad tiene un efecto positivo en la moderación política. Por otro lado, como muestran Tandoc, Lim y Ling en
+            <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/abs/10.1080/21670811.2017.1360143">Defining fake news</ext-link>
+            , estos fenómenos también han implicado un esfuerzo de conceptualización y delimitación teórica.
+         </p>
+         <p>
+            En suma, entender cómo se forma la opinión pública en la era de las redes sociales resulta fundamental, especialmente en tiempos en que la apelación a las emociones o a hechos alternativos parece resultar más efectivo que el estricto apego a los hechos; un fenómeno que se ha venido a conocer como “post-verdad”, en el cual, como señala Hopkin y Rosamond (
+            <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1373757?journalCode=cnpe20">Post-truth politics</ext-link>
+            ), las personas afirman creencias falsas incluso cuando existe evidencia científica que las desacreditan. En este respecto, ha mostrado la experiencia reciente, los instrumentos predictivos tradicionales como las encuestas parecen no estar respondiendo de manera satisfactoria, mientras que los intentos por establecer la capacidad predictiva de redes sociales como Twitter no han llegado a un consenso como señala Vergeer (
+            <ext-link ext-link-type="uri" xlink:href="https://onlinelibrary.wiley.com/doi/10.1111/soc4.12294">Twitter and political campaigning</ext-link>
+            ). Con todo, el problema de los estándares éticos y los usos que los ciudadanos y políticos dan a las redes permanece en el centro del debate. Primero, el “accountability” que los ciudadanos han de exigir a los políticos se desplaza también al territorio digital, toda vez que los partidos, candidatos y políticos quedan sometidos al escrutinio de la veracidad de sus fuentes o la existencia real de sus seguidores. Segundo, las personas “de a pie” también contribuyen al mal uso de redes sociales cuando difunden noticias falsas o se amparan en el anonimato para agredir a otros. Y tercero, las plataformas que disponen de la información también pueden jugar un rol crítico en la manipulación de la opinión pública que se produce en redes, tal como han mostrado escándalos recientes.
+         </p>
+      </sec>
+      <sec>
+         <title>Redes sociales digitales y acción colectiva</title>
+         <p>Finalmente, una tercera área de investigación dice relación con el hecho de que las redes sociales han cambiado las dinámicas de la “acción colectiva” misma, principalmente a partir en las nuevas formas de organización y coordinación social que estas hacen posible. Con esto nos referimos tanto a los movimientos sociales convencionales, como a formas emergentes de contestación social, de recaudar fondos, de coordinar acciones y de materializar todo tipo de activismos digitales: desde protestas ciudadanas, filtraciones de información sensible o el ciber-crimen.</p>
+         <p>
+            Moya y Herrera (
+            <ext-link ext-link-type="uri" xlink:href="http://arbor.revistas.csic.es/index.php/arbor/article/view/2060">Cómo puede contribuir Twitter</ext-link>
+            ) muestran que las redes digitales han ido más allá de su rol comunicacional, desarrollando el potencial de conectar individuos dispersos geográficamente, difundir información y organizar protestas masivas. En trabajos como los de Barberá et.al. (
+            <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143611">The critical periphery in the growth of social protests</ext-link>
+            ) o el de Castells (
+            <ext-link ext-link-type="uri" xlink:href="https://books.google.cl/books/about/Networks_of_Outrage_and_Hope.html?id=_IaEOS5xc-0C&amp;redir_esc=y">Networks of outrage and hope</ext-link>
+            ), las redes han sido reconocidas como medios fundamentales para la emergencia de movimientos sociales, tanto en su calidad de herramientas organizacionales para coordinar protestas, como en su calidad de fuentes de repertorios de acción como señalan Simões y Campos (
+            <ext-link ext-link-type="uri" xlink:href="http://revistacmc.espm.br/index.php/revistacmc/article/view/1159">Juventude, movimentos sociais e redes digitais de protesto em época de crise</ext-link>
+            ). En este sentido, por ejemplo, Barberá y su equipo mostraron en
+            <ext-link ext-link-type="uri" xlink:href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143611">The critical periphery in the growth of social protests</ext-link>
+            que las redes digitales son fundamentales para movilizar a los individuos que constituyen la “periferia” de los movimientos sociales; vale decir, aquellos distintos de los activistas, con menor grado de compromiso, pero fundamentales para que cualquier protesta genere masa crítica. Probablemente, uno de los ejemplos más importantes en este plano fue el de la Primavera Árabe. Como muestra Castells, las protestas en dicho país comenzaron con la difusión y viralización de videos en redes sociales. Posteriormente, pese a los intentos del gobierno egipcio para bloquearlas, conexiones internacionales y el apoyo de redes de activistas conectados permitieron coordinar y organizar acciones nacionales e internacionales en red.
+         </p>
+         <p>
+            Siguiendo esta línea, hoy en día encontramos un número creciente de estudios abordando las modalidades de la acción política en variados movimientos y que presentan diversos resultados. Por ejemplo, en contraste con la idea de que las redes movilizan la periferia, Theocharis, Lowe, van Deth y García-Albacete (
+            <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/abs/10.1080/1369118X.2014.948035">Using twitter to mobilize protest action</ext-link>
+            ) muestran que el uso Twitter en movimientos como Occupy Wallstreet de los Estados Unidos, Indigandos en España y Aganaktismenoi en Grecia, fue usado para discutir e informar, más que para convocar adherentes. En Chile, Cabalín en
+            <ext-link ext-link-type="uri" xlink:href="https://www.revistacomunicar.com/index.php?contenido=detalles&amp;numero=43&amp;articulo=43-2014-02">Estudiantes conectados y movilizados</ext-link>
+            estudia el uso de la red social Facebook durante las masivas protestas estudiantiles de 2011 desde la perspectiva del análisis de contenido, mostrando que gran parte de la información publicada fue extraída de medios de comunicación convencionales. En este sentido, también rechaza la idea de que las tecnologías por sí solas dan cuenta de los desarrollos que han tenido los movimientos sociales liderados por jóvenes.
+         </p>
+         <p>
+            Metodológicamente, estos estudios descansan en distintas técnicas de análisis. Mientras investigaciones de Barberá y su equipo antes citadas llevan a cabo análisis de redes y de contenido semántico automatizado que son programados en el software R, otros autores como Saura, Muñoz-Moreno, Luengo-Navas y Martos (
+            <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=15852792004">Protestando en Twitter</ext-link>
+            ) estudian el movimiento social “Mesa Verde” en España a través del análisis de los contenidos de las cuentas, realizando filtros de información y procesando el contenido en softwares de análisis cualitativo (NVivo, por ejemplo). En este plano, el análisis de redes sociales convencionales, aplicadas las redes digitales, es de especial importancia. Así por ejemplo, Tremayne en
+            <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/abs/10.1080/14742837.2013.830969">Anatomy of protest in the digital era</ext-link>
+            conecta los conceptos tradicionales de la literatura de movimientos sociales con las medidas propias del análisis de redes como la centralidad, explorando el rol que jugó Twitter en coordinar múltiples movimientos sociales a lo largo de la ocupación de Wall Street.
+         </p>
+         <p>
+            Con todo, es preciso notar que los potenciales organizativos de las redes sociales también se han prestado para formas de acción colectivas repudiables, tales como coordinar acciones de índole terroristas (como es el caso del Estado Islámico) o promover fraudes electorales como muestra un artículo de Deb, Luceri, Badawy y Ferrara (
+            <ext-link ext-link-type="uri" xlink:href="https://arxiv.org/abs/1902.00043">Perils and challenges of social media</ext-link>
+            ). Por ello, la investigación sobre el rol de las redes sociales en la acción colectiva ha de permanecer escéptica respecto del potencial democratizador de las nuevas tecnologías digitales.
+         </p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Consideraciones finales</title>
+         <p>Las nuevas formas de comunicación digital plantean una serie de dilemas políticos, económicos, éticos e investigativos. Estos debates pueden agruparse (provisionalmente) de manera amplia en tres categorías: los fines con que se utiliza la información, los dilemas éticos respecto de la privacidad de la información y las formas de gobierno de las conductas humanas que emergen. Todas estas se erigen sobre un problema de orden político: en qué medida las nuevas infraestructuras tecnológicas (redes sociales, algoritmos, formas de clasificar, técnicas para conocer y monitorear a los sujetos) y los fenómenos que surgen de la interacción con estas, nos demandan un control colectivo sobre problemas que antes no existían.</p>
+         <p>Primero, los fines y usos que se les da en ciencia y política a esta información. Como mencionamos anteriormente, gran parte de la capacidad analítica desarrollada en los últimos años ha ocurrido en el seno de grandes empresas, plataformas que operan como intermediarios que registran y producen los grandes volúmenes de datos. En este sentido, existe una tensión entre los derechos de propiedad sobre la información entre quienes la producen (los usuarios) en interacción con estas plataformas privadas y aquellos que disponen de los datos y los usan para fines comerciales. Si los datos son la nueva materia prima de las empresas como Facebook, el acceso a la información para fines privados permanece un tema central en la discusión pública. Hasta ahora, las tendencias son divergentes. La red social Twitter, por ejemplo, ha puesto a disposición la totalidad de sus datos para que equipos de investigadores puedan analizar la difusión de noticias falsas. Mientras que la red Facebook, ante los reiterados cuestionamientos a la venta de espacios publicitarios que permitió la difusión de información por parte de cuentas falsas, ha ido en la dirección de bloquear las entradas que hasta ahora habían tenido los investigadores. En el futuro, cabe esperar que surjan nuevas regulaciones que demanden transparencia y que permitan desarrollar investigaciones serias y con fines netamente académicos. Sin embargo, dada la posición monopólica de muchas de estas plataformas, no es del todo clara la capacidad que tendrán los investigadores de acceder a información relevante.</p>
+         <p>En este sentido, también hay que considerar el uso de los datos y la información procesada no necesariamente es comercial, pero sí puede estar sujeto a otro tipo de usos privados. Este ha sido el caso, por ejemplo, del uso de datos producidos en redes sociales para propósitos electorales. Pues bien sabemos que el levantamiento y procesamiento de información con fines electorales es tan antiguo como las campañas electorales mismas. Sin embargo, el vertiginoso desarrollo de las tecnologías de la información parece avanzar más rápido que el desarrollo de las capacidades institucionales para regular y controlar las consecuencias no intencionadas del uso de redes sociales. En Gran Bretaña, por ejemplo, British Information Commissioner’s Office ha iniciado una investigación para determinar el rol que tuvieron estas empresas de análisis de datos en el referéndum del Brexit. Mientras que en Estados Unidos se debate fuertemente sobre el rol que tuvo la plataforma de Facebook en facilitar la difusión de publicidad pro-Trump a partir de anuncios comprados por cuentas falsas vinculadas a Moscú.</p>
+         <p>
+            De manera más amplia, autores como Woolley y Howard argumentan en que el uso distintivo de la manipulación política en redes sociales es su carácter automatizado y de gran escala. Los autores definen la propaganda computacional como “el uso de algoritmos, automatización, e innovación humana para manejar y distribuir información sesgada en las redes sociales de manera intencional” (
+            <xref ref-type="bibr" rid="B3">2019</xref>
+            :4). Así, el uso de bots o cuentas automatizadas, por ejemplo, inducen sendos flujos de información (noticias u opiniones) que logran producir falsas ideas de consenso, inducir desconfianza entre usuarios y generar así polarización. En palabras de Woolley y Howard: “Las redes sociales favorecen el contenido sensacionalista, independiente de si este ha sido confirmado o si proviene de una fuente confiable” (2019:5).
+         </p>
+         <p>
+            Finalmente, el surgimiento de las redes digitales también ha generado desafíos a la manera en que conceptualizamos el gobierno de las conductas. Por un lado, cuando los gobiernos no se han decidido por regular (o prohibir) fuertemente el acceso a redes sociales (como en China) las capacidades de control de estos parecen ir al rezago de los desarrollos tecnológicos. En este plano, es necesario tener en cuenta que los desafíos a la capacidad de gobernar las conductas y regular procesos sociales surgen de verdaderas “cajas negras” que los cientistas sociales recién comienzan a dilucidar. Con esto nos referimos, por ejemplo, al hecho de que los grandes volúmenes de datos que producen la interacción con las tecnologías son procesados por medio de la creación de algoritmos que operan de manera automatizada y cuyas consecuencias no-intencionadas son imprevisibles. Así, algunos autores como
+            <xref ref-type="bibr" rid="B4">Yeung (2018</xref>
+            ) hablan de “regulación algorítmica” para referirse al hecho de que los sistemas de análisis de big data regulan dominios de actividad para manejar el riesgo o alterar la conducta a través de la generación continua de conocimiento basado en la producción de datos. A la base de esta idea está el hecho de que los algoritmos “toman decisiones” a través de sus operaciones, determinando las maneras en que hemos de interpretar las acciones de los humanos. Esto cobra más relevancia toda vez que consideramos que estos están mediando cada vez más procesos sociales, tales como decisiones de gobierno, organizaciones y mercados. En su conjunto, estos dilemas han llevado a los investigadores a hablar de la gobernanza algorítmica o “algocracia”, en el sentido de que “nos guste o no, los algoritmos están siendo crecientemente utilizados para ‘empujar’, sesgar, guiar, provocar, controlar, manipular o constreñir el comportamiento humano” (
+            <xref ref-type="bibr" rid="B1">Danaher et al. 2017</xref>
+            :2).
+         </p>
+         <p>Por supuesto, esto no agotan los dilemas que se han erigido sobre la relación entre política y redes sociales. Muchas de estos debates se encuentran desarrollados en trabajos de ensayo y teóricos que acá no hemos revisado. Sin embargo, es preciso que estas discusiones se alimenten tanto de los insumos técnicos, como también de las consideraciones éticas que presentan estas nuevas formas de sintetizar y analizar la conducta humana al interior de la sociedad.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Este artículo es parte del proyecto Fondecyt No. 11180273. Quisiera agradecer a Nicolás Freire, Marco Moreno y a los revisores por comentarios constructivos realizados a versiones anteriores del manuscrito. También agradezco a Cristóbal Sandoval y Rodolfo Gómez por asistirme en la edición del texto y actualización de datos, así como a los comentarios al manuscrito.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Danaher, J., Hogan, , M., Noone, C., Kennedy, R., Behan, A., Paor, A., Felzmann, H., Haklay, M., Khoo, S., John Morison, , ., Maria Helen Murphy, , ., O'Brolchain, N., Schafer, B., Shankar, K.(2017). "Algorithmic governance: developing a research agenda through the power of collective intelligence".
+               <italic>Big Data &amp; Society. 4</italic>
+               (2), 1-21. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/2053951717726554">https://doi.org/10.1177/2053951717726554</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Danaher</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hogan,</surname>
+                     <given-names>M. J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Noone</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kennedy</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Behan</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Paor</surname>
+                     <given-names>A. D</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Felzmann</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Haklay</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Khoo</surname>
+                     <given-names>S.-M</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>John Morison,</surname>
+                     <given-names />
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Maria Helen Murphy,</surname>
+                     <given-names />
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>O'Brolchain</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schafer</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shankar</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Algorithmic governance: developing a research agenda through the power of collective intelligence</article-title>
+               <source>Big Data &amp; Society</source>
+               <volume>4</volume>
+               <issue>2</issue>
+               <fpage>1</fpage>
+               <lpage>21</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/2053951717726554">https://doi.org/10.1177/2053951717726554"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Kruikemeier, S.(2014). "How political candidates use Twitter and the impact on votes".
+               <italic>Computers in Human Behavior. 34</italic>
+               , 131-139. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.chb.2014.01.025">https://doi.org/10.1016/j.chb.2014.01.025</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kruikemeier</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>How political candidates use Twitter and the impact on votes</article-title>
+               <source>Computers in Human Behavior</source>
+               <volume>34</volume>
+               <issue />
+               <fpage>131</fpage>
+               <lpage>139</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.chb.2014.01.025">https://doi.org/10.1016/j.chb.2014.01.025"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Wooley, S., Howard, P.,  (2019).
+               <italic>Computational propaganda: political parties, politicians, and political manipulation on social media</italic>
+               .  Oxford: Oxford University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wooley</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Howard</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>Computational propaganda: political parties, politicians, and political manipulation on social media</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Yeung, K.(2018). "Algorithmic regulation: a critical interrogation".
+               <italic>Regulation &amp; Governance. 12</italic>
+               (4), 505-523. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/rego.12158">https://doi.org/10.1111/rego.12158</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yeung</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Algorithmic regulation: a critical interrogation</article-title>
+               <source>Regulation &amp; Governance</source>
+               <volume>12</volume>
+               <issue>4</issue>
+               <fpage>505</fpage>
+               <lpage>523</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/rego.12158">https://doi.org/10.1111/rego.12158"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

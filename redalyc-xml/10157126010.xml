@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2018000100123</article-id>
+			<article-id pub-id-type="publisher-id">00010</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Criterios de demarcación, pseudociencia y cientificidad en el derecho</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Demarcation criteria, pseudocience and scientificity in law</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Escobar-Jiménez</surname>
+						<given-names>Christian</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">(cmescobar@puce.edu.ec) Escuela de Sociología y Ciencias Políticas, Pontificia Universidad Católica del Ecuador (Quito, Ecuador) ORCID: 0000-0003-1940-2096</institution>
+					<institution content-type="normalized">Pontificia Universidad Católica del Ecuador</institution>
+					<institution content-type="orgdiv1">Escuela de Sociología y Ciencias Políticas</institution>
+					<institution content-type="orgname">Pontificia Universidad Católica del Ecuador</institution>
+					<addr-line>
+						<named-content content-type="city">Quito</named-content>
+					</addr-line>
+					<country country="EC">Ecuador</country>
+					<email>cmescobar@puce.edu.ec</email>
+				</aff>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2018</year>
+			</pub-date>
+			<!--<volume>00</volume>-->
+			<issue>61</issue>
+			<fpage>123</fpage>
+			<lpage>139</lpage>
+			<history>
+				<date date-type="received">
+					<day>15</day>
+					<month>09</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>03</day>
+					<month>12</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>En este artículo se analiza el estatuto epistémico del derecho y su presunción de cientificidad en relación con los llamados criterios de demarcación, propuestos por diferentes filósofos de la ciencia. Tales criterios son los principales elementos analíticos para diferenciar a los discursos científicos de aquellos que no lo son y de los que pretenden serlo. En relación con estos se trata la pseudociencia, el derecho y se concluye con la exposición del caso Daubert v. Merroll Dow Pharmaceuticals, en el que, en un proceso jurídico, se definen criterios de demarcación. El artículo muestra cómo los criterios de demarcación no pueden ser aplicados al derecho, pero tampoco la denominación de pseudociencia, debido a la propia racionalidad jurídica.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>This article analyses the epistemic status of law and its presumption of being a science in relation with the so-called demarcation criterion proposed by different philosophers of science. Such criteria are the main analytical elements to differentiate scientific discourses from those who are not and the ones who pretend to be. In relation to those, pseudoscience and law are treated, to finally conclude with the exposition of the case of Daubert v. Merrill Dow Pharmaceuticals, in which a judicial process defined demarcation criteria. This paper shows how the demarcation criteria of science and the concept of pseudoscience cannot be applied to law science given its own rationality.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>demarcación</kwd>
+				<kwd>derecho</kwd>
+				<kwd>ciencia</kwd>
+				<kwd>pseudociencia</kwd>
+				<kwd>verdad</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>demarcation</kwd>
+				<kwd>law</kwd>
+				<kwd>science</kwd>
+				<kwd>pseudoscience</kwd>
+				<kwd>truth</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="22"/>
+				<page-count count="17"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Por lo general, se acepta de forma acrítica la aseveración de que el derecho es una ciencia, ya sea una ciencia social o una ciencia normativa, sin que haya un análisis mínimo de qué implica el uso del término “ciencia” o qué criterios determinan su definición; no se recurre a ninguna discusión general sobre el tema, aunque la lucha por la cientificidad del derecho ha marcado a varias teorías muy importantes a lo largo del siglo XX, de cita común en el ámbito jurídico. En atención a la limitación de espacio, en este trabajo se trata la cientificidad del derecho -con una definición mínima- solo en relación con los criterios de demarcación y se distingue al derecho tanto de la ciencia como de su opuesto: las pseudociencias. Se establece una diferencia en la noción de verdad en la ciencia y el derecho y que está ausente en las pseudociencias. </p>
+			<p>El uso más antiguo del término <italic>pseudoscience</italic> data de 1796, cuando en el <italic>Oxford English Dictionary,</italic> James Andrew llama a la alquimia “fantastical pseudo-science<italic>”</italic> (<xref ref-type="bibr" rid="B11">Hansson 2017</xref>)<italic>.</italic> El uso de la palabra se vuelve frecuente a partir de 1880 y hace alusión a algo así como “mala ciencia” o “casi ciencia”.</p>
+			<p>La discusión sobre la mala ciencia, falsa ciencia o casi-ciencia impone un problema aún mayor: si algo como la alquimia es una pseudo-ciencia, ¿qué es la ciencia? Para responder a esta pregunta se intentó, desde varias corrientes de la filosofía de la ciencia, establecer una serie de criterios demarcatorios. Desde la Grecia clásica existen ya criterios que diferencian al <italic>episteme</italic> de otro tipo de saberes. En la época Moderna, en el siglo XVI, a partir de los criterios elaborados por Francis Bacon, se construyó una idea básica de ciencia, que se entendió como: (1) “saber objetivo”, opuesto al saber subjetivo o a conocimientos metafísicos, (2) que se puede someter a “comprobación”, (3) que se expone de forma racional, lógica y coherente. Sin embargo, la verdadera dilucidación es propia del siglo XX con el positivismo lógico y la construcción de los llamados criterios de demarcación, aunque, de acuerdo con Popper, ya existe una forma de demarcación en el propio Kant.</p>
+			<p>Los criterios como sistematicidad, racionalidad, coherencia, etc., son indicativos, pero difícilmente marcan distancias considerables. La filosofía metafísica, la religión o la dogmática jurídica también son exposiciones sistemáticas. Las teorías científicas o no científicas siguen, más o menos, la misma forma explicativa. Por ello, se tuvo como objetivo crear unos criterios estándares, no solo para determinar lo que <italic>prima facie</italic> no es científico sino, además, cuándo unas teorías son mejores para los mismos propósitos que otras.</p>
+			<p>Por otra parte, existen muchas teorías que terminaron por ser rechazadas, pero que en su momento cumplían los criterios de cientificidad (eran racionales, coherentes, etc.). Por ejemplo, la famosa teoría de Tycho Brahe, con el tiempo, terminó por ser considerada como falsa, pero su <italic>racionalidad</italic> y coherencia se exponía en términos similares a las teorías de Copérnico y, en su tiempo, tuvo mayor aceptación que la del polaco. Digamos que la teoría de Tycho Brahe no podría ser considerada como pseudociencia, porque ésta cumplía con los estándares de cientificidad de su tiempo y era algo más que “bad science” o falsa-ciencia.</p>
+			<p>La pseudociencia lo es porque no se atiene a los criterios de cientificidad, pero aparte de ello, es espuria, falsa, engañosa. Hansson cita la definición dada por el <italic>Oxford English Dictionary:</italic> “A pretended or spurious science; a collection of related beliefs about the world mistakenly regarded as being basic on scientific method or as a having the status that scientific truths now have”; así que, por lo general, se entiende como “non-science posing as science” (Hansson 2017), por lo que hay una intención fraudulenta, una pretensión de hacer ciencia, aunque no se cumpla con los mínimos criterios de demarcación. En la mayoría de casos sus proponentes intentan crear la impresión de que es científica.</p>
+			<p>Opuesta a esta forma espuria, probablemente, el criterio de valor más importante es lo que podríamos llamar “voluntad de verdad” de la ciencia. Dentro de esta “voluntad de verdad”, Popper ve el legado, racionalidad y método de los grandes trabajos científicos como el elemento central de la ciencia: “Es la obra de los grandes científicos lo que tengo como paradigma de la ciencia” (<xref ref-type="bibr" rid="B18">Popper 1995</xref>:131). El trabajo científico sobrepasa lo meramente discursivo, es un compromiso ético de los “grandes hombres” (aquellos que están dispuestos a contradecir sus creencias por la evidencia, como Kepler o Einstein), así, el problema de demarcación involucra discusiones de orden ético y atraviesa el ámbito público. </p>
+			<p>Tal “voluntad de verdad” es un móvil importante, pero que en rigor nos dice poco. La apertura a la constatación y a la mejora de teorías sucesivas es un elemento central, pero es más bien una exposición de principios más que un criterio. </p>
+		</sec>
+		<sec>
+			<title>El criterio de demarcación de Carnap</title>
+			<p>Carnap pensaba en la utilidad trascendente del análisis lógico como forma de ordenar las afirmaciones que hacemos en cualquier plano de la vida y, sobre todo, las científicas. Podemos reconocer al menos dos momentos en el pensamiento de Carnap, uno “verificacionista” y uno “confirmacionista”.</p>
+			<p>Para establecer sus criterios de demarcación en su etapa “verificacionista”, Carnap piensa a la filosofía en tres campos interrelacionados entre sí: metafísica, psicología y lógica. Carnap toma la parte lógica para establecer una filosofía de la ciencia a la que posteriormente se conocerá como “teorías sintácticas de la ciencia” o análisis sintáctico de las teorías científicas, que comprende a las teorías como un conjunto de enunciados que establecen relaciones axiomáticas y deductivas: “La función del análisis lógico consiste en analizar todo el conocimiento, toda aseveración de la ciencia o de la vida cotidiana, a efecto de clarificar el sentido de cada una de esas aseveraciones y las conexiones entre ellas” (<xref ref-type="bibr" rid="B5">Carnap 1998</xref>:7). Ahora bien, la pregunta importante es ¿cómo se puede comprender la verdad o falsedad de estas proposiciones? A través de la verificación.</p>
+			<p>Para ello, Carnap hace una distinción entre verificación directa e indirecta. La verificación directa es más sencilla y es en la que la aseveración se refiere a algo directamente comprobable como: “yo veo una silla” (aunque puede conllevar a discusiones de índole psicológicas sobre la percepción). Pero la mayoría de las aseveraciones que interesan a la ciencia son del segundo tipo: indirectas. Para Carnap, la verificación de una aserción como “esta llave está hecha de hierro” es posible si conlleva a pensar el problema en un marco más amplio de conocimiento y podemos “demostrar” lo dicho a través de otros presupuestos. Por ejemplo, si asumimos que la llave está hecha de hierro y sabemos que los imanes atraen a este tipo de material, y ponemos un imán y la llave es atraída, podemos empezar a suponer que la aseveración es correcta, aunque falten muchos más criterios para verificarla, pero, al menos, pasó uno de los escollos más importantes: “Si en esas y otras investigaciones todos los casos resultan ser positivos, la certidumbre de la proposición crecerá gradualmente” (<xref ref-type="bibr" rid="B5">Carnap 1998</xref>:9). Pero, como siempre puede haber un caso de refutación en el futuro, nunca una aserción puede estar completamente verificada, debido a que es una hipótesis y depende de su grado de probabilidad.</p>
+			<p>Volviendo al ejemplo, para superar tales escollos es necesario enfocar el problema a un campo más amplio que presupone el conocimiento de ciertas propiedades de la materia, es decir, referirnos a otras aserciones que se han hecho sobre el mundo, a teorías científicas; en este caso, a las propiedades electromagnéticas de los materiales. Mientras más universal es la aseveración (las propiedades electromagnéticas de los materiales), los posibles casos de refutación crecen. Pero, es en el contexto de las aseveraciones generales sobre el mundo (aquellas <italic>leyes naturales</italic>) en donde lo dicho debe ser susceptible de observarse o de predecir efectos observables (en un sentido no literal de observación). Si no es así, si alguien propone algo que no puede observarse, ya sea directamente o a través de sus efectos, “su aseveración no es realmente una aseveración; no habla acerca de nada; no es sino una serie de palabras hueras; simplemente carece de sentido” (<xref ref-type="bibr" rid="B5">Carnap 1998</xref>:11). De una aseveración se deben deducir proposiciones perceptivas que sean susceptibles de verificación. Las imágenes no serían necesarias para la percepción, como en el caso de los campos electromagnético o gravitacional, pero de estas proposiciones sí se pueden derivar proposiciones perceptivas como “la llave será atraída por el imán” o “el cuerpo caerá”. Mientras la verificación directa es empírica, la indirecta es lógica, pues se debe deducir de un marco más general que permita la interpretación, como en el ejemplo de la llave y el imán.</p>
+			<p>El criterio de demarcación de Carnap, enfocado en la verificación, quiere diferenciar a aquellas proposiciones susceptibles de experimentarse de aquellas de la metafísica, que están más allá de toda experiencia posible. Toda proposición científica debe ser lógicamente relevante en el sentido que se refiera, en primera instancia, a algo en el mundo y que este algo tenga una regularidad que permita proponer efectos o predicciones sobre sucesos similares.</p>
+			<p>A partir de su artículo “Testability and Meaning” de 1936, Carnap abandona el verificacionismo de los años previos y adopta una posición confirmacionista: “If by verification is meant a definitive and final establishment of truth, then no (synthetic) sentence is ever verifiable, as we shall see. We can only confirm a sentence more and more. Therefore we shall speak of the problem of <italic>confirmation</italic> rather than a problem of verification” (<xref ref-type="bibr" rid="B4">Carnap 1936</xref>:420).</p>
+			<p>Carnap reconoce los problemas del verificacionismo entendido como un método de establecer de forma “definitiva” la verdad sobre un postulado sintético; en cambio, en la confirmación se reconoce la posibilidad de contrastar una hipótesis en varias de sus instancias, pero jamás en todas ellas (las cuales tampoco son mesurables como para conocer el número total de instancias a evaluar).</p>
+			<p>En el verificacionismo, el significado de las proposiciones solo existe si éstas pueden ser verificadas (lo que constituye una crítica fundamental a la falta de significado de las proposiciones metafísicas). Con la confirmación se crea un criterio más laxo, que no sacrifica la postura anti-metafísica, pues con la verificación no solo se excluyen oraciones metafísicas, sino buenas teorías científicas con significado fáctico que no pueden ser verificadas en sentido estricto.</p>
+			<p>Entonces se hace una relación entre comprobación o evaluación (<italic>testing</italic>) y confirmación (<italic>confirmation</italic>) para sustituir a la verificación. Una hipótesis es comprobable si se conoce un método para que lo sea (similar al postulado de “hipótesis falsable”). Una oración puede ser confirmable sin ser evaluable por sus instancias lógicas y no solo empíricas. Así, Carnap reemplaza la verificación: “Thus, instead of verification, we may speak here of gradually increasing <italic>confirmation</italic> of the law” (<xref ref-type="bibr" rid="B4">Carnap 1936</xref>:425). Con la comprobación o evaluación de las instancias, crece la probabilidad de que una oración sea confirmada. Carnap recalca la tesis de Reichenbach de que el grado de confirmación de una hipótesis puede ser interpretado como grado de probabilidad, pero en cierta sintonía con Popper, aclara: “it seems to me that at present it is not yet clear whether the concept of degree of confirmation can be defined satisfactorily as a quantitative concept, i.e. a magnitude having numerical values” (<xref ref-type="bibr" rid="B4">Carnap 1936</xref>:427).</p>
+			<p>Para Carnap, si una teoría, como un conjunto de proposiciones u oraciones tiene más instancias comprobables, se establecen mejores medios de confirmación de tales instancias, lo que incrementa la posibilidad de que una teoría esté más confirmada que otra. Este nuevo criterio de cientificidad resuelve de cierta manera el problema del inductivismo en el que cae el verificacionismo, además comporta una idea más laxa de la “verdad” de las teorías científicas y empieza a entenderlas en términos comparativos entre ellas. Por ejemplo, una proposición del tipo “todos los astros brillan en la noche”, debería verificarse en cada uno de los elementos del conjunto. En cambio, en la confirmación, en el ejemplo dado, hay una instancia de confirmación que vincula a los astros con el brillo en un momento; mientras más elementos se puedan confirmar en tales instancias, es decir, se observen más astros que brillen en la noche, se incrementa la probabilidad de la confirmación de la proposición.</p>
+		</sec>
+		<sec>
+			<title>El criterio de demarcación en Popper</title>
+			<p>El sistema de demarcación popperiano busca diferenciar a las ciencias empíricas de la metafísica y se distingue de los positivistas lógicos en que ésta no busca un criterio de significación. Para los positivistas lógicos, las proposiciones solo tienen significado si se refieren a “hechos” en el mundo. El criterio de Popper no es de significación, pues incluso acepta que la metafísica puede contribuir con importantes postulados para la ciencia.</p>
+			<p>El criterio de demarcación popperiano implica: a) apertura a la comprobación, b) grado de comprobabilidad de las teorías; por lo que Popper propone hablar de “sistemas teóricos o sistemas de declaraciones o aseveraciones” (<xref ref-type="bibr" rid="B18">Popper 1995</xref>:137), que conlleva a que la falsabilidad o falsicabilidad de un sistema sea difícil de establecer para las aseveraciones particulares y más bien se aplique a toda la teoría o a un conjunto de postulados. Popper llama a su criterio una “propuesta para un acuerdo o convención” (<xref ref-type="bibr" rid="B17">Popper 1980</xref>:37).</p>
+			<p>Este sistema ha de satisfacer tres criterios: 1) sintético (pues debe explicar los mundos posibles de forma no contradictoria), 2) el criterio de demarcación, es decir, no metafísico y sí empírico, 3) debe distinguirse de otros sistemas semejantes, porque quiere explicar el mundo de una manera más satisfactoria o “cercana” a la realidad. Dentro de todos, el criterio es que las proposiciones resistan a la contrastación, la famosa falsación: “no exigiré que un sistema científico pueda ser seleccionado, de una vez para siempre, en un sentido positivo; pero sí que sea susceptible de selección en un sentido negativo por medio de contrastes o pruebas empíricas” (<xref ref-type="bibr" rid="B17">Popper 1980</xref>:36).</p>
+			<p>Los enunciados empíricos deben poder ser falsables porque se los puede constatar. El típico ejemplo usado por <xref ref-type="bibr" rid="B17">Popper (1980</xref>) o <xref ref-type="bibr" rid="B6">Chalmers (2000</xref>) es del tipo: “mañana lloverá o no lloverá”, el cual no es empírico, porque ambos componentes de la proposición disyuntiva son posibles. Un enunciado empírico es más simple y deberá cumplir el principio sintético de no contradicción: “no lloverá mañana”.</p>
+			<p>La falsación funciona como un <italic>modus tollens</italic> y sigue un esquema del tipo: 1) establecimiento del problema, 2) solución tentativa a través de hipótesis o teorías, 3) contrastación y 4) corroboración de las instancias. La falsabilidad permite que nuestro conocimiento sobre el mundo mejore cada vez más. La falsabilidad mejora nuestro conocimiento, ya sea con la refutación de ciertas teorías falsas o la refutación de ciertas instancias de las mismas. Para Popper, no se ha dado el caso de que teorías ya confirmadas se refuten completamente, lo que nos lleva a suponer de forma racional que nuestro conocimiento se “aproxima a la verdad”, pero no que la alcanza, pues para Popper “la ciencia es un conocimiento hipotético y conjetural” (<xref ref-type="bibr" rid="B12">Jaramillo y Aguirre 2004</xref>:84).</p>
+			<p>Al ser un anti-inductivista, Popper rechaza tanto la verificación como la confirmación probable de instancias: “la lógica inductiva ha sido elaborada en el sentido de que puede adscribir a los enunciados, no solo los dos valores de «verdadero» y «falso», sino, asimismo, grados de probabilidad: tipo de lógica que cabe llamar «lógica probabilitaria». Según aquéllos que creen en esta lógica, la inducción debería determinar la probabilidad de un enunciado; y habría un principio de inducción que, bien nos daría la seguridad de que el enunciado inducido es «probablemente válido», bien nos daría la probabilidad que fuese acerca de ello (ya que el principio de inducción podría, a su vez, ser nada más que «probablemente válido»). Pero, en mi opinión, todo el enfoque del problema de la probabilidad de hipótesis es erróneo: en lugar de discutir la «probabilidad» de una hipótesis deberíamos tratar de averiguar qué contrastaciones, qué pruebas ha soportado; esto es, tendríamos que intentar la averiguación de hasta qué punto ha sido capaz de demostrar que es apta para sobrevivir -y ello por haber salido indemne de las contrastaciones. En resumen, deberíamos disponernos a averiguar en qué medida está «corroborada»” (<xref ref-type="bibr" rid="B17">Popper 1980</xref>:234).</p>
+			<p>Popper introduce los términos “corroboración” y “grado de corroboración” para hacer frente a los problemas que devienen de la probabilidad, pues al no ser cuantificable, resulta inabordable: “<italic>¿con referencia a qué sucesión</italic> de enunciados puede asignarse un valor probabilitario a una hipótesis?” (<xref ref-type="bibr" rid="B17">Popper 1980</xref>:239). Popper rechaza la probabilidad por la confusión entre teorías y entidades representadas en tales teorías y por la imposibilidad de establecer una probabilidad cuantitativa, pues no existen puntos referenciales para establecer tal relación.</p>
+			<p>Para Popper, la regla metodológica de la <italic>uniformidad de la naturaleza,</italic> por la cual se tiende al inductivismo, se confunde generalmente con la <italic>invarianza de las leyes de la ciencia,</italic> y tiene una raíz más bien metafísica, porque nada nos lleva a pensar, en términos lógicos, que no hay modificaciones en los sucesos naturales, cuyos cambios deberán ser explicados a través de las leyes conocidas. El inductivismo no es posible sin tal compromiso metafísico de uniformidad e invarianza. Por el contrario, la falsabilidad es la alternativa tanto a la verificación como a la confirmación (segunda etapa de Carnap).</p>
+		</sec>
+		<sec>
+			<title>Demarcación en Imre Lakatos</title>
+			<p>El autor húngaro desarrolló una de las críticas más relevantes al falsacionismo popperiano, proponiendo el llamado “falsacionismo sofisticado”. Lakatos somete al falsacionismo “ingenuo” de Popper a su propia lógica: “Lakatos examina las debilidades del falsacionismo, contrastando la lógica interna con la posible confirmación empírica que la podría apoyar; dicho examen lo conduce a formular un metacriterio para evaluar al falsacionismo, de acuerdo con la lógica del criterio popperiano de demarcación” (<xref ref-type="bibr" rid="B21">Toledo 1999</xref>:51).</p>
+			<p>Lakatos, en la línea de Carnap y Popper, reconoce cierto espíritu escéptico como un eje primordial de la ciencia para poder someterse a revisión constante. Lakatos exige la definición de aquello que se conoce como “razonamiento experimental” (<xref ref-type="bibr" rid="B15">Lakatos 1979</xref>:10) para poder establecer si los criterios de experiencia o verificación son suficientes para la demarcación entre ciencia y no ciencia. Lakatos nos dice que “no se puede derivar válidamente una ley de la naturaleza a partir de un número finito de hechos, pero la realidad es que aún podemos leer afirmaciones en el sentido de que las teorías son probadas por los hechos” (<xref ref-type="bibr" rid="B15">Lakatos 1979</xref>:11). </p>
+			<p>La comunidad científica, trabajando en los paradigmas de la verificación o la falsación, ha creado un marco general de análisis. Estos son criterios metafísicos, una especie de teología en la ciencia: algo debe ser probado más allá de cualquier duda razonable (el falsacionismo ingenuo), pero la mayoría de nuestras certezas científicas no han llegado a ello. Entonces, ¿cuál es el verdadero criterio de demarcación? Lakatos afirma: “Una teoría puede ser científica incluso si no cuenta ni con la sombra de una evidencia favorable, y puede ser pseudocientífica aunque toda la evidencia disponible le sea favorable” (<xref ref-type="bibr" rid="B15">Lakatos 1979</xref>:12).</p>
+			<p>Lakatos reivindica el aspecto de la probabilidad de las teorías en la confirmación. Si es cero es no científica, si es alta, es científica. Esto nos da una escala continua de probabilidades sin recurrir al todo o nada del falsacionismo popperiano. Para Lakatos, una teoría o una hipótesis no es abandonada, de plano, si no se han superado los primeros problemas predictivos en la experimentación; más bien, se sigue tratando de explicar las anomalías, lo que sería, en criterios del empirismo ingenuo, llevar al extremo de construir hipótesis auxiliares <italic>ad hoc</italic> o <italic>ex post.</italic> Pero esto no lleva a considerar a las teorías científicas como un conjunto <italic>acomodaticio</italic> de hipótesis y teorías que se van ajustando a lo que se <italic>observa,</italic> sino que constituye una especie de método de calibración que permite dar con la explicación heurística propia de la ciencia: “El criterio de Popper ignora la notable tenacidad de las teorías científicas. Los científicos tienen la piel gruesa. No abandonan una teoría simplemente porque los hechos la contradigan. Normalmente o bien inventan alguna hipótesis de rescate para explicar lo que ellos llaman después una simple anomalía o, si no pueden explicar la anomalía, la ignoran y centran su atención en otros problemas” (<xref ref-type="bibr" rid="B15">Lakatos 1979</xref>:12). </p>
+			<p>Lakatos propone lo que llama “programa de investigación” como criterio de demarcación: “En primer lugar defiendo que la unidad descriptiva típica de los grandes logros científicos no es una hipótesis aislada sino más bien un programa de investigación” (Lakatos 1979:13). Los programas de investigación contienen un núcleo general de “creencias” teóricas y empíricas que guían y enmarcan nuevas investigaciones. Lakatos hace una diferencia entre programas “progresivos” y “regresivos”. Los primeros son los programas sólidos, pues tienen una mayor coherencia interna entre hipótesis, leyes, teorías, técnicas y demás, elementos que son “la fuerza motriz del programa” (<xref ref-type="bibr" rid="B15">Lakatos 1979</xref>:59). </p>
+			<p>Esta fuerza motriz es la consistencia lógica en el sentido de Carnap y Popper, de hacer proposiciones con mayor contenido empírico que sus antecesores; esta regla es común a un gran programa de investigación de toda la ciencia, es decir, una especie de método simple y unificador. Lakatos piensa, más bien, en programas particulares que pueden ser reducidos a ciertos contenidos metafísicos como esta regla común de dotar a las explicaciones con proposiciones de contenido empírico. Toda ciencia tendría un núcleo duro o firme: “El cinturón protector de hipótesis auxiliares debe recibir los impactos de las contrastaciones y para defender al núcleo firme, será ajustado y reajustado e incluso completamente sustituido” (<xref ref-type="bibr" rid="B15">Lakatos 1979</xref>:52). Lakatos pone como ejemplo de núcleo fuerte a las tres leyes de la mecánica clásica de Newton. Las hipótesis auxiliares trabajan contra los <italic>modus tollens</italic> que pueden destruir la teoría y terminaron por usar los contraejemplos como formas de sostener tal núcleo duro.</p>
+			<p>Los programas de investigación tienen dos tipos de tendencias en cuanto al comportamiento de los científicos con respecto a este núcleo duro. Lakatos define a estas técnicas como heurísticas y diferencia una negativa de otra positiva. La heurística negativa de los programas de investigación busca que el núcleo duro permanezca, es decir, que persiste el afán de la comunidad científica por solucionar los problemas dentro de tal núcleo duro, es decir, que se resista a la falsación. Por otro lado, la heurística positiva sirve como guía para las acciones de los científicos alrededor del núcleo duro, lo que permite mejorar la articulación de los diferentes elementos del programa de investigación. Así, la heurística positiva debe ser seguida y la negativa evitada.</p>
+			<p>“La heurística positiva sirve de guía de cómo se debe complementar el núcleo central y de cómo debe modificarse el cinturón protector resultante para que un programa sea capaz de explicar y predecir los fenómenos observables. En palabras del propio Lakatos, la heurística positiva consiste en un conjunto parcialmente articulado de sugerencias o indicaciones sobre cómo cambiar y desarrollar las ‘variantes refutables’ del programa de investigación, cómo modificar, refinar el cinturón protector ‘refutable’. El desarrollo de un programa no solo supondrá la adición de las oportunas hipótesis auxiliares, sino también el desarrollo de las técnicas matemáticas y experimentales idóneas” (<xref ref-type="bibr" rid="B6">Chalmers 2000</xref>:137). </p>
+			<p>Estas heurísticas son las que construyen el marco metodológico y conceptual, así como el núcleo duro de todo el Programa de Investigación. Refutar tal núcleo duro implica desmontar todo el edificio del programa. Así, el criterio de demarcación es una interrelación compleja de muchos elementos, en los que las convicciones de la comunidad científica sobre ciertas verdades “incuestionables” son necesarias.</p>
+		</sec>
+		<sec>
+			<title>Paul Feyerabend</title>
+			<p>Otra forma de abordar esta problemática es la de Feyerabend, quien está en contra de tomar a la ciencia como un sistema, lo que equivale a borrar procedimientos estables como líneas demarcatorias. En el primer párrafo de su libro <italic>Tratado</italic> 
+ <italic>contra el método,</italic> sostiene que su ensayo “ha sido escrito desde la convicción de que el a<italic>narquismo</italic>, que no es quizá la filosofía <italic>política</italic> más atractiva, puede procurar, sin duda, una base excelente a la <italic>epistemología</italic> y <italic>filosofía de la ciencia</italic>” (<xref ref-type="bibr" rid="B10">Feyerabend 1974</xref>:11). Este autor piensa que buscar criterios, reglas o estándares estables e infalibles es improcedente, pues la ciencia funciona, más bien, sobre accidentes, coyunturas, intereses y eventos tan ajenos a una lógica interna que sería difícil establecer una racionalidad propia y, por tanto, una demarcación clara. Feyerabend argumenta que no existen reglas que sean seguidas a rajatabla y que su ruptura tampoco es accidental o inconsciente y que, por el contrario, constituye un procedimiento común que denota la ausencia de método. Sin método, por supuesto, no hay demarcación clara de los procedimientos que nos llevan a ciertos resultados, pues la propuesta de Feyerabend es la inconmensurabilidad de las teorías, es decir, su imposibilidad de comparación entre unas y otras al no existir un criterio común de análisis, es decir, ante el fracaso de establecer criterios de demarcación estables.</p>
+			<p>“Para tratarla debemos darnos cuenta de que la pregunta «¿son inconmensurables dos teorías comprehensivas particulares, como la mecánica celeste clásica (MC) y la teoría especial de la relatividad (EC)?» no es una pregunta completa. Las teorías pueden ser interpretadas de maneras diferentes. Serán conmensurables en unas interpretaciones, inconmensurables en otras. El instrumentalismo, por ejemplo, hace conmensurables todas aquellas teorías que están ligadas al mismo lenguaje de observación y son interpretadas sobre su base… Ahora bien, y aquí solo repetimos lo dicho hace poco, al extender los conceptos de una nueva teoría, T, a todas sus consecuencias, informes observacionales incluidos, puede cambiar la interpretación de estas consecuencias hasta tal extremo que desaparezcan, o bien del conjunto de consecuencias de las primeras teorías, o bien del conjunto de consecuencias de las alternativas disponibles. Estas primeras teorías y sus alternativas se harán entonces inconmensurables con T. La relación entre ER y MC sirve como ilustración de lo que digo. El concepto de longitud utilizado en ER y el concepto de longitud propuesto por MC son conceptos distintos” (<xref ref-type="bibr" rid="B10">Feyerabend 1974</xref>:109).</p>
+			<p>En la cita, Feyerabend propone que los criterios analíticos están diseñados para ser aplicados a cada teoría y que no existen conceptos inherentes a los objetos, a lo que denomina <italic>teorías comprehensivas particulares;</italic> por ello, la forma de abordar un fenómeno desde un mismo concepto -en este caso, la longitud- no puede explicarse fuera de cada teoría, pues Feyerabend niega tal condición comprehensiva. Por esto mismo, la MC sigue siendo aplicada para cierto tipo de fenómenos (digamos, los terrestres) y la ER para fenómenos de otra índole con cuerpos supermasivos y en distancias diferentes.</p>
+			<p>De esta forma, mientras Carnap, Popper y Lakatos sostienen ciertos elementos de demarcación, para <xref ref-type="bibr" rid="B10">Feyerabend “ni una sola teoría concuerda con todos los hechos en su dominio” (Feyerabend 1974</xref>:40), lo que nos lleva a sostener que no podemos pensar en criterios fijos basados ya sea en la verificación o falsación. De forma tajante, Feyerabend rechaza de igual forma la verificación, la confirmación, el falsacionismo y otros métodos o criterios de demarcación.</p>
+			<p>En este punto, podemos también hacer una referencia breve a la propuesta de Larry <xref ref-type="bibr" rid="B16">Laudan (1983</xref>) sobre la distinción entre ciencia y pseudociencia y los problemas inherentes al criterio de demarcación. Laudan deposita en los filósofos de la ciencia y en los científicos, es decir, en los “expertos”, la capacidad de dirimir entre el tipo de conocimiento al cual nos enfrentamos y su validez. Para Laudan, el criterio más bien recae en los individuos, sin que haya una clara línea formal que haga la demarcatoria entre ambos tipos de conocimientos, supuesto el carácter <italic>sui generis</italic> de la ciencia y la enorme dificultad de lograr una definición lógica de sus componentes: “It is probably fair to say that there is no demarcation line between science and non-science, or between science and pseudo-science” (<xref ref-type="bibr" rid="B16">Laudan 1983</xref>:112).</p>
+			<p>Pero también la función de los expertos resulta algo problemática por la posición de prestigio adquirida por la comunidad de científicos: “If scientist say that continents move or that the universe is billions of years old, we generally believe them, however counter-intuitive and implausible their claims might appear to be” (<xref ref-type="bibr" rid="B16">Laudan 1983</xref>:111). Es en base a esta forma de entender la ciencia como estándar en la que Laudan también piensa a la pseudociencia como una “deviant doctrine” (<xref ref-type="bibr" rid="B11">Hansson 2017</xref>). </p>
+		</sec>
+		<sec>
+			<title>¿Qué entenderíamos como pseudociencia con respecto a la demarcación?</title>
+			<p>La concepción de doctrina desviada se conecta a aquella otra que mira a la pseudociencia como un fraude (<italic>pseudo</italic> como falso): “as it is commonly conceived, involves a sustained effort to promote teachings different from those that have scientific legitimacy at the time” (<xref ref-type="bibr" rid="B11">Hannson 2017</xref>: s/p). En definitiva, podemos tener una conexión de la pseudociencia como “ciencia falsa” o “mala ciencia”, cuyos promotores ganan ante tal pretensión de cientificidad, usando de forma acomodaticia criterios científicos y tratando hechos que la “ciencia normal” no puede explicar: “To the contrary, the fraudulent scientist is anxious that her results be in conformity with the predictions of established scientific theories” (<xref ref-type="bibr" rid="B11">Hansson 2017</xref>: s/p). Por ello, las teorías pseudocientíficas pretenden además inscribirse o usar teorías validadas por el frecuentemente vago criterio de demarcación de la ciencia. Los ejemplos típicos de pseudociencia que da Hansson cumplen estos criterios generales: historia negacionista del holocausto, homeopatía, radiostesia, ufología, la ciencia natural promovida por los creacionistas o el diseño inteligente. Además, se pueden añadir doctrinas consolidadas con prácticas acreditadas por una institucionalidad fuerte, como el psicoanálisis, la economía neoliberal, ciertas teorías físicas (teoría de cuerdas), rabdomancia, etc.</p>
+			<p>Siguiendo a Hansson, el problema del criterio de demarcación de la ciencia tiene un correlato en ciertas prácticas frecuentes de la pseudociencia, como las siguientes: (a) creencia en la autoridad -no remitirse a los argumentos, sino a quien lo dice, (b) presentación de experimentos irrepetibles -lo cual no da lugar a la contrastación, (c) ejemplos excepcionales no representativos (<italic>handpicked examples</italic>), (d) no existe el deseo de someter a prueba las aseveraciones, (e) no tomar en cuenta la información que refuta la teoría, (f) uso de subterfugios para que la teoría no pueda ser refutada, solo confirmada, (g) explicaciones de viejas teorías que no se han dado, sin embargo surgen nuevas teorías basadas en las anteriores.</p>
+			<p>Bunge toma otros elementos más: (a) rompe totalmente con nuestra herencia científica, (b) reticencia a ser sometidas a contrastación, (c) se acentúan los mecanismos de autocorrección y no se toma en cuenta la nueva información, nuevos descubrimientos, críticas, es decir que no es un sistema abierto como se requiere de la ciencia, (d) el objetivo principal de la pseudociencia no es la producción de conocimiento, sino influir en la conducta humana “a primarily <italic>practical aim</italic> rather than a cognitive one” (Bunge 1998:42).</p>
+			<p>Estas consideraciones nos llevan a pensar en la pseudociencia como un conjunto de creencias de índole más bien retórica e intencionalmente espuria, cuyo objetivo es impresionar a los receptores bajo postulados y confusiones que “parecerían científicos”, sobre todo relacionados a prácticas legitimadas por el método científico, por lo general de las ciencias fácticas naturales y ciertas técnicas prácticas derivadas o conexas a éstas.</p>
+		</sec>
+		<sec>
+			<title>Criterios de demarcación, pseudociencia y derecho</title>
+			<p>Podemos decir que los criterios de demarcación se refieren a: 1) teorías que usan y explican hechos, sucesos, fenómenos en el mundo y que pueden ser contrastados, corroborados, confirmados, etc.; 2) intentos de establecer elementos metodológicos o racionales que permitan diferenciar a las teorías que cumplen ciertos estándares para estudiar los fenómenos en cuestión; 3) dotan de estándares para demarcar teorías falsas de verdaderas (de acuerdo a la refutación de hipótesis), de buena y mala ciencia (aquellos procedimientos fuera de una metodología racional), de ciencia verdadera y teorías espurias (pseudociencia), ciencia y otro tipo de conocimientos sistemáticos (filosofía o derecho), conocimiento sobre el mundo y metafísica, ciencia y otros conocimientos en general (sentido común).</p>
+			<p>En términos generales vamos a entender al derecho de dos formas: como normatividad (<italic>law</italic>, que puede ser llamada como jurisprudencia o como dogmática jurídica) y como conjunto de normas u obligaciones jurídicas (<italic>rights</italic>) (<xref ref-type="bibr" rid="B1">Atienza 2001</xref>:41). De allí, los saberes jurídicos generales se pueden entender como: a) conjunto de normas, b) estudio de tales normas; y, podemos añadir la propuesta de Alf <xref ref-type="bibr" rid="B19">Ross (1994</xref>), como c) estudio de las prácticas de tales normas en una jurisdicción y un momento dado.</p>
+			<p>Ahora bien, con respecto a los criterios de demarcación, expuestos en tres criterios generales, diríamos:</p>
+			<p>(1) Exceptuando ciertas corrientes “realistas” (por ejemplo <xref ref-type="bibr" rid="B14">Kirchmann 2015</xref>), no se entiende al derecho como un conjunto de hechos fácticos a estudiar, sino como un conjunto de normas, saberes y doctrinas. El derecho, al no ser una “ciencia” empírica, sino al ser un saber normativo (por ejemplo <xref ref-type="bibr" rid="B2">Atienza 2014</xref>), tiene necesariamente una utilidad práctica (razón práctica en la forma kantiana), que es el de normar o regular las conductas sociales, por lo que es siempre un saber práctico.</p>
+			<p>Por ello, como saber normativo, los criterios de demarcación centrados en las ciencias empíricas no pueden aplicarse. Las normas no pueden verificarse, comprobarse, etc., porque su carácter no es descriptivo sino prescriptivo, es decir, que no son formulaciones que se refieren a explicaciones sobre el mundo, sino a formulaciones sobre cómo <italic>debería ser la conducta de las personas en el mundo.</italic> Sin embargo, este no sería un elemento de juicio suficiente para negar el carácter científico del derecho. Si se aplica el criterio de corroboración, por ejemplo, habrían muchas teorías de ciencias especiales, aceptadas ampliamente como tales, que no compaginarían con tal criterio.</p>
+			<p>(2) Sobre lo que se ha denominado como <italic>law</italic>, podríamos decir que, en general, es un tipo de saber de carácter deóntico (axiológico, metafísico, ético, etc.), por lo que no tendría ningún carácter científico. Pero esta obviedad es una reformulación de que el derecho no es <italic>ser,</italic> sino <italic>deber ser,</italic> en la vieja separación de <xref ref-type="bibr" rid="B13">Kelsen (1965</xref>). Lo importante es notar que un tipo de saber que describe un cuerpo normativo (digamos una explicación sobre el sistema jurídico francés o romano), apenas constata y no explica (en el sentido científico de dar cuenta de las regularidades nómicas del mundo) y que puede constatar un conjunto puramente convencional (no natural). En el caso de determinar regularidades generales de lo que comprenden las normas jurídicas, como condición humana, búsqueda de justicia, etc., quedaría en el campo de la filosofía moral o filosofía ética.</p>
+			<p>Se niega categóricamente que la filosofía sea una ciencia o la madre de las ciencias o la gran ciencia. La ciencia es un saber analítico (especial) sobre una parte del mundo y la aborda con un conjunto de categorías propias de ese saber. La filosofía aborda aspectos generales no empíricos, por lo que son dos formas sistemáticas, racionales y coherentes sobre el mundo, pero no son iguales; no solo por la cuestión de los criterios de demarcación (posibilidad de corroboración de lo dicho), sino porque sus racionalidades son diferentes. </p>
+			<p>(3) En cuanto a la propuesta de Alf Ross, si la ciencia del derecho estudia los actos de los agentes jurídicos (jueces, abogados), estaríamos en el campo de la sociología (el mismo Ross dice que el pilar de la ciencia jurídica es la sociología jurídica) y faltaría ver, incluso, si esta ciencia fáctica lo es bajo criterios demarcatorios mínimos.</p>
+			<p>(4) Si definimos a la pseudociencia como “ciencia” falsa o engañosa, como un conjunto de teorías o proposiciones que se ciñen a lo expuesto por Hansson sobre el procedimiento pseudocientífico, ¿qué podríamos decir con respecto al derecho? Si la pseudociencia tiene una tendencia general a influir en la conducta humana, entonces hay una primera conexión entre el derecho y las pseudociencias: la normatividad. </p>
+			<p>La posibilidad de incidir en la conducta de la pseudociencia está en su apelación al supuesto estatuto científico de sus proposiciones o predicciones, por lo que funcionan como argumentos de fuerza basados en la autoridad científica y, en última instancia, tienen un carácter retórico de persuasión. El caso del derecho es diferente, su normatividad no necesariamente apela a la cientificidad; aunque hay teorías que sostienen la cientificidad del derecho y, por ello, buscan tener cierta autoridad desde este presupuesto, pero este carácter pseudocientífico del derecho incluso le es accesorio, pues el derecho incide en las conductas humanas bajo un marco normativo legitimado por la autoridad política que legisla. En este sentido, hay apenas una relación accidental.</p>
+			<p>En el caso de la dogmática jurídica y de otras formas doctrinales, la pretensión de cientificidad es muy importante y vincula a la práctica jurídica con una serie de teorías que demostrarían la estructura científica de tales saberes; sin embargo, creo que se debe destacar que hay una distancia con la pseudociencia en un sentido simple: la pseudociencia recurre a teorías exitosas de las propias ciencias empíricas, ya sea con formulaciones espurias, incompletas o tergiversadas para dar mayor legitimidad a su teoría. En el caso de las disciplinas doctrinarias del derecho, al no ser empíricas, no tienen el mismo soporte.</p>
+			<p>Si se parte de suponer la posibilidad de un criterio de demarcación basado en la racionalidad científica y la unidad de la ciencia, ni el derecho ni las pseudociencias cumplirían con los requisitos mínimos de tales criterios, pero esto tampoco implica una igualdad entre el derecho y la pseudociencia. La diferencia más resaltable entre el derecho y las pseudociencias es que las segundas asumen tener también cierto carácter empírico que en la racionalidad jurídica no tiene ninguna pertinencia. Mientras el derecho se asume como un saber de carácter normativo no empírico, las pseudociencias aseguran tener un lugar dentro de las ciencias especiales o utilizan teorías de ciencias especiales, como la física o la psicología. Esto conlleva a que el derecho, a pesar de la proximidad lógica en su incumplimiento con los criterios de demarcación, no sea una pseudociencia, pues su racionalidad normativa es diferente de la función persuasiva de la <italic>bad science</italic> o “desviación” de la ciencia de formas pseudocientíficas como la astrología o la parapsicología.</p>
+			<p>Todas las pseudociencias enumeradas pretenden ser fácticas y difieren del carácter normativo del derecho. Por ello, aunque ninguna cumple los criterios de demarcación, sus racionalidades no están conectadas. Como se había señalado al inicio de este apartado, una pseudociencia no solo es una “bad science”, sino que tiene un carácter de engaño. El derecho no puede ser una “bad science” porque se acepta que no trata de hechos, y si los trata, no lo hace en el sentido de regularidad explicativa, como en el caso de la ciencia, sino los refiere para dictar una norma. La normatividad no puede ser espuria en el sentido de “no verdad”, como se verá a continuación, pues los postulados normativos no son susceptibles de constatación empírica, pues generalmente se desarrollan en el campo ético.</p>
+		</sec>
+		<sec>
+			<title>La cuestión de la “verdad” como criterio demarcatorio</title>
+			<p>La discusión en torno a la verdad de la ciencia es muy compleja. Podemos citar tan solo algunos problemas relacionados a la verdad y su posibilidad de cognoscibilidad desde Berkeley o Hume, y que atraviesan postulados como la teoría semántica de Tarski, que lleva a Popper a plantear el problema entre verdad y verosimilitud, o la negación de cualquier correspondencia entre verdad y teorías como en Nancy Cartwright o el propio relativismo. En este apartado, por cuestiones de espacio, nos limitaremos a enfocar la cuestión de la verdad en la ciencia con respecto al derecho, pues es el tema de este trabajo. </p>
+			<p>En primer lugar, habíamos hablado de la importancia del criterio de verdad en función a la definición de “ciencia espuria” o “ciencia falsa” de discursos como los pseudocientíficos. En esa medida, limitarse a aceptar que la <italic>verdad</italic> existe, entendida como regularidades del mundo externo, y que además existen teorías que se aproximan de forma fantástica a éstas, que se pueden demostrar en su capacidad predictiva, en su base para la formulación de nuevas teorías exitosas o en sus aplicaciones técnicas, es el único criterio necesario para los objetivos de este artículo.</p>
+			<p>En este marco de <italic>verdad</italic> científica, quiero proponer dos diferencias radicales con el derecho, que a su vez fungen como formas de separar el discurso jurídico de las pseudociencias. De acuerdo con <xref ref-type="bibr" rid="B22">Vega (2000</xref>) o <xref ref-type="bibr" rid="B20">Taruffo (2008</xref>), la búsqueda de la verdad es consustancial a la práctica jurídica. Podríamos decir, por tanto, que en esto coincide con la ciencia, pero no es una condición suficiente de cientificidad, no solo por las razones ya expuestas, sino porque las consideraciones sobre la verdad entre ciencia y derecho son diferentes.</p>
+			<p>En primer lugar, la dilucidación de casos de estudio en límites temporales dados es uno de los principios que diferencian a la investigación científica de la jurídica, pues el derecho se basa en el principio de <italic>interest rei publicae ut sit finis litiium,</italic> por lo cual “la búsqueda de la verdad no puede durar indefinidamente” (<xref ref-type="bibr" rid="B20">Taruffo 2008</xref>:67). Debido a esta necesidad de finiquitar los casos judiciales, se apela a la intervención de peritos, entre los que constan expertos en diferentes disciplinas aceptadas convencionalmente como científicas: “El informe pericial se configura así como un medio de carácter científico mediante el cual se pretende lograr que el juez pueda apreciar y valorar unos hechos que ya han sido aportados al proceso por otros medios probatorios” (<xref ref-type="bibr" rid="B8">De Luca, Navarro y Cameriere 2013</xref>:5). Estos medios probatorios son los del ámbito científico.</p>
+			<p>En el sentido legal, esta afirmación también involucra un criterio de demarcación, puesto que el derecho (y algunos autores se basan en ello para adjudicarle un estatuto científico al derecho) debe basarse en elementos de juicio certeros, pues la verdad (asociada generalmente al conocimiento científico) es un asunto consustancial del proceso si quiere ser justo, así “la ciencia y el proceso tienen un objetivo común: la investigación de la verdad” (<xref ref-type="bibr" rid="B20">Taruffo 2008</xref>:87), dado que la ciencia es lo más cercano al aporte de pruebas verdaderas.</p>
+			<p>Una primera diferencia, por tanto, es el sentido práctico (por su propia condición de <italic>tecno praxis</italic> del derecho para alcanzar un <italic>deber ser,</italic> que, en este caso es algo así como un <italic>anhelo de justicia</italic>) de alcanzar la verdad y en este sentido práctico, los límites temporales están definidos (lo que lleva, en ciertos casos, a innumerables fallos en el proceso por esta necesidad práctica de verdad). En el caso de la ciencia no, porque su formulación teórica si bien busca aplicaciones prácticas, en términos lógicos pueden presentarse de forma separada, pues existen teorías que no tienen todavía utilidad práctica y existen técnicas y tecnologías exitosas que no han partido de teorías.</p>
+			<p>Pero la diferencia sustancial entre ambas formas de verdad es la siguiente: en el derecho se analiza “la verdad” de los hechos en los casos particulares con el objeto de resolver ese caso (que de allí puedan surgir sugerencias para una normatividad futura es otra cosa). En cambio, en la ciencia, se analizan casos, hechos, sucesos o fenómenos particulares para confirmar y refutar hipótesis, ya sea para confirmar o corroborar teorías o leyes existentes o nuevas propuestas teóricas, y solo si estos casos no son vacuos, es decir, si tienen conexión o son estándares de los fenómenos de los cuales tratan tales leyes o teorías. Los casos particulares estudiados lo son porque de ellos se desprenden, en términos cognitivos, regularidades nómicas. La distinción, por ende, es muy clara.</p>
+			<p>Intentaré relacionar dos ejemplos prototípicos: el asesinato de A, provocado por B, en el lugar C, en el momento D, de la forma E. Una vez encontrado el cuerpo de A, se debe dilucidar, al menos, quién es A, quién es B, dónde, cuándo y cómo ocurrieron los hechos. Aquí, conocer la verdad está íntimamente relacionado a una noción de justicia. Se puede llegar a una explicación de los sucesos, pero su finalidad posterior es tomar acciones sobre lo ocurrido con A, por ello, hay un tiempo perentorio por la finalidad práctica y los recursos públicos invertidos en llegar a esta verdad. Después de una investigación, se determina que B, en C y D, acometió E contra A. B es imputable de lo sucedido con A, a través de una interpretación de lo ocurrido. Se puede determinar no solo responsabilidad, sino dolo (voluntad directa de dañar a A), más allá de cualquier duda razonable.</p>
+			<p>¿Por qué se empezó la investigación? Porque una norma previa lo dicta ¿Por qué lo dicta? Porque podríamos interpretar que el acto E sobre A no solo lesiona a la víctima, sino que es un acto odioso contra la comunidad y, por ello, tiene dos repercusiones: la sanción y la búsqueda de sentar un precedente normativo sobre lo que puede pasar si se rompe una norma que induce a un comportamiento determinado. ¿Es posible explicar por qué el acto E contra A es malo? Sin recurrir a términos éticos: nunca.</p>
+			<p>En este caso, las conclusiones de la investigación nos llevan a una descripción (una “narración” de cómo sucedió E) y a una explicación de lo ocurrido (interpretación de los motivos de B para E). Se establece la verdad de E, pero se debe ir “más allá”, se debe interpretar el acto de B para la sanción. Se puede pensar que la verdad no solo contiene la “descripción”, sino además los motivos de E. En último caso, la descripción y la explicación dadas a E contienen una verdad, pero la misma solo atañe al acto E, acometido por B, contra A, en C y D. Es decir, que esta verdad como explicación se “extingue” allí y solo cobra carácter legal-normativo si se remite a una norma previa (como es el caso) o modifica la norma (digamos que es un caso excepcional, que impone modificar la normativa, para adelantarse a sucesos futuros igual de odiosos, pero siempre particulares, pues no predice, sino que se adelanta a lo que ocurrirá). La verdad jurídica, remitida a un caso único, solo es legal en este sentido. En derecho, cada caso se juzga de forma aislada.</p>
+			<p>En una súper-simplificación del proceder científico, pondríamos un ejemplo de investigación empírica: se explica el evento A, ocurrido en el lugar B y en el momento C. Se asume que A puede tener conexiones con otros eventos similares posibles, por ello, B y C se piensan como circunstancias en las cuales hay regularidades detrás. Por ejemplo, la caída del cuerpo A en B y C es similar a la caída del cuerpo A<sub>1</sub>, A<sub>2</sub>, A<sub>n</sub>. En circunstancias similares de B y C, el caso prototípico A se repite.</p>
+			<p>Digamos que establecemos un principio de predicción: que dado B y C, A ocurrirá. Esta verdad trasciende el caso A inicial, y tiene cierto carácter nómico, porque establece una explicación regular de A y similares (A<sub>1</sub>, A<sub>2</sub>, A<sub>n</sub>) en B y C; por lo que, más allá de cualquier duda razonable, se “cree” que A<sub>1</sub>, A<sub>2</sub>, A<sub>n</sub> ocurrirán. Si ocurren, se piensa que la ley derivada funciona de forma descriptiva (en B y C, A ocurrirá) y se explica por qué lo mismo ocurre en A<sub>n</sub>. Si, por alguna circunstancia, un caso de A, A<sub>m</sub> no ocurre a pesar de la predicción, se puede revisar qué sucede con B y C. Si a pesar de que B y C siguen “invariables”, se piensa en la formulación de la explicación legal: dados B y C, ocurrirá A. Si A<sub>m</sub> no ocurre, pues se refuta la formulación o se espera observar un evento extraño D, no tomado en cuenta. Si D solo afecta a A<sub>m</sub>, pues no se refuta la formulación, pero sí afecta a A, la formulación “dados B y C, entonces A” ya no se cumple y queda falsada. Como se ve, en el derecho y la ciencia, la cuestión de la <italic>verdad</italic> es fundamental, pero no en el mismo sentido.</p>
+		</sec>
+		<sec sec-type="cases">
+			<title>Un caso inverso: el derecho pensando la relación entre ciencia y pseudociencia</title>
+			<p>Quisiera exponer cómo los criterios de demarcación entre ciencia y pseudociencia entran en juego en la aplicación del derecho, con el paradigmático caso Daubert v. Merroll Dow Pharmaceuticals y la relación que existe con el uso de conocimiento de peritos en un ámbito determinado de trabajo.</p>
+			<p>El caso Daubert es un punto de inflexión sobre las decisiones jurídicas con respecto a la ciencia. Irónicamente, es en el ámbito judicial, a través de éste y otros casos similares, en los que se debe trabajar y dilucidar ciertos elementos prácticos derivados de los criterios de demarcación para poder tomar decisiones entre ciencia y pseudociencia, supuesto el carácter público que cobran las decisiones de los científicos, así como a la necesidad de tener elementos para analizar la verdad, en la que la ciencia puede jugar un rol primordial. En este caso: “Los demandantes, dos niños pequeños nacidos con malformaciones graves y sus padres, alegaban que los daños se debían a que las madres de aquéllos habían consumido Bendectin durante el embarazo. El laboratorio demandado negaba la causalidad y, en primera instancia, el Tribunal de Distrito, vistos los peritajes presentados por ambas partes, aplicó el canon de Frye, resolvió que las tesis de los demandantes no cumplían con el requisito de la aceptación general y rechazó su reclamación” (<xref ref-type="bibr" rid="B7">Coderch y Puig 2008</xref>:39). El estándar Frye dictaba una norma para diferenciar al discurso de la ciencia y lo no científico en base a la opinión de la comunidad de expertos: “La respuesta tradicional, desde Frye v. United States, 293 F. 1013. C. Cir. 1923, era remitir a la opinión generalmente aceptada en la comunidad científica” (<xref ref-type="bibr" rid="B7">Coderch y Puig 2008</xref>:1).</p>
+			<p>Con “aceptación general” se refiere al consenso de la comunidad científica al respecto, en el sentido de Kuhn. Pero bajo qué criterios de demarcación trabaja la comunidad científica: ¿más cercanos a la heurística positiva, a la ciencia normal? Si es así, qué pasa con la propia lógica de la ciencia a la apertura, a la posición crítica de los científicos sobre sus propios descubrimientos.</p>
+			<p>En el caso Daubert, para el análisis de pruebas, se presentó el testimonio de William McBride, quien era médico y no investigador, y por ende su opinión no era un aval pericial al no trabajar en los dominios de la comunidad científica como demandaba el canon Frye. La idea sería que al someter el medicamento a pruebas, jamás es un criterio suficiente para determinar el impacto por su uso, pero no someterlo sí es un criterio para no usarlo. Se debe recalcar que la “aceptación general” parte de una concepción en estándares más bien popperianos. En los años 70, el debate se daba alrededor de la evolución de la ciencia normal y la crisis debido al influjo de Kuhn. Si bien los criterios de demarcación estaban pensados para la “ciencia normal”, si no se toma en cuenta la crisis de los elementos del paradigma, no habría adelanto científico ni dinámica.</p>
+			<p>De acuerdo con Susan <xref ref-type="bibr" rid="B9">Haack (2005</xref>), el caso Daubert v. Merrel Dow Pharmaceuticals pone en juego una discusión sobre los criterios de demarcación entre la tradición popperiana y aquella más cercana al positivismo lógico (Carnap o Hempel). El falsacionismo entra en disputa directa contra los postulados de Carnap o contra la refutación por instancias de Hempel. Al introducir su criterio de corroboración, Popper intenta separarse de la confirmación de Carnap, precisamente por la dificultad de predecir con “certeza” los sucesos futuros. La corroboración de Popper solo afirma su comportamiento en el pasado, por lo que ni la mejor de las teorías es totalmente fiable.</p>
+			<p>El problema de la fiabilidad exigida por la justicia bajo el estándar Frye, imponía una visión más bien confirmacionista más que de corroboración y de acuerdo con Haack, niega la propia posición de la filosofía de la ciencia popperiana sobre la apertura: “But there is an even more serious problem with Daubert Court’s reliance on Popper, of which Justice Rehnquist didn’t seem to be aware: Popper’s philosophy of science is signally inappropriate to the Court’s concerns with realibility. When Popper describes his approach as ‘critical rationalism’, it is to emphasize that the rationality of the scientific enterprise lies in the susceptibility of scientific theories to criticism, that is, to testing, and potentially falsification, <italic>not</italic> in their verificability or confirmability” (<xref ref-type="bibr" rid="B9">Haack 200</xref>5:67).</p>
+			<p>Fue el juez Harry Blackmun quien modificó la posición de la “aceptación general” (<xref ref-type="bibr" rid="B7">Corderch y Puig 2008</xref>:36) que se sostenía con el canon Frye. Este juez agrega dos elementos basados en el historicismo de Kuhn, por el cual la “aceptación general” va en contra de la propia dinámica de la ciencia, la apertura y su tendencia a la producción de información crítica contra la <italic>normal science;</italic> y, por otro lado, está la introducción del criterio de falsabilidad de Popper que se ha erigido como un eje central para las ciencias empíricas. Así, el juez Blackmun sienta nueva jurisprudencia y establece nuevos criterios de demarcación a usarse en futuros casos: (a) que la información usada, el producto, la teoría, etc., haya sido revisada por pares (por lo general en publicaciones con este tipo de revisión), (b) que haya criterios de control y falsabilidad, (c) admitir hipótesis arriesgadas siempre que puedan contrastarse empíricamente y por tanto rechazar aquellas no falsables (asumiendo, por tanto, la posición de Kuhn sobre las crisis de la ciencia normal y los posibles cambios de paradigma), (d) determinación del porcentaje de error relativo y (e) que la prueba sea científicamente relevante para el caso.</p>
+			<p>El problema de la delimitación de la ciencia, al considerarse un sistema de racionalidad abierta e intersubjetiva, es que la coloca en una discusión pública sobre su carácter y la importancia de los criterios de demarcación. Con el objetivo de remarcar la importancia de delimitar unos criterios de demarcación mínimos, basta recordar a autores como Lombroso, que con una mezcla de frenología, darwinismo social, climatología, el organicismo lineal de la filosofía de la historia del XVII y XVIII, etc., incidieron directamente en la práctica jurídica bajo criterios pseudocientíficos. De acuerdo a estos antecedentes, los problemas sobre la verdad jurídica y científica, la ciencia y la pseudociencia, cómo trabajan los científicos y cómo las teorías “evolucionan”, tiene una importancia radical en términos sociales.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>En este trabajo se han recalcado, por lo menos, algunas cuestiones básicas. La primera es que, a pesar de la dificultad de establecer criterios de demarcación, se corrobora un conjunto de características mínimas: apertura, adecuación, racionalidad, sistematicidad, coherencia y, sobre todo, formas de contrastación de las proposiciones. Si bien, como en el caso de Feyerabend, existe una posición escéptica sobre la posibilidad de la demarcación y de diferenciar plenamente entre discursos científicos y no científicos, tal dificultad teórica no podría llevarnos a pensar a la ciencia como un discurso similar a cualquier otro, pues su propia racionalidad impone elementos acerca de cómo se corrobora lo que se asevera en las teorías y cómo se llega a tales aseveraciones.</p>
+			<p>La segunda es que si bien el derecho comparte con la ciencia la sistematicidad y la coherencia, no son criterios suficientes de cientificidad, pues sus racionalidades son diferentes.</p>
+			<p>La tercera cuestión es que al no tratar de elementos de adecuación empírica, las racionalidad científica y jurídica son diferentes, por lo que los criterios de demarcación no son aplicables, pues están pensados desde una postura realista en la que la ciencia da cuenta de elementos del mundo.</p>
+			<p>La cuarta es que se entiende por pseudociencia a aquellos conocimientos que no cumplen criterios mínimos de demarcación y además son espurios y éticamente incorrectos por tener pretensiones científicas. El derecho no puede ser pensado desde esta perspectiva pues, aunque muchos juristas puedan pretender que el derecho es una ciencia, se niega, generalmente, su carácter empírico, cuestión decisiva para las pseudociencias. Al ser espurias, el criterio de verdad no está presente en las pseudociencias, que es central para la ciencia y para el derecho. Como se ha visto, aun cuando no en los mismos términos que la ciencia, la verdad es siempre fundamental en el derecho por su relación con el problemático concepto de justicia. Mientras la verdad en el derecho es para casos particulares, en la ciencia tratamos de verdades nómicas, es decir, verdades generalizables para cada uno de los particulares bajo las mismas condiciones, en un orden no prescriptivo, sino explicativo-predictivo.</p>
+			<p>Por último, se recalca en el caso presentado que los criterios de demarcación tienen una importancia práctica, ética y pública, que se puede evidenciar en el propio ámbito jurídico, y en el que los debates en filosofía de la ciencia tuvieron una incidencia importantísima, no solo para separar la ciencia de la pseudociencia, sino también para entender la dinámica del progreso científico.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Atienza, M. 2001. <italic>El sentido del derecho</italic>. Barcelona: Ariel.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Atienza</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>El sentido del derecho</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Ariel</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Atienza, M. 2014. La dogmática jurídica como tecno-praxis. Blog post. <ext-link ext-link-type="uri" xlink:href="http://lamiradadepeitho.blogspot.fr/2014/02/examino-en-este-trabajo-escrito-en.html">http://lamiradadepeitho.blogspot.fr/2014/02/examino-en-este-trabajo-escrito-en.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Atienza</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>La dogmática jurídica como tecno-praxis</source>
+					<comment>Blog post</comment>
+					<ext-link ext-link-type="uri" xlink:href="http://lamiradadepeitho.blogspot.fr/2014/02/examino-en-este-trabajo-escrito-en.html">http://lamiradadepeitho.blogspot.fr/2014/02/examino-en-este-trabajo-escrito-en.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Bunge, M. 1998. <italic>Philosophy of science: from problem to theory</italic>. New Jersey: Transaction Publishers.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bunge</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>Philosophy of science: from problem to theory</source>
+					<publisher-loc>New Jersey</publisher-loc>
+					<publisher-name>Transaction Publishers</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Carnap, R. 1936. Testability and meaning. <italic>Philosophy of science</italic> 3(4): 419-471. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/286432">https://doi.org/10.1086/286432</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carnap</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1936</year>
+					<article-title>Testability and meaning</article-title>
+					<source>Philosophy of science</source>
+					<volume>3</volume>
+					<issue>4</issue>
+					<fpage>419</fpage>
+					<lpage>471</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/286432">https://doi.org/10.1086/286432</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Carnap, R. 1998. <italic>Filosofía y sintaxis lógica</italic>. México: FCE.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carnap</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>Filosofía y sintaxis lógica</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>FCE</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Chalmers, A. 2000. <italic>¿Qué es esa cosa llamada ciencia?</italic> Madrid: Siglo XXI.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chalmers</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>¿Qué es esa cosa llamada ciencia?</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Corderch, P.S. y Puig, A.R. 2008. Riesgos de desarrollo y evaluación judicial del carácter científico de dictámenes periciales. <italic>InDret. Revista para el Análisis del Derecho</italic> 28(1): 1-63. <ext-link ext-link-type="uri" xlink:href="http://www.raco.cat/index.php/InDret/article/view/77867/101722">http://www.raco.cat/index.php/InDret/article/view/77867/101722</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Corderch</surname>
+							<given-names>P.S.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Puig</surname>
+							<given-names>A.R.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Riesgos de desarrollo y evaluación judicial del carácter científico de dictámenes periciales</article-title>
+					<source>InDret. Revista para el Análisis del Derecho</source>
+					<volume>28</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>63</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.raco.cat/index.php/InDret/article/view/77867/101722">http://www.raco.cat/index.php/InDret/article/view/77867/101722</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>De Luca, S.; Navarro, F. y Cameriere, R. 2013. La prueba pericial y su valoración en el ámbito judicial español. <italic>Revista electrónica en ciencia penal y criminología</italic> 15: 1-19. <ext-link ext-link-type="uri" xlink:href="http://criminet.ugr.es/recpc/15/recpc15-19.pdf">http://criminet.ugr.es/recpc/15/recpc15-19.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Luca</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Navarro</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cameriere</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>La prueba pericial y su valoración en el ámbito judicial español</article-title>
+					<source>Revista electrónica en ciencia penal y criminología</source>
+					<volume>15</volume>
+					<fpage>1</fpage>
+					<lpage>19</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://criminet.ugr.es/recpc/15/recpc15-19.pdf">http://criminet.ugr.es/recpc/15/recpc15-19.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Haack, S. 2005. Trial and error: the supreme court’s philosophy of science. <italic>American Journal of Public Health</italic> 95: 66-73. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2105/AJPH.2004.044529">https://doi.org/10.2105/AJPH.2004.044529</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Haack</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Trial and error: the supreme court’s philosophy of science</article-title>
+					<source>American Journal of Public Health</source>
+					<volume>95</volume>
+					<fpage>66</fpage>
+					<lpage>73</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2105/AJPH.2004.044529">https://doi.org/10.2105/AJPH.2004.044529</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Feyerabend, P. 1974. <italic>Tratado contra el método</italic>. Madrid: Tecnos. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Feyerabend</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1974</year>
+					<source>Tratado contra el método</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Tecnos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Hansson, S. O. 2017. Science and pseudocience. <italic>The Stanford Encyclopedia of Philosophy</italic> (Summer edition). <ext-link ext-link-type="uri" xlink:href="https://plato.stanford.edu/archives/sum2017/entries/pseudo-science/">https://plato.stanford.edu/archives/sum2017/entries/pseudo-science/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hansson</surname>
+							<given-names>S. O.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Science and pseudocience</article-title>
+					<source>The Stanford Encyclopedia of Philosophy</source>
+					<edition>Summer</edition>
+					<ext-link ext-link-type="uri" xlink:href="https://plato.stanford.edu/archives/sum2017/entries/pseudo-science/">https://plato.stanford.edu/archives/sum2017/entries/pseudo-science/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Jaramillo, L. y Aguirre, J. 2004. La controversia de Kuhn-Popper en torno al progreso científico y sus posibles aportes a la enseñanza de las ciencias. <italic>Cinta moebio</italic> 20: 83-92. <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/20/jaramillo.html">http://www.moebio.uchile.cl/20/jaramillo.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jaramillo</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aguirre</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>La controversia de Kuhn-Popper en torno al progreso científico y sus posibles aportes a la enseñanza de las ciencias</article-title>
+					<source>Cinta moebio</source>
+					<volume>20</volume>
+					<fpage>83</fpage>
+					<lpage>92</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/20/jaramillo.html">http://www.moebio.uchile.cl/20/jaramillo.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Kelsen, H. 1965. <italic>Teoría pura del derecho</italic>. Buenos Aires: EUDEBA. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kelsen</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>1965</year>
+					<source>Teoría pura del derecho</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>EUDEBA</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Kirchmann, von J. 2015. <italic>La jurisprudencia no es ciencia: el carácter acientífico de la llamada ciencia del derecho</italic>. Madrid: Instituto Pacífico.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kirchmann</surname>
+							<given-names>von J.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>La jurisprudencia no es ciencia: el carácter acientífico de la llamada ciencia del derecho</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Instituto Pacífico</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Lakatos, I. 1979. <italic>La metodología de los programas de investigación científica</italic>. Madrid: Alianza.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lakatos</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>
+					<year>1979</year>
+					<source>La metodología de los programas de investigación científica</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Alianza</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Laudan, L. 1983. The demise of demarcation problem, pp. 111-129. En: R.S. Cohen y L. Laudan. <italic>Physics, philosophy and psychoanalysis</italic>. Boston: Springer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Laudan</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>1983</year>
+					<chapter-title>The demise of demarcation problem</chapter-title>
+					<fpage>111</fpage>
+					<lpage>129</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohen</surname>
+							<given-names>R.S.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Laudan</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<source>Physics, philosophy and psychoanalysis</source>
+					<publisher-loc>Boston</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Popper, K. 1980. <italic>La lógica de la investigación científica</italic>. Madrid: Tecnos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Popper</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>1980</year>
+					<source>La lógica de la investigación científica</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Tecnos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Popper, K. 1995. El problema de la demarcación, pp. 131-142. En: D. Miller. <italic>Popper, escritos selectos</italic>. México: FCE.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Popper</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<chapter-title>El problema de la demarcación</chapter-title>
+					<fpage>131</fpage>
+					<lpage>142</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Miller</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<source>Popper, escritos selectos</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>FCE</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Ross, A. 1994. <italic>Sobre el derecho y la justicia</italic>. Buenos Aires: EUDEBA . </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ross</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>1994</year>
+					<source>Sobre el derecho y la justicia</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>EUDEBA</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Taruffo, M. 2008. <italic>La prueba, artículos y conferencias</italic>. Santiago: Editorial Metropolitana.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Taruffo</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>La prueba, artículos y conferencias</source>
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>Editorial Metropolitana</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Toledo, U. 1999. Ciencia y pseudociencia en Lakatos. <italic>Cinta moebio</italic> 5: 51-60. <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/05/lakatos.html">http://www.moebio.uchile.cl/05/lakatos.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Toledo</surname>
+							<given-names>U.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>Ciencia y pseudociencia en Lakatos</article-title>
+					<source>Cinta moebio</source>
+					<volume>5</volume>
+					<fpage>51</fpage>
+					<lpage>60</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/05/lakatos.html">http://www.moebio.uchile.cl/05/lakatos.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Vega, J. 2000. <italic>La idea de ciencia en el derecho</italic>. Oviedo: Pentalfa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vega</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>La idea de ciencia en el derecho</source>
+					<publisher-loc>Oviedo</publisher-loc>
+					<publisher-name>Pentalfa</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

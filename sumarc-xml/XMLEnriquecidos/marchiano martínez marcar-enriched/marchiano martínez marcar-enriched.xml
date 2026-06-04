@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "https://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Epistemus</journal-id>
+      <journal-title-group>
+        <journal-title>Epistemus. Revista de Estudios en Música, Cognición y Cultura</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">EP</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1853-0494</issn>
+      <publisher>
+        <publisher-name>SACCoM - Sociedad Argentina para las Ciencias Cognitivas de la Música</publisher-name>
+        <publisher-loc>
+          <email>fshifres@fba.unlp.edu.ar</email>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.24215/18530494e088</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artículos originales de investigación</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Emoción e interacción en la performance musical</article-title>
+        <subtitle>El caso de la improvisación de jazz</subtitle>
+        <trans-title-group xml:lang="en">
+          <trans-title>Emotion and interaction during musical performance</trans-title>
+          <trans-subtitle>The case of jazz improvisation</trans-subtitle>
+        </trans-title-group>
+        <trans-title-group xml:lang="pt">
+          <trans-title>Emoção e interação na performance musical</trans-title>
+          <trans-subtitle>O caso da improvisação no jazz</trans-subtitle>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1837-5957</contrib-id>
+          <name>
+            <surname>Martínez</surname>
+            <given-names>Isabel Cecilia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <email>isabelceciliamartinez@gmail.com</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3686-1040</contrib-id>
+          <name>
+            <surname>Marchiano</surname>
+            <given-names>María</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <email>marchiano.maria@gmail.com</email>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <institution content-type="original">Universidad Nacional de La Plata, Argentina</institution>
+        <addr-line/>
+        <country country="AR">argentina</country>
+      </aff>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>10</day>
+        <month>12</month>
+        <year>2025</year>
+      </pub-date>
+      <volume>13</volume>
+      <issue>2</issue>
+      <elocation-id>e088</elocation-id>
+      <supplementary-material id="supp98446" mimetype="image" mime-subtype="png">
+        <label>Figura 3.png</label>
+        <media xlink:href="6931d3aa95d4a.png" mimetype="image" mime-subtype="png"/>
+      </supplementary-material>
+      <supplementary-material id="supp98024" mimetype="image" mime-subtype="png">
+        <label>image1.png</label>
+        <media xlink:href="692cc9ca372b7.png" mimetype="image" mime-subtype="png"/>
+      </supplementary-material>
+      <supplementary-material id="supp98025" mimetype="image" mime-subtype="png">
+        <label>image2.png</label>
+        <media xlink:href="692cc9ca48103.png" mimetype="image" mime-subtype="png"/>
+      </supplementary-material>
+      <supplementary-material id="supp98027" mimetype="image" mime-subtype="png">
+        <label>image4.png</label>
+        <media xlink:href="692cc9ca52d04.png" mimetype="image" mime-subtype="png"/>
+      </supplementary-material>
+      <supplementary-material id="supp98028" mimetype="image" mime-subtype="png">
+        <label>image5.png</label>
+        <media xlink:href="692cc9ca5cd67.png" mimetype="image" mime-subtype="png"/>
+      </supplementary-material>
+      <supplementary-material id="supp98029" mimetype="image" mime-subtype="png">
+        <label>image6.png</label>
+        <media xlink:href="692cc9ca618a6.png" mimetype="image" mime-subtype="png"/>
+      </supplementary-material>
+      <supplementary-material id="supp98030" mimetype="image" mime-subtype="png">
+        <label>image7.png</label>
+        <media xlink:href="692cc9ca66266.png" mimetype="image" mime-subtype="png"/>
+      </supplementary-material>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>11</month>
+          <year>2025</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>30</day>
+          <month>11</month>
+          <year>2025</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2025 María Marchiano, Isabel Cecilia Martínez</copyright-statement>
+        <copyright-year>2025</copyright-year>
+        <copyright-holder>María Marchiano, Isabel Cecilia Martínez</copyright-holder>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0" xml:lang="es">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons license.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://revistas.unlp.edu.ar/Epistemus/article/view/20246"/>
+      <abstract>
+        <p>En este artículo indagamos sobre el rol que cumplen las emociones de los músicos cuando interactúan en la producción creativa de la música. El estudio de la emoción en la música se ha enfocado tradicionalmente en el análisis de la experiencia  de la recepción musical. Asumimos aquí una perspectiva alternativa en el marco de los enfoques poscognitivistas sobre la emoción y la interacción durante la performance de la música: por un lado, destacamos el carácter multimodal, social y dinámico de los estados afectivos, distanciándonos de los enfoques cognitivos centrados en la dicotomía emoción/cognición, y, por otro lado, conceptualizamos la performance musical como una interacción dialógica y de segunda persona en la que los músicos se comunican sensoriomotoramente y atribuyen estados mentales a través de sus expresiones corporales. Proponemos un análisis de las emociones durante la improvisación de jazz, en base a un experimento realizado sobre dúos de saxo y guitarra. Como consecuencia de los análisis y la reflexión teórica, concluimos que las emociones son componentes constitutivos de la práctica social de la música que modulan y emergen de las contingencias interactivas, de la construcción conjunta de la creación musical, y de la interpretación y producción de emisiones musicales.</p>
+      </abstract>
+      <trans-abstract xml:lang="en">
+        <p>In this article, we explore the role of musicians' emotions in the creative production of music. The study of emotion in music has traditionally focused on analyzing the experience of musical reception. Here, we adopt an alternative perspective within the framework of postcognitive approaches to emotion and interaction during musical performance. On the one hand, we highlight the multimodal, social, and dynamic nature of affective states, distancing ourselves from cognitive approaches centered on the emotion/cognition dichotomy. On the other hand, we conceptualize musical performance as a dialogic and second-person interaction in which musicians communicate sensorimotorically and attribute mental states through their bodily expressions. We propose an analysis of emotions during jazz improvisation, based on an experiment conducted with saxophone-guitar duos. Drawing on our analyses and theoretical reflection, we conclude that emotions are constitutive components of the social practice of music, modulating and emerging from interactive contingencies, the joint construction of musical creation, and the interpretation and production of musical utterances.</p>
+      </trans-abstract>
+      <trans-abstract xml:lang="pt">
+        <p>Neste artigo, exploramos o papel das emoções dos músicos na produção criativa da música. O estudo da emoção na música tem tradicionalmente se concentrado na análise da experiência de recepção musical. Aqui, adotamos uma perspectiva alternativa dentro do marco das abordagens pós-cognitivas da emoção e da interação durante a performance musical. Por um lado, destacamos a natureza multimodal, social e dinâmica dos estados afetivos, distanciando-nos das abordagens cognitivas centradas na dicotomia emoção/cognição. Por outro lado, conceituamos a performance musical como uma interação dialógica em segunda pessoa, na qual os músicos se comunicam sensório-motoramente e atribuem estados mentais por meio de suas expressões corporais. Propomos uma análise das emoções durante a improvisação no jazz, baseada em um experimento realizado com duos de saxofone e guitarra. Como resultado das análises e da reflexão teórica, concluímos que as emoções são componentes constitutivos da prática social da música, que modulam e emergem de contingências interativas, da construção conjunta da criação musical e da interpretação e produção das emissões musicais.</p>
+      </trans-abstract>
+      <kwd-group kwd-group-type="author" xml:lang="en">
+        <kwd>music</kwd>
+        <kwd>emotion</kwd>
+        <kwd>social cognition</kwd>
+        <kwd>enactivism</kwd>
+        <kwd>second person</kwd>
+      </kwd-group>
+      <kwd-group kwd-group-type="author" xml:lang="es">
+        <kwd>música </kwd>
+        <kwd>emoción</kwd>
+        <kwd>cognición social</kwd>
+        <kwd>enactivismo</kwd>
+        <kwd>segunda persona</kwd>
+      </kwd-group>
+      <kwd-group kwd-group-type="author" xml:lang="pt">
+        <kwd>música</kwd>
+        <kwd>emoção</kwd>
+        <kwd>cognição social</kwd>
+        <kwd>enativismo</kwd>
+        <kwd>segunda pessoa</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>section-title</meta-name>
+          <meta-value>Artículos originales de investigación</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>section-abbrev</meta-name>
+          <meta-value>ART</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body id="body">
+    <sec id="sec-1">
+      <title>Introducción</title>
+      <p id="_paragraph-2">La performance musical ha suscitado un particular interés para las perspectivas corporizadas de la cognición, dada la compleja actividad motora y perceptiva en la que se ven involucrados los músicos al tocar. En los últimos años, además, se ha profundizado en el estudio de la interacción interpersonal durante la performance musical grupal, donde –además de la modelización de las dinámicas sensoriomotoras– también se ha indagado sobre la comprensión mutua de los estados mentales entre los músicos. En este contexto, la improvisación conjunta en jazz se considera un caso paradigmático para el estudio de las contingencias de la interacción social, que se construye momento a momento durante la producción musical.</p>
+      <p id="_paragraph-3">El postcognitivismo aún no ha indagado sobre la emoción de los músicos cuando tocan. La emoción en contextos musicales ha sido analizada principalmente en situaciones de recepción auditiva. Por este motivo, el rol de las emociones en una performance musical –y en particular en el vínculo interpersonal entre los ejecutantes– constituye hasta el momento una incógnita. </p>
+      <p id="_paragraph-4">En este artículo revisaremos, en primer lugar, el estado del arte sobre los estudios en emoción y en cognición social, tanto en términos teóricos generales como en contextos musicales. Y, en segundo lugar, presentaremos una serie de análisis cualitativos sobre improvisaciones conjuntas de jazz, con el fin de analizar el lugar que ocupan las emociones de los músicos durante el desarrollo de la performance musical.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Teorías sobre la emoción</title>
+      <p id="_paragraph-5">Al igual que con otros temas caros a la indagación de la naturaleza humana, en el campo de las ciencias humanas el estudio de la emoción se extiende en una larga tradición que hunde sus raíces en el mundo antiguo. Así, por ejemplo, la entrada sobre <italic id="_italic-1">emociones </italic>en la <italic id="_italic-2">Enciclopedia Stanford de Filosofía</italic> comienza diciendo lo siguiente: </p>
+      <disp-quote id="block-quote-28c97e76f4ed78063782f5f4d2a0a419">
+        <p id="paragraph-5a8f474b66cc91e0a7456610437b910c">Ningún aspecto de nuestra vida mental es más importante para la cualidad y el significado de nuestra existencia que las emociones. Son lo que hace que nuestra vida merezca vivirse y, a veces, merezca terminarse. Por lo tanto no es sorprendente que la mayoría de los filósofos clásicos tengan teorías reconocibles de las emociones <xref id="xref-9ed55d8e5f60cec2d7838bedc820e6a9" ref-type="bibr" rid="webpage-ref-9dadf0356b25e84f3d3b1aeec03d84fe">[1]</xref>.</p>
+      </disp-quote>
+      <p id="_paragraph-7">Aunque se trata de una de las dimensiones humanas más básicas, el estudio de la emoción se ha desarrollado en base a un variado universo de enfoques que informan acerca de la naturaleza elusiva del concepto al momento de intentar construir una teoría unificada que la explique. Así, la emoción se ha abordado en términos de tres tradiciones importantes: (i) las emociones como sentimientos, (ii) las emociones como juicios evaluativos y (iii) las emociones como motivaciones <xref id="xref-2d0ef3305b7111bc74d005be2d0b39c8" ref-type="bibr" rid="book-ref-8a6c7140b3d70bd9b5b061f6eb19b30b">[2]</xref>. Dentro de cada una de ellas se distinguen dimensiones particulares. Por un lado, (i) las emociones como sentimientos incluyen la vinculación entre los sentimientos y los objetos intencionales. Por otro lado, (ii) las emociones como juicios evaluativos han dado lugar al desarrollo de las teorías del <italic id="_italic-3">appraisal</italic>. Recientemente se han propuesto teorías híbridas que reúnen el concurso de los <italic id="_italic-4">feelings </italic>(sentimientos) y los juicios evaluativos, en las que se indaga sobre las emociones en tanto evaluaciones perceptivas, evaluaciones de <italic id="_italic-5">feelings </italic>y patrones de saliencia. En cuanto a (iii) las emociones como motivaciones, estas han sido exploradas en décadas recientes dentro del campo de las ciencias afectivas, dando lugar al desarrollo de las teorías constructivistas psicológicas y sociales de la emoción, que postulan a las emociones como construcciones. </p>
+      <p id="_paragraph-8">Recientemente, además de estas teorías y en consonancia con los desarrollos en el campo de la psicología social, la antropología y la sociología, se ha desarrollado un enfoque que destaca el lugar que tiene la emoción en el mundo social. Este enfoque abreva en algunas de las teorías clásicas de la emoción, valorando sus contribuciones y al mismo tiempo interrogándolas al colocar el foco del problema en los aspectos interactivos humanos, que son abordados en tres niveles de procesos sociales, a saber: la interacción entre individuos, la interacción en grupos y la interacción en el contexto más amplio de la cultura <xref id="xref-071374172a00a68329d793d85fffd363" ref-type="bibr" rid="book-ref-96da036d3f75f190a02c9e984f1d5e4f">[3]</xref>. La orientación teórica se sustenta en la idea de que las personas tomamos en cuenta lo que le sucede a la otra persona cuando interactuamos con ella para reaccionar, construir, evaluar y compartir relaciones y afiliaciones, y por ende no considera a la emoción únicamente como una reacción causa-efecto entre el individuo y el entorno. Para esta perspectiva, a nivel emocional hay algo que <italic id="_italic-6">nos importa</italic> (<italic id="_italic-7">care</italic>), ya que lo que es importante a las personas cercanas parece también importarnos a nosotros mismos. Y en tanto integrantes de grupos sociales, percibimos, interpretamos y actuamos no sólo en relación a las convenciones y a los objetos del mundo circundante, sino también –y especialmente– en relación a los otros <xref id="xref-09caa787f97af86074b1b4b63570cb17" ref-type="bibr" rid="book-ref-96da036d3f75f190a02c9e984f1d5e4f">[3]</xref>.</p>
+      <p id="_paragraph-9">Del mismo modo que la emoción es un tema que reconoce una larga tradición en su estudio, también es una constante en la historia del pensamiento filosófico la preocupación por la relación –generalmente antagónica– entre la cognición (la razón) y la emoción (las pasiones) estaba ya presente en la filosofía griega clásica. Con el desarrollo de la psicología cognitiva en el siglo XX y el devenir de la nueva ontología de la mente hacia finales de dicho siglo y en lo que va del siglo XXI, las teorías de la cognición afrontan un desafío para situar apropiadamente el vínculo entre cognición y emoción. En la actualidad, el principal problema en torno a la ubicación apropiada del dominio afectivo en la vida humana es que no admite –por su propia definición, ya sea que se lo ligue al campo de la percepción, a la somática, a la evaluación o al <italic id="_italic-8">appraisal</italic>– una caracterización fría como ha sido la norma en el estudio de la mente <xref id="xref-aa2667309efbcb640ed0d0ffc5fba4a9" ref-type="bibr" rid="chapter-ref-12f81e16d55f20c6a1c73b86fea8198e">[4]</xref> (para una diferencia entre cognición fría y cognición caliente ver también <xref id="xref-d58c3105763a1adf2d1ce8a817a6e45b" ref-type="bibr" rid="book-ref-e3e9de2082abc0587e380a9a5d013329">[5]</xref>). Sin embargo, algunas tesis proponen un vínculo distinto entre cognición y emoción: se trata de postular que ambas dimensiones de la experiencia, en lugar de antagonizar, por el contrario, se hallan entramadas de modo que ninguna puede prescindir de la otra, haciendo que los procesos por medio de los cuales ambas se realizan resulten imbricados en la vida mental <xref id="xref-b737cf816bf8fe2b30e48a65b2cdce22" ref-type="bibr" rid="chapter-ref-12f81e16d55f20c6a1c73b86fea8198e">[4]</xref>.</p>
+      <p id="_paragraph-10">Pero el cambio más relevante en la relación entre cognición y emoción es el que ha tenido lugar en las dos décadas que van del siglo XXI, en el seno de los enfoques poscognitivistas, y de la cognición 4E. Bajo su impronta, se ha desarrollado la perspectiva enactivista de la mente, que postula una continuidad entre cognición y emoción <xref id="xref-eabef2d02e5cea4c508c503bcd7d19fa" ref-type="bibr" rid="chapter-ref-8747a5beada4b812494b788334a208cf journal-article-ref-75b6088d2432dac130eb86b3ef0381c6">[6,7]</xref>. Tal como muy bien lo explica Andrea Melamed: </p>
+      <disp-quote id="block-quote-2cdc556687c819b45323fa8f3276644c">
+        <p id="paragraph-505738a0f788e8895489ddfa746d016f">Aquello que surgía como una consecuencia indeseable o problemática en la discusión original entre enfoques cognitivos y somáticos (dentro de la ortodoxia cognitivista), a saber, el desvanecimiento de los límites precisos entre los dominios cognitivos, emotivos y perceptivos, en este contexto se convierte en una fortaleza: se conforma como una de sus tesis centrales, siendo la continuidad entre cognición y emoción una reivindicación explícita en las dos direcciones: las emociones son cognitivas pero, además, la cognición es emocional <xref id="xref-4b4c5d90c5bf271372c8a3844dbca4b8" ref-type="bibr" rid="book-ref-5e58f28bb1ecb53185d9beb3cb6cadd9">[8]</xref>.</p>
+      </disp-quote>
+      <p id="_paragraph-12">Sobre la base de esta última tesis se desarrollará el presente trabajo. Como surge de la revisión acerca de las teorías de la emoción y más allá del deseo de cada uno de los enfoques de brindar una perspectiva comprehensiva de las emociones, ninguna de las teorías arriba mencionadas logra dar cuenta por completo de la dimensión emocional humana. Con todo, los enfoques que reúnen las dimensiones somáticas y evaluativas propios de las propuestas pertenecientes a la perspectiva cognitivista clásica son tomados en cuenta en las perspectivas heterodoxas, pero bajo una visión diferente de la relación entre mundo, cuerpo, percepción, cognición y emoción. La perspectiva enactivista de las emociones –actualmente en pleno desarrollo– parece brindar respuestas convincentes para caracterizar el vínculo entre cognición y emoción así como las variables sociales que intervienen en su desarrollo.</p>
+      <p id="_paragraph-13">En este trabajo nos enfocamos en los aspectos sociales de la interacción humana y tomamos como foco de estudio el análisis del dominio afectivo en los intercambios subjetivos de los músicos durante la performance. Dado que nuestro foco de estudio es la práctica social de la música, es imposible negar tanto la dimensión somática de su realización como los aspectos de juicio evaluativo involucrados durante la experiencia interactiva de los performers, dado que la música es una actividad humana de índole creativa que se inserta en el universo de prácticas normativas características de los ambientes sociales de producción de sentido en la cultura. </p>
+      <p id="_paragraph-14">Ahora bien, ¿cuál es el efecto del componente emocional en la experiencia musical? La respuesta a esta pregunta nos lleva a considerar el problema de las emociones en la música.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>Las emociones en la música</title>
+      <p id="_paragraph-15">Desde la antigüedad y a partir de las exploraciones filosóficas y estéticas <xref id="xref-2eeb93bbea8775868247e5aec2257147" ref-type="bibr" rid="book-ref-c2bd138924060c9a606e0ba347b65c78">[9]</xref> se ha atribuido a la música un poder y una propensión a comunicar y a inducir emociones en el oyente <xref id="xref-cbaefe33826428221c52623da215f993" ref-type="bibr" rid="book-ref-491c85954cc28168b21ecd7a4992d7b7">[10]</xref>. La idea de emoción en la experiencia estética de la música se consolidó durante el romanticismo, en el seno del mundo musical de occidente. Luego, con el desarrollo de la psicología del sentido común en el siglo XX, el concepto de emoción continuó embebido en ese universo de sentido y se convirtió en el estereotipo que caracteriza a las experiencias de recepción musical y cuya ontología -aunque con variantes- reviste vigencia en la actualidad. Con el desarrollo de la psicología cognitiva de la música y la neurociencia musical, los alcances del concepto de emoción (que adscriben aún hoy a la dicotomía razón-pasión) se amplían, valorando en la música la capacidad para regular el dominio emocional. Como consecuencia de ello, surge el interés creciente por los efectos terapéuticos de la música en la salud y el bienestar, siendo en la actualidad un área interdisciplinaria de gran relevancia para considerar la relación entre música y emoción. </p>
+      <p id="_paragraph-16">La concepción de la emoción en la música hunde sus bases en el surgimiento de la modernidad y el desarrollo del individualismo como filosofía dominante. De acuerdo con ella, la experiencia estética de una obra de arte es un acontecimiento íntimo resultante de su contemplación, sea esta visual o auditiva. En este sentido se considera que la obra de arte comunica o expresa una emoción determinada, y quien la contempla -según la orientación teórica que se tome en cuenta- o bien activa en su experiencia de un modo isomorfo la emoción expresada en la obra, o bien modula su experiencia estética adjudicando un contenido emocional a la obra, que puede o no ser el resultado de una percatación de la emoción personal experimentada durante la contemplación <xref id="xref-693745fd574188fec4e2608b70c1b64a" ref-type="bibr" rid="chapter-ref-962e1fbfec671346aa4fdaaf0ad7d438">[11]</xref>. Como se advierte, la idea de <italic id="_italic-9">emoción expresada </italic>o <italic id="_italic-10">emoción atribuida</italic> se torna elusiva al momento de abordar el análisis de la recepción de las obras de arte.</p>
+      <p id="_paragraph-17">De acuerdo con Jeneffer Robinson <xref id="xref-5d84494c2d87d333034b21c2c6c6768b" ref-type="bibr" rid="book-ref-491c85954cc28168b21ecd7a4992d7b7">[10]</xref> la obra es poseedora de un contenido emocional que ella expresa, más allá de la emoción experimentada por el artista. Este significado expresivo es perceptible por el receptor mediante un proceso que acontece durante el despliegue temporal de la pieza, gracias a una función articuladora de la emoción que conduce a la comprensión de ese significado expresado. Según Walter Benjamin, el carácter aurático de una obra es lo que habilita nuestra experiencia estética <xref id="xref-cb862dbf70a17ba050d8370e19c33945" ref-type="bibr" rid="chapter-ref-a7a5600cc34591395e85e1854cb44c37 journal-article-ref-cc8b02d078ec1d70fdc8263d6459c624">[12,13]</xref>. Por su parte, Eduard Hanslick sostiene que la música es una forma sónica en movimiento que no puede representar ni expresar las emociones en sí mismas, sino sólo sus aspectos dinámicos. En consonancia con esta idea, Susan Langer <xref id="xref-19f51b972eaf8e59520496fce95d432f" ref-type="bibr" rid="book-ref-a682661caf39bd40e8f9aa7085ee138f">[14]</xref> amplía la tesis de Hanslick para postular una semejanza estructural de la música con la forma de ciertos patrones dinámicos de la experiencia humana. Langer sostiene que la música es un tipo particular de símbolo que guarda semejanza entre el símbolo (la música misma que se presenta a la percepción) y aquello que simboliza (los sentimientos). De acuerdo a esta tesis, el despliegue temporal de la estructura de una obra musical está íntimamente vinculado a (o trata de) la estructura de las formas dinámicas del sentimiento humano; esto es, de los modos en que el sentimiento cambia en el tiempo (las aceleraciones y desaceleraciones, las tensiones y resoluciones, los aumentos y disminuciones, las detenciones). La música no puede representar emociones específicas sino la morfología del sentimiento, es decir, las dinámicas de nuestra vida interna. Esta ambigüedad característica de la expresividad en la música la vuelve un medio propicio para dar cuenta de aspectos de la vida emocional que no pueden ser comunicados por medio del lenguaje natural. </p>
+      <p id="_paragraph-18">Tanto para Robinson como para Langer, la experiencia emocional con la música adquiere una significación cognitiva, dado que el proceso afectivo que se despliega durante la recepción de una obra conduce a la comprensión del significado expresado en la misma. Suscribiendo a la teoría del <italic id="_italic-11">appraisal</italic>, Robinson encuadra la experiencia emocional como un proceso que, comenzando por una reacción de respuesta fisiológica a un estímulo del entorno conduce, por un lado, a una posible acción y, por el otro, a un proceso cognitivo de juicio evaluativo en el que la evaluación afectiva del inicio se corrobora o se corrige, pudiendo dar lugar a un rotulado de nuestras emociones con las categorías conceptuales de la psicología de sentido común. En cuanto a la música, por su capacidad de imitar o reflejar las emociones, puede reflejar los aspectos cognitivos o evaluativos de la emoción o los flujos interrelacionados de la experiencia emocional; en este último caso, Robinson equipara el devenir de la temporalidad en la música con el devenir de los episodios emocionales, donde una emoción puede dar lugar al surgimiento de otra, y así sucesivamente, para comunicar la riqueza sensorial de la experiencia (por ejemplo, una melancolía agridulce que combina esperanza y resignación).</p>
+      <p id="_paragraph-19">Durante el siglo XX, la psicología cognitiva de la música amplía la dimensión cognitiva de la experiencia afectiva postulando, por un lado, que la frecuentación auditiva de la música produce la activación en la cognición del dominio afectivo <xref id="xref-e353d7f4c4df30c370865118e21a7818" ref-type="bibr" rid="book-ref-c4144a3c08592e51f08dc58a2e639ed0">[15]</xref> y que por medio de esta actividad mental el oyente logra configurar, apreciar y valorar estéticamente las piezas musicales; y, por el otro, que por su capacidad para movilizar la dimensión emocional humana, la estimulación sonora puede ejercer un efecto regulativo o remedial en situaciones de desequilibrio o estrés mental.</p>
+      <p id="_paragraph-20">De acuerdo a lo señalado arriba, es evidente que el estudio de la emoción en la música ha puesto el foco en la experiencia individual del vínculo de una sola vía entre el oyente y la obra; esto es, se ha enfocado en la perspectiva de una única subjetividad. Además, las investigaciones experimentales acerca de la emoción y la música se realizan generalmente en base a ejemplos de piezas musicales del canon académico europeo del periodo de la práctica común, por lo general de versiones expresivas de registros grabados de una misma obra. En este sentido, los aspectos sociales de la emoción en la música no han sido tratados hasta el momento, como así tampoco se ha puesto el foco en la experiencia emocional de músicas de otras tradiciones o de géneros musicales donde la performance resulta indispensable para construir momento a momento la obra musical, como es el caso del despliegue temporal de obras musicales provenientes de la tradición oral. </p>
+      <p id="_paragraph-21">Nuestro propósito en este trabajo es dar cuenta de la emoción desde la perspectiva de los ejecutantes, y considerar a las emociones en contextos intersubjetivos de práctica musical, en particular centrándonos en las dimensiones afectivas que atraviesan la producción conjunta de una música original en tiempo real. Para ello vamos a desarrollar una serie de ideas que –rescatando los aspectos más salientes de las tradiciones que modelizan a la emoción desde la perspectiva de los sentimientos, los juicios y las motivaciones– busca avanzar hasta situarse en el contexto de los enfoques poscognitivistas enactivistas de la cognición, que proponen una continuidad entre cuerpo, mente y emoción. En este artículo sostendremos que las emociones son parte constitutiva de la producción musical conjunta durante la improvisación, y que surgen de las contingencias en la producción de emisiones musicales, de la intención de construir con el otro durante la interacción y de la búsqueda de la regulación afectiva en vistas a lograr un estado de bienestar o comunión. A fin de, por un lado, dar cuenta de los aspectos sociales de la experiencia musical que las teorías clásicas de la tradición musicológica y filosófica de la estética musical no abordan y, por el otro, considerar los modos en que los aspectos básicos del dominio afectivo humano se encuentran embebidos en el desarrollo de la actividad intersubjetiva que tiene lugar cuando los músicos producen juntos una obra musical, situaremos nuestra indagación en el marco de dos perspectivas poscognitivistas que abordan el problema de la comunicación cara a cara de la cognición social. Estas son: la interacción dialógica planteada por Ezequiel Di Paolo, Elena Cuffari y Hanne De Jaegher en <italic id="_italic-12">Linguistic b</italic><italic id="_italic-13">odies</italic> <xref id="xref-55939041408a379f1c1341db5fc10d6d" ref-type="bibr" rid="book-ref-21273f788ced6138606d70bdd7816b66">[16]</xref>, y la interacción de segunda persona desarrollada por Diana Pérez y Antoni Gomila en <italic id="_italic-14">Social </italic><italic id="_italic-15">cognition</italic><italic id="_italic-16"> and </italic><italic id="_italic-17">the </italic><italic id="_italic-18">second </italic><italic id="_italic-19">person </italic><italic id="_italic-20">in human </italic><italic id="italic-3c3d7507295fe02507a6360256a53784">interaction</italic> <xref id="xref-35115d551d4494e4922f9197e559571a" ref-type="bibr" rid="book-ref-5b5bd2abf05ec265cf5c100857e673e3">[17]</xref>.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>La cognición social en la performance musical</title>
+      <sec id="sec-4_1">
+        <title>La interacción dialógica del enactivismo autopoiético</title>
+        <p id="_paragraph-22">La segunda ola del enactivismo autopoiético, principalmente de la mano de las ideas de Ezequiel Di Paolo y Hanne De Jaegher, propone la existencia de -al menos- dos dimensiones de la cognición social en el nivel interpersonal. </p>
+        <p id="_paragraph-23">Por un lado, toda interacción cuerpo a cuerpo entre dos o más personas involucra cierto grado de coordinación sensoriomotora recíproca sobre la cual los participantes construyen conjuntamente un <italic id="_italic-22">sentido </italic><italic id="_italic-23">sentido</italic> de la actividad <xref id="xref-3cff6dd7c497be250d37cb6c0c83cfaf" ref-type="bibr" rid="journal-article-ref-4cc31990a200acbffbe3b63aa3faa0d3 journal-article-ref-18ab9c64e9d3e522680cfaa55612a3d1">[18,19]</xref>. Esta forma de vínculo social se vuelve paradigmática en la performance y sobre todo en la improvisación musical, en donde los músicos coordinan sonidos y movimientos influyéndose mutuamente en las acciones musicales, para crear una única música juntos <xref id="xref-e4ae9e0fb7438d2502551c27f57059b2" ref-type="bibr" rid="chapter-ref-22826ae8b6edc3dcf41d0fd06fc23fde chapter-ref-18a09e6e940b1be39bb598fd672220d6">[20,21]</xref>. </p>
+        <p id="_paragraph-24">Pero, por otro lado, la construcción participativa de sentido se sitúa en un nivel básico de la cognición social (o incluso –podría considerarse– subpersonal) y por ello no explica ciertas particularidades de los vínculos interpersonales humanos. A diferencia de otros seres vivos que también sostienen interacciones sociales sensoriomotoras, los seres humanos nacemos y crecemos en culturas o <italic id="_italic-24">comunidades lingüísticas</italic> que definen los modos posibles y adecuados de actuar e interactuar en cada contexto o <italic id="_italic-25">género de </italic><italic id="_italic-26">participación </italic><xref id="xref-3fc82164af89dd334714004ed7518d86" ref-type="bibr" rid="book-ref-21273f788ced6138606d70bdd7816b66">[16]</xref>. Por ejemplo, el género de participación <italic id="_italic-27">bailar en una milonga</italic> forma parte de la comunidad lingüística del tango, que define el tipo de movimientos y comportamientos que hacen a esa forma de danza en particular y que precoordinan los comportamientos de las personas en ese contexto. </p>
+        <p id="_paragraph-25">La interacción en una estructura dialógica basada en la toma de turnos es una forma de cognición social específica de la cultura humana, que encuentra sus bases en los intercambios comunicativos de la infancia temprana <xref id="xref-c1542cb9f4096d6cee9f9af6acd40b68" ref-type="bibr" rid="journal-article-ref-d38f879454283522d25027c7b8790cd1">[22]</xref>. Estos diálogos se componen de <italic id="_italic-28">emisiones</italic> alternadas pero entretejidas: un participante produce una emisión original con determinado contenido (cuya naturaleza puede ser diversa, por ejemplo, lingüística, motora, sonora) mientras él o los demás la reciben e interpretan; y luego otro participante produce una emisión reportada que retoma algo del contenido de la original. Las dinámicas de interacción sensoriomotora y el sentido que emerge de ellas se sostienen durante un diálogo cara a cara, mientras se produce el entretejido de emisiones.</p>
+        <p id="_paragraph-26">En un estudio anterior hemos conceptualizado la improvisación de jazz como un tipo de interacción dialógica, en la que la improvisación de música original en tiempo real es una actividad constructiva en la que los músicos despliegan acciones sonoro-kinéticas organizadas en base a la producción de <italic id="_italic-29">emisiones musicales</italic> que adscriben a las normatividades de la práctica del género de participación del jazz <xref id="xref-55d6adb5d9036fad7a7ce0a77c554cf7" ref-type="bibr" rid="chapter-ref-6c5eef9dbdd9f9084b60d40711580026">[23]</xref>. La construcción conjunta del discurso melódico entre dos improvisadores emerge del entrelazamiento de los gestos musicales que cada uno produce y que adquieren el rol de emisiones en el contexto de la comunicación no verbal durante la performance. Esta estructura se compone de un patrón simple basado en la toma de turnos, de longitud y temporalidad variadas: un improvisador produce una emisión original o inicial, y el otro improvisador incorpora esta emisión y la reelabora con cierto grado de variación, produciendo una emisión reportada. Cuando la intención de los improvisadores es construir conjuntamente la música, la emisión original suele ser dirigida hacia el otro y percibida por este otro como una <italic id="_italic-30">sugerencia</italic> (es decir, como siendo dirigida hacia él), y la emisión reportada suele ser sentida y pensada como la acción de <italic id="_italic-31">tomar</italic> el gesto musical del otro <xref id="xref-60931133d6ecf23bb909d83d9eb53bef" ref-type="bibr" rid="journal-article-ref-6fea945210214371d242ac0215daa39b">[24]</xref>. Y además de escuchar las emisiones musicales del otro, cada músico percibe sus propias emisiones. En algunos casos, los improvisadores las dirigen <italic id="_italic-32">hacia sí mismos</italic>, cuando por ejemplo un músico varía un gesto musical tocado por él mismo en momentos previos. </p>
+        <p id="_paragraph-27">Desde esta perspectiva, la metáfora de la conversación de la improvisación en el jazz <xref id="xref-04d8329399e6cc2c58cc424ed2bb126e" ref-type="bibr" rid="book-ref-b790b29f2e15834e5320fe990d402bc0">[25]</xref> se torna menos metafórica: al igual que la conversación hablada, también se compone de emisiones en contextos de toma de turnos, aunque en un caso el contenido de las emisiones es lingüístico y en el otro, musical. Si bien esta diferencia entre ambas interacciones dialógicas hace que los sentidos que los participantes construyen en cada una sean de naturaleza muy diferente, en ambos casos la elaboración y reelaboración de un <italic id="_italic-33">tema</italic> (proposicional o sonoro) en base a emisiones (verbales o musicales) es lo que permite la comunicación. Así como en una conversación las personas dialogan a partir de la producción de emisiones que reportan diversos aspectos de una misma temática, en una improvisación de jazz los músicos crean una única música al variar ciertas gestualidades sonoras desarrolladas momento a momento.</p>
+      </sec>
+      <sec id="sec-4_2">
+        <title>La interacción de segunda persona de la filosofía de la mente</title>
+        <p id="_paragraph-28">La filosofía de la mente ha planteado diversas teorías sobre la cognición social, que pueden agruparse en 3 grandes perspectivas: las de primera, segunda y tercera persona de la atribución mental. Para las teorías de primera y de tercera persona (en su mayoría alineadas con los presupuestos cognitivistas), el acceso a los estados mentales de otra persona es indirecto: esta última plantea que se necesita formular una teoría para conocer estados mentales ajenos, y la primera considera que se comprende la mente del otro a través de la comprensión de la mente propia, ya sea a través de la introspección, de la elaboración de teorías o a partir de mecanismos subpersonales como la empatía.</p>
+        <p id="_paragraph-29">La teoría de la segunda persona no niega que existan atribuciones de tercera o de primera persona, pero sitúa el problema básico de la cognición social en la lectura directa de algunas emociones, intenciones y sensaciones corporales. A diferencia los estados mentales complejos como creencias, deseos y estados proposicionales en general, los estados mentales básicos poseen expresiones corporales naturales: el enojo se expresa en el ceño fruncido y el grito, la alegría se expresa en la sonrisa y la carcajada, el dolor de estómago se expresa en gestos como el de abrazarse la panza y en la palidez del rostro, e intenciones simples como la de agarrar la taza de la que se está bebiendo o como la de alcanzar el micro que acaba de llegar a la parada a unos metros de distancia se expresan en el movimiento corporal dirigido al objeto, ya sea la mano que se acerca a la taza o la aceleración del paso en dirección al micro. Cada una de estas expresiones hace visible el estado mental de la persona para un ojo externo, que percibe y atribuye -usualmente de forma inconsciente e involuntaria- la emoción, sensación o la intención que la persona experimenta en el movimiento corporal, gesto facial o sonido vocal, sin necesidad de elaborar una teoría o usarse como referencia.</p>
+        <p id="_paragraph-30">Este modo de comprensión de la mente del otro tiene una gran relevancia ontogenética para el ser humano, ya que permite interactuar socialmente desde la primera infancia, cuando aún no se poseen las habilidades para pensar lógicamente y realizar interpretaciones. La comunicación adulto-bebé se basa en la percepción directa de emociones, intenciones y sensaciones corporales a partir de sus expresiones gestuales, tanto del adulto hacia el bebé como también del bebé hacia el adulto. Esta posibilidad de atribuciones mentales mutuas sienta las bases para una interacción recíproca en la que los estados percibidos del otro modulan los estados y acciones del individuo. Por ejemplo, el llanto del bebé suele indicar hambre o dolor y el adulto orienta sus acciones a modificar ese estado negativo, dándole de comer o masajeando la zona baja de su panza. Los escenarios de musicalidad comunicativa son entornos lúdicos y libres de riesgo en los que el adulto promueve al bebé a realizar acciones vinculadas a las de él, en pos de generar una interacción recíproca. </p>
+        <p id="_paragraph-31">Las interacciones de segunda persona continúan siendo sumamente importantes en la vida adulta en general, y particularmente en actividades sociales que requieren formas de comunicación no verbal, como la performance musical. En estudios anteriores hemos analizado las interacciones recíprocas que se producen entre los músicos mientras tocan, estructuradas en base a atribuciones mentales mutuas que permiten un modo de comunicación básico, necesario para hacer música en conjunto <xref id="xref-acd819a725a1abd2edfcc8e6c32dfe77" ref-type="bibr" rid="journal-article-ref-745c9c7000decf0698e4437f2d3a4555">[26]</xref>. Hasta el momento nos hemos centrado en el estudio de las intenciones experimentadas y atribuidas por los músicos, algunas de las cuales se dirigen a la producción de sonidos con el instrumento y otras a la otra persona con la que se comparte la ejecución para que realice cierta acción, que en el contexto particular de la improvisación de jazz suele ser imitar o variar el gesto musical creado <xref id="xref-562f01c4f7713210ce0e1b746ba1d82d" ref-type="bibr" rid="chapter-ref-1e121204c2f6d0abee0c32c585eec564 chapter-ref-e63f0ca6dba0bd8e15645af07d6b1d92">[27,28]</xref>. El dejarse influir por las intenciones del otro da lugar a interacciones musicales recíprocas <xref id="xref-2d8f8cd2a0a11943c34bcf44e10a8812" ref-type="bibr" rid="journal-article-ref-6193e6cdc1224f23ae14e77c315a46c1 journal-article-ref-070dd61baf95e27762ff0182d28489b7">[29,30]</xref>, incluso en el caso de interacciones musicales asimétricas como la del director con el coro o la orquesta <xref id="xref-615afe3e3b95dcfadb600b11b86f2b6e" ref-type="bibr" rid="journal-article-ref-0d337a7de92906083d534a6893fc8582">[31]</xref>.</p>
+        <p id="_paragraph-32">La expresión de estas intenciones no es solo corporal, sino también sonora-musical. La atribución de intenciones durante la performance se produce por la percepción tanto de los movimientos corporales dirigidos al instrumento y hacia la otra persona (miradas, sonrisas, orientaciones y acercamientos generales) como de las continuidades y cambios en el sonido musical, que adquieren sentido en función del contexto específico de producción y de las normatividades de la cultura de práctica musical en la que se produce la performance <xref id="xref-ce7de1a6516c4966d189082591cb7954" ref-type="bibr" rid="journal-article-ref-6fea945210214371d242ac0215daa39b chapter-ref-fdaba6fa068a13f7b5296293c6b7b1ee chapter-ref-c13d91e581b89ce5d0406fdcd48e169d">[24,32,33]</xref>. Por ejemplo, los rasgos sonoros de la música que caracterizan al jazz y los modos específicos de interactuar durante una improvisación establecen ciertos límites para la creación conjunta en tiempo real en este estilo musical <xref id="xref-95d2e65a2194e47b60ba975c16ab6029" ref-type="bibr" rid="chapter-ref-6c5eef9dbdd9f9084b60d40711580026">[23]</xref>.</p>
+        <p id="_paragraph-33">Si bien -por un lado- ciertas emociones son atribuibles en el contexto de interacciones de segunda persona y -por el otro- la performance musical tiene rasgos propios de una interacción de segunda persona, hasta el momento no hemos estudiado el lugar de los estados afectivos en la comunicación entre músicos desde esta perspectiva de la filosofía de la mente.</p>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>El rol de la emoción en la improvisación de jazz</title>
+      <p id="_paragraph-34">En esta sección nos concentramos en la descripción de los modos en que la emoción emerge durante la práctica interactiva del jazz. Siguiendo a Di Paolo et al. <xref id="xref-f0cc16ce911eb094b45f80cb3020be86" ref-type="bibr" rid="book-ref-21273f788ced6138606d70bdd7816b66">[16]</xref>, contextualizamos a la improvisación musical como una práctica situada en el seno de una comunidad lingüístico-musical en la que un conjunto de normatividades se ponen de manifiesto para su realización. Cuando abordamos la práctica improvisatoria desde la perspectiva de segunda persona nos encontramos con que los estados afectivos están embebidos en los modos en que evoluciona la comunicación entre los músicos, y que contribuyen a dar sentido a la práctica, configurando episodios emocionales que permiten el logro de metas locales y globales en el desarrollo temporal de la interacción improvisada. Abordaremos esta descripción, además, desde la perspectiva de la improvisación como un género de participación en el que acontecen ciertas dinámicas interactivas durante la producción de emisiones musicales por parte de los improvisadores.</p>
+      <p id="_paragraph-35">Para ello, analizaremos algunos datos de un experimento que realizamos en el que 20 dúos de saxofonistas (S) y guitarristas (G) enculturados en la práctica profesional del jazz improvisaron juntos sobre una base de acompañamiento del estándar <italic id="_italic-34">Watermelon</italic><italic id="_italic-35"> Man</italic>. Cada dúo improvisó en 3 condiciones multimodales diferentes (normal, con la visión impedida, y S sin oír a G y G sin ver a S). Las improvisaciones se registraron audiovisualmente y se tomaron datos de movimiento con el sistema de captura MoCap. Luego de las mismas, se realizaron entrevistas fenomenológicas en profundidad orientadas a indagar sobre la experiencia de interacción musical entre los improvisadores, durante las cuales se visualizaron las performances en las 3 condiciones multimodales producidas apenas unos minutos antes (para una descripción completa, ver <xref id="xref-4505846834adf95d78c2a0d5f113e6cc" ref-type="bibr" rid="journal-article-ref-6fea945210214371d242ac0215daa39b">[24]</xref>.</p>
+      <p id="_paragraph-36">En este artículo, presentaremos análisis musicológicos de las producciones improvisadas en la condición 1 y análisis de contenido de las descripciones verbales que los músicos de algunos dúos produjeron al dar cuenta de los modos en que construyen juntos una improvisación. Empleando una metodología mixta para el análisis de esta información multimodal, inferiremos los modos en que el dominio afectivo interviene en la realización musical.</p>
+      <sec id="sec-5_1">
+        <title>Frustración y Satisfacción (Dúo 1)</title>
+        <p id="_paragraph-37">Como resultado del análisis de las expresiones lingüísticas de los músicos en la entrevista y de las frases musicales elaboradas durante la improvisación, identificamos el desarrollo de un proceso emocional, musical e interactivo entre los músicos del Dúo 1 durante los dos primeros Coros, caracterizado principalmente por dos estados afectivos: primero <italic id="_italic-36">frustración</italic> y luego <italic id="_italic-37">satisfacción</italic>.</p>
+        <p id="_paragraph-38">El guitarrista expresa la emoción inicial que sintió durante el Coro 1 y la situación musical que se articuló en torno a ella, del siguiente modo:</p>
+        <disp-quote id="block-quote-f88fcdd8cdf1cea03dae4dceb7f1355d">
+          <p id="paragraph-92ef173fc7d03f1316ed112db182eaca">En la primera vuelta la sensación fue un poco de frustración y de impotencia. De no poder tocar por diferentes razones lo que él me proponía… Cuando se dio esa pequeña comunión al final de la primera vuelta, acá es como que se invirtieron los roles: en vez de yo seguirlo a él me empezó él a seguir a mí.</p>
+        </disp-quote>
+        <p id="_paragraph-40">La emoción general autoatribuida por el guitarrista es la de <italic id="_italic-38">frustración</italic>, y la causa que identifica como disparadora de ese estado mental –al menos inicialmente– es su propia imposibilidad de imitar musicalmente al otro o –en términos enactivistas– de elaborar emisiones reportadas construidas en base al contenido musical propuesto originalmente por el saxofonista. Su intención frustrada de reportar las frases musicales del saxofonista se ve alterada por un cambio leve de conducta en el rol interactivo realizado por el saxofonista, quien comenzó a imitar el gesto de nota repetida creado inicialmente por el guitarrista (Figura 1). Sin embargo, el guitarrista no vincula inicialmente este cambio musical a un cambio emocional, sino que la emoción negativa parece haberse sostenido en el tiempo.</p>
+        <fig id="fig1">
+          <label>Figure 1</label>
+          <caption>
+            <title>Figura 1</title>
+            <p id="_paragraph-41">Transcripción del inicio del final del Coro 1 del dúo 1 (condición 1) y un frame del video que muestra las posiciones corporales de los improvisadores durante el mismo.</p>
+          </caption>
+          <graphic id="_graphic-1" mimetype="image" mime-subtype="png" xlink:href="image1.png"/>
+        </fig>
+        <p id="_paragraph-43">Este estado de frustración del guitarrista se transforma finalmente durante el Coro 2, al modificarse más radicalmente las condiciones de interacción y el resultado musical que emerge de ellas:</p>
+        <disp-quote id="block-quote-37d67a9cecf3acb77725617ba7fa4e63">
+          <p id="paragraph-3ccb84cc6ec0054318d487efa43d1967">Entrevistador: Ahí cuando lo miraste, ¿qué fue esa mirada? ¿Por qué lo miraste? ¿Qué pensas que le estabas ‘diciendo’ ahí?</p>
+          <p id="_paragraph-45">G: No… me parece que era como… la satisfacción de que agarró lo que yo le insinué, digamos...</p>
+          <p id="_paragraph-46">S: Sí me pareció… yo de hecho me acuerdo también y me acuerdo de hacer ese movimiento y de acercarme ahí, y de conectar con ese sonido, con ese tipo de toque, ¿no? Yo sentí que nos íbamos conectando, bueno, y armando ahí como una textura entre los dos.</p>
+        </disp-quote>
+        <p id="_paragraph-47">La imitación del saxofonista de los gestos del guitarrista que se había producido en el Coro 1 se transforma en el Coro 2 en una búsqueda intencionada de construir juntos un único gesto musical, para lo cual el saxofonista llama la atención del guitarrista con un cambio en su orientación corporal mientras continúa la imitación musical, pero esta vez mediante la elaboración de un gesto de notas largas y tenidas que invita al contrapunto conjunto en una alternancia nota-contra-nota (Figura 2). Es en el inicio de este nuevo comportamiento musical imitativo y gracias al gesto corporal del saxofonista que el guitarrista cambia el centro de atención de su propia producción a la interacción con el otro músico. Y gracias a este cambio en la interacción y a cierto nivel de percatación del mismo, el guitarrista pasa de sentir frustración (emoción negativa) a sentir satisfacción por sentirse correspondido (emoción positiva).</p>
+        <p id="paragraph-79deb2645d32646bcef1cab25afbe77c"/>
+        <p id="paragraph-15a351db464c50eb19c66e0a309cefd9"/>
+        <fig id="fig2">
+          <label>Figure 2</label>
+          <caption>
+            <title>Figura 2</title>
+            <p id="_paragraph-48">Transcripción del inicio del Coro 2 del dúo 1 (condición 1) y un frame del video que muestra las posiciones corporales de los improvisadores durante el mismo.</p>
+          </caption>
+          <graphic id="_graphic-2" mimetype="image" mime-subtype="png" xlink:href="image2.png"/>
+        </fig>
+        <p id="_paragraph-50">En esta improvisación observamos un proceso emocional en el guitarrista que evoluciona y se transforma en el tiempo de la performance desde un estado inicial de <italic id="_italic-39">frustración</italic> hasta alcanzar un estado final de <italic id="_italic-40">satisfacción</italic>. No se trata de dos emociones estáticas, sino de estados afectivos dinámicos que pueden concebirse como episodios emocionales que sufren transformaciones en el tiempo, relativos a la producción musical conjunta. La frustración se produce por la corporización de una sensación de imposibilidad para realizar una determinada intención (aparentemente consciente) a la acción musical: la intención de imitar al otro; en este sentido, es la relación entre estados mentales (como la intención), las contingencias de la producción sonoro-kinética y el tipo de interacción resultante de las acciones propias lo que conduce a una emoción negativa. El proceso de transformación de esta emoción se produce por la percepción del guitarrista del cambio en la interacción llevado adelante por el saxofonista, lo que marca el carácter profundamente social de las emociones experimentadas en contextos de interacción. A partir de su acción de producir una emisión reportada consistente en la imitación variada de las emisiones del guitarrista, el saxofonista se sitúa a sí mismo en el rol de <italic id="_italic-41">orientado</italic>, y su accionar da a entender que ha adjudicado implícitamente un rol de <italic id="_italic-42">orientador </italic>a su compañero, definiendo sus gestos musicales momento a momento en función de las elaboraciones producidas por el otro. A su vez, el guitarrista percibe este cambio al final del Coro 1, pero la emoción negativa relativa a la disonancia sentida entre su acción y su intención es muy fuerte y continúa. Es recién cuando el saxofonista se acerca ostensiblemente con un gesto corporal para llamar su atención al que el guitarrista le atribuye la intención de que “toquen más juntos”, que este logra desviar su atención de la disonancia sentida entre sus acciones y su intención y elaborar una frase musical <italic id="_italic-43">junto</italic> al otro, y sentir consecuentemente una emoción positiva.</p>
+      </sec>
+      <sec id="sec-5_2">
+        <title>Excitación, adrenalina</title>
+        <p id="_paragraph-51">Analizaremos este estado afectivo en dos dúos.</p>
+        <sec id="sec-5_2_1">
+          <title>Dúo 7</title>
+          <p id="_paragraph-52">En el análisis de este dúo observamos que –luego de un momento de interacción inicial durante el Coro 1 que fue construido en base a la imitación de motivos cortos, con baja densidad de sonidos y con un gesto musical resultante calmo (ver análisis detallado más abajo)– el Coro 2 se elabora en base a una gestualidad francamente contrastante, basada en el intercambio de emisiones iniciales y emisiones reportadas a gran velocidad y conteniendo frases de gran densidad sonora: el intercambio entre saxofonista y guitarrista adquiere así las características de un <italic id="_italic-44">combate sonoro y </italic><italic id="_italic-45">kinético</italic> entre emisiones musicales que pueden ser descritas como ráfagas de notas emitidas con un gesto balístico (figura 3). </p>
+          <p id="_paragraph-53">Cuando los integrantes describen su experiencia, en cada caso dicen lo siguiente.</p>
+          <p id="_paragraph-54">Respecto del Coro 1: </p>
+          <disp-quote id="block-quote-cf7ec93902f63672164c445878773fd6">
+            <p id="paragraph-cff4773e1886f96c91d86bcb0cd3b6c7">S: Hay mucha imitación y desarrollo de la frase. Yo trataba de… lo que tocaba G, lo que podía pescar, ponerlo en otro lado, o llevarlo a algún lado, como tratar de desarrollar eso, de sugerir y tomar también.</p>
+            <p id="_paragraph-56">G: Sí, porque una de las cosas que está bueno de eso que dice S es que a veces cuando las frases son por imitación, a veces tampoco termina siendo algo que funciona de manera muy interactiva. Es como copiarlo al otro, entonces no genera una adrenalina que te permite ahí el desarrollo digamos.</p>
+          </disp-quote>
+          <p id="_paragraph-57">Y en cuanto al Coro 2:</p>
+          <disp-quote id="block-quote-d42d622342d0b8d27c978ba16c0ce0aa">
+            <p id="paragraph-cf4813bea4cd4a2359cfb6adfe2a276d">G: Ahí ya nos trenzamos un poquito más.</p>
+            <p id="_paragraph-59">S: “Yo arranqué tranquilo, pero si querés una chorrera de notas…si me venís a…no me torees porque …”</p>
+            <p id="_paragraph-60">Ambos: ¡La <italic id="_italic-46">rapideza</italic>! (risas).</p>
+            <p id="_paragraph-61">G: “Ah! ¿vos querías <italic id="_italic-47">rapideza</italic>? Tomá!” (risas)</p>
+          </disp-quote>
+          <p id="paragraph-c45a6714ee5b07d1b361bde82a27c984"/>
+          <fig id="figure-panel-6c9ae1caa3894b4dfcbfd8f9a0a45059">
+            <label>Figure 3</label>
+            <caption>
+              <title>Figura 3</title>
+              <p id="paragraph-284732bc781e6a1083b826926f187f8f">Transcripción del gesto denominado "rapideza"</p>
+            </caption>
+            <graphic id="graphic-8e8da68a87f59fede1a6a41b44210a6b" mimetype="image" mime-subtype="png" xlink:href="Figura 3.png"/>
+          </fig>
+          <p id="_paragraph-64">La instanciación del estado emocional de adrenalina, que parece haber sido buscada <italic id="_italic-49">ex profeso</italic> por parte del guitarrista en el transcurso del Coro 1 cuando reportaba las emisiones dirigidas a él por el saxofonista, encuentra su pico en el Coro 2. El modo en que ambos ejecutantes analizan jovialmente su interacción en este fragmento de la improvisación da cuenta del carácter lúdico que adquieren los intercambios entre los músicos haciendo uso de las prácticas normativas que caracterizan a este género de participación. </p>
+        </sec>
+        <sec id="sec-5_2_2">
+          <title>Dúo 9</title>
+          <p id="_paragraph-65">En este caso el guitarrista caracteriza su sensorialidad kinético-afectiva y el estado emocional que le provoca la emisión recibida del saxofonista con la siguiente expresión: “Ahí, ahí… bueno, es como un estímulo muy fuerte que… porque ahí S toca una nota muy fuerte, y es como que él me mueve con eso que él está tocando”. Y luego: “Yo siento que él me está dando a mí la nota… y ese para mí es el diálogo musical, ¿no?”.</p>
+          <p id="_paragraph-66">En otro pasaje de la descripción de su experiencia interactiva con el saxofonista, el guitarrista dice lo siguiente:</p>
+          <disp-quote id="block-quote-973a596b1517f0450be5e7b15f5bd255">
+            <p id="paragraph-150852a2e939da9a1a4a0d6f76153d39">G: Yo tiro algunas ideas, él tira otras y me parece que… ¡me gusta! Y entonces puedo hacer un cambio. No sé si es algo que se pueda pasar por la razón (una cuestión lógica o matemática). Sino que es una cuestión de percepción de la intención que se da espontáneamente. </p>
+          </disp-quote>
+          <p id="_paragraph-68">Los resultados del análisis de las acciones musicales acontecidas y las descripciones verbales por medio de las que uno de los músicos de este dúo da cuenta de sus estados afectivos durante la entrevista, informan acerca del modo en que la estimulación sonora de las emisiones producidas por el compañero afecta sensorialmente su propia experiencia. Se trata de la cualidad o perfil dinámico de una experiencia sonoro-kinética cuya realización el guitarrista caracteriza a través de dos dimensiones, a saber: por un lado, la cualidad gestual balística que el guitarrista otorga a la potencia de la sonoridad emitida por el saxofonista, a la que atribuye –metafóricamente en su experiencia afectiva– la propiedad de moverlo. El guitarrista experimenta <italic id="_italic-50">x como </italic><italic id="_italic-51">y</italic>, esto es, un sonido potente como activador de un cambio en su estado afectivo. Y, por el otro, un registro experiencial de la intencionalidad manifiesta en la emisión del compañero, interpretado como conductividad, como sentido de dirección hacia él, de tomarlo en cuenta o de considerarlo, y con la consecuencia de un aumento en la potencia comunicativa de la <italic id="_italic-52">conversación musical</italic>. </p>
+          <p id="_paragraph-69">Vemos en ambos dúos que el análisis del estado afectivo que rotulamos con el término <italic id="_italic-53">excitación</italic> o <italic id="_italic-54">adrenalina </italic>nos informa que el intercambio de ideas entre los músicos no se dirime únicamente en la dimensión sonora como tal (en el análisis anterior nos referíamos a la potencia sonora y la cualidad de convocar en la experiencia del receptor de la emisión un estado afectivo de movimiento), sino que sus efectos se trasladan al modo en que la continuidad interactiva queda garantizada por el reconocimiento de la intención del otro de dirigirse hacia mí, que el guitarrista reconoce como un proceso espontáneo que se da en el despliegue temporal de la interacción.</p>
+          <p id="_paragraph-70">Este análisis nos permite entender que el episodio emocional al que hemos denominado estado afectivo de adrenalina tiene una función motorizadora para la regulación emocional. Y esta característica parece contribuir a dar continuidad a la construcción conjunta de la improvisación. Asimismo advertimos –a través de la experiencia tal como ella es comunicada en las descripciones verbales de los músicos– que los cambios en la construcción musical que ocurren durante los intercambios no necesariamente persiguen el propósito de romper la continuidad establecida. Por el contrario, ponen de manifiesto una orientación a garantizar y a reactualizar dicha continuidad, a través de los modos en que los músicos hacen sentido cuando las emisiones recibidas se reconocen como dirigidas hacia ellos por parte de los otros músicos, y por la valoración emocional implicada, que las convierte en el motor del cambio. Esta cualidad dinámica queda reflejada en la elaboración de la emisión reportada y dirigirla a quien previamente ha emitido una señal honesta <xref id="xref-71c79f7983cde52948374199fb73e463" ref-type="bibr" rid="journal-article-ref-d29cbf21090a69b769cdb3783113a95a">[34]</xref>, habiendo sido reconocida por su compañero quien ahora la reporta. </p>
+          <p id="_paragraph-71">De este modo los cuerpos lingüístico-musicales de los improvisadores sostienen mediante sus acciones multimodales las dinámicas de interacción, e intuitivamente perciben en el transcurso de la construcción musical conjunta los momentos en que las dinámicas interactivas anteriores se han agotado y en que es necesario tomar la iniciativa para producir un cambio que permita sostener activamente la interacción musical. Estos cambios son musicales, pero a su vez son el producto de la intención emocionalmente delimitada de los participantes que los elaboran e informan acerca del profundo sentido social que reviste la participación en un determinado género de práctica musical, como es el caso de la improvisación de jazz. </p>
+          <p id="_paragraph-72">Esto no le resta importancia a las normatividades de la práctica musical del jazz para la elaboración de las emisiones musicales en una improvisación, dado que la práctica creativa del jazz se basa –en gran parte– en la capacidad y la experticia para producir variaciones sobre la estructura melódica y armónica de un estándar. Sin embargo, en lugar de adoptar la posición mecanicista computacionalista de limitarnos a la consideración del uso automático de patrones de variaciones canónicas que se aprenden a través de muchas horas de práctica (tal como lo postulan las teorìas clásicas de la cognición musical de base computacional), presentamos una visión alternativa que valora la concurrencia de un conjunto de factores multimodales de construcción social de sentido musical, que los cuerpos linguìsticos enactúan en los contextos sociales de práctica del género de participación y que se encuentran completamente atravesados por los estados afectivos experimentados durante el curso de la improvisación.</p>
+        </sec>
+      </sec>
+      <sec id="sec-5_3">
+        <title>De la Incertidumbre a la Satisfacción de Haber Cumplido la Meta</title>
+        <p id="_paragraph-73">En la mayoría de los 20 dúos sobre los que se basa el experimento realizado, hemos registrado un episodio emocional común expresado por los músicos durante las entrevistas y relativo a la producción musical conjunta: de la incertidumbre por la exploración (intentar conocerse a través de la música al inicio de una improvisación) a la satisfacción por el logro de la comunión en la interacción. En este sentido, la interacción en la improvisación evoluciona de un estado a otro, tanto musical como emocionalmente. Ilustraremos este proceso emocional en 3 dúos.</p>
+        <sec id="sec-5_3_1">
+          <title>Dúo 16</title>
+          <p id="_paragraph-74">Los músicos describen el inicio de la improvisación como una situación de <italic id="_italic-55">tanteo</italic> del otro, durante el cual dudan cuándo y qué tocar, con el fin de establecer la interacción musical.</p>
+          <disp-quote id="block-quote-c44c958cee650d195f96372ccb906c2e">
+            <p id="paragraph-deecc4e45f46658f599be878a5b13da0">S: Y, yo estaba esperando… a ver que arrancara. Empecé esperando que empiece él a ver qué se le ocurría (mira a G y sonríe)... la verdad, para ver por dónde iba a ir. Y… traté de contestarle cosas en el momento pero… a su vez estaba escuchando como mi propio... mi propia idea melódica. Pero no sé si me… no estaba muy conforme en ese momento. O sea como que estaba media… ahí, tanteando… (se mueve de un lado a otro). No sé vos (mirá a G)</p>
+            <p id="_paragraph-76">G: Sí, es cierto que al principio estás como un poco más con vos, ¿viste?, y tu instrumento, como… (mueve la mano derecha mientras habla) como aclimatándote, que prestando atención. Yo arranqué como con unas notitas… (la mira a S) como ahí tranqui a ver qué pasaba (...). Y después caché que entramos en esto de un poquito pregunta-respuesta, ¿no? (se miran y S asiente). Y ahí ya bueno como más, un poco más libre. </p>
+          </disp-quote>
+          <p id="_paragraph-77">Esta situación de creación conjunta en tiempo real sin pautas predeterminadas genera naturalmente una sensación de incertidumbre, relativa a la producción propia de emisiones musicales originales y a su evaluación (“a su vez estaba escuchando… mi propia idea melódica, pero no estaba muy conforme”, “al principio estás como un poco más con vos… y tu instrumento, como aclimatándote”), a las emisiones del otro (“empecé esperando que empiece él a ver qué se le ocurría”), y a la interacción social en la que ambos buscaron generar o percibir emisiones reportadas (“traté de contestarle cosas”, “caché que entramos en esto de... pregunta-respuesta”). Esta conducta interpretativa se manifiesta en la producción musical, en la que cada músico elabora emisiones musicales variadas, alternando entre motivos de nota repetida, sobre la escala pentatónica, diferentes registros, gestos de duraciones breves y largas, y en todos los casos sin reportar las emisiones musicales del otro sino más bien explorando las propias (figura 4).</p>
+          <fig id="fig4">
+            <label>Figure 4</label>
+            <caption>
+              <title>Figura 4</title>
+              <p id="_paragraph-78">Transcripción del inicio de la improvisación del dúo 16 (condición 1)</p>
+            </caption>
+            <graphic id="_graphic-4" mimetype="image" mime-subtype="png" xlink:href="image4.png"/>
+          </fig>
+          <p id="_paragraph-80">Pero la situación cambia en el Coro 2: ambos músicos identifican una comunicación musical mucho mayor, en donde reportan las emisiones propias y ajenas en términos rítmicos y registrales, creando un discurso musical que emerge de las dinámicas interactivas de imitación y variación (Figura 5). </p>
+          <fig id="fig5">
+            <label>Figure 5</label>
+            <caption>
+              <title>Figura 5</title>
+              <p id="_paragraph-81">Transcripción de un pasaje del Coro 2 del dúo 16 (condición 1)</p>
+            </caption>
+            <graphic id="_graphic-5" mimetype="image" mime-subtype="png" xlink:href="image5.png"/>
+          </fig>
+          <p id="_paragraph-83">En relación a este pasaje, el guitarrista recuerda una sensación de disfrute vinculada a este encuentro musical con la saxofonista, que emerge como consecuencia de la reciprocidad en la construcción musical:</p>
+          <disp-quote id="block-quote-171e1b4bb3c84cdeac773be565d1f3e3">
+            <p id="paragraph-c8a9c34f8d6f332fc3db8dc8f46866d3">G: En esta parte hay una cosa de: “te digo algo en este registro” y tratar de ir ahí más o menos... A veces terminamos en las mismas notas (la mira a S). (...) Lo rítmico se re nota y también esa idea de… bueno, pasaba de estar acá (señala hacia abajo)... te comento algo acá arriba (levanta el brazo). Vamos ahí como… una cosa así ¿no? </p>
+            <p id="_paragraph-85">Entrevistadora: Cla… Bien. Y… vos seguis riendo… sonriendo.</p>
+            <p id="_paragraph-86">G: Yo ya quedé feliz (todos ríen). (...) En el comienzo estábamos como medio con uno, ahí… ¿viste? encontrándote. Ya cuando empezás a comunicarte más y no estás pensando… Bah, yo en mi caso… No pensando tanto en el instrumento, ¡tá bueno! Por eso también creo que empiezo a… a… a disfrutarlo un poco más.</p>
+          </disp-quote>
+          <p id="_paragraph-87">La comunicación a través del reporte de las emisiones musicales del otro es contrastada en esta cita con la experiencia del inicio de la improvisación en el que la atención de ambos estaba dirigida más las acciones propias. En este sentido, la emoción positiva de disfrute es consecuencia de la percepción de estar interactuando fluidamente, colaborando conjuntamente a la producción de una única música, coherente por las reelaboraciones de ambos de una misma idea musical, caracterizada por ellos en términos de ritmo y registro.</p>
+        </sec>
+        <sec id="sec-5_3_2">
+          <title>Dúo 7</title>
+          <p id="_paragraph-88">La situación inicial de exploración es descrita durante la entrevista a través de la comparación con un partido de fútbol, en el que los jugadores se pasan la pelota midiéndose y evaluándose, buscando leer las intenciones de los demás antes de lanzarse al arco:</p>
+          <disp-quote id="block-quote-3f4240581933f9549c52b1b970d69ac7">
+            <p id="paragraph-12e4ee57b5cca89b7885c1397d41e911">S: Y tanteando a nosotros. Es como un partido de fútbol cuando empieza (...). Están como los defensores… También cómo atacan los delanteros. Y los otros como diciendo, “bueno, a ver cómo es la estrategia”.</p>
+            <p id="_paragraph-90">Entrevistador: Como medio peloteando. Lo que se llama peloteando. Hacemos unos pases como para ver cómo nos estamos moviendo. Claro… como explorando las posibilidades.</p>
+          </disp-quote>
+          <p id="_paragraph-91">Luego de esta situación inicial de exploración mutua, el guitarrista identifica momentos posteriores de elaboración musical conjunta, relativos al gesto etiquetado como <italic id="_italic-56">rapideza</italic>, analizado anteriormente. Este proceso de la exploración en la elaboración conjunta lo observa también en un lapso temporal más amplio: en las sucesivas improvisaciones sobre el mismo estándar que los músicos realizaron en el experimento, la situación de tanteo iba desapareciendo y dejando lugar a una comunión y consecuente satisfacción más rápidamente, dado que ya no era necesaria la exploración sobre los modos particulares de improvisación del otro. Y este intercambio le resulta “más lindo”:</p>
+          <disp-quote id="block-quote-c3bf94a16139f5b84d548d5670a7d512">
+            <p id="paragraph-c42f9e38d92ad40377f9241a68fd6a29">G: (dirigiéndose a S) Yo te decía que yo estuve escuchando versiones y escuché una sola versión que va el La bemol que hace Hancock que dice en 1998 y después no escuché nunca más ese La bemol. (...) Si… [en] ese La bemol vos por momentos tocabas como un dominante.</p>
+            <p id="_paragraph-93">S: No sé que tocaba. Lo pesqué en la última de las tres, así que cualquier cosa toqué.</p>
+            <p id="_paragraph-94">G: Estaba bueno lo que tocabas, pero estaba ese La bemol que te desconcierta un poco. </p>
+            <p id="_paragraph-95">S: Porque es largo, porque es como una vuelta en loop que vuelve, va, vuelve…</p>
+            <p id="_paragraph-96">G: Yo lo que decía que también una de las cosas que después más para el final pasa bastante y se da más lindo es que podemos trascender un poco la base y nos empezamos nosotros a interactuar. Más allá de eso, creo que después [en] las otras tomas empezó a salir un poco más. Por lo menos a mí me pasó. Nos estábamos tanteando un poco. A pesar de que nos conocemos y hemos tocado juntos, yo estaba como atento. Me pasó un poco eso. </p>
+          </disp-quote>
+          <p id="_paragraph-97">En esta cita se observa una atención particular a la armonía de la base de acompañamiento que define las posibilidades de improvisación musical. Durante una gran parte de la primera improvisación, el saxofonista sentía cierta dificultad para crear gestos musicales adecuados ante un acorde que no reconocía o entendía, haciendo que su atención se desviara de la interacción con el guitarrista a la escucha y la reflexión en el momento sobre la base y sus propios gestos musicales. En este sentido, el guitarrista expresa una satisfacción en relación a haber logrado una interacción musical fluida como una evolución desde los momentos de incertidumbre iniciales, pero también como consecuencia de una renovada atención mutua sobre las acciones del otro por sobre la atención a la base y a las acciones propias que había dominado algunos momentos intermedios de la improvisación. Esta satisfacción o alegría por el encuentro interactivo-musical se manifiesta también en las risas cómplices con que recuerdan el momento durante la entrevista (Figura 6).</p>
+          <fig id="fig6">
+            <label>Figure 6</label>
+            <caption>
+              <title>Figura 6</title>
+              <p id="_paragraph-98">Frames de la entrevista cuando hablan de la <italic id="italic-5135cfd3a11fad16bd50c24bdd9990b1">rapideza</italic>.</p>
+            </caption>
+            <graphic id="_graphic-6" mimetype="image" mime-subtype="png" xlink:href="image6.png"/>
+          </fig>
+        </sec>
+        <sec id="sec-5_3_3">
+          <title>Dúo 14</title>
+          <p id="_paragraph-100">Al inicio de la improvisación, los músicos describen su experiencia de dos modos diferentes. El saxofonista estaba sumamente atento a la interacción, que involucra tanto a las acciones musicales del otro (“¿quién empieza? ¿vos o yo?”) como a las posibilidades que brindan para la acción propia (“tratando de darme cuenta por dónde andaba, como para andar más o menos por ahí”). En cambio, el guitarrista expresa haber estado atento a la base de acompañamiento:</p>
+          <disp-quote id="block-quote-991bb4a20dc58ad8b90fbc02a0b4e600">
+            <p id="paragraph-289b2fc1e14a4da8e9aecea497cfd974">S: Ahí yo lo miro como diciendo: “¿ahora qué? Bueno, ¿quién empieza? ¿vos o yo?”. Para mí era eso... Yo pensé eso (risas, miradas entre ellos)</p>
+            <p id="_paragraph-102">G: (...) Y para mí era más como entrar en la canción, a ver qué pasaba. Como qué nos decía la base. O algo así, como dejar pasar. Tampoco sabía si era la base desde los cuatro compases que le agregaba.</p>
+            <p id="_paragraph-103">S: (...) Y cuando… bueno, él iba haciendo esas frases, también iba notando o tratando de darme cuenta (...) por dónde andaba, como para andar más o menos por ahí.</p>
+          </disp-quote>
+          <p id="_paragraph-104">La incertidumbre expresada por el saxofonista y la actitud de espera para escuchar la base del guitarrista se manifiestan en los largos silencios al inicio de la improvisación. Y, al igual que en el dúo 16, las dinámicas propias de la construcción en tiempo real (es decir, la imposibilidad de conocer lo que el otro va a tocar ante la ausencia de un plan premeditado y la creación improvisada de las frases propias) condujeron a la elaboración de gestos musicales diversos: las sucesivas emisiones de cada músico no reportan rasgos musicales propuestos previamente (Figura 7).</p>
+          <fig id="fig7">
+            <label>Figure 7</label>
+            <caption>
+              <title>Figura 7</title>
+              <p id="_paragraph-105">Transcripción del inicio de la improvisación del dúo 14 (condición 1).</p>
+            </caption>
+            <graphic id="_graphic-7" mimetype="image" mime-subtype="png" xlink:href="image7.png"/>
+          </fig>
+          <p id="_paragraph-107">En este dúo, el estado afectivo que expresan en la entrevista hacia el final de la primera improvisación parece ser de menor intensidad que la alegría o el disfrute experimentados en los dúos 16 y 7:</p>
+          <disp-quote id="block-quote-0b5d0c073d410b6727bb4b9794f80b08">
+            <p id="paragraph-a6f1bea3744b3cc92a8b638c023ec3f3">G: Yo creo que pasa algo importante con la cuestión del lenguaje. Como que al principio empezamos como si fuera correctamente tratando de hacer algo en sincronía con la estética del estilo, por ahí… y a partir de que estábamos improvisando y jugando ahí, como que no nos importó nada… </p>
+            <p id="_paragraph-109">S: Sí, creo que también se fue dando eso, ¿no?, de ir liberándonos más a jugar, porque, ponele, nosotros nunca tocamos juntos.</p>
+          </disp-quote>
+          <p id="_paragraph-110">La incertidumbre se transforma en este caso en una sensación lúdica compartida, como si la elaboración musical fuera un juego en el que ambos músicos participan, y en una sensación de “liberación” respecto de los modos de improvisar en jazz. La idea de <italic id="_italic-58">liberarse</italic> para poder interactuar con el otro indica que el estado anterior relativo a los inicios de la improvisación no era tan solo de incertidumbre sino también de tensión o presión autoinflingida por seguir las exigencias incorporadas por cada músico de una comunidad lingüística que a lo largo de su historia ha definido los rasgos musicales adecuados para ser tocados. La interacción entre los músicos genera un estado afectivo positivo, que expone el carácter negativo (o -al menos- no tan positivo) de la concentración previa sobre los aspectos del estilo musical en las improvisaciones.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>Conclusión</title>
+      <p id="_paragraph-111">En este trabajo analizamos la interacción en la improvisación de jazz como un a género de participación a partir de las emisiones musicales emitidas y reportadas por dúos de improvisadores a los que se les solicitó construir juntos una improvisación e indagamos los estados afectivos contenidos en los episodios emocionales que ocurrían a lo largo de los ciclos de toma de turnos durante la improvisación.</p>
+      <p id="_paragraph-112">En línea con la propuesta teórica de los enfoques heterodoxos sobre la emoción que asume que la emoción es una dimensión intrínseca de toda actividad humana, los análisis presentados en este artículo muestran que los estados afectivos son una parte constitutiva de la experiencia de los músicos durante una performance conjunta. Vemos como algunos de los aspectos propuestos en las principales teorías de la emoción se identifican en los análisis de los episodios emocionales que hemos comunicado aquí. Tanto los sentimientos como los juicios evaluativos, así como el efecto que la saliencia de los estímulos percibidos tiene en la experiencia multimodal –corporal y performativa– de los músicos, se integran en los registros de experiencia que acontecen durante los ciclos improvisatorios que han sido nuestro foco de atención. Sin embargo, la dinámica interactiva emocional emergente de la práctica de sentido de los músicos improvisadores, de la que tanto el análisis musicológico como los registros de experiencia comunicados verbalmente dan cuenta, puede entenderse mejor cuando es abordada desde la perspectiva que ofrecen los enfoques postcognitivistas con relación a la continuidad experiencial entre mente, cuerpo en acción, y otras mentes y cuerpos en acción. En este sentido, la música <italic id="_italic-59">como es creada conjuntamente en tiempo real</italic> ofrece un medio propicio para el análisis de los aspectos intersubjetivos de la cognición y la emoción. </p>
+      <p id="_paragraph-113">Cuando se trata de la producción musical conjunta, como es el caso de la improvisación en dúos que hemos analizado, los episodios emocionales ocurren y se desarrollan temporalmente con relación a las contingencias de la producción de las emisiones musicales que integran normativamente la práctica del jazz. En este sentido, hemos identificado procesos emocionales en los que un estado afectivo se transforma paulatinamente en otro, como consecuencia de las acciones performativas propias, de los gestos musicales producidos, y de la interacción interpersonal entre los participantes. En un contexto social de producción musical, las emociones aparecen no sólo con relación a la música (como las perspectivas clásicas de los estudios de la emoción en música podrían describir), sino también en vinculación al modo en que se establece la interacción social entre ambos ejecutantes, a través del diálogo musical construido por las emisiones musicales originales y reportadas. Además, la intención de construir con el otro la improvisación parece generar un tipo de regulación afectiva que persigue la búsqueda del logro de un estado de bienestar en comunión con el otro. Durante el recorrido hacia dicho logro emerge en la interacción una diversidad de estados emocionales en ambos ejecutantes que configuran –entre otros– momentos de incertidumbre, excitación, adrenalina, frustración, satisfacción, alegría, tensión y liberación. De ahí que tanto la tesis del <italic id="_italic-60">punto de vista </italic><italic id="_italic-61">propio </italic>postulada por el enactivismo autopoiético como el concepto de que <italic id="_italic-62">el otro importa</italic> (<italic id="_italic-63">care</italic>) en tanto criaturas constitutivamente sociales, ayudan a comprender y describir los modos en que la cognición y la emoción se instancian en la experiencia de los improvisadores durante la práctica musical intersubjetiva.</p>
+      <p id="_paragraph-114">Las diferencias entre los dos modos de participación canónicos relativos al vínculo con la música –la experiencia de recepción musical de una obra en situación de audiencia y la producción musical compartida de una obra en tiempo real– se presentan como dos universos de análisis que ameritan ser indagados para entender mejor el modo en que la tesis poscognitivista de continuidad mente-cuerpo-entorno-otros se materializa en la continuidad entre razón (cognición) y pasión (emoción), propuesta como superación de las dicotomías dualistas características de la modernidad occidental. En tanto acción multimodal que involucra al cuerpo en su totalidad en interacción con los otros cuerpos, la improvisación musical conjunta brinda claves para valorar los aportes de la tesis propuesta por el enactivismo acerca de la unidad holística y el carácter constitutivo de la cognición y la emoción, abonando la tesis de que ambos dominios están íntimamente entramados en la experiencia musical.</p>
+      <p id="paragraph-ecbd00a6257ad71c0ad77bf73160ead5"/>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="chapter-ref-a7a5600cc34591395e85e1854cb44c37">
+        <element-citation publication-type="chapter">
+          <fpage>25</fpage>
+          <lpage>69</lpage>
+          <publisher-name>La Marca</publisher-name>
+          <year>2015</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benjamin</surname>
+              <given-names>W. </given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Vera Barros</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Estética de la imagen </source>
+          <chapter-title>La obra de arte en la época de su reproductibilidad técnica</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-e3e9de2082abc0587e380a9a5d013329">
+        <element-citation publication-type="book">
+          <publisher-name>Elsevier</publisher-name>
+          <year>2008</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Calvo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Gomila</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-1">Handbook of cognitive science: An embodied approach</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-8747a5beada4b812494b788334a208cf">
+        <element-citation publication-type="chapter">
+          <fpage>145</fpage>
+          <lpage>164</lpage>
+          <publisher-name>The MIT Press</publisher-name>
+          <year>2010</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colombetti</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Stewart</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Gapenne</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Di Paolo</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Enaction: Toward a new paradigm for cognitive science </source>
+          <chapter-title>Enaction, sense-making and emotion</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-d29cbf21090a69b769cdb3783113a95a">
+        <element-citation publication-type="journal">
+          <fpage>9</fpage>
+          <lpage>19</lpage>
+          <volume>1</volume>
+          <year>2010</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cross</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Epistemus</source>
+          <article-title>La música en la cultura y la evolución</article-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-962e1fbfec671346aa4fdaaf0ad7d438">
+        <element-citation publication-type="chapter">
+          <fpage>15</fpage>
+          <lpage>44</lpage>
+          <publisher-name>Oxford University Press</publisher-name>
+          <year>2010</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davies</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Juslin</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sloboda</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Handbook of music and emotion: Theory, research and application</source>
+          <chapter-title>Emotions expressed and aroused by music: Philosophical perspectives</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-c2bd138924060c9a606e0ba347b65c78">
+        <element-citation publication-type="book">
+          <publisher-name>Oxford University Press</publisher-name>
+          <year>2011</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davies</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-4328537b335b53f34c78e4b1f07c89f2">Musical understandings: And other essays on the philosophy of music</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-4cc31990a200acbffbe3b63aa3faa0d3">
+        <element-citation publication-type="journal">
+          <day>05</day>
+          <issue>4</issue>
+          <month>10</month>
+          <page-range>485-507</page-range>
+          <volume>6</volume>
+          <year>2007</year>
+          <pub-id pub-id-type="doi">10.1007/s11097-007-9076-9</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Jaegher</surname>
+              <given-names>Hanne</given-names>
+            </name>
+            <name>
+              <surname>Di Paolo</surname>
+              <given-names>Ezequiel</given-names>
+            </name>
+          </person-group>
+          <source>Phenomenology and the Cognitive Sciences</source>
+          <article-title>Participatory sense-making</article-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-75b6088d2432dac130eb86b3ef0381c6">
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <month>12</month>
+          <page-range>429-452</page-range>
+          <volume>4</volume>
+          <year>2005</year>
+          <pub-id pub-id-type="doi">10.1007/s11097-005-9002-y</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di Paolo</surname>
+              <given-names>Ezequiel A.</given-names>
+            </name>
+          </person-group>
+          <source>Phenomenology and the Cognitive Sciences</source>
+          <article-title>Autopoiesis, Adaptivity, Teleology, Agency</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-21273f788ced6138606d70bdd7816b66">
+        <element-citation publication-type="book">
+          <publisher-name>The MIT Press</publisher-name>
+          <year>2018</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di Paolo</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Cuffari</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>De Jaegher</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-e7e66ebcab5300d4e0c4bb364372a42a">Linguistic bodies: The continuity between life and language</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-6193e6cdc1224f23ae14e77c315a46c1">
+        <element-citation publication-type="journal">
+          <fpage>118</fpage>
+          <issue>8</issue>
+          <lpage>136</lpage>
+          <volume>9</volume>
+          <year>2021</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Epele</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C.</given-names>
+            </name>
+          </person-group>
+          <source>El Oído Pensante</source>
+          <article-title>La segunda persona en sesión de ensayo de fila de orquesta</article-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-18ab9c64e9d3e522680cfaa55612a3d1">
+        <element-citation publication-type="journal">
+          <day>14</day>
+          <issue>4</issue>
+          <month>07</month>
+          <page-range>465-486</page-range>
+          <volume>8</volume>
+          <year>2009</year>
+          <pub-id pub-id-type="doi">10.1007/s11097-009-9136-4</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fuchs</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name>
+              <surname>De Jaegher</surname>
+              <given-names>Hanne</given-names>
+            </name>
+          </person-group>
+          <source>Phenomenology and The Cognitive Sciences</source>
+          <article-title>Enactive intersubjectivity: Participatory sense-making and mutual incorporation</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-c4144a3c08592e51f08dc58a2e639ed0">
+        <element-citation publication-type="book">
+          <publisher-name>Oxford University Press</publisher-name>
+          <year>2011</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Juslin</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sloboda</surname>
+              <given-names>J. </given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-7aea96fd5f522889481e7c4a84452a43">Handbook of music and emotion: Theory, research, applications</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-a682661caf39bd40e8f9aa7085ee138f">
+        <element-citation publication-type="book">
+          <publisher-name>The New American Library</publisher-name>
+          <year>1948</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Langer</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-19aace46ee9fcc83a54bb1289c7d55f6">Philosophy in a new key: A study in the symbolism of reason, rite, and art</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-e63f0ca6dba0bd8e15645af07d6b1d92">
+        <element-citation publication-type="chapter">
+          <fpage>169</fpage>
+          <lpage>170</lpage>
+          <publisher-name>ESCOM</publisher-name>
+          <year>2024</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marchiano</surname>
+              <given-names>M. </given-names>
+            </name>
+            <name>
+              <surname>Valles</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Milomes</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C.</given-names>
+            </name>
+            <name>
+              <surname>Carballido</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Schiavio</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Daffern</surname>
+              <given-names>H,</given-names>
+            </name>
+            <name>
+              <surname>Glasser</surname>
+              <given-names>S. </given-names>
+            </name>
+            <name>
+              <surname>Osborne</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C.</given-names>
+            </name>
+            <name>
+              <surname>Marchiano</surname>
+              <given-names>M. </given-names>
+            </name>
+            <name>
+              <surname>Pérez</surname>
+              <given-names>J. </given-names>
+            </name>
+            <name>
+              <surname>Kempf</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Norton</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Gibs</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Owen</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Kirts</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>O'Neill</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>12th Triennial Conference of the European Society for the Cognitive Sciences of Music</source>
+          <chapter-title>Knowing each other in performance: Musicians’ intentions in duets of jazz improvisation</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-1e121204c2f6d0abee0c32c585eec564">
+        <element-citation publication-type="chapter">
+          <publisher-name>AEPMIM-SACCoM-ABCM</publisher-name>
+          <year>2023</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marchiano</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Burcet</surname>
+              <given-names>M. I.</given-names>
+            </name>
+            <name>
+              <surname>Bertarelli Gimenes Toffolo</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Perdomo Guevara</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lorenzo de Reizábal</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>I Congreso de Psicología de la Música y Cognición Musical </source>
+          <chapter-title>La intención musical durante la performance</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-cc8b02d078ec1d70fdc8263d6459c624">
+        <element-citation publication-type="journal">
+          <day>27</day>
+          <issue>18</issue>
+          <month>11</month>
+          <page-range>e059</page-range>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.24215/24691488e059</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marchiano</surname>
+              <given-names>María</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>Isabel Cecilia</given-names>
+            </name>
+          </person-group>
+          <source>Arte e Investigación</source>
+          <article-title>La politización de la música  en la experiencia estética</article-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-6c5eef9dbdd9f9084b60d40711580026">
+        <element-citation publication-type="chapter">
+          <publisher-name>PubliFadecs</publisher-name>
+          <year>en prensa</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C. </given-names>
+            </name>
+            <name>
+              <surname>Marchiano </surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Márquez</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Santamaria</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Scheuer</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Perspectivas situadas del aprendizaje y el desarrollo cognitivo</source>
+          <chapter-title>Emisiones musicales improvisadas en la práctica dialógica del jazz</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-6fea945210214371d242ac0215daa39b">
+        <element-citation publication-type="journal">
+          <fpage>81</fpage>
+          <issue>2</issue>
+          <lpage>107</lpage>
+          <volume>41</volume>
+          <year>2022</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C.</given-names>
+            </name>
+            <name>
+              <surname>Pérez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Marchiano</surname>
+              <given-names>M. </given-names>
+            </name>
+            <name>
+              <surname>Damesón</surname>
+              <given-names>J. </given-names>
+            </name>
+            <name>
+              <surname>Valles</surname>
+              <given-names>M. </given-names>
+            </name>
+            <name>
+              <surname>Tanco</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pretti</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Pissinis</surname>
+              <given-names>J. F.</given-names>
+            </name>
+            <name>
+              <surname>Milomes</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Giménez</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Teorema: Revista Internacional de Filosofía</source>
+          <article-title>Second person atributtions in jazz improvisation</article-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-745c9c7000decf0698e4437f2d3a4555">
+        <element-citation publication-type="journal">
+          <issue>2</issue>
+          <volume>9</volume>
+          <year>2021</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C.</given-names>
+            </name>
+            <name>
+              <surname>Pérez</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>El Oído Pensante</source>
+          <article-title>La perspectiva de segunda persona y la música</article-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-d38f879454283522d25027c7b8790cd1">
+        <element-citation publication-type="journal">
+          <day>02</day>
+          <issue>4</issue>
+          <month>06</month>
+          <page-range>646-671</page-range>
+          <volume>52</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1007/s12124-018-9432-z</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martínez</surname>
+              <given-names>Isabel C.</given-names>
+            </name>
+            <name>
+              <surname>Español</surname>
+              <given-names>Silvia A.</given-names>
+            </name>
+            <name>
+              <surname>Pérez</surname>
+              <given-names>Diana I.</given-names>
+            </name>
+          </person-group>
+          <source>Integrative Psychological and Behavioral Science</source>
+          <article-title>The Interactive Origin and the Aesthetic Modelling of Image-Schemas and Primary Metaphors</article-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-22826ae8b6edc3dcf41d0fd06fc23fde">
+        <element-citation publication-type="chapter">
+          <fpage>123</fpage>
+          <lpage>127</lpage>
+          <publisher-name>ESCOM</publisher-name>
+          <year>2017</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C. </given-names>
+            </name>
+            <name>
+              <surname>Damesón</surname>
+              <given-names>J. </given-names>
+            </name>
+            <name>
+              <surname>Pérez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Pereira Ghiena</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tanco</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alimenti Bel </surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Van Dyck</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Proceedings of the 25th Anniversary Conference of the European Society for the Cognitive Sciences of Music</source>
+          <chapter-title>Participatory sense making in Jazz performance: Agents’ expressive alignment</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-5e58f28bb1ecb53185d9beb3cb6cadd9">
+        <element-citation publication-type="book">
+          <publisher-name>Teseo</publisher-name>
+          <year>2024</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Melamed</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-70bd65ce9cef146a7f09f964ca43d116">De qué hablamos cuando hablamos de emoción: Una exploración filosófica</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-b790b29f2e15834e5320fe990d402bc0">
+        <element-citation publication-type="book">
+          <publisher-name>University of Chicago Press</publisher-name>
+          <year>1996</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Monson</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-292cc8b6684c9d464906d4e493e9d9a0">Saying something: Jazz improvisation and interaction</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-0d337a7de92906083d534a6893fc8582">
+        <element-citation publication-type="journal">
+          <day>06</day>
+          <issue>2</issue>
+          <month>12</month>
+          <page-range>010</page-range>
+          <volume>7</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.24215/18530494e010</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ordás</surname>
+              <given-names>Manuel Alejandro</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>Isabel Cecilia</given-names>
+            </name>
+          </person-group>
+          <source>Epistemus. Revista de Estudios en Música, Cognición y Cultura</source>
+          <article-title>La variabilidad como construcción de significado en el coro</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-5b5bd2abf05ec265cf5c100857e673e3">
+        <element-citation publication-type="book">
+          <publisher-name>Routledge</publisher-name>
+          <year>2021</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pérez</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Gomila</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-2d11dd814232601325bc5fb450288e5f">Social cognition and the second person in human interaction</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-fdaba6fa068a13f7b5296293c6b7b1ee">
+        <element-citation publication-type="chapter">
+          <fpage>133</fpage>
+          <lpage>165</lpage>
+          <publisher-name>Universidad Nacional de Quilmes Editorial</publisher-name>
+          <year>2023</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pérez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Marchiano</surname>
+              <given-names>M. </given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Shifres</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>La psicología de la música en Argentina</source>
+          <chapter-title>Musicalidad y cultura en la música electrónica y la improvisación en jazz</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-12f81e16d55f20c6a1c73b86fea8198e">
+        <element-citation publication-type="chapter">
+          <fpage>223</fpage>
+          <lpage>240</lpage>
+          <publisher-name>UDEC editorial</publisher-name>
+          <year>2020</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pérez</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Melamed</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Vidal</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Muñoz</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Perspectivas sobre la subjetividad </source>
+          <chapter-title>La razón en las pasiones y las pasiones en la razón. Un entretejido desatendido</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-070dd61baf95e27762ff0182d28489b7">
+        <element-citation publication-type="journal">
+          <fpage>95</fpage>
+          <issue>2</issue>
+          <lpage>117</lpage>
+          <volume>9</volume>
+          <year>2021</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pérez</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C.</given-names>
+            </name>
+          </person-group>
+          <source>El Oído Pensante</source>
+          <article-title>). El otro en la música que suena: explorando las interacciones de segunda persona en la improvisación de jazz</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-491c85954cc28168b21ecd7a4992d7b7">
+        <element-citation publication-type="book">
+          <publisher-name>Oxford University Press</publisher-name>
+          <year>2005</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robinson</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-e8c95070dfb59323bd4ee0da5d687245">Deeper than reason: Emotion and its role in literature, music, and art</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-8a6c7140b3d70bd9b5b061f6eb19b30b">
+        <element-citation publication-type="book">
+          <publisher-name>Routledge</publisher-name>
+          <year>2024</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scarantino</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-d40f9e359263bde26d44faa0bfa8c2ed">Emotion theory: The Routledge comprehensive guide. Volume II: Theories od specific emotions and major theoretical challenges</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="webpage-ref-9dadf0356b25e84f3d3b1aeec03d84fe">
+        <element-citation publication-type="webpage">
+          <day>25</day>
+          <month>septiembre</month>
+          <uri>https://plato.stanford.edu/archives/sum2021/entries/emotion/</uri>
+          <year>2021</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scarantino</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>de Sousa</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>The Stanford Encyclopedia of Philosophy</source>
+          <article-title>Emotion</article-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-18a09e6e940b1be39bb598fd672220d6">
+        <element-citation publication-type="chapter">
+          <fpage>31</fpage>
+          <lpage>39</lpage>
+          <publisher-name>Routledge</publisher-name>
+          <year>2017</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schiavio</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>De Jaegher</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Lesaffre</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Maes</surname>
+              <given-names>P. J. </given-names>
+            </name>
+            <name>
+              <surname>Leman</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>The Routledge Companion to embodied music interaction</source>
+          <chapter-title>Participatory sense-making in joint musical practice</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-c13d91e581b89ce5d0406fdcd48e169d">
+        <element-citation publication-type="chapter">
+          <fpage>406</fpage>
+          <lpage>413</lpage>
+          <publisher-name>AEPMIM-SACCoM-ABCM</publisher-name>
+          <year>2023</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanco</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pissinis</surname>
+              <given-names>J. F.</given-names>
+            </name>
+            <name>
+              <surname>Epele</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>I. C.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Burcet</surname>
+              <given-names>M. I.</given-names>
+            </name>
+            <name>
+              <surname>Bertarelli Gimenes Toffolo</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Perdomo Guevara</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lorenzo de Reizábal</surname>
+              <given-names>M. </given-names>
+            </name>
+          </person-group>
+          <source>I Congreso de Psicología de la Música y Cognición Musical </source>
+          <chapter-title>La mirada en las interacciones musicales improvisadas: una investigación en dúos de jazz</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-96da036d3f75f190a02c9e984f1d5e4f">
+        <element-citation publication-type="book">
+          <publisher-name>Psychology Press</publisher-name>
+          <year>2005</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parkinson</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Fischer</surname>
+              <given-names>A. H.</given-names>
+            </name>
+            <name>
+              <surname>Manstead</surname>
+              <given-names>A. S.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-c248abe201808420dd35045279d09a5b">Emotion in social relations: Cultural, group, and interpersonal processes</italic>
+          </source>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

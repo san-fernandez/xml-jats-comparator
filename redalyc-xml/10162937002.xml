@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00002</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000100014</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Epistemología de las políticas de ciencia y tecnología en América Latina</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Epistemology of science and technology policies in Latin America</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4170-5643</contrib-id>
+               <name>
+                  <surname>Mejía</surname>
+                  <given-names>Julio</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <institution content-type="original">Perú. Universidad Nacional Mayor de San Marcos  Correo electrónico: jvmena1@hotmail.com</institution>
+            <institution content-type="normalized">Universidad Nacional Mayor de San Marcos</institution>
+            <institution content-type="orgname">Universidad Nacional Mayor de San Marcos</institution>
+            <country country="PE">Perú</country>
+            <email>jvmena1@hotmail.com</email>
+         </aff>
+         <pub-date pub-type="epub-ppub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <volume>0</volume>
+         <issue>67</issue>
+         <fpage>14</fpage>
+         <lpage>25</lpage>
+         <history>
+            <date date-type="received">
+               <day>30</day>
+               <month>09</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>02</day>
+               <month>01</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>Este ensayo sobre la epistemología de las políticas de ciencia y tecnología, con referencia al campo de las ciencias sociales, examina la base fundante del orden estratégico que guía la producción y circulación cognitiva en América Latina. Precisamente, la disposición expositiva del artículo versa en torno de sus principales categorías epistemológicas: el principio cartesiano de las dos culturas, el eurocentrismo cognoscitivo hegemónico, la apropiación de saberes de la periferia y la extinción de la función-autor en tiempos de la globalización.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>This essay on the epistemology of science and technology policies, with reference to the field of social sciences, examines the foundational basis of the strategic order that guides the production and cognitive circulation in Latin America. Precisely, the expository disposition of the article deals with its main epistemological categories: the Cartesian principle of the two cultures, the hegemonic cognitive eurocentrism, the appropriation of knowledge of the periphery and the extinction of the author-function in times of globalization.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave</title>
+            <kwd>eurocentrismo</kwd>
+            <kwd>apropiación</kwd>
+            <kwd>saberes</kwd>
+            <kwd>función-autor</kwd>
+            <kwd>Latinoamérica</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>eurocentrism</kwd>
+            <kwd>knowledge</kwd>
+            <kwd>appropriation</kwd>
+            <kwd>author-function</kwd>
+            <kwd>Latin America</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0"/>
+            <table-count count="0"/>
+            <equation-count count="0"/>
+            <ref-count count="7"/>
+            <page-count count="12"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>La producción del conocimiento es una cuestión esencial de América Latina contemporánea, en particular de la estructuración y fundamentación constitutiva de la elaboración de las políticas de ciencia y tecnología. No se pretende describir las políticas de ciencia y tecnología de la región, más bien interesa presentar un análisis inicial de las ideas base de su construcción. El examen de los postulados epistemológicos de las políticas de ciencia y tecnología permiten un acercamiento a la unidad cognoscitiva de Latinoamérica, al dejar de lado las diferencias singulares de la heterogeneidad de los países.</p>
+         <p>En un momento histórico donde la ciencia y tecnología en América Latina se encuentra inmersa en la dinámica de transformaciones profundas del patrón moderno global. Impulsada por un proceso de revolución científica, especialmente en los campos de la informática, la genética, la automatización y la inteligencia artificial. Wallerstein (Las incertidumbres del saber) define a las primeras cinco décadas del siglo actual como un momento crítico, el sistema-mundo moderno después de más de 500 años ha ingresado en un periodo de modificaciones radicales, siendo una de sus manifestaciones más conflictivas los procesos de desigualdades sociales extrema (Piketty. El capital del siglo XXI). En particular, se consolida y reproduce incesantemente “la brecha científica y tecnológica” (Sagasti y Málaga 2017:22) entre los países metropolitanos con los países de América Latina y los más pobres del mundo. Entre 2007 -2016 la inversión de América Latina en I+D se mantuvo en un magro 3.1% del monto mundial, mientras que Asia se incrementó al 41.5%, EEUU-Canadá llegó al 26.7% y Europa al 22.1% (RICYT. <ext-link ext-link-type="uri" xlink:href="http://www.ricyt.org/files/edlc_2018.pdf">El estado de la ciencia</ext-link>).</p>
+         <p>La organización institucional de los “consejos nacionales” de ciencia y tecnología en América Latina se realizaron principalmente en la década del setenta, condicionado por las políticas desarrollistas que involucraban a las entidades estatales como protagonistas centrales en la distribución de los recursos (Amadeo. <ext-link ext-link-type="uri" xlink:href="http://revistas.bancomext.gob.mx/rce/magazines/468/2/RCE2.pdf">Los consejos nacionales de ciencia y tecnología en América Latina</ext-link>). Durante los ochenta y noventa del siglo pasado se ingresó a la etapa de crisis y ajuste económico neoliberal, que condujo a un proceso de contracción drástica del papel del Estado y de las políticas de ciencia y tecnología. Desde el año 2000 América Latina, en un contexto de crecimiento económico, entraría a un nuevo empuje de las políticas de innovación y competitividad en ciencia y tecnología (Sagasti. Ciencia, tecnología, innovación).</p>
+         <p>Las actuales entidades estatales de América Latina son los actores esenciales del diseño de las intervenciones en la ciencia y tecnología. Participaron con el 59% de su financiamiento en el 2016 (RICYT <ext-link ext-link-type="uri" xlink:href="http://www.ricyt.org/files/edlc_2018.pdf">El estado de la ciencia</ext-link>) y contaron con el apoyo de los organismos internacionales, especialmente del Banco Interamericano de Desarrollo, mediante préstamos, asesorías y normatividad internacional. Políticas públicas de América Latina se orientan básicamente en tres direcciones, primero para establecer los mecanismos que promuevan la internacionalización de la ciencia y tecnología, buscando que la producción de la ciencia y la innovación puedan estar a la altura de los estándares de la sociedad global del conocimiento, organizada bajo el predominio de los grandes centros de investigación de los países más desarrollados y con escasa intervención de las comunidades académicas de los países del Tercer Mundo (Beigel. <ext-link ext-link-type="uri" xlink:href="https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSn14a04/7288">El nuevo carácter de la dependencia intelectual</ext-link>). Segundo, garantizar la “calidad” de la educación superior facilitando la constitución de espacios de investigación y de equipos de investigadores, implementando sistemas de evaluaciones y mediciones de la eficacia institucional en rankings universitarios y puntajes de los investigadores, para clasificarlos en jerarquías diferenciadas, creando un nivel top con apoyo financiero y una amplia mayoría que languidece por la escasez de recursos. Evaluaciones que definen un sistema-mundo académico que se ordena en función de las instituciones educativas que trazan los países más desarrollados. Y tercero, impulsar la producción de un conocimiento útil dirigido al mercado y la innovación tecnológica orientado al sector productivo, el campo empresarial y el desarrollo de los países. En este escenario, las humanidades y las ciencias sociales aparecen como marginales a la esfera productora, la demanda y las intervenciones gubernamentales en ciencias básicas y tecnologías.</p>
+         <p>El resultado de las políticas en América Latina sigue siendo deficitario, la “tarea pendiente” es la incapacidad para definir un sistema de producción de ciencia y tecnología, incluso en los países de mayor desarrollo (Sagasti. Ciencia, tecnología, innovación), que continúan dependientes de las vicisitudes de las fluctuaciones económicas y gubernamentales: en los últimos años Argentina ha reducido en un 50% su presupuesto de ciencia e investigación (Beigel. <ext-link ext-link-type="uri" xlink:href="https://nuso.org/articulo/las-relaciones-de-poder-en-la-ciencia-mundial/">Las relaciones de poder en la ciencia mundial</ext-link>) y Brasil lo ha disminuido en 44% (<ext-link ext-link-type="uri" xlink:href="https://www.scidev.net/america-latina">https://www.scidev.net/america-latina</ext-link>). En esas condiciones restrictivas, las ciencias sociales y humanidades se vuelven muy vulnerables en el diseño, financiamientos, recursos y apoyos en las plataformas de las políticas científicas que se fomentan en América Latina.</p>
+         <p>Este ensayo sobre la epistemología de las políticas de ciencia y tecnología, haciendo referencia al campo de las ciencias sociales, examina el sustrato fundante del orden estratégico que orienta la organización de la producción y circulación cognitiva en América Latina. Precisamente, la disposición expositiva del artículo gira en torno de sus principales categorías epistemológicas: el principio cartesiano de las dos culturas, el eurocentrismo cognoscitivo hegemónico, la apropiación de saberes de la periferia y la muerte de la función-autor en tiempos de la globalización.</p>
+      </sec>
+      <sec>
+         <title>Dos culturas</title>
+         <p>Las políticas de ciencia y tecnología en América Latina se estructuran a partir del fundamento epistemológico de clasificación de los saberes científicos en dos sectores claramente diferenciados, entre las ciencias-tecnologías y las humanidades-ciencias sociales, perspectiva que permite organizar y orientar los apoyos, recursos, financiamientos y desarrollos de las investigaciones.</p>
+         <p>Las políticas de ciencias y tecnologías en América Latina se interesan principalmente por la generación de bienes de conocimiento útil dirigidos al mercado y al sector productivo, es decir, se formula ciencia y tecnología de punta para aspirar al desarrollo industrial. En ese sentido, para las políticas públicas lo que tienen mayor valor son las ciencias duras, experimentales y tecnologías, que son el núcleo esencial para la distribución de los recursos y se definen como los sectores estratégicos para el desarrollo de la investigación e innovación. La inversión de América Latina en I+D se orienta substancialmente a las ciencias exactas, naturales, biológicas, químicas, ingenierías y tecnologías. Mientras se deja fuera de las políticas públicas a las humanidades y ciencias sociales, disciplinas que tienen poco valor productivo y no constituyen un sector estratégico del desarrollo científico de los países, donde sus niveles de participación en I+D son mínimos. La información disponible para 2016 indica que Argentina destinó un 78.3% en ciencias básicas-tecnologías y solo un 21.7% en humanidades, Perú entre 77.7% y 22.3% respectivamente, México de 86.5% a 13.5% y Chile de 87.2% a 12.8% (RICYT. <ext-link ext-link-type="uri" xlink:href="http://www.ricyt.org/files/edlc_2018.pdf">El estado de la ciencia</ext-link>). En ese marco, pareciera que desde los Estados de Latinoamérica carece de sentido hacer investigaciones sobre la inclusión social para encontrar caminos que permitan superar la pobreza y marginación que afecta a amplios sectores poblacionales. Asimismo, tiene insuficiente importancia hacer investigaciones sobre la formación de la ciudadanía en los países de América Latina donde la democracia es incipiente (Castro-Gómez. <ext-link ext-link-type="uri" xlink:href="https://youtu.be/3uMSIEl90jA">Colciencias ha fracasado</ext-link>).</p>
+         <p>Las políticas de ciencia y tecnología que estimulan los Estados de América Latina se fundamentan en la división epistemológica de las “dos culturas” que deriva de un razonamiento de la “nueva ciencia” formulado por Bacon, Descartes, Galileo y Newton, retomado en 1959 por Charles Percy Snow en una conferencia titulada "Las dos culturas y la revolución científica", que definió un debate internacional de divergencia entre las disciplinas humanísticas y artísticas con las científicas y técnicas. Las dos culturas son la ruptura de comunicación y la carencia de interdisciplinariedad entre las ciencias y las humanidades. Situación que introduce una tardía ruptura epistemológica de las dos culturas: las ciencias básicas aparentemente se encaminan a la indagación de la verdad objetiva y, de otra parte, las humanidades y ciencias sociales se encauzarían al estudio de la belleza y la ética.</p>
+         <p>El conocimiento en América Latina es más que la simple comprensión productiva y tecnológica de las políticas científicas. Entender la totalidad heterogénea de la existencia comporta sobrepasar el saber moderno hegemónico eurocéntrico, implica arribar al reconocimiento de una unidad múltiple del mundo, de espiritualidad y materialidad, de orden y caos, de lo humano y la naturaleza, como siempre lo fuera comprendido históricamente en las culturas andinas (Mejía. América Latina, modernidad y conocimiento). Entendiéndose en el siglo XXI que los desarrollos de las “nuevas ciencias y las humanidades”, usando la expresión de González Casanova, se fundamentan en la epistemología de la complejidad sistémica que establecen un acercamiento metodológico entre todas las ciencias, en tanto “son actividades complementarias con una base epistemológica común” (Wallerstein 2005:51). En el mundo actual, Prigogine y Stengers (La nueva alianza) formulan la superación de la fractura entre las dos culturas a partir de “nuevas alianzas” que permitan integrar “el devenir cultural y natural” y trazar la unidad diferenciada de todos los conocimientos.</p>
+         <p>La arcaica separación cartesiana de las políticas públicas de ciencia y tecnología en América Latina pueden solo generar devastación de la diversidad epistémica y degeneración de la democracia de los saberes. Se pretende tasar el conocimiento que elaboran las humanidades y ciencias sociales a partir de una concepción tomada de las llamadas ciencias básicas como la biología y la tecnología, propiciando una forma de violencia epistémica que ofende y desconoce los quehaceres de los otros campos del saber y de los docentes e investigadores. Obligar a que las políticas públicas sobre el conocimiento científico se rijan por criterios de las dos culturas es un acto de marginación epistémica que contradice el derecho democrático a la pluralidad de saberes y de un espacio de debate en las distintas formas de conocimiento. En ese sentido, los conocimientos de todas las áreas deben ser valorados en sus propios términos, a partir de sus mismos criterios y procesos, y no en referencia de una instancia exterior a ellos que se postula como garante de la verdad defendida por el Estado. La situación es más grave porque atenta contra la democracia cognitiva, de distribución equitativa de oportunidades entre los investigadores, no toma en cuenta a los miembros de la comunidad académica como iguales, solo es válido un sector, únicamente tiene valor las ciencias básicas y la tecnología y los investigadores de las otras áreas carecen de importancia y significación. El campo de las políticas en América Latina se forma sobre principios que contradicen la justicia y democracia cognitiva.</p>
+         <p>La ciencia no puede reducirse únicamente a las limitaciones del conocimiento útil, hacerlo dejaría de lado un vasto sector de la existencia social, mientras que la diversidad del mundo es infinita, que demanda la necesidad de un pensamiento complejo que subraye la dialógica entre las ciencias-tecnologías y las humanidades-ciencias sociales.</p>
+      </sec>
+      <sec>
+         <title>Eurocentrismo. Mercantilización del conocimiento y cultura del paper</title>
+         <p>En América Latina las políticas de ciencia y tecnología destacan las publicaciones de artículos en revistas indexadas, de origen extranjero y preferentemente en inglés, situación que refuerza las exigencias cognoscitivas bajo predominio de los países metropolitanos, orientando una producción y circulación académica de raíz eurocéntrica, restringiendo la gestación de las revistas nacionales y el debate en sus propios idiomas, sin mayores repercusiones internacionales.</p>
+         <p>Las políticas de ciencia y tecnología en América Latina fomentan que los docentes e investigadores publiquen en journals, organizados según el modelo de Web of Science (WoS), la base de datos SciELO, Scopus o el directorio Ulrich, asociados a corporaciones editoriales millonarias de Europa y EE. UU., para las cuales el pensamiento de América Latina tiene exiguo reconocimiento. El sistema de indexación de publicaciones se fue construyendo sobre una matriz de procesos de mercantilización que delimitó un marco de universalización de obligaciones y estableció formas de jerarquías dentro del sistema académico mundial (Bourdieu. Intelectuales, política y poder).</p>
+         <p>En efecto, el patrón de producción y circulación de revistas que define los indicadores de indexaciones se relacionan con un amplísimo mercado. En 2017 se estimaba en US$25,7 mil millones para las publicaciones en inglés y de 10 mil millones para los journals (<ext-link ext-link-type="uri" xlink:href="https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf">The STM report. An overview of scientific scholarly publishing</ext-link>). Se trata de un mercado que editaba 33,100 mil journals en el 2018, con 3 millones de artículos por año, en inglés y el 70% de procedencia de los EE. UU. y Europa, dejando la insignificancia de 9,400 textos para otros países e idiomas del mundo. En el nivel más inmediato de la producción y circulación del conocimiento se desliza un orden sombrío de “doble pago” conducente, por un lado, que los ingresos de los journals procedan entre el 68-75%, de las suscripciones de las bibliotecas de las mayores universidades del mundo y lo restante de las adquisiciones por los organismos públicos o privados (Luchilo. <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/jatsRepo/924/92459230002/index.html">Revistas científicas</ext-link>) y, de otro lado, el conjunto de puntajes y publicaciones se escurre hacia la situación “paga el autor”, cuyos costos son asumidos por los investigadores, por los proyectos de investigación, con fondos públicos o de las agencias de cooperación. De esta forma, la comunidad académica de América Latina queda enganchada en una estructura profundamente mercantilizada, el conocimiento se torna una mercancía más y en la que impera un mercado aventajado por los journals de los Estados Unidos.</p>
+         <p>La producción del conocimiento no solo pasa a manos de agentes privados, lo más crítico es que la denominada “calidad científica” se torna irrelevante para un sistema que tiende a desarrollar un control oligopólico del mercado editorial mundial. En las últimas cuatro décadas la concentración internacional de las grandes editoriales en inglés ha aumentado de manera constante. Son 5 las mayores editoriales que controlan la producción y circulación entre >1,000 y >3,000 números de revistas: Springer Nature, Elsevier, Taylor &amp; Francis, Wiley y Sage (<ext-link ext-link-type="uri" xlink:href="https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf">The STM report. An overview of scientific scholarly publishing</ext-link>). En el campo de las ciencias sociales estas editoriales gestionan el 70% de las publicaciones (Wences. La universidad: bien común y reconocimiento de saberes pluridiversos). Los journals de las ciencias sociales en inglés se encuentran dominadas por dos de las mayores corporaciones (Santos. <ext-link ext-link-type="uri" xlink:href="https://youtu.be/8EGLVBsSH8c">Conferencia CRES</ext-link>). Los tiempos de la globalización neoliberal de la producción y circulación de revistas generan niveles abismales de desigualdad, concentrándose en verdaderos oligopolios editoriales, que operan en los países centrales y en idioma inglés, en tanto que la producción de los países de América Latina gira en la periferia, su participación mundial es insignificante.</p>
+         <p>Los resultados e incentivos de las políticas de ciencia y tecnología en América Latina desde 1975 muestran un crecimiento exponencial de las publicaciones WoS, buscando su incorporación en la producción y difusión internacional. Empero, los resultados son contradictorios y poco alentadores para la “productividad” y el impacto de las políticas oficiales. En 2016 las publicaciones latinoamericanas escasamente representaron el 4.7% del total mundial (RICYT. <ext-link ext-link-type="uri" xlink:href="http://www.ricyt.org/files/edlc_2018.pdf">El estado de la ciencia</ext-link>) y, lo más grave de todo, es que la cantidad de citaciones son marginales. El índice reflejaba el disminuido interés y desvalorización de los países centrales por el saber producido en nuestro continente (Rau. <ext-link ext-link-type="uri" xlink:href="http://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/453">Cuando más publicamos, menos nos citan</ext-link>), el 98.5% de las citaciones en EE. UU. y Europa son prácticamente todas de origen norteamericano (Beigel. <ext-link ext-link-type="uri" xlink:href="https://nuso.org/articulo/centros-y-periferias-en-la-circulacion-internacional-del-conocimiento/">Centros y periferias en la circulación internacional del conocimiento</ext-link>). En esas condiciones, el índice WoS y el factor de impacto terminaron actuando en un sistema de producción y circulación oligopólico y jerarquizado de los países centrales, donde la mayor parte de la producción en castellano y portugués se deja de lado y apenas una fracción minúscula se incluye según los intereses de las revistas hegemónicas, reproduciendo un patrón de colonialidad del saber.</p>
+         <p>En general, las políticas de ciencia y tecnología en América Latina se estructuran en función de las características y pautas fundamentales de los journals que se producen en el mercado dominado por las corporaciones de Estados Unidos y Europa. La producción del conocimiento en nuestro continente busca seguir las orientaciones de los dispositivos de evaluación WoS, a partir de las categorías que se elaboran para dar cuenta de realidades de los países metropolitanos, con la intención de ser admitidos en las redes internacionales. Sistema que se transforma en un enfoque de alcance y validez universal que atribuye a los países centrales la superioridad académica y arrastra de manera subordinada a la producción de revistas de los otros países del mundo.</p>
+         <p>Sin embargo, los journals no solo describen relaciones de dependencia eurocéntrica, sino fundamentalmente expresan la forma de pensar reduccionista cartesiana que traduce la hegemonía del paper, de modo particular en el caso de las ciencias sociales de América Latina. Los sistemas de puntajes establecidos por los organismos de ciencia y tecnología, siguiendo los modelos de los journals valoran más el paper que un libro. El paper es el modelo dominante de presentación de los resultados de la investigación tomados de las ciencias experimentales y de las ciencias naturales (Castro-Gómez. <ext-link ext-link-type="uri" xlink:href="https://youtu.be/3uMSIEl90jA">Colciencias ha fracasado</ext-link>).</p>
+         <p>El eurocentrismo en el sistema de los journals sostiene decididamente la elaboración de los papers con una visión reduccionista positivista que fragmenta y explica la realidad a partir de la “primacía determinante sobre todas y cada una de las partes” (Quijano 2000:352), rehusando considerar la importancia de la totalidad histórica-social. Situación condicionada, por el desarrollo de las corrientes posmodernas y la práctica más difundida del “empirismo puro” en las ciencias sociales (Giddens. En defensa de la sociología). Es común que los papers exijan entre 8 y 10 páginas para abordar aspectos puntuales de la realidad, de temáticas muy precisas, alejando la posibilidad de elaborar libros orgánicos, muchos de ellos con más de 400 páginas, referidos a una visión integral, totalizadora de la realidad social (Santos. <ext-link ext-link-type="uri" xlink:href="https://youtu.be/8EGLVBsSH8c">Conferencia CRES</ext-link>). La diferencia de páginas es bastante significativa: el paper solo es posible cuando la realidad se secciona, traduce un enfoque que simplifica la existencia social y se comprende solo a partir de sus componentes como lo formulara Descartes: "dividir cada una de las dificultades que hallara a mi paso en tantas partes como fuera posible" (1964:80).</p>
+         <p>Dadas esas condiciones, los papers favorecen un tipo de escritura muy concisa, precisa y seca, solo hay espacio para los razonamientos cortos y escuetos. Tiene que ver con la idea que considera los hechos sociales como cosas, de la misma forma que la física y las ciencias naturales, los hechos se limitan a constatar la presencia o ausencia de una propiedad, aparecen estáticos - inmóviles - aislados (Durkheim. Las reglas del método sociológico), haciendo abstracción de la dinámica contextual en las que cobran sentido. Se trata de una escritura muy formalizada, todo está reglamentado, hay journals que describen de 20 hasta 30 requisitos para presentar un paper, desde la forma de citación hasta los apellidos del autor. La disciplinación del trabajo expositivo es una forma no solo de delimitarlo, demarcarlo, también de ordenarlo. De esa manera, un paper pasa de moda rápidamente, es un aporte al estado de la cuestión en un momento específico que será superado por otro de manera muy rápida. En cambio, en un libro el lenguaje es más libre, amplio, presenta argumentos, contextualiza, se pueden desarrollar estilos, formas llenas de giros y reflexiones de todo tipo, metáforas e ironías. Frente a una realidad compleja y de múltiples dimensiones los libros buenos tienen una larga duración, perduran en el tiempo, algunos son clásicos.</p>
+         <p>Los papers no tiene mayores pretensiones epistémicas, exigen una estructura expositiva muy simple de tres partes: presentación de la hipótesis, su demostración y las conclusiones respectivas. La producción de conocimientos sociales sigue una secuencia desarrollada por las ciencias naturales y las tecnologías. Aquí el ensayo sería una herejía, de artículos breves, lenguajes libres y formulaciones en base a intuiciones e hipótesis, que puede hacer progresar el conocimiento por años. Asimismo, los papers se ven imposibilitados de exponer pensamientos críticos, no buscan objetar nada, los temas que cuestionan el poder y la dominación social son casi extraños. En estas revistas indexadas el gran Amauta José Carlos Mariátegui no hubiera podido escribir. Los manuscritos son presentados en inglés, tienen que adaptarse a los temas y categorías de moda de los países metropolitanos, citar a autores que pertenezcan a ese espacio académico, donde los temas locales tienen muy poca relevancia, para su revisión, aprobación y edición pueden pasar años, situación que llevaría a los textos cuando son aceptados se presenten desfasados y con limitadísimas repercusiones para el debate interno de los países, en cambio su publicación en las revistas locales podrían aparecer inmediatamente y con influencia significativa en el mundo académico de América Latina (Gudynas. <ext-link ext-link-type="uri" xlink:href="https://repositorio.flacsoandes.edu.ec/handle/10469/13566">Sin nuestras propias revistas académicas latinoamericanas seríamos mudos</ext-link>).</p>
+         <p>En suma, la mundialización neoliberal pretende crear un sistema de producción de conocimiento definido por el paper, con una visión reduccionista cartesiana, manejado por las redes exteriores y validando el saber destinado al mercado, alejándolo de las posibles formas libres y críticas que responden a las necesidades propias de los países de América Latina. Bajo la perspectiva de los diseños y pautas eurocéntricos, la burocratización de la vida académica arrastraría su decadencia espiritual y epistémica. El eurocentrismo es el “modo de producir conocimiento” moderno global (Quijano. Colonialidad del poder, eurocentrismo y democracia), bajo la hegemonía de la cultura y la producción científica de los journals de los Estados Unidos y el idioma inglés, estableciendo un orden de pensamiento que desvaloriza y somete los conocimientos de América Latina y del Tercer Mundo.</p>
+      </sec>
+      <sec>
+         <title>Apropiación epistémica</title>
+         <p>La apropiación epistémica se origina a partir de la noción de “apropiación cultural”, prolíficamente desarrollada en los últimos años, referida a las temáticas del arte, el diseño, la música, la literatura, ideas y símbolos. La “apropiación cultural” es el proceso de expropiación de ciertos elementos de una cultura y los utiliza como propios, pero de modo no autorizado y mucho menos compensado (Becerra. <ext-link ext-link-type="uri" xlink:href="https://produccioncientificaluz.org/index.php/%20quorum/article/view/29134">Apropiación, cultura y mediaciones</ext-link>).</p>
+         <p>La idea de apropiación epistémica esta enraizada en la adopción o uso indebido de los conocimientos de los países de América Latina y de los países periféricos por las redes de la ciencia de los países centrales, adueñándose de los saberes fuera de su contexto histórico y por la imposición de acciones de poder. La apropiación epistémica es parte de la colonialidad del saber que organiza la producción de conocimientos mediante el dominio de los grandes centros de EE. UU. y la marginación de las otras regiones de la tierra. En el mundo contemporáneo, la problemática tiene fundamentalmente dos direcciones interrelacionadas. La primera da cuenta de la apropiación de saberes nativos de Latinoamérica y la segunda se refiere a la expropiación de los conocimientos teóricos de los países del Tercer Mundo por las instituciones de los países metropolitanos.</p>
+         <p>La tendencia de apropiación y privatización por las universidades y corporaciones del mundo desarrollado de los conocimientos comunes tradicionales, de la diversidad epistémica de los pueblos y su incorporación forzada, descontextualizada y reduccionista por los sistemas de la ciencia moderna, es una tendencia histórica que es parte del proyecto de la conquista de América, que describe la idea del destino hegemónico cognoscitivo de los países desarrollados y, a la vez, construye un significado de depreciación de todos los otros conocimientos de los países del tercer mundo (Shiva. Biopiratería). De modo concreto, la continua expropiación de los saberes indígenas en el Perú y América Latina, de las plantas y ecología que los pueblos han descubierto, producido y utilizado como fuentes de alimentos, medicinas y recursos biológicos, generalmente han sido expropiados y patentados por laboratorios y centros académicos de EE.UU., Japón y Europa (Sagasti y Málaga. Un desafío persistente). La maca, tubérculo prehispánico y de singulares cualidades nutricionales, actualmente tiene 256 patentes registradas por la Organización Mundial de Propiedad Intelectual y solo una corresponde a un investigador peruano, pues la mayoría son de China, Corea y Japón (Velarde. <ext-link ext-link-type="uri" xlink:href="https://caretas.pe/medio-ambiente/las-habichuelas-peruanas/">Las habichuelas peruanas</ext-link>). Las patentes y saberes populares apropiado por las instituciones, empresas y universidades del Norte se encuentran protegidos por los derechos de propiedad intelectual vinculados a la Organización Mundial del Comercio, mientras que el conocimiento y recursos biogenéticos de los pueblos del Sur se descubren vulnerables y susceptibles de apropiación por las corporaciones y centros académicos de los países centrales (Lander. <ext-link ext-link-type="uri" xlink:href="https://revistas.uasb.edu.ec/index.php/comentario/article/view/229/">Los derechos de propiedad intelectual</ext-link>).</p>
+         <p>Por otra parte, existe la tendencia de apropiación epistémica por los circuitos académicos de EE. UU. y Europa de los conocimientos teóricos elaboradas en América Latina y otras partes del tercer mundo. Por ejemplo, el libro Commonwealth de Hardt y Negri, de los supuestos creadores de la teoría de la “colonialidad del poder”, en realidad es un plagio de los postulados elaborados originalmente por Aníbal Quijano, luego desarrollado por Enrique Dussel, Walter Mignolo o Arturo Escobar (Driscoll. <ext-link ext-link-type="uri" xlink:href="https://www.revistatabularasa.org/numero15/resena-el-saqueo-de-los-bienes-comunes-teoricos-commonweath-de-hard-y-negri/">El saqueo de los bienes comunes teóricos</ext-link>). La apropiación epistémica por los autores europeos traduce la colonialidad del saber que desvaloriza y se apropia de la producción teórica elaborada en los países de América Latina, que someten a los intelectuales de la región únicamente para elaborar insumos, datos y experiencias, que luego son apropiadas por el Norte y devueltas como “grandes” teorías al mundo académico.</p>
+         <p>Apropiación epistémica que coincide con el “segundo movimiento de cercamiento” de conocimientos que viene ocurriendo desde las últimas décadas del siglo pasado, proceso semejante al ocurrido durante los siglos XV-XVIII en Inglaterra que involucró la expropiación de los saberes y a la par la substracción de las tierras, pastos y bosques comunales. El “segundo movimiento de cercamiento” viene sucediendo por la expansión de los derechos de propiedad intelectual de las comunidades académicas de los países del Norte, que se expresa en el incremento exponencial de patentes y el copyright, mecanismos de creación artificial que buscan adueñarse de los bienes comunes del conocimiento de los países del Sur (Boyle. <ext-link ext-link-type="uri" xlink:href="http://www.biodiversidadla.org/Documentos/Las-ideas-cercadas-el-confinamiento-y-la-desaparicion-del-dominio-publico">Las ideas cercadas</ext-link>). Con la globalización y el desarrollo de nuevas tecnologías de la información y la comunicación, se comenzaron a privatizar la información del Estado, se centralizaron las corporaciones editoriales de journals y se propagaron las leyes que hacían eco de los resortes del mercado global y de la apropiación de los saberes del Tercer Mundo (Lander. <ext-link ext-link-type="uri" xlink:href="https://revistas.uasb.edu.ec/index.php/comentario/article/view/229/">Los derechos de propiedad intelectual</ext-link>).</p>
+         <p>En conclusión, la expropiación de los saberes da cuenta del proceso de colonialidad del saber que estructura el control de las redes de la producción y circulación del conocimiento por los grandes conglomerados editoriales y las mayores universidades del mundo y propician la subordinación epistémica de los países de América Latina y de la periferia.</p>
+      </sec>
+      <sec>
+         <title>¿Qué es un autor?</title>
+         <p>En América Latina las políticas de ciencia y tecnología contribuyen a generar bienes de conocimientos públicos en las instituciones académicas y las universidades. Los bienes de conocimientos resultados de las investigaciones y los debates académicos se encuentran inmersos en un proceso de transición, no exento de conflictos, que transcurre desde un ángulo hegemónico de apropiación individualizada, privada y empresarial hasta la posible emergencia de un camino de acceso libre, abierto y compartido por todos.</p>
+         <p>Michel Foucault en su conferencia de 1969 “¿Qué es un autor?”, retomando una idea de Roland Barthes, formuló la pregunta “¿Qué importa quién habla?”. Para la sociedad cognoscitiva el autor se relativiza, perspectiva que marcaría la vuelta de la discusión en torno a la muerte del autor: “Podemos imaginar una cultura donde los discursos circularían y serían recibidos sin que la función-autor apareciera nunca” (Foucault 2010:42). Efectivamente, la función-autor de la obra y el texto es una construcción histórica, se realiza dentro de una estructura de pensamiento, cultura y comunidad que establece las posibilidades de gestación de enunciados, ideas y la episteme, su figura depende del contexto social y de la herencia académica recibida, “es una suma de textos” (Foucault 2002:39). En ese sentido, el autor no es exclusivamente el propietario individual del texto, sino que cobra vida cultural independiente, más allá de las reglas que este inicialmente le imponga.</p>
+         <p>Foucault anticipa el advenimiento de la sociedad globalizada. Mundo del libro y producción editorial que anuncia la muerte del autor del discurso y propicia un duro ataque al liberalismo clásico. En particular, en los siglos XVII-XVIII se definió históricamente la propiedad de la obra y los derechos del autor. En un marco del liberalismo político el autor tiene derecho a la propiedad inalienable. Desde entonces, el liberalismo absolutiza al autor liberal-moderno que se sitúa en los derechos y el ejercicio de poder cuando recibe la propiedad individual sobre su obra, excluyendo a los otros del acceso libre a esta. De esa forma, los conocimientos quedan encerrados en el círculo del autor, es arrebatado a la comunidad creativa y arrancado del espacio de los bienes comunes. Sin embargo, en la antigüedad y el medioevo los textos literarios, narraciones, cuentos, epopeyas, tragedias, comedias, eran generados, puestos en circulación, valorados sin que se planteara la cuestión de la función-autor. Los autores expresaban primordialmente una escuela y una doctrina, por ejemplo, Aristóteles y Platón, donde los textos eran adjudicados por su contenido de pensamiento y pertenecía a la misma corriente, aglutinaban el saber previo y episteme común, antes que al propio sujeto autor (Foucault 2010).</p>
+         <p>En ese sentido, no se proclama la muerte del autor como individuo, sino que plantea la confrontación de la función-autor de la escritura y la obra. Para el conocimiento interesa subrayar más la perspectiva del autor del discurso como depositario de un momento histórico, localidad y posición social, que permita diluir la condición del sujeto autor que recoge el universo privado y personal. El mundo globalizado anuncia el desarrollo de la función-autor y replantea el carácter de la producción, circulación y apropiación del conocimiento.</p>
+         <p>Dentro de ese marco, en América latina se generan dos posibilidades frente a las políticas de ciencia y tecnología. Una relacionada a la apropiación y privatización corporativa del autor del discurso y otra referida al acceso libre abierto de los bienes comunes del conocimiento. La primera permite una política del conocimiento basada en la muerte del autor, donde desaparece el sujeto para eclipsar la propiedad individual y permite generar la apropiación de las empresas editoras o instituciones, que coincide con el proceso del “segundo movimiento de cercamiento” de privatización y apropiación de conocimientos impulsado por la internacionalización de las corporaciones editoriales y la hegemonía neoliberal (Boyle. <ext-link ext-link-type="uri" xlink:href="http://www.biodiversidadla.org/Documentos/Las-ideas-cercadas-el-confinamiento-y-la-desaparicion-del-dominio-publico">Las ideas cercadas</ext-link>). En los centros de investigación manejados por las empresas multinacionales, las instituciones del Estado y los organismos internacionales, interesa destacar el autor colectivo, el sujeto individual pasa a un segundo plano. Los actuales modelos de gestión empresarial de investigación multidisciplinaria empujan a que ninguna especialidad sobresalga y menos algún estudioso, todos realizan funciones distintas. Lo central es el organismo que lidera el estudio. Situación que se expresa en el libro o documento que recoge los resultados de la investigación, donde la carátula visibiliza directamente la labor colectiva, que oscurece a los académicos participantes y lo importante es mostrar claramente la titularidad de la empresa o la institución. Los autores son marginales, cuando aparecen lo hacen en un apartado, casi nunca en la portada, generalmente en la parte inferior de una hoja al interior. Es un modelo empresarial de equipo agrupado, el autor es colectivo y representa la titularidad de los derechos de autor, únicamente desaparecen los derechos de autor individual. La institución o corporación es la propietaria indiscutible de las patentes y copyright a que diera lugar el conocimiento producido. Expresa el transito del derecho del individuo a los derechos de propiedad de la institución. Ahora son derechos del autor sin autor, la institución-empresa es titular del derecho de propiedad y no el individuo autor.</p>
+         <p>En la actualidad son los equipos creativos colectivos los que consumen la individualidad del autor. Se explica porque en el mundo posfordista del siglo XXI, fundado en el desarrollo de la automatización de los procesos productivos y la reorganización del trabajo en función de la inteligencia artificial, la relación capital-trabajo se transforma profundamente y la modernidad globalizada ya no necesita masivamente trabajo asalariado. Aunque el sistema moderno puede seguir reproduciéndose, lo hace recurriendo cada vez más a la precarización, flexibilidad laboral o desempleo estructural. El sistema-moderno no demanda individuos trabajadores, no necesita autores de obras y libros, solo el capital es el propietario.</p>
+         <p>En este modelo mercantilizado de empresas editoriales, corporaciones e instituciones académicas, pareciera que son superfluas las políticas gubernamentales de ciencia y tecnología en América Latina. La mayor política es la que no existe, se parte de la idea que el mercado es el mejor y único distribuidor de los recursos académicos de la sociedad. Para las empresas y organismos, el mercado editorial es el centro de la vida cognoscitiva, es el mecanismo que posibilita una sociedad académica perfecta, determinada por la “mano invisible” que lleva a la autorregulación y la armonía en la modernidad global del conocimiento.</p>
+         <p>La segunda posibilidad apunta al ocaso del sujeto de conocimiento. Se desarrolla mediante el acceso libre y abierto de los textos, sin que se plantee la cuestión del autor del discurso. Acceso para todos significa que está libre de los costos y exoneración de las restricciones de copyright y licencias, por lo general facilitado por su digitalización y circulación por internet en un mundo globalizado (Suber. Crear bienes comunes intelectuales mediante el acceso abierto). En gran parte, desarrollado por la emergencia de un pensamiento que se opone a la hegemonía del eurocentrismo, impulsado por los movimientos de la sociedad en internet, desde las múltiples redes asociativas de ciencia y tecnología que involucran una diversidad de núcleos de investigadores, páginas web de académicos y un sinnúmero de debates en el espacio virtual, donde “el ajuste a un centro, es reemplazado por una progresión sin centro” (Bunz 2007:18) y demarca un espacio múltiple que no tiene que pasar por el mercado editorial para acceder al conocimiento, hecho posible en un mundo donde el 95% de la información total se ha digitalizado y el 80% se encuentre disponible en Internet (Castells. El impacto de internet en la sociedad).</p>
+         <p>Se trata de comprender que los bienes comunes del conocimiento involucran formas del saber científico, erudito, indígena o académico. Definen un texto no solo por su pertenencia a un autor sino, principalmente, por una narrativa que debe su contenido a la cultura, sociedad y al público y, además, busca por otras vías contrarrestar los desafíos que plantea su privatización y apropiación por las grandes editoriales. Son conocimientos que se registran en determinadas revistas y libros de acceso libre y abierto, luego de una revisión de pares, se ponen a disposición del público del mundo. También en los archivos, fuentes o depósitos de las investigaciones de acceso libre y abierto, sin que recurra a una revisión de pares, donde se ponen al alcance del mundo académico (Suber. Crear bienes comunes intelectuales mediante el acceso abierto). Cabe puntualizar que el acceso abierto de los conocimientos puede asumir la forma de bienes comunes de libre acceso a todos, sin restricción alguna de público y, de otro lado, pueden ser bienes comunes asociativos difundidos y controlados por determinados grupos académicos y redes específicas (Levine. La acción colectiva, el compromiso cívico y el conocimiento como bien común). Los bienes comunes del conocimiento, al facilitar el acceso libre y abierto de sus contendidos a todas las poblaciones interesadas, pueden poner en jaque al sistema de propiedad y las reglas del mercado, pero nunca los derechos morales de los autores de las obras, pues su autoría e integridad se encuentran garantizadas.</p>
+         <p>Aunque los bienes comunes del conocimiento tienen una enorme potencialidad son altamente vulnerables, pueden ser privatizados mediante regulaciones que los vuelven artificialmente escasos y pueden ser apropiados por la extensión del copyright que impulsan las corporaciones y grandes editoriales y, por ello, demandan de recursos importantes para su manejo, requieren de comunidades, infraestructuras, regulaciones y un compromiso de la militancia comprometida. En esas condiciones, en América Latina el impulso de los bienes comunes del conocimiento tiene que coincidir con la sensibilidad de las políticas de ciencia y tecnología. Primero que incorporen los bienes comunes del conocimiento como preocupación central de las políticas de ciencia y tecnología. Segundo, las políticas de ciencia y tecnología necesitan contener iniciativas que permitan asegurar el acceso universal de la población en las redes de internet. Tercero, las políticas tienen que apostar por la soberanía tecnológica que garanticen centros de datos seguros, eficientes y accesibles a la población. Y cuarto, facilitar cierta sostenibilidad para apoyar los costos de gestión y protagonismo de la ciudadanía (Fossatti y Gemetto. <ext-link ext-link-type="uri" xlink:href="http://site.libre.coop/el-gobierno-de-los-bienes-comunes-digitales/">El gobierno de los bienes comunes digitales</ext-link>).</p>
+         <p>Indudablemente, los bienes comunes del conocimiento son procesos que conllevan el desarrollo originario de una cultura libre de la investigación, de distribución y reproducción sin restricciones para la comunidad académica. El conocimiento es una creación colectiva, por lo tanto, no puede restringirse su circulación y difusión, más bien exige el acceso libre y abierto para todos los interesados del mundo.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Notas finales</title>
+         <p>El ensayo sobre la epistemología de las políticas de ciencia y tecnología en América Latina hunde sus raíces en el eurocentrismo, en el patrón cognitivo moderno globalizado. El eurocentrismo bajo la hegemonía de los Estados Unidos se impone como la racionalidad de validez universal en la producción del conocimiento y se construye sobre la deslegitimación y desplazamiento de los otros conocimientos de los países periféricos.</p>
+         <p>Las políticas de ciencia y tecnología en América Latina patrocinan que los investigadores publiquen en journals y en idioma inglés, que se editan en un mercado dominado por grandes corporaciones editoriales de la metrópoli. En gran parte, la generación del conocimiento en nuestro continente busca seguir las orientaciones de los dispositivos de indexación WoS a partir del conjunto de categorías desarrolladas en los países centrales, con la voluntad de poder ser admitidos en los circuitos internacionales. Sistema cognitivo que atribuye a los países centrales la superioridad de los journals más reconocidos y deja de lado la producción de revistas de los países del Tercer Mundo.</p>
+         <p>En esta forma de producción de conocimiento global, las políticas de ciencia y tecnología de América Latina se fundamentan a partir de la preeminencia del pensamiento epistemológico cartesiano: de las dos culturas y el reduccionismo positivista. En efecto, las políticas de ciencia y tecnología en América Latina se estructuran en función del principio epistemológico de las dos culturas, que clasifican los saberes científicos en sectores diferenciados, entre la sobrevaloración de las ciencias-tecnologías y la minimización de las humanidades-ciencias sociales, perspectiva que permite orientar los desarrollos de las investigaciones. Asimismo, los journals favorecen la elaboración de los papers con una lógica reduccionista que fragmenta la realidad, niega la totalidad histórica-social, la secciona, simplifica y aísla en sus componentes. El mundo se explica a partir de las características y propiedades de cada una de las partes. Es común que los papers exijan abordar aspectos puntuales y temáticas muy precisas. Los papers posibilitan desarrollar un trabajo muy especializado y atomista de la realidad, pero no hay para más espacio en ellos.</p>
+         <p>El eurocentrismo instituye el carácter desigual del patrón de poder del pensamiento, en el cual un sector importante de la inteligencia de América Latina asume el paradigma hegemónico que define las relaciones de privilegio con los centros de producción del conocimiento metropolitanos. De esa forma, las políticas de ciencia y tecnología de América Latina delimitan un escenario, marcado por el dominio de las grandes corporaciones de investigación y universidades de los países centrales y, sobre todo, por la vigencia de la epistemología cartesiana, que presume estructuralmente una relación de dependencia intelectual. Situación eurocéntrica que lleva a niveles de apropiación de saberes nativos y de conocimientos teóricos de los países del Tercer Mundo.</p>
+         <p>Sin embargo, en América Latina las políticas de ciencia y tecnología impulsoras de bienes de conocimientos públicos en las instituciones académicas y las universidades se encuentran en un tiempo de transformación sustancial. Los bienes de conocimientos productos de las investigaciones y los debates intelectuales se hallan sumergidos en un doble proceso contradictorio, que transcurre desde un ángulo predominante de los bienes comunes del conocimiento apropiados individualmente, en forma privada y por las corporaciones editoriales, hasta la irrupción potencial de redes de bienes comunes del conocimiento de acceso libre, abierto y compartido para la producción y circulación de la investigación e información por todo el mundo.</p>
+         <p>En fin, los bienes del conocimiento se vinculan más con el desarrollo de una cultura humana de libertad e igualdad social. Referida al desarrollo de los investigadores, individual y colectivamente, de las libertades de copiar, distribuir, estudiar, modificar y mejorar los contenidos cognoscitivos. Asimismo, es la comprensión del conocimiento como bienes comunes para ser compartidos por todos, fuera del cálculo mercantil y del precio, en conflicto permanente con el solo beneficio del capital, para el bienestar igualitario de la sociedad.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Bunz, M.,  (2007).
+               <italic>La utopía de la copia. El pop como irritación</italic>
+               . : Interzona
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bunz</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>La utopía de la copia. El pop como irritación</source>
+               <publisher-name>Interzona</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Descartes, R.,  (1964).
+               <italic>Discurso del método</italic>
+               . : Sopena
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Descartes</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year>1964</year>
+               <source>Discurso del método</source>
+               <publisher-name>Sopena</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Foucault, M.,  (2010).
+               <italic>¿Qué es un autor?</italic>
+               . : Ediciones Literales
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Foucault</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>¿Qué es un autor?</source>
+               <publisher-name>Ediciones Literales</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Foucault, M.,  (2002).
+               <italic>La arqueología del saber</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Foucault</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>La arqueología del saber</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Quijano, A.(2000). "Colonialidad del poder y clasificación social".
+               <italic>Journal of World-Systems Research. 6</italic>
+               (2), 342-386. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://jwsr.pitt.edu/ojs/index.php/jwsr/article/download/228/240">http://jwsr.pitt.edu/ojs/index.php/jwsr/article/download/228/240</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Quijano</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Colonialidad del poder y clasificación social</article-title>
+               <source>Journal of World-Systems Research</source>
+               <volume>6</volume>
+               <issue>2</issue>
+               <fpage>342</fpage>
+               <lpage>386</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://jwsr.pitt.edu/ojs/index.php/jwsr/article/download/228/240">http://jwsr.pitt.edu/ojs/index.php/jwsr/article/download/228/240"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Sagasti, F., Málaga, L.,  (2017).
+               <italic>Un desafío persistente. Políticas de ciencia, tecnología e innovación en el Perú del siglo XXI</italic>
+               . : FCE- PUCP
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sagasti</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Málaga</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Un desafío persistente. Políticas de ciencia, tecnología e innovación en el Perú del siglo XXI</source>
+               <publisher-name>FCE- PUCP</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Wallerstein, I.,  (2005).
+               <italic>Las incertidumbres del saber</italic>
+               . : Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wallerstein</surname>
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source>Las incertidumbres del saber</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

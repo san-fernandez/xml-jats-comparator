@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.6" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000200221</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La teoría de las prácticas sociales: particularidades, posibilidades y límites</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Social practice theory: particularities, possibilities and limits</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ariztía</surname>
+						<given-names>Tomás</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<institution content-type="original">1Núcleo Milenio en Energía y Sociedad, Escuela de Sociología, Universidad Diego Portales, Santiago, Chile. ORCID: 0000-0001-5806-3328. Correo: tariztia@gmail.com </institution>
+					<institution content-type="normalized">Universidad Diego Portales</institution>
+					<institution content-type="orgdiv2">Núcleo Milenio en Energía y Sociedad</institution>
+					<institution content-type="orgdiv1">Escuela de Sociología</institution>
+					<institution content-type="orgname">Universidad Diego Portales</institution>
+					<addr-line>
+						<named-content content-type="city">Santiago</named-content>
+					</addr-line>
+					<country country="CL">Chile</country>
+					<email>tariztia@gmail.com</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<season>Apr-Sep</season>
+				<year>2017</year>
+			</pub-date>
+			<issue>59</issue>
+			<fpage>221</fpage>
+			<lpage>234</lpage>
+			<history>
+				<date date-type="received">
+					<day>10</day>
+					<month>03</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>04</day>
+					<month>04</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>Este artículo presenta una visión crítica de la Teoría de las Prácticas Sociales, etiqueta con la cual se agrupan aquellas teorías que definen las prácticas como el componente fundamental del mundo social. El artículo discute y presenta de modo sintético un conjunto de trabajos teóricos recientes asociados a esta teoría. Concretamente, se describe la Teoría de las Prácticas Sociales como un intento por evitar el tradicional dualismo de la teoría social en base al concepto de práctica, la cual (siguiendo el trabajo de Elizabeth Shove) es definida como el entrecruce de materialidades, sentido y conocimiento práctico. En este contexto, se discute críticamente la forma en que la Teoría de las Prácticas Sociales entiende las dinámicas de cambio social en relación a las trayectorias de las prácticas y sus componentes. El artículo ilustra las posibilidades y limitaciones de la Teoría de las Prácticas Sociales, presentando las aplicaciones de esta teoría en el ámbito de la sociología del medioambiente y el consumo sustentable.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>This article presents a critical review of Social Practices Theory, a label that group works that consider the practice as the fundamental component of the social world. The article discusses and presents in a synthetic way a set of recent theoretical works associated to this theory. Social Practices Theory is described as an attempt to avoid the traditional dualism of social theory based on the concept of practice which, following the work of Elizabeth Shove, is defined as the intersection of materialities, meaning and practical knowledge. The article discusses how Social Practices Theory accounts for the dynamics of social change by focusing on examining the trajectories of practices and their components. It illustrates the possibilities and limitations of this theory by describing how Social Practices Theory has been used in environmental sociology and sustainable consumption.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>social practice</kwd>
+				<kwd>theory</kwd>
+				<kwd>dualism</kwd>
+				<kwd>posthumanist</kwd>
+				<kwd>pragmatism</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>prácticas sociales</kwd>
+				<kwd>teoría</kwd>
+				<kwd>dualismo</kwd>
+				<kwd>posthumanista</kwd>
+				<kwd>pragmatismo</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="10"/>
+				<page-count count="14"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Este artículo presenta una visión panorámica de la Teoría de las Prácticas Sociales (TPS), etiqueta con el cual agrupamos aquellas teorías que las definen como el componente fundamental del mundo social. Las prácticas pueden ser definidas como “nexos de formas de decir y hacer que tienen cierta dispersión espacial y temporal” (<xref ref-type="bibr" rid="B6">Schatzki 1996</xref>:89), que están constituidas por diversos componentes, competencias prácticas, formas de sentido y recursos materiales. En sus distintas variantes, la TPS busca trascender las dicotomías que históricamente han poblado la teoría social -individuo/colectivo, estructura/agencia, social/material- desplazando su eje desde el énfasis en la agencia de “individuos” o “estructuras” hacia el análisis de la dinámica de las prácticas. Esta se entiende como una entidad que antecede analíticamente al individuo y la estructura: tanto la acción individual, como la capacidad de las instituciones de moldear el mundo social, serían el resultado del despliegue de las prácticas.</p>
+			<p>La TPS ha adquirido creciente relevancia en diversas áreas de la investigación social, tales como la sociología de las organizaciones, los estudios de ciencia tecnología y sociedad y la sociología económica y del consumo.</p>
+			<p>Considerando la amplitud y diversidad de su uso, nos centramos principalmente en revisar y discutir críticamente los alcances de este enfoque en el ámbito de la sociología del consumo y el medioambiente. Área en la cual, por lo demás, esta teoría ha cumplido un rol gravitante durante los últimos años, por cuanto ha permitido renovar el relativamente agotado stock de supuestos teóricos con el cual se piensan el consumo sustentable y la transición hacia estilos de vida sustentables. Sin embargo, la discusión de la TPS que hacemos se centra preferentemente en elementos generales que pueden ser aplicados en otros campos de investigación e incorpora también perspectivas desde otras áreas de investigación, en particular el área de los estudios de Ciencia Tecnología y Sociedad y la sociología del conocimiento y los expertos.</p>
+			<p>Considerando el impacto de la TPS en el mundo académico anglo parlante -el cual ha hecho incluso que algunos autores incluso hayan planteado la existencia de un reciente “giro teórico hacia las prácticas” (<xref ref-type="bibr" rid="B6">Schatzki et al. 2001</xref>)- la TPS ha tenido relativamente escaza difusión y acogida en la academia hispanohablante, debido en parte a la escasa traducción de este tipo de trabajos. Acá buscamos contribuir, en parte, a subsanar este déficit, además de entregar algunas herramientas críticas para evaluar la pertinencia de este tipo de teorías. Para esto, presentamos una visión panorámica de este enfoque discutiendo sus antecedentes teóricos y su arquitectura conceptual. A su vez, como forma de ilustrar las posibilidades, discutimos los usos y posibilidades de la TPS en el ámbito de la sociología del consumo y el medioambiente. Se complementa la presentación de los aspectos relevantes de la teoría con la presentación de ejemplos, muchos de los cuales provienen de los estudios del consumo y el medioambiente.</p>
+			<p>El artículo está organizado en cinco secciones. La sección siguiente discute algunos de los antecedentes teóricos y filosóficos de la TPS, los cuales pueden ser encontrados en la gran teoría sociológica de la segunda mitad del siglo XX, las sociologías más recientes de corte pragmatista y las filosofías de inspiración poshumanistas. La sección tercera presenta una definición general del concepto de práctica y sus componentes. Para efectos de facilitar la presentación del argumento, el artículo se centra preferentemente en la formulación desarrollada por Elizabeth Shove y Alan Warde (dos de sus principales referentes). No obstante, buscamos también complementar esta formulación con aspectos y visiones que vienen de otras tradiciones teóricas y temáticas, elaborando críticamente algunos de los argumentos planteados. La sección cuarta discute aspectos relativos a la naturaleza dinámica de las prácticas, en particular, la trayectoria de las prácticas, así como la relación entre distintas prácticas. Seguidamente, la sección 5, discute algunas de las aplicaciones de este enfoque en el ámbito de la sociología del consumo y el medioambiente. El artículo termina con una síntesis final de lo presentado, junto a la cual se discuten algunos aspectos críticos y limitaciones de este enfoque.</p>
+		</sec>
+		<sec>
+			<title>Origen y antecedentes de la teoría de las prácticas</title>
+			<p>Los antecedentes de la teoría de las prácticas sociales pueden ser encontrados en al menos tres grandes vertientes teóricas. Un primer referente lo constituye la gran teoría sociológica de la segunda mitad del siglo XX. En particular las teorías de Giddens y Bourdieu, quienes utilizan el concepto de práctica para dar cuenta de la actividad como un aspecto constitutivo del mundo social y como estrategia de solución a la tensión entre estructura y agencia. En el caso de Bourdieu, la práctica se desarrolla en directa relación con el concepto de <italic>habitus</italic> y busca dar cuenta de la relación entre los determinantes estructurales (la estructura de capitales) y la actividades y cuerpos de los actores que movilizan las disposiciones del <italic>habitus</italic> en la vida cotidiana. Por su parte, en la Teoría de la Estructuración, Giddens define las prácticas sociales y su dimensión recursiva como un aspecto constitutivo de la vida social sobre la cual se generan y operan las estructuras sociales. El autor enfatiza la relevancia del saber práctico que se expresa en la organización socio-temporal de prácticas y en su recursividad como el origen de estructuras estables. Tal como han planteado recientemente algunos autores, si bien el concepto de prácticas juega un papel central en los sistemas teóricos de ambos autores; tanto Bourdieu como Giddens circunscriben su uso a una teoría societal general en la cual las prácticas son solo un componente más entre otros elementos. Esto es particularmente visible en la teoría de Bourdieu, en la cual las prácticas se limitan principalmente a expresar corporalmente las inscripciones de la estructura a través del <italic>habitus</italic>. Contrariamente a estos autores, las versiones de la TPS que presentaremos acá hacen de las prácticas la principal y fundamental unidad de generación de lo social.</p>
+			<p>Un segundo referente teórico es la tradición de la etnometodología y la teoría social de orientación pragmatista, con las cuales comparte una comprensión de lo social centrada principalmente en atender a las situaciones empíricas a partir de las cuales lo social es producido. A su vez, comparte una atención por procesos y fenómenos de escala microsocial, cuyo foco está en la descripción minuciosa de situaciones y relaciones. Con la tradición de la etnometodología desarrollada por Harold Garfinkel comparte una comprensión del mundo social como “un resultado práctico”, que descansa en la producción y circulación de formas de conocimiento situado, las cuales no pueden ser reducidas a estructuras societales o marcos de significado general, sino que deben ser examinadas en su propia naturaleza. A su vez, y tal como veremos más adelante, la TPS también está en sintonía con un conjunto de enfoques teóricos recientes de orientación pragmática cuyo abordaje a lo social se centra en la descripción simétrica de distintas formas de ensamblaje, donde el mundo material juega un papel central.</p>
+			<p>Una tercera línea de filiación, visible sobre todo en los trabajos de TPS más cercanos a la filosofía asociados al trabajo de Theodore Shatzki, lo constituyen las filosofías postsubjetivistas, en particular el trabajo de Wittgenstein y la filosofía pragmatista. La teoría de las prácticas comparte con el filósofo del lenguaje una comprensión del sentido y el significado como algo situado en el ámbito de la praxis y no prexistentes a estados mentales subjetivos. A su vez, presenta la comprensión del mundo social como el resultado práctico de formas de actividad.</p>
+			<p>En suma, en relación a sus antecedentes, la TPS nace de la confluencia de un conjunto variopinto de tradiciones intelectuales las cuales comparten únicamente su distancia a aproximaciones tradicionales situadas en oposiciones binarias (sujeto/estructura, holismo/individualismo). Con una orientación pragmatista, en la cual lo social se piensa principalmente como un resultado, las TPS antepone la práctica como principal unidad de compresión y generación del mundo social. </p>
+		</sec>
+		<sec>
+			<title>¿Qué es una práctica?</title>
+			<p>En su definición más común se puede señalar como un nexo de formas de actividad que se despliegan en el tiempo y en el espacio y que son identificables como una unidad. Este nexo de actividades está compuesto por una serie de elementos los cuales se vinculan en la práctica. Grosso modo, toda práctica involucra al menos la existencia de elementos corporales (actividades del cuerpo), actividades mentales (involucran sentido y, entre otros aspectos, emociones, motivaciones, saberes prácticos y significados) y un conjunto de objetos y materialidades que participan de la ejecución de la práctica. Tal como plantea Reckwitz en una definición que ha sido utilizada extensamente: “La práctica es una forma rutinizada de conducta que está compuesta por distintos elementos interconectados: actividades del cuerpo, actividades mentales, objetos y uso, y otras formas de conocimiento que están en la base tales como significados, saberes prácticos, emociones y motivaciones (…) la práctica forma una unidad cuya existencia depende de la interconexión especifica entre estos distintos elementos” (2002:249).</p>
+			<p>Diversos autores han hecho distintos énfasis en términos de los elementos centrales que componen las prácticas. Aquellos más cercanos a la tradición filosófica -asociada al trabajo de Schatzky- ponen el énfasis en el conocimiento práctico y los saberes compartidos, por cuanto su uso de las prácticas se sitúa en relación a los debates de la filosofía de la mente. Por su parte, desarrollos más cercanos a la sociología y los estudios de ciencia y tecnología (asociados al trabajo de Elizabeth Shove, Karen Knorr-Cetina y Alan Warde, entre otros) han enfatizado el carácter socio material y convencional de las prácticas, en parte para hacer un contrapunto con otras formas de teorización sociológica, cuyo énfasis está en la agencia individual o en la operación de marcos normativos o institucionales, como principales explicaciones de lo social. Con todo, más allá de las diferencias, es posible observar en las definiciones existentes un énfasis en la multiplicidad de componentes que estructuran las prácticas, cuya característica es justamente la capacidad de anudar “en la actividad concreta” distintos elementos.</p>
+			<p>Para efectos de simplificar el análisis, presentaremos sucintamente los aspectos de este enfoque tomando como guía la formulación desarrollada por Shove, Pantzar y Watson en el libro <italic>The dynamics of social practice</italic> de 2012. En este libro, los autores proponen una conceptualización que ha ganado reciente notoriedad, en parte debido a que tiene la virtud de que busca simplificar y sistematizar los distintos elementos de las prácticas. Debido a estas características, esta formulación de la teoría ha sido crecientemente adoptada en el ámbito de la investigación empírica.</p>
+			<p>En base a la definición provista por Rekwitz y los trabajos de Shatzky, Shove <italic>et al.</italic> proponen entender las prácticas como formas de hacer y/o decir que surgen de la interrelación espacio temporal de tres elementos: <italic>competencias, sentido y materialidades</italic>.</p>
+			<p>El primer elemento, las <italic>competencias,</italic> dice relación al conjunto de saberes prácticos y habilidades (<italic>know how</italic>) que hacen posible la realización de una práctica. Esto implica no solo los saberes relativos a la ejecución de una práctica por parte de un actor (por ejemplo, manejar un automóvil o escribir en un computador), sino también a los saberes sobre los cuales es posible evaluar cuándo una práctica está bien realizada por otros. Como forma de saber práctico, las <italic>competencias</italic> están generalmente corporeizadas y son parte de un repertorio automático y muchas veces a-reflexivo. Para cierto tipo de prácticas, las <italic>competencias</italic> pueden estar formalizadas en reglas, procedimientos o manuales los cuales facilitan la posibilidad de las competencias de moverse en distintos momentos de ejecución o incluso de perpetuarse en el tiempo.</p>
+			<p>El segundo elemento constitutivo de toda práctica es el <italic>sentido</italic>. Hace referencia al conjunto amplio de aspectos teleo-afectivos, valoraciones y repertorios culturales sobre el cual se establece el significado y necesidad de una práctica para quienes las ejecutan. Esto comprende, entre otras cosas, los repertorios de valoración de las actividades (lo deseable, lo bueno), así como el conjunto de significados, creencias y emociones asociados a una práctica concreta. Tal como otros componentes, el <italic>sentido</italic> puede ser compartido por distintas prácticas. Por ejemplo, el hecho de que una práctica sea valorada como “saludable” es algo común a un número diverso de prácticas que cruzan un abanico amplio de actividades humanas. A su vez, el <italic>sentido</italic> también remite al hecho de que las prácticas están situadas en el marco de repertorios de valoración colectivos, los cuales aparecen como convenciones o estándares.</p>
+			<p>Finalmente, el tercer elemento que constituye las prácticas son las <italic>materialidades</italic>. Estas abarcan la totalidad de las herramientas, infraestructuras y recursos que participan de la realización de una práctica. Es importante notar que las materialidades son constitutivas de las prácticas y no un elemento externo: definen la posibilidad de existencia de la misma, así como sus transformaciones. Los distintos elementos materiales de las prácticas posibilitan formas específicas de ejecución, a la vez que hacen inviables otras. En este sentido, las materialidades tienen una importante agencia en términos de la organización de las prácticas. La existencia, por ejemplo, de cierto tipo de infraestructuras de provisión de agua potable o energía -como la red eléctrica- vuelve factible ciertas prácticas, a la vez que limita la posibilidad de otras (como podrían ser formas de autogeneración de energía). La capacidad prescriptiva del mundo material -y en particular de las tecnologías- ha sido bien descrita y consultada por los estudios de la ciencia y tecnología, en particular a través del análisis de las distintas formas de <italic>scripting</italic> (<xref ref-type="bibr" rid="B1">Akrich 1992</xref>) y las posibilidades (<italic>affordances</italic>) (<xref ref-type="bibr" rid="B2">De Laet y Mol 2000</xref>) y limitaciones que ofrecen diferentes objetos tecnológicos en términos de crear mundos posibles. En abierta vinculación con esta tradición de los estudios de Ciencia, Tecnología y Sociedad (y otras sociologías poshumanistas), la TPS le otorga una importante centralidad al mundo material en cuanto elemento constitutivo de lo social.</p>
+			<p>Como plantean Shove, Pantzar y Watson, las prácticas pueden ser definidas como una configuración especifica de los tres elementos descritos anteriormente, <italic>competencias</italic>, <italic>materialidades y sentido,</italic> las cuales se vinculan en la ejecución de un conjunto de actividades determinadas. Las prácticas existen cuando estos tres elementos coexisten activamente y lo dejan de hacer cuando alguno de estos elementos desaparece o cambia sustancialmente, imposibilitando la existencia de la práctica.</p>
+			<p>La definición anterior puede ser clarificada a partir de un ejemplo concreto: la práctica de “tomar una ducha”. Ducharse implica movilizar un conjunto de <italic>competencias</italic> -o saberes prácticos- relativos a cómo prender y apagar la ducha, gestionar el nivel de temperatura del agua, saber jabonarse y sacarse el jabón, secarse, entre otros elementos. A su vez, tomar una ducha se relaciona a una serie de <italic>convenciones y significados</italic> que establecen la práctica de tomar una ducha como una actividad valorable, por ejemplo, por cuanto está asociada al valor de la limpieza. Estas convenciones y significados tienen una evolución histórica: hace algunas décadas la ducha era considerada una actividad esporádica, de frecuencia semanal, mientras que hoy se ha estandarizado como práctica diaria en buena parte de la población urbana. Finalmente, la práctica de ducharse esta mediada por una serie de materialidades. La ducha no es posible sin el acceso a agua en el hogar. También depende de la existencia de artículos de limpieza personal, el baño y la ducha (como infraestructura). Estos objetos hacen posible ciertas formas específicas de uso, a la vez que dificultan usos para los que no fueron definidos. De esta forma, contribuyen a definir los contornos de la ejecución de la práctica.</p>
+			<p>Considerando las <italic>competencias, significados y materialidades</italic>, observamos que la práctica de tomar una ducha se constituye en la interrelación de estos tres elementos. Distintas configuraciones de estos pueden explicar una variación en la práctica de ducharse, pero la inexistencia de alguno de estos vuelve la práctica inexistente o imposible. A su vez, las prácticas nuevas aparecen cuando nuevos elementos se suman y las hacen posible.</p>
+			<p>Sobre la base de la definición anterior, se vuelve necesario establecer una distinción analítica adicional, la cual crucial para efectos de analizar la dinámica de las prácticas. Esta es la distinción elaborada por <xref ref-type="bibr" rid="B6">Schatzky (1996)</xref> entre una comprensión de las prácticas en cuanto <italic>performances</italic> y las prácticas en cuanto una <italic>entidad</italic> o unidad analítica.</p>
+			<p>Si consideramos las prácticas como <italic>performances</italic>, el foco de análisis está en la situación concreta de ejecución. Desde acá, se observa que las prácticas solo existen a través de su realización concreta -su <italic>performance</italic>- y, por tanto, son contingentes. Entender las prácticas como <italic>performances</italic> implica valorizar el mundo social como el resultado o efecto de las actividades concretas y, por tanto, resaltar la dimensión pragmática de esta teoría. Acercarnos a las prácticas desde la perspectiva de su ejecución concreta nos permite desarrollar, a su vez, un registro particular de preguntas relativas a su operación empírica. Siguiendo con el ejemplo de la ducha, algunas preguntas relevantes serian: ¿qué elementos constituyen la práctica de ducharse?, ¿cómo se articulan?, ¿cuáles son los elementos mínimos que la hacen posible en una situación dada?, ¿qué variaciones empíricas se observan relativas a la práctica de tomar una ducha?</p>
+			<p>Según Shatzky, una segunda forma de abordar las prácticas consiste en definirlas como <italic>entidades</italic>. Esto es, enfatizar la existencia de la práctica como una unidad que trasciende su realización puntual -su performance-, dado que involucra ciertas formas de recursividad y una trayectoria temporal anterior a cada ejecución. Desde esta segunda aproximación, en cada ejecución específica de una práctica, los ejecutores son más bien <italic>carriers</italic>, que actualizan la unidad. Considerar a las prácticas como <italic>entidad</italic> permite observar cómo las prácticas anteceden teóricamente tanto a los individuos como a las instituciones, dado que, en ambas, son quienes aparecen durante la ejecución de las prácticas<italic>.</italic> Desde esta segunda perspectiva, las preguntas que nacen son distintas a las anteriores: ¿cómo y cuándo se origina la práctica de tomar una ducha?, ¿cómo han cambiado los elementos que la configuran a lo largo del tiempo?</p>
+			<p>La distinción entre práctica como perfomance y práctica como entidad permite combinar distintas aproximaciones a la comprensión de las prácticas. Ambos acercamientos convergen, con todo, en priorizar el análisis de la dinámica interna de las actividades que producen el mundo social por sobre otros elementos. De esta manera, proponen una mirada distinta a la tradicional distinción entre conductas de los actores y/o los factores de contexto como principales aspectos que explican el cambio social.</p>
+			<p>De la definición y conceptos anteriormente descritos se desprenden al menos tres elementos relevantes a nivel teórico.</p>
+			<p>En primer lugar, dado que el énfasis está en los nexos de actividades que constituyen las prácticas, la TPS pone el foco en la dimensión emergente y situada de lo social y, en cuanto tal, es afín a otro tipo de teorías recientes de orientación pragmatista, cuyo interés ha estado en estudiar la producción o ensamblaje empírico de lo social. Las prácticas son, de hecho, un logro práctico que no preexiste al momento de su actualización. Mediante la interrelación de competencias, materialidad y sentido, las prácticas son <italic>enactadas</italic> cada vez que son realizadas (<xref ref-type="bibr" rid="B6">Schatzki 1996</xref>:90). El foco en el conocimiento práctico como un aspecto constitutivo de la práctica se encuentra, a su vez, en directa relación con la tradición de la etnometodología y su interés en el conocimiento situado, así como el interés reciente de aproximaciones pragmatistas por estudiar el mundo social como el resultado práctico (o efecto) de una actividad situada. De hecho, en un sentido “fuerte” la teoría de las prácticas propone una ontología social, en la cual las distintas formas sociales no son más que entramados de prácticas y sus componentes. Con esto, un principio de simetría radical similar a teorías como del actor red. Por todo esto, y como nos referiremos al final de este artículo, planteamientos de este tipo también iluminan algunos de los principales problemas de este enfoque: su relativa incapacidad para dar cuenta adecuadamente de la asimetrías y jerarquías de prácticas y, por tanto, del fenómeno del poder.</p>
+			<p>En segundo lugar, tal como discuten Warde y Southerthon, al definir la práctica como principal unidad de análisis, la TPS sitúa al centro de su interés el papel de las convenciones, las rutinas y la habitualidad en términos de la organización de lo social. Estos aspectos tradicionalmente han sido dejados de lado por otro tipo de aproximaciones, cuyo énfasis ha estado en remarcar la capacidad de otros factores explicativos como ejes ordenadores de lo social, tales como la agencia de los actores individuales o el papel normativo de marcos institucionales o estructurales, lo cual muchas veces implica sobre enfatizar el cambio por sobre la continuidad. Desde la TPS, se revaloriza la persistencia y continuidad de las prácticas que constituyen la vida cotidiana.</p>
+			<p>Finalmente, un tercer elemento teórico relevante consiste en la centralidad que esta teoría le otorga a lo material. Desde la TPS las materialidades no son el contexto o el espacio de representación de lo social, sino un aspecto central que explica la existencia de las prácticas que dan cuenta de lo social y que, por tanto, debe ser abordarlo como un aspecto crítico en el análisis de éstas. Esta mirada sitúa la TPS en continuidad con otros enfoques provenientes principalmente de los estudios de ciencia, tecnología y sociedad, los cuales también otorgan al mundo material un rol central en la producción de lo social.</p>
+		</sec>
+		<sec>
+			<title>La dinámica de las prácticas</title>
+			<p>Hasta el momento, nos hemos centrado en describir los principales componentes de las prácticas, tomando como principal referencia la formulación de <xref ref-type="bibr" rid="B8">Shove, Pantzar y Watson (2012)</xref>. Estos elementos por sí solos son insuficientes para explicar la naturaleza dinámica del mundo social y, en particular, los procesos de transformación y persistencia de las prácticas que lo constituye. En lo que sigue, presentamos dos dimensiones centrales relativas al carácter dinámico de las prácticas. En primer lugar, en términos temporales, discutimos las trayectorias y procesos de reclutamiento y defección de las prácticas. En segundo lugar, en relación a las dinámicas de coordinación, vemos distintas formas de relación entre prácticas. Como discutiremos, poner el foco en estas dinámicas permite pensar procesos de transformación y cambio social y socio-técnico de una forma relativamente distinta, con énfasis en las transformaciones internas de las prácticas y sus relaciones y no únicamente en factores externos.</p>
+			<sec>
+				<title>Trayectoria y reclutamiento</title>
+				<p>Las prácticas tienen una trayectoria identificable, la cual es trazable con independencia de las ejecuciones concretas de esta. La trayectoria tiene que ver con la historia de la práctica, en particular con la evolución de los elementos que la componen y las formas de reclutamiento y defección de quienes las ejecutan. Partiendo de lo anterior, Shove, Pantzar y Watson afirman que un aspecto central en el análisis de la dinámica de las prácticas dice relación con la circulación de los elementos que la componen.</p>
+				<p>Nuevas prácticas pueden surgir de la existencia de nuevos componentes o de la reconfiguración de componentes existentes. Por ejemplo, la práctica de andar en bicicleta se puede transformar o potenciar en relación al surgimiento de nuevos significados atribuidos a esta forma de transporte (ecología, vida sustentable). A su vez, las prácticas dejan de existir cuando algunos de los elementos que la componen ya no están conectados o dejan de existir o cuando aparecen elementos que posibilitan el desarrollo de prácticas alternativas. La desactualización de una tecnología o la incorporación de una nueva puede explicar la desaparición de una práctica. Lo mismo pasa con la desaparición de ciertas competencias específicas centrales en la ejecución de una práctica y que están asociadas a ciertas herramientas u objetos específicos. Un buen ejemplo de lo anterior proviene de un trabajo de campo realizado en la localidad de Hornopirén (Región de los Lagos, Chile) sobre nuevas formas de autogeneración energética en comunidades rurales. Durante esa investigación, tuve la oportunidad de conversar con familias beneficiadas con un sistema de autogeneración eléctrica con paneles fotovoltaicos. En este contexto, muchos entrevistados relataron cómo la llegada de la electricidad a través de paneles fotovoltaicos significó el desuso de formas alternativas de mantener alimentos frescos en base ahumado y secado. Con la llegada de los electrodomésticos se hizo más fácil congelar alimentos, que mantenerlos de otra forma. Los miembros de la comunidad comenzaron a olvidar el conocimiento práctico relativo a estas formas alternativas de mantención de alimentos, cuya existencia suponía un acervo de competencias específicas relativas al uso de cierto tipo de leña y el uso de cajas de ahumado, las cuales cayeron en desuso.</p>
+				<p>La evolución y trayectoria de las prácticas también se relaciona con los procesos de reclutamiento y defección por parte de quienes las ejecutan. Su éxito o desaparición depende también de la capacidad de no perder ejecutores. Tal como mencionan Shove, Pantzar y Watson: “Las prácticas -como entidades- se expanden, contraen y cambian en la medida en que adquieren y/o pierden cohortes de ejecutores que son fieles a ellas. Su capacidad para reclutar ejecutores depende en parte en la distribución de los elementos relevantes para la práctica” (2012:77).</p>
+				<p>En su artículo pionero sobre teoría de las prácticas y consumo, <xref ref-type="bibr" rid="B10">Warde (2005)</xref> detalla la existencia de distintas formas de reclutamiento y vinculación entre las prácticas y quienes las ejecutan. Por ejemplo, una práctica se puede ser ejecutada por personas novatas y expertas, ejecutores conservadores y otros que buscan innovar en la práctica. Puede tener ciertos ejecutores que son líderes y otros que responden más bien a seguidores o ejecutores con un nivel de involucramiento menor. Como menciona este autor, el análisis de este tipo es cercano a la literatura sociológica sobre minorías y subculturas y/o los trabajos sobre sociología de las profesiones y expertos, por cuanto permite distinguir analíticamente distintos niveles de vinculación en el marco de comunidades de practicantes, las cuales descansan en la existencia de ciertas “culturas” de ejecución compartidas (<xref ref-type="bibr" rid="B3">Knorr-Cetina 1999</xref>). Estos elementos han sido desarrollados con particular detalle en el análisis de las prácticas de producción de conocimiento científico y las prácticas de evaluación de conocimiento.</p>
+				<p>Un elemento adicional en relación a las dinámicas de reclutamiento y defección implica reconocer cómo distintos actores desarrollan y circulan conocimientos y horizontes de sentido que hacen una práctica necesaria y deseable, posibilitando su reproducción en el tiempo. De forma inversa, es posible también estudiar las dinámicas de defección de ciertas prácticas específicas. Un ejemplo de dinámicas de defección es la creciente desaparición de prácticas de cuidado relacionadas a formas familiares de gestión del consumo. En un artículo recientemente publicado, exploramos como las prácticas de cuidado de recursos económicos y materiales (tales como el cuidado de la comida, la ropa o el agua) son crecientemente menos ejecutadas por las familias, en parte como resultado del avance del retail.</p>
+			</sec>
+			<sec>
+				<title>El orden social y la relación entre prácticas</title>
+				<p>Si hay algo que tienen en común las distintas versiones de la TPS es que suponen una particular ontología del mundo social, la cual se entiende básicamente como un entramado de prácticas, las cuales se relacionan unas a otras de distintas formas. Junto con examinar las trayectorias y dinámicas de cambio de las prácticas, es clave también discutir algunos elementos relativos a la relación entre ellas.</p>
+				<p>Shove, Pantzar y Watson distinguen al menos dos formas comunes de relación entre prácticas centrales en la organización de la vida social. Por una parte, las prácticas pueden estar asociadas en términos de co-locación y co-existencia o por el hecho de compartir ciertos componentes, como por ejemplo una infraestructura u objeto que es central para su ejecución. Esta forma de agrupación, que los autores denominan “empaquetamientos” (bundles), se da principalmente en situaciones en que las prácticas comparten con otras un mismo espacio físico para su ejecución. Por ejemplo, muchas de las prácticas asociadas a la higiene personal se desarrollan en los baños de las casas y, por tanto, tienden a estar conectadas.</p>
+				<p>Por otra parte, las prácticas también pueden estar asociadas en términos de vínculos más estrechos de dependencia que Shove, Pantzar y Watson denominan “complejos de prácticas” (complexes). Hay prácticas que para ser realizadas requieren que otras prácticas sean ejecutadas previamente de forma exitosa. Atender a esta secuencia da cuenta de la centralidad, de la sincronicidad y coordinación temporal entre prácticas para la organización de la vida cotidiana. Por ejemplo, en muchas actividades laborales las tareas a realizar están compuestas por una serie de prácticas coordinadas, las cuales dependen unas de otras para que su resultado sea el adecuado o incluso para que la ejecución de una práctica sea posible. Mientras que, en algunos casos, las prácticas se sincronizan en relación a su ejecución exitosa, en otros, la dependencia tiene que ver con la existencia de convenciones o estándares comunes. Por tanto, la relación entre el aseo personal, el desayuno y el vestirse, si bien no implican formas de dependencia o sincronía, sí tienen una temporalidad relativamente estable, las cuales están asociadas al valor de la “limpieza” y su asociación con ciertas horas del día.</p>
+				<p>Se puede observar, también, la existencia de ensamblajes de prácticas cuya estabilidad parece aun mayor e, incluso, adquiere un carácter ontológicamente estable. Siguiendo los estudios de Ciencia y Tecnología, Shove, Pantzar y Watson utilizan el concepto de “objeto epistémico” (acuñado por Knorr Cetina) para describir cómo unos conjuntos de prácticas son ensamblados en términos de una relación particularmente estable. Tal como lo describen los autores, el concepto de higiene agrupa una serie de prácticas asociadas relativas al aseo, de forma tal que un grupo de prácticas son inseparables. Las existencias de estos objetos epistémicos dependen no solo de categorizaciones discursivas, sino de la existencia de elementos materiales, del sentido que las agrupan.</p>
+				<p>Es posible reconocer, por lo tanto, la existencia de relaciones de competencia entre prácticas que son similares en términos de sus trayectorias y/o elementos. Una forma transversal de competencia de las prácticas tiene que ver con el tiempo de ejecución y atención que requiere a quienes las ejecutan. En un sentido amplio, todas las prácticas compiten por tiempo de ejecución frente a otras. A su vez, las prácticas pueden competir por otros recursos, como es el caso de materiales o de recursos.</p>
+				<p>En conclusión, como se puede observar, ya sea a través del análisis de la trayectoria temporal de las prácticas y sus componentes, así como del análisis de las distintas formas de relación entre prácticas, es posible distinguir desde la TPS un horizonte de análisis cuyo principal foco está en la dinámica interna de las prácticas. Este horizonte explicativo es distinto -y permite complementar- otras formas de análisis de procesos de cambio social que tienden a enfatizar el papel de factores externos a las situaciones concretas, en el caso de posturas de corte institucional o más estructuralistas, u otras que se centran en las motivaciones y capacidades de los actores, en el caso de posturas más individualistas. La TPS evita esta dicotomía, al situar como punto de partida de su análisis la dinámica y trayectoria interna de una práctica y las relaciones con otras. Esto permite dar cuenta de los procesos de cambio social de una manera distinta, por cuanto la atención está en el entramado de prácticas que constituye el mundo social, sus relaciones y transformaciones en el tiempo.</p>
+				<p>A continuación, examinaremos la aplicación de esta teoría en un ámbito en el cual tiene rendimientos particularmente relevantes, los estudios del consumo y medioambiente.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>El consumo desde la teoría de las prácticas</title>
+			<p>Según <xref ref-type="bibr" rid="B10">Warde (2005)</xref>, la TPS propone una particular comprensión del consumo: esta no es una práctica, sino un momento de todas las prácticas. Toda práctica implica la utilización de distintos tipos de recursos materiales y, a su vez, las formas de uso de estos recursos dependen o son relativos a la dinámica de cada una de ellas. Esto implica que la apropiación de un bien siempre ocurre dentro de las prácticas y no en un horizonte individual o colectivo. Dado que adquirimos y utilizamos las cosas en el marco de la ejecución de prácticas, son estas las que explican el consumo. Dicho de otro modo, las prácticas requieren que el consumo se dé apropiadamente en términos de sus propios estándares y que los objetos sean utilizados o manipulados en relación a los saberes y dinámicas propios que se establecen. Por lo mismo, la forma en que los bienes son apropiados y utilizados tiene que ver con las convenciones de la práctica dentro de la cual están inscritos y no con las propiedades del sujeto o el contexto societal en el cual son ocupados.</p>
+			<p>Esta particular compresión del consumo sostiene importantes diferencias con las aproximaciones tradicionales a él desarrolladas desde la sociología y disciplinas afines. Por una parte, la TPS se propone como un contrapunto a los análisis sociológicos que se centran preferentemente en la dimensión expresiva y motivacional del consumo, un abordaje común de la sociología durante los años noventa y en el cual buena parte del énfasis analítico estaba en la capacidad del consumo de vehiculizar la construcción de identidades individuales y/o grupales. Dado que la TPS opta por comprender el consumo en relación con la dinámica de la ejecución de prácticas, permite visibilizar también la dimensión menos espectacular de este, aunque no menos relevante. En un artículo pionero en el tema, Warde y Shove plantean la necesidad de avanzar en una comprensión del consumo más amplia, que incorpore la dimensión rutinaria y convencional de la vida social, y renuncian a definiciones que exageran el énfasis identitario de él.</p>
+			<p>Entender el consumo como un “momento” de toda práctica implica también una importante diferencia con respecto a la comprensión que, de este, tienen disciplinas como la economía o la psicología, cuyo eje está en estudiarlo desde la perspectiva de la construcción de preferencias individuales y la forma en que estas se transforman en comportamientos y opciones de compra. Desde la TPS, el problema de este tipo de aproximaciones centradas en las motivaciones es que no son capaces de dar cuenta del gap entre el espacio de las preferencias y el ámbito de las prácticas concretas.</p>
+			<sec>
+				<title>TPS y los cambios en el consumo</title>
+				<p>Entender el consumo como un momento o aspecto en la ejecución de las prácticas permite explicar un número importante de transformaciones, las cuales de otra forma solo pueden ser explicadas parcialmente. Este potencial es justamente lo que está detrás del auge del uso de esta teoría en el ámbito de los estudios del consumo.</p>
+				<p>En primer lugar, la TPS permite pensar las transformaciones en el consumo en relación con las dinámicas internas de las prácticas, las trayectorias (nacimiento de prácticas nuevas, procesos de diferenciación y cambio o la capacidad de la práctica de reclutar más ejecutantes) así como la relación entre estas (<xref ref-type="bibr" rid="B10">Warde 2005</xref>).</p>
+				<p>El surgimiento de nuevas prácticas o sus procesos de transformación pueden significar nuevas formas de consumo o la desaparición de formas existentes. A su vez, la proliferación de prácticas nuevas puede explicar procesos de crecimiento del consumo de algún bien o recurso. De hecho, una de las estrategias comunes con la cual la industria del marketing potencia el consumo, es multiplicando la cantidad de recursos y bienes necesarios para la ejecución de una práctica. Un ejemplo lo entrega el fútbol, el cual durante los últimos 20 años ha visto crecer exponencialmente la cantidad de objetos y recursos que son requeridos para su correcta ejecución.</p>
+				<p>Warde distingue la existencia de formas de consumo complementario, en el cual ciertas prácticas requieren el uso de más de un bien en virtud de relaciones de <italic>co-existencia</italic>. Es el caso del uso de aparatos de música electrónica y su relación con la práctica de salir a correr. A su vez, es importante observar, también, cómo prácticas específicas requieren la existencia de otras formas de utilización de recursos asociados a las infraestructuras que los hacen posible. De la misma forma, se pueden explicar cambios en el consumo en relación a la coexistencia de un mayor número de prácticas y de mayores formas de interdependencia entre ellas. El consumo simultáneo implica que la gente se involucra en muchas prácticas al mismo tiempo, lo cual implica un crecimiento exponencial en los requerimientos de bienes y recursos.</p>
+				<p>Como plantea Warde, análisis como el anterior permiten reconocer un enfoque, desde la TPS, que permite explicar los cambios en las necesidades y preferencias de consumo, no tanto en términos de los deseos individuales, sino en términos de la proliferación de prácticas.</p>
+				<p>Una segunda forma de aproximarse al consumo desde las prácticas consiste en estudiar cómo cambios en distintos componentes de las prácticas tienen consecuencias en términos de sus patrones. En su trabajo sobre el cambio de las convenciones de limpieza, conveniencia y confort, Shove describe cómo la transformación de estas convenciones y sus efectos sobre las prácticas cotidianas han tenido efectos fundamentales en términos del crecimiento de patrones de consumo. Por ejemplo, la autora describe cómo el crecimiento de los niveles de confort durante el siglo XX, en términos de calefacción, ha tenido implicancias catastróficas en el aumento del consumo de energía y combustibles fósiles.</p>
+				<p>De la misma forma, cambios a nivel de las materialidades que constituyen las prácticas también pueden implicar cambios importantes en las dinámicas consumo. Un trabajo muy relevante en esta área tiene que ver con el papel que las distintas infraestructuras y sistemas de provisión de recursos juegan en definir y movilizar ciertos mínimos y máximos posibles de consumo, o cómo hacen posible la transición hacia formas de consumo sostenibles o pro ambientales.</p>
+			</sec>
+			<sec>
+				<title>La TPS y la sociología de la transición hacia formas sustentables del consumo</title>
+				<p>El potencial explicativo que ofrece la TPS, en términos de entender los patrones de consumo y utilización de recursos en relación a la dinámica de las prácticas, ha hecho que esta teoría haya sido crecientemente adoptada en el área de los estudios de consumo sustentable y transición hacia la sostenibilidad. De hecho, desde su formalización en el trabajo de Alan Warde y Elizabeth Shove, el uso de la teoría de las prácticas se ha expandido a diversas temáticas de consumo y medioambiente. Entre otros aspectos, hay autores que utilizan esta teoría para estudiar la relación entre producción y consumo local, la dinámica del uso de energía y agua, transiciones hacia la sostenibilidad y políticas públicas, o el análisis crítico del sobre consumo y su relación con las prácticas.</p>
+				<p>Este éxito ha tenido que ver, en parte, con la capacidad de la TPS para renovar el repertorio teórico disponible para pensar y diseñar acciones orientadas a la transición hacia formas de consumo sostenibles. Este interés remite al relativo agotamiento de aproximaciones tradicionales que han centrado su ámbito de interés y acción en la detección y modificación de “actitudes” y conductas. Replicando la distinción entre lo social y lo material que puebla la teoría social, este tipo de aproximaciones tienden a concentrarse en una dimensión subjetiva e intencional del consumo, minimizando la dimensión socio-material que estructura las prácticas y el uso de recursos en la vida cotidiana para una crítica a esta mirada. Al hacer de las prácticas su principal unidad de análisis, la TPS propone una aproximación distinta, que desarrolla formas de explicación (y de intervención) en el área del comportamiento proambiental, que van más allá de lo puramente actitudinal.</p>
+				<p>Algunos autores, vinculados principalmente al centro DEMAND de la Universidad de Lancaster, han buscado traducir recientemente algunos de estos elementos en planes de intervención a nivel de políticas públicas. Por ejemplo, en un reciente documento orientado a ejecutores de políticas públicas realizado por el <italic>Sustainable Practice Research Group</italic>, se proponen modalidades nuevas de intervención para el consumo sustentable desde el marco de la teoría de las prácticas, las cuales implican intervenir a nivel de la reconfiguración de prácticas, la sustitución de prácticas o el cambio de la relación entre ellas. En suma, los antecedentes anteriores, nos permiten observar cómo la TPS ha permitido potenciar una importante agenda de investigación en áreas de los estudios del consumo y el medioambiente (<xref ref-type="bibr" rid="B9">Spurling et. al. 2013</xref>).</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>Reflexiones finales: posibilidades y límites</title>
+			<p>En este artículo se ha realizado una presentación general de la TPS, la cual se ha complementado con una reflexión de carácter más específico en relación al uso de esta teoría en el ámbito de los Estudios del Consumo y Medioambiente, área en la cual ha tenido un particular uso. En esta última sección, a modo de conclusión, retomamos algunos elementos generales. Adicionalmente, discutimos algunas limitaciones de este marco conceptual.</p>
+			<p>Situando a las prácticas como la principal unidad de análisis, la TPS propone un marco explicativo de los procesos de cambio social que evita replicar dualismos tradicionales en la teoría social y las limitaciones propias a éstos. En este sentido, esta teoría se asimila a otras aproximaciones teóricas recientes en su esfuerzo por repensar formas de aproximaciones a lo social, de forma tal que se pueda trascender la tensión entre lo individual y lo colectivo (u otros dualismos equivalentes como agencia y estructura). Lo anterior se suma a una comprensión del mundo social de tipo poshumanista, en la cual lo material juega un papel central. Tal como lo hemos señalado, las prácticas tienen como uno de sus componentes principales las distintas formas de materialidad. Es importante notar que estos dos elementos no son exclusivos de esta teoría, sino que están también presentes en otras aproximaciones. Por lo mismo, el afán por trascender los dualismos y la revalorización de lo material hacen que la TPS mantenga una importante fluidez y conexión con los debates y aproximaciones propios de los estudios de ciencia, tecnología y sociedad.</p>
+			<p>La TPS ofrece un marco explicativo original para explicar los procesos de transformación y cambio social. Esto debido a que centra su atención en la dinámica de las prácticas, sus trayectorias, sus formas de vinculación, sus procesos de reclutamiento y defección y no en factores externos. En este artículo, hemos ejemplificado esta aproximación mostrando los aportes que la TPS hace a la comprensión de los procesos de expansión y transformación en el consumo y sus implicancias sobre el medioambiente.</p>
+			<p>Con todo, como enfoque teórico, la TPS tiene debilidades y limitaciones, algunas de las cuales nos gustaría demostrar como forma de finalizar este artículo. Su principal limitación tiene que ver con las dificultades de esta teoría para dar cuenta adecuadamente del fenómeno del poder. Si bien autores como Shove, Pantzar y Watson discuten abiertamente cómo ciertas prácticas se imponen por sobre otras, generando esquemas dominantes, en general esta teoría no discute abiertamente la existencia de asimetrías de relevancia entre prácticas o entre los componentes y los ejecutores de éstas. En este contexto, un desarrollo sumamente interesante tiene que ver con la reflexión acerca de las dinámicas de relación jerárquicas entre distintos tipos de prácticas. Con todo, es importante notar en línea con una larga reflexión en los estudios de ciencia y tecnología, que utilizar las prácticas como unidad de análisis permite a su vez visibilizar formas de poder que generalmente pasan desapercibidas, por cuanto están imbricadas en la vida cotidiana. En este contexto, y en línea con el trabajo de la teoría del actor red, un potencial crítico relevante de esta teoría radica en su capacidad de hacer visibles las formas en que sistemas socio técnicos establecen definiciones normativas, estructurando ciertas posibilidades sociales y limitando otras. Análisis de este tipo permiten exponer aspectos relativos a la <italic>ontología política</italic> (<xref ref-type="bibr" rid="B4">Mol 1999</xref>) que está en juego en la organización social de la normalidad.</p>
+			<p>La limitación anterior dice relación con otra de carácter más específico, cual es la relativa y escasa reflexión de la TPS para dar cuenta o describir entidades sociales de gran escala. Tal como ha sido criticado y comentado por algunos de sus propios exponentes, la TPS como teoría parece funcionar mejor a nivel de la escala de las prácticas cotidianas o a nivel de individuos y tiene mayores dificultades para explicar otro tipo de formaciones sociales de mayor escala. ¿Cómo pensar, desde la teoría de las prácticas, el funcionamiento del Estado, los mercados o el diseño de grandes infraestructuras o políticas públicas? Una respuesta general a este tipo de preguntas va en línea con el trabajo que hacen los estudios de ciencia, tecnología y sociedad, cuyo objetivo muchas veces consiste en examinar prácticas de expertos, entender este tipo de instituciones y organizaciones y sus procesos en relación a las prácticas que constituyen. Sin embargo, es importante constatar que una respuesta de este tipo deja sin resolver aún el problema de la asimetría y de la relación entre prácticas que tienen mayor relevancia e impacto en términos de organización del mundo social y otras prácticas -por ejemplo, las practicas asociadas a la vida cotidiana-, cuya ejecución parece ser menos determinante en afectar otros ámbitos de la vida social. A nuestro juicio, abordar estas limitaciones pasa por desarrollar, en parte, una reflexión adecuada en términos de cómo se producen y mantienen jerarquías y formas de asimetría entre las prácticas. Un camino relevante pasa quizás por vincular con mayor fuerza esta teoría a una reflexión sistemática sobre las formas de producción y estabilización de grandes ensamblajes sociotécnicos, así como sus posibles formas de desestabilización y rebalse.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Financiamiento</title>
+			<p>Este artículo ha contado con el financiamiento de la Iniciativa Científica Milenio del Ministerio de Economía de Chile.</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Akrich, M. 1992. The de-scription of technical objects, pp 205-224. In: W. Bijker; J. Law. <italic>Shaping technology/building society</italic>. Cambridge, Mass: MIT Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Akrich</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1992</year>
+					<chapter-title>The de-scription of technical objects, pp 205-224</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bijker</surname>
+							<given-names>W</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Law</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<source>Shaping technology/building society</source>
+					<publisher-loc>Cambridge, Mass</publisher-loc>
+					<publisher-name>MIT Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>De Laet, M; Mol, A. 2000. The Zimbabwe bush pump: mechanics of a fluid technology. <italic>Social studies of science</italic> 30(2): 225-263. doi: ext-link-type="uri" xlink:href="10.1177/030631200030002002">10.1177/030631200030002002
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Laet</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mol</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>The Zimbabwe bush pump: mechanics of a fluid technology</article-title>
+					<source>Social studies of science</source>
+					<volume>30</volume>
+					<issue>2</issue>
+					<fpage>225</fpage>
+					<lpage>263</lpage>
+					<pub-id pub-id-type="doi"> 10.1177/030631200030002002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Knorr-Cetina, K. 1999. <italic>Epistemic cultures. How the sciences make knowledge</italic>. Cambridge, Mass: Harvard University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Knorr-Cetina</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>Epistemic cultures. How the sciences make knowledge</source>
+					<publisher-loc>Cambridge, Mass</publisher-loc>
+					<publisher-name>Harvard University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Mol, A., 1999. Ontological politics. A word and some questions. <italic>The Sociological Review</italic> 47(1): 74-89. doi: ext-link-type="uri" xlink:href="10.1111/j.1467-954X.1999.tb03483.x">10.1111/j.1467-954X.1999.tb03483.x
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mol</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>Ontological politics. A word and some questions</article-title>
+					<source>The Sociological Review</source>
+					<volume>47</volume>
+					<issue>1</issue>
+					<fpage>74</fpage>
+					<lpage>89</lpage>
+					<pub-id pub-id-type="doi"> 10.1111/j.1467-954X.1999.tb03483.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Reckwitz, A. 2002. Toward a theory of social practices: a development in culturalist theorizing. <italic>European Journal of Social Theory</italic> 5(2): 243-263. doi: ext-link-type="uri" xlink:href="10.1177/13684310222225432">10.1177/13684310222225432
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Reckwitz</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<article-title>Toward a theory of social practices: a development in culturalist theorizing</article-title>
+					<source>European Journal of Social Theory</source>
+					<volume>5</volume>
+					<issue>2</issue>
+					<fpage>243</fpage>
+					<lpage>263</lpage>
+					<pub-id pub-id-type="doi"> 10.1177/13684310222225432</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Schatzki, T. 1996. <italic>Social practices: a wittgensteinian approach to human activity and the social</italic>. Cambridge, MA: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schatzki</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<source>Social practices: a wittgensteinian approach to human activity and the social</source>
+					<publisher-loc>Cambridge, MA</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Schatzki, T; Knorr-Cetina, K; Savigny, E. 2001. <italic>The practice turn in contemporary theory</italic>. London: Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schatzki</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Knorr-Cetina</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Savigny</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>The practice turn in contemporary theory</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Shove, E; Pantzar, M; Watson, M. 2012. <italic>The</italic> 
+ <italic>dynamics of social practice. Everyday life and how it changes</italic>. London: Sage.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shove</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pantzar</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Watson</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>The dynamics of social practice. Everyday life and how it changes</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Sage</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Spurling, N; McMeekin, A; Shove, E; Southerton, D; Welch, D. 2013. <italic>Interventions in practice: re-framing policy approaches to consumer behaviour</italic>. Manchester: Sustainable Practice Research Group. <ext-link ext-link-type="uri" xlink:href="http://www.sprg.ac.uk/uploads/sprg-report-sept-2013.pdf">http://www.sprg.ac.uk/uploads/sprg-report-sept-2013.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Spurling</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>McMeekin</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shove</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Southerton</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Welch</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>Interventions in practice: re-framing policy approaches to consumer behaviour</source>
+					<publisher-loc>Manchester</publisher-loc>
+					<publisher-name>Sustainable Practice Research Group</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="http://www.sprg.ac.uk/uploads/sprg-report-sept-2013.pdf">http://www.sprg.ac.uk/uploads/sprg-report-sept-2013.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Warde, A. 2005. Consumption and theories of practice. <italic>Journal of Consumer Culture</italic> 5(2): 131-153. doi: ext-link-type="uri" xlink:href="10.1177/1469540505053090">10.1177/1469540505053090
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Warde</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Consumption and theories of practice</article-title>
+					<source>Journal of Consumer Culture</source>
+					<volume>5</volume>
+					<issue>2</issue>
+					<fpage>131</fpage>
+					<lpage>153</lpage>
+					<pub-id pub-id-type="doi"> 10.1177/1469540505053090</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

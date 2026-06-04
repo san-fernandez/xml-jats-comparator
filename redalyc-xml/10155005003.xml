@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000300279</article-id>
+			<article-id pub-id-type="publisher-id">00003</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Positive affirmation of non-algorithmic information processing</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Maldonado</surname>
+						<given-names>Carlos Eduardo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">School of Medicine, El Bosque University (Bogotá, Colombia) ORCID: 0000-0002-9262-8879.</institution>
+					<institution content-type="normalized">Universidad El Bosque</institution>
+					<institution content-type="orgdiv1">School of Medicine</institution>
+					<institution content-type="orgname">El Bosque University</institution>
+					<addr-line>
+						<named-content content-type="city">Bogotá</named-content>
+					</addr-line>
+					<country country="CO">Colombia</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Correspondencia: email <email>maldonado.carloseduardo@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<month>12</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>60</issue>
+			<fpage>279</fpage>
+			<lpage>285</lpage>
+			<history>
+				<date date-type="received">
+					<day>05</day>
+					<month>05</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>25</day>
+					<month>08</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract:</title>
+				<p>One of the most compelling problems in science consists in understanding how living systems process information. After all, the way they process information defines their capacities to learning and adaptation. There is an increasing consensus in that living systems are not machines in any sense. Biological hypercomputation (BH) is the concept coined that expresses that living beings process information non-algorithmically. This paper aims at proving a positive understanding of “non-algorithmic” processes. Many arguments are brought that support the claim. This foster, it is argued, a brand-new understanding of information processing among living beings.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>biological hypercomputation</kwd>
+				<kwd>complexity science</kwd>
+				<kwd>non-algorithmic</kwd>
+				<kwd>life</kwd>
+				<kwd>information.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="1"/>
+				<equation-count count="0"/>
+				<ref-count count="5"/>
+				<page-count count="7"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>How do living systems process information? This problem has been stated as biological hypercomputation (BH) (<xref ref-type="bibr" rid="B1">Copeland 2004</xref>, <xref ref-type="bibr" rid="B3">Stannett 2006</xref>, <xref ref-type="bibr" rid="B5">Syropoulos 2008</xref>, <xref ref-type="bibr" rid="B4">Stepney 2009</xref>). A couple of very basic acknowledgements serve both as condition for BH and ground for it, thus:</p>
+			<p>i) Living systems are not machines, in any sense of the word</p>
+			<p>ii) Living systems do not process information as any kind of a TM (including Persistent Turing Machines, P-TM)</p>
+			<p>As a consequence</p>
+			<p>iii) Living systems process information non-algorithmically</p>
+			<p>This conclusion deserves a thorough explanation, in order, little by little, to express this idea in a positive way. This means:</p>
+			<p>Living systems process information non-algorithmically. But what does it properly, i.e. positively, non-algorithmically mean?</p>
+			<p>By contrast to the TM, and the strong Church-Turing Thesis (ChT-t) it means that living systems do not process information in terms of mathematical functions, rules, precepts, and the like. More exactly, they do not process information sequentially, linearly, or top-down.</p>
+			<p>Several approaches have been undertaken in order to better clarify that claim. Two conspicuous explanations concern emergent computation and interactive computation. We shall come back later to this. Being as it might be, it is my contention to solve the question in this paper.</p>
+			<p>Computationally speaking, nearly all current explanations and understandings about the information processing of the living can be synthetized in the following terms: </p>
+			<p>Petacapacity -------------------------------------Clusters--------------------------------------------e!</p>
+			<p>This equation reads: having a power of hundreds of petabytes, a cluster of processors gathered in hundreds and thousands as robust clusters, usually networked in parallel, work 24/7 connected to energy - working hence 24/7. A computational model needs to be literally plugged to work. This is expressed by: e!, meaning energy constantly plugged and feeding the processor (CPU). From a biological standpoint, this can easily be stated as if living beings were 24/7 conscious about their environment. Awareness, on one level, and consciousness, on another can be grasped as a state of being-plugged with the world and nature. Consciousness or awareness is here simply information processing (<xref ref-type="bibr" rid="B2">Dodig-Crnkovic 2016</xref>). Anything else follows from that processing -after all, literally, life and death. We shall call such 24/7-petacapacity-clusters-e! situation as <italic>plugged-state</italic>.</p>
+			<p>Thanks to such characteristics -petacapacity, clusters, e!-, gene sequencing is possible, the search for extraterrestrial bodies, among them black bodies, is carried out, and the spying of the Internet by the CIA, as reported recently, is worked out, among a number of other military and scientific endeavours.</p>
+			<p>The problem, though, is that no living being is “connected” (“plugged”) 24/7. For instance, animals sleep, play, and are surprised by the environment, react differently to different stimuli or events. That could very much be said about plants. Briefly said, living systems do mistakes, err, and happen to be -wrong. Many times, the outcome is that selection operates and fitness, i.e. adaptation is not possible, any longer. When an organism or a species do not process information rightly, the outcome is that it becomes endangered, and it might become endemic, and disappear eventually. Ontologically said, besides cognition and necessity, there is also chance and randomness. They cannot be discharged.</p>
+		</sec>
+		<sec>
+			<title>Biological hypercomputation, revisited</title>
+			<p>The very basic assumption in and for (BH) consists in reckoning that living beings are not machines, in any sense of the word. Even though they are physical entities, they cannot be reduced just to physics, and certainly not to classical physics. Let us say that, to-date, we still do not know completely what matter is, and most probably quantum theory (not just quantum physics. Therefore, the interplay between quantum physics, quantum chemistry, quantum biology, and the technologies based on quantum principles and behaviours, mainly) may shed better lights in the future to come. Here, it can be sufficient to say that living beings cannot be explained mechanistically, in any concern. Computationally speaking, certainly not a TM -no matter what (U-TM, O-TM, etc.).</p>
+			<p>The most complex phenomenon in the known universe is life, i.e. living beings as-we-know-it, so much so that the sciences of complexity can be easily stated as life sciences event though the contrary cannot equally be said, namely that the life sciences are sciences of complexity. The distinction is made in science between life-as-we-know-it, and life-as-it-could-be. The former refers to biology and the most basic characteristics of life is that it is humid, warm, and sticky, based on carbon with a DNA twisted to the right. The latter concerns artificial life, which is a research program aimed at understanding life, as such via the combination of software and hardware.</p>
+			<p>In sum, living beings process information non-classically. Even though living beings are partially classical they do not process information classically; i.e. like a machine -of any sort. Life is a phenomenon that cannot be compressed. Rather, it is understood and explained as it runs. The incompressibility of the information processing shows the process is open-ended, thus: relatively closed at the left, and open at the right, when seen as a “tape” that runs from left to right.</p>
+			<p>Living beings process information in a close intertwining with the environment -whether natural or cultural, for instance. The life of living beings happens as a permanent co-evolution between the environment and the organisms and species. The most suitable concept here is adaptive landscape, or also rugged adaptive landscape. Thus, the world or nature, are not passive or just conditional factors for the understanding of life, or for the very possibilities of the living beings. Nature and the living creatures are two different faces of one and the same token.</p>
+			<p>As a consequence, interactive computation can be safely said to be the gate that opens up the doors of/for (BH). This, however, is not to be taken necessarily as if interactive computation was already (BH). It properly means that the interactions among individuals, species, and with their environment constitute a condition sine qua non for the very way how living beings process information. In other words, living beings compute interacting, but the interaction cannot be taken in a reductionist way, for there are many other ways in which living systems process information.</p>
+			<p>Since life does not process information in terms of classical logical or mathematical functions, new mathematics and non-classical logics seem to be needed when understanding (BH). In mathematics, new developments are being undertaken, for instance in the direction of the harmonics, and automorphic functions. As for logics, some of the non-classical logics, in particular paraconsistent, epistemic and dynamic logics, seem to be very helpful when understanding life in terms different than formal classical functions.</p>
+			<p>Now, in computational terms the difference between software and hardware is irrelevant for the living beings. They are one and the same, hardware engineering and software engineering, form the cell level up to the ecosystems. No real distinction exists therein. From a biological point of view, epigenetics allows for an analogous claim.</p>
+			<p>Computing thereafter can safely be taken as metabolizing, i.e. transforming one thing into another. Now, the condition for metabolism is homeostasis. Consequently, computing rightly means for living beings making life possible, for a bad computation entails danger, error, and death. Processing information is to be grasped as (BH). Living beings process information (rightly), and live (well).</p>
+		</sec>
+		<sec>
+			<title>A Problem</title>
+			<p>Traditionally, the explanation of information processing in human beings is viewed as taking place in the brain, and more exactly in the neocortex. Processing information is a conscious -aware and/or self-aware action that engages the various lobes of the superior functions- ultimately the symbolic functions that are determinant for a human-like understanding of the world and nature.</p>
+			<p>Consequently, artificial life, robotics and computational science have focused on the upper part of the brain. The outcomes are well known, such as Deep Blue, developed by IBM. Poker, chess, and so are the battlefields that strive for the search of a superior or higher intelligence.</p>
+			<p>In any case, the analogy or metaphor between computation and the brain is already old and well known. The analogy however forgets that the human brain is after all truly a set of three brains within one, namely, the reptilian brain (reptilian complex), the mammalian brain (limbic system), and the human brain (neocortex).</p>
+			<p>The trouble consists in that whereas much progress has been done concerning the simulation and developments of the human brain (= neocortex), little or none progress has been made concerning the simulation of the mammalian and reptilian brains. Computers, i.e., robots can barely identify their own temperature, emotions and feelings, for instance.</p>
+			<p>Deep Blue is not a minor achievement, no matter what. Humans have begun to be defeated in many challenges and problems. The story will continue, and artificial intelligence has a wide-open future in front of it. Yet, the difficulty of computationally understanding the two basic ancient brains challenges a sound understanding of information processing in artificial systems, a paradigm that seeks to bring insights about the human brain. Any computational approach that is not able to incorporate the two lower levels is indeed partial and limited.</p>
+			<p>The truth is that human beings, for example, do not think without the body, and do not think without emotions, and body self-awareness, either, for example. The reptilian complex and the limbic system remain as big challenges for the interplay between artificial intelligence and artificial life.</p>
+			<p><italic>En passant</italic>: the ongoing program for terra-formation set to start for 2020 seems to forget that human beings are not possible without plants, as well as without animal, say, pets. Life is a large cooperative network that operates non-linearly, i.e., in unpredicted ways, many of them latent or tacit. Terra-formation without plants and animals is an endeavour destined to fail.</p>
+		</sec>
+		<sec>
+			<title>Positive characteristics of non-algorithmic information processing: random computation</title>
+			<p>Living systems do not <italic>continuously</italic> process information. In the case of human beings, psychology has already made it clear that most of time, human beings act as in automatic pilot. This means, they are not constantly and unceasingly reading and interpreting the world or the environment. Such is an over-intellectualized or over-rational statement -that corresponds to the Cartesian tradition.</p>
+			<p>Instead, living beings process information <italic>discretely</italic>. Living beings are discrete systems -which has enormous consequences from many points of view. Here, I cannot go into details about the consequences of such an argument, and it must remain apart for another text to come. Some of reasons that explain that an animal is not “conscious” all the time is that they play, err, make even mistakes, sleep, and the like.</p>
+			<p>Living beings process information as novelty and unpredictability happens, as the environment changes or another species or individual appears in her own surrounding, for instance. Straightforwardly said, living beings process information as it is needed, not before, not afterwards.</p>
+			<p>In other words, there is randomness. And randomness cannot be by any means predicted, and if “rationalized”, it cannot be controlled. On the contrary, it fosters new types of computation and information processing previously unknown, or rarely activated.</p>
+			<p>Living systems -say, plants, animals, human beings- do not process information all the time. They are not Taylorian or Fordist machines. They do compute very well, but not always “perfectly”. A Fordist or Taylorian machine is the one whose life-is-made-to-work, or also, it-is-life-made-thanks-to-work. And work demands of permanent conscious and aware attitudes. Shortly said, work demands that a living system be “plugged”, as mentioned above.</p>
+			<p>Living systems create information about the world but at the same time change the information about the world. Short-term and long-term memories act and interplay with each other. By both creating and changing the information processed the very world is created and changed, indeed. In other words, there is no reality before the processing of information, but neither afterwards. More radically, there is no reality outside the information processing. Table No. 1 provides a view of three different scenarios for properly understanding and solving (BH).</p>
+			<p>
+				<table-wrap id="t1">
+					<label>Table No. 1</label>
+					<caption>
+						<title>What biological hypercomputation is not, could be, and is</title>
+					</caption>
+					<table>
+						<colgroup>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="justify">Is Not</th>
+								<th align="justify">Could Be</th>
+								<th align="justify">Is</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="justify">Turing Machine</td>
+								<td align="justify">Emergent Computation</td>
+								<td align="justify">Random Computation</td>
+							</tr>
+							<tr>
+								<td align="justify">Classical Computation</td>
+								<td align="justify">Interactive Computation</td>
+								<td align="justify"> </td>
+							</tr>
+							<tr>
+								<td align="justify">Random Algorithms</td>
+								<td align="justify">Quantum Computation</td>
+								<td align="justify"> </td>
+							</tr>
+							<tr>
+								<td align="justify">Event Computing</td>
+								<td align="justify">Cognitive Info-Computation</td>
+								<td align="justify"> </td>
+							</tr>
+							<tr>
+								<td align="justify"> </td>
+								<td align="justify">Morphological Computation</td>
+								<td align="justify"> </td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>Source: Own Elaboration</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>
+				<xref ref-type="table" rid="t1">Table No. 1</xref> can be read as follows:</p>
+			<p>
+				<list list-type="simple">
+					<list-item>
+						<p><bold>Is not</bold> expresses the possibilities that are simply discharged. A Turing machine corresponds in computational terms to what in physics can be rightly grasped as classical systems and behaviours -which in terms of logic consists in the third excluded principle (=either a proposition is true or its negation is true).</p>
+					</list-item>
+					<list-item>
+						<p><bold>Could be</bold> the burden of the proof falls on the side of each probable computation that might positively affirm non-algorithmic information processing. One serious difficulty about the could-be candidates for solving (BH) is that they take for granted the <italic>plugged-state</italic>. Such a condition cannot go without saying - simply because it is not true, as mentioned already above.</p>
+					</list-item>
+					<list-item>
+						<p><bold>Is</bold>. This is the thesis of this paper. To grasp it better it is convenient to make something explicit, thus: </p>
+					</list-item>
+				</list>
+			</p>
+			<p>Living beings do not process information in just one way. They combine different types of computation: indeed, random algorithms, event computing, some types of TM such as U-TM, and interactive computation, among others. Any machine can process only one kind of computation in each event. That is not the case with living beings. Therefore, living beings are capable of learning, and thereafter, of adaptation. Learning means having the possibility to combine or mix different types of computation, if needed. The more suitable such a combination is carried out, the better the adaptation.</p>
+			<p>To be sure, good metabolizing allows for discrete, and not continuous information processing. Health, a non-reflective experience -or also a pre-predicative experience- is the outcome of good information processing. Sometimes, though, good information processing is a matter of chance, luck, too, as it happens.</p>
+			<p>Random computation is conceptually closely related to quantum indeterminacy, and hence, to quantum randomness. Therefore, quantum computation can be taken to be the best gate towards random computation, under the provision of the “plugged”-state. The right name then would be quantum random computation -something that operationally does not exist, yet. This means that living beings can/are to be quantum systems, a very radical conclusion. If true or tenable, the outcome is that the world is quantum, and the classical world is a limit.</p>
+			<p>Living beings process information randomly. We assist here to a strong distancing from the classical model of science based particularly on classical mechanics, on to biology taken as systems biology on to quantum science. Translated into the understanding of medicine, such a transition goes from the classical epidemiological model based on generalization and cultural overlapping on to transpersonal medicine; i.e. personalize medicine based on the lecture of the genome, and the steps that follow from it.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusions</title>
+			<p>This paper aims at saying that something else -and better- must be argued when claiming that living beings process information non-algorithmically. It goes without saying that non-algorithmic means non-linear, non-sequential, non-hierarchical, non-mechanical, for example, and that there is no canon about (information) processing, no matter what.</p>
+			<p>Can we think the “non” positively? This paper argues that it is possible. But to do that, we must reckon that living beings do not process information continuously, but discretely. Moreover, living beings are not in a <italic>plugged-state</italic>. When seen from the standpoint of human beings, the information processing does not only and mainly take place in the neo-cortex, but it involves also the reptilian complex and the limbic system. To-date the focus has been placed on the role of the neo-cortex. Good justifications for so doing can be readily been found in the literature. This paper argues that the information processing does involve the three brains at once, overlapped, if you wish. To-day we do not exactly know how they interplay for the processing of information. That is why biological hypercomputation consists in saying that living beings process information in or as random computation.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliography</title>
+			<ref id="B1">
+				<mixed-citation>Copeland, B. J. 2004. Hypercomputation: philosophical issues. <italic>Theoretical Computer Science</italic> 317(1-3): 251- <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.tcs.2003.12.014">https://doi.org/10.1016/j.tcs.2003.12.014</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Copeland</surname>
+							<given-names>B. J.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Hypercomputation: philosophical issues</article-title>
+					<source>Theoretical Computer Science</source>
+					<volume>317</volume>
+					<issue>1-3</issue>
+					<fpage>251</fpage>
+					<lpage>251</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.tcs.2003.12.014">https://doi.org/10.1016/j.tcs.2003.12.014</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Dodig-Crnkovic, G. 2016. Information, computation, cognition. Agency-based hierarchies of levels, pp. 139-159. In: V.C. Müller. <italic>Fundamental issues of artificial intelligence</italic>. Bern: Springer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dodig-Crnkovic</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<chapter-title>Information, computation, cognition. Agency-based hierarchies of levels</chapter-title>
+					<fpage>139</fpage>
+					<lpage>159</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Müller</surname>
+							<given-names>V.C.</given-names>
+						</name>
+					</person-group>
+					<source>Fundamental issues of artificial intelligence</source>
+					<publisher-loc>Bern</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Stannett, M. 2006. The case for hypercomputation. <italic>Applied Mathematics and Computation</italic> 178(1): 8-24. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.amc.2005.09.067">https://doi.org/10.1016/j.amc.2005.09.067</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stannett</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>The case for hypercomputation</article-title>
+					<source>Applied Mathematics and Computation</source>
+					<volume>178</volume>
+					<issue>1</issue>
+					<fpage>8</fpage>
+					<lpage>24</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.amc.2005.09.067">https://doi.org/10.1016/j.amc.2005.09.067</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Stepney, S. 2009. Non-classical hypercomputation. <italic>International Journal of Unconventional Computing</italic> 5(3-4): 267-276.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stepney</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Non-classical hypercomputation</article-title>
+					<source>International Journal of Unconventional Computing</source>
+					<volume>5</volume>
+					<issue>3-4</issue>
+					<fpage>267</fpage>
+					<lpage>276</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Syropoulos, A. 2008. <italic>Hypercomputation: computing beyond the Church-Turing barrier</italic>. New York: Springer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Syropoulos</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Hypercomputation: computing beyond the Church-Turing barrier</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

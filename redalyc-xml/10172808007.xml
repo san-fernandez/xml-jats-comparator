@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2022000200121</article-id>
+         <article-id pub-id-type="publisher-id">00007</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículo</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Las perspectivas del capital social, parte I</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The perspectives of social capital, part I</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0003-0279-0408</contrib-id>
+               <name>
+                  <surname>González-Heras</surname>
+                  <given-names>Alejandro</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+            <aff id="aff1">
+               <label>1</label>
+               <institution content-type="original"> Centre d'Estudis Sociològics sobre la Vida Quotidiana i el Treball (QUIT), Universitat Autònoma de Barcelona (Barcelona, Spain) (alejandro.gonzalez.heras@uab.cat)</institution>
+               <institution content-type="normalized">Universitat Autónoma de Barcelona</institution>
+               <institution content-type="orgdiv1">Centre d'Estudis Sociològics sobre la Vida Quotidiana i el Treball (QUIT)</institution>
+               <institution content-type="orgname">Universitat Autònoma de Barcelona</institution>
+               <addr-line>
+                  <named-content content-type="city">Barcelona</named-content>
+               </addr-line>
+               <country country="ES">Spain</country>
+               <email>alejandro.gonzalez.heras@uab.cat</email>
+            </aff>
+         <pub-date pub-type="epub">
+            <month>09</month>
+            <year>2022</year>
+         </pub-date>
+         <issue>74</issue>
+         <fpage>121</fpage>
+         <lpage>131</lpage>
+         <history>
+            <date date-type="received">
+               <day>06</day>
+               <month>04</month>
+               <year>2022</year>
+            </date>
+            <date date-type="accepted">
+               <day>22</day>
+               <month>07</month>
+               <year>2022</year>
+            </date>
+         </history>
+         <permissions>
+            <license xml:lang="es" license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by/4.0;/">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>Este artículo ofrece una revisión teórica de las perspectivas del capital social. Primero, se define el concepto de capital social, dando cuenta de las diferentes miradas de las que el capital social ha sido objeto. Después, se identifican las dos perspectivas fundamentales del capital social reconocidas en la literatura: la perspectiva individual, también llamada the network approach, que considera el capital un recurso individual; y la perspectiva comunitaria, que lanza a la fama la teoría del capital social y lo considera una característica de un colectivo. Por último, se analizan los puentes que las unen y los abismos que las separan. </p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>This article presents a theoretical review of the perspectives of social capital. First, the concept of social capital is defined, taking into consideration the different interpretations that social capital has been the object of. Then, the two fundamental perspectives of social capital recognized in the literature are identified: the individual perspective, also called the network approach, which considers social capital an individual resource; and the community perspective, which made the theory of social capital famous and considers it a characteristic of a group. Finally, the bridges that unite them and the abysses that separate them are analyzed. </p>
+         </trans-abstract>
+         <kwd-group xml:lang="en">
+            <title>Key words:</title>
+            <kwd>social networks</kwd>
+            <kwd>social capital</kwd>
+            <kwd>network approach</kwd>
+            <kwd>communitarian perspective</kwd>
+            <kwd>weak ties</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>redes sociales</kwd>
+            <kwd>capital social</kwd>
+            <kwd>perspectiva individual</kwd>
+            <kwd>perspectiva comunitaria</kwd>
+            <kwd>lazos débiles</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0"/>
+            <table-count count="1"/>
+            <equation-count count="0"/>
+            <ref-count count="18"/>
+            <page-count count="11"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>El concepto capital social es un constructo teórico de las ciencias sociales utilizado en disciplinas científicas muy diferentes. A finales del siglo pasado alcanzó una fama de tal magnitud que, hoy en día, podemos encontrar usos de este concepto en docenas y docenas de disciplinas científicas diferentes. Es un concepto que ha trascendido la teoría social o sociológica. De hecho, incluso ha habido esfuerzos teóricos dirigidos exclusivamente a estudiar la multitud de definiciones que han proliferado sobre el concepto (Adler y Kwon. Social Capital). No obstante, podemos decir que las diferentes definiciones que podamos encontrar tienen en común <italic>la importancia de las redes sociales </italic>(Putnam. <italic>Bowling alone</italic>, Lin. <italic>A network theory of social capital</italic>) y que se agrupan en torno a dos perspectivas fundamentales: la perspectiva comunitaria y la perspectiva individual.</p>
+         <p>Portes rastrea la noción del concepto a los clásicos de las ciencias sociales y analiza el uso del término en algunos autores contemporáneos. Destacan los trabajos de Pierre Bourdieu, que Portes pone en valor, pues considera que su análisis fue el que más refinamiento teórico tuvo de todos los que introdujeron el concepto en el discurso sociológico contemporáneo. Portes atribuye a Bourdieu “la exposición sistemática del concepto” (Portes 1998:3). Ahora bien, y según el mismo autor, el aporte teórico de Bourdieu fue publicado originalmente en francés, por lo que no tuvo mucho eco en el mundo anglosajón y sería el politólogo Robert Putnam quien popularizaría el concepto a finales de siglo. Según Portes, si se puso de moda a finales de siglo, es porque llama la atención lo atractivo del concepto y por el papel que juega en el desarrollo de las políticas públicas. </p>
+         <p>Podría decirse que es la perspectiva comunitaria la que saltó hacia una fama meteórica, una perspectiva que se apoya de alguna manera en los clásicos de las ciencias sociales, pero que se aleja de la teoría sociológica que daría pie a lo que hoy conocemos como perspectiva individual del capital social o <italic>the network approach</italic>. Ambas perspectivas dan cuenta de los tipos de relaciones sociales que los individuos tienen y de la utilidad e importancia que dichas relaciones tienen para el curso vital del individuo. Ambas reconocen diferentes tipos de relaciones, de entre los que destacan los conocidos tipos de capital social <italic>bonding, bridging</italic> y <italic>linking</italic>. </p>
+         <p>Este análisis epistemológico es importante y necesario. En primer lugar, hace ya años que Portes señaló que el concepto de capital social se había convertido en uno de los conceptos más populares exportados de la teoría sociológica al lenguaje cotidiano. Además, y según Fine (It ain’t social, it ain’t capital and it ain’t Africa), capital social es uno de los dos conceptos que dominaron las ciencias sociales en la década de los noventa (siendo el otro concepto <italic>globalización</italic>). Desde entonces, y si observamos el número de publicaciones registradas en <italic>Web of Science</italic> que contienen el término “capital social”, podemos apreciar un crecimiento en la literatura de la teoría del capital social que resulta casi <italic>exponencial</italic>. Portes criticaba, entre otras cuestiones, que el concepto pueda usarse cual panacea contra cualquier mal que enfrente la sociedad. Veinte años después, para bien o para mal, la variedad de temáticas y disciplinas que podemos encontrar asociadas al capital social dan cuenta de que este concepto se utiliza para enfrentar casi cualquier tipo de problemática (social y más allá de lo social). En línea con Portes y otros autores críticos, se corre el riesgo de que el concepto de capital social lo signifique todo y no signifique nada (destaca Ben Fine, uno de los mayores críticos de la teoría del capital social y su relación con la economía y el desarrollo de las políticas públicas). Además, todavía no puede decirse que haya una manera uniforme de entender el capital social (lo cual no es necesariamente problemático, pues podría argumentarse que hay dos grandes perspectivas), ni una manera uniforme de medir o evaluar el capital social de un determinado colectivo (lo cual <italic>sí es problemático</italic>, desde el punto de vista empírico). Shiell, Hawe y Kavanagh argumentan que aun después de veinte años de estudios sobre el capital social, todavía existen problemas relacionados con el diseño, la metodología y la conceptualización (Evidence suggests a need to rethink social capital and social capital interventions). </p>
+         <p>En segundo lugar, si bien es cierto que “el término [capital social] no representa una idea realmente novedosa para la sociología” (<xref ref-type="bibr" rid="B13">Portes 1998</xref>:2), sí que representa la oportunidad de formalizar una teoría rigurosa e interesante que explique cuestiones de importancia para las ciencias sociales, como, por ejemplo, la estratificación y la desigualdad (más trabajadas en perspectiva individual) o la cohesión social y la confianza (más trabajadas en perspectiva comunitaria). Por último, el uso continuado de diferentes conceptualizaciones y operativizaciones va en detrimento del concepto de capital social como un concepto científico y riguroso (Lin. <italic>A network theory of social capital</italic>). Se genera un contexto de confusión y ambigüedad metodológica en el que podemos encontrar estudios con definiciones incomparables. </p>
+         <p>Por ello, esperamos que el análisis que se hace en este artículo sirva para clarificar y <italic>ubicar</italic> los diferentes conceptos, discursos teóricos y estudios empíricos que podamos encontrar en la literatura. En otras palabras, esclarecer de qué hablamos cuando hablamos del capital social y sus tipos; o dicho a la inversa, entender de qué nos hablan cuando nos hablan de capital social y sus tipos. Aunque la literatura suele asociar las perspectivas del capital social con los niveles a los que se hace referencia, en este artículo se argumenta que dichas perspectivas no se diferencian en función del nivel (individual o colectivo), sino a nivel teórico-metodológico. De esta forma, las perspectivas representarían dos modelos o perspectivas teórico-metodológicas diferentes de la sociedad. En un artículo posterior (parte II), se realizará un análisis epistemológico de las formas de capital social más aceptadas en la literatura (bonding, bridging y linking), dando cuenta del origen de estos conceptos y de su relación con (i) la fuerza del lazo, (ii) la homofilia y heterofilia y (iii) el estatus o jerarquía de la relación.</p>
+      </sec>
+      <sec>
+         <title>Rastreando la teoría del capital social</title>
+         <p>Como señala Portes, y parafraseando a Foucault, la <italic>palabra</italic> podrá ser novedosa, pero la <italic>cosa</italic> no lo es en absoluto y se remonta a los orígenes de la disciplina sociológica. De hecho, Portes traza la noción de capital social hasta Coleman, Bourdieu y Loury, y lo rastrea aún más allá hasta Weber, Durkheim y Simmel. Por ejemplo, Carolina Ovares analiza “la influencia de la teorización sobre la confianza como fuerza socializadora en la sociología de Georg Simmel” (<xref ref-type="bibr" rid="B12">Ovares 2018</xref>:24), un elemento básico para lo que sería después la teoría del capital social. Por otra parte, Lin traza la noción de capital hasta Karl Marx, considerando también las teorías neo-capitalistas: capital humano y capital cultural (Lin. Social capital). No obstante, desde la popularización del término a finales del siglo pasado no se suele hacer referencia a los precursores clásicos. Con relación a los objetivos de este texto, destacaremos solamente la contribución de Mark Granovetter, a quien podríamos considerar el eslabón perdido que une la perspectiva individual y la comunitaria. </p>
+         <p>Granovetter, en su estudio <italic>Getting a job: a study of contacts and careers </italic>investigó el uso de contactos personales y el acceso al empleo. Granovetter en ese momento está siendo un pionero, reivindicando la inclusión de la perspectiva y análisis de redes para abordar fenómenos sociales, como pueda ser la búsqueda de un empleo o mejorar la situación laboral. Granovetter relata que, en su estudio, cuando preguntaba a los entrevistados si un amigo les había hablado sobre el puesto de trabajo que ahora ocupaban, lo normal era que respondieran “un amigo no, un conocido” (<xref ref-type="bibr" rid="B5">Granovetter 1973</xref>:1372). Ahí nace posiblemente la tesis más famosa de Granovetter, la tesis de la fuerza de los lazos débiles, que se basa en el concepto <italic>la fuerza del lazo</italic>, que define de manera intuitiva como: “Most intuitive notions of the ‘strength’ of an interpersonal tie should be satisfied by the following definition: the strength of a tie is a […] combination of the amount of time, the emotional intensity, the intimacy (mutual confiding), and the reciprocal services which characterize the tie” (Granovetter 1973:1361).</p>
+         <p>El concepto “fuerza del vínculo” obtuvo un éxito considerable en la literatura y tuvo varias revisiones a lo largo del tiempo (una propia de Granovetter en 1983 y dos de Marsden y Campbell en 1984 y 2012). Destaca la ambigüedad con la que el indicador es tratado desde un punto de vista operativo. Las revisiones realizadas dan cuenta de dicha ambigüedad y de la dificultad de la medición de este indicador (Cruz y Verd. La fuerza de los lazos). </p>
+         <p>En cualquier caso, la tesis de la fuerza de los lazos débiles de Granovetter se basa en la mayor utilidad que proporcionan los lazos débiles (por ejemplo, los conocidos) frente a los lazos fuertes (amigos, familia) a la hora de encontrar o mejorar un empleo, en la medida en que los lazos débiles pueden hacer de puente, permitiendo al individuo alcanzar informaciones u oportunidades fuera de su entorno más próximo, que de otra manera no hubiera podido alcanzar. A través de los lazos débiles, Granovetter da pie a la perspectiva individual del capital social, pues considera dichos lazos un recurso que los individuos pueden utilizar para un determinado fin (en su estudio, oportunidades de movilidad laboral), pero también da pie a la perspectiva comunitaria del capital social, pues habla de cohesión social: “From the individual’s point of view, then, weak ties are an important resource in making possible mobility opportunity. Seen from a more macroscopic vantage, weak ties play a role in effecting social cohesion” (Granovetter 1973:1373).</p>
+         <p>Estas dos perspectivas (individual y comunitaria) pueden entenderse <italic>a priori</italic> de modo complementario, la primera contemplando la dimensión individual y la segunda la dimensión agregada.</p>
+      </sec>
+      <sec>
+         <title>Capital social individual (the network approach)</title>
+         <p>También llamado <italic>individual based social capital, </italic>esencialmente considera que las redes de relaciones que forman los individuos, es decir, las redes sociales, permiten al individuo (llamado <italic>Ego</italic> en perspectiva de redes) acceder a los recursos sociales que hay <italic>encastrados</italic> en la red social (del inglés “embedded”). Considera, por tanto, el capital social como un recurso que el individuo puede acumular y movilizar. Entendiendo el capital social como un recurso, podemos considerar la definición clásica de Bourdieu como una de las fuentes en que se fundamenta esta concepción: “Social capital is the aggregate of the actual or potential resources which are linked to possession of a durable network of more or less institutionalized relationships of mutual acquaintance and recognition -or in other words, to membership in a group- which provides each of its members with the backing of the collectively-owned capital, a ‘credential’ which entitles them to credit, in the various senses of the word” (<xref ref-type="bibr" rid="B1">Bourdieu 1986</xref>:21).</p>
+         <p>Cabe destacar que la última parte, la que menciona <italic>credencial</italic> y <italic>crédito</italic>, no siempre es citada y estaría en relación con la reciprocidad de la relación social, la obligatoriedad, la confianza, que son elementos clave del capital social, e incluso quizá con la <italic>credibilidad</italic>. Por ejemplo, Flap y Völker dan varias referencias sobre investigaciones sociales en un régimen comunista que demuestran un “efecto perverso” de los lazos débiles. La gente tenía redes personales con pocos lazos débiles, dado que éstos “suponían una amenaza porque uno nunca podría estar seguro de si una tercera persona le espiaría para el partido [político]” (Flap y Völker 2004:6).</p>
+         <p>En esta perspectiva, podemos destacar especialmente los trabajos contemporáneos de Mark Granovetter y Nan Lin (Burt et. al. Social capital, social support and stratification). Como ya hemos mencionado, Granovetter desarrolla la tesis sobre la fuerza de los lazos débiles, que esencialmente se basa en que éstos son más útiles para los individuos (en determinadas circunstancias) que los lazos fuertes. Lin, por su parte, desarrolla la teoría de los recursos sociales en los años 80, definiendo los recursos como bienes materiales o simbólicos que pueden ser accedidos o movilizados en acciones sociales. Los recursos se clasifican en dos tipos: <italic>recursos personales</italic>, que pertenecen al individuo y <italic>recursos sociales</italic> que están “encastrados en la red social de Ego y sus lazos sociales” (<xref ref-type="bibr" rid="B7">Lin 2000</xref>:2790). </p>
+         <p>Con relación a nuestros objetivos, de entre las aportaciones de Lin, subrayamos la importancia para la perspectiva individual de la posición que ocupa Ego en la estructura social. Lin estudia las redes sociales y la adquisición o consecución del estatus (<italic>status attainment</italic>), que rastrea hasta Granovetter. Su teoría plantea dos proposiciones: (i) la posición social original que ocupa Ego está relacionada con el uso y movilización de recursos sociales. Es decir, mejores posiciones sociales originales (influida por trabajos anteriores o la posición socioeconómica de los padres) tienen más probabilidades de encontrar mejores recursos sociales. Y (ii), el uso de lazos débiles está positivamente relacionado con la probabilidad de encontrar mejores recursos sociales. Asimismo, Lin, Walter y Vaughn argumentan que “una persona puede adquirir una ventaja estructural al tratar con otra persona de un estatus superior” (<xref ref-type="bibr" rid="B10">Lin et al. 1981</xref>:393). Y, continúan, “además, ha sido demostrado que los lazos débiles tienden a dirigirse hacia individuos con un estatus relativamente más alto en la estructura social. Puede argumentarse que, si los lazos sociales tienen diferentes consecuencias instrumentales, entonces el estatus del contacto debería ser un buen indicador de la ventaja estructural del lazo” (Lin et al. 1981:394).</p>
+         <p>Quedan así sentadas las bases sobre las que se concebirá el capital social como un recurso que el individuo puede acumular y movilizar. Flap concibe el concepto de la siguiente forma: “Social capital basically refers to the importance of resources, which, although possessed by other persons, are available to a given individual through their social relations with these others” (<xref ref-type="bibr" rid="B3">Flap y Völker 2004</xref>:5). Van Der Gaag y Snijders, citando a Lin, añaden el siguiente matiz: “In the definition of social capital at the individual level, a distinction must be made between the mere access, and the actual use of social capital […]. One could either focus on access and make some kind of catalogue of people’s stock of potential access to resources held by their network members at a given moment; or focus on use and investigate what people have actually achieved with the help of their network members” (<xref ref-type="bibr" rid="B16">Van Der Gaag y Snijders 2004</xref>:156).</p>
+         <p>Como se puede apreciar, en la perspectiva individual se diferencia entre capital social accedido y movilizado. El primero consiste en el capital social acumulado que potencialmente se podría llegar a movilizar. El segundo consiste en el <italic>uso</italic> que se hace de los recursos sociales que hubiera disponibles en la red social para un fin concreto y en una circunstancia determinada. Para Lin, las dos perspectivas del capital social se relacionan con el nivel en el que se concibe el beneficio del capital social: individual o colectivo. En la perspectiva individual, “the focus is on the use of social capital by individuals -how individuals access and use resources embedded in social networks to gain returns in instrumental actions (e.g., finding better jobs) or to preserve gains in expressive actions. Thus, at this relational level, social capital can be seen as similar to human capital in that it is assumed that such investments can be made by the individual with an expected return (some benefit or profit) to the individual. Aggregation of individual returns also benefits the collective. Nonetheless, the focal points for analysis in this perspective are (1) how individuals invest in social relations and (2) how individuals capture the embedded resources in the relations to generate a return” (Lin 2001:21).</p>
+         <p>Por último, cabe señalar que si la posición que ocupa el individuo en la estructura social está relacionada con la calidad de los recursos sociales que puede movilizar (capital social), esta perspectiva da pie a estudiar las desigualdades sociales en la medida en que la posición estructural viene influenciada por las variables sociodemográficas clásicas (edad, sexo, etnia, clase, educación, etc.).</p>
+      </sec>
+      <sec>
+         <title>Capital social colectivo (community based social capital)</title>
+         <p>El capital social como característica de un colectivo, como bien público, se atribuye a Putnam: “Social capital, when understood as an entity inherent in a social group, is most often associated with the work of Robert Putnam, who defines social capital as ‘features of social life -networks, norms, and trust- that enable participants to act together more effectively to pursue shared objectives’” (<xref ref-type="bibr" rid="B17">Weber 2009</xref>:117).</p>
+         <p>La perspectiva comunitaria relaciona el capital social con los conceptos de cohesión social y confianza. Además, pone el foco de atención en el nivel de la colectividad “with discussions dwelling on (1) how certain groups develop and more or less maintain social capital as a collective asset and (2) how such a collective asset enhances group members’ life chances (...). While acknowledging the essentiality of individuals interacting and networking in developing payoffs of social capital, the central interest of this perspective is to explore the elements and processes in the production and maintenance of the collective asset” (<xref ref-type="bibr" rid="B8">Lin 2001</xref>:22).</p>
+         <p>Como se decía en el apartado anterior, Granovetter da pie a ambas perspectivas, pues también considera que los lazos débiles están relacionados con la cohesión social, identifica los lazos débiles como un recurso importante que los individuos tienen en el proceso de integración social en las comunidades e, incluso, menciona el sentido de comunidad. Más allá de Granovetter, Lin argumenta que la perspectiva de Putnam podría trazarse hasta la visión durkheimiana de las relaciones sociales. Además, Coleman se apoya en Lin y en Granovetter (entre otros) para hablar del uso que hacen los individuos de los recursos sociales y definirlo como capital social: “Lin, in a number of papers (…), has built on Granovetter’s work showing how persons use social resources in accomplishing their goals, particularly in occupational attainment. Lin has shown that persons act instrumentally, using their social ties (especially more extended, or weak ties) to gain occupational mobility beyond that predicted by their structural position (…). I will conceive of these social-structural resources as a capital asset for the individual, that is, as social capital” (<xref ref-type="bibr" rid="B2">Coleman 1990</xref>:302).</p>
+         <p>No obstante, Coleman define el capital social por su función y considera las obligaciones, reciprocidad, expectativas y normas sociales como elementos básicos del capital social. Según Putnam, “el sociólogo James S. Coleman puso el término [capital social] con firmeza y de manera definitiva en la agenda intelectual hacia el final de la década de los ochenta” (<xref ref-type="bibr" rid="B14">Putnam 2000</xref>:19). Cabe destacar que el artículo de Coleman (S<italic>ocial capital in the creation of human capital</italic>) es el artículo más citado de Web of Science que mencionan el término “capital social”. Pero tal vez sea atribuible a Putnam la fama meteórica a la que se lanzó la teoría del capital social con su perspectiva comunitaria e inspirado en Coleman: “Whereas physical capital refers to physical objects and human capital refers to properties of individuals, social capital refers to connections among individuals -social networks and the norms of reciprocity and trustworthiness that arise from them. In that sense social capital is closely related to what some have called <italic>civic virtue</italic>” (Putnam 2000:19). </p>
+         <p>Putnam cita los trabajos de Granovetter y Burt, y pudiera parecer que se apoya en ellos para dar cuenta de los lazos sociales como un recurso que los individuos pueden utilizar para la consecución de un objetivo. Tras citar dichos autores (entre otros), establece que el capital social “puede ser simultáneamente ‘un bien privado’ y ‘un bien público’” (Putnam 2000:17, comillas originales). Ahora bien, esto supone una distinción crítica entre ambas perspectivas, pues según Weber (Religio-philosophical roots), Putnam pasa de considerar el capital social como un recurso (ligado a un contexto, a una estructura social) a un atributo de un grupo social (un bien público). Además, Putnam concibe el capital social como <italic>la red social</italic>: “Social capital -that is, social networks and the associated norms of reciprocity” (Putnam 2000:21). Gittel y Vidal, siguiendo la estela de Putnam, reproducen la definición: “Social capital consists of networks and norms that enable participants to act together effectively to pursue shared objetives” (<xref ref-type="bibr" rid="B4">Gittel y Vidal 1998</xref>:18). Se podría decir que queda así establecida una sinonimia entre capital social y red social. </p>
+         <p>Szreter y Woolcock expresan esta diferencia clave entre ambas perspectivas con la siguiente analogía: “Network scholars take a somewhat orthogonal approach, arguing that social capital refers to the resources (e.g. information, social control) that flow through networks, not the network structure itself. In this sense, the ‘mainstream’ social capital literature, represented paradigmatically by the work of Putnam, regards social capital as the ‘wires’ (or social infrastructure) while network theorists regard it as the ‘electricity’ (or social resource)” (<xref ref-type="bibr" rid="B15">Szreter y Woolcock 2004</xref>:654).</p>
+         <p>Por un lado, se identifica el capital social como la red social en la perspectiva comunitaria. Mientras que, por otro lado, y según los anteriores autores, <italic>the network approach </italic>o la perspectiva individual se identifica con los recursos sociales. He aquí un matiz importante: en perspectiva reticular se puede argumentar que capital social y recursos sociales no son sinónimos. El capital social implica el acceso o movilización de recursos sociales y esto solo es posible a través de la red social. De manera que red social y capital social, se argumentaría en perspectiva reticular, no son términos sinónimos ni intercambiables.</p>
+      </sec>
+      <sec>
+         <title>Puntos de unión y de separación de las perspectivas del capital social</title>
+         <p>Cuando hablamos de <italic>la teoría del capital social </italic>y de <italic>las perspectivas del capital social</italic> se puede dar a entender que hay un único objeto (¿capital social?) y dos puntos de vista. Resulta interesante reflexionar sobre la siguiente cuestión: ¿Se trata de dos miradas sobre una misma cosa? ¿O se trata de dos modelos que representan fenómenos diferentes?</p>
+         <p>Empezamos el epígrafe de las perspectivas del capital social rastreando la teoría de los recursos sociales hasta llegar a Granovetter y sus contribuciones en perspectiva de redes (inspirado por la teoría de grafos), citado por representantes de ambas perspectivas del capital social. Se puede destacar que Granovetter, Coleman, Putnam y Lin reconocen la dualidad individuo-colectivo. En ese sentido, si hablamos de la importancia que tienen las redes sociales para el curso vital de las personas, podrían ser dos miradas sobre un mismo objeto. Según Putnam: “the core idea of social capital theory is that social networks have value” (Putnam 2000:18). Por otra parte, según Lin: “the general premiss that social capital is network based is acknowledged by all scholars who have contributed to the discussion” (<xref ref-type="bibr" rid="B9">Lin 2008</xref>:51). La importancia de las redes sociales es un punto de unión entre ambas perspectivas, aunque podría criticarse que es un punto ambiguo o demasiado genérico. Así, podría considerarse que la perspectiva individual y la colectiva corresponden a dos caras de una misma moneda, en función de si el foco de la mirada se sitúa sobre el individuo o sobre el colectivo. Estas consideraciones están en cierta medida aceptadas o extendidas en la literatura. O, dicho de otra forma, la literatura suele asociar <italic>las perspectivas </italic>con <italic>los niveles</italic> a los que se hace referencia.</p>
+         <p>No obstante, <italic>el quid de la cuestión</italic> radica en cómo se define el capital social, lo que nos llevará a argumentar a continuación en favor de la siguiente premisa: las perspectivas teórico-metodológicas del capital social son independientes del nivel (individual o colectivo). Si concebimos el capital social como <italic>los cables</italic> o como <italic>la electricidad</italic>, por seguir la citada analogía de Szreter y Woolcock, no estaríamos ante dos perspectivas de un mismo objeto, sino ante dos objetos diferentes. Es decir, no son dos caras de una misma moneda, sino dos modelos o dos perspectivas teórico-metodológicas independientes. </p>
+         <p>Lin, partidario y defensor del capital social entendido como el acceso y movilización de los recursos sociales encastrados en la red social, sostiene que “la divergencia entre perspectivas ha creado confusiones a nivel teórico y de medición” (Lin 2001:25). Y esquematiza la problemática de la perspectiva comunitaria de la siguiente manera (Lin 2001:26).</p>
+         <p>
+            <table-wrap id="t1">
+              <table frame="hsides" rules="groups">
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th align="left">Issue</th>
+                        <th align="left">Contention</th>
+                        <th align="left">Problem</th>
+                     </tr> 
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left">
+                           <italic>Collective</italic> or individual asset (Coleman, Putnam)</td>
+                        <td align="left">Social capital as a collective asset</td>
+                        <td align="left">Problem confounding with norms, trust</td>
+                     </tr> 
+                     <tr>
+                        <td align="left">
+                           <italic>Closure</italic> or open networks (Bourdieu, Coleman, Putnam)</td>
+                        <td align="left">Group should be closed or dense</td>
+                        <td align="left">Vision of class society and absence of mobility</td>
+                     </tr> 
+                     <tr>
+                        <td align="left">
+                           <italic>Functional</italic> (Coleman)</td>
+                        <td align="left">Social capital is indicated by its effect on particular actions</td>
+                        <td align="left">Tautology (the cause is determined by the effect)</td>
+                     </tr> 
+                     <tr>
+                        <td align="left">
+                           <italic>Measurement</italic> (Coleman)</td>
+                        <td align="left">Not quantifiable</td>
+                        <td align="left">Heuristic, not falsifiable</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </p>
+         <p>Parafraseando a Lin, la dificultad aparece en el momento en que el capital social se concibe como un bien público o colectivo junto con la confianza o las normas sociales. Según este autor, algunos términos se han vuelto reemplazables en la literatura, de manera que el capital social, separado de sus raíces (interacción social individual y perspectiva de redes), se convierte en otro término más de moda: “to employ or deploy in the broad context of improving or building social integration and solidarity” (Lin 2001:26). Argumenta que capital social no es sinónimo de redes sociales y que debe distinguirse, en tanto que recurso relacional, de otros recursos colectivos como las normas, la confianza y demás.</p>
+         <p>Ostrom y Ahn reconocen que “abundant, and often valid, criticisms of the concept have also levied against it” (<xref ref-type="bibr" rid="B11">Ostrom y Ahn 2009</xref>:18). Y consideran que las teorías sobre capital social (en perspectiva comunitaria) “will, and should, provide further analytical foundations for future social capital research” (Ostrom y Ahn 2009:19). No obstante, se insiste en definir el capital social como la red social, la confianza y las normas sociales, asociando el capital social como el remedio correcto para el desarrollo sostenible y la prosperidad económica: “Social capital is also conceptualized as an entity that is measurable with regard to different communities, countries or even cultural regions. <italic>Social capital is then understood as something ‘out there’ and a high level of which is said to induce economic prosperity</italic> and, by some accounts, to further the cause of the common good, so to speak, political prosperity” (<xref ref-type="bibr" rid="B17">Weber 2009</xref>:116, cursiva añadida). Continúa Jones y Woolcock: “Increasing evidence shows that <italic>social cohesion is critical for societies to prosper economically and for development to be sustainable</italic>. Social capital is not just the sum of the institutions which underpin a society; it is the glue that holds them together. Social capital is multidimensional in nature. Given that it is most frequently defined in terms of groups, networks, norms of reciprocity, cooperation and trust” (<xref ref-type="bibr" rid="B6">Jones y Woolcock 2009</xref>:397, cursiva añadida).</p>
+         <p>Lin no critica la perspectiva comunitaria <italic>per se</italic> sino sus fundamentos teórico-metodológicos. De hecho, desarrolla una propuesta para definir y estudiar el capital social de un colectivo, lo que formaría parte de la perspectiva comunitaria, pero lo hace “network based”. Es decir, sin renunciar al <italic>network approach</italic>, trasladando la lógica que utiliza a nivel individual de los recursos sociales encastrados en las redes sociales al nivel de la colectivividad. Este <italic>approach</italic> contrasta con el de la perspectiva comunitaria de Putnam, lo que sugiere que sean dos modelos diferentes sobre el capital social. Además, da cuenta de que la perspectiva individual puede aplicarse tanto a nivel micro (individuo) como macro (colectivo). Al aplicarse la perspectiva individual al nivel macro se pone de manifiesto lo que la diferencia de la perspectiva comunitaria, revelándose así que las presuntas “perspectivas del capital social, individual y comunitaria” no se diferencian en función del nivel micro o macro, sino a nivel teórico-metodológico. </p>
+         <p>Mientras que para Bourdieu el capital social representa un recurso de reproducción social de la clase dominante (teoría neo-capitalista), para Coleman y Putnam es un recurso colectivo y público, intrínsecamente relacionado con las normas y la confianza (teoría durkheimiana). Corresponden a dos modelos teóricos diferentes sobre la sociedad y, por tanto, irreconciliables desde un punto de vista teórico. Si desde el punto de vista empírico son reconciliables es en la medida en que se asocia la perspectiva individual (capital social como recurso) al nivel micro y la perspectiva comunitaria (capital social como característica) al nivel meso o macro. Como puede deducirse de la siguiente cita literal, incluso cuando se sitúa el foco del análisis en un mismo nivel (en la cita en nivel micro) las diferencias entre perspectivas persisten: “Even at the ‘micro’ level, quite serious differences of opinion endure, the most glaring being that between those (e.g. Portes) who regard social capital as the resources (e.g. information, trust) that flow through (‘inhere in’) one’s networks, versus those (such as Putnam) who hold that the nature and extent of the networks themselves constitutes one’s social capital” (<xref ref-type="bibr" rid="B18">Woolcock y Radin 2008</xref>:432).</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión</title>
+         <p>Este texto ha tratado de dar cuenta brevemente de varias cuestiones fundamentales para contextualizar los diferentes discursos que se pueden encontrar en la(s) teoría(s) del capital social. Primero, la teoría del capital social (en perspectiva comunitaria) no supone una teoría innovadora para las ciencias sociales. La innovación está en la implementación y uso de esta teoría (a modo de panacea, según crítica de algunos) en el desarrollo de las políticas públicas. Una teoría que se encuentra desvinculada de sus raíces. Segundo, la desvinculación que produce la interpretación de Putnam supone una reconceptualización del capital social, pasando de ser un recurso en Coleman a un bien público en Putnam. Tercero, en la medida en que podemos trazar una distinción clara entre la teoría de Bourdieu (teoría neo-capitalista y Marx) y la de Putnam (teoría durkheimiana), las perspectivas comunitaria e individual del capital social no son dos miradas diferentes sobre un mismo objeto (capital social). Son dos modelos o perspectivas teórico-metodológicas diferentes de la sociedad, dos modos distintos de aproximarse a la utilidad y sentido de la interacción social. Por lo tanto, podría hablarse de <italic>las teorías </italic>del capital social y no de <italic>la teoría</italic> del capital social. De hecho, ¿cuál es el objeto de estudio de ambas perspectivas? La perspectiva individual pone el énfasis en los recursos encastrados en la red social, que pueden ser acumulados y movilizados. La perspectiva comunitaria define el capital social como la red social, las normas sociales y la confianza.</p>
+         <p>A modo de discusión, podemos decir que hay varias posturas respecto a estas perspectivas. Esser (Relational capital and system capital) habla de dos significados del capital social, haciendo referencia a las dos perspectivas fundamentales que se han mostrado, y dando pie a hacernos llegar a la conclusión: si el capital social tiene dos significados, estas dos perspectivas responden a dos modelos independientes sobre la sociedad. Ahora bien, hay propuestas que van más allá de estas dos perspectivas. Por ejemplo, Membiela-Pollán y Pena-López (Clarifying the concept of social capital through its three perspectives) relacionan las perspectivas con los niveles. (i) En el nivel micro, la perspectiva del capital social como un recurso individual (Lin y Bourdieu); (ii) en el nivel meso, como “recurso comunitario” y que “facilita la acción colectiva” (Coleman, entre otros); y (iii), por último, en el nivel macro, concibiendo el capital social como un recurso macrosocial, vinculándolo con la cohesión social y la confianza “que favorecen el funcionamiento de la economía y la sociedad en general” (Putnam).</p>
+         <p>Nick Crossley et al. (Social network analysis for ego-nets) también consideran tres perspectivas basándose en: (i) el capital social como un acceso indirecto a ciertos recursos (Bourdieu y Lin); (ii) el capital social como cohesión social, siendo el capital social un recurso que posee la colectividad (trazando una línea que va desde Tönnies y Durkheim, por un lado, y de Coleman, por otro lado, hasta Putnam); y (iii) el capital social como <italic>brokerage</italic>, relacionando los agujeros estructurales de Burt y los lazos débiles de Granovetter con las oportunidades que éstos suponen para los individuos (acceso a información y recursos). </p>
+         <p>Si reconocemos que el capital social tiene fundamentalmente dos significados (recurso, por un lado, y red social, normas y confianza, por otro lado) o dos maneras de explicar la interacción social, entonces se puede argumentar que las llamadas perspectivas del capital social son independientes del nivel. Es decir, la perspectiva individual puede aplicarse a nivel micro, meso y macro (ahí podría situarse la propuesta de cómo estudiar el capital social “colectivo” de Lin). Y la perspectiva comunitaria también podría aplicarse a los diferentes niveles. Aunque lo habitual es encontrar la perspectiva individual asociada al nivel micro, pues tiende a estudiar la desigualdad y la estratificación social; y la perspectiva comunitaria asociada al nivel meso o macro, pues tiende a estudiar la cohesión social. Los niveles micro, meso y macro tendrían más que ver con la aproximación metodológica que con la perspectiva teórica.</p>
+         <p>También es significativo que en 2011 OECD (How’s life? Measuring well-being) la definición de “social connections” incluía elementos de ambas perspectivas, relacionando las relaciones sociales individuales con la confianza y las normas sociales. Cabe destacar que, unos diez años después, la OECD ya distingue el capital social, entendiéndolo en su vía comunitaria (normas y confianza) de “social connections” (que reduce a “the quantity and quality of time spent with others, and how much support people feel they have”) en la edición de 2020. Llama la atención que no considere dichas conexiones sociales como capital social, pero no es el único ejemplo en la literatura que estudia la utilidad de los lazos sociales (en perspectiva reticular) sin relacionarlos con la teoría del capital social.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Bibliografía</title>
+         <ref id="B1">
+            <mixed-citation>Bourdieu, P. (1986). The forms of capital, pp. 241-258. In: J.G. Richardson. <italic>Handbook of theory and research for the sociology of education</italic>. Greenwood Press. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>1986</year>
+               <chapter-title>The forms of capital</chapter-title>
+               <fpage>241</fpage>
+               <lpage>258</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Richardson</surname>
+                     <given-names>J.G.</given-names>
+                  </name>
+               </person-group>
+               <source>
+                  <italic>Handbook of theory and research for the sociology of education</italic>.</source>
+               <publisher-name>Greenwood Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>Coleman, J. (1990). <italic>Foundations of social theory</italic>. Harvard University Press. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Coleman</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>Foundations of social theory</source>
+               <publisher-name>Harvard University Press.</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>Flap, H. y Völker, B. (2004). <italic>Creation and returns of social capital. A new research program</italic>. Routledge. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Flap</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Völker</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Creation and returns of social capital. A new research program</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>Gitell, R. y Vidal, A. (1998). <italic>Community organizing: Building social capital as a development strategy</italic>. Sage. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gitell</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vidal</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>
+                  <italic>Community organizing: Building social capital as a development strategy</italic>.</source>
+               <publisher-name>Sage</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>Granovetter, M. (1973). The strength of weak ties. <italic>American Journal of Sociology</italic>, <italic>78</italic>(6), 1360-1380. https://doi.org/10.1086/225469</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Granovetter</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1973</year>
+               <article-title>The strength of weak ties</article-title>
+               <source>American Journal of Sociology</source>
+               <volume>78</volume>
+               <issue>6</issue>
+               <fpage>1360</fpage>
+               <lpage>1380</lpage>
+               <pub-id pub-id-type="doi">10.1086/225469</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>Jones, V.N. y Woolcock, M. (2009). Mixed methods assessment, pp. 379-401. In: G.T. Svendsen and G.L.H. Svendsen. <italic>Handbook of social capital: The Troika of sociology, political science and economics</italic>. Edward Elgar Publishing.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>V.N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Woolcock</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <chapter-title>Mixed methods assessment</chapter-title>
+               <fpage>379</fpage>
+               <lpage>401</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Svendsen</surname>
+                     <given-names>G.T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Svendsen</surname>
+                     <given-names>G.L.H.</given-names>
+                  </name>
+               </person-group>
+               <source>
+                  <italic>Handbook of social capital: The Troika of sociology, political science and economics</italic>.</source>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>Lin, N. (2000). Social resources theory, pp. 2790-2795. In: E.F. Borgatta y R.J.V. Montgomery. <italic>Encyclopedia of sociology</italic>. Macmillan. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <chapter-title>Social resources theory</chapter-title>
+               <fpage>2790</fpage>
+               <lpage>2795</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Borgatta</surname>
+                     <given-names>E.F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Montgomery</surname>
+                     <given-names>R.J.V.</given-names>
+                  </name>
+               </person-group>
+               <source>
+                  <italic>Encyclopedia of sociology</italic>.</source>
+               <publisher-name>Macmillan</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>______ (2001). <italic>Social capital: A theory of structure and action</italic>. Cambridge University Press. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>
+                  <italic>Social capital: A theory of structure and action</italic>.</source>
+               <publisher-name>Cambridge University Press.</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>______ (2008). A network theory of social capital, pp. 50-69. In: D. Castiglione et. al. <italic>The handbook of social capital</italic>. Oxford University Press. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <chapter-title>A network theory of social capital</chapter-title>
+               <fpage>50</fpage>
+               <lpage>69</lpage>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Castiglione</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Van-Deth</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolleb</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <source>The handbook of social capital</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>Lin, N., Walter, M. y Vaughn, J. (1981). Social resources and strength of ties: structural factors in occupational status attainment. <italic>American Sociological Review</italic>, <italic>46</italic>(4), 393-405. https://doi.org/10.2307/2095260</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Walter</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vaughn</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1981</year>
+               <article-title>Social resources and strength of ties: structural factors in occupational status attainment.</article-title>
+               <source>American Sociological Review</source>
+               <volume>46</volume>
+               <issue>4</issue>
+               <fpage>393</fpage>
+               <lpage>405</lpage>
+               <pub-id pub-id-type="doi">10.2307/2095260</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>Ostrom, E. y Ahn, T.K. (2009). The meaning of social capital and its link to collective action, pp. 17-35. In: G.T. Svendsen and G.L.H. Svendsen. <italic>Handbook of social capital: The Troika of sociology, political science and economics</italic>. Edward Elgar Publishing. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ostrom</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ahn</surname>
+                     <given-names>T.K.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <chapter-title>The meaning of social capital and its link to collective action</chapter-title>
+               <fpage>17</fpage>
+               <lpage>35</lpage>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Svendsen</surname>
+                     <given-names>G.T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Svendsen</surname>
+                     <given-names>G.L.H.</given-names>
+                  </name>
+               </person-group>
+               <source>
+                  <italic>Handbook of social capital: The Troika of sociology, political science and economics</italic>.</source>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>Ovares, C. (2018). La sociología de Georg Simmel y el ‘capital social’: La confianza como fuerza socializadora. <italic>Reflexiones</italic>, <italic>97</italic>(2), 22-23. https://doi.org/10.15517/rr.v97i2.31481</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ovares</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>La sociología de Georg Simmel y el ‘capital social’: La confianza como fuerza socializadora</article-title>
+               <source>Reflexiones</source>
+               <volume>97</volume>
+               <issue>2</issue>
+               <fpage>22</fpage>
+               <lpage>23</lpage>
+               <pub-id pub-id-type="doi">10.15517/rr.v97i2.31481</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>Portes, A. (1998). Social capital: its origins and applications in modern sociology. <italic>Annual Review of Sociology</italic>, <italic>24</italic>, 1-24. https://doi.org/10.1146/annurev.soc.24.1.1</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Portes</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <article-title>Social capital: its origins and applications in modern sociology</article-title>
+               <source>Annual Review of Sociology</source>
+               <issue>24</issue>
+               <fpage>1</fpage>
+               <lpage>24</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev.soc.24.1.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>Putnam, R. (2000). <italic>Bowling alone: The collapse and revival of American community</italic>. Simon &amp; Schuster. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Putnam</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <source>
+                  <italic>Bowling alone: The collapse and revival of American community</italic>.</source>
+               <publisher-name>Simon &amp; Schuster</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>Szreter, S. y Woolcock, M. (2004). Rejoinder: Crafting rigorous and relevant social theory for public health policy. <italic>International Journal of Epidemiology</italic>, <italic>33</italic>(4), 700-704. https://doi.org/10.1093/ije/dyh263</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Szreter</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Woolcock</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <article-title>Rejoinder: Crafting rigorous and relevant social theory for public health policy</article-title>
+               <source>International Journal of Epidemiology</source>
+               <volume>33</volume>
+               <issue>4</issue>
+               <fpage>700</fpage>
+               <lpage>704</lpage>
+               <pub-id pub-id-type="doi">10.1093/ije/dyh263</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>Van Der Gaag, M. y Snijders, T. (2004). Proposals for the measurement of individual social capital, pp. 154-169. In: H. Flap and B. Völker. <italic>Creation and returns of social capital. A new research program</italic> . Routledge. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Der Gaag</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Snijders</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <chapter-title>Proposals for the measurement of individual social capital</chapter-title>
+               <fpage>154</fpage>
+               <lpage>169</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Flap</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Völker</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <source>Creation and returns of social capital. A new research program</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>Weber, R. (2009). Religio-philosophical roots, pp. 107-126. In: G.T. Svendsen and G.L.H. Svendsen. <italic>Handbook of social capital: The Troika of sociology, political science and economics</italic>. Edward Elgar Publishing. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weber</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <chapter-title>Religio-philosophical roots</chapter-title>
+               <fpage>107</fpage>
+               <lpage>126</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Svendsen</surname>
+                     <given-names>G.T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Svendsen</surname>
+                     <given-names>G.L.H.</given-names>
+                  </name>
+               </person-group>
+               <source>
+                  <italic>Handbook of social capital: The Troika of sociology, political science and economics</italic>.</source>
+               <publisher-name>Edward Elgar Publishing.</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>Woolcock, M. y Radin, E. (2008). A relational approach to the theory and practices of economic development, pp. 411-438. In: D. Castiglione; J. Van-Deth and G. Wolleb. <italic>The handbook of social capital</italic> . Oxford University Press.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Woolcock</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Radin</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <chapter-title>A relational approach to the theory and practices of economic development</chapter-title>
+               <fpage>411</fpage>
+               <lpage>438</lpage>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Castiglione</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Van-Deth</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolleb</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <source>The handbook of social capital</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

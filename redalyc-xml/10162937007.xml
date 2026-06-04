@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00007</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000100075</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>La construcción del objeto de estudio. Lecciones epistemológicas a partir de la obra de Pierre Bourdieu</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The construction of the object of study. Epistemological lessons from the works of Pierre Bourdieu</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2440-5494</contrib-id>
+               <name>
+                  <surname>Cerón-Martínez</surname>
+                  <given-names>Armando Ulises</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <institution content-type="original">Universidad Autónoma del Estado de Hidalgo. México</institution>
+            <institution content-type="normalized">Universidad Autónoma del Estado de Hidalgo</institution>
+            <institution content-type="orgname">Universidad Autónoma del Estado de Hidalgo</institution>
+            <country country="MX">México</country>
+            <email>aceron@uaeh.edu.mx</email>
+         </aff>
+         <pub-date pub-type="epub-ppub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>67</issue>
+         <fpage>75</fpage>
+         <lpage>84</lpage>
+         <history>
+            <date date-type="received">
+               <day>23</day>
+               <month>12</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>02</day>
+               <month>03</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>Pierre Bourdieu es uno de esos autores que siempre es posible “redescubrir” dependiendo de los intereses científicos que el lector tenga, y eso por la maestría con la que practicó la ciencia de forma crítica. Para él la epistemología, más que una metaciencia discursiva, es una práctica (consciente o no) para todo sociólogo que ejerce el oficio de la investigación científica, y su mismo legado científico lo evidencia. De ahí que su “sociología reflexiva” no sea sino una epistemología práctica que permite a la vez la más variada construcción de objetos científicos con el apoyo de un capital teórico amasado a través de toda su trayectoria intelectual en la fórmula [(habitus) (capital)] + campo = práctica cuyos conceptos abordados de forma abierta lo permiten. Así como se pueden aprender lecciones teóricas y metodológicas, este artículo presenta dos lecciones directas de la obra del sociólogo francés, una epistemológica y otra sobre la construcción del objeto de estudio, y una indirecta en las conclusiones sobre las ventajas de estar ante una propuesta abierta e inacabada como la de Pierre Bourdieu para la investigación científica.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Pierre Bourdieu is one of those authors that it is always possible to “rediscover” depending on the scientific interests that the reader has, and that because of the mastery with which he practiced science critically. For him, epistemology, more than a discursive meta-science, is a practice (conscious or not) for every sociologist who exerts the office of scientific research, and his very scientific legacy evidences it. Hence, his “reflexive sociology” is nothing more than a practical epistemology that allows at the same time the most varied construction of scientific objects with the support of a theoretical capital amassed throughout his intellectual career in the formula [(habitus) (capital )] + field = practice whose openly addressed concepts allow it. Just as it can be learned theoretical and methodological lessons, this article presents two direct lessons from the work of the French sociologist, one epistemological and another about the construction of the object of study, and an indirect one in the conclusions about the advantages of being faced with an open and unfinished proposal like Pierre Bourdieu's for scientific research.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave</title>
+            <kwd>epistemología</kwd>
+            <kwd>objeto de estudio</kwd>
+            <kwd>sociología</kwd>
+            <kwd>reflexividad</kwd>
+            <kwd>práctica</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>epistemology</kwd>
+            <kwd>object of study</kwd>
+            <kwd>sociology</kwd>
+            <kwd>reflexivity</kwd>
+            <kwd>practice</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="17" />
+            <page-count count="10" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>La sociología como oficio</title>
+         <p>Aunque iniciada en 1966, en 1973 Bourdieu y su equipo de investigación escribieron El oficio de sociólogo, obra pensada con el objetivo específico de contribuir al desarrollo de disposiciones investigativas, tratando de romper los esquemas escolares que provenían de los manuales de metodología de investigación que siempre pretenden saber todo acerca de los procesos investigativos, pero que nunca logran formar una conciencia reflexiva de cómo y por qué se llevan a cabo todos ellos por presentarse como un recetario del “hágalo usted mismo” por su carácter operativo, procedimental y acrítico, propio del positivismo más laxo, que para Habermas es la negación de la reflexión.</p>
+         <p>Y si bien no se pudo cumplir ese propósito de contribuir a una pedagogía de la investigación en toda la plenitud del término, a la distancia de veinte años después de publicada la obra consideró que ella presentaba “un discurso didáctico, por consiguiente, un poco ridículo: repite sin cesar que hay que construir pero sin jamás mostrar prácticamente cómo se construye” (Bourdieu 2002:58) y también corrió con la (mala) suerte de ser tomada como un manual más de metodología. No obstante este desvío, siempre es posible rescatar lecciones epistemológicas y conceptuales sobre la construcción del objeto de investigación a partir de la fórmula [(habitus) (capital)] + campo = práctica, en la que se sintetizan dos formas de pensamiento en las ciencias sociales, el objetivismo y el subjetivismo, consideradas como antagónicas y excluyentes en el oficio cotidiano del sociólogo y que él miró siempre como complementarias.</p>
+         <p>Una de las primeras cosas a aprender es sobre el oficio de sociólogo mismo en tanto que práctica científica. ¿Pensaban Bourdieu y su equipo de forma exclusiva en los sociólogos formados en la disciplina sociológica, excluyendo y minimizando a todas las demás formaciones científicas? Por el título de la obra podría pensarse que sí, pero nada más lejos de eso. Para la perspectiva bourdiana un sociólogo es todo científico que está interesado en investigar fenómenos sociales, ya sean políticos, educativos, económicos, culturales, de salud, tecnológicos, artísticos, etc., en su dimensión social. Incluso químicos, médicos, artistas o matemáticos interesados en la historia de su disciplina o las maneras de cómo se practican (que son siempre sociales), también pueden ser considerados como sociólogos.</p>
+         <p>Además, las disciplinas particulares como las ciencias políticas, la educación, la economía, la antropología, la historia, etc., son “teorías parciales de lo social” (Bourdieu, Chamboderon y Passeron 2002:50) que contribuyen a la teoría general del conocimiento sociológico, es decir, a la sociología, lo que no es de extrañar, siendo él un heredero de la cultura y la perspectiva francesa de Augusto Comte sobre la ciencia sociológica. Por lo tanto, los destinatarios de dicha obra son todos los investigadores que reflexionen acerca de las prácticas sociales, con independencia de su formación original.</p>
+         <p>En este sentido, ¿a quién le incumbe la disertación científica y metacientífica sino al científico, al investigador y a los que están en proceso de formación al oficio de sociólogo? Esta es una verdad tácita en toda práctica científica. En América Latina, en los años recientes, la investigación social es algo remitido a programas de posgrado (especialidad, maestría y doctorado), por lo que resulta de suma importancia que entre profesores, investigadores y alumnos quede abiertamente esclarecido el sentido y las implicaciones que encierra tanto el escribir una tesis doctoral, como el acompañar al estudiante en su escritura. Sin duda este esfuerzo lleva consigo la necesidad de renunciar a viejos preceptos acerca de lo que significa la investigación y la formación de investigadores, ya que ambas actividades han logrado un acoplamiento casi perfecto con la dinámica institucional (Pacheco. <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/52/pacheco.html">La tesis doctoral en ciencias sociales y su relación con el quehacer científico</ext-link>).</p>
+         <p>Como se verá, para todos los investigadores sociales hay lecciones epistemológicas para la construcción del objeto de estudio científico que se pueden aprender del trabajo sociológico de Pierre Bourdieu.</p>
+      </sec>
+      <sec>
+         <title>La sociología reflexiva. Lecciones epistemológicas</title>
+         <p>Como practicante del oficio de científico, Bourdieu perteneció al campo intelectual de su tiempo, el cual estaba subsumido a la vez al gran campo cultural, por lo que hay que tener presente que la arbitrariedad es un sello de toda cultura dominante. “Toda acción pedagógica […] es objetivamente una violencia simbólica en tanto que imposición, por un poder arbitrario, de una arbitrariedad cultural” (Bourdieu y Passeron 1996:45). Nada escapa de la arbitrariedad cultural. Ni siquiera la ciencia misma ni sus practicantes.</p>
+         <p>Habiéndose formado en Francia, y por más evidente que parezca, la tradición científica francesa es la que le fue inculcada a Bourdieu y a su generación. En este sentido, pensadores como Alexander Koyré, Georges Canguilhem, Eric Weil, Jules Vuillemin, Gaston Bachelard, entre otros, fueron mentores de primera mano para él: “Fuera de la Sorbona, y sobre todo en la Escuela de Altos Estudios y en el Collége de France, estaban también Eric Weil, Alexandre Koyré, Martial Guéroult, cuyas enseñanzas seguí una vez entrado en la Escuela normal” (Bourdieu 2000:17). De Bachelard incorporó toda la visión epistemológica que acompañó toda su obra de investigación, como él mismo lo confirmó, “creo que la historia social de la ciencia -en la tradición representada en Francia por Gaston Bachelard, Georges Canguilhem y Michel Foucault- debería ser parte imprescindible de la caja de herramientas intelectuales de todo científico social” (Bourdieu 2001:75).</p>
+         <p>Por contraste con las tradiciones científicas alemanas y sajonas cuyas metaciencias pilares son la teoría de la ciencia y la filosofía de la ciencia, respectivamente, la epistemología para Bourdieu toma una cualidad especial, sobre todo para la investigación: “Para superar las discusiones académicas y las formas académicas de superarlas, es necesario someter la práctica científica a una reflexión que, a diferencia de la filosofía clásica del conocimiento, se aplique no a la ciencia hecha […], sino a la ciencia que se está haciendo” (Bourdieu, Chamboderon y Passeron 2002:20). Por esta razón, para Bourdieu la epistemología como ejercicio metacientífico es parte inseparable y primordial de toda práctica científica.</p>
+         <p>A diferencia de la ciencia que toma por objeto de reflexión a la realidad, la metaciencia toma como su objeto reflexivo a las prácticas científicas, conformando una especie de ciencia de la ciencia, sin que por ello se le dé el reconocimiento ni el estatus explícito de ciencia o se le llegue a considerar una protociencia por haber producido “pocos resultados científicos” (Bunge 2004:29), aunque también podría contraargumentarse que una reflexión metacientífica no necesariamente debería dar “resultados” porque eso es operar bajo los esquemas de una laxa lógica de corte positivista. La verdadera utilidad de una metaciencia como la epistemología es la producción de disposiciones de vigilancia de todos los actos investigativos (elecciones temáticas, metodológicas, teóricas, instrumentales, etc.), del mismo modo como un físico en laboratorio tiene que vigilar constantemente que todos sus aparatos funcionen de manera normal a fin de poder confiar en los registros que con ellos realicen, pues de eso dependen sus insumos analíticos.</p>
+         <p>Esta “ciencia de la ciencia” es una metaciencia que, aunque toma por objeto de reflexión las prácticas científicas, poseen varias dimensiones a partir de las cuales surgen metaciencias más particulares y específicas. Por ejemplo, cuando se toma como objeto de la reflexión los métodos de obrar de los científicos, se tiene entonces una metodología de las ciencias. Si se focalizan las prácticas científicas en su contexto e influencias sociales, se arriba a la sociología de la ciencia. Incursionar etnográficamente en las prácticas de laboratorios para identificar los modos de obrar de los científicos deriva en una antropología de la ciencia. Si se toman los logros y los alcances generales y particulares de las ciencias como objeto de reflexión, se está frente a una filosofía de la ciencia, tanto social como natural. Si el objeto se centra en el conocimiento como producto y como productor de prácticas sociales, se ingresa al terreno de la teoría del conocimiento, muy cercano a la sociología del conocimiento. Cuando la discusión es sobre el desarrollo histórico de la ciencia, se está ante una historia de la ciencia. Si la intención metacientífica es cobrar conciencia de lo que se está haciendo mientras se realizan prácticas científicas, se ha entrado al terreno de la epistemología. Esta es la práctica metacientífica por excelencia para Bourdieu, porque a partir de la conciencia reflexiva permite establecer que el hecho científico “se conquista, construye y comprueba” (Bourdieu, Chamboderon y Passeron 2002:25).</p>
+         <p>El hecho científico, en tanto que objeto de estudio, se “conquista” contra toda prenoción social e individual del sociólogo por medio de una adecuada vigilancia epistemológica que, por ejemplo, evite el error de aceptar como científicos términos que no se forjaron con rigurosidad científica, sino al calor de prácticas sociales como las de los comentaristas de medios masivos o de instituciones públicas.</p>
+         <p>Un buen número de los objetos reconocidos por la ciencia social oficial, como así también los títulos de muchos estudios, no son otra cosa que problemas sociales que han sido contrabandeados dentro de la sociología (pobreza, delincuencia, juventud, deserción escolar en el nivel secundario, ocio, conducción de vehículos bajo los efectos del alcohol, etc.) y que varían con las fluctuaciones de la conciencia social o académica del tiempo (Bourdieu y Wacquant. Una invitación a la sociología reflexiva).</p>
+         <p>El objeto de estudio también se “construye” con herramientas analíticas forjadas con rigurosidad científica. La función esencial de las teorías y sus conceptos es tanto cognoscitiva como operativa: permiten comprender el mundo y sus lógicas mediante abstracciones objetivantes (teóricas) y a la vez adentrarse a él y registrarlo con dispositivos metodológicos operacionales adecuados a cada caso particular (métodos y técnicas). Como indica Tovillas respecto a los cambios de la sociedad argelina de 1960: “Bourdieu recurrió a las herramientas teóricas y metodológicas elaboradas por los representantes fundamentales de la sociología clásica, como lo son Marx, Durkheim y Weber, para comprender esa gran transformación” (Tovillas 2006:13).</p>
+         <p>El objeto científico se “constata” porque la teoría objetivante también tiene que ser objetivada en el terreno empírico, es decir, tiene que ser puesta a prueba en el sentido popperiano, a fin de no tener una disertación insulsa de la teoría sobre la teoría misma, a lo que el autor llamó sarcásticamente la “teoría teoricista”. Cuando Bourdieu cuestionó reflexivamente algunas preguntas sobre los efectos de la escolarización (a lo que llamó la “nobleza de Estado”), mencionó: “nos fijamos un objeto que las plantea por su existencia misma, un objeto situado y fechado, y por ende adecuado para su observación y análisis empíricos: las distintas clases preparatorias para las grandes écoles” (Bourdieu 2013:128). La habilidad discursiva de la teoría carece de sentido si no es aplicada a una realidad específica de la que también surge, porque “la teoría sin investigación empírica está vacía, la investigación empírica sin teoría está ciega” (Bourdieu 2001:66).</p>
+         <p>Parafraseando a Durkheim, Bourdieu menciona que “saber lo que se hace cuando se hace ciencia -lo cual es una definición sencilla de la epistemología- supone que se sepa cómo se han hecho históricamente los problemas, las herramientas, los métodos y los conceptos que se utilizan” (Bourdieu 1990: 81). En El oficio de sociólogo dice: “Preguntarse qué es hacer ciencia o, más precisamente, tratar de saber qué hace el científico, sepa éste o no lo que hace, no es sólo interrogarse sobre la eficacia y el rigor formal de las teorías y de los métodos, es examinar a las teorías y los métodos en su aplicación para determinar qué hacen con los objetos y qué objetos hacen” (Bourdieu, Chamboderon y Passeron 2002:25).</p>
+         <p>De este modo, la epistemología, en tanto que reflexión de la ciencia que se está llevando a cabo de facto, antes que una glosa de la ciencia ya realizada, para Bourdieu es el presupuesto indispensable de toda práctica científica, a la cual posteriormente le llama “reflexividad”, como afirma Wacquant: “Si hay alguna característica que hace sobresalir a Bourdieu en el paisaje de la teoría social contemporánea, es su obsesión por la reflexividad. Desde sus tempranas investigaciones sobre las prácticas matrimoniales en el pueblo aislado de los Pirineos donde se crio […] a la exploración tras los pasos del Homo academicus gallicus […], Bourdieu ha tornado sistemáticamente hacia sí mismo los instrumentos de su ciencia (acaso de una manera no siempre perceptible para algunos de sus lectores)” (Bourdieu y Wacquant 2005:69-70). Siendo así, la reflexividad direccionaría hacia dos esferas autónomas pero vinculadas, la metodológica y la del discurso autocrítico.</p>
+         <p>Algunas de sus obras abiertamente metacientíficas y traducidas al español fueron El oficio de sociólogo, Una invitación a la sociología reflexiva, Cosas dichas, etc., lo cual no limita solo a éstas la práctica de la reflexividad epistemológica a la que aludía, pues en obras como La miseria del mundo o La distinción, entre otras más, igualmente se pueden encontrar disertaciones sobre el método, los instrumentos y las técnicas de investigación.</p>
+         <p>Con esto se puede concluir que la reflexividad epistemológica de Pierre Bourdieu abarcó a los conceptos teóricos, los métodos y las técnicas de investigación, así como las condiciones sociales de producción del conocimiento científico, y los modos de aplicación e interpretación de los registros obtenidos en el mismo proceso de investigación, volviéndose la epistemología en una sociología reflexiva para el sociólogo dedicado a la investigación.</p>
+      </sec>
+      <sec>
+         <title>¿Descubrimiento o construcción del objeto?</title>
+         <p>Una atenta lectura del trabajo sociológico de Pierre Bourdieu permite detectar que la epistemológica era una actividad llevada a nivel de consciencia en sus investigaciones, por lo que toda práctica científica era a la vez epistemológica. Se reconoce que “Bourdieu, siempre esquivo a las etiquetas, denominó a su construcción teórica «estructuralismo genético». Como toda su reflexión sociológica, ésta encierra también una postura epistemológica y una estrategia metodológica” (Tovillas 2006:15).</p>
+         <p>El campo científico, como cualquier otro, manifiesta una serie de luchas y de tensiones que provienen de él y que por las prácticas también le tienden a modificar. Una de esas luchas es sobre la lógica del objeto de estudio: ¿se encuentra dado y el científico solo lo descubre y lo describe (Popper), o bien se construye bajo los intereses del investigador (Bachelard)? Y aunque hay partidarios de ambas lógicas sin que una sea la mayormente aceptada, aquí se partirá de la noción de la construcción del objeto toda vez que es la postura de Pierre Bourdieu de quien se desprenden algunas lecciones prácticas para tal construcción.</p>
+         <p>En ciencias sociales se le debate al positivismo dar la supremacía a los datos sensibles para construir conocimiento. No obstante, con argumentos precisos, los partidarios de la lógica de la construcción aluden a las mismas ciencias de la naturaleza para replicar a la lógica del descubrimiento: “Después de Rousseau, y de una manera que me parece decisiva, Marx enseñó que la ciencia social ya no se construye en el plano de los acontecimientos, así como tampoco la física se edifica sobre los datos de la sensibilidad: la finalidad es construir un modelo, estudiar sus propiedades y las diferentes maneras como reacciona en el laboratorio, para aplicar seguidamente esas observaciones a la interpretación de lo que ocurre empíricamente, y que puede hallarse muy alejado de las previsiones” (Levi-Strauss 1988:61).</p>
+         <p>En este tenor, para Bourdieu la experiencia se relaciona dialécticamente con los modelos teóricos a fin de poner éstos a prueba y hacer crecer el conocimiento acerca de las lógicas de la primera.</p>
+      </sec>
+      <sec>
+         <title>Lecciones sobre la lógica de construcción de los objetos de la ciencia</title>
+         <p>Siguiendo la epistemología de Gaston Bachelard, para Bourdieu el objeto no está dado de forma inmediata en la realidad como los positivistas lo suponen, sino que como ya se comentó, se conquista, se construye y se constata, y este orden epistemológico racional “nunca se reduce al orden cronológico de las operaciones concretas de la investigación” (Bourdieu, Chamboderon y Passeron 2002:83), porque no es en ese orden en que ocurren de forma necesaria. Esto significa que el objeto no se reduce a la secuencia de los eventos que se van dando en la investigación concreta, ni a la prescripción metodológica (lo que comúnmente se hace con los protocolos escolares de diseños de investigación por medio de la observación, el planteamiento de preguntas, problematización, justificación, objetivos, construcción de hipótesis, etc.), sino como una construcción del investigador fundamentada en una cultura teórica e inseparablemente empírica.</p>
+         <p>Por ello, para Bourdieu, la construcción del objeto es “sin duda la operación más crucial de la investigación y aun así la más completamente ignorada, especialmente por la tradición dominante, organizada como está alrededor de la oposición entre «teoría» y «metodología»” (Bourdieu y Wacquant 2005:166). No basta con tener una temática a indagar, ni tener un “problema social” para resolver, ni siquiera un universo empírico delimitado espacio-temporalmente con sujetos igualmente definidos. Se requiere una inversión mucho mayor para la construcción del objeto.</p>
+         <p>Bourdieu evidenció el simplismo inmediatista con el que se opera en muchas investigaciones en la elección y construcción de sus objetos: tan solo toman lo que ya está dado y “problematizado” en la realidad social y lo asumen como problema científico. En una entrevista realizada a Bourdieu por el aniversario de El oficio de sociólogo, comentó: “yo pienso que las tres cuartas partes de las investigaciones no hacen más que convertir en problemas sociológicos los problemas sociales” (Bourdieu 2002:20). Esto implica que cuestiones como la “pobreza”, el “empoderamiento femenino”, la “delincuencia”, la “vejez”, los “jóvenes”, la “identidad”, la “multiculturalidad”, etc., han entrado de contrabando al debate científico olvidando que son construcciones sociales derivadas de la conciencia del momento y que una vez concebidos y endosados como “problemas” por atender y para ser resueltos, el sociólogo ingenuo las asume como si fuesen verdaderas problemáticas científicas, volviéndose el aliado inconsciente del positivismo que impera en toda institución estatal. El autor hace conciencia de que “existe, en cada sociedad, en cada momento, una jerarquía de objetos de estudio considerados legítimos” (Bourdieu 2003:37), por lo que el reto sociológico consiste en tomar por objeto de reflexión los que están excluidos de esa categoría y con fundamentos sólidamente científicos, legitimarlos. De ahí que una sana distancia epistemológica signifique a la vez ruptura y construcción.</p>
+         <p>La construcción del objeto también requiere de una especie de “imaginación sociológica” (como diría C. W. Mills) que a la vez que tome distancia de las preconstrucciones de los “problemas” sociales, de la ocasión “para transformar los «problemas sociales» del público general en problemas sociológicos posibles de soluciones científicas” (Bourdieu y Wacquant 2005:139). Con este tipo de disposición disruptiva se puede ir adelante en la construcción.</p>
+         <p>El genio creativo de Bourdieu le llevó a abordar los más diversos y disímbolos fenómenos sociales para reconvertirlos en campos de conocimiento y transformarlos en genuinos objetos de estudio científico objetivados en su diversas obras publicadas: la vivienda (Las estructuras sociales de la economía), la relación entre los géneros (La dominación masculina), la universidad (Homo academicus), los mass media (Sobre la televisión), la ciencia (El oficio de científico), el Estado (Sobre el Estado), los museos (El amor al arte), la literatura (Las reglas del arte), los dispositivos de registro óptico (Un arte medio: la fotografía), entre otros. Muy pocos pensadores de las ciencias sociales podrían atreverse a pisar terrenos poco conocidos por ellos y dar cuenta de sus lógicas sociales con el éxito por él logrado.</p>
+         <p>Lo que resta es preguntar, ¿cómo logró Bourdieu consolidar las estrategias de construcción de objetos de investigación en apariencia tan disímbolos y a la vez tan diversos? Aunque pudieran darse respuestas igualmente distintas, focalizaré las que considero más importantes. En primer lugar, el trabajo de investigación en Bourdieu es relacional. Nunca trabajó con las nociones de clase social, espacio social, campo, capital, habitus, etc. de forma aislada, sino siempre en vínculo conceptual, por lo que el solipsismo conceptual está anulado en una genuina ciencia completa: “El modelo teórico que allí se presenta no está adornado de todos los signos en los cuales se reconoce de ordinario a la ‘gran teoría’, comenzando por la ausencia de toda referencia a una realidad empírica cualquiera. Las nociones de espacio social, de espacio simbólico o de clases sociales no están examinadas allí nunca en sí mismas ni por sí mismas; están puestas a prueba en una investigación inseparablemente teórica y empírica” (Bourdieu 1997:10).</p>
+         <p>En segundo lugar, y como ya se mencionó, en la fórmula [(habitus) (capital)] + campo = práctica, convergen dialécticamente dos tradiciones teóricas fundamentales en las ciencias sociales: el objetivismo y el subjetivismo, y es que “la enorme construcción teórica que Bourdieu desarrolló a lo largo de varias décadas de trabajo ininterrumpido se asienta en una concepción del mundo en la que debe apreciarse nítidamente el interjuego entre estructura social y estructura de pensamiento (y, consecuentemente, de la acción)” (Andrade. <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/39/andrade.html">Revisitando el oficio de sociólogo. Notas sobre el habitus de investigador social</ext-link>). En ella también se rescatan los debates macro-micro acerca de lo que es más preeminente cuando se piensa en términos sociales: “De forma más simple, la pregunta es si los mecanismos sociales operan a nivel de acciones individuales (micro) u otros agregados sociales (meso o macro) tales como organizaciones, instituciones, redes, etc.” (González. <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/55/gonzalez.html">Los mecanismos sociales y su relación con la distinción micro‐macro</ext-link>).</p>
+         <p>En efecto, en la noción de habitus está sintetizada toda la perspectiva subjetivista, pero permeada por las influencias sociales que esta tradición suele ignorar, lo que la aleja del terreno voluntarista de los actores. En complemento, las nociones de campo y capital rescatan los condicionamientos sociales externos sobre los cuerpos biológicos individuales, lo que rompe con los determinismos sociales y fatalistas con los que se suele trabajar desde el objetivismo, al revalorar que los agentes sociales también son proactivos y pueden adecuar, resistir, rechazar y modificar (hasta cierto grado) dichos condicionamientos, distanciando también las nociones bourdianas de las construcciones deterministas del objetivismo, dando lugar a la vez a un “conocimiento que podemos llamar praxeológico [que] tiene por objeto no solo el sistema de relaciones objetivas que construye el modo de conocimiento objetivista, sino las relaciones dialécticas entre esas estructuras objetivas y las disposiciones [subjetivas] estructuradas en las cuales ellas se actualizan y que tienden a reproducirlas, es decir, el doble proceso de interiorización de la exterioridad y de interiorización de la exterioridad” (Bourdieu 2012:183).</p>
+         <p>En una tercera instancia, sus conceptos, además de relacionales, siempre fueron abiertos, para ir contra toda estaticidad que dan las definiciones cerradas: “Los conceptos pueden -y, en cierta medida, deben- quedar abiertos, provisorios, lo que no quiere decir vagos, aproximativos o confusos” (Bourdieu 2000:50). Los conceptos cerrados restringen la imaginación sociológica ya comentada. Por ejemplo, si se pretende trabajar desde las ciencias de la naturaleza con las nociones de “calor”, “peso”, “masa” o “velocidad”, poco habría que agregar a ellas en sus definiciones.</p>
+         <p>En el ámbito social la cuestión se complejiza sobremanera. Si se toma la noción de “clase social”, la perspectiva estructural-funcionalista clásica considera que hay tres clases sociales (alta, media y baja, y sus respectivas intersecciones) basadas en términos de características económicas y socioprofesionales, mientras que para el materialismo histórico solo hay dos clases sociales (explotadores y explotados con sus respectivas fracciones de clase) por su relación con los medios de producción vinculados al modo de producción imperante en una formación social particular, develando a los poseedores y los desposeídos de los mismos. En tanto que, para Bourdieu, una clase social estaría definida por “la estructura de las relaciones entre todas las propiedades pertinentes, que confiere su propio valor a cada una de ellas y a los efectos que ejerce sobre las prácticas” (Bourdieu 1998:104), lo que significa abarcar las propiedades de las dos posturas antes mencionadas, adicionando también estilos de vida grupales e individuales.</p>
+         <p>Entre las ventajas de los conceptos abiertos tal como Bourdieu los utilizó radica en contribuir al desarrollo de las ciencias sociales mismas. Por ejemplo, si Marx usó la noción de “capital” para explicar la moderna sociedad capitalista y develar las relaciones de dominación y explotación en ella implicadas, Bourdieu abrió la noción a tres dimensiones más: la social, la cultural y la simbólica, postulando así cuatro grandes especies de capital, incluido el económico, a saber, el social, el cultural y el simbólico, que aparecen ante el investigador en tres estados: objetivado, incorporado e institucionalizado. Mientras que para Marx las diferentes relaciones con el capital económico es lo que determina la estructura social, para Bourdieu “una ciencia económica general de las prácticas debe procurar incluir el capital y el beneficio en todas sus manifestaciones, así como determinar las leyes por las que los diferentes tipos de capital (o de poder, que para el caso es lo mismo) se transforman unos en otros” (Bourdieu 2001:134), algo que ocurre en los espacios sociales particulares a los que llamó “campos”. Esto despoja a la noción de capital de Marx de su omnipotencia social, para detectar y reconstruir cuáles sean los capitales más eficientes en determinados campos.</p>
+         <p>No obstante, hay lectores de Bourdieu que ven los riesgos del uso abierto de los conceptos en los que consideran que el mismo autor llegó a caer: “Hace ya más de treinta años Rogers Brubaker había llamado nuestra atención sobre el uso desmesurado del concepto de habitus. En las dos décadas posteriores a ese llamado podemos ver cómo Bourdieu vuelve sobre el término, lo modifica y elige emplearlo siguiendo el camino original del cual había partido, extendiéndolo en nuevas direcciones” (Bencrezy. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.24215/23468904e026">¿Cómo pez en el agua? Aporías de la sociología disposicional</ext-link>).</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusiones. Una lección de cierre</title>
+         <p>Si bien se ha focalizado la construcción del objeto de estudio, hay que tener presente que Bourdieu puso el acento en el método más que en los resultados o las temáticas mismas: “No importa cuán importante sea, el objeto específico de [esta o aquella] investigación, de hecho cuenta menos […] que el método que le ha sido aplicado y que podría ser aplicado a una infinidad de objetos diferentes” (Bourdieu y De Saint Martin. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3406/arss.1982.2165">La sainte famille</ext-link>). En ello radicó la osadía del genio de Bourdieu y su vasta producción investigativa.</p>
+         <p>Si lo importante para él no es el objeto construido, sino la manera metodológica de conformarlo, hay que considerar dos aspectos cruciales y no confundirlos. Una cosa es la rigidez metodológica que aprisiona con sus preceptos a modo de receta y otra muy distinta la rigurosidad científica que lleva a un abordaje serio de las cosas (si bien no en serie), tal como podría percibirse de las prescripciones metodológicas escolares de la primera respecto a la segunda.</p>
+         <p>Y si bien tras la aparición de El oficio de sociólogo había la intención didáctica de “un segundo tomo que habría tratado de la construcción del objeto sociológico y un tercero, destinado a presentar una recopilación crítica de los instrumentos, tanto conceptuales como técnicos, de la investigación” (Bourdieu, Chamboderon y Passeron 2002:9), es de todos sabido que nunca se realizaron estas dos obras complementarias. Sin embargo, esto no implica que la intencionalidad original se hubiese abandonado, al menos para Bourdieu, pues con lo argumentado hasta aquí se puede concluir que todas las obras posteriores a ese trabajo de inculcación de disposiciones investigativas bebieron de ese proyecto original.</p>
+         <p>Ya que “un objeto de investigación, por más parcial y parcelario que sea, no puede ser definido y construido sino en función de una problemática teórica que permita someter a un sistemático examen todos los aspectos de la realidad puestos en relación por los problemas que le son planteados” (Bourdieu, Chamboderon y Passeron 2002:54), conviene preguntarse cuáles fueron los problemas teóricos que Bourdieu desarrolló. Al menos he identificado tres grandes problemas teóricos que orientaron sus investigaciones: la producción de las prácticas sociales, su reproducción y la resistencia a ellas.</p>
+         <p>El problema de la producción de las prácticas surge de preguntas elementales para el sociólogo: ¿por qué las personas hacen lo que hacen?, ¿cómo surgieron esas prácticas?, ¿cuál es el arraigo social de acciones aparentemente personales como el gusto o la toma de decisiones? Estas son algunas preguntas de Bourdieu sobre la producción de prácticas de los agentes: “¿Quién certifica la validez del certificado? Quien haya firmado el título que da licencia para certificar. ¿Pero quién lo certifica a su vez? […] ¿Por qué resulta, hasta cierto punto, interesante este término de interés? ¿Por qué es importante interrogarse sobre el interés que los agentes pueden tener en hacer lo que hacen? […] ¿Por qué es importante pensar en términos de habitus? ¿Por qué es importante pensar el campo como un lugar que uno no ha producido y en el que se ha nacido y no como un juego arbitrariamente instituido?” (Bourdieu 1997:113, 139,153).</p>
+         <p>El problema de la reproducción de las prácticas sociales tiene toda una obra dedicada a ello: La reproducción. Aquí el argumento básico es que la sociedad preexiste a cada individuo que nace en ella, y el proceso de humanización de una cría de homo sapiens a un ser socializado se da por medio de la inculcación educativa legítima, entendida como el “arbitrario cultural” dominante. Por este problema teórico Bourdieu fue mal leído e interpretado e incluso algunos teóricos simples le han etiquetado de “reproduccionista”. Respecto a Los herederos hubo reacciones de “aquellos que buscaban las reformas de las instituciones educativas, reaccionaron contra una interpretación que juzgaron demasiado estructural y que no parecía dejar espacio a las mejoras parciales y objetaron la invasión ‘sociologista y reproduccionista’ de los bourdieusianos, que estimaron incompatible con la defensa de la educación pública” (Sidicaro 2009:X).</p>
+         <p>Consciente de ello, también abordó el problema de la resistencia a esas condiciones objetivas preexistentes a los individuos al asumir que “el habitus no es el destino que alguna gente lee en él. Producto de la historia, es un sistema abierto de disposiciones constantemente sujeto a experiencias, constantemente afectado por ellas de una manera que o bien refuerza o bien modifica sus estructuras” (Bourdieu y Wacquant 2005:100). De este modo, reconoce la capacidad de agencia del individuo sin otorgarle plena supremacía voluntarista y a la vez recuperando el papel de las influencias externas en las prácticas sociales.</p>
+         <p>Finalmente, en la fórmula [(habitus) (capital)] + campo = práctica, se presenta también la vía metodológica para la construcción del objeto: un habitus, que no es sino un cuerpo biológico socializado, subjetividad objetivada, solo puede ser comprendido en relación directa de dos componentes objetivos, a saber, los capitales efectivamente poseídos por el agente portador de ellos, y la valoración de éstos y la posterior admisión y ubicación del agente en un campo particular. Esto significa priorizar la reconstrucción sistemática de las condiciones sociales objetivas (campo y capitales) que influyen en las disposiciones vinculadas a ellas (habitus). Operar de este modo en las investigaciones implicaría haber captado las lecciones de construcción lógica del objeto propuestas por Pierre Bourdieu y a la vez objetivar al sujeto objetivante.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Bourdieu, P.,  (1990).
+               <italic>Sociología y cultura</italic>
+               . : Grijalbo-Conaculta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>Sociología y cultura</source>
+               <publisher-name>Grijalbo-Conaculta</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Bourdieu, P.,  (1997).
+               <italic>Razones prácticas. Sobre la teoría de la acción</italic>
+               . : Anagrama
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>Razones prácticas. Sobre la teoría de la acción</source>
+               <publisher-name>Anagrama</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Bourdieu, P.,  (1998).
+               <italic>La distinción. Criterio y bases sociales del gusto</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>La distinción. Criterio y bases sociales del gusto</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Bourdieu, P.,  (2000).
+               <italic>Cosas dichas</italic>
+               . : Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <source>Cosas dichas</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Bourdieu, P.,  (2001).
+               <italic>Poder, derecho y clases sociales</italic>
+               . : Desclée de Brower
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Poder, derecho y clases sociales</source>
+               <publisher-name>Desclée de Brower</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Bourdieu, P.,  (2002).
+               <italic>Capital cultural, escuela y espacio social</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Capital cultural, escuela y espacio social</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Bourdieu, P.,  (2003).
+               <italic>Un arte medio. Ensayo sobre los usos sociales de la fotografía</italic>
+               . : Gustavo Gili
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <source>Un arte medio. Ensayo sobre los usos sociales de la fotografía</source>
+               <publisher-name>Gustavo Gili</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Bourdieu, P.,  (2012).
+               <italic>Bosquejo de una teoría de la práctica</italic>
+               . : Prometeo Libros
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Bosquejo de una teoría de la práctica</source>
+               <publisher-name>Prometeo Libros</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Bourdieu, P.,  (2013).
+               <italic>La nobleza de estado</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>La nobleza de estado</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Bunge, M.,  (2004).
+               <italic>La investigación científica. Su estrategia y su filosofía</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bunge</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>La investigación científica. Su estrategia y su filosofía</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Bourdieu, P., Chamboderon, J., Passeron, J.,  (2002).
+               <italic>El oficio de sociólogo. Presupuestos epistemológicos</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chamboderon</surname>
+                     <given-names>J.C</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Passeron</surname>
+                     <given-names>J.C</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>El oficio de sociólogo. Presupuestos epistemológicos</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Bourdieu, P., Passeron, J.,  (1996).
+               <italic>La reproducción. Elementos para una teoría de la enseñanza</italic>
+               . : Fontamara
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Passeron</surname>
+                     <given-names>J.C</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>La reproducción. Elementos para una teoría de la enseñanza</source>
+               <publisher-name>Fontamara</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Bourdieu, P., Passeron, J.,  (2009).
+               <italic>Los herederos. Los estudiantes y la cultura</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Passeron</surname>
+                     <given-names>J. C</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Los herederos. Los estudiantes y la cultura</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Bourdieu, P., Wacquant, L.,  (2005).
+               <italic>Una invitación a la sociología reflexiva</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wacquant</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source>Una invitación a la sociología reflexiva</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Levi-Strauss, J.,  (1988).
+               <italic>Tristes trópicos</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Levi-Strauss</surname>
+                     <given-names>J.C</given-names>
+                  </name>
+               </person-group>
+               <year>1988</year>
+               <source>Tristes trópicos</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Sidicaro, R. (2009).
+               <italic>La sociología según Pierre Bourdieu</italic>
+               . En Bourdieu, P., Passeron, J (autor.);Los herederos. Los estudiantes y la cultura.  (IX-XXXII).: Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sidicaro</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>La sociología según Pierre Bourdieu</chapter-title>
+               <year>2009</year>
+               <source>Los herederos. Los estudiantes y la cultura</source>
+               <publisher-name>Siglo XXI</publisher-name>
+               <fpage>IX</fpage>
+               <lpage>XXXII</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Tovillas, P. (2006).
+               <italic>Pierre Bourdieu (1930-2002). Ruptura social, ruptura académica</italic>
+               . En Bourdieu, P (autor.);Argelia 60.  (9-18).: Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tovillas</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Pierre Bourdieu (1930-2002). Ruptura social, ruptura académica</chapter-title>
+               <year>2006</year>
+               <source>Argelia 60</source>
+               <publisher-name>Siglo XXI</publisher-name>
+               <fpage>9</fpage>
+               <lpage>18</lpage>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

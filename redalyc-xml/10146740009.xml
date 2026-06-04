@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model type="application/xml-dtd" href="http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1d3" specific-use="Marcalyc 1.2" article-type="research-article" xml:lang="es">
+<front>
+<journal-meta>
+<journal-id journal-id-type="redalyc">101</journal-id>
+<journal-title-group>
+<journal-title specific-use="original" xml:lang="es">Cinta de Moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="es">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile</publisher-name>
+<publisher-loc>
+<country>Chile</country>
+<email>cintamoebio@gmail.com</email>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="art-access-id" specific-use="redalyc">10146740009</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Sumário</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="es">El sujeto como categoría de análisis de la ciudadanía</article-title>
+<trans-title-group>
+<trans-title xml:lang="en">The subject as a category for citizenship analysis</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="no">
+<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2045-343X</contrib-id>
+<name name-style="western">
+<surname>Cárcamo</surname>
+<given-names>Héctor</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+<email>hcarcamo@ubiobio.cl</email>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<institution content-type="original">Departamento de Ciencias Sociales, Universidad del Bío-Bío (Chillán, Chile)</institution>
+<institution content-type="orgname">Universidad del Bío-Bío</institution>
+<country country="CL">Chile</country>
+</aff>
+<pub-date pub-type="epub-ppub">
+<year>2016</year>
+</pub-date>
+<issue>56</issue>
+<fpage>231</fpage>
+<lpage>242</lpage>
+<history>
+<date date-type="received" publication-format="dd mes yyyy">
+<day>23</day>
+<month>05</month>
+<year>2016</year>
+</date>
+<date date-type="accepted" publication-format="dd mes yyyy">
+<day>15</day>
+<month>07</month>
+<year>2016</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2017</copyright-year>
+<copyright-holder>Cinta de Moebio</copyright-holder>
+<ali:free_to_read/>
+<license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">
+<ali:license_ref>https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+<license-p>Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial 4.0 Internacional.</license-p>
+</license>
+</permissions>
+<abstract xml:lang="es">
+<title>Resumen</title>
+<p>El ensayo tiene por objetivo exponer algunas reflexiones relativas a la configuración del sujeto como categoría de análisis para la comprensión de la ciudadanía. Para estos efectos se plantean dos dimensiones claves, la ideal y la empírica. Los argumentos que se presentan permiten captar la ciudadanía como un constructo simbólico cargado de tensiones, más allá de la dimensión jurídica y administrativa; por ejemplo, por medio de su articulación con las migraciones, el racismo y la identidad. Finalmente se expone lo que hemos denominado el sujeto ideal-empírico, como constructo que contribuye a la comprensión de la realidad social desde la perspectiva del sujeto, en tanto singularidad irreductible. La tesis central de este ensayo es que la ciudadanía en tanto constructo sustentado en la dicotomía inclusión exclusión opera como elemento modelador del sujeto ideal-empírico en el escenario de las sociedades modernas y más específicamente en las sociedades postindustriales globalizadas.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract</title>
+<p>The essay aims to offer some thoughts about the configuration of the subject as a category of analysis for the understanding of citizenship. For this purpose, two key dimensions are outlined: ideal and empirical. The arguments presented allow an understanding of citizenship as a symbolic construct fraught with tension, beyond the legal and administrative dimension; for example, through its links with migration, racism and identity. Finally, it presents what we have called the ideal-empirical subject, as a construct that contributes to the understanding of social reality from the perspective of the subject as irreducible singularity. The central thesis of this essay is that citizenship, as a construct supported in the inclusion exclusion dichotomy, operates as a shaping element of the ideal-empirical subject in modern societies, and more specifically in globalized post-industrial societies.</p>
+</trans-abstract>
+<kwd-group xml:lang="en">
+<title>Keywords</title>
+<kwd>subject</kwd>
+<kwd>social practice</kwd>
+<kwd>subjectification</kwd>
+<kwd>diversity</kwd>
+<kwd>citizenship</kwd>
+</kwd-group>
+<kwd-group xml:lang="es">
+<title>Palabras clave</title>
+<kwd>sujeto</kwd>
+<kwd>práctica social</kwd>
+<kwd>subjetivación</kwd>
+<kwd>pluralidad</kwd>
+<kwd>ciudadanía</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="16"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>
+<bold>Introducción</bold>
+</title>
+<p>La discusión en torno a lo individual expresado como agente empírico y lo colectivo en el marco de la comprensión de la sociedad es de larga data; esta discusión también se ha modelado en función de lo singular o lo plural, identidad personal o identidad colectiva; todas expresiones dicotómicas de gran utilidad para la comprensión y diagramación de la realidad, pero cuyo peligro radica en la posible simplificación de esquemas de significación que podrían, eventualmente, desconocer los aspectos intermedios y continuos propios de una realidad en un permanente siendo, infinita, incompleta, tal como nos lo señalan algunos autores como Hugo Zemelman y Juan Pablo Paredes, entre otros. Qué determina a qué parece haber sido el eje de una importante tradición en las ciencias sociales, y en especial en la sociología y la antropología social; discusión de por sí compleja, sin respuesta final.</p>
+<p>Lo expuesto en el párrafo precedente se enmarca dentro de lo que podría denominarse una tradición teórica de carácter general, en la que encontramos a autores tales como Durkheim, Dumont, Fassin, Augé, Bourdieu, Goffman, Lahire, Martuccelli, Dubar, Dubet, entre otros; unos centrados en la génesis de las prácticas sociales y otros en la génesis de la subjetivación. El interés específico de este ensayo es vincular está tradición teórico-general con la temática de la ciudadanía como teoría sustantiva; de preocupación general en la sociedad occidental, más aún desde el advenimiento de la modernidad. Muestra de ello es su presencia en términos ideales y concretos en los griegos, romanos, estados nacionales modernos y sociedades postindustriales globalizadas, caracterizadas desde la concepción de <xref ref-type="bibr" rid="redalyc_10146740009_ref10">Garretón (2000)</xref> como aquellas en la que los mecanismos especulativos tienen más valor que los aspectos materiales asociados a la fábrica, así como también por procesos comunicacionales que trascienden el otrora significativo cara a cara.</p>
+<p>¿Por qué hacer este vínculo con la ciudadanía? De acuerdo a Foucault, debemos procurar, como sujetos reflexivos, “rechazar cualquier universal sustituyéndolo siempre por una red de aprioris históricos” (<xref ref-type="bibr" rid="redalyc_10146740009_ref9">Foucault 1990</xref>:27); en tal sentido, conformarse con una definición categorial de ciudadanía como ‘un universal’ sería desconocer el dinamismo propio del devenir social.</p>
+<p>Dado que estas reflexiones corresponden a un ensayo de carácter académico, es pertinente y necesario exponer lo que es la directriz sobre la cual se desarrollan los argumentos. La tesis central es que la ciudadanía en tanto constructo sustentado en la dicotomía inclusión / exclusión opera como elemento modelador del sujeto ideal-empírico en el escenario de las sociedades modernas, y más específicamente en las sociedades postindustriales globalizadas.</p>
+</sec>
+<sec>
+<title>
+<bold>Consideraciones en torno al concepto de ciudadanía</bold>
+</title>
+<p>En este apartado se exponen <italic>grosso modo</italic> los afluentes que operan como pilares en la configuración de la ciudadanía, así como también algunos ámbitos en los que dicha categoría modeladora de la convivencia social supone expresiones conflictivas, por ejemplo, en su relación con los procesos migratorios y la configuración de identidades.</p>
+</sec>
+<sec>
+<title>
+<bold>Ciudadanía y sus afluentes</bold>
+</title>
+<p>Como es sabido, el concepto de ciudadanía tiene sus orígenes en el período helenístico. A partir de los griegos la noción de ciudadanía queda inextricablemente asociada a la categoría de status, toda vez que corresponde a un elemento definitorio de la posición que el individuo ocupa en la estructura social de la época. Tal como sostiene González, “la ciudadanía era vista como una virtud desconectada de los derechos dados por una institución determinada. La ciudadanía no era un medio para ser libre, sino el modo de ser libre, y el buen ciudadano era aquel que intentaba construir una buena polis, buscando el bien común en su participación política”<xref ref-type="bibr" rid="redalyc_10146740009_ref11"> (2015:88)</xref>.</p>
+<p>Esta noción se complementa luego con la incorporación de la dimensión jurídica al término. De hecho, desde el imperio romano se asume el virtuosismo de la noción de ciudadano, pero se complementa con la idea de pertenencia a espacios territoriales específicos producto de la ampliación de las fronteras propias del imperio; en consecuencia, comienza a esbozarse el modelamiento de un sistema cognitivo en el que tiene cabida la imagen de una comunidad política.</p>
+<p>Por su parte, la noción moderna de ciudadanía (aunque recoge algunos elementos referenciales de la cultura greco-romana) encuentra un referente más significativo en la Revolución Francesa, hito a partir del cual el concepto “evoca una serie de derechos y obligaciones a los que todos, de una u otra manera, estamos sujetos” (<xref ref-type="bibr" rid="redalyc_10146740009_ref11">González 2015</xref>:88).</p>
+<p>Sobre la base de lo expuesto en los párrafos precedentes cabe señalar que la ciudadanía, en tanto que categoría jurídico administrativa, es parte configurativa del propio estadio nacional moderno. Tal como señalan Salvatto y Carzolio, “el concepto de nación enmarca al de ciudadanía, y es necesario poseer la nacionalidad para disfrutar de la ciudadanía” <xref ref-type="bibr" rid="redalyc_10146740009_ref14">(2015:692)</xref>, de modo que nación, nacionalidad, ciudadano y ciudadanía quedan imbricados. A pesar del reconocimiento de la diversidad e interculturalidad inherente al estado actual de las sociedades globalizadas y los crecientes flujos migratorios internacionales como consecuencia de tal estado, la ciudadanía como categoría analítica se nos continúa presentando como un universal a nivel teórico.</p>
+<p>Es así como ciudadanía continúa inexorablemente estando relacionada con el nacionalismo. Esta situación dota a la categoría de un claro componente exclusor, toda vez que para ser ciudadano se requiere de una nacionalidad. Nacionalidad que se confiere sobre la base de dos criterios estipulados desde el advenimiento de los Estados Nacionales. Estos criterios son <italic>ius solis y ius sanguinis</italic>, es decir, el derecho de suelo (lugar de nacimiento) y derecho de la sangre (lazos de consanguinidad).</p>
+<p>No obstante, en el terreno de las sociedades multiculturales a las que se hace alusión hoy por hoy, se formula una mirada crítica al constructo, pues, aunque necesario para el reconocimiento de derechos, no es suficiente para dar cuenta de la dinámica en la que confluyen los sujetos y los diversos colectivos de los cuales forman parte. En esta dirección, la ciudadanía a la que se hace referencia trasciende la esfera jurídico-administrativa y se erige como línea basal para el surgimiento del sujeto político.</p>
+</sec>
+<sec>
+<title>
+<bold>Ciudadanía, migraciones y racismo: expresión del dinamismo categorial</bold>
+</title>
+<p>En el marco de las sociedades modernas postindustriales globalizadas, la ciudadanía ha estado en un cuestionamiento profundo, producto de los procesos migratorios tan característicos de los últimos 25 años, especialmente hacia los países de Europa (aunque no únicamente); situación que se hace evidente en el período 1993-2000 donde se reconoce la consolidación de la Unión Europea. También se aprecia en el flujo migratorio entre México y EE.UU.; y en el cono sur de América Latina, entre Perú, Bolivia y Chile. El flujo de personas ha ido en aumento, pero las fronteras estado nacionales y la ‘categoría’ de ciudadano aún persisten como indicador de ‘integración’ a una comunidad, pero a su vez, como expresión de la exclusión estructural tanto para aquellos sujetos que no la poseen, como para aquellos que al poseerla son víctimas de acciones racistas por parte de los denominados ‘ciudadanos naturales’ del país receptor.</p>
+<p>En tal sentido, puede entenderse que la ciudadanía “como constructo simbólico y criterio de organización socio-política clasifica y diferencia al ciudadano del que no lo es, sea nativo o de origen extranjero, independientemente de su procedencia, trayectoria y características personales o grupales” (<xref ref-type="bibr" rid="redalyc_10146740009_ref3">Barañano et. al. 2007</xref>:21). Al respecto, Van Dijk en su texto <italic>Racismo y discurso de las élites</italic>
+<xref ref-type="bibr" rid="redalyc_10146740009_ref17"> (2003)</xref> da cuenta de la construcción de ciudadanía en función del análisis del discurso generado por parte de las élites políticas. Específicamente, analiza los discursos producidos por representantes políticos de diferentes países, tales como Alemania, Estados Unidos, Inglaterra, Francia y Holanda, tomando como elemento central la noción de racismo subyacente; su análisis se centra especialmente en las formas retóricas de construir al otro, lo que supone además la manera en que se construye la propia imagen.</p>
+<p>Del texto de <xref ref-type="bibr" rid="redalyc_10146740009_ref17">Van Dijk (2003)</xref> se desprende que la élite política analizada representa la ciudadanía (como idea política y expresión de la convivencia social) en base a dos recursos retóricos recurrentes; uno de carácter esencialista-identitario (somos/son) y otro en base a la acción como sujeto empírico (actuamos/actúan); a los cuales se les incorporan un conjunto de adjetivaciones en oposiciones valorativas de acuerdo a los recursos indicados anteriormente.</p>
+<p>De este modo, cuando en los discursos aluden a ellos, se refieren a los inmigrantes desde una valoración negativa, pues sostienen que ‘abusan de nuestra tolerancia’ y ‘no cumplen sus deberes’. En cambio, cuando el eje de significación se orienta al nosotros, se refieren a los ciudadanos del Estadio Nacional, otorgando una valoración positiva toda vez que se reconocen a sí mismos a partir de imágenes como ‘somos muy tolerantes’ y ‘otorgamos derechos’.</p>
+<p>Lo expuesto en el párrafo anterior permite –siguiendo el principio del análisis estructural– identificar campos semánticos sobre la base de los cuales circula el discurso de las élites políticas a las que alude Van Dijk. Los ejes a partir de los cuales se proyecta el cruce axial en el que se proyectan los campos semánticos están dados por ciudadano/no ciudadano y ellos/nosotros. Cada eje posee valoraciones discursivas expresadas en un extremo de forma positiva y en el otro de forma negativa. En el primer caso, ciudadano es valorado positivamente (+) y no ciudadano de forma negativa (-); el segundo eje se proyecta de la forma siguiente, nosotros con valoración positiva (+) y ellos con valoración negativa (-).</p>
+<p>Del cruce axial dado por la intersección del eje esencialista identitario (somos/son) y el eje acción (actúan/actuamos), es factible reconocer tres campos semánticos a través de los cuales circulan los discursos de las élites políticas. El campo (+ +) se construye en base a Nosotros / Ciudadanos (cohesionados culturalmente, otorgan derechos, tolerantes); en cambio el campo (- -) Ellos/no ciudadanos; son considerados como muy sensibles generando una imagen de sujetos victimizados, abusivos con los apoyos y garantías del estado nacional y cuya práctica cultural es disruptiva. El tercer y último campo [no existe el nosotros / no ciudadanos (+ -)], corresponde al (- +) Ellos / Ciudadanos, campo que da cuenta de la existencia jurídica de ciudadanos distintos (inmigrantes, de otro origen, otra cultura, etc… <italic>el diferente</italic>) que son visualizados como los que no comparten el modelo cultural mayoritario.</p>
+<p>En tal sentido, es posible reconocer al concepto de ciudadanía como un constructo que tal como sostiene Estévez: “opera para hacer distinciones legales que permiten mantener excluidos a los individuos más afectados, dominados (…) el reconocimiento diferenciado de derechos a migrantes y ciudadanos crea una jerarquía de habitantes en la que quienes no tienen ciudadanía están excluidos de servicios sociales, acceso a tribunales para la defensa de derechos que no se le reconocen, participación política, etcétera” (<xref ref-type="bibr" rid="redalyc_10146740009_ref7">Estévez 2016</xref>:62).</p>
+<p>De acuerdo a lo expuesto, es posible reconocer una vinculación de la ciudadanía en tanto categoría de análisis de ‘lo social’ con el racismo, aunque desde diferentes perspectivas. De acuerdo a <xref ref-type="bibr" rid="redalyc_10146740009_ref8">Fassin y Fassin (2006)</xref> el discurso respecto al racismo ha pasado por diferentes etapas con recursos retóricos diferenciados; en su inicio validado por elementos de tipo biológico, luego a la negación más absoluta en las sociedades modernas hasta aproximadamente 1990, momento a partir del cual el racismo se configura por medio de la utilización de la denegación, es decir, que aunque existiendo prácticas racistas, éstas son conceptualizadas desde una matriz distinta, desvirtuando su origen e inscribiéndolas discursivamente en otro campo semántico que no manifieste su cercanía con el racismo, sino que con la diferencia.</p>
+<p>Otro concepto que entra en juego para la comprensión de la relación entre la ciudadanía y el racismo en el contexto de las migraciones, es el de naturalización. Para ello es imperativo recordar que la noción tradicional de la ciudadanía opera desde el advenimiento de la modernidad hasta el desarrollo de las actuales sociedades postindustriales globalizadas, en el espacio del estado nacional; situación que en sí misma supone y reafirma una aproximación dicotómica del constructo, pues se conforman dos tipos de sujetos: los incluidos (ciudadanos efectivos) y los excluidos (no ciudadanos y ciudadanos de facto).</p>
+<p>Al respecto, Abdelmalek Sayad sostiene que los estudios en esta temática han girado en torno a lo que podría denominarse una producción de tipo monográfico respecto a la inmigración; situación que se entiende debido a la mayor facilidad para aproximarse al objeto de estudio, pues la inmigración supone presencia; en cambio, la emigración (sobre la cual hay una escasa producción académica) implica ausencia. La legitimación del discurso de la inmigración por sobre el de la emigración, se forja en función de la posibilidad de registro, contabilización y categorización de los agentes empíricos en cuestión; problemática que se torna más evidente cuando la ciudadanización se naturaliza.</p>
+<p>Vale señalar que la naturalización es asumida en este contexto como “un despliegue de la naturaleza como excusa, como fértil alegoría que nos ayuda a representar a algunas personas y objetos como extraños para, de este modo, autentificar los límites del orden (‘natural’) de las cosas; al tiempo que nos ayuda también a introducir nuevas distinciones sociales y políticas” (<xref ref-type="bibr" rid="redalyc_10146740009_ref1">Comaroff y Comaroff 2002</xref>:122).</p>
+<p>La dicotomización se ha modelado fundamentalmente desde lo formal, como consecuencia de la supremacía de la nacionalidad (inmigración-presencia; emigración-ausencia), incorporando una presión extra sobre la ciudadanía, tal como ya se ha mencionado. El inmigrante, aunque ‘presente’ no adquiere la ciudadanía de forma automática, e inclusive, aunque la obtenga, prima la ‘estigmatización’ de sujeto inmigrante producto de barreras culturales y lingüísticas a las que se enfrenta. Representación que se agudiza aún más cuando se está en un escenario de crisis económica. En el escenario de ‘bonanza’, los inmigrantes desarrollan aquellas actividades económico-productivas y/o de servicios que no desarrollan los ciudadanos de los países receptores; sin embargo, en crisis, impera la idea de que son precisamente estos inmigrantes los que ‘reducen’ las posibilidades efectivas de empleo de los ciudadanos de origen, imaginario que se configura como tal por la ‘natural’ relación entre la oferta y la demanda derivada de la racionalidad instrumental.</p>
+<p>De lo expuesto se reconoce que la naturalización (en el marco de la ciudadanía) opera desde diferentes dimensiones, siendo la político-administrativa la reconocida formalmente en el plano jurídico institucional y, en consecuencia, la menos conflictiva por ser de carácter único. La otra, a la que se denominará ética –en tanto derivada de las representaciones sociales–, supone mayor dificultad y conflicto por ser de carácter múltiple. En tal sentido ella es la que presenta un problema metodológico central, pues está asociada a los constructos sociales y simbólicos vinculados con el valor subjetivo del grupo y la persona, por tanto, trascendiendo la dimensión normativa.</p>
+</sec>
+<sec>
+<title>
+<bold>Ciudadanía e identidad</bold>
+</title>
+<p>Sin pretender entrar en la discusión teórico metodológica respecto a la identidad; pero referenciando los elementos expuestos en los párrafos precedentes, es posible establecer un vínculo con la ciudadanía, puesto que, en tanto status adquirido por diferentes vías, supone ser un elemento configurador de la identidad, que deviene de una permanente relación entre lo singular y lo colectivo. Desde la filosofía se afirma que la identidad está conformada por al menos tres dimensiones, la identidad-mismisidad, la identidad-ipseidad y los momentos de subjetivación (<xref ref-type="bibr" rid="redalyc_10146740009_ref2">Corcuff 2005</xref>). Precisamente, la mismisidad, en tanto elementos objetivables de la identidad personal, se plasman por el status jurídico administrativo de la ciudadanía, ya sea por medio del <italic>ius solis </italic>o el <italic>ius sanguinis</italic>; por su parte, la ipseidad, referida a los aspectos más bien subjetivos, estarían vinculados al plano ético-moral, si se prefiere actitudinal del sujeto empírico, en tanto portador de una identidad personal. Por su parte, los momentos de subjetivación devienen de la irreductibilidad del sujeto y por tanto como vacilaciones de la identidad en términos de la pertenencia y que en consecuencia vienen a reafirmar la singularidad en el espacio de la cotidianeidad.</p>
+<p>En lo específico, se afirmará que “el individuo no es la base atómica de la sociedad moderna ni una ilusión de la economía liberal, sino un artefacto efectivo con un muy largo y complejo proceso histórico” (Morey en <xref ref-type="bibr" rid="redalyc_10146740009_ref9">Foucault 1990</xref>:42). Este individuo, que preferimos denominar, tal como lo hemos hecho hasta ahora, como sujeto, supone ser el heredero de una moral específica, que pareciera actuar como elemento modelador de las relaciones sociales en occidente. No obstante, para Foucault “nuestra moralidad insiste en que lo que se debe rechazar es el sujeto” (<xref ref-type="bibr" rid="redalyc_10146740009_ref9">Foucault 1990</xref>:54); fundamentándolo a partir de la articulación de tres tipos principales de examen de sí mismo. El primero de ellos de tipo cartesiano, referido a la relación de nuestros pensamientos con la realidad; el segundo senequista, referido a la forma en que se vincula el pensamiento con las reglas, y el tercero, de tipo cristiano, referido a la relación entre el pensamiento oculto y una impureza interior (<xref ref-type="bibr" rid="redalyc_10146740009_ref9">Foucault 1990</xref>).</p>
+<p>Al respecto y dadas las condiciones actuales del ‘hacer sociedad’, creemos que estamos frente a un examen de sí mismo que se plasma en el plano empírico a través de dos dimensiones: una normativa y otra de carácter moral. Ambas con sus respectivas trayectorias históricas. Estas presionan por una configuración identitaria del sujeto, y a pesar de ello, la identidad no se reduce a algo permanente, sino que, en virtud de los momentos y escenarios en los que este se expresa, activa diversos sistemas de disposiciones que dejan de manifiesto contradicciones con las cuales este sujeto ha de lidiar, o no, de acuerdo a la expresión de los ‘yoes’ (<xref ref-type="bibr" rid="redalyc_10146740009_ref13">Pazos 2004</xref>).</p>
+<p>Por ello, y contrariamente a lo expuesto por Foucault, insistimos en la noción de ‘sujeto’ para referirnos al agente social; ya que desde la perspectiva que se expone en este ensayo, la discusión en torno a lo social estaría dada por la imbricación del agente y lo colectivo; y donde la diferenciación opera como mecanismo de anclaje en la sociedad. Situación que podría explicar en alguna medida las crisis de identidad derivadas del paso de una forma social eminentemente comunitaria a una predominantemente societaria.</p>
+<p>La existencia del sujeto se constituye como tal dentro de una estructura social específica. Siguiendo el planteamiento de <xref ref-type="bibr" rid="redalyc_10146740009_ref6">Dumont (1987)</xref>, nuestra sociedad que privilegia los procesos de individuación, ha pretendido diferenciarse de las sociedades de casta por considerarlas rígidas, primitivas y que, por consiguiente, poco tienen de común con las sociedades occidentales de tipo moderno. Sin embargo, la existencia del sujeto empírico se sostiene con base a las jerarquías; entendiendo a estas no desde el punto de vista de capacidad lisa y llana de ejercicio del poder entre los estratos, sino en función de las posibilidades de selección que permite el reconocimiento de las diferencias como posibilidad de materialización de la libertad y mantenimiento del orden social. Esta situación es la que da lugar a la modelización del sistema cognitivo.</p>
+<p>Este sistema cognitivo en el que la ‘ciudadanía’, en tanto constructo simbólico que opera en la dimensión ‘ideal’ del sujeto, supone una forma dominante que garantiza, en palabras de Dubar, “una cierta coherencia (ipseidad) y, a largo plazo, la permanencia (mismisidad) de la identidad personal” <xref ref-type="bibr" rid="redalyc_10146740009_ref5">(2002:198)</xref>. Consecuentemente, este proceso tiene un impacto en la manera en que se manifiesta el ‘sujeto empírico’ a través de sus prácticas sociales, pues la “personalidad individual se organiza alrededor de una forma identitaria dominante ‘para los otros’: ya sea comunitaria, ya societaria” (<xref ref-type="bibr" rid="redalyc_10146740009_ref5">Dubar 2002</xref>:198).</p>
+<p>En este sentido, la escuela se erige como modeladora del sistema cognitivo por medio del cual se forja el sujeto ideal empírico, pues se constituye como la institución jerarquizadora por antonomasia: “En el contexto escolar, la máxima relativista de que todas las formas culturales deben ser valoradas por igual en su diversidad ha de ser tomada con pinzas, sobre todo cuando consideramos los modos en que la institución formalizada reinterpreta la diversidad misma. Aplicar dicha máxima irreflexivamente puede conducir a ignorar los efectos reales que los centros escolares producen sobre la jerarquización de las formas culturales” (<xref ref-type="bibr" rid="redalyc_10146740009_ref4">Díaz de Rada 1996</xref>:XXII).</p>
+<p>Lo expuesto, permite reconocer las aportaciones que la escuela realiza a la modificación del agente ideal-empírico, no solo desde el punto de vista informativo (asumiendo que la información que se transmite siempre es seleccionada, no solo en contenido, empero también en la forma en que se transmite), sino que también por medio de la generación de una necesidad de adquirir dicho modelamiento sobre todo a partir del advenimiento de las sociedades modernas. Un claro ejemplo de ello lo encontramos en la carrera credencialista que se manifiesta bajo la premisa de la movilidad social ascendente.</p>
+<p>Así, se da lugar a lo configuración de un sujeto ideal-empírico, ideal en el plano ideético-moral y empírico desde la acción. De allí que la identidad del sujeto estaría vinculada inevitablemente al espacio social por el reconocimiento de sí en un contexto de diferenciación permanente en el seno de la sociedad postindustrial globalizada, adoptando diferentes formas de identificación personal. Siguiendo a Dubar, estas formas corresponden a la cultural, la estatutaria, la reflexiva y la narrativa, todas las cuales se manifestarán de acuerdo a un eje relacional dado por el tipo de organización comunitaria o societaria, y un eje de tipo biográfico construido de acuerdo al sí mismo y los otros.</p>
+</sec>
+<sec>
+<title>
+<bold>El sujeto ideal - empírico </bold>
+</title>
+<p>De acuerdo a los elementos expuestos en los apartados anteriores, y en función de la revisión bibliográfica indicada, es pertinente centrarse en lo que es el elemento esencial de este ensayo; aquello que hemos dado por denominar la díada del sujeto ideal-empírico, y que, consecuentemente, vinculado con la ciudadanía da lugar al sujeto ciudadano en tanto sujeto político.</p>
+<p>Para fines expositivos se procurará presentar de forma separada las dimensiones constitutivas de la díada; en primer término, se expone la dimensión ‘sujeto-ideal’ para luego dar paso a la otra dimensión representada por el ‘sujeto-empírico’. Para ello se torna necesario no perder de vista que dada la trayectoria histórica de occidente este sujeto deviene de un sistema cognitivo específico, en el cual se intersectan dos ejes esenciales: uno asociado al individuo y su singularidad, y el otro vinculado a lo colectivo y las posiciones que se ocupan dentro de la estructura piramidal. La singularidad del sujeto estaría asociada a lo convencional, lo cotidiano que requiere el reconocimiento de un sujeto plural, en cambio los elementos de carácter estructural están más bien interpretados –para la acción– desde la lógica de la racionalidad instrumental; dimensiones (convencional e instrumental) que siempre están en tensión, tal como nos lo indica Díaz de Rada: “sea como sea, hemos de ser muy sensibles a este desajuste entre dimensión instrumental y la dimensión convencional de la experiencia si queremos que nuestros modelos ideales resuenen de algún modo en el mundo real, o si buscamos al menos esclarecer un poco lo que se cuece en ese mundo”<xref ref-type="bibr" rid="redalyc_10146740009_ref4"> (1996:378)</xref>.</p>
+<p>Para efectos de nuestro planteamiento, la dimensión instrumental está más fuertemente vinculada con el sujeto ideal y la dimensión convencional con el sujeto empírico. La imbricación de ambas dimensiones daría cuenta del sujeto ideal-empírico, pues “solo la acción práctica en los contextos informales puede tender puentes de sentido hacia la comprensión (y la construcción) relevante del mundo universalista, abstracto y formalizado de las instituciones burocráticas modernas” (<xref ref-type="bibr" rid="redalyc_10146740009_ref4">Díaz de Rada 1996</xref>:383).</p>
+<p>El ‘sujeto ideal’ se configura a partir de una dimensión del sistema cognitivo, la cual se modelizada a partir de la moral heredada en el mundo occidental otorgando al sujeto un sitio específico en el mundo. Dada su naturaleza social requiere ‘situarse’ en un contexto colectivo, incorporando en nombre de la ciudadanía un dispositivo genérico de deberes y derechos cuya expresión se representa a través de las libertades individuales y las responsabilidades subyacentes en el marco de la convivencia social. De este modo, puede afirmarse que el sujeto ideal (en tanto expresión moral) depende del ‘otro’, pues no le basta (no nos basta) con querer decir y/o actuar; sino que depende (-mos) de las condiciones particulares para la producción de discursos y acciones en el contexto público-privado.</p>
+<p>En consecuencia, se sostiene que la ciudadanía, en tanto constructo simbólico, se inscribe en el imaginario social por medio del cual el sujeto es incluido en lo social, de modo que puede ser entendida como “una forma de socialización de la que no es responsable únicamente la familia” <xref ref-type="bibr" rid="redalyc_10146740009_ref12">(Muñoz y Martínez 2015:</xref>5). O, siguiendo el planteamiento de José Luis García, que la ciudadanía –en tanto entramado cultural– es una suerte de ‘macrocosmos’ organizacional que procura aportar elementos que permitan administrar adecuadamente la relación entre los sujetos que cohabitan en un espacio-tiempo específico.</p>
+<p>Esto permite afirmar que el sujeto ideal se apoya en el ‘otro generalizado’, al que Berger y Luckmann se refieren dentro del proceso de socialización. O como expone Dubar: “el aprendizaje de la subjetividad, de la relación del sí con el sí mismo, debe también estar mediatizado, en el espacio público, por <italic>los otros generalizados</italic>, que permiten el acceso a la ciudadanía” <xref ref-type="bibr" rid="redalyc_10146740009_ref5">(2002:253)</xref>.</p>
+<p>Por su parte, el ‘sujeto empírico’ apoya su expresión por medio de la diferenciación y el énfasis en la singularización; en lo que podría denominarse una lucha por el reconocimiento. Un ejemplo de ello se aprecia en la situación de los inmigrantes, para quienes la obtención de la ciudadanía supone (aunque no necesariamente) la posibilidad de ser reconocidos e incluidos en lo social. En este contexto, la ciudadanía en términos jurídicos administrativos es una manera objetivada y específica a través de la cual se proyecta la presencia del sujeto empírico.</p>
+<p>Este sujeto se manifiesta como un actor plural (Bernard Lahire) que activa diversos sistemas de disposiciones de acuerdo al contexto específico en el cual se desenvuelve; sistemas de disposiciones que pueden diferenciarse a partir de una clasificación de base dada por lo público / privado. Pero también, la dimensión empírica del sujeto se proyecta en virtud y en función de su presentación en la vida cotidiana (para sí y para los otros) como un ‘juego’ a partir del cual se ‘dibuja y des-dibuja’ la identidad, como si de un croquis se tratase (Goffman).</p>
+<p>El sujeto ideal-empírico, en tanto que elemento constitutivo y a la vez constituyente de lo social, se expresa y moviliza con mayor claridad en el contexto de la ciudad, pues es en ella donde emerge la urbanidad como expresión de una cultura caracterizada por la alta velocidad en la que circula entre los intersticios de lo público y privado. La vida urbana se caracteriza por la libertad(es) de este sujeto ideal-empírico, por ejemplo, en términos de la forma de presentarse a sí mismo ante los otros y de la forma de relacionarse con ellos. Sin embargo, cabe señalar que las libertades estarían determinadas por los ejes que se intersectan en el proceso de diferenciación y reconocimiento de la diversidad en el contexto urbano. Uno el de adscripción a clases sociales y el otro, el de la nacionalidad y origen étnico (Van Dijk). Aunque cabe señalar que estos ejes no son exclusivos ni únicos, dadas las formas de expresión de la identidad personal dichas anteriormente de acuerdo al planteamiento de Dubar.</p>
+<p>No hay que perder de vista que la configuración de este sujeto ideal-empírico se forja, en las sociedades occidentales de tipo moderna (actualmente categorizadas como sociedad postindustrial globalizada) a través de la ciudadanía, categoría que ha poseído un papel relevante para la producción y reproducción de una comunidad imaginada, tal como lo señala Signorelli: “Como todo aumento de libertad individual, también esta libertad de identidad o libertad de elección de la propia presentación en público, conlleva un aumento de las responsabilidades individuales: cada sujeto que decide la propia manera de presentarse, identificarse, declararse, asociarse con los demás, es responsable de las reacciones que provoca” <xref ref-type="bibr" rid="redalyc_10146740009_ref16">(2007:307)</xref>.</p>
+<p>A pesar de que <xref ref-type="bibr" rid="redalyc_10146740009_ref5">Dubar (2002)</xref> sostiene que la sociedad contemporánea se encuentra en su formato societario producto de la superación del comunitario, son precisamente los aspectos comunitarios asociados a las formas cultural y reflexiva, propios de este tipo de organización, las que contribuyen a la configuración del sujeto ideal, ya que aluden a ‘los otros’. Por su parte, las formas estatutaria y reflexiva-narrativa podrían considerarse como constitutivas y, a su vez, constituyentes de la dimensión empírica del sujeto, puesto que se refieren al ‘si mismo’, si se quiere, más pertinente para la actual forma societaria que ha adquirido la organización social, pues proporciona mayor libertad para la promoción y expresión de la singularidad.</p>
+<p>El sujeto ideal empírico se constituye como tal producto de un conjunto de elementos que entran en juego; y que al intersectarse se manifiestan de forma diversa dejando en evidencia consistencias e inconsistencias en la constitución de la subjetividad de los actores; los cuales activan diversos sistemas de disposiciones para desplazarse en ‘lo social’.</p>
+<p>En términos generales, tenemos un cruce dado por un eje que da cuenta del espacio ‘público-privado’; otro eje, en el que se proyecta el sujeto en sí por medio de sus dimensiones ideal-empírica. La intersección de estos ejes en la trayectoria de un individuo (diacronía), da espacio para reconocer ‘múltiples sincronías’ (momentos vitales, experienciales), que ayudan a comprender la variabilidad de este sujeto ideal-empírico. Pues, siguiendo el planteamiento de Dubar, se puede afirmar que este sujeto ideal-empírico se proyecta (cual holograma) en el espacio social de manera difusa, movediza, ya que se conjuga en un eje relacional en el cual se reconocen las formas de organización social (comunitaria-societaria) y un eje biográfico en el que se reconoce una ‘construcción-presentación’ de sí, para sí mismo y para los otros.</p>
+<p>En términos sintéticos, diremos que el sujeto ideal-empírico se configura en virtud de los vínculos que se establecen entre estas dimensiones constitutivas del sujeto y las dimensiones derivadas del espacio relacional (para sí-para los otros), las dimensiones derivadas del tiempo (sincronía-diacronía) y las dimensiones del espacio (público-privado).</p>
+</sec>
+<sec>
+<title>
+<bold>Conclusiones</bold>
+</title>
+<p>Tal como se expusiera en páginas precedentes, la tesis central del ensayo es que la ciudadanía en tanto constructo sustentado en la dicotomía inclusión / exclusión opera como elemento modelador del sujeto ideal-empírico en el escenario de las sociedades modernas, y más específicamente en las sociedades postindustriales globalizadas. De allí que los argumentos expuestos se orientaran desde ámbitos como el campo de las migraciones y las identidades, pues corresponden a ámbitos a través de los cuales se evidencia con nitidez la tensión desde la cual es posible visualizar la ciudadanía en tanto que unidad categorial.</p>
+<p>Cuando la ciudadanía se asume como categoría modeladora del sujeto, al cual hemos denominado ideal-empírico, estamos indicando que desde el advenimiento de las sociedades modernas el establecimiento de fronteras estado nacionales no solo atendían al interés por generar una delimitación geográfica, sino que por sobre todo, y dado el peso simbólico de la ciudadanía, éstas se constituyeron en agentes configuradores de estructuras de significación que permiten –hasta el día de hoy– establecer límites para el modelamiento del sistema cognitivo que opera en una sociedad determinada.</p>
+<p>En tal sentido, la ciudadanía en tanto status jurídico adquirido (ya sea por <italic>ius solis o ius sanguinis</italic>) da cuenta de la ‘pertenencia’ objetiva a la comunidad imaginada; sin embargo, es la dimensión subjetiva (convencional) la que conlleva mayor interés en la conformación del sujeto ideal-empírico. Ya que el status adscrito o adquirido de ciudadano en un estado nacional concreto, no implica necesariamente la inclusión efectiva en ‘lo social’; cierto es que en términos ideales la facilitaría, pero no la asegura. Puesto que la manifestación empírica del sujeto se desarrolla por medio de su capacidad de agencia y acción y los diversos sistemas de disposiciones que activa para dichos efectos en el espacio público-privado. En este sentido, los momentos de subjetivación son de extrema importancia, por cuanto representan instancias de reafirmación de la singularidad del sujeto ideal-empírico en el escenario de lo social.</p>
+<p>En síntesis, podría afirmarse que (a) la bi-dimensionalidad dada por la imbricación ideal-empírica permite la configuración de lo que denominaremos el ‘sujeto ciudadano’, (b) que este sujeto ciudadano es modelizado idealmente por el conjunto de libertades individuales y las respectivas responsabilidades de actuación en el marco de la estructura social y su respectiva jerarquización, (c) que, precisamente, el reconocimiento de jerarquías contribuye a la manifestación empírica del sujeto, no en términos de ejercicio del poder, sino en esfuerzos de diferenciación y singularización en el campo de lo social; y (d) el reconocimiento de la posibilidad de singularizarse y los respectivos procesos de individuación, otorgan sentido a la idea de que el sujeto ciudadano, si bien está ‘regido’ por un cuerpo de carácter normativo, es esencialmente un sujeto irreductible, expresándose especialmente en las formas narrativas-reflexivas de identificación del sí mismo.</p>
+<p>Finalmente, la noción de sujeto ideal-empírico representa, si se quiere, un esfuerzo por proporcionar una herramienta conceptualmente ‘dúctil’ para quienes se interesan en comprender el devenir social; pues tal como ha sido la intención (y por qué no decir también intensión), se deja abierta su utilización desde diversos enfoques teóricos, sin por eso desvirtuar su poder heurístico; aun cuando el sistema cognitivo de base sufra modificaciones superficiales o transformaciones de fondo, o cuando la o las identidades entren en conflicto, pues el sujeto ideal-empírico siempre se manifiesta irreductiblemente.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>
+<bold>Bibliografía</bold>
+</title>
+<ref id="redalyc_10146740009_ref1">
+<mixed-citation>Comaroff, J. y Comaroff, J. 2002. Naturalizando la nación: aliens, apocalipsis y el estado postcolonial. <italic>Revista de Antropología Social </italic>11: 89-133. <ext-link ext-link-type="uri" xlink:href="http://revistas.ucm.es/index.php/RASO/article/view/10645">http://revistas.ucm.es/index.php/RASO/article/view/10645</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Comaroff</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Comaroff</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<source>Revista de Antropología Social</source>
+<year>2002</year>
+<comment>
+<ext-link ext-link-type="uri" xlink:href="http://revistas.ucm.es/index.php/RASO/article/view/10645">http://revistas.ucm.es/index.php/RASO/article/view/10645</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref2">
+<mixed-citation>Corcuff, P. 2005. Lo colectivo en el desafío de lo singular: partiendo del habitus, pp. 113-142. En: B. Lahire (ed) <italic>El trabajo sociológico de Pierre Bourdieu. Deudas y críticas</italic>. Buenos Aires: Siglo XXI.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Corcuff</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<source>El trabajo sociológico de Pierre Bourdieu Deudas y críticas</source>
+<year>2005</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref3">
+<mixed-citation>Barañano, A; García, J; Cátedra, M. y Devillard, M. 2007. <italic>Diccionario de relaciones interculturales. Diversidad y globalización</italic>. Madrid: Editorial Complutense.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Barañano</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>García</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cátedra</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Devillard</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<source>Diccionario de relaciones interculturales Diversidad y globalización</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref4">
+<mixed-citation>Díaz de Rada, A. 1996. <italic>Los primeros de la clase y los últimos románticos. Una etnografía para la crítica de la visión instrumental de la enseñanza</italic>. Madrid: Siglo XXI.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Díaz de Rada</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<source>Los primeros de la clase y los últimos románticos Una etnografía para la crítica de la visión instrumental de la enseñanza</source>
+<year>1996</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref5">
+<mixed-citation>Dubar, C. 2002. <italic>La crisis de las identidades</italic>. Barcelona: Bellaterra.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Dubar</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<source>La crisis de las identidades</source>
+<year>2002</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref6">
+<mixed-citation>Dumont, L. 1987. <italic>Ensayos sobre el individualismo</italic>. Madrid: Alianza.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Dumont</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<source>Ensayos sobre el individualismo</source>
+<year>1987</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref7">
+<mixed-citation>Estévez, A. 2016. ¿Derechos humanos o ciudadanía universal? Aproximación al debate de derechos en la migración. <italic>Revista Mexicana de Sociología</italic> 78(1): 61-87. <ext-link ext-link-type="uri" xlink:href="http://www.revistas.unam.mx/index.php/rms/article/view/53476">http://www.revistas.unam.mx/index.php/rms/article/view/53476</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Estévez</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<source>Revista Mexicana de Sociología</source>
+<year>2016</year>
+<comment>
+<ext-link ext-link-type="uri" xlink:href="http://www.revistas.unam.mx/index.php/rms/article/view/53476">http://www.revistas.unam.mx/index.php/rms/article/view/53476</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref8">
+<mixed-citation>Fassin, D. y Fassin, E. 2006. <italic>De la question sociale à la question raciale?</italic> París: La Découverte.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Fassin</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Fassin</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<source>De la question sociale à la question raciale?</source>
+<year>2006</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref9">
+<mixed-citation>Foucault, M. 1990. <italic>Dialogo sobre el poder</italic>. Madrid: Alianza.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Foucault</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<source>Dialogo sobre el poder</source>
+<year>1990</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref10">
+<mixed-citation>Garretón, M. 2000. <italic>La sociedad en la que viviremos. Análisis sociológico de la sociedad de fin de siglo</italic>. Santiago: Lom.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Garretón</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<source>La sociedad en la que viviremos Análisis sociológico de la sociedad de fin de siglo</source>
+<year>2000</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref11">
+<mixed-citation>González, P. 2015. Ciudadanía ante el espacio público. La difícil y necesaria relación para fortalecer a las instituciones. <italic>CONfines de Relaciones Internacionales y Ciencia Política</italic> 11(21): 87-106. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-35692015000100005">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-35692015000100005</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>González</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<source>CONfines de Relaciones Internacionales y Ciencia Política</source>
+<year>2015</year>
+<comment>
+<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-35692015000100005">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-35692015000100005</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref12">
+<mixed-citation>Múñoz, C. y Martínez, R. 2015. Prácticas pedagógicas y competencias ciudadanas: el caso del docente de historia en Chile. <italic>Actualidades Investigativas en Educación</italic> 15(3): 1-21. doi: 10.15517/aie.v15i3.20658</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Múñoz</surname>
+<given-names>C.</given-names>
+</name>
+<name>
+<surname>Martínez</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<source>Actualidades Investigativas en Educación :</source>
+<year>2015</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref13">
+<mixed-citation>Pazos, A. 2004. Narrativa y subjetividad. A propósito de Lisa, una “niña española”. <italic>Revista de Antropología Social </italic>13: 49-96. <ext-link ext-link-type="uri" xlink:href="http://revistas.ucm.es/index.php/RASO/article/view/RASO0404110049A">http://revistas.ucm.es/index.php/RASO/article/view/RASO0404110049A</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pazos</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<source>Revista de Antropología Social</source>
+<year>2004</year>
+<comment>
+<ext-link ext-link-type="uri" xlink:href="http://revistas.ucm.es/index.php/RASO/article/view/RASO0404110049A">http://revistas.ucm.es/index.php/RASO/article/view/RASO0404110049A</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref14">
+<mixed-citation>Salvatto, F. y Carzolio, M. 2015. Naturaleza y ciudadanía en la España Moderna. De la representación del súbdito a los albores de la ciudadanía contemporánea (siglos XVII-XIX). <italic>Almanack </italic>11: 670-706.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Salvatto</surname>
+<given-names>F.</given-names>
+</name>
+<name>
+<surname>Carzolio</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<source>Almanack</source>
+<year>2015</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref16">
+<mixed-citation>Signorelli, A. 2007. Antropología urbana, pp. 293-318. En: C. Lisón Tolosana. <italic>Introducción a la antropología social y cultural. Teoría, método y práctica</italic>. Madrid: Akal.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Signorelli</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<source>Introducción a la antropología social y cultural Teoría método y práctica</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740009_ref17">
+<mixed-citation>Van Dijk, T. 2003. <italic>Racismo y discurso político de las élites</italic>. Barcelona: Gedisa.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Van Dijk</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<source>Racismo y discurso político de las élites</source>
+<year>2003</year>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

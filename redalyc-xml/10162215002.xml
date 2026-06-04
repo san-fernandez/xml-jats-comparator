@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000300295</article-id>
+         <article-id pub-id-type="publisher-id">00002</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Polarización como impermeabilidad: cuando las razones ajenas no importan</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Polarization as impermeability: when others’ reasons do not matter</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0788-9733</contrib-id>
+               <name>
+                  <surname>Bordonaba-Plou</surname>
+                  <given-names>David</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad de Valparaíso. Chile</institution>
+            <institution content-type="normalized">Universidad de Valparaíso</institution>
+            <institution content-type="orgname">Universidad de Valparaíso</institution>
+            <country country="CL">Chile</country>
+            <email>david.bordonaba@uv.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Oct-Dec</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>66</issue>
+         <fpage>295</fpage>
+         <lpage>309</lpage>
+         <history>
+            <date date-type="received">
+               <day>23</day>
+               <month>09</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>04</day>
+               <month>11</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El objetivo de este trabajo es defender la idea de polarización como impermeabilidad, un sentido de polarización que se ha pasado por alto en la literatura sobre polarización política. Según este sentido de polarización, una persona o un grupo se polariza en la medida en que cada vez sea más impermeable a las ideas o razones ajenas. De esta manera, y en contra de la idea en la que se basan los sentidos de polarización disponibles en la literatura hasta el momento, una población o un grupo puede polarizarse si no ha habido ningún movimiento del centro hacia los extremos del espectro ideológico. Asimismo, se defenderá que entender la polarización en este nuevo sentido ofrece ventajas por varias razones: i) la polarización como impermeabilidad es un sentido de polarización más acorde con algunos de los fenómenos que son relevantes para entender las sociedades democráticas actuales: la economía de la atención, la personalización de la información o las cámaras de eco; ii) entender la polarización de manera estándar, es decir, como un desplazamiento del centro hacia los extremos del espectro ideológico, conlleva ciertos problemas.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The aim of this paper is to defend the idea of polarization as impermeability, a sense of polarization that has been overlooked in the debate on political polarization. According to this sense of polarization, a person or group is polarized to the extent that it is impervious to the ideas or reasons of others. In this way, and contrary to the idea on which the senses of polarisation available in literature so far are based, a person or group may be polarised if there has been no movement from the centre to the extremes of the ideological spectrum. Likewise, it will be defended that understanding polarization in this new sense offers advantages for several reasons: i) polarization as impermeability is a sense of polarization more in line with some of the phenomena that are relevant to understanding today’s democratic societies: the economy of attention, the personalization of information or echo chambers; ii) understanding polarization in a standard way, that is, as a shift from the centre towards the ends of the ideological spectrum, entails certain problems.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>asunción riesgo</kwd>
+            <kwd>polarización grupo</kwd>
+            <kwd>espectro ideológico</kwd>
+            <kwd>impermeabilidad</kwd>
+            <kwd>cámaras eco</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>risky-shift phenomenon</kwd>
+            <kwd>group polarization</kwd>
+            <kwd>ideological spectrum</kwd>
+            <kwd>impermeability</kwd>
+            <kwd>echo-chambers</kwd>
+         </kwd-group>
+         <funding-group>
+<award-group award-type="contract">
+               <funding-source>CONICYT</funding-source>
+            </award-group>
+            <award-group award-type="contract">
+               <funding-source>FONDECYT</funding-source>
+            </award-group>
+             <award-group award-type="contract">
+               <funding-source>POSTDOCTORADO</funding-source>
+               <award-id>3180096</award-id>
+            </award-group>
+            <funding-statement> El presente trabajo surge en el marco del proyecto A Computational Dynamic Analysis of Public Debates on Politics, Aesthetics and Taste, financiado por CONICYT / FONDECYT / POSTDOCTORADO / N° Proyecto 3180096, del cual el autor es el Investigador Responsable.</funding-statement>
+         </funding-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="1" />
+            <equation-count count="0" />
+            <ref-count count="22" />
+            <page-count count="15" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>1. Introducción</title>
+         <p>La polarización política es un fenómeno que ha saltado a la palestra los últimos años, principalmente a causa de acontecimientos políticos como la llegada a la Casa Blanca de Donald Trump o la llegada a los parlamentos de partidos de ultraderecha. Probablemente uno de los casos mejor estudiados haya sido el estadounidense. Varios autores han defendido la existencia de procesos de polarización en la política estadounidense desde mucho antes de que Donald Trump fuera presidente: “los partidos demócrata y republicano hoy en día, aunque siguen siendo coaliciones de base amplia, tienen ideologías mucho más definidas que en el pasado. Los republicanos liberales y los demócratas conservadores, quienes una vez ejercieron una influencia considerable en sus respectivos partidos, casi han desaparecido. Desde los años 60, el centro ideológico del Partido Demócrata se ha desplazado hacia la izquierda, mientras que el centro ideológico del Partido Republicano se ha movido hacia la derecha” (Abramowitz 2010:158). Más recientemente: “la debilidad de nuestras normas democráticas arraiga en una polarización partidista extrema, una polarización que sobrepasa las diferencias políticas y empalma con un conflicto existencial racial y cultural” (Levitsky y Ziblatt 2018:18).</p>
+         <p>Podría pensarse que la idea de un proceso de polarización política en la sociedad estadounidense no pasa de ser un constructo teórico de los académicos que se dedican a investigar tales menesteres. Si esto fuera así, quizás el alcance de las tesis defendidas por los autores arriba citados no sería demasiado amplio. Sin embargo, la idea de que la sociedad estadounidense se ha polarizado durante los últimos años también cuenta con un apoyo empírico más que considerable. Según un estudio de Pew Research Center realizado en 2014 en Estados Unidos, se ha dado un proceso de polarización política en los últimos veinte años. El estudio, que abarcó el periodo comprendido entre 1994 y 2014 y se basó en más de 10.000 encuestas telefónicas, confirmó este proceso de polarización. Se observó un desplazamiento considerable hacia los extremos del espectro ideológico de personas que militaban en el centro político. El 49% de la población estadounidense ocupaba el centro político en 1994, por el 39% en 2014. Otro dato que confirma este proceso de polarización es el hecho de que el solapamiento ideológico entre los dos partidos ha disminuido: el 92% de los republicanos de hoy son más conservadores que el demócrata medio, cuando era un 64% en 1994; y el 94% de los demócratas hoy en día son más liberales que el republicano medio, cuando era un 70% en 1994.</p>
+         <p>¿La polarización política se circunscribe solo al caso de Estados Unidos? ¿O puede hablarse de procesos de polarización en otros estados? La respuesta es que la polarización, hoy en día, parece un fenómeno global. Además de algunos fenómenos como el ya mencionado incremento del apoyo popular a los partidos de ultraderecha en muchos países de todo el mundo, un estudio realizado por IPSOS Mori para la BBC, realizado en 27 países de todo el mundo, pone de relieve que la división social y política está creciendo no solo en Estados Unidos, sino en todo el mundo. Específicamente, el estudio muestra que el 76% de los encuestados piensa que las sociedades de sus países están divididas, y el 59% de los encuestados piensa que sus países están más divididos que hace 10 años. Además, el estudio señala la diferencia de opiniones políticas como la principal causa de esta división.</p>
+         <p>El objetivo principal del artículo es defender la idea de que la polarización política puede, y en ciertos contextos de hecho debe, entenderse como impermeabilidad, un sentido de polarización que se ha pasado por alto en el debate sobre polarización política. Los sentidos de polarización disponibles en la literatura dependen de la idea de distancia entre los extremos del espectro ideológico. Esta manera de entender y medir la polarización tiene, como señalaremos, varios problemas. El sentido de polarización propuesto no tiene por objeto reemplazar al resto de sentidos ya distinguidos, sino más bien complementar una taxonomía no exhaustiva. El artículo se estructura en cuatro partes. Primero, se analizará el fenómeno de la asunción de riesgo, el antecedente histórico de la polarización de grupo, concepto básico sobre el que se fundamentan los distintos sentidos de polarización disponibles en la literatura en la actualidad. Segundo, se revisarán los diferentes sentidos en los que se ha entendido el término “polarización” en la literatura reciente. Tercero, se describirá el sentido de polarización como impermeabilidad. Asimismo, se defenderá que este sentido es básico por dos razones: i) la polarización como impermeabilidad es un sentido de polarización más acorde con algunos de los fenómenos de más relevancia en las democracias actuales: la economía de la atención, la personalización de la información o las cámaras de eco; ii) entender la polarización a la manera estándar adolece de ciertos problemas.</p>
+      </sec>
+      <sec>
+         <title>2. Del cambio en la asunción de riesgo a la polarización de grupo</title>
+         <p>Una de las preguntas a las que pretendió responder desde sus inicios la psicología social fue cómo influyen los grupos en los individuos. La importancia de este tema en los inicios de la psicología social es manifiesta: “el individuo y el grupo es en realidad el problema central de la psicología social” (Allport 1962:7). Una de las ideas que se usaron para explicar dicha influencia fue la idea de convergencia de grupo, es decir, la idea de que las personas tienden a hacer juicios más extremos cuando se encuentran solas que cuando están en grupo: “trabajar en presencia de otros, incluso aunque no haya contacto directo ni comunicación, establece ciertas actitudes fundamentales. […] Y finalmente, evitamos los extremos al emitir juicios, tendiendo, a menudo inconscientemente, hacia la conformidad con lo que creemos que es la opinión que los demás tienen de nosotros” (Allport 1924:285). Sin embargo, a principios de los años setenta empezó a constatarse dentro de la psicología social la existencia de un fenómeno llamado cambio en la asunción de riesgo. Varios estudios determinaron que las personas tienden a hacer juicios más arriesgados (o más cautelosos) sobre un tema después de haber discutido el tema en grupo: “la discusión tiende a aumentar la asunción de riesgo cuando un tema produce una respuesta inicial arriesgada, y tiende a aumentar la precaución en los temas que tienden a provocar respuestas iniciales cautelosas” (Myers y Bishop 1971:386).</p>
+         <p>Los estudios que abordaron este fenómeno utilizaron respuestas a dilemas de elección, usando escalas de Likert, para medir la asunción de riesgo antes y después de que las personas participantes discutieran en grupo. Aunque los diferentes estudios variaban en la elección del dilema, todos compartían una estructura similar: “en estos experimentos los sujetos aconsejan a personas hipotéticas antes y después de la discusión en cuanto a la probabilidad mínima que estiman aceptable antes de arriesgarse a llevar a cabo una acción que tiene consecuencias deseables, pero solo en caso de que la acción tenga éxito” (Myers y Arenson 1972:615). Algunos de los dilemas eran: cuál sería la probabilidad más baja aceptable para hacer una jugada de ajedrez que, si tiene éxito, traerá una victoria casi instantánea pero que si no lo tiene conducirá a una derrota segura; cuál sería la probabilidad más baja aceptable para decidir hacer un importante viaje para una investigación de campo teniendo en cuenta que elegir esta opción podría implicar la pérdida de la financiación de tu educación; o cuál sería la probabilidad más baja aceptable para una joven secretaria de embarcarse en una carrera de modelo.</p>
+         <p>Aunque algunos estudios no mostraban que la discusión en grupo tendiera a hacer más extremas las opiniones individuales iniciales, estos eran la excepción. Los resultados de la mayor parte de estos experimentos mostraron que la discusión en grupo aumentaba la tendencia inicial arriesgada (o cautelosa). Para algunos autores, el término “cambio en la asunción de riesgo” era una etiqueta demasiado restrictiva de un fenómeno mucho más amplio. Para ellos, centrarse en la asunción de riesgo evitó que se “pensara en términos teóricos más amplios sobre los efectos de la comunicación en las actitudes y el comportamiento intragrupales” (Myers y Lamm 1976:603). Que los experimentos se centraran en este tipo de dilemas probablemente hizo que la idea no se aplicara de manera más general a la comunicación intragrupal. Con el paso del tiempo, esta concepción restrictiva del fenómeno cambió y, lo que en un principio se había llamado cambio en la asunción de riesgo, pasó a llamarse polarización de grupo. Con este cambio se pudo investigar las dinámicas de grupo de manera general y, de este modo, se pudo detectar los mecanismos responsables de la polarización de grupo. Concretamente, en la literatura se han señalado tres mecanismos para explicar dicho fenómeno:</p>
+         <p>Influencia informativa. “La influencia informativa sugiere que la discusión genera argumentos predominantemente favoreciendo la alternativa preferida inicialmente” (Myers y Lamm 1976:611). Es decir, este mecanismo está relacionado con cómo la pertenencia a un grupo influye en el número de argumentos que se dan para defender o atacar una creencia dada. Si pertenecemos a un grupo, y este grupo defiende una creencia p, entonces es probable que conozcamos más argumentos a favor de p que argumentos en contra de p. Cuanto mayor sea el número de argumentos a favor de p, y menor el número de argumentos en contra de p, mayor será la confianza del grupo en p, y por lo tanto mayor será la probabilidad de que el grupo acabe creyendo p’, siendo p’ una creencia más extrema que p. En otras palabras: “si los miembros de un grupo ya están inclinados hacia una dirección determinada, ofrecerán un número desproporcionadamente grande de argumentos en esa misma dirección, y un número desproporcionadamente pequeño de argumentos en la otra dirección. La consecuencia de la discusión será, naturalmente, hacer avanzar a la gente en la dirección de sus inclinaciones iniciales” (Sunstein 2017:72).</p>
+         <p>Comparación social e interpersonal. “Los sujetos desean presentarse y ser percibidos [ante los demás] de manera favorable, por lo que exponerse a los puntos de vista ajenos puede estimular al sujeto a moldear su respuesta a fin de reajustar su imagen de deseabilidad social” (Myers y Lamm 1976:610). O, de manera alternativa pero equivalente, “cuando la gente se preocupa por su reputación, lo que dice en las discusiones de grupo se verá afectado. Como resultado, los grupos pueden llegar a ser más extremos” (Sunstein 2017:73). En conclusión, cuando estamos en un grupo, la exposición a las preferencias y opiniones de las personas que pertenecen a ese grupo es una poderosa influencia para nuestras propias opiniones, y esto puede hacer que acabemos teniendo opiniones más extremas que al principio si, por ejemplo, la opinión predominante en el grupo es más extrema que la nuestra.</p>
+         <p>Relación entre confianza, extremismo y corroboración. Cuanta más corroboración se dé a una idea dentro de un grupo, mayor será el grado de confianza que el grupo tendrá en esa idea, lo que podrá hacer que las opiniones del grupo respecto a esa idea sean más extremas. Incluso respecto a temas nada controvertidos, “las opiniones de la gente se vuelven más extremas simplemente porque sus puntos de vista han sido corroborados, porque su confianza aumenta al aprender que otras personas comparten sus puntos de vista” (Sunstein 2017:74).</p>
+         <p>El fenómeno de la polarización de grupo se ha constatado empíricamente sobre temas diversos. Uno de los campos donde se ha estudiado ha sido en la deliberación sobre cuestiones políticas. En un experimento llevado a cabo en dos ciudades estadounidenses, Boulder, de mayoría liberal, y Colorado Springs, de mayoría conservadora, “se pidió a los grupos que deliberaran sobre tres temas muy controvertidos: el calentamiento global, la acción afirmativa y las uniones civiles entre personas del mismo sexo” (Sunstein, Hastie y Schkade 2007:916). El resultado del experimento fue claro: “los grupos de Boulder se volvieron más liberales en los tres temas; los grupos de Colorado Springs se volvieron más conservadores” (Sunstein, Hastie y Schkade 2007:917). Otros estudios se han centrado en investigar si los nuevos medios de difusión de información, especialmente las redes sociales, agravan la polarización de grupo. Varios estudios acometen esta empresa llegando a resultados divergentes. Saritah Yardi y Danah Boyd, en su artículo de 2010 titulado Dynamic debates: an analysis of group polarization over time on Twitter, analizan más de 11.000 tweets correspondientes a las 24 horas posteriores al tiroteo del Dr. George Tiller, y concluyen que durante ese tiempo “se observó poco cambio en la extremidad relativa de las opiniones” (Yardi y Boyd 2010:322). En una línea similar: “la relativa escasez de recomendaciones de noticias [políticas polarizadoras] junto con las preferencias relativamente centristas de la mayoría de las personas, conducen a un nivel general moderado de extremismo” (Flaxman, Goel y Rao 2013:3-4).</p>
+         <p>Sin embargo, otros autores defienden lo contrario, es decir, que la manera en la que se transmite la información en las redes sociales aumenta la probabilidad de que los grupos se polaricen: “el auge de las redes sociales, especialmente al desplazar a otros medios de comunicación, puede llevar a una mayor polarización del electorado” (Halberstam y Knight 2016:75). Cass R. Sunstein, quien defiende que en la medida en que las redes sociales y otros medios de comunicación permiten personalizar la información hasta niveles insospechados, opina que respecto a las redes sociales: “debemos ser cautelosos. El autoaislamiento y la personalización son soluciones a algunos problemas genuinos, pero también difunden falsedades y promueven la polarización y la fragmentación” (Sunstein 2017:5).</p>
+         <p>El presente trabajo está en sintonía con las ideas de estos últimos autores ya que defiende igualmente que las redes sociales fomentan la polarización. Sin embargo, se separa de ellos en un aspecto importante: no es que algunos fenómenos propios de las redes sociales fomenten la polarización (entendida como extremismo), sino que esos mismos fenómenos constituyen una nueva forma de polarización, la polarización como impermeabilidad. Bajo este nuevo sentido una sociedad o un grupo pueden polarizarse independientemente de cuál sea la posición que ocupe su distribución de creencias en el espectro ideológico, simplemente siendo impermeable a las opiniones, razones o ideas de otros grupos con creencias no afines. Este sentido de polarización viene a complementar un vacío en las opciones teóricas disponibles hoy en día en la literatura sobre polarización, ya que los distintos sentidos distinguidos en la literatura se basan en una misma idea. En la siguiente sección, revisaré los distintos sentidos de “polarización” distinguidos en la literatura para evidenciar este vacío teórico.</p>
+      </sec>
+      <sec>
+         <title>3. Nueve sentidos de polarización</title>
+         <p>
+            Para exponer los distintos sentidos de “polarización” que se pueden encontrar en la literatura hasta el momento, seguiré el artículo de 2017 de Bramson et al. titulado Understanding polarization: meanings, measures and model evaluation por ser el estudio más exhaustivo al respecto. Ellos mismos reiteran “que los nueve sentidos de polarización que aquí se esbozan no son exhaustivos” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:119). Por lo tanto, el sentido de polarización que se presenta en el presente trabajo tiene como objetivo principal complementar la taxonomía presentada por los citados autores. En su artículo se distinguen nueve sentidos del término “polarización”.
+         </p>
+         <p>
+            Primero, la polarización, en el sentido de propagación, “puede medirse como el valor del agente con el valor de creencia más alto menos el valor del agente con el valor de creencia más bajo” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:120). Supongamos que preguntamos a los ciudadanos de dos poblaciones diferentes, la población A y la población B, la siguiente pregunta: ¿se asocia a menudo el Islam con el terrorismo en los videojuegos? Supongamos que el rango de los valores de respuesta es de 1 (totalmente en desacuerdo) a 10 (totalmente de acuerdo). Entonces, si las respuestas de los ciudadanos de la población A van de 2 a 9, y las respuestas de los ciudadanos de la población B van de 1 a 10, la población B está más polarizada que la población A ya que la diferencia entre los extremos (entre el valor del agente con el valor de creencia más alto y el agente con el valor de creencia más bajo) es mayor en B (= 9) que en A (= 7).
+         </p>
+         <p>
+            Segundo, la polarización puede entenderse como dispersión. “A diferencia de la propagación, que considera solo el valor de los extremos de una población, la dispersión considera la forma general de la distribución” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:120-121). En este sentido de polarización no se considera el valor de los extremos de la distribución, como en el sentido anterior, sino la forma que adopta la representación de todas las creencias de una población dada. Retomando el ejemplo anterior, consideremos que hacemos la misma pregunta a la población A, formada por 71 personas, y a la población B, formada por 63 personas. Las respuestas de la población A son: 1 (1 persona), 2 (1 persona), 3 (3 personas), 4 (13 personas), 5 (15 personas), 6 (18 personas), 7 (15 personas), 8 (3 personas), 9 (1 persona) y 10 (1 persona); mientras que las respuestas de la población B son: 1 (1 persona), 2 (10 personas), 3 (11 personas), 4 (9 personas), 5 (2 personas), 6 (4 personas), 7 (9 personas), 8 (9 personas), 9 (7 personas) y 10 (1 persona). Dada la forma general de la distribución de cada una de las poblaciones, la población B estará más polarizada que la población A. En la población A la mayor parte de la población se concentra en una misma parte del espectro, concretamente en el centro (valores 4 a 7), mientras que en la población B existen dos grupos con un peso parecido situados uno en cada extremo (valores 2 a 4 y 7 a 9, respectivamente).
+         </p>
+         <p>
+            Tercero, la polarización puede entenderse como cobertura. En este sentido, “una población está polarizada cuando existe poca diversidad de opiniones, es una población en la que solo se ocupan bandas estrechas del espacio de opinión” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:121). Es otras palabras, cuanta más cobertura del espectro ideológico tenga una población, menos polarizada estará. Para ilustrar esto, reconsideremos de nuevo el ejemplo anterior, y supongamos que las respuestas de la población A van de 1 a 10, mientras que las respuestas de la población B van de 1 a 2, de 4 a 7 y de 9 a 10. Entonces, de acuerdo con esta noción de polarización, la población B estará más polarizada que la población A, porque en el caso de la población B hay partes del espectro de opinión que no están cubiertas, algo que no sucede en el caso de la población A donde todo el espectro está cubierto.
+         </p>
+         <p>
+            Cuarto, la polarización también puede definirse como regionalización. “Podemos medir la polarización no en términos de cuántas regiones [del espectro ideológico] están ocupadas, sino en términos de cuántas regiones vacías hay entre las áreas llenas” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:122). Es decir, cuantos más espacios vacíos haya en el espectro ideológico entre las zonas que están ocupadas, más polarizada estará esa población. La regionalización es distinta a la cobertura porque la cantidad total de espacio no ocupado del espectro ideológico puede ser igual en dos poblaciones, pero la distribución exacta de estas regiones no ocupadas puede ser distinta. Consideremos de nuevo el ejemplo anterior y supongamos las siguientes distribuciones para las poblaciones A y B: en la población A, las respuestas van de 1 a 2, de 5 a 6 y de 9 a 10; en la población B, las respuestas van de 1 a 2, de 3 a 4 y de 9 a 10. Como puede observarse, aunque el espacio total no ocupado del espectro ideológico es el mismo en cada caso (= 4), la población A está más polarizada que la población B porque en su caso existen más zonas vacías del espectro ideológico entre las zonas ocupadas.
+         </p>
+         <p>Todos los sentidos de polarización que se han visto hasta ahora se definen en términos de las características de las distribuciones de creencias observables en toda la población. Es decir, no tienen en cuenta el número de subgrupos en los que se subdivide una población. Los cinco sentidos de “polarización” que se presentarán a continuación sí hacen uso de esta idea. Los grupos en los que se subdivide una población pueden definirse de dos maneras distintas. Primero, endógenamente, atendiendo exclusivamente a los patrones de frecuencia de los valores de las respuestas, distinguiendo distribuciones uni-modales, donde la mayor parte de las respuestas se agrupan en torno a una única región, bi-modales, donde existen dos regiones de respuesta con picos separados, o tri-modales, con tres regiones de respuesta distintas con picos separados. Segundo, los grupos pueden definirse exógenamente, por ejemplo, por raza, sexo o nivel educativo. En los ejemplos que presentaremos a continuación, definiremos los grupos exógenamente.</p>
+         <p>
+            Quinto, la polarización puede entenderse como fracturación de la comunidad. La polarización en este quinto sentido mide “el grado en el que la población puede dividirse en subpoblaciones” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:124). Cuanto mayor sea el número de grupos en el que una población pueda dividirse, más polarizada estará en el sentido de estar más dividida. Consideremos el siguiente ejemplo. Supongamos que tenemos dos poblaciones, A y B, compuestas por 78 y 85 personas, por ejemplo, las comunidades de dos edificios de un mismo barrio. Supongamos que se les pregunta a estas dos poblaciones si el Gobierno debería destinar a educación menos del 3% del PIB, entre el 3 y el 6% del PIB, o más de 6% del PIB. Supongamos que dividimos la población A por nivel educativo y obtenemos dos subgrupos: uno formado por 45 personas con educación básica y otro por 33 personas que tienen educación media. Ahora supongamos que al dividir a las personas de la población B por nivel educativo obtenemos cuatro subgrupos: uno formado por 13 personas con educación básica, otro formado por 37 personas con educación media, un tercero formado por 28 personas con educación universitaria, y un cuarto formado por 7 personas con doctorado. Sean cuales sean las respuestas de las personas a la pregunta, de acuerdo con este quinto sentido de polarización la población B está más polarizada que la A por el hecho de que está más fracturada, en el sentido de que obtenemos más grupos cuando la dividimos exógenamente por nivel educativo.
+         </p>
+         <p>
+            Sexto, la polarización puede entenderse como distintividad. Según este sexto sentido, la polarización coincide con “el grado en que las distribuciones de los grupos [en el espectro ideológico] están separadas” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:125). Cuanta más separación haya entre las distribuciones de cada grupo, más polarizada estará dicha población. Dicho de otra manera, cuanto menos solapamiento haya entre las distribuciones de dos o más grupos, más polarizada estará esa población. Supongamos que queremos saber en qué grado (1 totalmente en desacuerdo; 10 totalmente de acuerdo) consideran las personas de dos poblaciones, la población A (85 personas) y la población B (81 personas), si el cambio climático es el problema más grave en sus países. Para ello, dividimos las dos poblaciones por edad: mayores de 65 años y menores de 65 años. En la población A obtenemos un grupo de mayores de 65 años compuesto por 50 personas, cuyas respuestas oscilan entre 1 y 5, y un grupo de menores de 65 años formado por 35 personas, cuyas respuestas oscilan entre 6 y 10; mientras que en la población B obtenemos un grupo de mayores de 65 años compuesto por 46 personas, cuyas respuestas oscilan entre 2 y 7, y un grupo de menores de 65 años formado por 35 personas, cuyas respuestas oscilan entre 4 y 10. En este caso, la población A está más polarizada que la población B porque las distribuciones de creencias de los grupos de la población A están más separadas o, dicho de otro modo, en la población A no existe superposición de las distribuciones de las creencias de cada grupo mientras que en la población B sí.
+         </p>
+         <p>
+            Séptimo, la polarización puede entenderse como divergencia de grupo, es decir, “cuán distantes están las ideas características de los grupos sin prestar atención a la posible superposición que pueda haber” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:126). Es decir, cuanta más separación haya entre las medias de las distribuciones de creencias de los dos subgrupos de una población dada, más polarizada estará esa población. Supongamos que tenemos dos poblaciones, A y B, que tienen 45 y 48 personas cada una, y que las dividimos por nivel educativo, obteniendo dos subgrupos en cada una: en la población A, 28 personas con educación básica y 17 personas con educación media; en la población B, 30 personas con educación básica y 10 con educación media. Ahora supongamos que les pedimos que valoren en una escala de 1 (totalmente en desacuerdo) a 10 (totalmente de acuerdo) si el gobierno debiese invertir más del 6% del PIB en educación. Tras hacer la encuesta, los valores medios de las respuestas de cada población y subgrupo son: en la población A, 6.4 y 4.8; en la población B, 7.6 y 3.5. Siendo estos los resultados de las respuestas, la población B estaría más polarizada que la población A porque hay más separación entre las medias de las respuestas, 1.6 en el caso de la población A, 4.1 en el caso de la población B.
+         </p>
+         <p>
+            Octavo, la polarización también puede entenderse como consenso de grupo. Es decir, “la diversidad de opiniones dentro de los grupos constituye otro sentido en el cual esos grupos pueden estar polarizados” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:128). Para medir la diversidad de las opiniones hace falta considerar las desviaciones de cada uno de los valores de la distribución respecto a la media de la distribución. En otras palabras, una medida simple del consenso de grupo es la desviación media absoluta de cada grupo. Cuanto mayor sea la diferencia entre las desviaciones medias absolutas de los grupos, mayor será la polarización. Para iluminar esto, consideremos el siguiente ejemplo. Supongamos que tenemos dos poblaciones, la población A con 15 personas, y la población B con 12, y que dividimos ambas poblaciones en dos grupos de edad, menores de 30 años y mayores de 30 años, obteniendo 9 y 6 personas en la población A, y 5 y 7 en la población B. Supongamos ahora que después preguntamos a los grupos de cada población en qué medida creen que los videojuegos vinculan el Islam con el terrorismo (1 totalmente en desacuerdo; 10 totalmente de acuerdo), y obtenemos las siguientes respuestas, a partir de las cuales podemos calcular las medias y las desviaciones medias (ver Tabla 1). Como puede observarse, la población A está más polarizada que la población B porque la diferencia entre las desviaciones medias de cada grupo es mayor, 0.160494 para la A, 0.047347 para la B.
+         </p>
+         <p>
+            <xref ref-type="table" rid="t1">Tabla 1</xref>
+         </p>
+         <p>
+            Noveno, la polarización puede entenderse como igualdad de tamaño. En este sentido, “una sociedad que tiene un grupo de opinión dominante con unos pocos valores atípicos, pertenecientes a una pequeña minoría, parece menos polarizada que una sociedad con unos pocos grupos competidores de tamaño comparable” (<xref ref-type="bibr" rid="B4">Bramson et al. 2017</xref>:128). Es decir, en este noveno sentido, la polarización tiene que ver con la cantidad de personas que apoyan una determinada opinión. Supongamos que tenemos dos poblaciones, la población A con 65 personas y la B con 75, y que les preguntamos si creen que la Inteligencia Artificial conllevará problemas a largo plazo. En la población A, 56 personas creen que no y 9 creen que sí, mientras que en la población B, 35 creen que no y 40 que sí. Según estas distribuciones, la población B está más polarizada que la A porque los dos grupos en los que se divide tienen un tamaño bastante parecido. Sin embargo, en la población A tenemos un grupo de opinión dominante con más de un 85% de personas que piensan que la Inteligencia Artificial conllevará problemas a largo plazo.
+         </p>
+         <p>Como se habrá podido observar, casi la totalidad de los sentidos de polarización descritos dependen de la idea de posición, determinada con relación a dos extremos, de una o más distribuciones de creencias en un espectro ideológico. Los cuatro primeros sentidos, aquellos que se referían a las poblaciones en su conjunto, es decir, propagación, dispersión, cobertura y regionalización, claramente dependen de esta idea. La propagación entiende la polarización como la distancia entre los extremos de la distribución. A mayor distancia entre los extremos, mayor polarización. La dispersión está relacionada con la forma general de la distribución en el espectro. A mayor concentración de personas en dos puntos concretos del espectro, mayor polarización. La cobertura describe la polarización como el espacio total del espectro que no está cubierto. A menor espacio cubierto, mayor polarización. Y la regionalización entiende la polarización como el número total de zonas no cubiertas del espectro que existen entre las zonas cubiertas. Cuantas más regiones vacías haya, mayor será la polarización.</p>
+         <p>De los cinco sentidos de polarización referidos a grupos en vez de a poblaciones, el sexto, el séptimo, el octavo y el noveno, distintividad, divergencia de grupo, consenso de grupo e igualdad de tamaño, también dependen claramente de la idea de posición de las distribuciones en un espectro ideológico con dos extremos, mientras que el quinto, la fracturación de la comunidad, solo en parte. La distintividad entiende la polarización como separación entre las distribuciones de los grupos. A mayor separación (o menor solapamiento) de las distribuciones, mayor polarización. La divergencia de grupo describe la polarización como separación entre la media de los valores de cada distribución. A mayor separación de la media de cada distribución, mayor polarización. El consenso de grupo en vez de usar la diferencia entre las medias, usa la diferencia entre las desviaciones medias absolutas de cada grupo. Cuanto mayor sea la diferencia entre las desviaciones medias de las distribuciones de cada grupo, mayor será la polarización. Por último, la igualdad de tamaño interpreta la polarización como la divergencia de tamaño de los grupos de opinión. Cuanto más similares en tamaño sean dos grupos de opinión, mayor la polarización. Finalmente, la fracturación de la comunidad no parece depender de la idea de posición de las distribuciones en el espectro ideológico, sino del número de grupos en que puede dividirse una población. A mayor número de grupos, mayor polarización. Sin embargo, si la división en grupos es endógena, sí depende de la idea de posicionamiento en el espectro ideológico, ya que la idea de distribuciones uni, bi o tri-modales, depende de la idea de centro y extremos del espectro. Sin embargo, si hacemos la división exógenamente, este sentido de polarización no depende de la idea de la posición que ocupan las distribuciones en el espectro. En la próxima sección, presentaré un nuevo sentido de polarización, la polarización como impermeabilidad, el cual no depende en ningún sentido de la idea de posicionamiento en un espectro ideológico con dos extremos.</p>
+         <p>
+            <table-wrap id="t1">
+               <label>Tabla 1</label>
+               <caption>
+                  <title>Ejemplo consenso de grupo. Valores de las respuestas, de las medias y de las desviaciones medias por grupo de edad</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-66-00295-tab1.png" />
+            </table-wrap>
+         </p>
+      </sec>
+      <sec>
+         <title>4. Polarización como impermeabilidad: un nuevo sentido de polarización</title>
+         <p>Todos los sentidos de polarización expuestos en la sección anterior dependen, en mayor o menor medida, de la idea de la posición de una o más distribuciones de creencias en un espectro ideológico con dos extremos. En lo que resta, primero expondré en qué consiste este nuevo sentido de polarización, y después defenderé que, además de complementar la taxonomía presentada, considerar este décimo sentido puede ser beneficioso por varias razones.</p>
+         <p>El sentido de polarización identificado y defendido en este trabajo es diferente de los nueve sentidos distinguidos en la sección anterior. Como ya se ha dicho, no depende de la idea de la posición o de la forma que ocupa o tiene una o más distribuciones de creencias en un espectro ideológico con dos extremos, sino que más bien se refiere al grado en el que las poblaciones o los grupos se vuelven impermeables a las ideas, argumentos o razones de otros grupos, por ejemplo, de aquellos que tienen ideas e intereses políticos distintos. Un grupo puede polarizarse políticamente en la medida en que cada vez sea más impermeable a las ideas políticas de los grupos con ideología no afín. En este sentido, aunque se ocupe uno de los extremos o el centro del espectro ideológico o, aunque no haya habido desplazamiento del centro hacia los extremos del espectro, una sociedad o un grupo puede polarizarse. Es decir, la polarización entendida como impermeabilidad es ortogonal a la cuestión de cuál sea el posicionamiento de las creencias de la población o el grupo al que se pertenece en un espectro ideológico con dos extremos. En este sentido, un grupo puede polarizarse, por ejemplo, respecto a si los videojuegos vinculan el Islam con el terrorismo, incluso aunque los patrones de las respuestas de los individuos que conforman el grupo no cambien. Pensemos que las respuestas de la población A siguen estando agrupados en torno a un extremo (valores entre 2 y 3) pero supongamos que, por diversas razones, el grupo se ha hecho cada vez más impermeable a las razones que podrían aducir posibles contendientes, es decir, personas que piensan distinto, por ejemplo, personas cuyos valores de respuesta estuvieran entre 9 y 10.</p>
+         <p>Solo cuando la credibilidad que atribuimos al conjunto de creencias que definen el grupo con el que nos identificamos es muy alto, podemos empezar a pensar que nuestros adversarios políticos no son dignos de respeto o, aún peor, que suponen una amenaza para los intereses no solo de las personas que son como nosotros, sino de la población en general. Cuando la credibilidad que atribuyo a cierta creencia que tengo es muy alta, aquellas personas con opiniones opuestas pueden parecernos no solo personas que no tienen ideas dignas de consideración, sino personas con ideas inaceptables, o incluso personas que suponen un peligro para la seguridad nacional. Si esto sucede, la posibilidad de que aparezcan ideas que no comparto dentro del grupo con el que me identifico cada vez será menor. Permitir que cada vez se preste menos atención a puntos de vista contrarios y, de este modo, permitir que cada vez sea menos frecuente y posible que dichos puntos de vista sean considerados, es exactamente polarizarse en el sentido de volverse impermeable. Es este tipo de radicalización, y no el extremismo, lo que equivale a la polarización como impermeabilidad. Si bien no se niega que la impermeabilidad puede llevar al extremismo, la naturaleza extrema de las creencias que conforman el núcleo de un grupo dado y el número y posibilidad de que en el grupo aparezcan y se consideren ideas contrarias a las creencias que conforman el núcleo ideológico del grupo son dos cosas muy distintas. Un ejemplo de que radicalización y extremismo son cosas distintas podemos encontrarlo precisamente en uno de los dos trabajos que consideraban que las redes sociales no fomentaban la polarización. Si recordamos, el primero de los estudios mencionado concluía que se observaba “poco cambio en la extremidad relativa de las opiniones” (Yardi y Boyd 2010:322). Sin embargo, una de las cosas que midieron, aparte de la extremidad de las opiniones, fue el incremento de la beligerancia de los grupos pro-vida y pro-elección. Para ello midieron la presencia de palabras que indican de manera clara rabia y emociones negativas en los tweets de las personas partidarias de cada grupo, es decir, palabras como “odio”, “matar”, “herir” o “despreciable”. Lo que pudieron ver es que se produjo “un aumento tanto de la rabia como de las emociones negativas durante las primeras 24 horas” (Yardi y Boyd 2010:322). Es decir, las actitudes de los dos grupos se radicalizaron, aunque sus creencias no se volvieron más extremas y, con ello, es probable que los dos grupos se volvieran más impermeables a las ideas del otro grupo.</p>
+         <p>Uno de los fenómenos más directamente relacionados con la polarización como impermeabilidad son las cámaras de eco. Una cámara de eco es un “medio informativo cerrado que tiene el potencial de magnificar los mensajes que se transmiten dentro de él y aislarlos de posibles refutaciones” (Jamieson y Capella 2010:76). Antes de exponer algunas de las características de las cámaras de eco, conviene distinguir las dinámicas deliberativas que se pueden dar en una cámara de eco de lo que se ha llamado “deliberación de enclave” (Sunstein 2017:86). Una deliberación de enclave es un tipo de deliberación que se da dentro de grupos formados por personas con ideas similares. Una de las características propias que diferencian las cámaras de eco de este tipo de enclaves tiene que ver con el hecho de que las personas que forman una cámara de eco son impermeables a las ideas ajenas, es decir, en una cámara de eco la posibilidad de exposición a ideas contrarias es muy baja o casi nula. Esto no tiene por qué suceder en un enclave. Pensemos, por ejemplo, en una asociación no-mixta de mujeres orientada a la lucha por la igualdad de género o en un grupo de fieles seguidores de Andrei Tarkovsky. Es muy probable que las personas que integran estos grupos tengan intereses parecidos e incluso muchas ideas similares respecto a ciertos temas. Sin embargo, esto no anula la posibilidad de que las personas integrantes se vean expuestas a ideas contrarias a las suyas, o incluso que las busquen premeditadamente. En resumen, todas las cámaras de eco son enclaves, pero no todos los enclaves son cámaras de eco.</p>
+         <p>Sin embargo, un enclave puede convertirse en una cámara de eco si sus dinámicas deliberativas anulan la posibilidad de que las personas que lo integran se vean expuestas a opiniones contrarias, polarizándolas en el sentido de hacerlas impermeables. Las dinámicas deliberativas y de discusión que se dan en una cámara de eco pueden conllevar varios peligros. Estar en un medio en el que nuestras ideas prácticamente nunca se exponen a contraargumentos puede llevar asociado una pérdida total de criticismo. Si este fuera el caso, nuestras discusiones políticas podrían no ser muy enriquecedoras. Es posible que para que estas discusiones de hecho lo fueran, sería necesario, aunque no suficiente, que discutiéramos con gente que no opina como nosotros. Estar expuesto a opiniones y puntos de vista distintos a los nuestros es beneficioso a la hora de pensar sobre cuestiones políticas porque permite comprobar la fuerza de nuestras razones y argumentos, así como hacer que nuestros prejuicios salgan a la luz. Discutir con gente que no pertenece al mismo grupo crea una familiaridad que permite “diluir los prejuicios que oponen un obstáculo inicial para la realización de un juicio de credibilidad no prejuicioso” (Fricker 2017:162). Es decir, el contacto y la discusión con gente que pertenece a grupos distintos al nuestro permite, entre otras cosas, que los juicios de credibilidad que hacemos de dichas personas no se basen en prejuicios: “un énfasis cargado socialmente en un principio se normaliza; un estilo de conversación socialmente desconocido se vuelve familiar; el color de la piel de alguien pasa a ser irrelevante; su sexo deja de influir; su edad se olvida” (Fricker 2017:162). Además, si nuestras discusiones políticas suelen darse siempre con personas cuya adhesión política es similar, cada vez tendremos más confianza en esas ideas y, como consecuencia, cada vez seremos más impermeables a las ideas que no compartimos. Es decir, discutir siempre o casi siempre con gente que tiene una postura política similar, informarse siempre o casi siempre en medios afines, puede producir polarización, entendida como impermeabilidad.</p>
+         <sec>
+            <title>4.1. Polarización como impermeabilidad: algunas ventajas</title>
+            <p>Sin embargo, llegados a este punto, podemos preguntarnos si es realmente necesario distinguir un sentido más de polarización. Si la ganancia de añadir este décimo sentido es mayor que el costo de añadirlo. La respuesta es que sí, por las razones que se exponen a continuación.</p>
+            <p>Primero, concebir la polarización como impermeabilidad nos permite colocarnos en una posición más ventajosa a la hora de explicar algunas características de las dinámicas sociales y políticas de las sociedades actuales, sociedades marcadas por fenómenos como la economía de la atención, la personalización de la información o las ya citadas cámaras de eco. En las sociedades actuales cada vez existe una mayor cantidad de oferta tanto de productos como de medios de comunicación. Esto ha provocado una disminución del tiempo que podemos dedicar a examinar cada producto o fuente de información, lo que ha influido en el desarrollo de un nuevo paradigma: la economía de la atención: “[la] proliferación de medios de producción y de tecnologías de dispersión de la información se ha sumado a la sobreabundancia de información disponible y, por lo tanto, ha hecho que la obtención de atención sea aún más crucial” (Tufekci 2013:849). Este nuevo modelo o paradigma se basa en mantener nuestra atención el mayor tiempo posible: “ganar significa conseguir que la mayor cantidad de gente posible dedique el mayor tiempo y atención posibles a un producto o servicio” (Williams 2018:33). Además, desde 2011, la personalización en el acceso a la información, una de las señas de identidad de muchas empresas de telecomunicaciones y de muchas redes sociales, ha sido de suma importancia en esta carrera. Cuanto más específica y personal sea la información que alguien reciba, mayor será la probabilidad de captar y mantener su atención, pero menor será la probabilidad de aparición de ideas que no comparte. En este sentido, cada vez será más impermeable, cada vez estará más polarizado. En definitiva, una manera usual de captar nuestra atención es personalizar la información ya sea esta información política, deportiva o musical, pero con ello nuestros universos informativos y comunicacionales cada vez se hacen más impenetrables.</p>
+            <p>Segundo, describir la polarización atendiendo solo a la posición que ocupan las distribuciones de creencias en un espectro ideológico con dos extremos tiene ciertos problemas. Existen varios factores, por ejemplo, el tipo de persona encuestada o el tipo de pregunta formulada, que pueden alterar los valores de las respuestas haciendo que estos no sean indicativos de las preferencias reales de las personas que responden a la pregunta. Por ejemplo, “las encuestas tienden a reducir la dispersión porque los encuestados, especialmente los mal informados, tienden a elegir el punto medio de las preguntas de la encuesta independientemente de sus verdaderas preferencias (si tales preferencias pueden ser recogidas en absoluto)” (Hetherington y Weiler 2009:20). Además, “cuando los temas son particularmente polémicos, los encuestados que contestan en el punto medio pueden estar “optando por no participar”, lo que indica un “agotamiento del problema”. Es decir, los encuestados pueden reaccionar ante lo que perciben como contendientes totalmente extremos y, en consecuencia, minimizar la importancia del asunto al no identificarse con ninguna de las dos posiciones” (Downey y Huffman 2001:502). Es decir, al describir y medir la polarización usando la posición que ocupan una o más distribuciones de creencias en un espectro ideológico con dos extremos, corremos el riesgo de que los resultados no sean fiables por la influencia que puedan tener los tipos de preguntas o el número de encuestados mal informados.</p>
+            <p>En definitiva, quizás la idea de extremismo no sea la mejor forma de entender a qué equivale polarizarse en una sociedad como la actual. Hoy en día, quizás sea mejor, dependiendo de qué sea aquello que queramos investigar, entender la polarización como impermeabilidad atendiendo a cosas como la diversidad de ideas que conforman nuestro universo comunicacional, la probabilidad de que en él aparezca información contraria a las creencias que tenemos, preguntando a las personas en qué grado consultan medios no afines o hablan con personas de partidos políticos contrarios. Otra manera, no necesariamente relacionada con las formas arriba mencionadas, de medir la polarización sin necesidad de usar la idea de posicionamiento en un espectro ideológico es la polarización afectiva. A la hora de medir la polarización de una sociedad, este tipo de polarización se centra en las actitudes expresadas por los ciudadanos respecto a ciertos temas, comprobando en qué medida las personas responden con actitudes negativas a las ideas ajenas o ante las afirmaciones de personas que pertenecen a grupos de ideología no afín. Por ejemplo, Wojcieszak y Garret miden la polarización afectiva hacia los inmigrantes teniendo en cuenta factores como “las evaluaciones de rasgos negativos, la proclividad relativa intragrupal [la diferencia entre las actitudes –más o menos proclives– hacia los inmigrantes residentes en el país y hacia los americanos en general] o la distancia social [la tolerancia a tener a una persona inmigrante como amigo personal o vecino]” (Wojcieszak y Garret 2018:2).</p>
+            <p>La polarización afectiva no es necesariamente similar a la impermeabilidad. Es posible que en algunos casos exista una relación entre polarización afectiva e impermeabilidad, indicando una alta impermeabilidad una alta polarización afectiva. Sin embargo, alguien podría estar afectivamente muy polarizado, es decir, tener actitudes muy negativas hacia las personas que no pertenecen a su grupo, pero no ser impermeable si, por ejemplo, busca de manera frecuente y voluntaria información sobre dicho grupo para mantenerse alerta. Aunque investigar cuál pueden ser las relaciones entre estas dos formas de entender la polarización sería una tarea de un valor incalculable, está fuera del alcance de este trabajo, siendo un posible tema para futuras investigaciones.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>5. Conclusiones</title>
+         <p>En este trabajo he defendido que podemos entender la polarización sin atender a la idea de posicionamiento de nuestras creencias en un espectro ideológico con dos extremos. En ocasiones las creencias de una población o de un grupo pueden ser totalmente estáticas, pero la sociedad o el grupo pueden polarizarse si cada vez son más impermeables a las ideas que no forman el núcleo ideológico de dicha población o grupo. Asimismo, he defendido que entender la polarización como impermeabilidad es deseable por varias razones. Primero, no supone una adición superflua, sino que completa una taxonomía ya reconocida como no exhaustiva. Segundo, es una noción de polarización más acorde con algunos de los fenómenos que más relevancia tienen para entender las sociedades actuales: la economía de la atención, la personalización de la información o las cámaras de eco. Tercero, todos los otros sentidos de polarización dependen de una forma de medir la polarización que adolece de problemas.</p>
+         <p>Polarizarse en el sentido de hacerse cada vez más impermeable no solo hace difícil que nuestras ideas sean puestas a prueba y nuestros posibles prejuicios salgan a la luz, sino que también es una seria amenaza para las sociedades democráticas en su conjunto. Un sistema democrático debería intentar que la deliberación política pública no tenga como efecto la impermeabilidad. Es decir, debería garantizar la posibilidad de tener encuentros casuales con personas que no piensan como nosotros. “La democracia requiere que la ciudadanía vea las cosas desde puntos de vista ajenos, pero en vez de eso cada vez estamos más y más enclaustrados en nuestras propias burbujas. La democracia requiere confianza en hechos compartidos; en vez de eso se nos están ofreciendo universos paralelos pero separados” (Pariser 2011:5). Ser retado y cuestionado es duro. Sin embargo, a la larga nos hace personas con ideas más diversas, con menos prejuicios, personas más abiertas a considerar las ideas y razones de las demás. “Para que una democracia funcione eficazmente, los ciudadanos deben estar dispuestos a comprometerse con aquellas personas con las que no están de acuerdo” (Levendusky 2013:565). “La diversidad y el debate son piedras angulares de la democracia en muchos países del mundo; una sociedad democrática requiere libertad de expresión, diversidad de opiniones, intercambio de información y ciudadanía activa. Sin embargo, estos principios son cuestionados cuando personas de ideas afines forman grupos y enclaves homogéneos” (Yardi y Boyd 2010:316). Si queremos tener ideas más justificadas, mejores argumentos para defenderlas e ideas y opiniones libres de prejuicios y de posibles sesgos culturales o grupales, entonces debemos huir de aquellas dinámicas informativas y deliberativas que nos hacen impermeables a las ideas de las personas que no piensan como nosotros.</p>
+      </sec>
+   </body>
+   <back>
+    <!--  <ack>
+         <title>Agradecimiento</title>
+         <p>El presente trabajo surge en el marco del proyecto A Computational Dynamic Analysis of Public Debates on Politics, Aesthetics and Taste, financiado por CONICYT / FONDECYT / POSTDOCTORADO / N° Proyecto 3180096, del cual el autor es el Investigador Responsable.</p>
+      </ack>-->
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Abramowitz, A.,  (2010).
+               <italic>The disappearing center: engaged citizens, polarization &amp; American democracy</italic>
+               . : Yale University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Abramowitz</surname>
+                     <given-names>A.I</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>The disappearing center: engaged citizens, polarization &amp; American democracy</source>
+               <publisher-name>Yale University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Allport, F.,  (1924).
+               <italic>Social psychology</italic>
+               . : Houghton Mifflin
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Allport</surname>
+                     <given-names>F.H</given-names>
+                  </name>
+               </person-group>
+               <year>1924</year>
+               <source>Social psychology</source>
+               <publisher-name>Houghton Mifflin</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Allport, F.(1962). "A structuronomic conception of behavior. Individual and collective: I. Structural theory and the master problem of social psychology".
+               <italic>Journal of abnormal and social psychology.</italic>
+               (64), 3-30. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/h0043563">https://doi.org/10.1037/h0043563</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Allport</surname>
+                     <given-names>F.H</given-names>
+                  </name>
+               </person-group>
+               <year>1962</year>
+               <article-title>A structuronomic conception of behavior. Individual and collective: I. Structural theory and the master problem of social psychology</article-title>
+               <source>Journal of abnormal and social psychology</source>
+               <volume />
+               <issue>64</issue>
+               <fpage>3</fpage>
+               <lpage>30</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/h0043563">https://doi.org/10.1037/h0043563"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Bramson, J., Grim, P., Singer, D., Berger, W., Sack, G., Fisher, S.,  Flocken, C., Holman, B.(2017). "Understanding polarization: meanings, measures, and model evaluation".
+               <italic>Philosophy of science. 84</italic>
+               (1), 115-159. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/688938">https://doi.org/10.1086/688938</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bramson</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Grim</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Singer</surname>
+                     <given-names>D.J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Berger</surname>
+                     <given-names>W.J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sack</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fisher</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Flocken</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Holman</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Understanding polarization: meanings, measures, and model evaluation</article-title>
+               <source>Philosophy of science</source>
+               <volume>84</volume>
+               <issue>1</issue>
+               <fpage>115</fpage>
+               <lpage>159</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/688938">https://doi.org/10.1086/688938"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Downey, D., Huffman, M.(2001). "Attitudinal polarization and trimodal distributions: measurement problems and theoretical implications".
+               <italic>Social science quarterly. 82</italic>
+               (3), 494-505. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/0038-4941.00038">https://doi.org/10.1111/0038-4941.00038</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Downey</surname>
+                     <given-names>D.J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Huffman</surname>
+                     <given-names>M.L</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Attitudinal polarization and trimodal distributions: measurement problems and theoretical implications</article-title>
+               <source>Social science quarterly</source>
+               <volume>82</volume>
+               <issue>3</issue>
+               <fpage>494</fpage>
+               <lpage>505</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/0038-4941.00038">https://doi.org/10.1111/0038-4941.00038"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Flaxman, S.,  Goel, S., Rao, J.(2013). "Ideological segregation and the effects of social media on news consumption".
+               <italic>SSRN electronic journal.</italic>
+               (80). Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2139/ssrn.2363701">https://doi.org/10.2139/ssrn.2363701</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Flaxman</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Goel</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rao</surname>
+                     <given-names>J.M</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Ideological segregation and the effects of social media on news consumption</article-title>
+               <source>SSRN electronic journal</source>
+               <volume />
+               <issue>80</issue>
+               <fpage />
+               <lpage />
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2139/ssrn.2363701">https://doi.org/10.2139/ssrn.2363701"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Fricker, M.,  (2017).
+               <italic>Injusticia epistémica</italic>
+               . : Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fricker</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Injusticia epistémica</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Halberstam, Y., Knight, B.(2016). "Homophily, group size, and the diffusion of political information in social networks: evidence from Twitter".
+               <italic>Journal of public economics.</italic>
+               (143), 73-88. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jpubeco.2016.08.011">https://doi.org/10.1016/j.jpubeco.2016.08.011</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Halberstam</surname>
+                     <given-names>Y</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Knight</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Homophily, group size, and the diffusion of political information in social networks: evidence from Twitter</article-title>
+               <source>Journal of public economics</source>
+               <volume />
+               <issue>143</issue>
+               <fpage>73</fpage>
+               <lpage>88</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jpubeco.2016.08.011">https://doi.org/10.1016/j.jpubeco.2016.08.011"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Hetherington, M., Weiler, J.,  (2009).
+               <italic>Authoritarianism and polarization in American politics</italic>
+               . : Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hetherington</surname>
+                     <given-names>M.J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weiler</surname>
+                     <given-names>J.D</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Authoritarianism and polarization in American politics</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Jamieson, K., Cappella, J.,  (2010).
+               <italic>Echo chamber: Rush Limbaugh and the conservative media establishment</italic>
+               . : Oxford University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jamieson</surname>
+                     <given-names>K.H</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cappella</surname>
+                     <given-names>J.N</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Echo chamber: Rush Limbaugh and the conservative media establishment</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Levendusky, M.(2013). "Partisan media exposure and attitudes toward the opposition".
+               <italic>Political communication . 30</italic>
+               (4), 565-581. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/10584609.2012.737435">https://doi.org/10.1080/10584609.2012.737435</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Levendusky</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Partisan media exposure and attitudes toward the opposition</article-title>
+               <source>Political communication</source>
+               <volume>30</volume>
+               <issue>4</issue>
+               <fpage>565</fpage>
+               <lpage>581</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/10584609.2012.737435">https://doi.org/10.1080/10584609.2012.737435"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Levitsky, S., Ziblatt, D.,  (2018).
+               <italic />
+               . : Ariel 
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Levitsky</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ziblatt</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source />
+               <publisher-name>Ariel</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Myers, D., Bishop, G.(1971). "Enhancement of dominant attitudes in group discussion".
+               <italic>Journal of personality and social psychology . 20</italic>
+               (3), 386-391. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/h0031920">https://doi.org/10.1037/h0031920</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Myers</surname>
+                     <given-names>D.G</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bishop</surname>
+                     <given-names>G.D</given-names>
+                  </name>
+               </person-group>
+               <year>1971</year>
+               <article-title>Enhancement of dominant attitudes in group discussion</article-title>
+               <source>Journal of personality and social psychology</source>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>386</fpage>
+               <lpage>391</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/h0031920">https://doi.org/10.1037/h0031920"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Myers, D., Arenson, S.(1972). "Enhancement of dominant risk tendencies in group discussion".
+               <italic>Psychological reports.</italic>
+               (30), 615-623. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2466/pr0.1972.30.2.615">https://doi.org/10.2466/pr0.1972.30.2.615</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Myers</surname>
+                     <given-names>D.G</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arenson</surname>
+                     <given-names>S.J</given-names>
+                  </name>
+               </person-group>
+               <year>1972</year>
+               <article-title>Enhancement of dominant risk tendencies in group discussion</article-title>
+               <source>Psychological reports</source>
+               <volume />
+               <issue>30</issue>
+               <fpage>615</fpage>
+               <lpage>623</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2466/pr0.1972.30.2.615">https://doi.org/10.2466/pr0.1972.30.2.615"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Myers, D., Lamm, H.(1976). "The group polarization phenomenon".
+               <italic>Psychological bulletin. 83</italic>
+               (4), 602-627. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0033-2909.83.4.602">https://doi.org/10.1037/0033-2909.83.4.602</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Myers</surname>
+                     <given-names>D.G</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lamm</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>1976</year>
+               <article-title>The group polarization phenomenon</article-title>
+               <source>Psychological bulletin</source>
+               <volume>83</volume>
+               <issue>4</issue>
+               <fpage>602</fpage>
+               <lpage>627</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0033-2909.83.4.602">https://doi.org/10.1037/0033-2909.83.4.602"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Pariser, E.,  (2011).
+               <italic />
+               . : The Penguin Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pariser</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <source />
+               <publisher-name>The Penguin Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Sunstein, C., Hastie, R., Schkade, D.(2007). "What happened on deliberation day".
+               <italic>California law review . 95</italic>
+               (3), 915-940. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/20439113">https://www.jstor.org/stable/20439113</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sunstein</surname>
+                     <given-names>C.R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hastie</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schkade</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>What happened on deliberation day</article-title>
+               <source>California law review</source>
+               <volume>95</volume>
+               <issue>3</issue>
+               <fpage>915</fpage>
+               <lpage>940</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/20439113">https://www.jstor.org/stable/20439113"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Sunstein, C.,  (2017).
+               <italic />
+               . : Princeton University Press Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/20439113">https://www.jstor.org/stable/20439113</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sunstein</surname>
+                     <given-names>C.R</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source />
+               <publisher-name>Princeton University Press</publisher-name>
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/20439113">https://www.jstor.org/stable/20439113"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Tufekci, Z.(2013). "“Not this one”: social movements, the attention economy, and microcelebrity networked activism".
+               <italic>American behavioral scientist  . 57</italic>
+               (7), 848-870. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0002764213479369">https://doi.org/10.1177/0002764213479369</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tufekci</surname>
+                     <given-names>Z</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>“Not this one”: social movements, the attention economy, and microcelebrity networked activism</article-title>
+               <source>American behavioral scientist</source>
+               <volume>57</volume>
+               <issue>7</issue>
+               <fpage>848</fpage>
+               <lpage>870</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0002764213479369">https://doi.org/10.1177/0002764213479369"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Yardi, S., Boyd, D.(2010). "Dynamic debates: an analysis of group polarization over time on Twitter".
+               <italic>Bulletin of science, technology and society . 30</italic>
+               (5), 316-327. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0270467610380011">https://doi.org/10.1177/0270467610380011</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yardi</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Boyd</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Dynamic debates: an analysis of group polarization over time on Twitter</article-title>
+               <source>Bulletin of science, technology and society</source>
+               <volume>30</volume>
+               <issue>5</issue>
+               <fpage>316</fpage>
+               <lpage>327</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0270467610380011">https://doi.org/10.1177/0270467610380011"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Williams, J.,  (2018).
+               <italic>Stand out of our light: freedom and resistance in the attention economy</italic>
+               . : Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Stand out of our light: freedom and resistance in the attention economy</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Wojcieszak, M., Garrett, K.(2018). "Social identity, selective exposure, and affective polarization: how priming national identity shapes attitudes toward immigrants via news selection".
+               <italic>Human communication research. 44</italic>
+               (3), 247-273. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/hcr/hqx010">https://doi.org/10.1093/hcr/hqx010</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wojcieszak</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Garrett</surname>
+                     <given-names>K.R</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Social identity, selective exposure, and affective polarization: how priming national identity shapes attitudes toward immigrants via news selection</article-title>
+               <source>Human communication research</source>
+               <volume>44</volume>
+               <issue>3</issue>
+               <fpage>247</fpage>
+               <lpage>273</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/hcr/hqx010">https://doi.org/10.1093/hcr/hqx010"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+      <fn-group>
+         <fn fn-type="financial-disclosure" id="fn1">
+       <label>Agradecimiento</label>
+         <p>El presente trabajo surge en el marco del proyecto A Computational Dynamic Analysis of Public Debates on Politics, Aesthetics and Taste, financiado por CONICYT / FONDECYT / POSTDOCTORADO / N° Proyecto 3180096, del cual el autor es el Investigador Responsable.</p>
+      </fn>
+   </fn-group>
+   </back>
+</article>

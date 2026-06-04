@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000100031</article-id>
+         <article-id pub-id-type="publisher-id">00003</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>El ansia por la comunicación de Édouard Glissant y de la literatura antropológica chilena</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The craving for the communication of Édouard Glissant and Chilean anthropological literature</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1563-4108</contrib-id>
+               <name>
+                  <surname>Alvarado-Borgoño</surname>
+                  <given-names>Miguel</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Católica del Maule, Talca, Chile</institution>
+            <institution content-type="normalized">Universidad Católica del Maule</institution>
+            <institution content-type="orgname">Universidad Católica del Maule</institution>
+            <country country="CL">Chile</country>
+            <email>malvarado@ucm.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>64</issue>
+         <fpage>31</fpage>
+         <lpage>42</lpage>
+         <history>
+            <date date-type="received">
+               <day>25</day>
+               <month>09</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>12</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Este artículo responde a la pregunta sobre el carácter de la literatura antropológica chilena en su posición híbrida entre ciencia y literatura, para ello maneja las categorías del antropólogo y literato originario de Martinica Édouard Glissant, en lo relativo a su concepción de “Todo Mundo” como posibilidad de comprensión transcultural, utilizándose conceptos como los de archipiélago, rizoma (en su fuente en el pensamiento de Gilles Deleuze y Félix Guattari), opacidad, caos y criollización. Con ello logramos asumir a la literatura antropológica chilena como una forma textual que responde a definiciones propias de literatura y poesía, y que se define básicamente como un instrumento de comunicación intercultural, con un origen en las ciencias sociales.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This article answers the question about the character of the Chilean anthropological literature in its hybrid position between science and literature, for it uses the categories of the anthropologist and literary native of the Martinique Édouard Glissant, with regard to his conception of "All World" as a possibility of transcultural understanding, using concepts such as archipelago, rhizome (at its source in the thought of Gilles Deleuze and Félix Guattari), opacity, chaos and creolization. With this we managed to assume the Chilean anthropological literature as a textual form that responds to own definitions of literature and poetry and that is basically defined as an instrument of intercultural communication, with an origin in the social sciences.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>todo-mundo</kwd>
+            <kwd>literatura</kwd>
+            <kwd>antropología</kwd>
+            <kwd>Glissant</kwd>
+            <kwd>opacidad</kwd>
+            <kwd>identidad</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>all-world</kwd>
+            <kwd>literature</kwd>
+            <kwd>anthropology</kwd>
+            <kwd>Glissant</kwd>
+            <kwd>opacity</kwd>
+            <kwd>identity</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="11" />
+            <page-count count="12" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>Introducción</title>
+         <p>El concepto de interculturalidad asume la comunicación universal, pero la comunicación universal es ante todo una utopía. El límite de la comunicación intercultural es siempre el límite de la certidumbre respecto de la comunicación misma, la enunciación surge desde una experiencia interior que se expresa a través de la fonación, del gesto, o de alguna forma de escritura; no obstante, siempre sobrevive la angustia existencial respecto de la posibilidad de una genuina e inteligible transmisión de la experiencia interior por medio del lenguaje. Cada hablante apuesta, por lo general, a la posibilidad de la equivalencia veritativa entre lo que dice y la experiencia interior que desea transmitir, no obstante, se trata nada más que de una apuesta, por “la relación significado-significante” (De Saussure 1992:25) que sabemos es arbitraria. Se trata ante todo de una apuesta individual y colectiva a la verosimilitud de la interpretación de lo dicho por el hablante. Apuesta siempre frágil, porque nada nos asegura que realmente nos comuniquemos, o que al menos, puntualmente, el interlocutor comprenda aquello que expresamos.</p>
+         <p>Por otra parte, el interlocutor apuesta a que comprendió aquello que percibió por medio de sus sentidos, pero esa apuesta es también un salto al vacío, porque sabemos que lo más probable es que no sea así, y si emisor y receptor parten desde opciones metafísicas que no aportan certidumbre verosímil respecto de lo dicho, y de su decodificación, entonces la comunicación cae en el plano del esfuerzo dirigido hacia lo imposible.</p>
+         <p>En este ensayo analizamos a la literatura antropológica chilena como una forma de comunicación intercultural, que asumiremos preliminarmente como un tipo discursivo: “que aún no ha sido conocido, valorado, leído ni interpretado como tal, es decir, no ha sido canonizado por la institución literaria porque se ha desarrollado básicamente en publicaciones, congresos y diálogos propios de los espacios intelectuales de un sector determinado de las ciencias sociales contemporáneas” (Carrasco y Alvarado 2010:10). El corpus de la literatura antropológica chilena hasta la fecha está conformado por Balada de un niño y el perro y Pueblos de mar. Relatos etnográficos de Andrés Recasens, Crónicas de la otra ciudad de Carlos Pifia, Diarios de campo/de viaje y Etnografías mínimas de Daniel Quiroz, El umbral roto. Escritos en antropología poética de Juan Carlos Olivares, La revuelta, Luna con menguante. Biografía de una machi y La olla deleitosa. Cocinas mestizas en Chile de Sonia Montecino, Karra Maw'n y Huekufe en Nueva York de Clemente Riedemann, Metales pesados y Alto Volta de Yanko González, Registro fotográfico y etnográfico. Fotografía y poesía. Atácameños del siglo XX de Ivonne Valenzuela y Juan Pablo Loo, Gracias por el favor concedido, Las animitas de Evaristo Montt, Elvira Guillen y Juana Guajardo. Antofagasta: Imprenta Ercilla, Antropología de Francisco Gallardo, De todo el universo entero de Claudio Mercado y su informante Luis Galdames, La imaginación araucana de Pedro Mege, Ritos de muerte en la isla de Lemuy de Yuri Jeria, Juan Pablo Riveros, entre otros.</p>
+         <p>Esta literatura antropológica será analizada en base al aporte del pensamiento del antropólogo y escritor martiniqueño Édouard Glissant (Sainte-Marie, Martinica, 21 de septiembre de 1928. París, 3 de febrero de 2011). La literatura antropológica chilena y Edouard Glissant coinciden en intentar dar una solución a este dilema, en lo puntual la literatura antropológica lo hace desde el recurso hacia las formas estilísticas y retóricas de la literatura, que amplían la capacidad expresiva del discurso sobre la alteridad, superando la retórica de la ciencia, pero sin caer en la ambigüedad de la pura literatura. Glissant lo hace por su parte, desde su idea de todo-mundo, donde conviven archipielarmente identidades que son legítimas dueñas de una opacidad auténticamente criollizada, que Glissant lejos de descalificar, reivindica como el legítimo derecho a la opacidad, una opacidad muy cercana a la “luz negra del barroco” (Lezama Lima 1993:156) que reivindica lo intransmisible como modo operativo de comunicar hasta el límite de lo posible.</p>
+         <p>Glissant y la literatura antropológica responden a épocas y geografías distintas, pero su propia oscuridad, es decir, el derecho a la identidad no del todo traducible, es la que las asemeja en aquello que Glissant llamó la poética de la relación.</p>
+         <p>Una de las preguntas medulares que se han planteado los autores que por muchos años se han preocupado de la literatura antropológica chilena ha sido su carácter desde el punto de vista tipológico (Carrasco y Alvarado 2010), que han sido filólogos y cientistas sociales: como Iván Carrasco, Solange Cárcamo, Pilar Valenzuela y Miguel Alvarado, entre otros. Respecto de la pregunta tipológico han podido establecer como punto base para la investigación de este tema la existencia misma de la literatura antropológica y la subsistencia de dos “subtipos discursivos que metalingüísticamente” (Mignolo 1986:32) han sido llamados “antropología poética” y “antropología literaria”, respectivamente. Ello tiene una interesante coincidencia con el pensamiento de Édouard Glissant como experimento antropológico literario; porque él no clasificó su escritura ni las ajenas, o a lo menos hubiese simpatizado con la literatura antropológica con su fundamento en la antropología del sentido: con su apelación ética a la memoria, con su reconocimiento de la continuidad respecto de la estética decimonónica de la elite sudamericana, y sobre todo con su intento de autonomía: Glissant tiene un aire de familia con el experimento literario antropológico chileno, ello debido a su desconfianza gutural e irreverente respecto tanto de las modas europeas como de las contramodas que epistémicamente siguen siendo eurocentradas (indigenismo, indianismo, contracolonialidad, postcolonialidad, postmodernidad, sobremodernidad, entre otras muchas inciertas categorías conceptuales).</p>
+         <p>Compartimos con Glissant esa aprehensión respecto de la negación tan inquebrantable a pensar la totalidad. Édouard Glissant vislumbró la posibilidad de la literatura antropológica, aunque fuese solamente el “yo” rotundo el que hablará desde ese lugar, puede ser con él una ramificación de una raíz poligénica, una raíz que podía secarse y luego renovarse; en definitiva una posibilidad expresiva que desbordaba los cánones occidentales para hablar desde un lugar del lenguaje, invocando a la memoria como territorio metafísico, pero asumiendo también su idea hechizante del “todo-mundo”: lo fundamental no es el sistema, no es la estructura, no es siquiera la pragmática del lenguaje, sino más bien una apelación a la unicidad el que invocaba al género humano en Glissant, no desde sus centros de poder económicos y culturales, sino desde la periferia de la periferia, tomando categorías y disfrutando en la disyunción, que es también, y por sobre todo yuxtaposición. Por fin vemos un auténtico pensamiento del “entre”, que no es la dialéctica hegeliana, que no es la resolución en la síntesis promotora de la dialéctica amo-siervo, que no es tampoco manipulación del deseo, sino que se trata de una reivindicación de lo yuxtapuesto en la oscilación pendular respecto de los puntos que, de ser precisados, no son sincretización ni síntesis de nada, sino balbuceo de diálogo entre lo legítimamente diferente, el viejo sueño, por tanto, de la comunicación intercultural: no es ni era la política ni la lírica inocua del “otro”, sino siempre una espiritualidad del entremedio.</p>
+         <p>La literatura antropológica es eso, es un entre medio como la metapoética de Glissant, tiene la fisonomía de un rizoma, una raíz que del mismo modo brota de algo que no es novedad sino continuidad, es un intento de dar nombre desde este espacio sudamericano, del mismo modo que Glissant dio nombres en la metáfora desde la criollización, es un hablar desde la imprecisión de un género textual que podría ser tan solo un invento de una mente disparatada; pero aun así, es un pensamiento del entremedio, que reconoce sus límites entre lo cotidiano de lo sudaca y el acceso a la cultura universal no eurocéntrica, e incluso también a la eurocéntrica: algo de ese todo mundo debe tener la literatura antropológica.</p>
+         <p>Resulta fundamental destacar que una pregunta científica aún no respondida es la relativa al paralelismo entre la producción tanto antropológico poética como antropológico literaria y la aparición de la antropología posmoderna, como también del experimentalismo textual de corte francés y de las formas de narración poscolonial; es indudable cierta simultaneidad entre estas formas de expresión literario-antropológicas, pero de ninguna forma podemos aplicar la clásica visión filológica que vincula escuelas literarias, a la manera de fuentes y de reinterpretaciones e incluso bajo la forma de generaciones literarias; hasta el momento ha sido una incógnita porque en Chile surgen la antropología poética y literaria particularmente considerando dos variables: la situación insular del país, en un extremo alejado del mundo y el contexto de dictadura militar en que estas dos sub-corrientes aparecen. En estas páginas deseamos demostrar el esbozo de una respuesta.</p>
+         <p>El antropólogo y escritor Édouard Glissant es una de las grandes plumas del siglo XX, aunque por momentos fuera considerado un autor menor, tuvo la capacidad de intertextualizar una metalengua poética con una teoría del conocimiento, lo que lo hace pasar vertiginosamente desde la poesía a la epistemología, por medio de una forma de pensar que en términos heideggerianos y hermenéuticos podríamos caracterizar como el “pensar poetizante” (Heidegger 1996:56).</p>
+         <p>Resulta extremadamente arriesgado intentar hacer un resumen de una obra que pasa abruptamente desde la poesía, la novela y la dramaturgia a formas de expresión que ya corresponden a una epistemología de la cultura y que, del mismo modo, intentan rebelarse contra las formas de pensamiento tradicionales propias de la modalidad occidental y que toman algunos elementos del posestructuralismo más reciente para crear un pensamiento original que se conforma desde lo que Paul Ricoeur denominó como “la metáfora viva” (Ricoeur 2001:13), es decir, un tipo de expresión que en una metáfora conformaba la complejidad de una ecuación multivariable, pero en el campo de la narración histórico-social.</p>
+         <p>Quizás el punto articulatorio fundamental del pensamiento de Édouard Glissant sea el modo en que recoge su forma de pensamiento situado desde la negritud de las Antillas, y el universo de sensaciones y emociones, tanto de su tierra natal, como de su arraigo en Francia, para afirmar nuestro autor, que la identidad depende de los territorios, pero que los territorios son grabados en la piel a través de los lenguajes que cada individuo porta. Su poética del todo mundo parte de una visión de la realidad que extrae creativamente elementos del pensamiento de Deleuze relativo a los rizomas: el rizoma, a la manera de un tubérculo es aquella conformación tanto biológica como cultural que carece de un centro articulatorio, pero que va generando una identidad sui-generis en cada uno de los elementos que la conforman, con ello se diferencia del pensamiento occidental que desde la idea de la muerte del sujeto, comienza a dar primacía a los conceptos de estructura y sistema, se trata de algo muy similar a lo que Franz Hinkelammert ha entendido como “el grito del sujeto” (Hinkelammert 1990:10), que se inicia en la reflexión del evangelio de San Juan, desde la primacía del verbo en la escatología judeo-cristiana. No se trata ni en Hinkelammert, ni en Glissant, de borrar al sujeto debido a la primacía del sistema lingüístico, sino por el contrario, como Glissant lo afirma, se trata de reivindicar la especificidad de los sujetos, que desde un paisaje geográfico determinado se ven envueltos por un lenguaje, pero, no obstante, ese lenguaje no pierde la identidad, sino que se reconvierte en un espacio de manifestación de la identidad.</p>
+         <p>Hay otro aspecto que también nos parece particularmente interesante en el pensamiento de Glissant: su concepto de identidad. El afirma que “reivindica su derecho a la opacidad de cada sistema cultural” (Glissant 2018:21), que se diferencia de la negritud, y que apela a toda forma de especificidad histórico-cultural; el derecho a la opacidad es el derecho a lo que Édouard Glissant llama el pensamiento archipielar, metáfora coincidente con la visión rizomática: cada elemento tiene derecho a la identidad, sin que esa identidad sea del todo inteligible para las otras culturas, y la tarea del sujeto es sondear en esa especificidad como un camino espiritual y político.</p>
+         <p>Para establecer el vínculo entre antropologías poéticas y literarias chilenas y la obra de Glissant debemos afirmar, primero que nada, que nuestro autor no forma parte de la metalengua de estas corrientes, como tampoco es probablemente conocido para la mayoría de los practicantes de estos géneros textuales, no obstante, hay en Édouard Glissant una fase de deshistorización para la comprensión, lo cual no significa anular los contextos histórico culturales, sino por el contrario entender que a la manera de ríos subterráneos, las manifestaciones estéticas y científicas aparecen en lugares diversos, que pueden ser París, California o Santiago de Chile. En ese sentido el derecho a la opacidad es el derecho a que la especificidad se manifieste con homologías a formas culturales que le son remotas territorial y culturalmente; la maravilla de Édouard Glissant es su lucha contra el “difusionismo cultural” que establecía fuentes de irradiación donde se hallaba aquello que es genuino, y que insidia e influía en otras culturas. Esta idea nos lleva a plantear que la reunión de variables puede darse en distintos contextos, sin que necesariamente haya una influencia, sino que lo que existe es un territorio lingüístico y geográfico que presiona al lenguaje para que aparezcan formas culturales específicas, y en este caso, producciones verbo-simbólicas de cruce, pero que no responde a una incidencia directa, sino a la similitud que hace que manifestaciones de diferentes mesetas del rizoma expresen rasgos similares.</p>
+         <p>En la dialéctica entre lo específico y lo universal, para Glissant, lo especifico no es necesariamente tributario de algún bien cultural o lingüístico universal, sino que responden a una identidad llena de opacidad, pero manifiesta que da lugar a un fenómeno verbo-simbólico.</p>
+         <p>En ese sentido es de particular importancia la idea de Glissant de que el escribir hoy es ponerse frente a todas las lenguas, por lo tanto, no es la lengua la que crea un criterio de diferenciación, sino que se trata de la manifestación a través del lenguaje de un pensamiento diverso que conmueve o “pensamiento del temblor” (Glissant 2008:56), que perturba y del mismo modo preserva las diversidades de los mundos. Al ponernos frente a la totalidad de los lenguajes nos ponemos frente a la primacía de la huella respecto de la homogenización estructural que el lenguaje puede conllevar, así lo dice Glissant, cuando en su libro Tratado del todo mundo afirma: “la huella es forma opaca de aprendizaje de la rama y el viento: ser uno mismo, pero derivado al otro. Es la arena en el auténtico desorden de la utopía” (Glissant 2008:23).</p>
+         <p>Si hablamos de la innovación que la literatura antropológica propone, es muy importante recalcar la idea de caos, en tanto si en una lógica rizomática se renuncia al logocentrismo como forma de renunciar al centro, podemos aceptar que no todo es sincretismo y confluencia, desde su idea del caos-mundo, en el cual: “se vive el choque de tantas culturas que se aprenden, se rechazan, persisten, sin embargo, se adormecen o se transforman, despacio o a velocidad fulminante: esos destellos, esos estallidos cuyo fundamento aún no hemos comenzado a comprender, ni tampoco su organización, y cuyo arrebatado avance no podemos prever. El todo-mundo que es totalizador, no es total” (Glissant 2008:25).</p>
+         <p>Llegados a este punto, conviene destacar la idea de poética de la relación en Glissant, en tanto para nuestro autor solo una poética hace posible el diálogo de los diversos, y las mesetas o archipiélagos se manifiestan particularmente, no en su especificidad que es oscura, sino en su dialogo que involucra la comunicación entre individuos y entre comunidades.</p>
+         <p>Quizás aquí tengamos la plenitud del aporte de Glissant a la comprensión de la literatura antropológica chilena. En el contexto de caos-mundo surgen islas en archipiélagos con manifestaciones sui-generis que intentan expresarse y desde ahí comunicarse, en este caso en el plano verbo-simbólico, poniéndose frente a todos los lenguajes, rescatando especificidades, pero el diálogo consiste no en la influencia en el sentido difusionista-cultural, sino en una cierta relación que puede ser incluso de choque, donde la literatura antropológica chilena puede levantarse frente al experimentalismo textual de Levi-Strauss o de Marc Augé, o también las formas de antropología polifónica posmoderna en James Clifford, Clifford Geertz o Steven Tyler.</p>
+         <p>Para poder comprender el modo en que la literatura antropológica se expresa en Chile, hay que asumir el deseo implícito en el año 1968, que podemos hallar en la obra de Néstor García Canclini titulada Cortázar, una antropología poética. No obstante, no podemos seguir apostando a una influencia directa, sino a un deseo que comienza a manifestarse, y ese deseo se expresa en los trabajos posteriores de Andrés Recasens en 1973 y Juan Carlos Olivares en 1995, conformando una especificidad de una alta opacidad.</p>
+         <p>La literatura antropológica chilena es la manifestación de una turbulenta opacidad que en cierta medida es compartida con Argentina, pero que en Chile tomó características específicas. Se trató de la espesa neblina cultural asociada a la dictadura militar, que no obstante, tuvo expresiones maravillosas como la poesía de Raúl Zurita, el teatro de Juan Radrigán o Marco Antonio De la Parra, las acciones de arte del grupo “CADA”, expresiones que están muy lejos de enfrentarse en el sentido tradicional a la dictadura, sino que conforman un pensamiento archipielar que está muy lejos del panfleto o del texto de agitación. Quizás esto se grafique de manera icónica en lo manifestado por Juan Carlos Olivares cuando en su libro fundamental El umbral roto dice frente a su descripción de un indígena mapuche marginado yo también soy un vencido y no he participado en guerra alguna. El párrafo de Olivares dice: “Mientras mi madre vivió en Trumag, en los territorios del Butahuilimapu, yo aún no nacía y, sin embargo, la evolución de los estilos de vida nos estaba preparando a Arcadio y a mí un encuentro. En aquel encuentro nos separaba una distancia étnica y cultural, y solo después de muchas sucesiones e intemporalidades, nos encontramos, cada uno con sus derrotas, dolores, carencias, recuerdos y soledades, porque yo también soy un vencido y no he participado en guerra alguna” (Olivares 1995:45).</p>
+         <p>Un factor definitorio de la literatura antropológica no es la agitación contra la dictadura militar, sino la aparición de una escritura plenamente genuina en un contexto de represión cultural; siguiendo el esquema de Glissant, se trata de una forma preclara en que el lenguaje rodea la circunstancia histórica y geográfica para manifestar una especificidad que no es producto de una influencia directa, sino que por el contrario reivindica rizomáticamente una especificidad que tiene que ver con las subjetividades de la clase media chilena que practica la narración de la diversidad cultural como una forma de exotismo aparentemente desfasado de las impertinencias de una dictadura militar, pero que se trata de una resistencia rizomática donde la respuesta a la opacidad del contexto es la opacidad del texto que no se alinea ni con el realismo socialista, ni con el texto de agitación, sino que reivindica el derecho a la oscuridad de la particularidad, que no se corresponde ni con el canon literario, ni con el canon antropológico, en estricto rigor, autores como Sonia Montecino unen la reivindicación política a la reivindicación de género, particularmente en su libro axial Madres y huachos, pero en todos los autores de la literatura antropológica lo esencial no es el gesto político tradicional, sino el configurar una meseta que expresa una contra versión respecto de los cánones científicos y literarios, como si después de una guerra y sus consecuencias que se manifiestan en la dictadura, la respuesta posible no se halle en la confusión ideológica de las reconversiones del marxismo y del social-cristianismo.</p>
+         <p>La sorpresa frente a la literatura antropológica expresada por filólogos y antropólogos chilenos justamente es la sorpresa frente a una forma de disidencia, que, no obstante, es coherente con las formas culturales nacionales. La literatura en Chile ha sido siempre una manera de ubicarnos en el mundo, tanto para expresarnos frente a la alteridad universal, incluso respecto de otras lenguas, como también es la expresión de una situación sociológica del escritor. Desde que Augusto D´Halmar se presentó como un escritor, asumiendo una profesión difusa a principios del siglo XX, la figura del escritor existe en Chile y durante la década de los 60, adquiere un cierto estatus social, pero que no necesariamente se corresponde con un rol productivo en un sentido económico. El escritor en Chile es un intelectual que desarrolla otras funciones para sobrevivir: funcionario público, profesor, catedrático, diplomático, etc. Pero su imagen social está definida por su rol escritural. Con el advenimiento del golpe de Estado, a excepción de algunos escritores que adhirieron al golpe, sin duda los menos, el escritor pasa a tener una imagen marginal y sospechosa, por su parte el antropólogo es un sujeto exótico que da cuenta de diversos exotismos culturales y que resulta poco peligroso para la dictadura militar. Estamos hablando por lo tanto de dos marginalidades que dan lugar a la literatura antropológica como una especificidad que se aleja incluso del rol tradicional como crítico social del escritor, y del cientista social como líder del proceso de cambio revolucionario, el delineamiento de una literatura antropológica solo podía ocurrir cuando ambas imágenes, la del cientista social y la del escritor se encontraban diluidas y toda la raigambre del oficio literario produce una síntesis al encontrarse la especificidad de lo antropológico social y arqueológico, solamente en la soledad del estilo, como dijera Roland Barthes en su libro El grado cero de la escritura, es posible manifestar una formación escritural que no tenía la obligación de tributar, ni a la literatura ni a la ciencia social: la desolación y destrucción de una guerra dieron lugar a una voz que ya no podía ser ciencia o arte en la acepción anterior al golpe de Estado.</p>
+      </sec>
+      <sec>
+         <title>El todo mundo como totalidad. Totalidad construida de opacos retazos</title>
+         <p>Quizás la antropología poética y literaria puedan ser entendida como una prepotencia, pero ese poderío se inspira en un algo que no es influencia y da cuenta del paralelismo con: la antropología postmoderna norteamericana, la escritura del realismo mágico, el indianismo de un Arguedas o el experimentalismo francés que va desde Lévi-Strauss a Marc Augé.</p>
+         <p>Glissant es un alumbramiento lleno de la colonialidad y sacudido de ella desde una creativa especificidad, que generó una literatura y una filosofía, que podemos denominar una antropología literaria, no literatosa, con una señal de originalidad que lo pone a la altura de los grandes pensadores del pasado siglo. Es ante todo un antropología literaria, tal como en Chile lo han intentado desarrollar Sonia Montecino o Andrés Recasens, pero su sustento se desarrolla primero que nada a partir de su inmensa solides teórica, su antillanidad y su cryolización o criollización, que no tiene el mismo acepción que criollización en Latinoamérica, sino que es producto de esa especificidad que asume Glissant desde su concepto de una opacidad, que ya no es negritud, sino el derecho a lo específico, como diciendo que si vivimos en el “Caos Mundo”, en la relación rizomática donde el centro no existe, puedes abordar lo específico desde un punto de fuga inespecífico.</p>
+         <p>Hay una enseñanza en Glissant a la antropología literaria, y ella consiste en la profundidad en la teorización, al parecer la antropología chilena aún no logra generar un sistema teórico metatextual de real calibre, y cavilamos que en Glissant como en Hegel hay un intento de pensar la totalidad, y no solo dar cuenta del multiculturalismo.</p>
+         <p>Si todo parte de un concepto de cultura generado en la antropología norteamericana, Glissant no es culturalismo, que usa a la cultura como una coartada sacral para indefinir las relaciones entre los individuos y entre las sociedades, basado en la suposición de la posibilidad de la comunicación universal que sostenía J.J. Rousseau; nuestro autor habla de otra cosa, el choque de culturas “atávicas” no deja posibilidad de auténtica comunicación, a decir de Glissant, que provienen atávicamente de un origen sacral, una tierra prometida es decir un lar primordial mítico, como es el conflicto de las nociones binarias y sectarias de Immanuel Wallenstein y su teoría del “choque de civilizaciones” supuestamente inevitable.</p>
+         <p>¿Cuál es la enseñanza de Glissant para nuestra literatura antropológica? Es el uso de un modo específico y original de responder a la pregunta por la identidad que puede proyectarse en el modo de mirar lo chileno y lo latinoamericano. Se trata de entender que lo específico es una búsqueda privativa y se realiza en la oscuridad del sigilo; es decir que la pregunta por la identidad de cada comunidad humana es un hecho en movimiento en un “Todo mundo”, donde cada trozo específico posee un derecho humano sustancial a preguntar por su identidad, pero no a dar una respuesta sincrónica, sino a dar cuenta de sus misturas definidas por sus afluencias, por sus orígenes y por las reconversiones de los orígenes.</p>
+         <p>La literatura antropológica es ante todo un buscar, o debería ser un buscar, las formas de narración de profundidad que constituyen retóricas y poéticas, que hagan confluir las fuentes que aportan para generar los sincretismos, pero también asumir el devenir fenoménico de esas formas. Si Juan Carlos Olivares dijo que la poesía integrada en la antropología era el fin de las máscaras, el desenmascaramiento fundamental es el de la aceptación que la narración de la diversidad inevitable debe ser realizado desde algo más que la cuantificación, sino que la metáfora, e incluso el texto poético, no es un modo de cambiar de tarea, sino una modificación en el registro para profundizar en lo narrado viajando hacia una profundidad, que de ser opacidad pasa a ser parcialmente develada en una búsqueda auxiliada por la metáfora y la poética en un sentido amplio, en una desintoxicación de la retórica que emula mecánicamente a los textos propios de las ciencias naturales de carácter nomológico.</p>
+         <p>Es exacerbación de lo ideográfico, a decir de la epistemología tradicional, se trata sin duda de una búsqueda en un espacio hopas, negro, pero negro porque es un lugar donde se esconde la dinámica de la cultura, por ello la antropología literaria en la línea de Glissant debería ser un camino para, en lo definido, ahondar en esa oscuridad que es lo no evidente, y la metáfora es la clave para sondear en eso que está sumergido como un campo de coral impoluto. Un texto poético en medio de un texto narrativo científico es parte de una continuidad sintagmática, se trata de una retórica que no puede superar la superficie y de una poética que navega en las profundidades de las islas, en los archipiélagos de lo específico.</p>
+      </sec>
+      <sec>
+         <title>La antropología de Édouard Glissant</title>
+         <p>Creemos que en Édouard Glissant hay un acrítica radical, genuina y relevante a los conceptos de sistema y estructura, autor formado e influido por el posestructuralismo, desde la categoría de rizoma homologada en cierta manera a la de archipiélago, invita en su obra a la creolización (concepto creado desde el de Kreyòl, lenguaje hablado en las Antillas, su amada especificidad) o criollización, a partir de la reivindicación de la particularidad.</p>
+         <p>Pero es justamente en la reivindicación de lo específico donde está su particular importancia como pensador: no es la lengua lo central pues debemos, según afirma escribir en presencia de todas las lenguas pues esta no es espejo de ser alguno, para que el lenguaje se asigne los contextos y para humanizar las atmósferas. La naturaleza se humaniza en el lenguaje, pero no en una lengua específica ni con exclusividad, pues la naturaleza se hace humana en el lenguaje. Tampoco se trata de intentar una homogeneización modernizante o mundialización, sino que el oficio universal debería consistir en el cultivo de lo propio que dinámicamente va transformándose para adaptarse o para perecer, cada isla en un archipiélago es una altiplanicie, pero lo vernáculo no agota los paisajes, se trata de un pensar desde la especificidad para conectarse creativamente con la totalidad.</p>
+         <p>No existe estructura ni sistema que pueda hablar de la totalidad, del “todo mundo”. El pensamiento de Édouard Glissant despliega una metafísica de la conciencia de lo humano, donde no existen círculos culturales con centros imperiales, sino islas unidas por aires de familia, donde el colonialismo resulta un abuso, la esclavitud un crimen y el imperialismo cultural un modo de anular la especificidad en pos justamente del sistema y la estructura: gran error nuestro, estos son inventos de la racionalidad logocéntrica que piensa que lo racional es real y que el centro de las culturas está en, o estuvo, en el mediterráneo.</p>
+         <p>Cada especificidad, reclinatorio de un archipiélago, desarrolla una ecología, es una meseta, donde más que relaciones estrictas entre las partes, las identidades de las personas y las cosas confluyen para desarrollar vínculos y para revindicar lo propio, pero en este diminuto tablado, en esta ceñida decoración se da cada identidad grupal, de personas que por medio del trabajo y el lenguaje se vinculan con la naturaleza y desde allí crean lo específico, para ser una suerte de retrato de la totalidad, en cada paisaje de esos retablos se cobija la totalidad del mundo complotando para manifestarse: “las culturas del mundo, en contacto instantáneo y absolutamente conscientes, se alteran mutuamente por medio de intercambios, de colisiones irremisibles y de guerras sin piedad, pero también por medio de progresos de consciencia y de esperanza que autorizan a afirmar […] que las distintas humanidades actuales se despojan con dificultad de aquello en lo que han insistido desde antiguo, a saber: el hecho de que la identidad de un individuo no tiene vigencia ni reconocimiento salvo que sea exclusiva respecto de la de todos los demás individuos” (Glissant 2002:48).</p>
+      </sec>
+      <sec>
+         <title>La criollización como literatura antropológica o la literatura antropológica como criollización</title>
+         <p>Como afirmamos, Édouard Glissant habla de la “criollización” derivado del concepto de “cryolización” que era la afirmación de la lengua kreyòl en el contexto de las Antillas hasta llegar a Haití. Esta palabra tuvo una derivación hacia el concepto de “criollización” que significa la reafirmación de la identidad desde la especificidad de la meseta, donde esta se expresa en el contexto de un archipiélago. La literatura antropológica no es una imitación de ninguna forma escritural científica o literaria ajena a Chile, es la expresión de una forma sui-generis de resistencia cultural que se valió de la raigambre del oficio literario en Chile, como también de la originalidad de la ciencia antropológica en un contexto poco proclive de dictadura militar. Si el texto fundacional de la antropología chilena, asumida como ciencia y como profesión, es el libro Vida de un cacique araucano de Carlos Munizaga Aguirre, publicado el año 1959, guiado como tesis de magíster en FLACSO, por el poeta y antropólogo francés Alfred Metraux, la antropología chilena ha sido básicamente una forma de escritura y su mayor o menor incidencia en la vida nacional ha guardado una directa relación con el éxito de ciertos textos que han sido comentados a la manera de textos literarios, pero cuyo origen es antropológico, como el mismo texto antes mencionado en Munizaga, hasta llegar a Madres y huachos de Sonia Montecino. Nos resta delinear cuáles son las características de esta criollización que llamamos literatura antropológica: se trata de criollización ya que la égida de ciertos autores fundamentales como Andrés Recasens, Sonia Montecino y Juan Carlos Olivares, junto a la valiosa animación cultural que desarrolla Daniel Quiroz.</p>
+         <p>La forma de descolonización que se desarrolla, se sostiene en dos principios: la ruptura con las formas de escritura estructural-funcionalista o marxista, que desde Louis Faron o Alejandro Lipschutz habían determinado el estilo textual de la antropología chilena; la otra dimensión de la criollización es la renuncia a los ritos y formas retóricas tradicionales de la literatura, no respondiendo a la pragmática de la literatura, mientras que en Chile se desarrollaba la poesía de Jorge Teillier, o en el exilio escribía Gonzalo Rojas, estas escrituras tienen cierta incidencia, pero no por eso siguen la lógica de corrientes o de generaciones literarias.</p>
+         <p>Hay una búsqueda un tanto marginal que nos lleva a un substrato eminentemente epistemológico, porque para que exista una literatura antropológica deben subvertirse las formas de conocer propias de la ciencia, pero tampoco se puede depender de las formas exclusivas de la literatura; no se cae en la realización de una forma de literatura menor, como tampoco de una mera antropología experimental-circunstancial, y ello estriba epistemológicamente en la definición de literatura y particularmente de poesía que se desarrolla en la literatura antropológica; para la metalengua de la literatura antropológica, la literatura es una praxis que se centra en formas estilísticas y retóricas, que habían sido propias de la literatura, pero que ahora ya no son literatura en estricto rigor, y poesía es el recurso sistemático a la metáfora, junto a la intertextualización con formas retóricas de la literatura chilena y mundial, lejos estamos aquí de la definición aristotélica de “poiesis” y de la adscripción al canon occidental.</p>
+         <p>Resulta curioso el modo como el gran teórico de la literatura Harold Bloom, al realizar su enumeración del canon occidental, identifica al libro Tristes trópicos dentro de lo más granado de la prosa occidental del siglo XX, entonces ¿qué lugar ocuparía la literatura antropológica en el canon occidental propio de América Latina? El antecedente más sistemático de la literatura antropológica es el realismo mágico, pero esta corriente no solo responde a la especificidad cultural latinoamericana, sino también al influjo del surrealismo, al aporte de William Faulkner, y a búsquedas originales, como las de Alejo Carpentier o las de Miguel Angel Asturias. Su centro no estuvo geográficamente en Chile, sino en París y fundamentalmente en Barcelona, por lo tanto, no podemos negar que la criollización expresada en la literatura antropológica debe algo de su libertad al realismo mágico, pero este último es literatura en sí misma, mientras que la literatura antropológica no es literatura en un sentido tradicional.</p>
+         <p>Podríamos decir junto a Hugo Zermelman que a nivel gnoseológico la ruptura epistémica reside en utilizar los significantes de literatura o poesía, dándoles un significado difuso que puede valerse de la metáfora, la retórica o la intertextualidad, pero que no se reduce a una literatura tradicional; es así como podemos afirmar que esta literatura antropológica criolliza elementos previos como los propios de la tradición literaria y de la ciencia antropológica, pero no se criolliza desde una adhesión al canon occidental. Esta criollización se complejiza aún más cuando tampoco podemos ver que se trate de una forma de antropología científica, pues trabaja en el nivel etnográfico y en el nivel teórico, pero en base a una casuística que no tiene por finalidad dos primados formales de la antropología: acumular conocimiento, y si es esa la opción, transformar desde allí la realidad; por lo tanto la criollización solo se realiza desde la oscuridad de una metalengua en proceso, la cual está en búsqueda de una epistemología que permita hablar del texto, que como lenguaje rodea los paisajes, a la manera de Glissant, podríamos concluir que la literatura antropológica es una praxis escritural que se centra en un modo distinto de pensamiento que no apela al concepto de realidad objetiva, pero tampoco quiere crear mundos artificiales, su epicentro epistemológico es la forma de miramiento del antropólogo literato que intenta observar el mundo desde la praxis propia del antropólogo, pero manifestándose desde las formas expresivas de la literatura.</p>
+         <p>Si James Clifford (Dilemas de la cultura) dijo que la antropología experimental era un surrealismo sin inconsciente, nosotros podemos afirmar que la literatura antropológica es la narración del inconsciente en un permanente choque, como gustaba decir Glissant, con la realidad y con las tradiciones científicas y literarias. Se trata de una criollización en movimiento, donde hay un apelar a la realidad, y del mismo modo huir de ella, pero también existe un diálogo con la teoría antropológica que toma el papel más bien de un aporte retórico que de un fundamento reflexivo.</p>
+      </sec>
+      <sec>
+         <title>Conclusiones</title>
+         <p>Una de las preguntas esenciales que han determinado las búsquedas epistemológicas respecto de la literatura antropológica chilena ha sido su lugar epistémico especifico al interior de la cultura occidental. En ese sentido afirmamos que la literatura antropológica es una forma de criollización que responde al desbande epistemológico propio de la dictadura militar chilena, pero que también es una forma de insubordinación al canon textual de la ciencia y la literatura, asumiendo que ni ciencia ni literatura son eficientes contra la feroz radicalidad del proceso dictatorial y su proyecto cultural. Probablemente Édouard Glissant hubiera coincidido con la literatura antropológica en muchos de sus aspectos, pero este es un autor que no es conocido ni reconocido por los antropólogos literatos, más bien se trata del aporte que hace Glissant con un marco conceptual que nos permite entender una originalidad que dialoga con las tradiciones literaria y científica, pero que del mismo modo es experimental.</p>
+         <p>La dificultad para definir la literatura antropológica resulta en la apelación a epistemologías tradicionales y eurocentradas. Glissant nos presenta una teoría del conocimiento que apela no a la especificidad, sino a las especificidades en plural, la literatura antropológica es una especificidad cultural que posee toda la oscuridad de una forma de criollización, pero que del mismo modo es un artefacto subversivo frente a las formas escriturales y científicas que no tuvieron la capacidad para evitar la tragedia del golpe de Estado y la dictadura, y en general de la violencia política, por ello su planteamiento reside en una suerte de violencia epistémica, que no posee una episteme única, y que dialoga con epistemologías multiculturales, fundamentalmente indígenas latinoamericanas, que son recuperadas por la antropología.</p>
+         <p>El todo-mundo de Édouard Glissant, es por, sobre todo, una búsqueda que, desde la opacidad de la especificidad, desde lo criollizado, posee la ambición de un pensamiento total, dentro de los límites geográficos y psicológicos de un archipiélago que no muta en la lógica de la cultura occidental únicamente, sino que hace dialogar lo universal con lo especifico, para marcar y apelar a sus propias huellas.</p>
+         <p>En este contexto la literatura antropológica puede ser asumida como un instrumento transdisciplinario cuya meta es generar comunicación intercultural, ya no desde lo común que une a las culturas y etnias , sino al encuentro en lo diverso, que no involucra necesariamente sincretismo ni síntesis, sino que puede conllevar choque y conflicto, pero en su más oscura opacidad siempre conlleva una forma de diálogo que, aunque sea en el desencuentro, simetriza la relación entre los hablantes étnicos y sociales.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Carrasco, I., Alvarado, M.(2010). "Literatura antropológica chilena: fundamentos".
+               <italic>Estudios filológicos.</italic>
+               (46), 9-23. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0071-17132010000200001">https://doi.org/10.4067/S0071-17132010000200001</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Carrasco</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alvarado</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Literatura antropológica chilena: fundamentos</article-title>
+               <source>Estudios filológicos</source>
+               <volume />
+               <issue>46</issue>
+               <fpage>9</fpage>
+               <lpage>23</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0071-17132010000200001">https://doi.org/10.4067/S0071-17132010000200001"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               De Saussure, F.,  (1992).
+               <italic>Curso de lingüística general</italic>
+               . , México: Editorial Nuevomar
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>De Saussure</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>1992</year>
+               <source>Curso de lingüística general</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Editorial Nuevomar</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Glissant, E.,  (2002).
+               <italic>Introducción a una poética de lo diverso</italic>
+               .  Barcelona: Ediciones del Bronce
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Glissant</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Introducción a una poética de lo diverso</source>
+               <publisher-name>Ediciones del Bronce</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Glissant, E.,  (2008).
+               <italic>Tratado de todo mundo</italic>
+               .  Barcelona: Ediciones del Bronce
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Glissant</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Tratado de todo mundo</source>
+               <publisher-name>Ediciones del Bronce</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Glissant, E.,  (2018).
+               <italic>Poética de la relación</italic>
+               .  Buenos Aires: Editorial UNQUI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Glissant</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Poética de la relación</source>
+               <publisher-name>Editorial UNQUI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Heidegger, M.,  (1996).
+               <italic>Caminos del bosque</italic>
+               .  Madrid: Editorial Alianza
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Heidegger</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>Caminos del bosque</source>
+               <publisher-name>Editorial Alianza</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Hinkelammert, F.,  (1990).
+               <italic>El grito del sujeto: del teatro-mundo del evangelio de Juan al perro-mundo de la globalización</italic>
+               . , Costa Rica: Ediciones del Departamento Ecuménico de Investigaciones
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hinkelammert</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>El grito del sujeto: del teatro-mundo del evangelio de Juan al perro-mundo de la globalización</source>
+               <publisher-loc>Costa Rica</publisher-loc>
+               <publisher-name>Ediciones del Departamento Ecuménico de Investigaciones</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Lezama Lima, J.,  (1993).
+               <italic>Fascinación de la memoria. Textos inéditos de José Lezama Lima</italic>
+               .  La Habana: Editorial Letras Cubanas
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lezama Lima</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <source>Fascinación de la memoria. Textos inéditos de José Lezama Lima</source>
+               <publisher-name>Editorial Letras Cubanas</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Mignolo, W.,  (1986).
+               <italic>Teoría del texto e interpretación de textos</italic>
+               . , México: Editorial UNAM
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mignolo</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <year>1986</year>
+               <source>Teoría del texto e interpretación de textos</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Editorial UNAM</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Olivares, J.,  (1995).
+               <italic>El umbral roto. Escritos en antropología poética</italic>
+               .  Santiago: Fondo Matta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Olivares</surname>
+                     <given-names>J.C.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>El umbral roto. Escritos en antropología poética</source>
+               <publisher-name>Fondo Matta</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Ricoeur, P.,  (2001).
+               <italic>La metáfora viva</italic>
+               .  Madrid: Trotta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ricoeur</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>La metáfora viva</source>
+               <publisher-name>Trotta</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

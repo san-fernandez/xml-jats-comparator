@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model type="application/xml-dtd" href="http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1d3" specific-use="Marcalyc 1.2" article-type="research-article" xml:lang="es">
+<front>
+<journal-meta>
+<journal-id journal-id-type="redalyc">101</journal-id>
+<journal-title-group>
+<journal-title specific-use="original" xml:lang="es">Cinta de Moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="es">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile</publisher-name>
+<publisher-loc>
+<country>Chile</country>
+<email>cintamoebio@gmail.com</email>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="art-access-id" specific-use="redalyc">10146740002</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Sumário</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="es">Abriendo la autopoiesis: implicancias para el estudio de la comunicación organizacional</article-title>
+<trans-title-group>
+<trans-title xml:lang="en">Opening autopoiesis: implications for the study of organizational communication</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="no">
+<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7613-1643</contrib-id>
+<name name-style="western">
+<surname>Dittus</surname>
+<given-names>Rubén</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+<email>rdittus@ucsc.cl</email>
+</contrib>
+<contrib contrib-type="author" corresp="no">
+<name name-style="western">
+<surname>Vásquez</surname>
+<given-names>Consuelo</given-names>
+</name>
+<xref ref-type="aff" rid="aff2"/>
+<email>vasquez.consuelo@uqam.ca</email>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<institution content-type="original">Departamento de Ciencias de la Comunicación, Universidad Católica de la Santísima Concepción (Concepción, Chile)</institution>
+<institution content-type="orgname">Universidad Católica de la Santísima Concepción</institution>
+<country country="CL">Chile</country>
+</aff>
+<aff id="aff2">
+<institution content-type="original">Département de communication sociale et publique, Université du Québec à Montréal (Montréal, Canada)</institution>
+<institution content-type="orgname">Université du Québec à Montréal</institution>
+<country country="CA">Canadá</country>
+</aff>
+<pub-date pub-type="epub-ppub">
+<year>2016</year>
+</pub-date>
+<issue>56</issue>
+<fpage>136</fpage>
+<lpage>146</lpage>
+<history>
+<date date-type="received" publication-format="dd mes yyyy">
+<day>11</day>
+<month>03</month>
+<year>2016</year>
+</date>
+<date date-type="accepted" publication-format="dd mes yyyy">
+<day>25</day>
+<month>05</month>
+<year>2016</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2017</copyright-year>
+<copyright-holder>Cinta de Moebio</copyright-holder>
+<ali:free_to_read/>
+<license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">
+<ali:license_ref>https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+<license-p>Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial 4.0 Internacional.</license-p>
+</license>
+</permissions>
+<abstract xml:lang="es">
+<title>Resumen</title>
+<p>En el campo de la comunicación organizacional, el concepto de autopoiesis se ha usado principalmente para explicar los mecanismos que constituyen las organizaciones en sistemas autónomos. El presente trabajo postula que para comprender mejor la autonomía y los mecanismos constituyentes de las organizaciones debemos estudiar los procesos narrativos que distinguen a la organización como unidad. Esta afirmación se basa en dos premisas: primero el vínculo intrínseco entre autopoiesis y la capacidad interpretativa del ser vivo; segundo, la importancia en ese proceso de significación del acto de distinción, a partir del cual separamos a lo señalado como distinto de un fondo.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract</title>
+<p>In the field of organizational communication, the notion of autopoiesis has been mostly used to explain the mechanisms that constitute organizations in autonomous systems. In this paper we argue that to better understand the autonomy and the constitutive mechanisms of organizations we need to study the narrative processes that distinguish organization as a unity. This statement is based on two premises: first, the intrinsic relation between autopoiesis and the interpretative capacity of living beings; second, the importance of the act of distinction in the sensemaking process, from which we differentiate the unity from a ground.</p>
+</trans-abstract>
+<kwd-group xml:lang="en">
+<title>Keywords</title>
+<kwd>autopoiesis</kwd>
+<kwd>communication</kwd>
+<kwd>organization</kwd>
+<kwd>social system</kwd>
+<kwd>narrative</kwd>
+</kwd-group>
+<kwd-group xml:lang="es">
+<title>Palabras clave</title>
+<kwd>autopoiesis</kwd>
+<kwd>comunicación</kwd>
+<kwd>organización</kwd>
+<kwd>sistema social</kwd>
+<kwd>narración</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="17"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>
+<bold>Introducción</bold>
+</title>
+<p>La autopoiesis nace teóricamente en el trabajo del biólogo chileno Humberto Maturana y su otrora discípulo Francisco Varela, para quienes el núcleo central del fenómeno del conocimiento y de la teoría del conocer se explica en la organización de lo vivo. Bajo la premisa que la autonomía de un sistema se constituye a través una red de producciones que permiten a dicho sistema especificar su propia legalidad, la idea de autopoiesis se ha expandido a otras disciplinas como la sociología, la literatura y la comunicación. En el campo de la comunicación organizacional, el concepto se ha usado principalmente para explicar los mecanismos que constituyen las organizaciones en sistemas autónomos. Sin embargo, por muchos años el término recibió una atención marginal o negativa, junto a una serie de otros usos o derivaciones más o menos afortunados, tal como el propio Francisco Varela escribe en el prólogo a la segunda edición del libro <italic>De máquinas y seres vivos</italic>: “Por desgracia. A menudo la idea de autopoiesis se la cita en este tipo de literatura de manera mucho más superficial” (<xref ref-type="bibr" rid="redalyc_10146740002_ref8">Maturana y Varela 1994</xref>:51).</p>
+<p>Varela reconoce dos formas de transposición del concepto de autopoiesis: la utilización estricta o literal de la idea y la utilización por continuidad. Con el primer modo, se refiere a los reiterados intentos de caracterizar, por ejemplo, a una familia como un sistema autopoiético, situación que considera un uso abusivo del término, ya que las nociones de red de producciones y de frontera tienen un sentido más o menos preciso. El segundo modo de transposición –la autopoiesis por continuidad– ubica al ser vivo como modelo de autogeneración de capacidades interpretativas, rasgo autónomo que se aplica para comprender el funcionamiento de los sistemas sociales.</p>
+<p>La apertura hacia la capacidad interpretativa del ser vivo que trae consigo este segundo modo de transposición nos interesa particularmente en el presente trabajo. Tomando esta idea central de la autopoiesis como punto de partida, proponemos comprender los mecanismos y procesos constituyentes de las organizaciones a partir de dos premisas (que desarrollaremos luego con más detalle): primero el vínculo intrínseco entre autopoiesis y la capacidad interpretativa del ser vivo, según la cual la significación surge en referencia a una identidad (y no se explica por una captación de información externa). Segundo, la importancia en ese proceso de significación del acto de distinción, a partir del cual separamos a lo señalado como distinto de un fondo, especificando sus propiedades como unidad. Postulamos que este proceso de distinción se lleva a cabo en el lenguaje o, mejor dicho, en el lenguajear (como dice Maturana), siendo la narración el lugar privilegiado donde se entrelazan las conversaciones y se entreteje la coexistencia colectiva. Esta dimensión del análisis nos permitirá acotar la tesis de que la organización puede ser estudiada como un sistema de narraciones.</p>
+<p>Las contribuciones de este artículo al campo del estudio de la comunicación, y más específicamente al de la comunicación organizacional, son los siguientes. Primero, contribuye al reconocimiento de autores chilenos cuya noción de autopoiesis no ha sido interpretada en su justa medida, como la reciente polémica en torno a la autoría y uso de este término lo demuestra (ver entrevistas de Maturana y Echeverría, <italic>Revista Capital</italic>, números 413 y 414), a pesar de su divulgación dentro y fuera de Chile. Segundo, el revisitar la teoría de la autopoiesis y reactualizarla al estudio de la comunicación organizacional, nos permite abrir el diálogo con otros investigadores de la comunicación organizacional que comparten una perspectiva constitutiva y narrativa de los sistemas sociales. Asimismo, esta reflexión permite establecer implicancias teóricas, metodológicas y éticas de una visión constitutiva (i.e. autopoiética) de la comunicación organizacional para el estudio de las organizaciones y la práctica profesional.</p>
+</sec>
+<sec>
+<title>
+<bold>La noción de autopoiesis en el marco de los sistemas sociales</bold>
+</title>
+<p>Como ya mencionamos, el término autopoiesis fue acuñado por los biólogos chilenos Humberto Maturana y Francisco Varela para explicar un fenómeno circular presente en todos los seres vivos: las moléculas orgánicas forman redes de reacciones que producen a las mismas moléculas de las que están integradas. Los organismos vivos, entonces, quedan definidos como aquellos cuya característica es que se producen a sí mismos, designando, de paso, al tipo de sistema que los define como una forma de organización autopoiética. De este modo, la teoría general de sistemas encuentra en el trabajo de Maturana y Varela el inicio de un criterio y un aparataje conceptual comunes tanto para la biología y las ciencias sociales, que como mencionáramos en la introducción, se basa en lo que podríamos llamar una fenomenología de la organización de lo vivo. La radicalidad que propone la autopoiesis ha replanteado los fundamentos del conocimiento humano y de las teorías del conocimiento, generando nuevos debates en torno a la relación entre la experiencia, la percepción y el conocer.</p>
+<p>Quisiéramos aquí detenernos en dos principales ajustes. Primero, y el más importante, es el reconocimiento de que hay sistemas que tienen la propiedad de autoproducirse con sus propias operaciones y elementos, descartando el objeto externo como factor de validación del conocimiento científico. Una teoría del conocer anclada en una perspectiva de la organización de lo vivo redefine el conocimiento, pues éste no opera sustentado en una representación que un observador hace sobre el medio ambiente. Conocer es ante todo una acción, una acción del ser vivo en su entorno que se explica en el operar de los componentes de un sistema dentro del dominio de sus estados internos y de sus cambios estructurales.</p>
+<p>Para entender el cambio de perspectiva que se opera desde la biología del conocimiento, tomemos el ejemplo del sistema nervioso. Por lo general, en su comprensión más usual se tiene la idea de que el sistema nervioso se trata de un instrumento que obtiene información del medio ambiente, que luego utiliza el ser vivo para construir el mundo. Siguiendo esa lógica, solo así el organismo podría responder adecuadamente a los estímulos de entorno. Sin embargo, desde la idea de autopoiesis, “el sistema nervioso no capta información del medio ambiente (…) sino que al revés, trae un mundo a la mano al especificar qué configuraciones del medio son perturbaciones y qué cambios gatillan éstas en el organismo” (<xref ref-type="bibr" rid="redalyc_10146740002_ref9">Maturana y Varela 1984</xref>:113). En el plano de la organización de lo vivo todo operar orgánico es conocimiento o como dice el aforismo: ‘todo hacer es conocer y todo conocer es hacer’. El observador es quien puede enjuiciar la correlación acoplada con el mundo, pero que en un sentido restringido son solo formas en las que se expresa el modo interno de cómo opera un sistema.</p>
+<p>El segundo ajuste que viene con el cambio de perspectiva que propone la noción de autopoiesis es la idea matriz de la interpretación de lo vivo. Así como la organización de lo vivo es, en lo fundamental, un mecanismo de construcción de identidad circular como entidad material, aparece –de manera menos reduccionista que la empleada por Maturana– un punto de referencia en las interacciones y por lo tanto la emergencia de un nuevo nivel de fenómenos: la constitución de significados. Este punto constituye la dimensión más polémica en torno al uso de lo autopoiético, teoría gestora de un giro sociológico que tiene como principal exponente al alemán Niklas Luhmann. Así, la dinámica de constitución de unidad y de diversidad, adscrita a la teoría de los biólogos chilenos, se revitaliza, con nuevos giros y extensiones conceptuales. Como ya es sabido, en 1984, Luhmann –en su obra <italic>Soziale Systeme</italic>– adoptó el término, caracterizando distintos dominios de la sociedad como los productores autónomos de su realidad respectiva. De ese modo, se abría la puerta para que la autopoiesis sirviera para explicar cualquier sistema que es autónomo en algún sentido, según sus propias reglas y dentro de sus propios límites.</p>
+<p>Con los trabajos de Luhmann el vínculo entre lo social y lo comunicativo se estrecha: un sistema social emerge como una red cerrada de comunicación en el que la sociedad se mantiene y auto-produce como una red clausurada de creación de sentido. Así, en el plano de las ideas, los sistemas autopoiéticos inauguran en la naturaleza el fenómeno interpretativo. Esta perspectiva modifica la noción de sistema social, pues aquello que se ha designado como proceso de socialización no son los seres humanos, sino que es posible gracias al emerger de una red autopoiética de <italic>comunicación</italic>. Siguiendo al sociólogo alemán, el individuo participa en la sociedad, pero no se le puede ubicar como principio explicativo del orden social. Es más bien un sistema orgánico acoplado a una conciencia o sistema de significados compartidos.</p>
+<p>Esta ruptura con la tradición sociológica europea, en el que los individuos y sus relaciones constituyen lo social, abrió nuevas formas y lecturas en el dominio de las ciencias sociales y de la conducta, pero no exentas de profundos y acalorados debates. En ese concierto de críticas se encuentra la del propio Maturana, para quien la idea de autopoiesis en la noción de sistema que usa Luhmann está sencillamente mal aplicada. A juicio de Maturana, todo lo que Luhmann parece querer explicar con su teoría de los sistemas sociales separando lo humano y dejándolo como parte del entorno, como el origen del lenguaje y de lo humano, se puede explicar sin ese argumento. A juicio del biólogo chileno, la noción de autopoiesis empleada por el alemán no sirve como principio explicativo de lo social, ya que “no aclara los fenómenos sociales sino que los esconde” (<xref ref-type="bibr" rid="redalyc_10146740002_ref10">Maturana y Pörksen 2004</xref>:124). El argumento se centra en que la comunicación presupone a humanos que se comunican entre sí, algo que deja fuera la tesis de Luhmann. Al respecto, Maturana es enfático al decir que “la decisión de reemplazar moléculas por comunicaciones hace aparecer las comunicaciones como elementos centrales, excluyendo a los seres humanos como comunicantes. Estos quedan fuera y son considerados sin importancia” (<xref ref-type="bibr" rid="redalyc_10146740002_ref10">Maturana y Pörksen 2004</xref>:124).</p>
+<p>Una forma de visualizar puntos de encuentro entre ambas perspectivas –y siguiendo los aportes de Rafael Echeverría– es definir a los seres humanos como seres conversacionales. De esa manera, la comunicación se adscribe a ritos y formas lingüísticas que ubican a la persona en el centro del quehacer organizacional. Como el lenguaje no es un atributo primario de los individuos, como las acciones innatas de comer o respirar, aquél surge de las interacciones lingüísticas que tenemos con otros. Así, el sustrato primario no es el lenguaje sino la conversación, una forma concreta de comunicación. Y desde allí, el sistema tiene la capacidad de auto-observarse. Las representaciones sociales, por ejemplo, tienen condiciones estructurales y evolutivas que provienen de tendencias históricas y semánticas y cuya naturaleza es comunicativa. Son comunicación, ya que la comunicación es una operación provista de la capacidad de auto-observarse. Ello es posible porque somos individuos que comunicamos la coordinación de comunicaciones conductuales. Solo el ser humano se hace preguntas desde el dominio lingüístico, aun cuando el propio lenguaje sea parte de esa observación. Desde este rasgo tiene sentido la autopoiesis en lo social. En el plano de las operaciones propias del sistema, no hay forma que salgamos de los límites del propio sistema, porque el lenguaje nos lo impide. No hay contacto con el entorno, sino que la comunicación es parte de él. La clausura operacional trae como consecuencia que el sistema dependa de su propia organización, y que sus estructuras se constituyan y transformen únicamente mediante operaciones de ella misma.</p>
+<p>En lo específico, las competencias conversacionales –en el trabajo, la familia o en el club deportivo– se adaptan, renuevan o mueren según la definición que la propia conciencia comunicativa del sistema defina, pero siempre desde las mismas redes lingüísticas que el sistema auto-observado genera. El acto de que los sistemas de comunicación se acoplen a través del lenguaje tiene consecuencias relevantes para su propia evolución. Así, el acto de distinción ocurre siempre en la praxis de vivir en el lenguaje, una práctica cotidiana en la que estamos sumergidos necesaria y permanentemente. Es decir, como somos seres en el lenguaje y no fuera de él, se aplica una operación cíclica recursiva cada vez que actuamos como observadores. Siguiendo la lógica circular de la autopoiesis, podemos entonces decir que la realidad existe porque la empalabramos.</p>
+<p>En resumen, la noción de autopoiesis revitaliza la tradicional noción que se tiene de los sistemas sociales, pero lo hace desde nuestra condición de seres lingüísticos. Los sistemas sociales son sistemas de coordinaciones de acciones en el lenguaje, esto es, red de conversaciones. Por consiguiente, los diferentes sistemas humanos generan sus propias redes de conversaciones, que nos afectan incluso corporalmente. Como resultado de esto, a diario nos movemos a través de estas redes, independiente de nuestra conciencia. En la junta vecinal, en el partido político o en el club de rayuela actuamos en sintonía con las acciones que esos sistemas de conversaciones nos motivan a ser y hacer.</p>
+</sec>
+<sec>
+<title>
+<bold>La organización como sistema de narraciones</bold>
+</title>
+<p>Tan antiguas como el lenguaje mismo, las narraciones han reunido a las personas, las han inspirado y transformado. De hecho, los últimos descubrimientos de la neurología confirman lo que lingüistas ya habían notado: que los seres humanos estamos programados para contar historias (<xref ref-type="bibr" rid="redalyc_10146740002_ref13">Sadowsky y Roche 2013</xref>). A través de ellas, organizamos y damos sentido al mundo. Las historias y las conversaciones que se tejen a través de sus relatos crean significado para todos los miembros de una misma organización, definiéndo valores e identidad. Asimismo, se construye lo que no pertenece a la organización. La expansión del término <italic>storytelling</italic> confirma el trabajo que algunas empresas y marcas comerciales hacen de sus relatos y del posicionamiento de éstos, ya sea dentro y fuera de la organización. El entrenamiento de líderes carismáticos potencia –hoy más que nunca– el trabajo de contar historias. La comunicación estratégica entiende que somos narradores que se alimentan de narraciones. En plena Economía de la Atención, las emociones y el lenguaje logran abrirse camino en medio de una avalancha informativa. Los asesores de <italic>storytelling</italic> dicen que “un buen relato huele, tiene textura, se puede ver aunque no tenga soporte visual, se puede oír aunque sea mudo y está trufado de sabores” (<xref ref-type="bibr" rid="redalyc_10146740002_ref11">Núñez 2007</xref>:28). Es decir, además de ser altamente pedagógicos, fomentan la cohesión de un grupo, ya que una organización que comparte narraciones tiene más posibilidades de vivir y trabajar en armonía.</p>
+<p>Algunos ejemplos de relatos organizacionales dan cuenta del impacto causado por aquellas historias asociadas a las ideas de compromiso o meta. En el ámbito del negocio informático son muy ilustrativos los casos de esfuerzo y liderazgo personal de Steve Jobs en Apple, Bill Gates en Microsoft y Mark Zuckerberg en Facebook; narraciones que han servido de inspiración para nuevas formas de gestión. El caso de Steve Jobs es especialmente emblemático. En el año 2005 el fundador de Apple compartió experiencias importantes de su vida durante un discurso de graduación en la Universidad de Stanford. Sus primeras palabras fueron: “Me siento honrado de estar con ustedes hoy, en su ceremonia de graduación de una de las mejores universidades del mundo. A decir verdad, yo nunca me gradué de una universidad. Y esto es lo más cerca que he estado de una graduación universitaria. Hoy deseo contarles tres historias de mi vida. Eso es todo, no es gran cosa. Solo tres historias” (<xref ref-type="bibr" rid="redalyc_10146740002_ref14">Salmon 2008</xref>:65).</p>
+<p>La primera historia relata la vida de su niñez, un joven que por casualidad se inscribe en una clase de tipografía (antecedente de lo que será la imagen gráfica de Macintosh); la segunda, es un relato de amor y pérdida, la leyenda de creación del primer Macintosh en el garaje de sus padres y el encuentro con su futura esposa; y la tercera es una historia de muerte y resurrección. Tras el cáncer diagnosticado, Jobs recupera su salud y la empresa que había fundado.</p>
+<p>El discurso de Jobs tuvo gran repercusión mediática y se convierte en la expansión del <italic>storytelling management</italic>. La adopción de la técnica de contar historias para potenciar las organizaciones va más allá de una simple promoción de marcas. Incluye una visión de mundo, pues proyecta la dinámica conversacional a toda la sociedad. Con el cambio de siglo, las grandes corporaciones norteamericanas emprenden la reconstrucción narrativa de sus marcas. El experto mundial Ashraf Ramzy abrió el año 2002, en Amsterdam, la primera agencia de asesoría de marketing llamada Naratividad. Su eslogan decía: “La gente no compra productos, sino las historias que esos productos representan. Así como tampoco compras marcas, sino los mitos y arquetipos que esas marcas simbolizan” (<xref ref-type="bibr" rid="redalyc_10146740002_ref14">Salmon 2008</xref>:58). Es por eso que en su discurso en Stanford, Jobs termina con la consigna: “Mantente hambriento. Mantente insensato” (<xref ref-type="bibr" rid="redalyc_10146740002_ref4">Elliot 2012</xref>:249). Es la historia edificante que repercute en los procesos internos no solo de Apple, sino de la industria de la informática mundial. Son historias de héroes que garantizan el cambio desde la innovación y hacen posible el éxito. La nueva escuela de gestión que nace con el nuevo siglo preconiza en la empresa la figura del narrador estratégico, pues busca que la organización re-oriente todos los procesos lingüísticos. Es habitual, entonces, que una organización sustente sus elevados estándares de productividad y niveles de desempeño a relatos vinculados a fundadores con un elevado nivel de patriotismo o a contextos políticos adversos con el propósito de mantener intacta la cooperación de sus miembros. Con el tiempo, esos relatos se convierten en prácticas o principios organizacionales interiorizados que nadie discute convirtiéndose en poderosos medios de control.</p>
+<p>Este ‘giro narrativo’ asociado al estudio del <italic>management</italic> generó una toma de conciencia sencilla: las organizaciones son microcosmos donde se producen y circulan muchas narraciones, desde las huelgas hasta las maquinaciones para acceder a mejores sueldos. Al respecto <xref ref-type="bibr" rid="redalyc_10146740002_ref1">Boje (1991)</xref> propone el término de <italic>storytelling organization</italic> para subrayar el carácter narrativo y también polifónico de las organizaciones. Según este autor, una organización se compone de narraciones y ante-narraciones que no necesariamente tienden a la unidad, sino que pueden también llevar a la fragmentación. El control del proceso creativo de relatos es la tarea de quienes intentan hacer algo con esos sistemas llenos de conversaciones. Éstas no paran, conducen y re-producen nuevas realidades organizacionales, lo que <xref ref-type="bibr" rid="redalyc_10146740002_ref6">Gabriel (1995)</xref> llama ‘la organización incontrolada’ [<italic>unmanaged organization</italic>]. En general, se trata de operaciones lingüísticas que pueden expandirse, restringirse o desaparecer, sin que estén necesariamente vinculadas a cambios físicos o corporales de sus miembros. Algunas de las funciones que cumplen dichos relatos son las siguientes: coordinación de acciones presentes y futuras, control de deseos y expectativas, definir los mandos y obediencias, justificar evaluaciones y sanciones u orientar cambios organizacionales. Pero también permiten abrir espacios para la contestación, la emancipación, la innovación y el cambio. Este giro narrativo se convierte en piedra angular de la teoría de la autopoiesis aplicado al ámbito organizacional. La expresión de nuestra existencia como parte de una unidad organizacional es un dominio de conocimiento –cuyo eje son las narraciones– en el cual el contenido de dicho conocimiento es el conocimiento mismo (o las propias narraciones).</p>
+</sec>
+<sec>
+<title>
+<bold>Lenguajear, conversar, narrar</bold>
+</title>
+<p>La concepción del lenguaje como instrumento generativo es clave para comprender las organizaciones como sistemas de narraciones. Según esta idea, la vida organizacional es una vida de cooperación –un dominio de coordinaciones de acciones consensuales– y, por ende, de comunicación. No son separables ambos fenómenos: la organización no se entiende sin la comunicación, y viceversa. La comunicación y la organización están íntimamente ligadas. De este modo, la realidad de las organizaciones es una compleja suma de espacios simbólicos comunes al entorno organizacional, donde se crean nuevos significados entre y para los miembros de dicho entorno. No es un conjunto de artefactos o roles institucionalizados. Se trata de una red de conversaciones, no de un mero conjunto de individuos. Es decir, las organizaciones son redes de compromisos lingüísticos, redes de actos del habla.</p>
+<p>Esta postura se sustenta en una definición de conversación como “la unidad mínima de interacción social orientada hacia la ejecución con éxito de acciones” (<xref ref-type="bibr" rid="redalyc_10146740002_ref5">Flores 1994</xref>:24). De este modo, la conversación se convierte en un fenómeno clave en las organizaciones, partiendo de la base de que el lenguaje es invención y constitución de realidad. El énfasis del concepto de conversación está centrado en la comunicación <italic>para</italic> la acción y la comunicación que <italic>es</italic> acción. Esta visión performativa de la comunicación organizacional contesta aquellos argumentos del <italic>management</italic> tradicional que desvalorizan las conversaciones en el contexto de trabajo. Expresiones anglófonas como: ‘<italic>talk is cheap’ </italic>[la conversación es barata], ‘<italic>too much talk, to little to do’</italic> [mucha palabra, poco hacer], ‘<italic>stop talking, start doing’</italic> [pare de hablar, empiece a actuar] resumen bien esta idea. El mayor problema con esta visión de la conversación reside en la separación entre hablar y actuar, como si el primero no fuera también una forma de acción. Al combinar una postura performativa, como aquella desarrollada por la pragmática de los actos de habla, con la noción de lenguajear que propone Maturana, podemos considerar acción y lenguaje como base de los mecanismos constitutivos de las organizaciones como sistemas sociales. Dicho de otro modo, la articulación de estas concepciones del lenguaje (performativa y de la autopoeisis) nos permite reconocer y dar cuenta de los efectos de la red de conversaciones a la cual refiere Flores. Ahora bien, para comprender la doble dinámica de constitución y distinción de la organización que se opera en el lenguaje, debemos franquear otra etapa. Y es aquí donde el concepto de narraciones que proponemos entra en juego.</p>
+<p>Las narraciones demarcan los límites y posiciones dentro de las cuales se llevan a cabo las conversaciones y sus posteriores acciones. Son el marco para las conversaciones y al mismo tiempo el nodo a través del cual se entretejen. El trasfondo de los miembros del entorno de una organización está habitado por relatos pre-existentes, una historia que sigue su curso “momento a momento contingente con sus interacciones recurrentes, con su propia dinámica estructural interna, y con sus interacciones con el medio” (<xref ref-type="bibr" rid="redalyc_10146740002_ref7">Maturana 1992</xref>:53). Las conversaciones entran en esa historia operándose entonces el acto de distinción. Se crea, entonces, la identidad y unidad de la organización. Esta se nutre de las prácticas comunicativas y participa en el mantenimiento de la cohesión organizacional: la coordinación de acciones consensuales cuyo núcleo es la narración. <xref ref-type="bibr" rid="redalyc_10146740002_ref12">Robichaud, Taylor y Giroux (2004)</xref> hablan de <italic>metaconversación</italic> para explicar los procesos constitutivos de la organización que se operan en la creación de una red de conversaciones. Según estos autores, la <italic>metaconversacion</italic> permite la articulación de una serie de conversaciones a través de un texto. El texto refiere aquí a una unidad narrativa que permite la conexión entre las distintas conversaciones. Para estos autores, la <italic>metaconversación</italic> es uno de los procesos comunicacionales claves en la constitución de la organización, pues a través de la narración permite la creación de un ‘nosotros’ y el posicionamiento de este ‘nosotros’ <italic>vis-à-vis</italic> un ‘vosotros’. Retomando sus palabras: “A new ‘us-ness’ is brought into existence as a product of the metaconversation. Once there is an ‘us,’ the possibility is created for someone to speak for the ‘us’ to others” <xref ref-type="bibr" rid="redalyc_10146740002_ref12">(Robichaud, Taylor y Giroux 2004:622)</xref>.</p>
+<p>Siguiendo esta idea, la unidad organizacional se logra cuando los individuos que la ejecutan a través de la red de conversaciones han adoptado las narraciones, haciéndolas suyas o cuando las acciones derivadas de esos relatos se asumen como propias. Si la narración es el núcleo de toda cooperación, la competencia surge como lo constitutivamente antisocial, lo que podríamos llamar una negación autopoiética. Como fenómeno de negación del otro, la competencia organizacional fomenta la negación de un espacio de convivencia y la desintegración del sistema, pues implica el no reconocimiento de los espacios que la propia organización ha definido para su existencia. Muchas veces se trata de caminos individuales anclados en la “grandeza” de la organización para la cual se trabaja, pero que se alejan de aquellos relatos que le dan consistencia, organicidad y unidad. Como se puede prever, ese sistema orgánico de narraciones no es primitivo ni surge por generación espontánea. Es generado a partir del amplio espectro de narraciones pre-existentes que hemos heredado como seres sociales que mantenemos, transformamos y/o cuestionamos continua y necesariamente en nuestras conversaciones.</p>
+<p>En síntesis, el lenguaje en las organizaciones no es solo un instrumento de transmisión de información, sino que actúa como una manera de convivir en un devenir de coordinación permanente. Y siguiendo el mismo postulado, las conversaciones definen sistemas de organizaciones, logrando en cada uno de sus miembros coordinación recursiva de sus conductas. Como todas las redes de conversaciones, las organizaciones constituyen dominios de conservación, exploración y cambio, y como tales son dominios de realidad, son pruebas de objetividad. El cambio en cualquier comunidad particular ocurre como un cambio conversacional que se da en el seno de la propia organización.</p>
+</sec>
+<sec>
+<title>
+<bold>Abriendo el diálogo: implicancias para la comunicación organizacional</bold>
+</title>
+<p>Las concepciones de comunicación y de organización asociadas a la teoría de la autopoiesis generan un conjunto de implicancias epistemológicas, ontológicas, prácticas y éticas. Al presentarse como una teoría del conocimiento basada en una fenomenología de la organización de lo vivo, trae consigo lo que podríamos llamar una responsabilidad epistémica para el investigador (o mejor dicho, el observador) que quiere estudiar la realidad organizacional y también para aquel agente de cambio que quiere intervenir en los procesos organizacionales. Esta postura es, según nuestro parecer, una de las contribuciones mayores de esta teoría, la cual no ha sido explorada ni desarrollada por aquellos que se han interesado en ella y que, sin embargo, abre nuevas perspectivas para comprender la dinámica constitutiva de la comunicación organizacional y su aplicación en las prácticas organizacionales.</p>
+<p>Tres reflexiones nos parecen importantes mencionar aquí para abrir el diálogo con otras perspectivas constitutivas. Referimos aquí a la llamada perspectiva CCO, acrónimo usado para <italic>Communicative Constitution of Organizations</italic> que agrupa a investigadores esencialmente norteamericanos y europeos en torno a la pregunta ontológica “¿qué es una organización?” (e.g. Brummans, Cooren, Robichaud y Taylor <xref ref-type="bibr" rid="redalyc_10146740002_ref3">2014</xref>; <xref ref-type="bibr" rid="redalyc_10146740002_ref16">Schoeneborn, Blaschke, Cooren, McPhee, Seidl y Taylor 2014)</xref>. Las respuestas que estos autores ofrecen nos parecen muy cercanas a aquellas que se pueden derivar de una reflexión autopoiética de la organización como aquella que proponemos en este trabajo. En efecto, entre las ideas clave de la perspectiva CCO encontramos la performatividad de lenguaje, la auto-reproducción de la organización y la importancia del acto de distinción en los procesos constitutivos. Notemos también que algunos de estos investigadores han referido explícitamente a la noción de autopoeisis (e.g. <xref ref-type="bibr" rid="redalyc_10146740002_ref17">Taylor y Giroux 2005</xref>), como también a la de lenguajear (e.g. Robichaud, Giroux y Taylor <xref ref-type="bibr" rid="redalyc_10146740002_ref12">2004</xref>). Por último, una de las ramas de la perspectiva CCO, vinculada al movimiento alemán, se basa en la obra de Luhmann, retomando principalmente la idea de la organización como un sistema autopoiético de decisiones (e.g. <xref ref-type="bibr" rid="redalyc_10146740002_ref2">Blaschke et. al. 2012</xref>, <xref ref-type="bibr" rid="redalyc_10146740002_ref15">Schoeneborn 2011</xref>).</p>
+<p>Primero, mencionemos lo que Maturana y Varela llaman la ‘tautología cognoscitiva’, que consiste en reconocer que el universo del conocimiento y de las experiencias del ser humano no se puede explicar desde una perspectiva independiente de ese mismo universo: “el conocimiento humano, sólo podemos conocerlo desde sí mismo” <xref ref-type="bibr" rid="redalyc_10146740002_ref9">(1984: xi)</xref>. Lo que aparentemente puede entenderse como una paradoja, se convierte en piedra angular de la teoría de la autopoiesis y ya no podemos evadirlo. La objetividad y la racionalidad toman entonces otro sentido si aceptamos que en el camino del conocimiento el observador constituye existencia con sus operaciones de distinción, en sus praxis de vivir en el lenguaje. ¿Cuáles son entonces las operaciones que nos permiten dar cuenta de este proceso reflexivo y circular del conocer, así como de nuestro rol de observadores integrados en el sistema que queremos comprender o en el cual queremos intervenir? ¿Cómo desarrollar una ‘objetividad constitutiva’ (<xref ref-type="bibr" rid="redalyc_10146740002_ref7">Maturana 1992</xref>) que reconoce esta postura integrada/integrante en la manera de estudiar los fenómenos organizacionales? ¿Qué cambios estamos llamados a realizar en las prácticas y procesos organizacionales siguiendo esta postura?</p>
+<p>Pareciera que la teoría de Maturana nos invita a hacer cualquier análisis organizacional desde el reconocimiento de la red de conversaciones que el propio sistema reproduce en forma autónoma, pero también considerando su grado de pertenencia a dicho sistema. El observador de organizaciones no solo tiene que saber cómo dicho sistema funciona, sino que necesita confiar plenamente en su propia comprensión y actuar de manera correspondiente. Quien adopte el rol de observador distanciado debería estar en condiciones de tener una mirada triple: mirar al interior del sistema y detectar sus componentes y las interrelaciones de estos, pero además debe estar consciente de cómo se presenta el sistema completo en el dominio de las interacciones, y de cómo ese dominio a su vez se comporta en las operaciones internas de la organización, como un meta-lenguaje. Esta primera reflexión nos lleva a reconocer y avalar el diseño circular de la teoría de la autopoiesis aplicada a los sistemas organizacionales. El observador y lo observado, el que conoce y lo que conoce forman una unidad indisoluble. Al graficarlo, veríamos un círculo que no tiene principio ni fin, salvo que alguien haga un corte y declare un comienzo. Cuando esto se hace, se ejecuta un ejercicio meramente comprensivo –y no ontológico–, ya que en ese inicio están presentes la cultura, la familia y el país de origen de quien hace el corte. Parafraseando a Maturana, cada observador lleva consigo toda una trama relacional, dentro de la cual el modo de pensar, hablar y actuar tiene sentido. Eso significa que un encuentro entre dos individuos es y será siempre personal, ambos inevitablemente forman parte de una dinámica sistémica que los vincula a relaciones simbólicas previas.</p>
+<p>Una segunda reflexión, vinculada a lo anterior, consiste en tomar en serio el acto de distinción –la creación de una figura y de un fondo– en la constitución del objeto y del sujeto del conocimiento. Ni el observador ni la organización son supuestos ontológicos <italic>a priori</italic>. Ambos aparecen en la distinción del observar –o podríamos decir, del narrar. Dicho de otro modo, no hay constitución sin distinción, esta última, recordémoslo, se opera en el lenguaje. Es aquí que el rol constitutivo de la comunicación organizacional toma toda su fuerza. Sin comunicación, no hay distinción, no hay constitución. Este es entonces el punto de partida: el lenguajear como proceso constitutivo fundamental, y, tal como lo mencionáramos, el narrar como operación lingüística donde la distinción surge por una búsqueda de cooperación, coherencia, unidad. ¿Cómo, entonces, dar cuenta de la simultaneidad de los procesos de distinción y constitución, de diferencia y de unidad de la organización? ¿Cuáles son las propiedades del lenguaje que generan a la vez estos procesos opuestos? Y la narración, ¿cómo participa concretamente de esa búsqueda de unidad? ¿Cómo explicar entonces la competencia narrativa que encontramos empíricamente en la realidad organizacional? Los relatos son mecanismos que facilitan la doble mirada del observador. Si uno no se integra hasta cierto grado al sistema, es imposible comprender sus dinámicas internas, pero al mismo tiempo es necesario guardar cierta distancia que permita ver el contexto de los acontecimientos y mantener la libertad de reflexión. Así, el camino de las narraciones sistémicas permite una interacción agonal: actúa de un modo que concuerda con las conductas establecidas o tradicionales del sistema, debido a la universalidad en la estructura de las narraciones.</p>
+<p>Finalmente, mencionemos la actitud ética que la praxis de vivir en el lenguaje plantea. Para Maturana y Varela, todo acto humano tiene sentido ético, porque es inevitablemente un acto en el lenguaje que por ende “trae a mano el mundo que se crea con otros en el acto de convivencia que da origen a lo humano”<xref ref-type="bibr" rid="redalyc_10146740002_ref9"> (1984:163)</xref>. La comunión con otros es, para estos autores, el fundamento de una reflexión sobre la legitimidad de la presencia del otro –“la aceptación del otro junto a uno en la convivencia”<xref ref-type="bibr" rid="redalyc_10146740002_ref9"> (1984:163)</xref>. En la práctica organizacional, esta ética de la praxis del vivir en el lenguaje nos llama a pensar en nuevos modos de organización que operen desde la convivencia y la comunión, y no de la indiferencia ni de la negación. Pensemos, por ejemplo, en la minga de Chiloé (Chile), que en el quechua <italic>mink’a</italic> significa un trabajo colectivo realizado a favor de la comunidad con el objetivo de proporcionar un beneficio social recíproco. La tradicional práctica chilota de “tiradura de casa” muestra bien la ética a la cual nos llaman Matura y Varela: sustentada en los valores de la colaboración y la sostenibilidad, esta tradición aparece como una alternativa a las lógicas organizacionales dominantes basadas en la competencia y el individualismo. De cierta manera, podríamos decir que la minga, así como otras formas alternativas de organización (e.g. los movimientos <italic>Occupy</italic>, las cooperativas, la educación popular) nos muestran un mundo donde las narraciones de comunidad, solidaridad y pertenencia son prácticas de auto-observación conversacional y fuente de nuevos relatos organizacionales.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>
+<bold>Bibliografía</bold>
+</title>
+<ref id="redalyc_10146740002_ref1">
+<mixed-citation>Boje, D. M. 1991. The storytelling organization: a study of story performance in an office-supply firm. <italic>Administrative Science Quarterly</italic> 36(1): 106-126. doi: 10.2307/2393432</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Boje</surname>
+<given-names>D. M.</given-names>
+</name>
+</person-group>
+<source>Administrative Science Quarterly :</source>
+<year>1991</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref2">
+<mixed-citation>Blaschke, S; Schoeneborn, D. y Seidl, D. 2012. Organizations as networks of communication episodes: turning the network perspective inside out<italic>. Organization Studies</italic> 33(7): 879-906. doi: 10.1177/0170840612443459</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Blaschke</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Schoeneborn</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Seidl</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<source>Organization Studies</source>
+<year>2012</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref3">
+<mixed-citation>Brummans, B; Cooren, F; Robichaud, D. y Taylor, J R. 2014. <italic>Approaches to the communicative constitution of organizations</italic>. En: L. Putnam y D. Mumby (eds) <italic>Sage handbook of organizational communication</italic>, pp. 173-194. London: Sage.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Brummans</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Cooren</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Robichaud</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Taylor</surname>
+<given-names>J R</given-names>
+</name>
+</person-group>
+<source>Sage handbook of organizational communication</source>
+<year>2014</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref4">
+<mixed-citation>Elliot, J. 2012. <italic>El camino de Steve Jobs</italic>. Santiago: Punto de Lectura.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Elliot</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<source>El camino de Steve Jobs</source>
+<year>2012</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref5">
+<mixed-citation>Flores, F. 1994. <italic>Creando organizaciones para el futuro.</italic> Santiago: Dolmen.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Flores</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<source>Creando organizaciones para el futuro</source>
+<year>1994</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref6">
+<mixed-citation>Gabriel, Y. 1995. The unmanaged organization: stories, fantasies and subjectivity. <italic>Organization Studies</italic> 16(3): 477-501. doi: 10.1177/017084069501600305</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gabriel</surname>
+<given-names>Y.</given-names>
+</name>
+</person-group>
+<source>Organization Studies</source>
+<year>1995</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref7">
+<mixed-citation>Maturana, H. 1992. <italic>La objetividad. Un argumento para obligar.</italic> Santiago: Dolmen.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Maturana</surname>
+<given-names>H.</given-names>
+</name>
+</person-group>
+<source>La objetividad Un argumento para obligar</source>
+<year>1992</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref8">
+<mixed-citation>Maturana, H. y Varela, F. 1994. <italic>De máquinas y seres vivos. </italic>Santiago: Universitaria.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Maturana</surname>
+<given-names>H.</given-names>
+</name>
+<name>
+<surname>Varela</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<source>De máquinas y seres vivos</source>
+<year>1994</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref9">
+<mixed-citation>Maturana, H. y Varela, F. 1984. <italic>El árbol del conocimiento. </italic>Santiago: Universitaria.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Maturana</surname>
+<given-names>H.</given-names>
+</name>
+<name>
+<surname>Varela</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<source>El árbol del conocimiento</source>
+<year>1984</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref10">
+<mixed-citation>Maturana, H. y Pörksen, B. 2004. <italic>Del ser al hacer. Los orígenes de la biología del conocer</italic>. Santiago: J.C. Sáez Editor.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Maturana</surname>
+<given-names>H.</given-names>
+</name>
+<name>
+<surname>Pörksen</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<source>Del ser al hacer Los orígenes de la biología del conocer</source>
+<year>2004</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref11">
+<mixed-citation>Núñez, A. 2007. <italic>¡Será mejor que lo cuentes! Los relatos como herramientas de comunicación</italic>. Barcelona: Empresa Activa.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Núñez</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<source>¡Será mejor que lo cuentes! Los relatos como herramientas de comunicación</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref12">
+<mixed-citation>Robichaud, D; Giroux, H. y Taylor, J.R. 2004. The metaconversation: the recursive property of language as a key to organizing. <italic>Academy of Management Review</italic> 29(4): 617–634. doi: 10.5465/AMR.2004.14497614</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Robichaud</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Giroux</surname>
+<given-names>H.</given-names>
+</name>
+<name>
+<surname>Taylor</surname>
+<given-names>J.R.</given-names>
+</name>
+</person-group>
+<source>Academy of Management Review</source>
+<year>2004</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref13">
+<mixed-citation>Sadowsky, J. y Roche, L. 2013. <italic>Siete reglas del storytelling</italic>. Madrid: Granica.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Sadowsky</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Roche</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<source>Siete reglas del storytelling</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref14">
+<mixed-citation>Salmon, C. 2008. <italic>Storytelling, la máquina de fabricar historias.</italic> Barcelona: Península.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Salmon</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<source>Storytelling la máquina de fabricar historias</source>
+<year>2008</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref15">
+<mixed-citation>Schoeneborn, D. 2011. Organization as communication: a luhmannian perspective. <italic>Management Communication Quarterly</italic> 25(4): 663-689. doi: 10.1177/0893318911405622</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schoeneborn</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<source>Management Communication Quarterly</source>
+<year>2011</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref16">
+<mixed-citation>Schoeneborn, D; Blaschke, S; Cooren, F; McPhee, R.D; Seidl, D. y Taylor, J.R. 2014. The three schools of CCO thinking: interactive dialogue and systematic comparison. <italic>Management Communication Quarterly</italic> 28(2): 285-316. doi:10.1177/0893318914527000</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schoeneborn</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Blaschke</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Cooren</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>McPhee</surname>
+<given-names>R.D</given-names>
+</name>
+<name>
+<surname>Seidl</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Taylor</surname>
+<given-names>J.R.</given-names>
+</name>
+</person-group>
+<source>Management Communication Quarterly</source>
+<year>2014</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740002_ref17">
+<mixed-citation>Taylor, J.R. y Giroux, H. 2005. The role of language in self-organizing. En: G.A. Barnett y R. Houston (eds) <italic>Advances in self-organizing systems</italic>, pp. 131-168. New York: Hampton Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Taylor</surname>
+<given-names>J.R.</given-names>
+</name>
+<name>
+<surname>Giroux</surname>
+<given-names>H.</given-names>
+</name>
+</person-group>
+<source>Advances in self-organizing systems</source>
+<year>2005</year>
+</element-citation>
+</ref>
+</ref-list>
+<fn-group>
+<fn id="fn1" fn-type="other">
+<p>Una versión preliminar de este artículo fue presentada en la 65ª Conferencia Anual de la International Communication Association (ICA), en el panel titulado "Organizational Communication in Spanish-Speaking Latin American Countries", realizado en San Juan, Puerto Rico, 21-25 Mayo de 2015.</p>
+</fn>
+</fn-group>
+</back>
+</article>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <issn pub-type="ppub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-id pub-id-type="doi">https://doi.org/10.4067/S0717-554X2021000100001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Teoría del cuerpo subjetivo en Michel Henry: aportes para una fenomenología contemporánea del cuerpo</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Michel Henry's theory of the subjective body: contributions to a contemporary phenomenology of the body</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7819-3154</contrib-id>
+               <name>
+                  <surname>Díaz-Erbetta</surname>
+                  <given-names>Myriam</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Escuela de Trabajo Social, Pontificia Universidad Católica de Valparaíso, Valparaíso</institution>
+            <institution content-type="normalized">Pontificia Universidad Católica de Valparaíso</institution>
+            <institution content-type="orgname">Pontificia Universidad Católica de Valparaíso</institution>
+            <country country="CL">Chile</country>
+            <email>myriam.diaz.e@pucv.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>70</issue>
+         <fpage>1</fpage>
+         <lpage>16</lpage>
+         <history>
+            <date date-type="received">
+               <day>03</day>
+               <month>11</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>01</month>
+               <year>2021</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El presente artículo pretende exponer algunos elementos fundamentales de la filosofía del pensador francés Michel Henry sobre el cuerpo, que él identifica con la subjetividad. Los conceptos fundamentales considerados son el esfuerzo, el movimiento, el hábito y la memoria, que permiten definir el cuerpo como un saber y una experiencia trascendental. La mayoría de estos conceptos se derivan de los estudios de Henry sobre Maine de Biran, pero luego son enlazados con su propio desarrollo filosófico en torno al cuerpo como pathos de la carne viviente. El trabajo de Henry sobre el cuerpo puede contribuir con elementos cruciales a las discusiones actuales en las ciencias sociales, en áreas como el género, el trabajo, la violencia, la construcción de la autoimagen y los estereotipos sociales, el cuidado de la salud, entre otros.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This article aims to expose some fundamental elements of the French philosopher Michel Henry’s thinking about the body, which he identifies with subjectivity. The fundamental concepts considered are effort, movement, habit, and memory, which permits to define the body as a transcendental knowledge and experience. Most of these concepts derived from Henry’s studies on Maine de Biran but with a particular emphasis, relating them with his notion of the body as the pathos of living flesh. Henry’s concept of the body can contribute with crucial elements to the actual discussions in social sciences, in areas such as gender, work, violence, the construction of self-image and social stereotypes, health care, among others.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>subjetividad</kwd>
+            <kwd>cuerpo</kwd>
+            <kwd>carne</kwd>
+            <kwd>movimiento</kwd>
+            <kwd>memoria</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>subjectivity</kwd>
+            <kwd>body</kwd>
+            <kwd>flesh</kwd>
+            <kwd>movement</kwd>
+            <kwd>memory</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="12" />
+            <page-count count="16" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>El filósofo francés Michel Henry (1922-2001) otorga un lugar de privilegio al cuerpo en su filosofía, identificando el cuerpo con la subjetividad misma, es decir, con el yo. En este sentido, el cuerpo no es una nota, una característica o un elemento que pertenece al sujeto, sino que el cuerpo es el sujeto mismo. Del mismo modo, en su filosofía el ser del cuerpo y de la subjetividad está asociado a la búsqueda de una ontología fenomenológica fundamental, es decir, a la determinación de una fenomenología que permita aclarar el estatuto mismo de la fenomenalidad y del aparecer, los temas fundamentales de su filosofía.</p>
+         <p>El tema del cuerpo es, y ha sido en la historia de la filosofía, un tema y un problema complejo, especialmente desde la tradicional concepción de la unión cuerpo-alma. Esto ha llevado a la pregunta sobre la posibilidad real de que dos sustancias, realidades, o regiones del ser tan heterogéneas puedan efectivamente conformar una unidad. El reconocimiento del vínculo entre nuestra corporalidad y nuestra finitud no es tampoco un privilegio de la filosofía contemporánea, sino que más bien recoge la idea general del ser humano y de la naturaleza humana expresada en la tradición que ha dominado el pensamiento occidental. Dicha idea es que el ser humano debe ser considerado como un ser doble, como una síntesis de dos opuestos: cuerpo y espíritu. Las tradiciones humanistas y naturalistas se esfuerzan en rehabilitar el cuerpo, pero ese cuerpo sigue siendo en esas concepciones un “elemento inferior” que habría que rehabilitar (por ejemplo, el clásico “mente sana en cuerpo sano”). En este caso, se sigue pensando ambas dimensiones, cuerpo y alma, como elementos heterogéneos.</p>
+         <p>En esta antigua y compleja discusión acerca del cuerpo, la filosofía henryana hace una apuesta sobre la que vale la pena reflexionar. La subjetividad es concebida aquí como una “realidad encarnada”, “el yo no tiene un cuerpo, sino que es un cuerpo” (Henry 2007:269), oponiéndose así a toda la tradición representacionista en la historia de la filosofía. Según Henry, una nueva concepción del sujeto y del cuerpo, exigiría una nueva reflexión filosófica de todos los actos humanos “materiales”, es decir, de todos aquellos actos que implican “una actividad directa con el medio trascendente: el trabajo, el rito, el movimiento y, posteriormente, una revisión de todo el saber y el pensamiento humanos, es decir, de la cultura en sentido amplio” (Henry 2007:298). El cuerpo, en su naturaleza originaria, pertenece a una esfera de la existencia que es la subjetividad misma. En este sentido, el trabajo de Henry radicaliza los planteamientos de Husserl, quien en sus trabajos fenomenológicos incorporó el concepto de Leib, definido como cuerpo viviente, sin embargo, como señala Palomar, “es interesante esta obra de Henry porque en su lectura aparece el esfuerzo del autor por elaborar una fenomenología del sentir del cuerpo cuando, todavía, no se había publicado Ideas II de Husserl -la publicación del segundo volumen de Ideen tuvo lugar en 1952-, y cuando el autor, como él mismo reconoce en el Prefacio, desconocía las investigaciones de Merleau-Ponty” (Palomar 2016:88).</p>
+         <p>El estudio del cuerpo atraviesa toda la obra de Henry, pero tiene dos grandes hitos: su investigación sobre Maine de Biran publicada en 1965, Philosophie et phénoménologie du corps, donde concibe el cuerpo subjetivo como movimiento y poder, y su libro Incarnation: Une philosophie de la chair, texto publicado en el año 2000 donde se radicaliza su concepción del cuerpo, entendida aquí como carne, en el contexto de su apertura a la filosofía del cristianismo.</p>
+         <p>Como primer acercamiento, podemos constatar que el cuerpo es un tema transversal en la filosofía de Henry y que representa una temática fundamental para su filosofía. Por ejemplo, en una hermosa obra dedicada al pintor Vassily Kandinsky llamada Voir l’invisible. Sur Kandinsky, expresa del siguiente modo la particularidad de nuestra experiencia del cuerpo: “Que todo fenómeno pueda ser vivido de dos formas, exterior e interiormente, es en cualquier caso algo que experimentamos de continuo precisamente respecto de un fenómeno que no nos abandona nunca, a saber, nuestro cuerpo. Pues, por una parte, yo vivo interiormente el cuerpo, coincidiendo con él y con el ejercicio de cada una de sus capacidades: yo veo, oigo, siento, muevo las manos y los ojos, tengo hambre, frío, de tal manera que yo soy ese ver, ese oír, ese sentir, ese movimiento, esa hambre, me abismo todo entero en su pura subjetividad hasta el punto de no diferenciarme en nada de ellos: de esa hambre, de ese movimiento, etc. Por otra parte, y al mismo tiempo, vivo exteriormente ese mismo cuerpo, puesto que soy capaz de verlo, tocarlo, representármelo como se representa en general un objeto, como una realidad más o menos análoga a los demás objetos” (Henry 2007:17).</p>
+         <p>Como podemos observar, no se trata aquí de dos contenidos, sino de dos modos del aparecer, de dos maneras en que se nos da un mismo contenido. Por esta razón intentaremos dilucidar en qué sentido podemos decir que no existe distancia fenomenológica alguna con nuestro cuerpo. Para abordar este problema, en el presente artículo intentaremos mostrar algunos de los aportes de la filosofía de Michel Henry basados en sus estudios sobre Maine de Biran (cuya interpretación no está exenta de discusión dado que el mismo Henry reconoce que “trastoca” y utiliza los conceptos de dicho autor para su propia filosofía) y también en su texto Encarnación, además de otros textos posteriores. No pretendemos agotar el problema del cuerpo en la filosofía henryana, sino solo recuperar conceptos que pueden ser una contribución para pensar fenomenológicamente el cuerpo en problemas sociales contemporáneos como, por ejemplo, los conceptos de esfuerzo, movimiento, hábito, memoria, entre otros.</p>
+      </sec>
+      <sec>
+         <title>Subjetividad, esfuerzo y movimiento</title>
+         <p>Para Henry, abordar el tema del cuerpo en Maine de Biran tiene como objetivo mostrar la identidad entre cuerpo y subjetividad: “mi propósito en él era establecer frente al idealismo, el carácter concreto de la subjetividad, mostrando para ello que dicha subjetividad coincide con nuestro propio cuerpo” (Henry 2007:21). En este texto, se propone una investigación sobre el ego, o una fenomenología del ego, cuyo problema central es la encarnación, es decir, el ser humano encarnado, trascendiendo la esfera de la conciencia pura o la subjetividad abstracta. Para ello, parte de una crítica a los saberes “objetivos del cuerpo”, como los de las ciencias naturales, pues no es a partir de la relación con el cuerpo biológico donde obtendríamos nuestro saber primero del cuerpo (no esperamos los descubrimientos de la biología para correr, saltar o caminar), sino que nuestra relación con nuestro cuerpo es anterior y originaria. La ciencia natural que estudia el cuerpo presupone este saber en tanto condición de posibilidad, como horizonte ontológico en cuyo interior propone explicaciones. Sin embargo, nuestro cuerpo es un cuerpo viviente y por tanto no puede ser reducido a una experiencia en el sentido que lo entiende la biología. La vida no es originariamente para nosotros una experiencia científica, pero se nos da a través del cuerpo como una estructura trascendente, junto a objetos inertes, herramientas, objetos culturales, etc. El conocimiento del cuerpo podría ser resuelto entonces a partir de la descripción de las características de las “realidades vivas”, pero hay diferencias entre cualquier cuerpo viviente (una ameba, por ejemplo), o los animales en general, y el cuerpo humano, que presenta características particulares: “el cuerpo humano no es como los demás cuerpos, sino que es esencialmente un cuerpo vivido, un cuerpo interior, o sea, un cuerpo subjetivo” (Domínguez 2018:89). Henry plantea que la problemática del cuerpo está implícita dentro de la problemática general de la ontología, dado que para él: “este cuerpo pertenece a una esfera de existencia que es la de la subjetividad misma” (Henry 2007:31). Esto significa, entonces, tomar conciencia de que es una realidad que está en el corazón de la existencia humana, “un cuerpo que es un Yo” (Henry 2007:32), y que este descubrimiento está anclado en la filosofía poco reconocida de Maine de Biran, “uno de los verdaderos fundadores de la ciencia fenomenológica de la realidad humana” (Henry 2007:32).</p>
+         <p>Uno de los conceptos interesantes de atender en la filosofía biraniana es el concepto de reflexión. Para Maine de Biran existen dos clases de conocimiento y por tanto dos clases de seres: el ser trascendente (que se nos da con una distancia fenomenológica), cuyo conocimiento sería un “conocimiento exterior”, y el ser que nos es dado inmediatamente, sin distancia alguna y que corresponde al yo. A este segundo tipo de ser correspondería una forma de conocimiento que llamará “reflexión”. La reflexión se identifica aquí con la fuente originaria de toda evidencia, con el cogito, pero lo interesante en esta perspectiva es que el cogito no es un acto reflexivo intelectual, sino “una acción, un esfuerzo, un movimiento” (Henry 2007:37). La reflexión es, entonces, la apercepción interna que se identifica con la individualidad del yo y su reflexión, en tanto sentimiento de esfuerzo. En la filosofía de Maine de Biran el problema de la subjetividad no está asociado solo a la razón o la mente, pues el mundo es un mundo vivido por el ego y no separado de él, no es un mundo muerto, sino que “tiene una vida: la vida misma que el ego le confiere” (Henry 2007:60). La vida del mundo es la vida del ego y por tanto es un mundo donde se entrecruzan causas y fuerzas. El ego es causalidad, fuerza, unidad, identidad, libertad de las cosas y de su manera de darse a nosotros. La identidad del ego con la subjetividad significa que el yo no es un ente, por tanto, la oposición entre el yo y el no-yo (mundo, el ser trascendente) no puede ser óntica: “La oposición entre el yo y el no-yo es una oposición entre el ser del esfuerzo y el ser del mundo, es una oposición ontológica” (Henry 2007:68). El yo se reproduce y se apercibe constantemente en el esfuerzo, y en la resistencia que le opone el no-yo, pero lo que constituye la esencia misma de la ipseidad (de la “egoidad” como señala Maine de Biran), es la interioridad de la presencia inmediata de sí mismo. El ego no es una “cosa”, un objeto entre otros, sino su condición, y en base a este poder que tiene el ego de revelar el mundo, constituye un elemento ontológico de la manifestación pura, pues el ego se da en la certeza absoluta de una experiencia interna.</p>
+         <p>En la filosofía biraniana interpretada por Henry, el ser del ego no se determina como un puro pensamiento cuya esencia se agotaría en el conocimiento de la extensión y en la contemplación de las cosas. El ser del ego aparece ahora identificado con la acción mediante la que sin cesar modificamos el mundo, aunque no sea más que para hacer posible en él la continuación de nuestra propia existencia. El ser del ego se identifica con los movimientos que dirigimos al universo con el fin de alcanzarlo o rehuirlo. El ego es, entonces, un poder y el cogito no significa ahora un “yo pienso” sino un “yo puedo” (Henry 2007:88). A esto refiere la oposición del cogito cartesiano y biraniano explicitado por Michel Henry. De este modo, se comprende el carácter concreto de la subjetividad y se comprende que no tenga nada de abstracta, nada de intelectual, no piensa el mundo como “observándolo” desde lo alto, sino que transforma el mundo, es una producción. La determinación biraniana del movimiento es una crítica a la concepción cartesiana del cuerpo que lo considera parte de la extensión, una máquina, donde el movimiento se analiza como “idea de movimiento”.</p>
+         <p>Otro de los problemas fundamentales que aborda Maine de de Biran, y que destaca Henry, es el conocimiento que tenemos de nuestro propio cuerpo. Para Maine de Biran el cuerpo se identifica con el movimiento sentido en su acontecer, el sentimiento del esfuerzo. Por esta razón, el problema del conocimiento de nuestro cuerpo arranca de un supuesto fundamental: el cuerpo se nos da en una experiencia interna trascendental, el conocimiento que tenemos de él es un conocimiento verdaderamente originario y, por consiguiente, el ser del cuerpo pertenece a una región ontológica donde son posibles y acontecen tales experiencias internas trascendentales, es decir, en la esfera de la subjetividad: “El ser fenomenológico (es decir, originario, real y absoluto) del cuerpo es, pues, un ser subjetivo. Con ello se afirma asimismo la inmanencia absoluta del cuerpo, afirmación que implica el rechazo de todos los análisis presididos por la presuposición de que el cuerpo sea en su ser originario algo trascendente, puesto que en medio de las afirmaciones que se dan por sentadas, tiene sin duda un lugar de honor aquella según la cual el cuerpo es una cosa, una realidad constituida y una parte del mundo” (Henry 2007:95).</p>
+         <p>Que el cuerpo originario pertenezca a la esfera de la inmanencia absoluta de la subjetividad trascendental, significa que los fenómenos del cuerpo pertenecen a un orden de hechos en relación de conocimiento inmediato consigo mismo. Esto implica tres afirmaciones decisivas: primero, que el movimiento es conocido por sí mismo, no por otra cosa, no por una mirada reflexiva exterior o por una intencionalidad. Ninguna distancia fenomenológica se impone entre el movimiento y nosotros, pues el movimiento no es algo trascendente. Segundo, que el movimiento nos pertenece, nuestro cuerpo es el conjunto de poderes que tenemos sobre el mundo y el cómo los ponemos en ejecución. El movimiento no es algo externo, sino que es dado inmediatamente en la experiencia interna trascendental, que coincide con el ser mismo de este movimiento. El movimiento no es el desplazamiento en el espacio objetivo trascendente, sino que es un movimiento subjetivo. El movimiento no está en mi poder como lo puede estar un objeto del mundo, sino que el movimiento es él mismo ese poder y tiene las cosas a su merced. Tercero y último, el movimiento no es un intermediario entre el ego y el mundo, ni un instrumento. El cuerpo no es un instrumento de mi acción sobre el mundo, ni un “vehículo”. No hay intermediación entre el alma y el movimiento, pues el alma no necesita intermediarios. Pensar que el cuerpo es intermediario entre el alma y los movimientos es solo una ficción, el cuerpo no es un medio, el ego no actúa a través de un cuerpo, “él mismo es ese cuerpo, ese movimiento, ese medio” (Henry 2007:98). En rigor, no estamos nunca separados del movimiento, pues el ser del movimiento es una efectividad fenomenológica cuyo ser corresponde a una experiencia interna trascendental.</p>
+         <p>De una manera más radical aún, esta teoría plantea que nuestro cuerpo puede conocer el mundo solo gracias a que es un cuerpo subjetivo, un cuerpo trascendental. De manera recíproca, “este mundo del cuerpo es un mundo que originariamente tan solo es conocido por el cuerpo, es decir, que solo es conocido por nuestro propio movimiento” (Henry 2007:114). Nuestra vida concreta, que se experimenta interna y trascendentalmente a sí misma como movimiento subjetivo, experimenta el mundo como término trascendente de ese movimiento, como “continuo resistente” (Henry 2007:114), y dado que nuestra vida interior, entendida como subjetividad, es una esfera de certeza absoluta, aquello de lo que ella tenga certeza es absolutamente cierto.</p>
+      </sec>
+      <sec>
+         <title>El cuerpo como saber, hábito y memoria</title>
+         <p>El cuerpo no es solo movimiento, sino que también es “sentir” y en el análisis de la facultad del sentir, encontramos que la esencia de ese sentir está en el movimiento. El acto de sentir no se conoce por la sensación, sino que esta se conoce por el acto mismo de sentir: “El cuerpo, en tanto que cuerpo subjetivo, se confunde con el acto de sentir; no es en modo alguno un compuesto de sensaciones, cualquiera que fuese la unidad -en las variaciones consecutivas, por ejemplo- que pudiera encontrar entre tales sensaciones” (Henry 2007:119).</p>
+         <p>Cualquiera sea la naturaleza de las sensaciones que nos sean dadas (visuales, olfativas, auditivas, táctiles), “siempre es por medio de un único poder como nos dirigimos a ellas y las aprehendemos” (Henry 2007:121). La unidad de nuestras sensaciones visuales, por ejemplo, es una unidad constituida y su fundamento se encuentra en el poder que la constituye, que es el movimiento subjetivo de la mirada. Podemos afirmar entonces que la unidad de las sensaciones de todos nuestros sentidos resulta de la mediación de nuestro poder de movimiento subjetivo sobre las sensaciones. Nuestro poder sobre el mundo reside en esta unidad, pues la constitución del universo es inmanente al ejercicio de cada uno de nuestros sentidos.</p>
+         <p>Otro punto de reflexión, que se desprende del problema de la sensación, es el problema de la memoria, pues para Henry: “La determinación del ser originario del cuerpo como movimiento subjetivo nos proporciona el principio de una fenomenología de la memoria, cuya posibilidad está por tanto fundada íntegramente sobre la teoría ontológica del cuerpo” (Henry 2007:133). Gracias a la memoria podemos tener una impresión y reproducirla, por ejemplo, escuchar un sonido y repetirlo. En la repetición sé que he tenido la impresión sonora, la repito, sé que soy yo quien la repite y es la misma de la que tuve experiencia, y esto es posible porque está fundada en una experiencia interna trascendental. Quien repite la impresión sonora es el cuerpo, es decir el yo, lo que significa que el poder de constitución de la impresión es el ego mismo.</p>
+         <p>El ejercicio de la motilidad, es decir, la facultad de hacer movimientos y tener conciencia de ellos es lo que constituye la raíz de nuestro sentir. El movimiento subjetivo es inmanente al ejercicio de cada sentido, puesto que es el ser mismo del cuerpo. Siguiendo el hilo de este análisis, comprendemos cómo la unidad de nuestros sentidos es la unidad de un saber, y es precisamente en esta unidad que consiste la individualidad de la realidad humana como individualidad sensible.</p>
+         <p>Una vez que se ha aprehendido la unidad de los sentidos, Henry intenta demostrar que en el pensamiento biraniano esta unidad se presenta como un saber. En cuanto experiencia interna trascendental, como ya hemos explicado, nuestro cuerpo es un saber inmediato de sí. Nuestra experiencia inmediata del cuerpo no nos proporciona otra cosa distinta que ella misma: “El cuerpo no es primero un ser y luego, a continuación, una experiencia que tenemos de ese ser -ser que preexistiría a dicha experiencia o que existiría independiente de ella” (Henry 2007:139). El cuerpo originario aparece en un aparecer que se nos da sin distancia fenomenológica alguna y que coincide con esa forma de darse. Por esta causa Henry propone que es posible considerar nuestro cuerpo como un saber: “Nuestro cuerpo es un poder, pero ese poder es un saber inmediato de sí, un saber que no presupone que esté abierto ya para nosotros el horizonte de la verdad del ser, sino que es en cambio el fundamento y origen de esa verdad” (Henry 2007:139).</p>
+         <p>El conocimiento que tenemos del mundo a partir de nuestro cuerpo no es un conocimiento meramente intelectual y representativo, es un conocimiento corporal, sustentado en el hecho del movimiento subjetivo. Los objetos del mundo son vividos inmediatamente por los poderes mediante los cuales nos relacionamos con ellos, sin que deba mediar una representación anterior. Esta concepción del conocimiento y del cuerpo tiene consecuencias muy relevantes en el plano epistemológico, pues el conocimiento corporal deja de ser considerado un conocimiento provisional y primitivo respecto del intelectual, y se transforma en un conocimiento ontológico, primordial e irreductible, fundamento y base de todos nuestros otros conocimientos y en particular de nuestros conocimientos teóricos e intelectuales. Llegados a este punto es necesario aclarar, sin embargo, que, siguiendo la interpretación de Henry, nuestro cuerpo no sería exactamente un conocimiento, sino un “poder de conocimiento”, el principio de conocimientos infinitamente variables y múltiples, que a pesar de esa diversidad se encuentran coordinados: “Cada vez que un objeto le es dado a mi cuerpo, no lo es tanto como objeto de una experiencia presente, sino como algo que mi cuerpo puede alcanzar, como algo que está sometido a un poder que el cuerpo tiene sobre él” (Henry 2007:143).</p>
+         <p>De este modo, se entiende el mundo como la totalidad de los contenidos de todas las experiencias de mi cuerpo, como el término de todos mis movimientos, reales o posibles. Este contenido del mundo es indefinidamente evocable, pues sus contenidos son por principio siempre accesibles a mi movimiento. Precisamente, el reconocer la identidad del movimiento con el ser del conocimiento ontológico, es lo que se expresa al decir que el cuerpo es un poder y que su conocimiento no se limita al presente, sino a la posibilidad del conocimiento en general, de que el mundo nos sea dado, donde el hábito será, desde este punto de vista, el ser real y concreto de esa posibilidad ontológica. “Si todo conocimiento es reconocimiento, es porque el ser originario del cuerpo es movimiento subjetivo: estamos en el orden de un a priori, de un conocimiento ontológico” (Devarieux 2011:125). El cuerpo es un hábito y el mundo es el término o contenido de todos nuestros hábitos, por lo que, en este sentido dirá Henry, que somos verdaderamente sus “habitantes”: “Habitar, frecuentar el mundo, he ahí el hecho de la realidad humana, y tal carácter de habitación es un carácter ontológico que sirve para definir tanto el mundo, como el cuerpo que es su habitante” (Henry 2007:144).</p>
+         <p>El movimiento, por ejemplo, la aprehensión de un objeto, no es un movimiento aislado que se da solo una vez, no es un conocimiento empírico, sino un conocimiento ontológico. No se trata entonces de un ciclo singular, sino que es la posibilidad en general, en su presente, y que lleva en sí todas las aprehensiones pasadas y futuras. Ese es el sentido de afirmar que nuestro cuerpo es un hábito, es decir, una posibilidad indefinida de movimientos. En otras palabras, si se concibe el cuerpo como un poder de conocimiento, es necesario tener en cuenta que no es un saber instantáneo, sino que “es un saber permanente que es mi existencia misma, es memoria” (Henry 2007:144). El cuerpo que recuerda no toma distancia de los pasos anteriores que lo llevaron a las cosas, y con ello, guarda el secreto del acceso a todos los objetos de su entorno indefinidamente, “es la llave del universo” (Henry 2007:145).</p>
+         <p>Nuestro cuerpo, de este modo, se entiende como hábito y memoria. El hábito es el fundamento de la memoria, dado que define la estructura ontológica del cuerpo y hace posible nuestros actos de rememoración y recuerdo. La posibilidad de todo conocimiento en general está fundada en ese saber originario de nuestro cuerpo subjetivo, o como afirmaría Maine de Biran, se trata de una posibilidad indefinida de movimientos: “un poder” (Maine de Biran 1932:605), en el recuerdo de un acto que encierra el sentimiento de la potencia de volver a repetirlo. La unidad de nuestro cuerpo es el sentimiento de inmanencia, dentro de todos los modos de nuestra vida concreta, de esta potencia de producir y repetir la experiencia inmediata de nuestro poder ontológico: la unidad del ego es la que posibilita la memoria.</p>
+         <p>El cuerpo es un hábito ontológico (en el sentido en que Henry ha definido hábito, siguiendo a Maine de Biran), es el fundamento de todos nuestros hábitos psicológicos. La relación de este cuerpo originario absoluto con el ser trascendente existe, pero es una relación trascendental, su estar-en-situación, en el mundo, se fundamenta en el hecho de que es un cuerpo subjetivo. El cuerpo está situado, pero no le pertenece al mundo como pertenece una cosa a su elemento. En este sentido, Henry aclara que, aunque nuestro cuerpo objetivo esté inmerso en el medio trascendente del mundo no es un objeto cualquiera, incluso si se tratara de una representación, nuestro cuerpo no se presenta como un puro ser-ahí, colocado en yuxtaposición con las demás cosas trascendentes que lo rodean: la habitación, la silla. Nuestro cuerpo es capaz de utilizar una silla, echar llave a una puerta, puede “ir a” o “salir de”, pero estas determinaciones no pertenecen al medio del ser trascendente, son determinaciones que provienen de una esfera absolutamente distinta de la existencia, a través de las cuales se expresa la vida absoluta de nuestro cuerpo subjetivo.</p>
+         <p>Nuestro cuerpo no es, ni puede ser, una representación, el cuerpo originario constituye el centro absoluto de todas nuestras perspectivas, y esto debido a que es la subjetividad la que lo constituye y define su relación con el mundo: “A la afirmación ‘yo tengo un cuerpo’ conviene, pues, oponerle esta otra afirmación más originaria: ‘yo soy mi cuerpo’” (Henry 2007:269).</p>
+      </sec>
+      <sec>
+         <title>El cuerpo como vida y pathos de la carne</title>
+         <p>Michel Henry vuelve a trabajar en extenso el tema del cuerpo en un libro del año 2000 titulado Incarnation. Une philosophie de la chair, cuando su pensamiento ha experimentado una apertura al ámbito teológico. Si bien en este texto se retoman problemas abordados con anterioridad, estos se enfrentan incorporando el problema de la encarnación cristiana. Sería injusto no reconocer que existen ámbitos e ideas que se presentan como una continuidad entre su trabajo de 1965 sobre Maine de Biran y el del año 2000, pero es evidente que se radicalizan algunos aspectos y otros obtienen el cariz propio de una filosofía que ha llevado al límite su reflexión sobre el absoluto (ya presente en los textos primeros) y que en ese contexto ha incorporado la reflexión sobre el cristianismo a la reflexión propiamente fenomenológica. En el presente acápite consideraremos el problema de la identidad entre subjetividad absoluta y cuerpo (carne), a la luz de algunos análisis de Incarnation, de modo de reflexionar y ampliar los elementos planteados en el estudio de Henry sobre Maine de Biran, que se profundizan o radicalizan en este texto. No abordaremos los problemas teológicos, que escapan a nuestro interés, y nos concentraremos en retomar algunas de las temáticas ya abordadas anteriormente con nuevos matices.</p>
+         <p>Henry critica permanentemente a la filosofía en general (incluso a Maine de Biran) y a la fenomenología en particular, el haber ignorado la esencia originaria de la “pasividad”, que no puede ser reducida a la intencionalidad. Un ejemplo que refleja claramente este problema, a su juicio, es el dolor, pues el sufrimiento puro de un dolor se sufre de tal modo que ya no es otra cosa, es sufrimiento puro, se sufre a sí mismo en su propio sufrimiento y por él, en identidad consigo. Esto es la esencia de la vida y por tanto el fundamento del aparecer: “La vida no es otra cosa que aquello que se experimenta a sí mismo sin diferir de sí, de modo que esta experiencia es una experiencia de sí y de nada más, una auto-revelación en sentido radical… La vida se experimenta a sí misma en un pathos; es una afectividad originaria y pura, una afectividad que denominaremos trascendental, porque en efecto, es la que posibilita el experimentarse a sí mismo sin distancia en el sufrir inexorable y en la pasividad insalvable de la auto-revelación que constituye la esencia de la vida” (Henry 2001:83). A partir de ello identificará el cuerpo humano como “carne”, que se experimenta a sí mismo al mismo tiempo que experimenta lo que le rodea, distinguiéndolo del resto de los cuerpos del universo: “Llamaremos carne al primero, reservando el uso de la palabra cuerpo para el segundo. Esto es así porque nuestra carne no es otra cosa que aquello que al experimentarse, sufrirse, padecerse y soportarse a sí mismo y, de eso modo, gozar de sí según impresiones siempre renacientes, es susceptible, por esta razón, de sentir el cuerpo exterior a sí, de tocar, así como de ser tocado por él. Cosa de la que por principio es incapaz el cuerpo exterior, el cuerpo inerte del universo material” (Henry 2001:10).</p>
+         <p>Por otra parte, como ya había enunciado en su texto sobre Maine de Biran, Henry reconoce la vida en identidad con el yo, pues se trata de mi vida que es mi yo. Esta vida, a la vez universal y mía, define la condición de posibilidad de toda otra realidad concebible y por ello, con justicia, se le llama “vida trascendental”. El cogito cartesiano, respecto del que tanto ha reflexionado Henry puede tomar acá otro sentido: pienso quiere decir aparezco, me aparezco y solo por efecto de ese auto-aparecer, es que puedo decir “existo”. En este sentido es posible afirmar que la vida es el fundamento de la ipseidad, puesto que a ella le pertenecen ciertas notas decisivas, por ejemplo, el hecho de que toda vida, al experimentarse a sí misma en una experiencia de sí efectiva y singular (la de un yo particular) no podría ser la vida de nadie, una vida anónima. La premisa desde la cual parte Henry es que todo viviente sabe de la vida y de sí mismo en consideración de un saber absoluto, el saber de la vida que lo engendra dándole el vivir y el experimentarse a sí mismo, porque la vida se revela originariamente a sí en su experiencia patética. El pensamiento, por lo tanto, está subordinado a ella, el viviente no piensa primero para luego vivir, nunca es el pensamiento quien se adelanta a la vida para descubrirla y conocerla, sino que “solo la vida nos da acceso a ella misma, conocer la vida es cosa de la vida y solo de ella, porque solo hay carne en la vida, porque la carne a su vez constituye el único acceso al cuerpo, tanto al nuestro como al de los demás” (Henry 2015:171).</p>
+         <p>Solo la fenomenología de la vida, cuya posibilidad acabamos de explicitar, permitiría abordar la cuestión del cuerpo e incluir aquello que se encuentra unido a él en virtud de una relación fundamental: la carne, o más bien dicho, nuestra carne. Y en esta reflexión Henry propone, en perfecta sintonía con las conclusiones que había obtenido en sus estudios sobre Maine de Biran, que en la fenomenología de la vida existen dos modos irreductibles de aparecer: el del mundo y el de la vida, por tanto, a la hora de investigar el cuerpo y la carne, se abren dos vías fenomenológicas para la investigación. A los ojos del “sentido común”, que es la forma habitual en que los seres humanos se representan a sí mismos y al mundo, el cuerpo no es más que un objeto del mundo, más o menos semejante a otros objetos, accesible, como ellos en el mundo, puesto que se muestra en él. El cuerpo real, el cuerpo mundano considerado en su existencia concreta (el conjunto de cuerpos que “pueblan” el universo, el de los demás seres humanos, animales y cosas inertes), es un cuerpo sensible. Los cuerpos mundanos tienen olores, colores, sabores, son sonoros o pueden serlo si los golpeamos, son suaves o rugosos. En ese sentido, son considerados como un conjunto de cualidades sensibles que determinan que sean para nosotros considerados como objetos agradables, desagradables, peligrosos, etc.</p>
+         <p>Estas cualidades sensibles de los cuerpos reciben la significación de ser propiedades que les pertenecen, es decir, que le pertenecen a la materia de la que están hechos, de modo que creemos que estos cuerpos poseen “en sí mismos” esas cualidades. Pero todas esas cualidades atribuidas a los cuerpos no son más que la proyección de sensaciones e impresiones que nunca existen más allá del lugar en que ellas mismas se sienten y se experimentan, es decir, en la donación patética de la vida (Henry 2001:134). Por eso para Henry esas cualidades poseen un carácter mal comprendido de “sensibles”, porque su materia no es la de los cuerpos materiales, que en realidad no sienten ni han sentido nada, sino la materia fenomenológica pura de la vida, la carne afectiva. Esas cualidades son modalidades de nuestra vida fenomenológica que la reducción pone entre paréntesis cuando operamos a partir de los principios de la ciencia galileana. Cuando obviamos esto y olvidamos que el fundamento es la vida misma, la vida deja de pertenecernos y se trata de una realidad ajena que no siente nada ni se siente a sí misma. Todo cuerpo sentido presupone por su parte otro cuerpo que lo siente “todo cuerpo visto presupone un poder de visión y la puesta en acción de ese poder; todo cuerpo sonoro un poder de oír, la operación, la realización de un tal poder; todo cuerpo tocado, palpado, recorrido por la mano que lo toca, el poder de tocar y su puesta en acción” (Henry 2001:146).</p>
+         <p>De este modo, somos remitidos desde un cuerpo sensible mundano, objeto del mundo, a un cuerpo de orden distinto, un cuerpo trascendental provisto de los poderes fundamentales de ver, oír, tocar, mover y moverse. Es un cuerpo sentiente y ya no sentido, dador y no dado, un cuerpo que da el mundo y el conjunto de los cuerpos sentidos en él, nuestro propio cuerpo. Este cuerpo es un cuerpo-sujeto opuesto al cuerpo-objeto del que es condición, un cuerpo subjetivo a priori, diferente del cuerpo objetivo, pues aparece como su fundamento, es el cuerpo originario y fundador que apareció ya en Philosophie et phénoménologie du corps.</p>
+         <p>Henry declara que “la esencia de esta corporeidad originaria es la Vida” (Henry 2004:122) y no la intencionalidad trascendental del cuerpo que se dirige al mundo, puesto que esta intencionalidad nunca puede revelarse a sí misma. El cuerpo trascendental intencional encuentra su condición de posibilidad en la auto-revelación en la intencionalidad de la vida, en su auto-donación y con esto retomamos la idea del cuerpo como poder, pero en un sentido más radical aún. Si la visión no se sintiese a sí misma como vidente en una auto-revelación diferente de la forma en que descubre aquello que ve, sería incapaz de ver cualquier cosa. Si los sentidos no se sienten a sí mismos como capaces de realizarse, no serían capaces de ver, oír, tocar, o gustar cualquier cosa. “El cuerpo trascendental, que nos abre al cuerpo sentido, ya se trate del nuestro o el de las cosas, reposa sobre una corporeidad mucho más originaria, no intencional, trascendental en un sentido de lo último, no intencional, no sensible, cuya esencia es la vida” (Henry 2001:155). La vida es la que se encarga de la revelación del cuerpo, pero resulta que en ella precisamente no hay ni intencionalidad ni ek-stasis de ningún tipo. La vida se revela de tal modo que lo que revela no permanece fuera de ella, la revelación de la vida es auto-revelación, puro «experimentarse a sí misma», donde lo que se experimenta y lo experimentado son uno. Pero esto solo es posible porque el modo de revelación en que consiste la vida es un pathos, en palabras de Henry “ese abrazo sin diferimiento y sin mirada de un sufrir y un gozar cuya materia fenomenológica es, en efecto, la afectividad pura, una impresividad pura, esa auto-afección radicalmente inmanente que no es otra cosa que nuestra carne” (Henry 2001:159).</p>
+         <p>Se trata entonces de una carne impresiva y afectiva cuya impresividad y afectividad no provienen nunca de algo distinto de ella misma, sino de la vida misma. La carne es justamente la forma que tiene la vida de hacerse vida, pues en un sentido radical, nos dice Henry, trascendencia designa la inmanencia de la vida en cada viviente: “Esta totalidad impresional siempre cambiante es nuestra carne” (Henry 2003:168).</p>
+         <p>Todo viviente es una carne, o para decirlo con mayor propiedad, todo viviente es una carne porque se experimenta a sí mismo en la archi-pasibilidad [Archi-passibilité] de la vida absoluta, en el archi-pathos de su carne. De esta declaración es posible deprender también que la carne está vinculada al sí, a la ipseidad, pues la auto-revelación de la vida es la materia fenomenológica que hace de todo sí un sí. No se da un sí, un yo, un ego, sin que se dé una carne, así como no se da una carne que no lleve en sí un sí. Henry lo explica del siguiente modo: “No hay carne que no sea de un Sí particular -la carne de nadie, la del mundo- no hay una carne anónima e impersonal, inconsciente que no sienta nada y no se sienta a sí misma, ¡una carne impasible! De tal suerte que despellejando a Marsias o a Bartolomé todavía no se haría mal a nadie, pues no se suscitaría más que un acontecimiento mundano, una modificación de lo Visible entre todos los visibilia que en conjunto componen el espectáculo que se llama mundo: un mundo vacío que no sería más que el eco del mutismo” (Henry 2001:163).</p>
+         <p>Siguiendo la línea de reflexión que ya había aparecido en Philosophie et phénoménologie du corps, Henry afirma que la inmanencia en mi carne de todos los poderes hace de ella el lugar de una memoria original. En el sentido clásico, la memoria se entiende como una representación de acontecimientos o sentimientos desaparecidos, pero esta memoria, con su claridad y sus lagunas oculta una más profunda, la memoria del cuerpo que se acuerda en cada caso del modo de tomar un objeto y moverse para cogerlo. Este movimiento no es el desplazamiento de un órgano específico ni está dado a ningún recuerdo, es el auto-movimiento de un poder revelado a sí en la auto-donación patética de nuestra corporeidad originaria, que Henry connota así: “Este desplazamiento de la memoria desde el dominio del pensamiento al de la carne, esta memoria corporal de la que Maine de Biran tuvo una intuición inaudita, según se la considere, se desdobla actuando en las realizaciones de nuestros sentidos o en su inmanencia, antes de cualquier intervención de la intencionalidad” (Henry 2001:189).</p>
+         <p>Cada uno de estos poderes está dado a sí en nuestra carne, lo que los convierte en poderes indefinidamente reproducibles y de este modo, el acceso al mundo que facilitan es a priori. Así, por ejemplo, todos los movimientos de nuestra mano al tocar un objeto pueden ser repetidos voluntariamente, incluso en ausencia de dicho objeto. Debido a esto podemos afirmar que nuestra carne es la vida del cuerpo orgánico y también es la vida del mundo, por eso Henry afirma que “el mundo es un mundo-de-la-vida, un Lebenswelt en sentido original y radical” (Henry 2001:197).</p>
+         <p>Estas definiciones son también relevantes para enfrentar la discusión sobre el problema del “otro” y del cuerpo del otro, ámbito de gran controversia en la filosofía de Michel Henry (hay diversas investigaciones y artículos que discuten este problema). Se reconoce de este modo, que el cuerpo del otro no solo está habitado por una carne impresiva semejante a la mía, sino que está provisto de los mismos sentidos que yo, es un cuerpo capaz de sentir y de abrirse al mundo como yo, incluso al mismo mundo. Aun así, su mano, su cuerpo, nunca es un simple objeto biológico, como tampoco sus órganos. Los ojos del otro son ojos que ven, sus manos son manos que tocan, su cuerpo es una sede de movimientos vividos por él, tan subjetivos como los míos, vividos con diversas tonalidades afectivas. Lejos de ser un cuerpo inerte, insensible como cualquier otro cuerpo material, el cuerpo del otro, a pesar de su “objetividad”, se me ofrece como un cuerpo vivo. Al observar al otro o a nosotros en la imagen de un espejo, lo que vemos no es una masa o materia inerte. Vemos un rostro, una mirada que me mira, una mirada triste o alegre, una sonrisa o un movimiento, etc., y esto que vemos está constituido por significaciones como “mirar”, “sufrir”, “moverse”, significaciones subjetivas que han sido tomadas de una carne viva. Solo una carne viva hace posible esas significaciones que constituyen la experiencia de un “cuerpo habitado por una carne” (Henry 2001:202). Nuestra carne no solo es el principio de constitución de nuestro cuerpo objetivo, sino que oculta en sí una materia invisible, es decir, la vida.</p>
+         <p>Esta teoría propuesta por Henry no ha estado exenta de críticas y cuestionamientos frente a la ambigüedad que genera esta especie de nueva “duplicidad del cuerpo”, en tanto cuerpo sentido (objetivo) y cuerpo sentiente (cuerpo subjetivo o carne). Diversos artículos y textos discuten esta cuestión planteando que se genera una nueva paradoja o dualismo, sin embargo, en este artículo intentaremos centrarnos en reconocer los aportes de los conceptos expuestos anteriormente para pensar la subjetividad.</p>
+      </sec>
+      <sec>
+         <title>El cuerpo como fundamento de la subjetividad</title>
+         <p>Las ciencias, en general, han abordado fundamentalmente el cuerpo como realidad biológica y físico-química, es decir, como objeto de la biología, la química y la medicina. Las ciencias sociales muy tardíamente (a partir de la segunda mitad del siglo XX) se han preguntado por el cuerpo, más allá de lo dicho por las ciencias naturales, pero asociado siempre a otros problemas, no directamente a la subjetividad, que ha sido fundamentalmente comprendida como conciencia racional o relacionada con la acción. Sociologías contemporáneas, como la de David Le Breton, han intentado abordar el problema del cuerpo, pero visualizando la corporeidad humana como fenómeno social, cultural e incluso político, es decir, a partir de las representaciones e imaginarios sociales que existen respecto al cuerpo, sin establecer un vínculo explícito con la constitución de la subjetividad o el rol de ésta en la constitución del mundo. Desde estas perspectivas de estudio, el cuerpo es un “fenómeno o hecho social”, pero se olvida que primero es una experiencia determinante de la subjetividad e incluso es la experiencia de la subjetividad misma encarnada. La concepción de cuerpo en Henry, en identidad con la subjetividad, nos puede permitir repensar un sujeto corporal y un cuerpo subjetivo, que supere la perspectiva puramente exterior o externa del cuerpo y del sujeto en ciencias sociales.</p>
+         <p>La temprana obra de Henry, Philosophie et phénoménologie du corps, se enmarca en el intento de establecer una fenomenología que aclare el estatuto mismo de la fenomenalidad y del aparecer, y en esta búsqueda, aparece con fuerza el carácter subjetivo del cuerpo. Así como la subjetividad no es mera conciencia, intencionalidad, relación a un objeto, ek-stasis, el cuerpo no es mera acción, sino fundamentalmente pathos. Se reconoce así una pasividad radical como constitutiva del cuerpo. Por su parte Incaration: une philosophie de la chair radicaliza y profundiza esta intuición filosófica temprana. Encarnación, designa para Henry, la condición no solo de poseer un cuerpo, sino de ser una carne. La carne (cuerpo viviente) se revela como pathos, como ese sufrir y soportarse a sí mismo. Es la vida en su auto-revelación inmanente que es idéntica a todas sus impresiones, haciendo de ellas una sola y misma carne.</p>
+         <p>Nuestro cuerpo trascendental y sentiente no se limita al conjunto de nuestros sentidos que pueden dirigirse intencionalmente. El cuerpo, en sentido radical, trascendental, es la sede de todos los poderes y movimientos originarios inmanentes (es decir que se mueven por sí mismos), y la unidad de estos poderes solo puede actuar en la vida.</p>
+         <p>El paso más significativo de Henry en este reconocimiento del cuerpo como constituyente de la subjetividad, está dado por la identificación plena entre sujeto y cuerpo viviente. Este reconocimiento, que se expresa en la afirmación “el yo no tiene un cuerpo, sino que es un cuerpo”, es fundamental para la incorporación de la experiencia de la corporalidad a la subjetividad. Con esta afirmación se reconoce que el cuerpo no es un accesorio, una cualidad cualquiera del sujeto entre otras muchas, sino que el cuerpo es el sujeto mismo, coincide con el yo, y este sujeto no es otra cosa que la vida misma encarnada. Más allá de las dificultades y complicaciones que pueda presentar la teoría del cuerpo subjetivo, esta afirmación, que Henry defiende durante toda su obra, es claramente un aporte, pues le otorga un estatuto fenomenológico al cuerpo al pensar la subjetividad. Como hemos afirmado, esta concepción del cuerpo tendría, a la vez, consecuencias no solo ontológicas, sino también éticas y epistemológicas, si concebimos el cuerpo como un saber, tal como propone Henry.</p>
+         <p>La novedad aquí planteada es que la subjetividad no solo coincide, como tradicionalmente se ha entendido, con el ego o el yo, sino que también y fundamentalmente con el cuerpo. La subjetividad absoluta coincide en su ser con el cuerpo, entendido este como un saber, una memoria y un hábito absolutos. Esta filosofía del cuerpo exige una nueva filosofía de todos los actos materiales del ser humano, es decir, de todos aquellos que implican una actividad directa con el medio: el movimiento, el trabajo, los ritos, etc. y “posteriormente, una revisión de todo el pensamiento y el saber humanos” (Henry 2007:298).</p>
+         <p>En este contexto, podemos asumir la necesidad de revisar también la concepción de cuerpo en el contexto de la vida social y la subjetividad, aspecto hasta ahora poco abordado. Como hemos visto, las principales teorías sociales ignoran el cuerpo al definir el sujeto, o lo consideran como un cuerpo-objeto, cuando se habla de “construcción social del cuerpo”, “imaginarios sociales sobre el cuerpo”, o en los trabajos asociados al género como construcción cultural. En ninguno de estos casos el cuerpo aparece asociado a la esencia de la subjetividad y su constitución, tal como hace Henry. El sujeto, desde su perspectiva, no refiere únicamente a la intencionalidad, sino fundamentalmente a su ser cuerpo, y el mundo o “mundo de la vida”, no refiere solo a lo trascendente como correlato de una conciencia intencional, pues “la verdadera realidad acontece dentro del pathos propio de la corporeidad” (Gallo-Reyzábal en Henry 2007:13).</p>
+         <p>La filosofía y la ciencia han pensado tradicionalmente que el mundo exterior (los fenómenos, la naturaleza, el universo de los cuerpos y más tarde los fenómenos sociales), tiene un reverso invisible, una cara escondida, una dimensión de interioridad que se han esforzado precisamente por descubrir, siempre en la lógica de la dualidad visible-invisible, sensible-inteligible, material-espiritual o corporal-anímico. Henry critica que la fenomenología, influida por el eidos griego, tampoco ha logrado modificar el fundamento de esta perspectiva. Esta visión dualista, que aún experimentamos y hemos observado como dominante, es la que ha primado en las ciencias sociales, pues su esquema se basa en una conciencia original dirigida o en oposición al mundo trascendente, que determina la materia de la subjetividad, reduciéndola a las categorías de la objetividad. Gabrielle Dufour-Kowalska expresa el problema del siguiente modo: “No es por azar que los filósofos contemporáneos del cuerpo o de nuestra vida sensible e imaginativa sean esencialmente filósofos de la visión: filosofía de la conciencia-mirada en Sartre, filosofía de la percepción en Merleau-Ponty, comprendida como proyección, como ‘estallido’ del sujeto hacia el mundo, filosofía de la imaginación trascendental en Heidegger, que devela la esencia del ser ek-stático de la temporalidad originaria. Asimilado al sujeto trascendental y a la relación que él instituye, el cuerpo-enfrente, el cuerpo-visión y ek-stasis, se agota en su relación con un mundo que lo fascina y lo absorbe, y finalmente lo reabsorbe” (Dufour-Kowalska 2003:25).</p>
+         <p>La vivencia del cuerpo como cuerpo subjetivo o carne, como la interioridad de los poderes que despliega nuestro cuerpo, se expresa en la provocadora afirmación que ya hemos citado, el ego no tiene un cuerpo, sino que es el cuerpo. Entender el cuerpo como sujeto se aleja de las categorías usadas tradicionalmente por la filosofía y las ciencias sociales para nombrar la conciencia de sí: pensamiento que se piensa, intelecto absoluto, individuo, conciencia racional, Self, espíritu, persona. En todas ellas prima siempre una esencia espiritual primera que descarta la corporalidad o la reduce a un simple componente.</p>
+         <p>Henry, por el contrario, intenta elaborar una fenomenología del cuerpo que se desarrolla como una ontología fundamental, dado que el cuerpo humano coincide con la esfera de inmanencia que define la subjetividad y que está fundada en la vida, principio de toda experiencia y de todo ser. Se trata del carácter encarnado del ego humano, reconociendo que no somos solo espíritu, sino “seres de carne y sangre” (Dufour-Kowalska 2003:30). Se trata de una inmanencia porque en el ejercicio de sus poderes, el cuerpo se posee y se comprende a partir de sí mismo, es un cuerpo actuante y no un cuerpo actuado por algo extraño a él. Es un cuerpo viviente, donde la vida representa esa capacidad de moverse a sí mismo. Los poderes del cuerpo reposan sobre su propio saber y éste se revela en las diversas acciones del cuerpo mismo, en el poder que las realiza. Se trata entonces, de un “cosmos viviente” (Dufour-Kowalska 2003:37) diferente a la idea husserliana y heideggeriana de mundo, es un espacio de alegría y sufrimiento que somos nosotros mismos, antes de ser objeto de conocimiento.</p>
+         <p>Un rol fundamental juega también el cuerpo en el análisis del trabajo viviente que realiza Henry en sus investigaciones sobre el pensamiento de Marx. En estos escritos el trabajo viviente-corporal desarrolla un papel fundamental en la creación de riqueza y se convierte por tanto en fundamento real de la economía. Henry afirma en sus textos que, así como nuestro propio cuerpo no puede colocarse en el fuera de sí del mundo (a pesar de ser extenso), de manera análoga, en el ámbito de la economía, en empleos donde prima la alienación, donde el trabajador vende y alquila su trabajo (convirtiéndolo en mercancía), “es él mismo, no su cuerpo objetivo, sino su actividad, su trabajo real, subjetivo, individual, lo que alquila o vende” (Henry 2001:231). La carne es el conjunto de poderes de la vida en el viviente, que despliega su praxis para mantener la vida en sí. Con ello, la actividad subjetiva y viviente que transforma la naturaleza nos proporciona un mundo artificial de cosas cuya condición es la “mundanidad” (como diría Arendt) a partir del “yo puedo” de la carne viviente. Se trata del trabajo viviente y subjetivo descrito por Marx como praxis cotidiana y elemental que hace posible el inmenso dominio de la praxis social (economía). El trabajo humano viviente corresponde a “ese ‘yo puedo carnal’ que se esfuerza y sufre, cuya voz no puede apagar ninguna teoría, ninguna ideología, ningún pensamiento. Por tanto, en su praxis cotidiana, la vida no le pide al pensamiento que supere su olvido: de eso se encarga ella misma en su propio pathos” (Henry 2001:246).</p>
+         <p>El trabajo se identifica directamente con la subjetividad y con la vida misma, “se trata de la experiencia que el cuerpo hace de sí, la unidad de poderes que constituye la subjetividad radical” (Díaz 2017:263), por tanto, está en identidad con el cuerpo (esencialmente individual y subjetivo), y con la afectividad como pathos fundamental, es decir, como esfuerzo y sufrimiento: “El trabajo es una modalidad de la vida, la que ésta reviste cuando el deseo sufriente se transforma en un esfuerzo para satisfacerse; es ejecución de la Cuerpo-apropiación [Corpspropriation] de la naturaleza. Solamente el trabajo vivo de ese cuerpo vivo y apropiante no es susceptible de medida, al no ser sino la experiencia muda que él hace de sí en el pathos de su sufrir -una modalidad de la auto-afección en la que nunca se propone nada como objeto posible de medida, en la que tampoco ninguna mirada se desliza para tomar o dar esta medida” (Henry 2006:124).</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión</title>
+         <p>Como podemos apreciar en el análisis precedente, la filosofía de Michel Henry abre un horizonte fundamental para comprender la subjetividad a partir del cuerpo, o más bien en identidad con el cuerpo, como cuerpo subjetivo. Sin embargo, esta filosofía no está exenta de problemas, tensiones o complejidades, que llevadas al límite podrían transformarse en aporías. Estos y otros muchos problemas surgen de la lectura reflexiva de la filosofía de Michel Henry, pero es evidente que aun en su complejidad, sus propuestas filosóficas resultan inmensamente sugerentes y provocadoras a la hora de concebir el cuerpo en relación con la subjetividad.</p>
+         <p>Henry demuestra a través de la reflexión fenomenológica (en diversos textos y conferencias), que nuestro cuerpo no se experimenta como un objeto cualquiera de la experiencia, como un objeto mundano al cual se dirige nuestro conocimiento, yuxtapuesto con las cosas del mundo trascendente, con el que podríamos establecer una relación intencional noético-noemática (al modo de la fenomenología husserliana tradicional). Nuestro cuerpo no es una cosa más entre las cosas, sino que es el principio y fundamento de toda experiencia, y en cuanto a su realidad, o su modo de manifestación, es concebido como un “poder de donación” y de conocimiento.</p>
+         <p>Por último, estos conceptos y reflexiones pueden ser una contribución para pensar fenómenos sociales tan relevantes como el trabajo humano y la alienación (por ejemplo, las implicancias de ciertos tipos de trabajo sobre los cuerpos), los patrones culturales de belleza y los efectos de estereotipos frente a la diversidad de cuerpos (cuerpos gordos, cuerpos diversos), definiciones éticas en la atención de salud (tocar el cuerpo, manejo del dolor, intervenciones quirúrgicas, amputaciones, implantes médicos), las transformaciones identitarias del cuerpo (tatuajes, perforaciones, modificaciones), la violencia, el género y la transexualidad, las expresiones culturales y artísticas (danza, el body-art), entre muchos otros.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Devarieux, A.(2011). "Michel Henry et Maine de Biran: phénoménologie de la mémoire et réminiscence personnelle".
+               <italic>Les cahiers philosophiques de Strasbourg.</italic>
+               (30), 121-141. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4000/cps.2462">https://doi.org/10.4000/cps.2462</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Devarieux</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Michel Henry et Maine de Biran: phénoménologie de la mémoire et réminiscence personnelle</article-title>
+               <source>Les cahiers philosophiques de Strasbourg</source>
+               <volume />
+               <issue>30</issue>
+               <fpage>121</fpage>
+               <lpage>141</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4000/cps.2462">https://doi.org/10.4000/cps.2462"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Díaz, M.(2017). "Subjetividad y trabajo viviente en la fenomenología de la vida de Michel Henry.".
+               <italic>Cinta de Moebio.</italic>
+               (60), 254-267. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2017000300254">https://doi.org/10.4067/S0717-554X2017000300254</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Díaz</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Subjetividad y trabajo viviente en la fenomenología de la vida de Michel Henry.</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>60</issue>
+               <fpage>254</fpage>
+               <lpage>267</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2017000300254">https://doi.org/10.4067/S0717-554X2017000300254"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Domínguez, A.,  (2018).
+               <italic>Introducción la fenomenología de Michel Henry</italic>
+               . : Vive Libro
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Domínguez</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Introducción la fenomenología de Michel Henry</source>
+               <publisher-name>Vive Libro</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Dufour-Kowalska, G.,  (2003).
+               <italic>Michel Henry: passion et magnificence de la vie</italic>
+               . : Beauchesne
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dufour-Kowalska</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <source>Michel Henry: passion et magnificence de la vie</source>
+               <publisher-name>Beauchesne</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Henry, M.,  (2001).
+               <italic>Encarnación</italic>
+               . : Sígueme
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henry</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Encarnación</source>
+               <publisher-name>Sígueme</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Henry, M.,  (2003).
+               <italic>Phénomenologie de la vie Tome I</italic>
+               . : PUF
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henry</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <source>Phénomenologie de la vie Tome I</source>
+               <publisher-name>PUF</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Henry, M.,  (2004).
+               <italic>Autodonation</italic>
+               . : Beuachesne
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henry</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Autodonation</source>
+               <publisher-name>Beuachesne</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Henry, M.,  (2006).
+               <italic>La barbarie</italic>
+               . : Caparrós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henry</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>La barbarie</source>
+               <publisher-name>Caparrós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Henry, M.,  (2007).
+               <italic>Filosofía y fenomenología del cuerpo</italic>
+               . : Sígueme
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henry</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Filosofía y fenomenología del cuerpo</source>
+               <publisher-name>Sígueme</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Henry, M.,  (2015).
+               <italic>Phénomenologie de la vie Tome V</italic>
+               . : PUF
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henry</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Phénomenologie de la vie Tome V</source>
+               <publisher-name>PUF</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Maine de Biran, P.,  (1932).
+               <italic>Oeuvres philosophiques de Maine de Biran</italic>
+               . : Librairie Félix Alcan
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Maine de Biran</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>1932</year>
+               <source>Oeuvres philosophiques de Maine de Biran</source>
+               <publisher-name>Librairie Félix Alcan</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Palomar, A.(2016). "Hacia una restauración del sentir a partir de la fenomenología del cuerpo de Michel Henry".
+               <italic>Pensamiento. 72</italic>
+               (270), 85-101. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.14422/pen.v72.i270.y2016.005">https://doi.org/10.14422/pen.v72.i270.y2016.005</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Palomar</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Hacia una restauración del sentir a partir de la fenomenología del cuerpo de Michel Henry</article-title>
+               <source>Pensamiento</source>
+               <volume>72</volume>
+               <issue>270</issue>
+               <fpage>85</fpage>
+               <lpage>101</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.14422/pen.v72.i270.y2016.005">https://doi.org/10.14422/pen.v72.i270.y2016.005"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

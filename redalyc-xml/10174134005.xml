@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2022000300187</article-id>
+			<article-id pub-id-type="publisher-id">00005</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Imperativo pragmatista e investigación social, parte I</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Pragmatist imperative and social research, part I</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-3220-9290</contrib-id>
+					<name>
+						<surname>Pereyra</surname>
+						<given-names>Sebastián</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-8117-9599</contrib-id>
+					<name>
+						<surname>Nardacchione</surname>
+						<given-names>Gabriel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Escuela Interdisciplinaria de Altos Estudios Sociales, Universidad Nacional San Martín (Buenos Aires, Argentina) (sebpereyra@gmail.com)</institution>
+				<institution content-type="normalized">Universidad Nacional de Gral. San Martín</institution>
+				<institution content-type="orgdiv1">Escuela Interdisciplinaria de Altos Estudios Sociales</institution>
+				<institution content-type="orgname">Universidad Nacional San Martín</institution>
+				<addr-line>
+					<named-content content-type="city">Buenos Aires</named-content>
+				</addr-line>
+				<country country="AR">Argentina</country>
+				<email>sebpereyra@gmail.com</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Instituto de Investigaciones Gino Germani, Universidad de Buenos Aires (Buenos Aires, Argentina) (gabriel.nardacchione@gmail.com)</institution>
+				<institution content-type="normalized">Universidad de Buenos Aires</institution>
+				<institution content-type="orgdiv1">Instituto de Investigaciones Gino Germani</institution>
+				<institution content-type="orgname">Universidad de Buenos Aires</institution>
+				<addr-line>
+					<named-content content-type="city">Buenos Aires</named-content>
+				</addr-line>
+				<country country="AR">Argentina</country>
+				<email>gabriel.nardacchione@gmail.com</email>
+			</aff>
+			<pub-date pub-type="epub-ppub">
+				<month>12</month>
+				<year>2022</year>
+			</pub-date>
+			<issue>75</issue>
+			<fpage>187</fpage>
+			<lpage>200</lpage>
+			<history>
+				<date date-type="received">
+					<day>14</day>
+					<month>07</month>
+					<year>2022</year>
+				</date>
+				<date date-type="accepted">
+					<day>08</day>
+					<month>11</month>
+					<year>2022</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0;/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>This article proposes an analysis on the impact of pragmatism in the social sciences. To do this, in this first part of the text, the intersections between pragmatist philosophy and sociology are explored, retracing the different intellectual contexts and the results of these intersections. In this way we try to show the differences between, on the one hand, the close link between pragmatism and sociology in the North American context and, on the other hand, the difficulties, and disagreements of that link in continental Europe. We also pay particular attention to the contemporary movement for the recovery of pragmatism, considering the conditions, opportunities, and challenges that this movement has for the social sciences in Latin America. Finally, we argue that the most productive way to think about the relationship between the pragmatist tradition and the social sciences is in terms of the configuration of an imperative for the development of research work. In these terms we express a type of relationship between philosophy and social sciences that moves away from the classic scheme formulated by epistemology. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Resumen</title>
+				<p>Este artículo propone una reflexión sobre el impacto del pragmatismo en las ciencias sociales. Para ello, en esta primera parte del texto se exploran los cruces entre la filosofía pragmatista y la sociología reponiendo los distintos contextos intelectuales y los resultados de dichos cruces. De ese modo intentamos mostrar las diferencias que existen entre, por un lado, el vínculo estrecho entre pragmatismo y sociología en el contexto norteamericano y, por el otro lado, las dificultades y desencuentros de ese vínculo en Europa continental. También prestamos particular atención al movimiento contemporáneo de recuperación del pragmatismo, atendiendo a las condiciones, oportunidades y desafíos que dicho movimiento importa para las ciencias sociales en América Latina. Finalmente, sostenemos que el modo más productivo para pensar la relación entre la tradición pragmatista y las ciencias sociales es en términos de la configuración de un imperativo para el desarrollo del oficio de investigación. En esos términos expresamos un tipo de relación entre filosofía y ciencias sociales que se aleja del esquema clásico formulado por la epistemología.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Key words:</title>
+				<kwd>Pragmatism</kwd>
+				<kwd>sociology</kwd>
+				<kwd>research</kwd>
+				<kwd>social theory</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Palabras clave:</title>
+				<kwd>Pragmatismo</kwd>
+				<kwd>sociología</kwd>
+				<kwd>investigación</kwd>
+				<kwd>teoría social</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="9"/>
+				<page-count count="14"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>La filosofía pragmatista tiene un impacto creciente en las ciencias sociales a nivel internacional. Desde relecturas de autores clásicos, hasta la revitalización de corrientes sociológicas fuertemente influidas por este pensamiento, permiten observar esa impronta. En ese marco, este texto se interroga por el modo en que el pragmatismo puede ser considerado un imperativo para el trabajo de investigación en ciencias sociales. Es decir, en qué medida las ideas de la filosofía pragmatista pueden ser utilizadas como guía y orientación para investigadores en ciencias sociales.</p>
+			<p>Al utilizar el término imperativo nos referimos a un modo de concebir el impacto de las tradiciones filosóficas en las ciencias sociales. Adoptamos una perspectiva distinta a la epistemológica y más bien centrada en el movimiento reflexivo que se ha producido en los modos de discutir y pensar los problemas de método y de producción del conocimiento en las ciencias sociales en el último medio siglo (podemos pensar en A. Giddens y en P. Bourdieu como dos referencias ineludibles al respecto). En ese sentido, tomamos en cuenta, por un lado, las fronteras porosas que existen entre la filosofía y la teoría social como ámbitos de reflexión sobre las disciplinas y las ciencias sociales en general; por otro lado, la capacidad reflexiva del trabajo de investigación para abrir discusiones sobre sus modos de hacer. Este tipo de indagación se encuentra bien ejemplificada a nuestro juicio tanto en el libro clásico de Richard Bernstein The restructuring of social and political theory como más recientemente en Le devoir et la grâce de Cyril Lemieux o en El pragmatismo en la sociología de Philippe Schaffhauser.</p>
+			<p>Este texto está dividido en dos partes principales. En la primera parte discutimos las características y alcances implicados en la definición y análisis de un imperativo pragmatista para las ciencias sociales. Para ello es necesario diferenciar al pragmatismo de otras tradiciones filosóficas muy significativas para las ciencias sociales. En ese sentido, avanzamos marcando los contrates que existen entre el pragmatismo, por un lado, y el naturalismo, la teoría crítica y la hermenéutica, por otro, en sus concepciones de la teoría social. En particular, vamos a detenernos en la diferenciación respecto de la hermenéutica o la teoría interpretativa, tradiciones que aparecen estrechamente vinculadas al pragmatismo, especialmente en el marco de las teorías sociales de los años 1980. Por ello (y por la centralidad adquirida por la interpretación como enfoque para el trabajo sociológico) le dedicamos particular atención a la reflexión sobre esa distancia y esa diferenciación. Intentamos mostrar que el imperativo pragmatista puede funcionar como un modo de modificar el sesgo hacia la interpretación que parece haber cobrado una centralidad importante en nuestra tarea como investigadores en ciencias sociales. Argumentamos, en definitiva, que lo propio del imperativo pragmatista es su concepción del conocimiento en términos de descripción y que ello marca una diferencia considerable con las otras tradiciones filosóficas que han sido centrales para las ciencias sociales en su historia moderna.</p>
+			<p>En la segunda parte del artículo revisamos algunas herramientas conceptuales surgidas del amplio universo de sociologías pragmáticas y pragmatistas que pueden ser útiles para orientar el trabajo de investigación. Esas herramientas muestran, a su vez, momentos y modos de cruce muy variados entre pragmatismo y ciencias sociales. Contextos intelectuales diversos y perspectivas que ubican los legados del pragmatismo en lugares distintos, con consecuencias y resultados disímiles.</p>
+			<p>Nuestro recorrido intenta mostrar, en definitiva, la relación (y a su vez la distancia) que existe entre, por un lado, el impacto que pueden tener distintas tradiciones o imperativos filosóficos en las ciencias sociales y, por otro lado, las herramientas teóricas y conceptuales que movilizamos o utilizamos para estructurar el trabajo de investigación. Consideramos que entre un aspecto y otro se definen, en conclusión, lo que denominamos estilos de investigación. Por ese motivo, las conclusiones de este trabajo se orientan a revisar y revitalizar esa noción de estilos de investigación como una apuesta que permite captar un universo plural, pero finito, de modos de llevar adelante el oficio de investigación sociológica.</p>
+		</sec>
+		<sec>
+			<title>Pragmatismo y teoría social</title>
+			<p>Como en el caso de otras tradiciones filosóficas, rastrear el alcance y los impactos del pragmatismo en las ciencias sociales sigue siendo una tarea complicada. Como es sabido, la raíz de esa corriente se ubica en los escritos de los miembros del club metafísico en el último cuarto del siglo XIX. El término fue acuñado y sostenido como punto de vista filosófico en los textos de Charles Sanders Peirce, William James, John Dewey y George H. Mead. Sus desarrollos posteriores han sido muy variados, incluyendo el gran impacto de una generación más reciente de filósofos como Richard Rorty, Hilary Putnam o Charles Taylor. Las variantes de la filosofía pragmatista son muy diversas y sus cruces con las ciencias sociales también lo son. Por ese motivo, preguntarse por el interés y la productividad del pragmatismo para las ciencias sociales obliga a interrogarse por sus diversas condiciones de recepción. ¿Cuáles han sido los cruces entre la filosofía pragmatista y las ciencias sociales y cuáles son hoy los intereses y problemas que pueden volverlo una fuente de inspiración para nuestro trabajo? En un caso y en el otro resulta difícil hablar de una escuela de pensamiento o, incluso, de una corriente relativamente uniforme y de fronteras claras.</p>
+			<p>Como sabemos, la filosofía pragmatista tuvo siempre fuertes vasos comunicantes con las ciencias sociales, al tiempo que no fue una interlocutora legítima de los proyectos de estructuración de la sociología por parte de los clásicos. En su libro <italic>El pragmatismo y la teoría de la sociedad,</italic> Hans Joas ofrece un panorama bastante extenso sobre las particulares condiciones de recepción de la filosofía pragmatista en la sociología norteamericana, así como los obstáculos que tuvo para establecer diálogos con la sociología y la filosofía social en la Europa continental. El programa estructural-funcionalista, que se consagró como vector principal de la sociología en la segunda posguerra en Estados Unidos, no otorgó al pragmatismo un lugar en el panteón de los clásicos. Sabemos que el Parsons de <italic>La estructura de la acción social</italic> organizó su síntesis de la disciplina a partir de lecturas de Marshall, Durkheim, Weber y Pareto y que no refiere en sus textos al pragmatismo. Fue, por el contrario, la experiencia de la sociología en la Universidad de Chicago la que permitió una integración temprana y fructífera del pragmatismo y la teoría social. </p>
+			<p>Como sostiene H. Joas, “la Escuela de Chicago podría describirse como una combinación de filosofía pragmatista, de una orientación políticamente reformista respecto a las posibilidades de la democracia en condiciones de industrialización y urbanización rápidas, y de los esfuerzos por convertir a la sociología en una disciplina empírica, al tiempo que se subrayaba enérgicamente la importancia de las fuentes pre-científicas de experiencia” (Joas 1998:23). Consistente con ese espíritu pragmatista, los sociólogos de Chicago priorizaron la investigación empírica por sobre la teorización, aun cuando es innegable la existencia de un marco conceptual relativamente homogéneo y un modo común de concebir el trabajo de investigación. Lo cierto es que el principal legado de ese proyecto intelectual hasta los años 30 está vinculado a los estudios empíricos, la mayoría de ellos de corte etnográfico, más que a la teorización y al desarrollo conceptual.</p>
+			<p>El estudio de Dennis Smith, The Chicago school<italic>,</italic> muestra que tanto J. Dewey como G. H. Mead fueron grandes influencias de la primera generación de sociólogos de Chicago y que sus aportes (especialmente los de Mead) fueron continuados de modo directo en el desarrollo del interaccionismo simbólico de H. Blumer. Pero esa fue solo una de las líneas de continuidad de la tradición de Chicago. También el desarrollo de la sociología de las profesiones de Everett Cherrington Hughes o los estudios posteriores de las teorías del orden negociado y las organizaciones forman parte de ejemplos muy significativos en los que distintos tipos de perspectivas denominadas microsociológicas e interaccionistas fueron constituyendo y desarrollando una tradición propia. Dicha tradición se asentó en perspectivas que destacaron la importancia de la acción en situación, las interacciones cara a cara, los procesos de producción de la personalidad, la negociación y ajuste de los roles y de las dimensiones normativas de la vida social. Pero, como ha sido señalado muchas veces, se trató de una constelación de sociologías de carácter diverso. Análisis retrospectivos como el de Randall Collins en sus Cuatro tradiciones sociológicas reconocen, sin embargo, algunos de los rasgos específicos de esas sociologías, al punto de inscribirlas en una misma tradición, marcada por el impacto de la filosofía pragmatista y el influjo de la escuela de Chicago. Sin pretender entonces una reducción a la unidad, es posible reconocer que del mismo modo que la tradición estructural-funcionalista se desarrolló fuertemente influenciada por una tradición empirista y positivista, las sociologías micro-interaccionistas se recostaron, en parte, en la disidencia no racionalista del pragmatismo. Ese apoyo (siguiendo una vez más a Joas) puede rastrearse en el hecho de que “el núcleo del análisis sociológico estriba, por ello, en las formas de procesar colectivamente los resultados intencionales y no intencionales de la acción, sobre la constitución colectiva de regulaciones normativas y de procedimientos colectivos para abordar conflictos normativos” (Joas 1998:54).</p>
+			<p>A decir verdad, casi toda la sociología norteamericana no parsoniana tuvo algún tipo de influencia del pensamiento pragmatista. Sabemos que Wright Mills dedicó su tesis doctoral al análisis de las condiciones sociológicas de surgimiento del pensamiento pragmatista. Publicado póstumamente como libro bajo el título <italic>Sociology and pragmatism,</italic> el estudio de Wright Mills sobre la filosofía pragmatista incluye un análisis detallado de la obra de Peirce, James y Dewey. Como sostiene I. L. Horowitz en su introducción al libro, el pragmatismo fue sin duda el primer amor intelectual de Wright Mills: “Mills’ first intellectual attraction was for pragmatism. As a young scholar, it was for him a way of life and a set of propositions about the nature of the world. From his first effort, to his last unpublished writings, C. Wright Mills retained a lively interest in the social and intellectual values of pragmatism” (<xref ref-type="bibr" rid="B9">Wright Mills 1964:11</xref>).</p>
+			<p>A. Schütz, otra figura clave en el desarrollo de la sociología no estructural-funcionalista, reconoció en el pragmatismo una fuente de inspiración y de diálogo para hacer avanzar su proyecto de cruce entre sociología y fenomenología. En sus textos programáticos de la etapa norteamericana, Schütz recurre a los principios de psicología de W. James para fundamentar su definición de la actitud natural, es decir, el modo en que las personas en sus contextos de vida cotidiana utilizan diverso tipo de conocimiento común sobre el mundo social. Es más, dedica un texto profundamente pragmatista (“Sobre las realidades múltiples”) a explorar los alcances sociológicos de los análisis de James sobre el sentido de la realidad. Así, siguiendo el impacto que tuvo en décadas posteriores la sociología de Schütz en el mundo anglosajón, podemos rastrear la diversificación e importancia que adquirió el legado del pragmatismo.</p>
+			<p>Pero sostuvimos más arriba que el pragmatismo no fue recibido como una tradición filosófica importante para el desarrollo de las ciencias sociales (a excepción quizás del impacto del pensamiento de J. Dewey en el campo de la educación) y, en particular, de la sociología. Ello se debió no solo al hecho de que no fuera incorporada por el movimiento estructural-funcionalista en EE. UU., sino que, además, fue ampliamente rechazada en Europa, donde se habían forjado los proyectos más importantes de la disciplina. En Francia, sabemos que E. Durkheim dedicó en sus últimos años de vida un curso (1913-1914) a la revisión crítica del pragmatismo. Focalizado especialmente en el pensamiento de W. James y de J. Dewey, Durkheim reconoce en esa perspectiva los peligros de un irracionalismo que socaba la fundamentación del progreso y de la ciencia. De hecho, como sostiene R. Pudal en Durkheim et la réception du pragmatisme en France, las críticas de Durkheim al pragmatismo adquieren toda su significación en un contexto (como el de los años previos a la primera guerra) en el que el anti-racionalismo cobra fuerza en los debates intelectuales y filosóficos.</p>
+			<p>En virtud de su crítica a la noción de conocimiento verdadero, Durkheim ve en el pragmatismo una filosofía social que cuestionaba las pretensiones de la sociología de erigirse en una disciplina científica. Eso define (como sostiene B. Karsenti en La sociologie à l’épreuve du pragmatisme) el tono del texto como un alegato de defensa de la sociología contra el pragmatismo, aunque reconozca en el pragmatismo una crítica argumentada de la noción de verdad del racionalismo clásico. Por otro lado, a los ojos de Durkheim, el pragmatismo se mostraba como una filosofía de baja intensidad asociada a la mentalidad empresarial utilitarista, en auge en EE.UU. Su crítica frontal al pensamiento de Descartes representaba finalmente una afrenta a las contribuciones del “hexágono” al desarrollo de la filosofía moderna. Aunque los temas y problemas de la filosofía pragmatista no son ajenos a los de <italic>Las formas elementales de la vida religiosa</italic> que veía la luz por esos años, el sociólogo francés sentenció la separación entre sociología y pragmatismo en ese medio intelectual, cuestión que no se modificó a lo largo de las siete décadas siguientes.</p>
+			<p>Algo similar ocurrió en Alemania, donde había nacido el otro gran proyecto de desarrollo de la sociología. Allí, sostiene Joas, la idea misma de una filosofía de raíz americana sonó durante décadas como una idea absurda. Y mucho más si se trataba de un ideario asociado al utilitarismo y al americanismo. A excepción de un estudio de M. Scheler en el período de entreguerras, el pragmatismo fue tratado con escaso o nulo interés por la filosofía y las ciencias sociales alemanas. Ello se profundizó en los años posteriores, ya que una lectura parcial y paradójica de la filosofía pragmatista fue reapropiada por un grupo de intelectuales afines al nacionalsocialismo. Las improntas kantianas y románticas de la sociología alemana fueron también largamente refractarias a abrir un diálogo con el pragmatismo a lo largo de casi todo el siglo XX.</p>
+			<p>Finalmente, el pragmatismo fue objeto de crítica frontal desde otra de las grandes tradiciones de la teoría social moderna. La teoría crítica de raíz frankfurtiana tuvo un impacto considerable en la estructuración de las ciencias sociales desde los años 60 en adelante. Como sabemos, al mismo tiempo, una parte importante de los intelectuales de Frankfurt migraron a Estados Unidos durante el nazismo. Más arriba señalamos que la experiencia de migración de A. Schütz implicó un contacto con el pragmatismo que supuso la apertura de un diálogo con su formación fenomenológica de origen. Sin embargo, las figuras principales de la escuela de Frankfurt fueron refractarias al pragmatismo, al punto de considerarlo poco menos que una versión menor de las filosofías de la razón instrumental. Horkheimer fue quién más avanzó en el desarrollo de esas críticas, especialmente en <italic>Crítica de la razón instrumental</italic>. En la <italic>Crítica,</italic> el pragmatismo “aparece como una filosofía en la que la vida humana se reduce a trabajo y que, por tanto, no afronta lo propiamente espiritual o personal” (<xref ref-type="bibr" rid="B5">Joas 1998</xref>:95). Allí donde el pragmatismo pensaba la intersubjetividad como condición central de constitución de la realidad social, la tradición crítica no podía ver sino formas del conformismo y la adaptación. Por otro lado, el optimismo democrático del pragmatismo no podía ser más opuesto a la amenaza totalitaria preconizada por los frankfurtianos.</p>
+			<p>Más allá del recorrido aquí evocado de los sucesivos cruces y desencuentros entre el pragmatismo y la sociología, lo cierto es que entre las décadas de 1980 y 1990 se produjo un renovado interés por la filosofía pragmatista en las ciencias sociales en general y en la sociología en particular. En el próximo apartado revisaremos algunos de los modos de recepción contemporánea del pragmatismo en distintos contextos intelectuales. Formularemos luego el interrogante sobre el interés y la productividad que pueden tener algunos aspectos comunes de ese proceso de revitalización.</p>
+		</sec>
+		<sec>
+			<title>¿Por qué y para qué revisitar la tradición pragmatista?</title>
+			<p>El análisis que hemos presentado aquí está apoyado en un inorgánico movimiento de recuperación de la filosofía pragmatista para las ciencias sociales. En ese marco, es interesante detenerse a observar el impacto de dicho movimiento en distintos contextos intelectuales.</p>
+			<p>Como vimos, el pragmatismo en la sociología norteamericana fue incorporado tempranamente como influencia para el desarrollo de la potente sociología de Chicago entre fines del siglo XIX y principios del XX. En esa importante tradición y en sus múltiples derivaciones posteriores mantuvieron en el centro de la escena las preocupaciones pragmatistas en términos de teorías de la acción. Al mismo tiempo, una reivindicación clara de la herencia pragmatista puede apreciarse también como crítica y como respuesta al sesgo constructivista que desarrolló la sociología interaccionista. Si se piensa en los trabajos de J. Gusfield, por ejemplo, puede registrarse claramente ese movimiento. En su libro <italic>The culture of public problems</italic> plantea la necesidad de desarrollar un punto de vista <italic>irónico</italic> en el trabajo sociológico. La ironía, sostiene, permite describir como extraño y problemático aquello que es tomado como dado, como familiar o como un lugar común: “In this is one of the major methods of sociology: to approach human behavior as if it were unfamiliar, as if the observer were a stranger and everything observed had to be explained and nothing could be taken for granted” (<xref ref-type="bibr" rid="B4">Gusfield 1981:191</xref>). En ese sentido, él propone un estilo de hacer sociología que implica primordialmente seguir a los actores en su tarea de producir realidad a través de sus acciones.</p>
+			<p>Y ese escenario es bien distinto del francés, por tomar otro ejemplo. Allí, el interés por el pragmatismo fue clave en el desarrollo de una sociología no bourdieusiana o post bourdieusiana. En esa clave pueden leerse algunos textos programáticos de la sociología política y moral de L. Boltanski o de la versión de los estudios de la ciencia y la tecnología desarrollada por B. Latour. En <italic>El amor y la justicia como competencias</italic>, Boltanski explicita la distancia existente entre las concepciones de una sociología crítica y de una sociología de la crítica o de las sociedades críticas. Revisemos brevemente esa diferenciación: “La sociología crítica se ve obligada a endurecer el corte entre hechos y valores para mantener fuera del alcance de cualquier empresa crítica, incluida la suya propia, un islote de positividad sobre el cual fundar la ambición de un develamiento radical. Pero en esta ambición coincide sin duda con la filosofía política de la cual pretende tomar distancia. Pues las operaciones críticas cuyo monopolio se atribuye y las operaciones de justificación que, a sus ojos, descalifican a la filosofía política, constituyen dos modos de realización de una misma competencia para el juicio. Pero esta competencia no es patrimonio del filósofo o del sociólogo. Son los actores mismos quienes la ponen constantemente en práctica. Es precisamente ese trabajo incesante de construcción de causas -en el sentido en que se habla de ‘buenas causas’ para justificar la acción- y de cuestionamiento -en el sentido de crítica- lo que la sociología crítica no puede ya tomar por objeto desde el bastión en que se ha encerrado” (<xref ref-type="bibr" rid="B1">Boltanski 2000:52</xref>). </p>
+			<p>Más orientada a definir un estilo de sociología pragmática que a reivindicar la herencia de la filosofía pragmatista, las tradiciones del <italic>Groupe de sociologie politique et morale</italic>, así como el desarrollo de la versión en Francia de los estudios de la ciencia y la tecnología, reivindican un estilo de investigación atado al trabajo de campo y guiado por el propio hacer de los actores, atento a sus competencias y a las consecuencias de sus acciones. Tal como sostienen los trabajos de Philippe Corcuff (Las nuevas sociologías) y de Gabriel Nardacchione (Sociologías pragmáticas y pragmatistas), esas corrientes pragmáticas fueron complementadas por el núcleo de indagación ligado a la publicación de <italic>Raisons pratiques</italic>, donde puede reconocerse un trabajo sistemático de traducción, difusión y apropiación de la filosofía pragmatista y sus influencias. Esos desarrollos fueron marcando, en definitiva, la configuración de una verdadera galaxia pragmática y pragmatista en las ciencias sociales.</p>
+			<p>Algo similar ocurre con las lecturas sociológicas del pragmatismo en Alemania, que discuten las monumentales apropiaciones de la filosofía analítica por parte de J. Habermas o K. O. Appel y su vínculo entre procedimientos lingüísticos trascendentales y teoría social. Los trabajos de H. Joas se orientaron a mostrar la necesidad de revitalizar una teoría de la acción en sentido pragmatista, discutiendo la síntesis omnicomprensiva elaborada por J. Habermas en su <italic>Teoría de la acción comunicativa</italic>. Los esfuerzos de Joas por desarrollar un análisis de la acción creativa a partir de una relectura de los textos de G.H. Mead, representa otra de las modalidades que tuvo el interés creciente por recuperar la tradición pragmatista. Ese esfuerzo puede leerse ante todo en un texto cuyo título es elocuente: “El infeliz casamiento de la hermenéutica y el funcionalismo. Sobre la teoría de la acción comunicativa de Jürgen Habermas”. Allí, Joas muestra que la lectura detallada e interesante que la teoría de la acción comunicativa hace de la sociología de Mead, tiende a correr de eje la impronta pragmatista para ser reapropiada en clave interpretativa. Eso sucede porque la teoría de la acción comunicativa está tensionada en todo su recorrido por los polos del funcionalismo y la hermenéutica. Ellos aparecen en las distinciones fundamentales de orientación al éxito y orientación al entendimiento (como términos que definen los modos de coordinación de la acción, por un lado, y entre mundo de la vida y sistema, por otro lado). Joas apunta su crítica de modo claro a la tipología de modelos de acción desarrollada por Habermas. El estatuto equívoco que tiene allí el modelo de acción comunicativa le permite a Joas sostener que la teoría de la acción comunicativa no desarrolla de modo exitoso, ni exhaustivo, el modelo de acción contenido en la perspectiva de Mead, deudora de una concepción pragmatista de la acción. Esa perspectiva se aborda de modo coherente en el desarrollo de un modelo de acción creativa trabajado por Joas en sus escritos. Volveremos sobre esta cuestión con más detalle en la segunda parte del presente texto.</p>
+			<p>Podemos observar condiciones de apropiación muy diferentes en el contexto de los países centrales, donde las ciencias sociales tuvieron un impulso decisivo a lo largo del siglo XX. Una mirada desde América Latina invita a pensar, a su vez, las particularidades de este problema para un contexto periférico. Dicho contexto tiene muchas dificultades a las que nos confrontamos, pero también, algunas ventajas. Una de esas ventajas es que solemos tener (y podemos tener) una relación bastante flexible con esto que llamamos imperativos o tradiciones de carácter filosófico, que impactan sobre los modos de producción de las ciencias sociales. Mucho más si pensamos la relación de esas tradiciones o imperativos con la conformación de corrientes, escuelas, líneas de trabajo, grupos o sectas dentro de las ciencias sociales en otras latitudes. Trabajamos en nuestro medio con una cierta distancia y libertad respecto de las escuelas, incluso de las tradiciones, y más allá del impacto que tiene alguna sociología en particular. Generalmente podemos obviar la cuestión de a qué escuela, a qué grupo, a qué tradición, a qué línea pertenece nuestro trabajo. </p>
+			<p>Como muestran algunos textos de síntesis, por ejemplo D. Martucelli y M. Svampa (Notas para una historia de la sociología latinoamericana) o H. Trindade (Las ciencias sociales en América Latina en perspectiva comparada), por lo menos hasta los años 90 las ciencias sociales en América Latina dieron más importancia a ciertos temas (como por ejemplo el desarrollo, la democracia o la desigualdad) que al desarrollo o reapropiación de escuelas o corrientes de pensamiento específicas. Ello permitió que muchos campos de estudio se enriquezcan con la multiplicación de enfoques y perspectivas. También acentuó la vocación de intervenir sobre la coyuntura muchas veces atenta sobre el trabajo de largo aliento y sobre la importancia de la producción de datos e información y del trabajo sobre aspectos de la vida social que no forman parte del interés central o acuciante de la política o la opinión pública. </p>
+			<p>No existen estudios sistemáticos sobre los estilos de investigación a nivel regional o incluso por países (hasta donde sabemos). Por lo tanto, solo podemos apoyarnos sobre el análisis de las tradiciones, las tendencias y los debates que han tenido más peso en el desarrollo de las ciencias sociales en la región. En ese marco, la recepción del pragmatismo parece haber estado tamizada por la importancia acordada a las lecturas de A. Giddens, P. Bourdieu y J. Habermas. Ello parece haber producido al menos dos efectos importantes en la recepción. El primero es que las discusiones de estas perspectivas de teoría social han sido más influyentes en relación con la tarea de formación en ciencias sociales que con el desarrollo del oficio de investigación. El segundo es que en ellas el peso de la discusión sobre la teoría empírica, la teoría crítica o la hermenéutica, fue mucho más importante que las consideraciones sobre la tradición pragmatista propiamente dicha. </p>
+			<p>Desde los años 80 en adelante se produjo una casi constante expansión y progresiva profesionalización de la investigación en ciencias sociales en la región. La misma parece haber estado acompañada de un peso creciente de los enfoques y perspectivas cualitativas en general e interpretativas en particular. En ese sentido, la región pareció acompañar una tendencia internacional hacia lo que se denominó giro interpretativo en las ciencias sociales. Paul Rabinow y William M. Sullivan publicaron a fines de los años 70 el volumen colectivo <italic>Interpretive social science,</italic> en el que sostenían que la pretensión sostenida de las ciencias sociales por abrazar el método de las ciencias naturales desde el siglo XIX había provocado sucesivas crisis y frustraciones a las que el “giro interpretativo” venía a poner fin. La renovada atención de la filosofía y las ciencias sociales en las “variedades concretas del sentido cultural, en su particularidad y textura compleja” (<xref ref-type="bibr" rid="B7">Rabinow y Sullivan 1979:4</xref>) eran la expresión más acabada de dicho fenómeno. Una década después, los autores reeditaban dicho volumen incluyendo una evaluación que se sorprendía por el rápido crecimiento del paradigma interpretativo en las ciencias sociales. Como sostienen Denzin y Lincoln (The Sage handbook of qualitative research), entre la última década del siglo XX y la primera del XXI, se produjo una auténtica revolución metodológica en las ciencias sociales. El borramiento de las fronteras disciplinares fue acompañado por una convergencia notable en un enfoque interpretativo y cualitativo en la investigación y la teoría.</p>
+			<p>Volviendo a la escala regional, aún sin tener datos ciertos sobre las estrategias de investigación utilizadas, es notable la preeminencia de enfoques metodológicos definidos en términos de investigación cualitativa y que se apoyan principalmente en un trabajo interpretativo por parte de los/as investigadores/as. Esa situación acarrea, a nuestro juicio, un conjunto de problemas importantes a ser considerados. En principio, se produce lo que podríamos denominar una sobreestimación y autonomización de la dimensión simbólica del mundo social. Ello sin duda es resultado del modo en que estos enfoques tienden a obrar una reducción del problema de la acción a la cuestión del sentido. Al mismo tiempo, las investigaciones suelen descansar primordialmente en la movilización de las capacidades del intérprete (en su competencia interpretativa). Finalmente, en términos metodológicos, las estrategias interpretativas suelen sostener un rechazo de cualquier regla de procedimiento en el trabajo de investigación, justificando los resultados del trabajo a través de una tarea de restitución del punto de vista de los actores en la vida social (generalmente a través de su testimonio recabado en entrevistas).</p>
+			<p>Estas dificultades parecen derivarse de una sobreestimación del lugar de la interpretación en el trabajo de investigación. Al mismo tiempo, suele sumarse una estrategia de justificación de la relevancia del trabajo de investigación basado en la desnaturalización de la realidad social. Un componente que podríamos denominar “constructivismo crítico” aparece como horizonte que legitima el trabajo de investigación. Por razones que sería largo evocar aquí, la crítica del sentido común, de los saberes sedimentados, de los discursos institucionales, complementan la centralidad atribuida al trabajo interpretativo sobre materiales cualitativos como eje articulador de la investigación en ciencias sociales.</p>
+			<p>Ese tipo de configuración ha tendido a reducir los estilos de investigación de un modo que requiere ser repensado. Siguiendo el análisis de G. Abend (Styles of sociological thought), podemos sostener que este estilo de pensamiento sociológico se apoya, y refuerza, una tradición latinoamericana que se organiza en torno de dos elementos principales. El primero es que la teoría es pensada y utilizada como una gramática, es decir, como herramientas convencionales que carecen de valor de verdad y que tienen más bien el estatus de “maneras de decir mundos”. El segundo propone una asociación entre objetividad ontológica y maximización de la subjetividad epistemológica. Esto es, una visión que niega que el conocimiento verdadero del mundo objetivo sea aquél que cualquiera puede alcanzar (que descansa en su validez intersubjetiva).</p>
+			<p>Desde nuestro punto de vista, este estado de situación puede beneficiarse recurriendo a algunas de las discusiones que propone la incorporación del pragmatismo como un imperativo para repensar el trabajo de investigación. Tal como sostuvimos más arriba, la reivindicación de la producción de un conocimiento situado puede ser un modo de restituir una relación fructífera entre teoría y datos en el trabajo de investigación, incluyendo también el problema de la validez del conocimiento producido.</p>
+			<p>Partiendo de estos análisis, en el siguiente apartado revisaremos algunos aspectos comunes de las lecturas contemporáneas del pragmatismo que permiten esta tradición al modo de un imperativo para el trabajo de investigación.</p>
+		</sec>
+		<sec>
+			<title>El imperativo pragmatista</title>
+			<p>Como vimos, la relación desventurada de la filosofía pragmatista con los proyectos más importantes de la sociología moderna no ha impedido, sin embargo, que se desarrolle un disperso e inorgánico movimiento contemporáneo de recuperación. Existen allí algunas ideas y vectores del pragmatismo que ganan adhesión en el desarrollo actual de las ciencias sociales.</p>
+			<p>En tanto imperativo para la investigación, el pragmatismo puede ser caracterizado en términos de un llamado a la “descripción” de la acción situada. Ello permite diferenciar un tipo de vocación pragmatista en las ciencias sociales, de otro tipo de vocaciones que han caracterizado el desarrollo de nuestras disciplinas. “Explicar” es, sin duda, un imperativo asociado al desarrollo de los estudios sociales como disciplinas científicas, del mismo modo que “interpretar” o “comprender” representó otro de los grandes desafíos que diferenciaron a las ciencias sociales de aquellas que estudian el mundo natural. La “crítica”, finalmente, ha sido otra de las importantes ambiciones a las que están vinculados los estudios sociales desde el siglo XIX.</p>
+			<p>El término <italic>describir</italic>, sin embargo, por sí mismo no dice demasiado sobre cuáles son los recaudos y los desafíos que el trabajo sociológico debe enfrentar. Pero, tal como sostiene, R. Collins en <italic>Cuatro tradiciones sociológicas,</italic> esa idea general puede complementarse con algunas de las implicancias legadas por la tradición pragmatista al conocimiento en ciencias sociales. En primer lugar, el hecho de que “en su base, la ciencia se apoya en los mismos procesos de la mente humana que participan en lo que llamamos sentido común” (<xref ref-type="bibr" rid="B3">Collins 1996:264</xref>); luego, que “el pensamiento siempre se produce en una comunidad y lo que llamamos verdad solo es objetivo porque representa los hábitos mentales a los que tendemos inevitablemente como grupo, ya que por esos hábitos mentales podemos funcionar en el mundo todos los miembros de ese grupo” (Collins 1996:266). Es decir, también como sostiene R. Bernstein en The pragmatic turn<italic>,</italic> nuestro criterio práctico de verdad es la ausencia de dudas de acuerdo con un pragmatismo que funciona con suficiente eficacia para que las ideas fluyan en forma aparentemente automática. </p>
+			<p>En el marco de nuestras discusiones, podemos sostener (siguiendo a A. Ogien. Pragmatism’s legacy to sociology respecified) que, a falta de una definición estricta sobre el pragmatismo, éste puede comprenderse atendiendo a algunos principios analíticos:</p>
+			<p>a) Realismo. El reconocimiento de la existencia de un mundo exterior independiente de nuestras descripciones sobre él y que puede ejercer control sobre nuestros pensamientos y acciones.</p>
+			<p>b) Falibilismo. La indeterminación o contingencia de las situaciones es el motor de las prácticas sociales y la estabilidad de las situaciones de acción es siempre provisoria.</p>
+			<p>c) Pluralismo. En toda situación dada existen múltiples visiones coexistentes sobre aquello que debe hacerse.</p>
+			<p>d) Continuismo. Se sostiene una visión que deja de lado los dualismos clásicos del pensamiento moderno tales como naturaleza y cultura, mente y cuerpo, hechos y valores. </p>
+			<p>e) Naturalismo. Los seres humanos y la vida social se comprenden de modo intrínsecamente ligado a su entorno.</p>
+			<p>f) Carácter social de la normatividad. La objetividad y las dimensiones objetivas de la realidad social son el resultado de la acción en común.</p>
+			<p>Estos elementos dan, en conjunto, una impronta al pragmatismo en términos de descripción. Allí reside gran parte de su interés para llamar la atención sobre el problema de la interpretación como eje central del trabajo de indagación en ciencias sociales. El realismo, por ejemplo, abre una discusión fundamental frente a la centralidad adquirida por la interpretación. La idea de la existencia de un mundo independiente y que ejerce un impacto sobre nuestros pensamientos y acciones aparece de distintas maneras en esta tradición y es fundamental para pensar el impacto del pragmatismo en las ciencias sociales. De este modo, podemos preguntarnos qué importancia tiene la noción de realidad para la investigación. Como sostiene Federico Schuster en <italic>Filosofía y métodos de las ciencias sociales:</italic> “ese algo que llamamos realidad es el límite de la interpretación, la resistencia al nominalismo del lenguaje” (<xref ref-type="bibr" rid="B8">Schuster 2002:54</xref>).</p>
+			<p>Algo similar sucede con la idea de indeterminación o contingencia. La experimentación o el tanteo como modo de entender el desarrollo de la acción son fundamentales para evitar una perspectiva excesivamente racionalista y distanciada de las situaciones de acción. La racionalidad, en vez de ser un punto de partida y una expectativa de ordenamiento de los cursos de acción, se transforma en el resultado de la configuración de lógicas de acción que despliegan criterios de razonabilidad, en el sentido que A. Schütz le otorga a esa noción.</p>
+			<p>En relación con el pluralismo, el pragmatismo hace hincapié sobre las distintas formas con las que los actores conciben el mundo, en tanto realidad, y con las que producen ideas normativas o creencias a partir de las cuales se debe actuar. Ya desde el desarrollo de una ontología pluriversa en los trabajos de W. James (Un universo pluralista), el pragmatismo rechaza todo tipo de concepciones universalistas. Esta afirmación requiere ser atemperada si se considera, por ejemplo, la posición de Habermas o Appel, que sostienen (combinando filosofía analítica y filosofía del lenguaje) un punto de vista a la vez pragmatista, universalista y no metafísico o post-metafísico. Pero, en la visión de James, el mundo está compuesto de un devenir de posibilidades, en función de las cuales los humanos componen su realidad cognitiva y normativa. Dentro de ese marco, se manifiesta la pluralidad de perspectivas que se definen histórica y situacionalmente. Cada marco cognitivo y normativo tiene su universo de categorías y criterios, pero en dicha pluralidad de perspectivas se basa su carácter dinámico.</p>
+			<p>La definición continuista que el pragmatismo propone para las ciencias sociales intenta evitar el sentido común dualista que nos habita, que ha estado ligado (en la perspectiva de J. Dewey) al desarrollo de la mayor parte de nuestras disciplinas, y que a veces, lejos de ser una cuestión de principios, tiene un impacto muy concreto. El abordaje dualista supone aceptar una forma pura de acceder al mundo a partir de modelos que en dicho mundo siempre se manifiestan de forma problemática o mixta. Anclar el conocimiento a dichos dualismos deriva generalmente en construcciones racionales arquetípicas (de uno u otro lado) que tienden a imponer al mundo sus categorías. El ejemplo de la lucha idealismo-realismo es emblemático. Por su parte, la propuesta continuista de C. Peirce busca superar dichas antinomias, suponiendo su coexistencia en el mundo, y a partir de allí analizar cómo en la situación se desarrollan estrategias diversas que conllevan elementos variados de dichas matrices antagónicas.</p>
+			<p>El carácter naturalista de la acción es fundamental dentro del imperativo pragmatista, pues supone no desanclar los cursos de acción de las situaciones en que se producen y evitar una analítica abstracta de la acción. Supone la coexistencia de la acción y su ecología. Estas se configuran mutuamente. Por ello el pragmatismo propone describir la acción situada, no por un rigorismo metodológico, ni por una disposición microsociológica, sino porque el sentido de la acción proviene de su contexto, así como el sentido del contexto es fruto de la acción sucesiva. El problema del interpretativismo parte de suponer que el sentido de la acción se refiere, o bien a los actores que llevan adelante la acción, o bien a los observadores y su juicio crítico. El pragmatismo responde haciendo hincapié en que el sentido ya está allí, mientras que la tarea sociológica consiste en observar cómo eso muta y se verifica sucesivamente. Y finalmente, el carácter social de las dimensiones normativas de nuestra realidad. En esa dirección ha aportado el pragmatismo epistemológico de Ian Hacking, que se refiere a tratar a las entidades o a los objetos de la realidad social como ontológicamente subjetivos, aunque epistemológicamente objetivos.</p>
+			<p>Más allá de los principios generales, el imperativo pragmatista produjo algunos efectos concretos en la reorientación del trabajo de investigación. Como sostienen Y. Barthe <italic>et al.</italic> en Sociología pragmática, ello puede notarse, por ejemplo, en un rechazo a los análisis estructurales, una discusión sobre la noción de interés y un énfasis en el estudio de los procesos de formación del interés. Una atención a la reflexividad de los sujetos y sus capacidades de comprensión del mundo y de reorientación de la acción.</p>
+			<p>Mirado desde este punto de vista, el imperativo pragmatista puede representar un aporte a nuestros modos de organizar el trabajo de investigación, al menos en dos planos diferentes. El primero como llamado a producir un conocimiento situado que habilite una retroalimentación permanente entre teoría y datos (o evitar un desanclaje profundo entre teoría e investigación empírica). También a revalorizar el problema de la validez intersubjetiva del conocimiento producido, esto es, en términos clásicos, brindar las condiciones de posibilidad para una crítica del conocimiento, explicitando todo lo posible los procedimientos y los datos involucrados en el desarrollo de las investigaciones. </p>
+			<p>En segundo lugar, el pragmatismo puede aportar una perspectiva también sobre el lugar y el uso de la teoría en la investigación. Desde nuestro punto de vista, los aportes de un imperativo pragmatista a los estudios sociales tienen menos que ver con el desarrollo de una teoría social pragmatista, o una sociología pragmatista <italic>tout court</italic>, que con el modo en que estos principios pueden guiar la formulación de problemas, el recorte de objetos y el abordaje de estos en términos de investigaciones empíricas.</p>
+			<p>El impacto puede pensarse al nivel de nuestras herramientas de trabajo y en particular de los elementos teóricos y conceptuales involucrados en el trabajo de investigación. Aun cuando se sitúa en otro contexto general de reflexión, una postura clave en esta cuestión es aquella defendida por R. Merton en <italic>Teoría y estructuras sociales.</italic> En ella resulta fundamental el desarrollo de teorías de alcance medio desde y para el trabajo sociológico, esto es, “conceptos lógicamente interconectados y de alcance limitado y modesto más bien que amplios y grandiosos” (<xref ref-type="bibr" rid="B6">Merton 1992:15</xref>). Se trata de teorías intermedias que se ubican “entre las estrechas hipótesis de trabajo que se producen abundantemente durante las diarias rutinas de la investigación, y las amplias especulaciones que abarcan un sistema conceptual dominante del cual se espera que se derive un número muy grande de uniformidades de conducta social empíricamente observadas” (Merton 1992:16). </p>
+			<p>Las teorías de alcance intermedio, por otro lado, constituyen el paisaje habitual del trabajo de investigación. La investigación rara vez está despojada de supuestos de orden conceptual y teórico. Es impensable la indagación empírica que no se apoya en la formulación de un problema, cuyo alcance y definición proviene siempre de esquemas conceptuales y teóricos. Es cierto, sin embargo, que podemos sostener que una teoría de alcance intermedio requiere no solo algún tipo de vinculación entre teoría y datos, sino algún grado de generalización en el modo que se articulan la definición de un objeto, una red conceptual que sirve de analítica de dicho objeto y un estilo de investigación más o menos estructurado en término de los materiales de campo y sus modalidades de análisis.</p>
+			<p>Según Merton, la noción <italic>middle-range theories</italic> es un modo de discutir la orientación puramente teorética de la sociología, al tiempo que reubica la teoría como componente fundamental del trabajo de investigación. Así, las teorías forman parte de la investigación del mismo modo que lo hacen en otras disciplinas de investigación científica: “una ‘teoría científica’ es un conjunto de afirmaciones que organizan un conjunto de hipótesis y las relacionan con observaciones aisladas. Si una ‘teoría’ es válida, ‘explica’ y, en otras palabras, ‘consolida’ y agrupa regularidades empíricas que de otro modo aparecerían aisladas” (<xref ref-type="bibr" rid="B2">Boudon 1991</xref>:520).</p>
+			<p>Los estudios sobre movimientos sociales, sobre desviación, dinero, expertos, estudios sociales de la ciencia, movilidad social, trabajo e integración, exclusión y pobreza, desigualdades, etc., representan ejemplos cabales del desarrollo de teorías de alcance medio que suelen cristalizar en campos de estudio dentro de las disciplinas. Para cada una de esas teorías podría pensarse la utilidad o no del imperativo pragmatista en virtud de su vocación más o menos descriptiva, explicativa, crítica, etc.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones preliminares</title>
+			<p>En la primera parte de este artículo nos hemos concentrado en una revisión de los modos de relación y también de los malentendidos que han caracterizado la relación de la filosofía pragmatista con las ciencias sociales y, en particular, con la sociología. Nos interesó, por un lado, mostrar la complejidad de esa relación, enfatizando particularmente la cuestión de las condiciones de recepción. Creemos que es importante atender a esas condiciones de recepción para entender la productividad de la recepción del pragmatismo en las ciencias sociales y también para poder comprender sus alcances y limitaciones. Leer y registrar los malentendidos de las lecturas y apropiaciones sociológicas del pragmatismo resulta un ejercicio crucial para avanzar en los objetivos que este texto se propone. Tal y como lo sostuvimos en un comienzo, nuestro interés no está puesto en pensar o caracterizar un tipo de enfoque o corriente de sociología pragmática o pragmatista. Por el contrario, intentamos recuperar un tipo de vinculación específica entre tradiciones filosóficas y ciencias sociales. Aquella que supone a las tradiciones filosóficas como imperativos que definen grandes orientaciones para el trabajo de investigación en ciencias sociales.</p>
+			<p>Sostuvimos también que lo propio del imperativo pragmatista es la descripción (allí donde otras tradiciones han enfatizado la explicación, la interpretación o la crítica como grandes orientaciones de la actividad de investigación). Lo específico de la descripción está vinculado a un registro próximo, cercano, del modo en que la acción en su desarrollo contribuye a la configuración del mundo social. A nuestro juicio, ese énfasis es sumamente relevante como aportarte al trabajo de investigación tal como se desarrolla en la actualidad. En nuestro medio en particular, la tarea de descripción parece un modo de matizar la preponderancia adoptada por perspectivas interpretativas, que ponen en la voz de los actores y en el trabajo de interpretación de textos y discursos el peso decisivo en la tarea de investigación social. De un modo más general, creemos también que la descripción puede ser un modo interesante de afrontar el actual desanclaje del trabajo de investigación respecto de los grandes proyectos sistemáticos de la teoría social. Lejos de esas arquitecturas teórico-conceptuales, la descripción puede ser un buen complemento de esquemas teóricos más modestos y más situados en relación con contextos de interacción específicos. Como vimos, describir puede ser un modo de poner a prueba preguntas de investigación que tienen y movilizan esquemas conceptuales específicos y empíricamente informados.</p>
+			<p>En la segunda parte de este artículo, intentaremos mostrar el modo en que este movimiento contemporáneo de reapropiación de la filosofía pragmatista ha dado lugar a diversos tipos de aportes que pueden ser guías o herramientas para estructurar o repensar el trabajo de investigación. Focalizaremos en tres núcleos conceptuales que permiten recuperar esos aportes y observar de modo más claro el énfasis en la descripción a partir del cual trabaja el imperativo pragmatista. Para finalizar, volveremos sobre la pregunta más específica de cuáles son los elementos que intervienen en la definición de estilos de investigación en ciencias sociales.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Boltanski, L. (2000). <italic>El amor y la justicia como competencias</italic>. Amorrortu.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boltanski</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>El amor y la justicia como competencias</source>
+					<publisher-name>Amorrortu</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Boudon, R. (1991). What middle-range theories are. <italic>Contemporary Sociology</italic>, <italic>20</italic>(4), 519-522. https://doi.org/10.2307/2071781</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boudon</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<article-title>What middle-range theories are</article-title>
+					<source>Contemporary Sociology</source>
+					<volume>20</volume>
+					<issue>4</issue>
+					<fpage>519</fpage>
+					<lpage>522</lpage>
+					<pub-id pub-id-type="doi">10.2307/2071781</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Collins, R. (1996). <italic>Cuatro tradiciones sociológicas</italic>. UAM.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Collins</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<source>Cuatro tradiciones sociológicas</source>
+					<publisher-name>UAM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Gusfield, J. (1981). <italic>The culture of public problems</italic>. Chicago University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gusfield</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1981</year>
+					<source>The culture of public problems</source>
+					<publisher-name>Chicago University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Joas, H. (1998). <italic>El pragmatismo y la teoría de la sociedad</italic>. Centro de Investigaciones Sociológicas.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Joas</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>El pragmatismo y la teoría de la sociedad</source>
+					<publisher-name>Centro de Investigaciones Sociológicas</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Merton, R. (1992). <italic>Teoría y estructura sociales</italic>. Fondo de Cultura Económica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Merton</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1992</year>
+					<source>Teoría y estructura sociales</source>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Rabinow, P; Sullivan, W.M. (1979). <italic>Interpretive social science</italic>. University of California Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rabinow</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Sullivan</surname>
+							<given-names>W.M.</given-names>
+						</name>
+					</person-group>
+					<year>1979</year>
+					<source>Interpretive social science</source>
+					<publisher-name>University of California Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Schuster, F. (2002). <italic>Filosofía y métodos de las ciencias sociales</italic>. Manantial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schuster</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>Filosofía y métodos de las ciencias sociales</source>
+					<publisher-name>Manantial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Wright Mills, C. (1964). <italic>Sociology and pragmatism</italic>. Oxford University Press. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wright Mills</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>1964</year>
+					<source>Sociology and pragmatism</source>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

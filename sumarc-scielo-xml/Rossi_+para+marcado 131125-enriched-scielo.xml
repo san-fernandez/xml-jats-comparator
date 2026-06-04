@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="sps-1.9" article-type="research-article" xml:lang="es" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">ECOS</journal-id>
+      <journal-title-group>
+        <journal-title>ECOS. Revista Científica de Musicoterapia y Disciplinas Afines</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">ECOS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2718-6199</issn>
+      <publisher>
+        <publisher-name>Cátedra Libre Musicoterapia</publisher-name>
+        <publisher-loc>
+          <email>revista.ecos@presi.unlp.edu.ar</email>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.24215/27186199e044</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Dossier</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Sobre paradigmas en consumo y clinica musicoterapéutica</article-title>
+        <subtitle>Del prohibicionismo a la reducción de riesgos y daños en la escucha</subtitle>
+        <trans-title-group xml:lang="pt">
+          <trans-title>Sobre paradigmas no consumo de substâncias e clínica musicoterapêutica</trans-title>
+          <trans-subtitle>Do prohibicionismo à redução de riscos e danos na escuta</trans-subtitle>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0006-3017-509X</contrib-id>
+          <name>
+            <surname>Rossi</surname>
+            <given-names>Laura</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <email>laurarossimt1@gmail.com</email>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <institution content-type="original">Universidad de Buenos Aires, Hospital Neuropsiquiátrico Braulio A. Moyano, Argentina</institution>
+        <addr-line/>
+        <country country="AR">argentina</country>
+      </aff>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>19</day>
+        <month>11</month>
+        <year>2025</year>
+      </pub-date>
+      <volume>10</volume>
+      <elocation-id>e044</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>09</month>
+          <year>2025</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>29</day>
+          <month>09</month>
+          <year>2025</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>10</month>
+          <year>2025</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2025 Laura Rossi</copyright-statement>
+        <copyright-year>2025</copyright-year>
+        <copyright-holder>Laura Rossi</copyright-holder>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0" xml:lang="es">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons license.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://revistas.unlp.edu.ar/ECOS/article/view/19720"/>
+      <abstract>
+        <p>Durante los últimos años se ha comenzado a producir un cambio de paradigma en relación al consumo de sustancias ilegales intentando dejar atrás el viejo prohibicionismo desarrollado desde inicios del siglo pasado. La determinación de algunos gobiernos de no continuar denominando “guerra contra el narcotráfico” pronunciada por Nixon en 1971 (López, 2019) en una instancia general, hasta el reconocimiento del consumo recreativo en su instancia personal, varias políticas de Estado han definido el abordaje en Reducción de Riesgos y Daños, como una alternativa posible ante el consumo de sustancias psicoactivas ilegales. Estos paradigmas, desde posiciones encontradas, han contribuido en el entramado sanitario, jurídico, social y económico de nuestra cotidianidad.
+La Clínica Musicoterapéutica en la atención de sujetos con consumo problemático no permanece al margen de los posicionamientos de dichos paradigmas ya que, formando parte del sistema de salud, reproduce sus lógicas y tipos de intervención.
+Pensar el desarrollo de esta clínica nos permite reflexionar sobre su especificidad y organización, y cómo estas contribuyen en la construcción de sentido orientado en determinado paradigma.
+Este artículo busca presentar una clínica musicoterapéutica orientada en la reducción de riesgos y daños y discurrir, desde qué perspectiva se observa la situación de consumo, qué marco disciplinar resulta pertinente, cómo se organiza su práctica y cuál es su objetivo.  Estos elementos ligados a su funcionalidad permiten obtener una mirada integral del sujeto que atraviesa un consumo problemático.</p>
+      </abstract>
+      <trans-abstract xml:lang="pt">
+        <p>Nos últimos anos, começou a ocorrer uma mudança de paradigma em relação ao uso de substâncias ilícitas, buscando deixar para trás o antigo proibicionismo desenvolvido desde o início do século passado. Atualmente, desde a determinação de alguns governos em não mais chamá-la de "guerra às drogas" declarada por Nixon em 1971 (López, 2019) em sentido geral, até o reconhecimento do uso recreativo em seu sentido pessoal, diversas políticas estatais têm definido a abordagem da Redução de Riscos e Danos como uma possível alternativa ao uso de substâncias psicoativas ilícitas. Esses paradigmas, a partir de posições opostas, têm contribuído para o arcabouço assistencial, jurídico, social e econômico do nosso cotidiano.
+A Clínica de Musicoterapia, no atendimento a indivíduos com uso problemático de substâncias, não fica alheia às posições desses paradigmas, pois, como parte do sistema de saúde, reproduz sua lógica e seus tipos de intervenção.
+Pensar sobre o desenvolvimento dessa clínica nos permite refletir sobre sua especificidade e organização, e como estas contribuem para a construção de significados orientados a um paradigma específico.
+Este artigo busca apresentar uma clínica de musicoterapia focada na redução de riscos e danos e refletir sobre a perspectiva a partir da qual vejo a situação de consumo, qual estrutura disciplinar é relevante, como organizo sua prática e qual é seu objetivo. Esses elementos, aliados à sua funcionalidade, permitem uma visão abrangente do indivíduo que vivencia o consumo problemático.</p>
+      </trans-abstract>
+      <kwd-group kwd-group-type="author" xml:lang="es">
+        <kwd>paradigmas en salud</kwd>
+        <kwd>prohibicionismo</kwd>
+        <kwd>reducción de riesgos y daños</kwd>
+        <kwd>clínica musicoterapéutica</kwd>
+        <kwd>elaboración subjetiva</kwd>
+      </kwd-group>
+      <kwd-group kwd-group-type="author" xml:lang="pt">
+        <kwd>paradigmas em saúde</kwd>
+        <kwd>proibição</kwd>
+        <kwd>redução de riscos e danos</kwd>
+        <kwd>clínica de musicoterapia</kwd>
+        <kwd>elaboração subjetiva</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>section-title</meta-name>
+          <meta-value>Dossier</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>section-abbrev</meta-name>
+          <meta-value>DS</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body id="body">
+    <sec id="heading-a5c421ef3132c408d53e6e4577a00428">
+      <title>
+        <bold id="_bold-1">Introducción</bold>
+      </title>
+      <p><italic id="italic-4e6efec913d340e16b6ab8f237a9bdd5">“No sentimos horror porque nos oprime una esfinge, soñamos una esfinge para explicar el horror que sentimos”</italic> (Borges, 1960, en Persia, 2023, p.41).</p>
+      <p>La intención de este artículo es ofrecer una mirada integral de la problemática ligada al consumo de sustancias en el entrecruce de sus paradigmas; delineando, desde la musicoterapia, una clínica que favorezca la elaboración subjetiva y permita tramitar el malestar que transita un sujeto con consumo problemático.</p>
+      <p>El debate en torno al consumo de sustancias psicoactivas ha sido y aún sigue siendo un punto clave en las políticas públicas desde hace más de un siglo. A principios del siglo XX, la postura planteada por EE.UU. como prohibicionismo fue una estrategia que buscó erradicar el consumo a través de la criminalización y la represión. En nuestro país, aunque la prohibición de la marihuana y el mascado de hojas de coca se implementó más tarde, ya en el siglo XIX, estas prácticas eran consideradas indebidas, especialmente por su asociación con grupos marginados, como el de los esclavos <xref id="xref-4a31abd02c8d8068fb35ff82151183cb" ref-type="bibr" rid="chapter-ref-afad279103ffe7d853b3b76961f15bd0">[1]</xref>.</p>
+      <p>La instauración de la Ley Seca en EE.UU., vigente entre los años 1920 y 1930, constituyó la entrada al prohibicionismo. Décadas más tarde, en 1970, Nixon (EE.UU.) declara "la guerra contra las drogas" y varios países de Occidente enfocan así la política sobre drogas, instrumentando leyes y gestionando sanciones para sus usuarios, distribución y comercialización <xref id="xref-426c37e30a084f78aa4286704aa00ba5" ref-type="bibr" rid="chapter-ref-afad279103ffe7d853b3b76961f15bd0">[1]</xref>.</p>
+      <p>En aquel momento, y pese a los acuerdos internacionales que habían sido firmados en 1961, algunos países de Europa, como Alemania, Suiza y Países Bajos mantuvieron perspectivas locales sobre sus legislaciones y prácticas de control, sosteniendo una cultura menos represiva sobre el consumo. Esto significó los inicios de una estrategia de abordaje frente a la demanda de drogas reconociendo la complejidad del fenómeno, y ligada a la política en reducción de riesgos y daños (RRD; <xref id="xref-48b4f46c6869c611611f63a5479b97c4" ref-type="bibr" rid="chapter-ref-afad279103ffe7d853b3b76961f15bd0">[1]</xref>.</p>
+      <p>Argentina ha tenido un enfoque prohibicionista en materia de drogas, con leyes como la Ley 11.331<xref id="xref-5e94f631750d975aa948fb73dc412c33" ref-type="fn" rid="footnote-63ed3b9a42885c8019389d1e70ac8a98">1</xref> y la Ley 20.771<xref id="xref-8a5b6cc00da4b05da920251ccf696806" ref-type="fn" rid="footnote-77d93b444d7341b4cc2661ca17b2138d">2</xref> Actualmente rige la Ley 23.737<xref id="xref-3c5ea573d7a5029a8c18b224312e20f2" ref-type="fn" rid="footnote-94ec7910cca0b57b0c4ebc91db24a188">3</xref>, que penaliza el uso personal y prescribe sanciones privativas de libertad. A pesar de esto, el fallo Bazterrica<xref id="xref-6d8e718e634a630fc9574db1ac8f199a" ref-type="fn" rid="footnote-e19a7c2b95170b22de220b93e1f2979f">4</xref>, basado en el artículo 19 de la Constitución Nacional, sentó un precedente importante en el debate sobre el consumo personal y las libertades individuales. Este fallo, dictado por la Corte Suprema, establece que la tenencia de drogas para uso personal no es punible, ya que refiere a actos privados que están protegidos por la Constitución, siempre y cuando no ofendan el orden y la moral pública.</p>
+      <p>Dentro del marco normativo vigente en nuestro país, la Ley 23.737 delimitó un enfoque abstencionista en el tratamiento de consumos problemáticos que se ha mantenido durante mucho tiempo a través de instituciones que organizaron este tipo de abordaje, como las Granjas de Rehabilitación o las Comunidades Terapéuticas. Con respecto a estas, la propuesta de tratamiento establecía programas para provocar la interrupción del consumo en sus usuarios promoviendo un estilo de vida saludable <xref id="xref-37ffb5c8d51c38f9ce2185b5a7856942" ref-type="bibr" rid="book-ref-ec32a1ba25e101d909ed1823a8a68882">[2]</xref>. Sin embargo, la reglamentación de la Ley 26.657 de Salud Mental y Adicciones<xref id="xref-42f03251304a497f8cf744cfbc2b552b" ref-type="fn" rid="footnote-3183384041b5865fc15d9e60fa4c19ff">5</xref> modifica la perspectiva de atención sobre estos padecimientos. Esto determinó que durante los últimos años se hayan incorporado tratamientos ambulatorios, centros de desintoxicación hospitalarios y programas de reducción de daños junto a dispositivos territoriales y comunitarios. De esta manera, conviven en la actualidad diversas modalidades de abordaje que reflejan un ámbito en el que abundan las controversias y conflictos <xref id="xref-e8a011af187f0332472d8f1441dca753" ref-type="bibr" rid="webpage-ref-11385d87d8ebebaa75275f1e274e5a70">[3]</xref>.</p>
+      <p>Dentro de esta coyuntura, los tratamientos que se administran mantienen, en general, el enfoque prohibicionista. En la práctica musicoterapéutica esto se evidencia con la postura de adherir <italic id="_italic-1">a priori</italic> a la idea de que cierta música no debe utilizarse por ser considerada dañina, muchas veces objetivada en bandas específicas o en temas musicales que ligan al sujeto con alguna escena o recuerdo en torno al consumo. En la tesis de maestría llevada a cabo por Gutiérrez <xref id="xref-33ea0b8ad9398a5ea73bc50419f2a540" ref-type="bibr" rid="thesis-ref-04083cb8b38004293149ced8db6788b0">[4]</xref> se refiere a la efectividad de la musicoterapia en sujetos con trastornos por consumo de sustancias y se sugieren precauciones sobre el tipo de música utilizada al referir aquella que evoca recuerdos ligados al consumo.</p>
+      <p>En el contexto vigente de actualización de paradigmas, la musicoterapia ratifica la forma en que utiliza la música y sus recursos en pos de visibilizar su perspectiva de escucha y elaboración en la práctica de una clínica ligada al prohibicionismo. La Lic. Herrendorf formula en su libro la necesidad de conocer la música del sujeto, para comprender la conflictiva y atenderla <xref id="xref-9b16f7da572163c0d9b10e448ebb27f2" ref-type="bibr" rid="book-ref-fea387f38b45aeb9414daa862412be23">[5]</xref>. Asimismo, Banfi <xref id="xref-8a93ec1985f0fadf4da7cf0c0308b11d" ref-type="bibr" rid="book-ref-6dc3b7f8f35a713cc3d5a7db605e6577">[6]</xref> plantea una musicoterapia en la que todas las manifestaciones de la música estén incluidas; refiere que su práctica aloja una vincularidad orientada hacia el ejercicio de la libertad y se sustenta en las diversas formas de materialidad de la música. Si bien las autoras plantean distintas perspectivas, ambas coinciden en la utilización de la música de manera libre y abarcativa para el bienestar del sujeto.</p>
+      <p>Entiendo que considerar la música como dañina se aleja de esta perspectiva e implica replicar un paradigma que condiciona el abordaje clínico y limita su potencial.</p>
+      <p>Ante lo expuesto me pregunto: a) ¿cómo organizar una clínica que se aparte de la lógica de la prohibición y aloje subjetividades?; b) ¿de qué forma se coordinan los recursos musicoterapéuticos para abordar la complejidad del padecimiento? c) ¿cuáles son las características sonoras que permiten escuchar la problemática del sujeto?</p>
+    </sec>
+    <sec id="heading-a9ec2ad536fe79d4d79dce60f8fd762d">
+      <title>
+        <bold id="_bold-2">Acerca de los paradigmas</bold>
+      </title>
+      <p>En retrospectiva, la atención de sujetos que en la actualidad se denomina con consumos problemáticos ha sido designada de diferentes formas a lo largo de la historia. Esto se debe a que la comprensión y el abordaje de los consumos de sustancias han pasado por diversas etapas, lo que hace difícil precisar fechas específicas. Las denominaciones “clínica en toxicología”, “drogadependencia” o “adicciones” se enmarcan dentro de un enfoque biomédico que prioriza la abstención y la prohibición como estrategias de tratamiento. Estas reflejan una perspectiva del paradigma del que forman parte, ya sea el prohibicionista en términos de enfermedad o la política en RRD como problemática.</p>
+      <p>El prohibicionismo establece una clasificación de sustancias psicoactivas que distingue entre aquellas consideradas legales e ilegales y determina legislativamente sobre su uso y control. El principio psicoactivo de las sustancias se encuentra más allá de su condición legal, por lo que se evidencia que no es aquello que lo determina, sino factores políticos. Deviene entonces el abstencionismo como modalidad de abordaje y la "guerra contra el narcotráfico" como política de control. Esto ha habilitado un mercado negro que produce altas sumas de dinero en el marco de una escalada de violencia para que los carteles logren instalarse <xref id="xref-f5350715e30659890ba94fbc624b34de" ref-type="bibr" rid="webpage-ref-597865265d970fb3f0fe84148c5f804a">[7]</xref>. El argumento sanitarista desde donde se piensa el consumo no es tal como se supone. Mansilla <xref id="xref-eea1e27f7470b7a90fc586cc77bf2923" ref-type="bibr" rid="chapter-ref-afad279103ffe7d853b3b76961f15bd0">[1]</xref> plantea que los orígenes de las restricciones sobre el uso de sustancias son, ante todo, étnicos, sociales y políticos.</p>
+      <p>Se advierte, en consecuencia, cómo las instancias de poder marcan un posicionamiento en lo que a consumo de sustancias se refiere y determinan cuáles serán aquellas de curso legal. En su artículo, “La importancia de llamar a las drogas por su nombre”, Zeller <xref id="xref-5811b1a9a1f17380ffa8bc436ca27129" ref-type="bibr" rid="journal-article-ref-3e66ecbe737f1c45e753fe17a763c176">[8]</xref> realiza un recorrido sobre el uso de la palabra droga y su relación con el paradigma prohibicionista. Refiere, entre otras cosas, que más allá de la pertenencia que posee la palabra con la medicina o la farmacología, existe un sentido social que la relaciona con la ilegalidad y adicción con una valoración moral negativa. Plantea entonces que la palabra droga es un objeto social que depende de la intencionalidad humana <xref id="xref-c41f3bc8d1648beec2013fb787880e06" ref-type="bibr" rid="thesis-ref-0b3323df8a21b9a848a40462cbc8a70c">[9]</xref>. Avanza también en la característica de relacionar su consumo como un hecho dañino para la salud, entendiendo que tanto el alcohol como el tabaco, en su calidad de sustancias legales son percibidas con un peso mucho menor <xref id="xref-95bba8520bf18cd4f71b7ab89bb1d31d" ref-type="bibr" rid="journal-article-ref-3e66ecbe737f1c45e753fe17a763c176">[8]</xref>.</p>
+      <p>Una investigación realizada en Europa da cuenta de que el alcohol es la sustancia que mayor daño genera para sí y para terceros, seguido por la heroína y el crack, el tabaco por encima del cannabis, las benzodiazepinas en menor grado y, por último, con escaso daño, los psicodélicos <xref id="xref-40009cae7dc8326e31493c384d5ea6fb" ref-type="bibr" rid="chapter-ref-5fb13b7af7bf5aac0283249f36ef0710">[10]</xref>. En nuestro país, el Observatorio Argentino de Drogas <xref id="xref-4c1eb8cb1e60e8d45c8111ffe7203352" ref-type="bibr" rid="data-publication-ref-45145afb0dcbd613c15dc6f1e73867b4">[11]</xref> ha realizado una investigación referida a la mortalidad relacionada al consumo de sustancias psicoactivas. La misma recoge datos sobre el porcentaje de muertes relacionadas con el consumo de drogas según sustancia en todo el territorio nacional, en sujetos de entre 15 y 64 años. Dicho estudio refiere que el 81,5% de las muertes corresponde a la ingesta de alcohol, el 17,2% al tabaco, el 1,0% a sustancias de uso indebido y el 0,4% a estupefacientes. A su vez, el 99, 4% de los casos compete a enfermedades crónicas asociadas a un consumo habitual de sustancias y sólo un 0,6% se refiere a episodios agudos. Esta estadística corrobora lo planteado por Zeller <xref id="xref-6d62aec6b9c673639b3db4bbfde10799" ref-type="bibr" rid="journal-article-ref-3e66ecbe737f1c45e753fe17a763c176">[8]</xref>, quien señala que las sustancias legales son percibidas como menos problemáticas a pesar del alto porcentaje de muertes que implica su uso. Se observa cómo el uso indebido no refiere a la forma con la que el sujeto se relaciona con la sustancia, sino a la sustancia, reforzando su condición de prohibida.</p>
+      <p>En términos de sustancias ilegales y su consumo, el prohibicionismo instaló una mirada sesgada acerca de cuáles sustancias son más o menos peligrosas, por fuera de las estadísticas reales. Esta mirada promovió prejuicios sobre los sujetos consumidores y favoreció, en consecuencia, su estigmatización, así como también ubicó el consumo dentro de la marginalidad al asociarlo con la pobreza, la delincuencia y la peligrosidad. Si bien los consumos de sustancias pertenecen a diferentes ámbitos socioculturales y económicos, a las clases altas, en general, se las mantiene por fuera de esta estigmatización.</p>
+      <p>Podemos pensar que el entramado creado por el prohibicionismo se sustenta en dos paradigmas: el médico, que concibe el consumo como una enfermedad, y el jurídico, que lo comprende como un acto ilegal asociado a la tenencia o al tráfico con fines para su comercialización. Esta perspectiva dual refuerza el estigma que recae sobre los consumidores, perpetuando la idea de que el consumo conduce inevitablemente a la adicción.</p>
+      <p>En el prohibicionismo, la mirada ha sido puesta en la peligrosidad de las sustancias, teniendo en cuenta, entre otras cosas, su nivel de adicción y su dependencia psicológica u orgánica según el tipo. Desde el campo sanitarista, se determina la abstención para el acceso al tratamiento. En este sentido, implementa instituciones, tanto médicas como terapéuticas o comunitarias, en las que el sujeto –que es identificado como adicto desde el primer momento y para siempre- debe abstenerse del consumo para poder tratarse. Algunas instituciones que se alinean con esta perspectiva han enfrentado denuncias por motivos ligados a la falta de condiciones edilicias en detrimento de los derechos humanos <xref id="xref-e20508c5c5ea2a7dc34b951dbc83be3e" ref-type="bibr" rid="article-ref-28f7aadee197973f478e329d67807620">[12]</xref>.</p>
+      <p>Desde hace varias décadas, ha surgido en nuestra cultura un marcado proceso de deconstrucción de paradigmas y discursos hegemónicos, lo que nos permite reflexionar sobre el hecho de que aquello tomado como verdad responde a la ideología dominante y su influencia sobre el poder<xref id="xref-f07db355bf29dc7104725597027a4644" ref-type="bibr" rid="webpage-ref-33138734c27d801ba1fe0bff3e6b65ed">[13]</xref>.</p>
+      <p>A principios de la década del 80, la irrupción del VIH en el escenario mundial llevó a plantear una nueva estrategia de abordaje preventivo en Salud Pública. En este contexto, se resignificó el uso del preservativo como una herramienta para evitar la propagación del virus en la práctica sexual y, al mismo tiempo, se implementaron medidas específicas para personas con prácticas de consumo endovenoso. Esta medida se produjo en las calles de países europeos con la distribución de jeringas destinadas a reducir el intercambio entre consumidores <xref id="xref-57297a599bd8ef754cedd353436e62ac" ref-type="bibr" rid="chapter-ref-0be84c9e6ed042932b2476aa05ea3a3d">[14]</xref><bold id="_bold-5">.</bold> Posteriormente, se implementaron otras acciones reconociendo la situación de consumo y buscando minimizar los riesgos y daños colaterales asociados al uso de sustancias.</p>
+      <p>La RRD que comenzó a consolidarse durante las últimas décadas del siglo pasado surgió como contrapunto al prohibicionismo y aporta una mirada más social y humanitaria sobre el fenómeno del consumo de drogas <xref id="xref-eeba2cefd1d9c40189c7d2cc525075a9" ref-type="bibr" rid="chapter-ref-afad279103ffe7d853b3b76961f15bd0">[1]</xref>. El informe que elabora Tlaleng Mofokeng <xref id="xref-447d39c8daab96cb66c855a3f95c812c" ref-type="bibr" rid="webpage-ref-8180b6e20fe544d5d8b4d7dfa356f828">[15]</xref>, relatora especial de Naciones Unidas en julio de 2024, se refiere a la importancia de las intervenciones en RRD para aquellas poblaciones que se encuentran estigmatizadas y discriminadas en el contexto de consumo. Entre otros puntos, añade que los daños producidos por consumo han sido exacerbados por estrategias políticas y jurídicas poco acertadas, enmarcadas en la “guerra contra las drogas”.</p>
+      <p>La política en RRD es un conjunto de ideas y estrategias orientadas a reducir las consecuencias negativas de ciertos comportamientos humanos <xref id="xref-23b73ed26e40ebfc15c1d6d431f1952a" ref-type="bibr" rid="chapter-ref-0be84c9e6ed042932b2476aa05ea3a3d">[14]</xref>. Esta orientaciónaloja una mirada que inscribe los comportamientos humanos en diversas realidades sociales. Esta política no se estructura a partir de un listado rígido de normas, sino desde un conjunto de principios que guían su implementación. La RRD organiza su atención abordando instancias tanto individuales como colectivas, a partir de un entramado sanitario, social, jurídico y económico. Esta surgió como una alternativa a los programas de abstinencia para adultos con consumo problemático y crónico de sustancias, ya que tales propuestas no poseen metas realistas <xref id="xref-ea0c1460ad521a951c0b2fc9563f517d" ref-type="bibr" rid="chapter-ref-5fb13b7af7bf5aac0283249f36ef0710">[10]</xref>. Por el contrario, los programas de RRD han demostrado ser efectivos en la prevención de enfermedades y en la reducción de las tasas de mortalidad <xref id="xref-b98c1ff4260c990ef82334fe7403195f" ref-type="bibr" rid="webpage-ref-597865265d970fb3f0fe84148c5f804a">[7]</xref>.</p>
+      <p>Las acciones iniciadas por esta política abarcan una perspectiva de derechos sobre el sujeto que reconocen el consumo recreativo como una posibilidad en el uso de sustancias al tiempo que entienden que el tipo de consumo no depende únicamente de la sustancia, sino de la relación que el sujeto establece con ella <xref id="xref-5fba80abb5f2007817bd0a2f4291cc08" ref-type="bibr" rid="chapter-ref-0be84c9e6ed042932b2476aa05ea3a3d">[14]</xref>. </p>
+      <p>En este sentido, la RRD se identifica como un mecanismo de restitución de derechos vulnerados y, en palabras de Mofokeng <xref id="xref-55a075fc86db5c182cc51def50a058b8" ref-type="bibr" rid="webpage-ref-8180b6e20fe544d5d8b4d7dfa356f828">[15]</xref> representa el derecho de toda persona a disfrutar del más alto nivel de salud física y mental. La RRD manifiesta que las leyes y políticas en materia de drogas repercuten negativamente en el disfrute del derecho a la salud y reconoce el consumo de sustancias psicoactivas como una práctica presente en la humanidad desde la antigüedad. De esta manera plantea la necesidad de desarrollar estrategias que minimicen los riesgos y daños asociados a dicha práctica.</p>
+      <p>En esta dirección, el reconocimiento de derechos posibilita investigaciones que rastreen los beneficios en el uso medicinal de sustancias. En relación al cannabis Damin y Arrieta <xref id="xref-a0d14851a59eca0a68b85a3cd1e0b594" ref-type="bibr" rid="chapter-ref-0be84c9e6ed042932b2476aa05ea3a3d">[14]</xref> plantea que “hay evidencias que indican que los cannabinoides tienen propiedades medicinales extremadamente útiles para el tratamiento de varias patologías” (p. 320). En cuanto a la psilocibina, luego de su redescubrimiento a finales de los años 30 por Albert Hofmann <xref id="xref-cbcf83a5a819971010a2e3e0df389163" ref-type="bibr" rid="book-ref-21f82fce8726d28dfa6e461950439470">[16]</xref> y su posterior prohibición en la década del 70, han surgido investigaciones que respaldan su uso en el tratamiento de padecimientos subjetivos y neurológicos <xref id="xref-d80a2738102e660f780406e388a3bbd2" ref-type="bibr" rid="chapter-ref-8876596d8b27db5f81c6962386970174">[17]</xref>. Desde un enfoque económico, países como Uruguay, Portugal y Canadá han regulado la producción, la venta de semillas y la comercialización de derivados del cannabis, fortaleciendo economías regionales bajo esquemas de certificación <xref id="xref-91aecd711e4cfdaae004c658727095e6" ref-type="bibr" rid="webpage-ref-597865265d970fb3f0fe84148c5f804a">[7]</xref>. En nuestro país se aprobó en el año 2022 el Programa de Investigación y Desarrollo en Cannabis que financió proyectos destinados a generar avances y conocimientos, algunos referidos a la investigación científica y otros a la tecnológica. En este contexto, distintas universidades de nuestro país ofrecen formación de posgrado en cannabis medicinal y políticas de drogas, como la Diplomatura en Cannabis, Regulación y Política de Drogas, que dicta la Universidad Nacional de Quilmes, o la Cátedra Libre de Cannabis de la Universidad Nacional de La Plata.</p>
+      <p>A finales del siglo XX, el surgimiento de drogas emergentes o de diseño ha incrementado la probabilidad de adulteración, hecho que conlleva su fabricación clandestina ampliando el riesgo en la ingesta. En la actualidad, diversas organizaciones trabajan en la línea de RRD. Estas implementan acciones en territorio y utilizan las redes sociales para difundir información, asesorar y educar sobre el consumo de sustancias. Entre sus iniciativas se incluyen la promoción del concepto de <italic id="_italic-2">set and </italic><italic id="_italic-3">setting</italic>en el consumo, la difusión de esquemas de combinación de sustancias y sus potenciales riesgos, la realización de testeos de adulterantes y la gestión de ambulancias en eventos masivos. Algunas de ellas son Échele Cabeza de Colombia, Reset, Chill &amp; Safe y Revista Mate de Argentina. Incorporar protocolos con perspectiva de género y un enfoque específico sobre la nocturnidad significan un paso importante para seguir avanzando en la RRD.</p>
+      <p>En 2022, el Instituto Nacional de Estadística y Censos (INDEC), junto con la Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina <xref id="xref-f04b30830124addb6f9853b37a1b47c0" ref-type="bibr" rid="webpage-ref-b20032988fc31482a1f543029eb2e62b">[18]</xref> llevaron a cabo una investigación para analizar la magnitud del consumo de sustancias psicoactivas. Esta encuesta buscó: 1) Considerar las prácticas de consumo como un fenómeno extenso, presente en todos los grupos sociales, multidimensional, heterogéneo y con raíces en procesos históricos, económicos, sociales y culturales; 2) indagar sobre los cuidados colectivos en relación con los consumos de drogas; y 3) explorar las representaciones sociales sobre el consumo de sustancias<bold id="_bold-6">. </bold>El estudio se extendió sobre una población de entre 16 y 75 años residentes en 31 aglomerados urbanos de la Encuesta Permanente de Hogares. Los resultados del estudio abarcan múltiples variables, entre las cuales destaco algunas significativas a los fines de este artículo. En cuanto a la prevalencia del consumo según género, se encontró que los hombres presentan mayores tasas de consumo en todas las sustancias, excepto en el uso de tranquilizantes, estimulantes y marihuana con fines terapéuticos, donde las mujeres registran una mayor prevalencia. En lo que respecta a prácticas de cuidado en el consumo de alcohol, tabaco y marihuana terapéutica, no se observaron diferencias significativas por género. Sin embargo, los cuidados son menores entre los jóvenes en lo que respecta al alcohol mientras que en la franja etaria más adulta los recaudos son mayores. Paradójicamente, los jóvenes toman más precauciones para evitar efectos no deseados con el alcohol, mientras que las personas mayores reportan adoptar menos medidas de cuidado. Por otro lado, las personas con un nivel educativo alto presentan una mayor prevalencia de consumo en comparación con aquellas de nivel educativo bajo. No obstante, el 32% de la población percibe el consumo de drogas en su barrio como un problema grave, porcentaje que aumenta en contextos con menor nivel educativo.</p>
+      <p>Investigaciones con este enfoque, realizadas desde la perspectiva de la complejidad permiten ampliar la mirada sobre el fenómeno del consumo, contextualizando y superando la instancia individual. Según la Lic. Stolkiner <xref id="xref-2c34e45ad548385485c1512886e234de" ref-type="bibr" rid="webpage-ref-adc02efb2631a56040db992cd2598e72">[19]</xref> en su charla “Consumo problemático”, “lo primero que se tiene que hacer es pensar la complejidad de los sujetos en determinadas culturas, en determinados sectores sociales. Cuando trabajamos la problemática del consumo, estamos trabajando la problemática general de la sociedad y el consumo”.</p>
+      <p>En la actualidad, pocos países de Latinoamérica han desarrollado políticas de Estado en esta dirección. Colombia y Uruguay son algunos de los ejemplos más avanzados en la región. En Argentina, la Ley 26.934<xref id="xref-8bd6bf6e4155cc25bb890362ceb428dd" ref-type="fn" rid="footnote-481c500d65c3113c2d4d3854cde0424f">6</xref>, conocida como Plan IACOP<bold id="_bold-7">, </bold>Plan Integral para el Abordaje de los Consumos Problemáticos, fue regulada con el objetivo de prevenir los consumos problemáticos, asistir de manera gratuita a las personas afectadas e integrarlas socialmente. Al igual que lo planteado al inicio del presente artículo, el Plan IACOP y su correspondencia a la Ley 26.657 de Salud Mental, entra en controversia y conflicto con la vigencia de la Ley 23.737 sobre estupefacientes. Este aspecto evidencia que los avances logrados en materia de salud no encuentran su correlato en el ámbito jurídico. La estigmatización y criminalización como perspectiva de sujeto en el plano legislativo no mantiene relación con el abordaje integral que promueve la Ley de Salud Mental.</p>
+      <p>La propuesta de analizar las formas en que la cultura erige creencias y conocimiento nos permite reflexionar sobre los lineamientos que guían nuestras prácticas. Este ejercicio crítico nos ayuda a comprender que dichas orientaciones forman parte de un sistema más amplio, que nos involucra en la construcción de sentido y ofrece un marco de pertenencia dentro del ámbito sanitario. Los profesionales de la salud reproducen en sus prácticas posicionamientos que los antecede y que marcan políticas en salud pública. Replicamos, así, metodologías, conceptos y dispositivos pertenecientes a un conjunto de valores y principios que conforman un paradigma. Al formar parte del sistema de salud mental, los consumos problemáticos requieren servicios de atención que traduzcan los cambios de paradigma que se han ido produciendo. Así como los movimientos de desmanicomialización <xref id="xref-db2fc7a0b55157c46ee620f1aeda396b" ref-type="bibr" rid="book-ref-d7ee8843052dfa239842be3c36acaf13">[20]</xref> cuestionaron la lógica manicomial, la política en RRD cuestiona la lógica de la prohibición y destaca la necesidad de un abordaje que no suponga el abstencionismo como condición para el acceso y que atienda la complejidad del padecimiento. El cambio se centra en no continuar promoviendo tratamientos en los que la abstención y el prohibicionismo sean su única modalidad de abordaje. Desde la especificidad de nuestro campo, podemos aportar a la construcción de una atención en salud más integral e inclusiva. Al igual que la desmanicomialización presentó un nuevo paradigma por fuera de las lógicas de encierro, la política de RRD propone reconocer la situación de consumo y reducir los riesgos y daños que esto genera. Ambas perspectivas conciben un sujeto de derecho y con padecimiento, integrado comunitariamente.</p>
+    </sec>
+    <sec id="heading-d19fa882bdb8a630d1f44ce10713b6fe">
+      <title>
+        <bold id="_bold-8">Acerca del consumo y la cultura</bold>
+      </title>
+      <p>El consumo de sustancias psicoactivas ha sido una constante en la historia de la humanidad. Escohotado <xref id="xref-076732fdcfbee9eebaa4aa6699858db5" ref-type="bibr" rid="book-ref-6ddab76e395ed8be594ca5b195fc4a74">[21]</xref> plantea que “salvo comunidades que viven en zonas árticas, desprovistas por completo de vegetación, no hay un solo grupo humano donde no se haya detectado el uso de varios psicofármacos” (p. 23). Desde el uso de sustancias en comunidades originarias hasta la actualidad, se han ido modificando las formas en las cuales los diferentes grupos humanos han entrado en contacto con ellas <xref id="xref-64bb9d3f6e071d2c0940b698003ac6df" ref-type="bibr" rid="book-ref-2498b06fe1864d7cf1b10b2a000fa12f">[22]</xref>. Ambas miradas muestran que el uso de sustancias es entendido como un fenómeno multifacético que se manifiesta de manera diversa según los contextos y responde a diferentes causas.</p>
+      <p>En la actualidad y desde hace varios años, nos encontramos sumergidos en una sociedad de consumo que nos promete y garantiza tal o cual marca de auto, crema, bebida y otros productos, para alcanzar la sensación de plenitud, pertenencia o eterna juventud. La oferta de sustancias se suma a la fantasía de lograr apaciguar un “malestar estructural” con el que lidiamos los sujetos <xref id="xref-564f5e4c0ca2a68a783b8a2704c151c8" ref-type="bibr" rid="book-ref-c6d1e6f4f1596ab2a9c4408e6cf42295">[23]</xref>. Ledesma Lara <xref id="xref-9c2c3e1d01d937977e20aefb5f7f2c59" ref-type="bibr" rid="thesis-ref-ff6f97de43463848985888727fef3bc1">[24]</xref> plantea que “las adicciones constituyen un síntoma social, que pone en evidencia un padecimiento personal y las condiciones del malestar en nuestra cultura” (p. 259)<bold id="_bold-13">.</bold> Pensar el consumo problemático como una instancia individual y orgánica no dimensiona el entramado social de los sujetos.</p>
+      <p>La Ley 26.657 de Salud Mental y Adicciones forma parte del paradigma de la complejidad y comprende el padecimiento subjetivo como un proceso determinado por componentes históricos, culturales, socioeconómicos y psicológicos, a diferencia del paradigma positivista que postula una relación directa entre causa y efecto, con una secuencia unidireccional entre el síntoma o la situación problemática y el tratamiento terapéutico aplicado <xref id="xref-ffd2cd2ae8c4c36a198ffef8644b6abc" ref-type="bibr" rid="thesis-ref-1363fd44dd0332ff3cea96740ffb0e44">[25]</xref>.</p>
+      <p>El Plan IACOP (2014) formula que el consumo es problemático cuando afecta de forma significativa áreas fundamentales de la vida de la persona, como las vinculadas con el trabajo, la familia, la salud y las relaciones sociales. Cualquier consumo compulsivo es problemático, incluso el juego, las nuevas tecnologías, la alimentación y las compras. Este plan, alineado con la Ley Nacional 26.657 de Salud Mental y Adicciones, concibe el consumo desde una perspectiva integral, considerando su multicausalidad y heterogeneidad.</p>
+      <p>Un aspecto clave de esta perspectiva es la de comprender que el consumo problemático está asociado a la compulsión, significando esta un acto que el sujeto no puede dejar de realizar <xref id="xref-2371397ccf4867eb67b74cc549628d5a" ref-type="bibr" rid="book-ref-2af807b919a7a3c526c248f70300de27">[26]</xref> y que ocasiona graves consecuencias en la salud. Ledesma Lara <xref id="xref-306e1ae8f612fe7b127fc4528bdf5722" ref-type="bibr" rid="thesis-ref-ff6f97de43463848985888727fef3bc1">[24]</xref> refiere que “el acto impulsivo de consumo es percibido por el paciente como algo urgente, irrefrenable, determinado por un impulso irresistible de satisfacer una necesidad incapaz de postergar (p. 263). El pasaje al acto como impulso que el sujeto no logra detener se reitera cada vez que enfrenta su malestar y recurre al consumo para aliviarlo. Nada media entre el sujeto y la necesidad de consumir, por lo que el tiempo de espera no logra transitarse y la inmediatez se instala. Según Damin <xref id="xref-8176f455e1075c9f2a9fccd1c0e0e8d4" ref-type="bibr" rid="journal-article-ref-8d4ad89065f2a685cc87717cca9b1b74">[27]</xref>, el deseo imperioso de consumir se debe a la “propiedad de refuerzo” (p. 2) de la sustancia que busca satisfacer un efecto no alcanzado. De esta manera, el sujeto convierte la sustancia inicialmente asociada con el placer, en un objeto de necesidad, en la ilusión de que toda carencia puede ser colmada. Sus vínculos se deterioran y sus lazos son precarios. Su relación se centra en la sustancia, no en los sujetos. La relación con el otro funciona en la medida que logre su objetivo de consumo o sea herramienta para tal fin <xref id="xref-0cae3e2b5ad38a2569c531e46ed58bf7" ref-type="bibr" rid="thesis-ref-ff6f97de43463848985888727fef3bc1">[24]</xref>.</p>
+    </sec>
+    <sec id="heading-0531884736718f7cb5f75cf57fc7a0d0">
+      <title>
+        <bold id="_bold-14">Clínica en sujetos con consumo problemático. Un aporte desde la Musicoterapia</bold>
+      </title>
+      <p>En un trabajo presentado durante el 17 Congreso Mundial de Musicoterapia, Mc Ferran et al. <xref id="xref-18c72f441a1c49b33e564dc0786f65ad" ref-type="bibr" rid="journal-article-ref-cf88035f1d55c5c56a76459dfc5817f9">[28]</xref> realizan un recorrido sobre la forma en la que se desarrolló el cuerpo teórico de la musicoterapia. El mismo se observa enmarcado, en un primer momento, en modelos, para luego ir ampliándose por fuera de estos en diferentes orientaciones ligadas a la psicología, la sociología, la filosofía. McFerran et al. <xref id="xref-79a1c1dd1d6a0a3b5e586e3faa7fd69d" ref-type="bibr" rid="journal-article-ref-cf88035f1d55c5c56a76459dfc5817f9">[28]</xref> refieren que la musicoterapia se encuentra en una etapa de desarrollo dinámico, contando con gran variedad de investigaciones en marcha que se identifican, en líneas generales, con el contexto en el cual desarrollan su trabajo. Pensar sobre el marco que nos proponen Mc Ferran et al. nos permite reflexionar acerca de una clínica musicoterapéutica que en el desarrollo de su cuerpo teórico utilice la música como elemento cultural que interviene en la constitución identitaria <xref id="xref-c9e33f2826bd790a312e954250bd6d58" ref-type="bibr" rid="book-ref-85d62affd03bdc9c7e19eb3fee278792">[29]</xref> y le permite al sujeto elaborar contenido propio en pos de procesos saludables. Esto se orienta sobre constructos teóricos que incluyen las políticas de RRD.</p>
+      <p>El psicólogo y especialista en musicoterapia Even Ruud <xref id="xref-896d9d56a93044462d7f501214925e5a" ref-type="bibr" rid="book-ref-85d62affd03bdc9c7e19eb3fee278792">[29]</xref> refiere a la identidad ligada a la música desde diferentes espacios que atraviesan en el sujeto lo personal, lo social, lo transpersonal; y cómo estos aspectos se desarrollan en contextos específicos de tiempo y lugar, comprendiendo la música como un elemento que forma parte de la constitución identitaria. A su vez, Ruud reconoce la música como generadora de memoria individual y colectiva, movilizadora de emociones, representativa de valores y funcional a la identidad. Pensar desde la musicoterapia el uso de la música como elemento identitario permite una aproximación al sujeto y a su padecimiento, entendiendo que en la expresión sonora se desplazan contenidos que pueden elaborarse con el accionar de un musicoterapeuta calificado.</p>
+      <p>Ligado a la organización de lo específico, y considerando la característica prohibicionista de los tratamientos que habitualmente se administran, la clínica musicoterapéutica no escapa de esta modalidad, ya que se ve afectada por la forma en la que el sistema de salud aborda la atención. Dada la coyuntura, se supone la necesidad de evitar determinadas canciones, géneros o artistas debido a que se los considera causas de posible reincidencia o recaída. Si seguimos la línea propuesta por Ruud, entendemos en la música un valor identitario que construye sentido a lo largo de la historia del sujeto. Las experiencias sonoras que se despliegan en la clínica dan lugar a un proceso que amplía la escucha y no permanece en lo prohibido. Esto nos permite organizar una clínica que aloje subjetividades y posibilite la emergencia de contenido singular con perspectiva de derecho, ajustada a la Ley Nacional de Salud Mental.</p>
+      <p>Herrendorf y Lupoli <xref id="xref-1797090a4e77831be345b85a7491e432" ref-type="bibr" rid="article-ref-d746f8e082fcdbbd5e0c69c434dbc983">[30]</xref> señalan (<italic id="_italic-4">sic</italic>) que a través de la musicoterapia se puede acceder a aspectos regresivos en la personalidad del sujeto con el objetivo de trabajar con ellos en pos de su subjetividad por fuera de la identidad de adicto. Entendemos que el uso de herramientas y recursos es aquello que le posibilita al sujeto el contacto con contenidos propios, expresados en la producción sonora, y permiten abordar la complejidad del padecimiento. En su tesis ‘La ceremonia del arte donde lo siniestro de la enfermedad se ofrece como en una construcción estética’ Langan <xref id="xref-c3a859122d206d272b767795d47f29d4" ref-type="bibr" rid="thesis-ref-adfeac4d5b4a47f73b7a1c25428015b4">[31]</xref> problematiza sobre el discurso sonoro o hecho estético como zona de encuentro con los núcleos del padecimiento. Éstos como origen del discurso sonoro, y su intersección como acercamiento a un espacio de salud. Si bien dicha tesis trabaja sobre la construcción estética en musicoterapia y esquizofrenia, considero pertinente la problematización en términos de núcleos de padecimiento y discurso sonoro. A partir de lo dicho por Langan sobre el discurso sonoro como medio para escuchar el malestar del sujeto, las experiencias sonoro-musicales que se transitan en el espacio musicoterapéutico nos permiten rastrear la expresión del sujeto, encontrando ahí en lo sonoro, su singularidad.</p>
+      <p>Pensar acerca del espacio sonoro en el cual el proceso musicoterapéutico se despliega es situar el encuadre que se ofrece; en este caso, un enfoque centrado en la clínica. Bruscia <xref id="xref-ada45d6282dab2eab2a6ee52c18ded54" ref-type="bibr" rid="book-ref-afa160225c83a10725bc03ae4a5c494b">[32]</xref> plantea que la musicoterapia es una disciplina científica cuya práctica implica la interacción a través de la música con objetivos claros y una estructura temporal definida. Al respecto, Bruscia hace referencia al método clínico e identifica sus tres etapas de diagnóstico situacional, tratamiento y evaluación final del proceso. A partir de esta estructura, las experiencias se proyectan en secuencias evolutivas y significativas. Las sesiones involucran al sujeto en algún tipo de experiencia musical del tipo improvisación, recreación, composición y escucha <xref id="xref-96de9e102fbddb8e4270bf1447a22c87" ref-type="bibr" rid="book-ref-afa160225c83a10725bc03ae4a5c494b">[32]</xref>. Estas etapas disponen objetivos y lógicas de intervención que las guían.</p>
+      <p>En líneas generales, la clínica en consumos problemáticos presenta la característica de falta de adherencia, lo que resulta en tratamientos cortos e interrumpidos. Se presenta, entonces, el desafío de organizar una clínica que por fuera de la lógica de la prohibición, posibilite la permanencia.</p>
+      <p>Al tiempo que nuestro marco disciplinar delinea un tipo de clínica, las características ligadas a lo institucional, real o simbólico <xref id="xref-0ab69ce5f3597a8d4198e2ecad30faf6" ref-type="bibr" rid="book-ref-05965c824940000b270c5a41586a44b8">[33]</xref> extienden la perspectiva y la escucha. Esta extensión se vuelve significativa en el abordaje grupal para pensar las dinámicas que se desarrollan y sus características sonoras. Lo grupal como marco que interviene,no para identificar una problemática que homogeniza, sino para integrar las singularidades que la conforman. Este tipo de abordaje habilita el interjuego de la música en su contexto y la música como contexto y potencia “la correspondencia establecida entre la música y su capacidad intrínseca de representar lo individual perteneciendo a lo colectivo” <xref id="xref-36617cf3cfbc515eab6818d97df791c7" ref-type="bibr" rid="conference-paper-ref-87eb6a5e74e90500f5683a0c9cd9c7a1">[34]</xref></p>
+      <p>El quehacer musical junto con otros es una de las formas habituales en las que se llevan a cabo las experiencias sonoras, a partir de las que se despliega la capacidad de escucha, la concentración, la atención y la sincronización grupal. Estos aspectos ligan al sujeto con su entorno en una participación activa y, fomentan el sentido de pertenencia, al compartir una vivencia colectiva con un objetivo en común que posibilita el desarrollo de los lazos que allí se producen <xref id="xref-b3dc4440e98a3a11ae0b56ef5ed4a979" ref-type="bibr" rid="conference-paper-ref-c6d7d32e76302dbc3e63fdcc2f135ee9">[35]</xref>. Lo desplegado en las experiencias sonoras grupales nos permite pensar la producción de subjetividad <xref id="xref-c516c11b13e37321f7e69845b58146ed" ref-type="bibr" rid="book-ref-b8c68c37f15b01697c8a62cddeb7b837">[36]</xref> que se desarrolla junto a otros.</p>
+      <p>Del Cueto y Fernández <xref id="xref-594e52a984d41ba42f58511a3b4f2b83" ref-type="bibr" rid="chapter-ref-1504e78ccc00722fcf80357cf0d61726">[37]</xref> refieren al grupo como un campo de problemáticas que se encuentra atravesado por numerosas inscripciones tanto deseantes, institucionales como culturales, que aúnan texto y contexto en lo grupal. La dinámica que se establece en el interjuego de roles, la red de identificaciones, las ilusiones grupales, nos permiten escuchar y observar el proceso que allí se desarrolla. Las experiencias sonoras grupales y la producción de subjetividad que promueven, facilitan el tránsito de aspectos poco explorados en sujetos en los que la relación con el otro se encuentra deteriorada por la supremacía en su relación con la sustancia <xref id="xref-95ee7c7c8c3211be1a5a5ec501cb6529" ref-type="bibr" rid="thesis-ref-ff6f97de43463848985888727fef3bc1">[24]</xref>.</p>
+      <p>La propuesta de una clínica musicoterapéutica de abordaje grupal que prioriza la emergencia de subjetividades permite salir de la lógica que atribuye responsabilidad a un objeto droga o música en el desencadenamiento del consumo. En su lugar, comprende los múltiples factores y causas que atraviesan el consumo problemático y dispone herramientas para su elaboración. Para tal fin, propongo como objetivo aquel que permita a los sujetos lograr un proceso de elaboración subjetiva, por fuera de la identidad de adicto, utilizando experiencias sonoras como medio. A partir de este objetivo general serán necesarios otros específicos para promover la comunicación con el otro, vehiculizar el <italic id="_italic-5">insight</italic><italic id="_italic-6">, </italic>identificar la percepción de lo temporal y favorecer el registro de la problemática.</p>
+      <p>Herrendorf <xref id="xref-e0a13b2d433d24f901d014780e8d4056" ref-type="bibr" rid="book-ref-fea387f38b45aeb9414daa862412be23">[5]</xref> refiere que en el espacio de musicoterapia aparecen recuerdos ligados a épocas tempranas, a sonoridades de experiencias vividas que vehiculizan la aparición en la memoria de contenidos olvidados. Podemos considerar que el espacio de musicoterapia ofrece una aproximación a contenidos propios a través de un elemento cultural que es inherente a los sujetos y resulta manifestación identitaria.</p>
+      <p>Las experiencias musicales que el grupo desarrolla son aquellas que se originan en el acontecer del encuentro y le permiten al musicoterapeuta organizar lógicas de intervención que posibiliten los objetivos planteados. Estas experiencias surgen a manera de demanda grupal de la que se rastrea el emergente y se organizan las lógicas de intervención. Álvarez <xref id="xref-7431029ff1fde2f98520c6ce04b24353" ref-type="bibr" rid="journal-article-ref-54dc62fd316d07e2c4c466a3a8c31207">[38]</xref> plantea que “cada interpretación de un emergente cumple una función de sutura de sentidos, de informaciones previas y actuales, ya que busca dar continuidad a las experiencias musicoterapéuticas y a los procesos de subjetivación que en ellas se ven favorecidos” (p.4).</p>
+      <p>Las lógicas de intervención posibilitan la construcción de sentido en un proceso pensado en secuencias evolutivas y significativas <xref id="xref-93b6f58ee46310b8c21c396b30675b13" ref-type="bibr" rid="book-ref-afa160225c83a10725bc03ae4a5c494b">[32]</xref>. Este proceso se articula dentro de un mismo encuentro o de varios y resulta fundamental que propicie la espera y eluda la repetición como alejamiento de la compulsión, para favorecer la producción de subjetividad.</p>
+      <p>Ofrecer un espacio de elaboración subjetiva implica proporcionar un entorno en el que los sujetos se sientan libres para explorar y expresar sus experiencias de manera auténtica. Así, las experiencias sonoras buscan favorecer la continuidad narrativa organizando las intervenciones a fin de encauzar una propuesta que propicie el encuentro gradual con aquello que requiere ser elaborado.</p>
+      <p>Las herramientasque se involucran en las experiencias musicales centradas en lo sonoro y descritas por Bruscia <xref id="xref-91f0b1e455ffc728024ce7f15eb9e063" ref-type="bibr" rid="book-ref-afa160225c83a10725bc03ae4a5c494b">[32]</xref> como improvisación, recreación, composición y escucha permiten utilizar diferentes recursos que las potencian y direccionan, interviniendo a criterio del profesional a cargo. Los diferentes recursos que se utilizan como la exploración sonora, el enlace instrumental, la musicalización de escenas, el canto espontáneo y el juego, tendrán el desafío de habilitar el despliegue de aquello que urge escuchar. A través del despliegue de estos recursos, se pesquisan indicadores de la expresión en los que surge la singularidad. Estos indicadores están ligados a la creatividad, la implicancia, la capacidad de espera y la diversidad con la que los sujetos se manifiestan en el entramado sonoro que conforman.</p>
+      <p>Reflexionar sobre los elementos que intervienen en la funcionalidad de la clínica proporciona un marco organizativo para delinear procedimientos viables que facilitan la estructuración y favorecen el desarrollo del proceso. Estos están planteados a partir de las herramientas y recursos que se utilizan en las experiencias sonoras; y buscan, a través de las lógicas de intervención, alcanzar los objetivos planteados. La clínica musicoterapéutica no solo está centrada en la escucha de música como posibilitadora de experiencia en sí misma, sino en la producción de sonidos como medio para la expresión y en su capacidad para generar espacios de simbolización y contención, colaborando así en la creación de nuevos sentidos y vínculos.</p>
+      <sec id="heading-dc6041008456cf8f3a3d5dac3af7f4a9">
+        <title>
+          <bold id="_bold-22">
+            <italic id="_italic-7">Viñeta clinica 1<bold id="_bold-25"/></italic>
+          </bold>
+        </title>
+        <p>Sentados sobre una alfombra, un pequeño grupo de tres participantes asisten al espacio de musicoterapia que se ofrece en el Centro Biedack (CeSac 10, CABA) de asistencia e investigación en consumo problemático. Durante el encuentro, H. toma la guitarra, comenta que no sabe tocarla e imita el gesto de su guitarrista favorito. P. busca un bongo y lo percute; L. reitera la elección del xilófon y organiza rítmicamente su producción sonora. Las ejecuciones son con escasa proyección y cada uno desarrolla interpretación ensimismada. No se manifiestan diálogos ni se amplía la escucha hacia los demás. Pasados unos minutos les propongo finalizar y registrar el silencio. Luego invito a quien quiera comenzar una ejecución. Propongo que quien/quienes se sumen mantengan la continuidad sonora de lo iniciado, turnando la posibilidad de comienzo entre todos. Surgen interrupciones, acuerdos sonoros, paisajes auditivos, miradas y disposiciones corporales. Cada quién dio forma sonora a lo propio y se dispuso en mayor o menor medida a acompañar al otro. En el cierre de dicho encuentro, se produjo una improvisación conjunta que evidenció mayor proyección instrumental y variables ligadas al mantenimiento del pulso.</p>
+        <p>El enlace sonoro como recurso en la improvisación posibilitó, en esta escena, la escucha y el registro del otro, indicadores necesarios para el abordaje grupal. Además, presentó las modalidades de enlace de los participantes con los objetos <xref id="xref-78f379e122afef0d65601451663d2833" ref-type="bibr" rid="book-ref-ec151ca3b0b47779ece20446675e4f1f">[39]</xref> y permitió organizar la interacción sonora. </p>
+      </sec>
+      <sec id="heading-c756346b7c9bc55f48e895eab61c0d09">
+        <title>
+          <italic id="_italic-11">
+            <bold id="_bold-26">Viñeta clinica 2<bold id="_bold-28"/></bold>
+          </italic>
+        </title>
+        <p>Internadas en el Hospital Moyano, cuatro mujeres, que transitan un consumo problemático entre otros padecimientos subjetivos, participan del espacio de musicoterapia y proponen escuchar música. Las invito a cantar y me formulan que también lo haga. M. aporta un rock al que todas se suman coreando, E. continua con una cumbia que también recibe adeptos, A. manifiesta que no sabe qué proponer y S. recrea una canción traída en otras oportunidades. Les propongo tomar el estribillo de esta última, respetar la letra de su inicio y completar el resto con aquello que se les ocurra entonando la frase melódica. Así, el tema “Es solo un momento” de Vicentico se reformuló de forma espontánea trayendo perspectivas propias. A medida que la ronda traía estribillo surgieron, “es solo un momento que voy a estar en el hospital”, “es solo un momento que tengo que pensar y se me pasa”, “es solo un momento y no puedo decir que no”. Devuelvo el estribillo cantando a manera de pregunta: ¿Es solo un momento?</p>
+        <p>El canto espontáneo permitió la inventiva y, con ella, la emergencia de sentidos propios. Cada canto amplió la representación habitual de la canción y abrió nuevos imaginarios. Las proyecciones vocales se modificaron revelando rastros de la afectación que conllevó la implicancia.</p>
+      </sec>
+    </sec>
+    <sec id="heading-f78c4ae4ce233ab744a4ea2ae5dba3b3">
+      <title>
+        <bold id="_bold-29">Conclusiones</bold>
+      </title>
+      <p>El prohibicionismo y la RRD como paradigmas influyen en la construcción de políticas y prácticas sociales. Es así como sus fundamentos ideológicos y conceptuales tienen un impacto profundo en la configuración de la subjetividad, moldeando las experiencias y percepciones de los individuos y comunidades de manera significativa en sus procesos de salud.</p>
+      <p>Esto permite pensar la salud mental no solo como una condición individual, sino como un proceso histórico y social en constante construcción colectiva. Los padecimientos subjetivos no se generan de manera aislada, sino que están profundamente entrelazados con el contexto en el que se desarrollan; y requieren ser abordados desde la lógica de la complejidad, reconociendo la influencia de múltiples factores y garantizando un enfoque integral y respetuoso para los sujetos.</p>
+      <p>Trabajar desde la política en RRD no es solo acordar con la regularización de sustancias, sino buscar minimizar los efectos negativos que están asociados al consumo y proporcionar un espacio de salud accesible que genere un ambiente más seguro y saludable.</p>
+      <p>Como trabajadores de la salud, es fundamental atender los diversos estigmas que recaen en los sujetos que consumen, así como reconocer que tales estigmas son parte de una visión que penaliza y segrega, afectando principalmente a aquellos que pertenecen a sectores vulnerables.</p>
+      <p>La musicoterapia, como disciplina inserta en una realidad compleja, se adapta y responde a las demandas del contexto desde su especificidad. Sus prácticas orientadas con el paradigma predominante exigen una constante actualización y reflexión crítica. En la actualidad, se hace necesario que los profesionales gestionen estrategias e intervenciones que se desarrollen dentro de una perspectiva de derechos.</p>
+      <p>En este artículo se ha buscado adoptar los principios de la política en RRD para organizar una clínica que, en lugar de centrarse en la modificación de conductas, promueva cambios que modifiquen la alienación del sujeto que transita un consumo problemático e impulse el surgimiento de preguntas acerca de sí. A través de las experiencias sonoras grupales, se puede habilitar un espacio de reconexión con la propia historia que genere nuevas vías de acceso a la subjetividad y posibilite la elaboración de vivencias, resignificando y promoviendo su integración. </p>
+      <p>La clínica musicoterapéutica inserta en el ámbito sanitario ofrece un abordaje distintivo que se alinea con los estándares consensuados en salud, al garantizar un espacio inclusivo, respetuoso y promotor de autonomía. Su particularidad reside en la capacidad de integrar lo sonoro y musical como medio para tramitar procesos de salud, lo que la convierte en una disciplina valiosa para el abordaje integral del consumo problemático. En síntesis, la musicoterapia alineada con el paradigma de la complejidad permite explorar y expresar emociones en experiencias a partir de lo sonoro, facilitando la elaboración de la subjetividad y la construcción de nuevas narrativas personales.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="footnote-63ed3b9a42885c8019389d1e70ac8a98" fn-type="other">
+        <label>1</label>
+        <p>Ley 11.331 (1926). Código Penal de la Nación Argentina. Ministerio de Justicia. B.O. 13 de julio de 1926. <ext-link id="external-link-1" xlink:href="https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do;jsessionid=162CE4D2A443131D9A75E0FB151E2035?id=293348">https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do;jsessionid=162CE4D2A443131D9A75E0FB151E2035?id=293348</ext-link></p>
+      </fn>
+      <fn id="footnote-77d93b444d7341b4cc2661ca17b2138d" fn-type="other">
+        <label>2</label>
+        <p>Ley 20.771 (1974). Código Penal de la Nación Argentina. Ministerio de Justicia. B.O. 9 de octubre de 1974. <ext-link id="external-link-99a0fe52275124e40cacc5fb2030f939" xlink:href="https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/40025/texact.htm">https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/40025/texact.htm</ext-link></p>
+      </fn>
+      <fn id="footnote-94ec7910cca0b57b0c4ebc91db24a188" fn-type="other">
+        <label>3</label>
+        <p>Ley 23.737 (1989). Código Penal de la Nación Argentina. Ministerio de Justicia. B.O. 11 de octubre de 1989. <ext-link id="external-link-ae866131ae6e0a841e6e9e256bac4218" xlink:href="https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/138/texact.htm">https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/138/texact.htm</ext-link></p>
+      </fn>
+      <fn id="footnote-e19a7c2b95170b22de220b93e1f2979f" fn-type="other">
+        <label>4</label>
+        <p>Sistema Argentino de Información Jurídica. (29 de agosto de 1986).<italic id="italic-1"> Tenencia de estupefacientes.</italic> Corte Suprema de Justicia de la Nación Argentina. <ext-link id="external-link-f8ba98226a781d2621734c6143ce97bb" xlink:href="https://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-gustavo-mario-bazterrica-tenencia-estupefacientes-constitucion-nacional-acciones-privadas-hombres-libertad-individual-derecho-intimidad-moral-salud-publicas-democracia-fa86000507-1986-08-29/123456789-705-0006-8ots-eupmocsollaf">https://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-gustavo-mario-bazterrica-tenencia-estupefacientes-constitucion-nacional-acciones-privadas-hombres-libertad-individual-derecho-intimidad-moral-salud-publicas-democracia-fa86000507-1986-08-29/123456789-705-0006-8ots-eupmocsollaf</ext-link></p>
+      </fn>
+      <fn id="footnote-3183384041b5865fc15d9e60fa4c19ff" fn-type="other">
+        <label>5</label>
+        <p>Ley 26.657 (2010) Salud Mental. Ministerio de Salud de la Nación Argentina. B.O. 3 de diciembre de 2010. <ext-link id="external-link-e9814682fe949d7f96a25eac920356ae" xlink:href="https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm">https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm</ext-link></p>
+      </fn>
+      <fn id="footnote-481c500d65c3113c2d4d3854cde0424f" fn-type="other">
+        <label>6</label>
+        <p>Ley 26.934 (2014). Salud Pública. Ministerio de Salud de la Nación Argentina. B.O. 29 de mayo de 2014. <ext-link id="external-link-128ad7807c96e0204ea681d01c56a5dc" xlink:href="https://servicios.infoleg.gob.ar/infolegInternet/buscarNormas.do">https://servicios.infoleg.gob.ar/infolegInternet/buscarNormas.do#</ext-link></p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="book-ref-6dc3b7f8f35a713cc3d5a7db605e6577">
+        <mixed-citation>Banfi, C. (2015). Una Musicoterapia, encuadre abierto. Acciones de un pensar estético. Lugar Editorial.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Lugar Editorial</publisher-name>
+          <year>2015</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Banfi</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <source><italic id="italic-3595f7aec4cc7ccb45e655125b01a01a">Una Musicoterapia, encuadre abierto</italic>. <italic id="italic-2">Acciones de un pensar estético</italic></source>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-d7ee8843052dfa239842be3c36acaf13">
+        <mixed-citation>Basaglia, F. (2008). La condena de ser pobre y loco. Alternativas al manicomio. Topía Editorial.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Topía Editorial</publisher-name>
+          <year>2008</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Basaglia</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-6ee949a26fe12ad67cc46d301f69be4a">La condena de ser pobre y loco. Alternativas al manicomio</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="article-ref-28f7aadee197973f478e329d67807620">
+        <mixed-citation>Brunetto, S. (2025). Tortura, desidia y servidumbre en comunidades terapéuticas.</mixed-citation>
+        <element-citation publication-type="article">
+          <day>24</day>
+          <elocation-id>https://www.pagina12.com.ar/812925-veinte-muertes-dudosas-la-ultima-decada</elocation-id>
+          <month>03</month>
+          <year>2025</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunetto</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <source>Pagina 12</source>
+          <article-title>Tortura, desidia y servidumbre en comunidades terapéuticas</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-afa160225c83a10725bc03ae4a5c494b">
+        <mixed-citation>Bruscia, K. (2007). Musicoterapia: métodos y prácticas. Pax.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Pax</publisher-name>
+          <year>2007</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bruscia</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-9eedbc53371b5af6f612178f6785dafe">Musicoterapia: métodos y prácticas</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-05965c824940000b270c5a41586a44b8">
+        <mixed-citation>Castoriadis, C. (2007). La institución imaginaria de la sociedad. Tusquets Editores.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Tusquets Editores</publisher-name>
+          <year>2007</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castoriadis</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-16deb188bf90f223b0fcd04a4890ebf6">La institución imaginaria de la sociedad</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="thesis-ref-0b3323df8a21b9a848a40462cbc8a70c">
+        <mixed-citation>Cohen, P. (1990). Drugs as a social construct [Tesis de doctorado]. Universiteit van Amsterdam.</mixed-citation>
+        <element-citation publication-type="thesis">
+          <publisher-name>Universiteit van Amsterdam</publisher-name>
+          <year>1990</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cohen</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title><italic id="italic-7731672d70c9464e11006832f2294b69">Drugs as a social construct</italic> [Tesis de doctorado]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="conference-paper-ref-87eb6a5e74e90500f5683a0c9cd9c7a1">
+        <mixed-citation>Coluccio, A., and Rossi, L. (2011). El musicoterapeuta ante el nuevo paradigma en salud mental. ¿Nuevo paradigma para el musicoterapeuta? [Ponencia].</mixed-citation>
+        <element-citation publication-type="confproc">
+          <conf-name>Primer Congreso Argentino de Musicoterapia</conf-name>
+          <conf-loc>Ciudad Autónoma de Buenos Aires, Argentina</conf-loc>
+          <day>3</day>
+          <month>10</month>
+          <year>2011</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coluccio</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rossi</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <source>Asociación Argentina de Musicoterapia</source>
+          <article-title><italic id="italic-0e34390120bc20fa68b0c9d779c4b503">El musicoterapeuta ante el nuevo paradigma en salud mental. ¿Nuevo paradigma para el musicoterapeuta? </italic>[Ponencia]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="webpage-ref-8180b6e20fe544d5d8b4d7dfa356f828">
+        <mixed-citation>Consejo de Derechos Humanos, . (2024). Consumo de drogas, reducción de daños y el derecho a la salud. Informe de la Relatora Especial sobre el derecho de toda persona al disfrute del más alto nivel posible de salud física y mental, Tlaleng Mofokeng [Informe temático].</mixed-citation>
+        <element-citation publication-type="webpage">
+          <day>30</day>
+          <month>04</month>
+          <year>2024</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Consejo de Derechos Humanos</surname>
+              <given-names>.</given-names>
+            </name>
+          </person-group>
+          <source>Naciones Unidas</source>
+          <article-title><italic id="italic-535a7ab9cc22889b6acc93bd955534b3">Consumo de drogas, reducción de daños y el derecho a la salud. Informe de la Relatora Especial sobre el derecho de toda persona al disfrute del más alto nivel posible de salud física y mental, Tlaleng Mofokeng </italic>[Informe temático]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-8d4ad89065f2a685cc87717cca9b1b74">
+        <mixed-citation>Damin, C. F. (2010). Abuso de sustancias psicoactivas, un problema de salud pública. Boletín de Temas de Salud de Mundo Hospitalario, 17(155), 1-9.</mixed-citation>
+        <element-citation publication-type="journal">
+          <fpage>1</fpage>
+          <issue>155</issue>
+          <lpage>9</lpage>
+          <volume>17</volume>
+          <year>2010</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Damin</surname>
+              <given-names>C F</given-names>
+            </name>
+          </person-group>
+          <source>Boletín de Temas de Salud de Mundo Hospitalario</source>
+          <article-title>Abuso de sustancias psicoactivas, un problema de salud pública</article-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-0be84c9e6ed042932b2476aa05ea3a3d">
+        <mixed-citation>Damin, C. F., and Arrieta, E. M. (2022). ¿Qué es la reducción de riesgos y daños? El Gato y la Caja.</mixed-citation>
+        <element-citation publication-type="book">
+          <elocation-id>https://elgatoylacaja.com/libros/sobre-drogas/que-es-la-reduccion-de-riesgos-y-danos</elocation-id>
+          <publisher-name>El Gato y la Caja</publisher-name>
+          <year>2022</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Damin</surname>
+              <given-names>C F</given-names>
+            </name>
+            <name>
+              <surname>Arrieta</surname>
+              <given-names>E M</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Cusmille</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <source>Un libro sobre drogas</source>
+          <chapter-title>¿Qué es la reducción de riesgos y daños?</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-1504e78ccc00722fcf80357cf0d61726">
+        <mixed-citation>Del Cueto, A. M., and Fernández, A. M. (1985). El dispositivo grupal (pp. 13-56). Ediciones Búsqueda.</mixed-citation>
+        <element-citation publication-type="book">
+          <fpage>13</fpage>
+          <lpage>56</lpage>
+          <publisher-name>Ediciones Búsqueda</publisher-name>
+          <year>1985</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Del Cueto</surname>
+              <given-names>A M</given-names>
+            </name>
+            <name>
+              <surname>Fernández</surname>
+              <given-names>A M</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Pavlosky</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <source>Lo grupal 2</source>
+          <chapter-title>El dispositivo grupal</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-ec151ca3b0b47779ece20446675e4f1f">
+        <mixed-citation>Equipo de investigación ICMus, . (2006). Proyecto Música y Psiquismo. Lo psicosonoro. ICMus Editores.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>ICMus Editores</publisher-name>
+          <year>2006</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Equipo de investigación ICMus</surname>
+              <given-names>.</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-2dd5707c93ba75db377f83e772c4667f">Proyecto Música y Psiquismo. Lo psicosonoro</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-6ddab76e395ed8be594ca5b195fc4a74">
+        <mixed-citation>Escohotado, A. (2005). Historia general de las drogasHistoria general de las drogas. Espasa Calpe.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Espasa Calpe</publisher-name>
+          <year>2005</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Escohotado</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-ffbb8a01ff0e497880fab13e007028cc">Historia general de las drogas<italic id="italic-5aed9c11b1cb393035faefe135476adc">Historia general de las drogas</italic></italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-b8c68c37f15b01697c8a62cddeb7b837">
+        <mixed-citation>Fernández, A. M. (2008). Las lógicas colectivas. Imaginarios, cuerpos y multiplicidades. Biblos.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Biblos</publisher-name>
+          <year>2008</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fernández</surname>
+              <given-names>A M</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-cea5d302a9958b66ef80bc0e0ad5a089">Las lógicas colectivas. Imaginarios, cuerpos y multiplicidades</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-5fb13b7af7bf5aac0283249f36ef0710">
+        <mixed-citation>González, P. (2022). ¿Cómo medimos los daños causados por las drogas? El Gato y la Caja.</mixed-citation>
+        <element-citation publication-type="book">
+          <elocation-id>https://elgatoylacaja.com/libros/sobre-drogas/que-es-la-reduccion-de-riesgos-y-danos</elocation-id>
+          <publisher-name>El Gato y la Caja</publisher-name>
+          <year>2022</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>González</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Cumsille</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <source>Un libro sobre drogas</source>
+          <chapter-title>¿Cómo medimos los daños causados por las drogas?</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="thesis-ref-04083cb8b38004293149ced8db6788b0">
+        <mixed-citation>Gutiérrez, C. A. B. (2018). Musicoterapia y adicciones: efectos de la musicoterapia en la adherencia al tratamiento de un grupo de pacientes con consumo crónico de sustancias psicoactivas. CAD – E.S.E. Hospital Santa Clara – Bogotá D.C. [Tesis de maestría]. Universidad Nacional de Colombia.</mixed-citation>
+        <element-citation publication-type="thesis">
+          <publisher-name>Universidad Nacional de Colombia</publisher-name>
+          <year>2018</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gutiérrez</surname>
+              <given-names>C A B</given-names>
+            </name>
+          </person-group>
+          <article-title><italic id="italic-1597f8e495735dd04f522a36082f141c">Musicoterapia y adicciones: efectos de la musicoterapia en la adherencia al tratamiento de un grupo de pacientes con consumo crónico de sustancias psicoactivas. CAD – E.S.E. Hospital Santa Clara – Bogotá D.C. </italic>[Tesis de maestría]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-fea387f38b45aeb9414daa862412be23">
+        <mixed-citation>Herrendorf, O. (2019). Musicoterapia en el consumo problemático de sustancias. Magnic Gráfica S.A.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Magnic Gráfica S.A.</publisher-name>
+          <year>2019</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herrendorf</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-6e85f8eb38cdfbee0dcc6e7ce69c61a4">Musicoterapia en el consumo problemático de sustancias</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="article-ref-d746f8e082fcdbbd5e0c69c434dbc983">
+        <mixed-citation>Herrendorf, O., and Lupoli, W. (2002). La musicoterapia en el tratamiento de la adicción a las drogas.</mixed-citation>
+        <element-citation publication-type="article">
+          <year>2002</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herrendorf</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Lupoli</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <source>Asociación Argentina de Musicoterapia</source>
+          <article-title>La musicoterapia en el tratamiento de la adicción a las drogas</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-c6d1e6f4f1596ab2a9c4408e6cf42295">
+        <mixed-citation>Jasiner, G. (2007). Coordinando grupos: una lógica para los pequeños grupos. Ediciones Lugar.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Ediciones Lugar</publisher-name>
+          <year>2007</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jasiner</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-82d612fd28d9461b1e401c691bd17f73">Coordinando grupos: una lógica para los pequeños grupos</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="conference-paper-ref-c6d7d32e76302dbc3e63fdcc2f135ee9">
+        <mixed-citation>Krause, M., and Rossi, L. (2015). Orquesta comunitaria para la integración. [Ponencia].</mixed-citation>
+        <element-citation publication-type="confproc">
+          <conf-name>23 Congreso Internacional de Psiquiatría</conf-name>
+          <conf-loc>Ciudad Autónoma de Buenos Aires, Argentina</conf-loc>
+          <day>28</day>
+          <month>10</month>
+          <year>2015</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krause</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rossi</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <source>Asociación Argentina de Psiquiatras</source>
+          <article-title><italic id="italic-5a200caf88e8feb80239c6f1ab0962cf">Orquesta comunitaria para la integración.</italic> [Ponencia]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="thesis-ref-adfeac4d5b4a47f73b7a1c25428015b4">
+        <mixed-citation>Langan, G. (2005). La ceremonia del arte donde lo siniestro de la enfermedad se ofrece en una construcción estética [Tesis de grado no publicada]. Universidad Abierta Interamericana.</mixed-citation>
+        <element-citation publication-type="thesis">
+          <publisher-name>Universidad Abierta Interamericana</publisher-name>
+          <year>2005</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Langan</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title><italic id="italic-4e99bc22db17c339a3647216ad72450f">La ceremonia del arte donde lo siniestro de la enfermedad se ofrece en una construcción estética</italic> [Tesis de grado no publicada]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-2af807b919a7a3c526c248f70300de27">
+        <mixed-citation>Laplanche, J., and Pontalis, J. B. (1981). Diccionario de psicoanálisis. Labor.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Labor</publisher-name>
+          <year>1981</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laplanche</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pontalis</surname>
+              <given-names>J B</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-e901bde52943cef056b5bbf6aea4900c">Diccionario de psicoanálisis</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="thesis-ref-ff6f97de43463848985888727fef3bc1">
+        <mixed-citation>Ledesma Lara, C. A. (2012). Senderos clínicos del acompañamiento terapéutico [Tesis de doctorado]. Universidad Complutense de Madrid.</mixed-citation>
+        <element-citation publication-type="thesis">
+          <publisher-name>Universidad Complutense de Madrid</publisher-name>
+          <year>2012</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ledesma Lara</surname>
+              <given-names>C A</given-names>
+            </name>
+          </person-group>
+          <article-title><italic id="italic-dcbab7024a86ad6c426197741a415ccb">Senderos clínicos del acompañamiento terapéutico</italic> [Tesis de doctorado]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="webpage-ref-597865265d970fb3f0fe84148c5f804a">
+        <mixed-citation>López, A. (2019). Narcoeconomía: aportes para un debate informado.</mixed-citation>
+        <element-citation publication-type="webpage">
+          <day>30</day>
+          <month>09</month>
+          <uri>https://fcece.org.ar/narcoeconomia-aportes-para-un-debate-informado/</uri>
+          <year>2019</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>López</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>CECE</source>
+          <article-title>Narcoeconomía: aportes para un debate informado</article-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-afad279103ffe7d853b3b76961f15bd0">
+        <mixed-citation>Mansilla, C. (2022). Nacimiento y crisis del prohibicionismo. El Gato y la Caja.</mixed-citation>
+        <element-citation publication-type="book">
+          <elocation-id>https://elgatoylacaja.com/libros/sobre-drogas/que-es-la-reduccion-de-riesgos-y-danos</elocation-id>
+          <publisher-name>El Gato y la Caja</publisher-name>
+          <year>2022</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mansilla</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Cumsille</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <source>Un libro sobre drogas</source>
+          <chapter-title>Nacimiento y crisis del prohibicionismo</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-cf88035f1d55c5c56a76459dfc5817f9">
+        <mixed-citation>McFerran, K., Chan, V., Tague, D., Stachyra, K., and Mercadal-Brotons, M. (2023). A comprehensive review classifying contemporary global practices in music therapy. Music Therapy Today, 18(1).</mixed-citation>
+        <element-citation publication-type="journal">
+          <elocation-id>https://bazawiedzy.umcs.pl/info/article/UMCSccbdd6a1fde84bc9868b44c72225f750/</elocation-id>
+          <issue>1</issue>
+          <volume>18</volume>
+          <year>2023</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>McFerran</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Tague</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Stachyra</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mercadal-Brotons</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>Music Therapy Today</source>
+          <article-title>A comprehensive review classifying contemporary global practices in music therapy</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-2498b06fe1864d7cf1b10b2a000fa12f">
+        <mixed-citation>Millán, H. (2001). Drogas: Trece discursos y una mirada diferente. Fin de Siglo.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Fin de Siglo</publisher-name>
+          <year>2001</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Millán</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-913152e46e8215ffac700112d10c1ce1">Drogas: Trece discursos y una mirada diferente</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="data-publication-ref-45145afb0dcbd613c15dc6f1e73867b4">
+        <mixed-citation>SEDRONAR. (2021).</mixed-citation>
+        <element-citation publication-type="data">
+          <day>3</day>
+          <month>09</month>
+          <year>2021</year>
+          <pub-id pub-id-type="accession">https://datos.gob.ar/ar/dataset/sedronar-estudios-e-investigaciones-publicaciones-por-ano/archivo/sedronar_2.2.1</pub-id>
+          <person-group person-group-type="author">
+            <collab>
+              <named-content content-type="name">Observatorio Argentino de Drogas </named-content>
+            </collab>
+          </person-group>
+          <source>SEDRONAR</source>
+          <data-title>
+            <italic id="italic-c61c0e067f11e2ac186f7139b87fea31">Mortalidad relacionada al consumo de sustancias psicoactivas, 2019</italic>
+          </data-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-21f82fce8726d28dfa6e461950439470">
+        <mixed-citation>Pollan, M. (2019). Cómo cambiar tu mente: lo que la nueva ciencia de la psicodelia nos enseña sobre la conciencia, la muerte, la adicción, la depresión y la trascendencia. Debate.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Debate</publisher-name>
+          <year>2019</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pollan</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-2fc71b430d3c261c742daf262da51c93">Cómo cambiar tu mente: lo que la nueva ciencia de la psicodelia nos enseña sobre la conciencia, la muerte, la adicción, la depresión y la trascendencia</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="webpage-ref-11385d87d8ebebaa75275f1e274e5a70">
+        <mixed-citation>Política de Drogas y Derechos Humano EN MEDIOS / Mariano Fusero [Archivo de Video]. (2023).</mixed-citation>
+        <element-citation publication-type="webpage">
+          <day>26</day>
+          <month>09</month>
+          <uri>https://www.youtube.com/watch?v=xF1kytGsefE</uri>
+          <year>2023</year>
+          <person-group person-group-type="author">
+            <collab>
+              <named-content content-type="name">RESET</named-content>
+            </collab>
+          </person-group>
+          <source>YouTube</source>
+          <article-title><italic id="italic-cc06c7451e69aa47697930e987d99a35">Política de Drogas y Derechos Humano EN MEDIOS / Mariano Fusero </italic>[Archivo de Video]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-85d62affd03bdc9c7e19eb3fee278792">
+        <mixed-citation>Ruud, E. (1998). Música e identidad. Barcelona Publishers.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Barcelona Publishers</publisher-name>
+          <year>1998</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruud</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-018902b0cd76f6e2718ee8ffab76ed00">Música e identidad</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="webpage-ref-b20032988fc31482a1f543029eb2e62b">
+        <mixed-citation>Manual de conceptos y herramientas para la investigación sobre consumos de sustancias psicoactivas. (2022).</mixed-citation>
+        <element-citation publication-type="webpage">
+          <year>2022</year>
+          <person-group person-group-type="author">
+            <collab>
+              <named-content content-type="name">Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina</named-content>
+            </collab>
+          </person-group>
+          <source>SEDRONAR</source>
+          <article-title>
+            <italic id="italic-579206caf43725171b2007e52b8db7e3">Manual de conceptos y herramientas para la investigación sobre consumos de sustancias psicoactivas</italic>
+          </article-title>
+        </element-citation>
+      </ref>
+      <ref id="webpage-ref-adc02efb2631a56040db992cd2598e72">
+        <mixed-citation>Stolkiner, A. (2019). Consumo problemático. [Archivo de Vídeo].</mixed-citation>
+        <element-citation publication-type="webpage">
+          <day>1</day>
+          <month>05</month>
+          <uri>https://www.youtube.com/watch?v=5tVlBy9LYJI</uri>
+          <year>2019</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stolkiner</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>YouTube</source>
+          <article-title><italic id="italic-2e9d6127a87d7bdf95da6f0662619301">Consumo problemático</italic>. [Archivo de Vídeo]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="chapter-ref-8876596d8b27db5f81c6962386970174">
+        <mixed-citation>Tagliazucchi, E. (2022). Potencial científico-terapéutico de los psicodélicos. El Gato y la Caja.</mixed-citation>
+        <element-citation publication-type="book">
+          <elocation-id>https://elgatoylacaja.com/libros/sobre-drogas/que-es-la-reduccion-de-riesgos-y-danos</elocation-id>
+          <publisher-name>El Gato y la Caja</publisher-name>
+          <year>2022</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tagliazucchi</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Cumsille</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <source>Un libro sobre drogas</source>
+          <chapter-title>Potencial científico-terapéutico de los psicodélicos</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="webpage-ref-33138734c27d801ba1fe0bff3e6b65ed">
+        <mixed-citation>Terenzani, A. (2021). Deconstrucción en palabras de Derrida.</mixed-citation>
+        <element-citation publication-type="webpage">
+          <day>19</day>
+          <month>02</month>
+          <uri>https://ciberestetica.wordpress.com/2021/02/19/deconstruccion-en-palabras-de-derrida/</uri>
+          <year>2021</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Terenzani</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>Ciberestética</source>
+          <article-title>Deconstrucción en palabras de Derrida</article-title>
+        </element-citation>
+      </ref>
+      <ref id="thesis-ref-1363fd44dd0332ff3cea96740ffb0e44">
+        <mixed-citation>Tosto, V. (2011). La construcción de la evidencia en musicoterapia clínica [Tesis de licenciatura]. Universidad del Salvador.</mixed-citation>
+        <element-citation publication-type="thesis">
+          <publisher-name>Universidad del Salvador</publisher-name>
+          <year>2011</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tosto</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title><italic id="italic-0ef0c991e3127093287f83750610c349">La construcción de la evidencia en musicoterapia clínica</italic> [Tesis de licenciatura]</article-title>
+        </element-citation>
+      </ref>
+      <ref id="book-ref-ec32a1ba25e101d909ed1823a8a68882">
+        <mixed-citation>Varela, I. J. (2003). Las comunidades terapéuticas: la terapéutica en las comunidades para drogodependientes. Ediciones de la Sociedad Argentina de Psiquiatría y Salud Mental.</mixed-citation>
+        <element-citation publication-type="book">
+          <publisher-name>Ediciones de la Sociedad Argentina de Psiquiatría y Salud Mental</publisher-name>
+          <year>2003</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varela</surname>
+              <given-names>I J</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic id="italic-ce0af85fb96ad6763ee36e433383eebe">Las comunidades terapéuticas: la terapéutica en las comunidades para drogodependientes</italic>
+          </source>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-3e66ecbe737f1c45e753fe17a763c176">
+        <mixed-citation>Zeller, M. (2023). La importancia de llamar a las drogas por su nombre. Eleusis, Revista de Estudios Sobre Cannabis Y Sustancias Psicoactivas, 1(1), 1-22.</mixed-citation>
+        <element-citation publication-type="journal">
+          <fpage>1</fpage>
+          <issue>1</issue>
+          <lpage>22</lpage>
+          <volume>1</volume>
+          <year>2023</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zeller</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>Eleusis, Revista de Estudios sobre Cannabis y Sustancias Psicoactivas</source>
+          <article-title>La importancia de llamar a las drogas por su nombre</article-title>
+        </element-citation>
+      </ref>
+      <ref id="journal-article-ref-54dc62fd316d07e2c4c466a3a8c31207">
+        <mixed-citation>Álvarez, N. (2023). Cuatro E claves para la formación en musicoterapia. ECOS. Revista Científica de Musicoterapia Y Disciplinas Afines, 8. https://doi.org/https://doi.org/10.24215/27186199e034</mixed-citation>
+        <element-citation publication-type="journal">
+          <page-range>034</page-range>
+          <volume>8</volume>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">https://doi.org/10.24215/27186199e034</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Álvarez</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <source>ECOS. Revista Científica de Musicoterapia Y Disciplinas Afines</source>
+          <article-title>Cuatro E claves para la formación en musicoterapia</article-title>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

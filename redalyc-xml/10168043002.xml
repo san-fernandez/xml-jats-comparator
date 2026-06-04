@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00002</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000200108</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>La ética vocacional, heroica, deportiva e ilustrada de Ortega y Gasset para tiempos de desorientación, parte I</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The vocational, heroic, sportive and enlightened ethics of Ortega y Gasset for times of disorientation, part I</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4143-1854</contrib-id>
+               <name>
+                  <surname>Gutiérrez</surname>
+                  <given-names>Antonio</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad de Filosofía, Universidad de Sevilla, Sevilla. España</institution>
+            <institution content-type="normalized">Universidad de Sevilla</institution>
+            <institution content-type="orgname">Universidad de Sevilla</institution>
+            <country country="ES">España</country>
+            <email>agpozo@us.es</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>68</issue>
+         <fpage>108</fpage>
+         <lpage>119</lpage>
+         <history>
+            <date date-type="received">
+               <day>07</day>
+               <month>02</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>14</day>
+               <month>04</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Este artículo pretende mostrar cómo Ortega y Gasset propone una ética vocacional, heroica y deportiva contra, por una parte, el idealismo abstracto y universalista de Kant y, por otra, contra el nihilismo ético de la época de las masas, que acaba en un positivismo utilitarista y en desorientación. Esa ética orteguiana presenta además un carácter humanista mundano, alejado de todo trascendentalismo y fundado sobre la autoilustración del sujeto. De esta forma, el sujeto puede ser dueño y señor de sí mismo para libremente poder gobernar su existencia y dirigirla hacia la realización del sí mismo. Según Ortega y Gasset, oír la vocación que nos llama a ser nosotros mismos es lo que caracteriza al sujeto moral, o sea, al héroe moral. ‘Llegar a ser uno mismo’ es el concepto que Ortega y Gasset propone para rellenar el hueco que ha dejado en el alma europea la muerte de dios anunciada por Nietzsche.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This article aims to show how Ortega y Gasset proposes a vocational, heroic and sportive ethic against, on the one hand, Kant's abstract and universalist idealism and, on the other hand, against the ethical nihilism of the era of the masses, which ends in utilitarian positivism and disorientation. This orteguian ethics also presents a mundane humanist character, far removed from all transcendentalism, and founded on the self-clarification of the subject. In this way, the subject can be lord and master of oneself to freely govern his existence and direct it toward the realization of the self. According to Ortega y Gasset, to hear vocation that calls us to be ourselves is what characterizes the moral subject, that is, the moral hero. ‘To become oneself’ is the concept that Ortega y Gasset proposes to fill the gap left by God’s death announced by Nietzsche in the European soul.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>Ortega y Gasset</kwd>
+            <kwd>ética</kwd>
+            <kwd>vocación</kwd>
+            <kwd>héroe</kwd>
+            <kwd>desorientación</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>Ortega y Gasset</kwd>
+            <kwd>ethics</kwd>
+            <kwd>vocation</kwd>
+            <kwd>hero</kwd>
+            <kwd>disorientation</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="28" />
+            <page-count count="12" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción: una ética de ideales y mundana</title>
+         <p>No podemos entender la propuesta ética de Ortega y Gasset si no la colocamos en el contexto existencial y filosófico de desorientación nihilista que ha dejado tras sí la formulación nietzscheana de la muerte de dios. Desentrañar las claves fundamentales de la ética orteguiana equivale a analizar su idea del heroísmo moral puesto que aquella concluye en una moral del héroe. No es cometido de este artículo profundizar en la relación entre ética y moral. Lo que hacemos a lo largo de todo este trabajo es adoptar la distinción entre ética y moral que establece el propio Ortega y Gasset: “La ética es la reflexión doctrinal sobre el fenómeno de la moralidad” (Ortega y Gasset 1927:137), de modo que entonces “la ética representa la justificación ideológica de una moral, y es, a la postre, una ciencia” (Ortega y Gasset 1926:616).</p>
+         <p>Ortega y Gasset concibe la moralidad siempre en relación con ideales de perfección. Habida cuenta de que un imperativo es la norma que gobierna la acción moral en virtud de ideales, decir que la vida moral consiste en seguir imperativos es lo mismo que decir que consiste en atenerse a un modelo ejemplar como paradigma de acción, esto es, en adoptar un modo de vida perfecto, adecuado a un determinado ideal o deber ser. Por esto, puede afirmar Lasaga que “la ética orteguiana fía a la ejemplaridad la tarea incierta de mejorar el comportamiento humano” (Lasaga 2006:12). En este sentido, como valoración del ideal en equilibrio con la realidad, y no en el sentido del idealismo dominante en la modernidad, no solo su ética, sino que en general el pensamiento de Ortega y Gasset puede ser calificado de idealista (Molinuevo. El idealismo de Ortega y Gasset).</p>
+         <p>Esa valoración orteguiana del ideal es tanto metafísica (el ideal es lo que deben ser las cosas) como ética (el ideal es el modelo director de la praxis humana) e incluso antropológica (el ideal representa también el modo adecuado de ser y existir humanamente). Por tanto, habrá que empezar por detallar esta ética orteguiana de ideales. También la ética kantiana se funda sobre el ideal pero, como veremos, es de naturaleza opuesta a la orteguiana, puesto que Kant considera que “la total adecuación de la voluntad (völlige Angemessenheit des Willens) a la ley moral (moralischen Gesetze)” (Kant 1952:97), que es la condición más alta (oberste Bedingung) del bien supremo (höchsten Guts), es santidad, pero esta santidad es un ideal (Ideal der Heiligkeit), en palabras del propio Kant.</p>
+         <p>Precisamente, Ortega y Gasset perfila la peculiaridad de su propuesta ética en la distinción explícita con el programa ético de Kant. Las diferencias que marca la ética orteguiana respecto de la kantiana equivalen por tanto a rasgos que la definen esencialmente. Partiendo de la base común humanista, Ortega y Gasset presenta, frente a la ética idealista, abstracta y universalista kantiana basada en el deber, una ética de índole realista/posibilista y pluralista, circunstancialista y vocacional, o sea, con carácter proyectivo/misional, de naturaleza heroica y finalmente una ética deportiva cuyo motor es la ilusión y la alegría. Estas son las características que definen la ética de Ortega y Gasset y que vamos a continuación a desarrollar.</p>
+         <p>Si hubiera que resumir en una fórmula diríamos que la ética kantiana es un humanismo trascendental mientras que la orteguiana sería un humanismo mundano. Frente al ideal kantiano, de base trascendentalista, el ideal orteguiano tiene un fundamento más mundano. Este carácter mundano permitirá a la ética de Ortega y Gasset enfrentarse más apropiadamente a la desorientación producida por la rebelión de las masas. Además, la asunción del nihilismo de la época masificada, la obligará a fundarse sobre la autoilustración del sujeto, que es lo que posibilitará al ser humano ser dueño de su propia existencia para dirigirla hacia ideales.</p>
+      </sec>
+      <sec>
+         <title>Idealismo realista y pluralista o realismo posibilista</title>
+         <p>Contra la ética trascendental kantiana, la primera diferencia fundamental que Ortega y Gasset subraya atañe a la naturaleza anti idealista del propio ideal moral, lo que obliga a profundizar en el ‘idealismo’ orteguiano, al que antes ya nos referimos, para poder conciliarlo con el mencionado anti-idealismo y sortear la aparentemente flagrante contradicción. No hay otra opción que distinguir dos sentidos del término ‘idealismo’ en clave moderna, distinción que, como era lógico esperar, el propio Ortega y Gasset establece. Uno es metafísico y epistemológico y consiste en afirmar que “a la conciencia solo le son dados sus estados subjetivos o ‘ideas’. En tal caso, los objetos solo tienen realidad en cuanto que son ideados por el sujeto” (Ortega y Gasset 1924a:268). En este sentido Ortega y Gasset no abraza el idealismo. Hay otra acepción de idealismo en sentido ético/práctico y consiste en “toda moral donde se afirma que valen más los ‘ideales’ que las realidades” (Ortega y Gasset 1924a:268). Tampoco la ética de Ortega y Gasset se suma a este idealismo ético, pero es en este ámbito donde se sitúa nuestro interés. En esos dos aspectos del idealismo que caracteriza a la modernidad prima el sujeto racional teórico-práctico, que se convierte en legislador que decreta lo ideal, o sea, cómo debe ser lo real y lo bueno, la praxis humana. De ahí que Ortega y Gasset identifique este idealismo moderno, el kantiano, con lo que él mismo denomina “magia del deber ser”, que consiste en que, “en vez de analizar previamente lo que es, las condiciones ineludibles de cada realidad, se procede desde luego a dictaminar cómo deben ser las cosas” (Ortega y Gasset 1921a:486). Pero entonces “los ‘ideales’ son esquemas abstractos donde se define cómo deben ser las cosas”, lo que significa que, lejos de estar confeccionados en conformidad con lo real, “los ‘ideales’ serán extractos de la subjetividad” producidos de espaldas a las cosas reales (Ortega y Gasset 1924a:268). Esta filosofía hecha a base de órdenes desde la pura razón y al margen de toda realidad, el idealismo del fiat justitia, pereat mundus, tiene como consecuencia la “suplantación de lo real por lo abstractamente deseable” (Ortega y Gasset 1921a:486).</p>
+         <p>Apartándose de este idealismo y de la abstracción que supone, Ortega y Gasset considera que el ideal no puede elaborarse a base de pura razón práctica -voluntad- y al margen de la realidad concreta sino, al contrario, atendiéndola. Subrayemos que por ‘real’ entendemos aquello no elegido por el ser humano, sino dado. Ahora bien, esta atención a lo real no nos convierte en meros esclavos de la realidad establecida, sino que se la atiende, respetando sus líneas esenciales, para buscar su más alta perfección posible. Ni idealismo, ni simple realismo positivista, sino realismo posibilista, de manera que entonces según Ortega y Gasset “solo debe ser lo que puede ser, y solo puede ser lo que se mueve dentro de las condiciones de lo que es” (Ortega y Gasset 1921a:487). De ahí que “el ideal de una cosa, lo que una cosa debe ser, no puede consistir en la suplantación de su contextura real, sino, por el contrario, en el perfeccionamiento de ésta” (Ortega y Gasset 1921a:487). El ideal moral orteguiano queda pues vinculado a lo real al convertirse en el poder ser más perfecto de la propia realidad. En efecto, dado que “toda circunstancia y toda realidad contiene una posible perfección”, Ortega y Gasset confirma que “este margen de perfeccionamiento de la circunstancia es lo que el buen artífice vital llama ideal y se esfuerza en henchir” (Ortega y Gasset 1925a:205).</p>
+         <p>Para Ortega y Gasset solo es ideal, solo debe ser, lo que puede ser, lo que se compadece con lo real elevado a su máxima perfección. Si en la filosofía idealista el ideal, lo que debe ser, está separado radicalmente de lo real, en Ortega y Gasset lo ideal surge de la realidad. Puede decirse entonces que, a diferencia del idealismo idealista kantiano, que compone lo que las cosas deben ser exclusivamente a base de razón, la filosofía orteguiana, puesto que extrae el ideal de lo real, plantea un idealismo realista. Ahora bien, en tanto ese ideal consiste en la máxima posible perfección de la propia realidad, aquel idealismo realista orteguiano equivale a un realismo posibilista. Por eso solo se puede decir que Ortega y Gasset es idealista en el sentido de que lo ideal es central respecto de la realidad, pero no es un idealista ético, ya que, en vez de considerar que lo ideal vale más que lo real sostiene que vale tanto como la propia realidad. En suma, el idealismo de Ortega y Gasset solo puede defenderse si inmediatamente lo adjetivamos como ‘realista’. El equilibrio de valor entre realidad e idealidad que representa el idealismo realista -o realismo idealista a fin de cuentas- se verifica en el hecho de que lo ideal es la propia realidad llevada a su perfecto poder ser.</p>
+         <p>De lo anterior se desprende una segunda diferencia. Frente al idealismo genérico y universalista de Kant, es patente que en Ortega y Gasset el ideal es múltiple, plural. Verdaderamente, puesto que cada realidad “contiene una posible perfección” (Ortega y Gasset 1925a:205), el ideal no puede estar sino singularizado o individualizado. En definitiva, no existe el ideal en abstracto, sino que cada cosa concreta posee el suyo propio, único y peculiarísimo. Contra el idealismo platónico, para el que el ideal es uno y el mismo para todos los individuos, Ortega y Gasset escribe que “cada cosa al nacer trae su intransferible ideal” (Ortega y Gasset 1916a:180). Por eso, para poder conocer el ideal, en lugar de abstraer, hay que concretizar y atender no a lo que decrete la razón desde su pureza, sino a lo real, a los perfiles de cada cosa. Aquel idealismo idealista que asume Kant en su ética del imperativo categórico o ley fundamental de la razón práctica, defiende un deber universal e idéntico para todo sujeto racional: “Actúa (handle) de manera que la máxima de tu voluntad (Maxime deines Willens) pueda valer (gelten) al mismo y siempre como principio de una legislación universal (Prinzip einer allgemeinen Gesetzgebung)” (Kant 1952:36).</p>
+         <p>Ortega y Gasset explica esta ley práctica destacando que “para regir mi conducta Kant me ofrece un criterio: que quiera siempre lo que otro cualquiera puede querer”, lo que quiere decir, añade, que “va a encontrar Kant la bondad, la perfección moral en un imperativo genérico y abstracto” (Ortega y Gasset 1916a:181). Contra esta ética abstracta y universalista de Kant y apoyándose en su localización de lo ideal en lo real, en su idealismo realista, Ortega y Gasset declara que “yo no puedo querer plenamente sino lo que en mí brota como apetencia de toda mi individual persona” (Ortega y Gasset 1916a:181), de donde deduce con toda lógica, dada la multiplicidad individual, que “el deber no es único y genérico. Cada cual traemos el nuestro inalienable y exclusivo” (Ortega y Gasset 1916a:181). Si el idealismo idealista de Kant desembocaba en una ética unitarista y universalista, que manda el mismo y único deber para todos los sujetos racionales, la ética orteguiana idealista y realista concluye en una pluralidad de ideales individuales. En cuanto el ideal germina en lo real no puede ser ya ni único ni unitario, sino plural como la propia realidad sobre la que se funda. El idealismo realista de Ortega y Gasset solo podía concluir en un idealismo pluralista.</p>
+      </sec>
+      <sec>
+         <title>Ética circunstancialista y vocacional</title>
+         <p>La equivalencia entre lo real y lo ideal que persigue Ortega y Gasset en su ética idealista/realista nos abre el camino hacia las siguientes notas esenciales que la describen: la circunstancia y la vocación, términos que condensan en gran parte todo el pensamiento orteguiano y que por ello Marías empleó en el título de su obra principal Ortega. Circunstancia y vocación. De hecho, justo en estos dos elementos es donde se verifica aquella atención a la realidad sobre la que Ortega y Gasset funda su ideal ético. Circunstancia y vocación son los dos componentes de lo real donde Ortega y Gasset arraiga su ética frente al idealismo ético kantiano que, caracterizado por la abstracción, el universalismo y el trascendentalismo, se configura al margen de la realidad concreta. Este anclaje del ideal moral en la realidad -circunstancial y vocacional- es la cualidad fundamental de esta nueva ética que expone Ortega y Gasset y con la que pretende separarse de la ética kantiana, lo que en última instancia significa superar la ética moderna e idealista.</p>
+         <p>Reparemos primero en que para Ortega y Gasset “toda la filosofía moderna es idealismo” (Ortega y Gasset 1924a:267), de modo que entonces “la nueva filosofía -y la nueva vida- solo puede tener un lema cuya fórmula negativa suene así: superación del idealismo” (Ortega y Gasset 1924a:267). Es obvio que este idealismo cuya superación se plantea Ortega y Gasset no es sino lo que hemos denominado más arriba idealismo idealista, a diferencia del idealismo realista que describe la posición orteguiana. Ahora bien, dado que “en la obra de Kant están contenidos los secretos decisivos de la época moderna” (Ortega y Gasset 1924a:255) y que, por eso, “la filosofía moderna adquiere en Kant su franca fisonomía” (Ortega y Gasset 1924a:258), aquella superación de la modernidad y del idealismo se identifica con la superación de Kant. El programa orteguiano contra la ética kantiana no es en suma sino una consecuencia particular más de su proyecto general filosófico contra la modernidad idealista.</p>
+         <p>Este novedoso proyecto ético orteguiano de superación de la ética kantiana como modelo de la ética moderna e idealista, en el fondo, se funda sobre la recuperación del espíritu ético griego. Prueba de ello es que el propio Ortega y Gasset nos sugiere que aquellas dos categorías básicas de su ética -circunstancia y vocación- se corresponden con las dos tesis principales que a su juicio compendian la ética griega. En primer lugar, contra la ética kantiana que, en virtud de su carácter trascendental, manda universalmente al sujeto con independencia de toda situación particular y concreta, Ortega y Gasset propugna una ética de índole mundana cuyos mandatos morales se hacen cargo -asumen- la circunstancia: “La reabsorción de la circunstancia es el destino concreto del hombre” (Ortega y Gasset 1914:756). En el último apartado de esta sección veremos el significado profundo que tiene esta afirmación orteguiana en la constitución del yo-vocación. Por eso Aranguren sugiere para Ortega y Gasset una “ética situacional” (Aranguren 1958:65). Este imperativo moral se da la mano sin duda con el mandamiento ético básico del mundo griego que nos reclama la acomodación al mundo y que Ortega y Gasset no por casualidad expone: “El griego y el romano buscarán la norma de la conducta, la ley ética, en una acomodación de la persona al cosmos. El estoico, que resume la tradición clásica, lo espera todo de vivir conforme a la naturaleza” (Ortega y Gasset 1924b:515s). La idea de circunstancia (circum-stantia) es definida por Ortega y Gasset como “las cosas mudas que están en nuestro derredor” (Ortega y Gasset 1914:754) y como “lo que de nuestra vida nos es dado e impuesto” (Ortega y Gasset 1930a:400), o sea, el mundo concreto que nos ha tocado y con el que tenemos que contar porque es inexorablemente donde hemos de vivir. Como mundo que rodea a cada yo y donde sin elegirlo se halla cada uno, la circunstancia es, respecto de cada yo, “lo que no es él”, “el puro otro” (Ortega y Gasset 1932:125). De ahí que Marías haya podido afirmar que la circunstancia es “todo aquello que no soy yo, todo aquello que encuentro en torno mío, circum me” (Marías 1960:157) y que incluye no solo el mundo exterior que afecta al sujeto concreto -factores geográficos, físicos y orgánicos-, sino también su mundo interior.</p>
+      </sec>
+      <sec>
+         <title>La idea de vocación o la autorrealización como posible perfección del yo</title>
+         <p>El segundo elemento real sobre el que Ortega y Gasset fundamenta su ética y “pieza angular” (Cerezo 1984:356), la idea de vocación, que reclama al ser humano que su actividad se ordene a ser lo que tiene que ser y por tanto a reducirse a su mismidad, esta idea, también está vinculada con la otra gran tesis de la ética griega, el ideal de la autosuficiencia, que lógicamente Ortega y Gasset también explica: “El hombre no debe vivir de nada ajeno a él, de nada que no esté en su mano. Pero en su mano está solo él mismo. Bien dirá Sócrates: eso es la felicidad: vivir solo de sí mismo, libertarse, es decir, desinteresarse de todo lo demás. Este es el evangelio de la libertad íntima como sumo bien, el único auténtico, firme, seguro” (Ortega y Gasset 1927:143). Ortega y Gasset señala que de esta reducción/liberación hacia sí mismo se deduce el “doble imperativo que condensa toda la ética griega” y que en el fondo es uno, volverse al sí mismo individual para autoposeerse: “Primero, ser libre de lo demás, o, lo que es lo mismo, no ser esclavo de nada, no necesitar de nada, bastarse a sí mismo: suficiencia; segundo, ser, en cambio, dueño de sí mismo, poseerse a sí mismo, dominio de la persona por la persona: encracia” (Ortega y Gasset 1927:143).</p>
+         <p>La idea de vocación es la respuesta que da Ortega y Gasset a la pregunta por el yo: “Yo soy … vocación”, escribe, e insiste “soy en el más radical ser de mí mismo vocación” (Ortega y Gasset 1930c:438). Que yo -cada uno- sea vocación significa que “soy el llamado a ser esto o lo otro [y nos llama] a una cierta trayectoria, por tanto, a un cierto comportamiento en el mundo, a una cierta figura y línea de existencia” (Ortega y Gasset 1930c:438). La tesis orteguiana de la vocación se fundamenta sobre la comprensión proyectiva de la existencia. Para Ortega y Gasset “vivir es ir disparado hacia algo, es caminar hacia una meta. La meta no es mi caminar, no es mi vida; es algo a lo que pongo ésta y que por lo mismo está fuera de ella, más allá” (Ortega y Gasset 1930a:466). La vida humana es siempre misión, proyecto, tiene una meta: “La vida humana, por su naturaleza propia, tiene que estar puesta a algo” (Ortega y Gasset 1930a:466). Esa meta, aquello a que estamos vocados, no es otra que ser nosotros mismos. Por eso, escribe Ortega y Gasset, “toda vida es la lucha, el esfuerzo por ser sí misma” (Ortega y Gasset 1930a:435), por autorrealizarse. El ser humano no tiene ya predeterminado lo que ha de ser y hacer en la vida, sino que ha de elegirlo entre los distintos tipos posibles de vida que se le presentan, pero, advierte Ortega y Gasset, “notará que alguno de ellos le atrae más, tira de él, le reclama o le llama. Esta llamada que hacia un tipo de vida sentimos, esta voz o grito imperativo que asciende de nuestro más radical fondo, es la vocación. En ella le es al hombre, no impuesto, pero sí propuesto, lo que tiene que hacer” (Ortega 1935:350).</p>
+         <p>Decir que el yo es vocación significa para Ortega y Gasset decir que cada uno es un “determinado proyecto”, programa vital que inexorablemente somos, o sea, algo ‘previo’ e ‘independiente’ de los sucesos de mi vida, de la circunstancia” (Ortega y Gasset 1930c:437). La vocación en Ortega y Gasset, pues, en cuanto es aquello que nos llama a ser algo determinado, es una “voz extraña, emergente de no sabemos qué íntimo y secreto fondo nuestro”, que nos llama a ser “lo que tenemos que ser” (Ortega y Gasset 1933:482). De entre los diferentes seres que podríamos ser solo hay uno que es nuestro auténtico ser, y eso es lo que tenemos que ser. La vocación es la voz radical que nos llama a ser ese nuestro verdadero sí mismo.</p>
+         <p>Esa vocación, aquello a que cada uno es interpelado a ser, atañe a todo nuestro ser y conducta y está radicalmente individualizado. La vocación no nos llama a ser uno cualquiera que también podría serlo otro, sino “el ente individualísimo y único que, en efecto, se es” (Ortega y Gasset 1930c:439). El yo -cada uno- es entonces un “programa íntegro e individual de existencia” (Ortega y Gasset 1932:126). La comprensión orteguiana del yo como vocación supone en definitiva liberarse del concepto idealista-trascendental del yo, concepto que identifica al yo como algo genérico y abstracto, supraindividual -o desindividualizado- y universal. Aunque no empleaba todavía el término ‘vocación’, la idea es originaria de la actitud filosófica de Ortega y Gasset y por ello muy temprana: “El rostro individual es a la vez proyecto de sí mismo” (Ortega y Gasset 1916a:181). En estas fechas, la expresión que usa en lugar de ‘vocación’ es el “fondo insobornable que hay en nosotros” (Álvarez 2012:63) y al que apelamos “rompiendo sin conmiseración la costra de opiniones y pensamientos recibidos” (Ortega y Gasset 1916b:216). Y ya entonces, de acuerdo con lo que hemos denominado ‘realismo posibilista’, Ortega y Gasset considera que esa peculiaridad individual que tenemos que ser, respecto del yo concreto que es de hecho, “precisa lo que su carácter individual sería en su perfección”, o sea, “lo que sería nuestra propia plenitud” (Ortega y Gasset 1916a:181). También nuestro yo concreto e individual, como el resto de las cosas, tiene como proyecto su propio ideal, su propia posible perfección.</p>
+         <p>Este poder ser perfecto de cada uno es nuestro verdadero ser, nuestro sí mismo. Así que aquel programa exclusivamente personal de existencia que es la vocación, nos llama en verdad a ser nosotros mismos, a autorrealizarnos, que es nuestro más perfecto poder ser. Eso es lo que tenemos que ser, aquello a que todos -cada uno- estamos vocados. Frente a la posibilidad de abandonarse y adaptarse a lo recibido y establecido, la vocación orteguiana representa según Cerezo un “ideal de vida personal”, “un ‘sí mismo’ o arquetipo del yo, en que este encuentra su figura verdadera o auténtica de existencia” (Cerezo 1984:356). Frente al idealismo del yo, el yo orteguiano no es, esto es, no es sustancia ni cosa que ya es, sino algo que todavía no es, proyecto, y que se tiene que ser: “Nuestro yo es en cada instante lo que sentimos ‘tener que ser’ en el siguiente y tras éste en una perspectiva temporal más o menos larga. No es, por tanto, el yo ni una cosa material ni una cosa espiritual: no es cosa ninguna, sino una tarea, un proyecto de existencia” (Ortega y Gasset 1946:806).</p>
+      </sec>
+      <sec>
+         <title>El formalismo ético orteguiano</title>
+         <p>Ortega y Gasset enseña que la vocación y la moral han de diferenciarse, puesto que aquélla actúa en un plano más radical -casi metafísico- que el nivel reflexivo/volitivo, que es donde se mueve la ética: “No se confundan, pues, el deber ser de la moral que habita en la región intelectual del hombre, con el imperativo vital, con el tener que ser de la vocación personal, situado en la región más profunda y primaria de nuestro ser” (Ortega y Gasset 1932:130). En efecto, el proyecto que es cada yo “no es una idea o plan ideado por el hombre y libremente elegido. Es anterior, en el sentido de independiente, a todas las ideas que su inteligencia forme, a todas las decisiones de su voluntad” pero “es nuestro auténtico ser” (Ortega y Gasset 1932:124). Aunque esto pueda llevarnos a pensar que lo vocacional y lo moral nada tienen que ver entre sí, realmente la vocación es un elemento fundamental en la ética orteguiana, y ello a pesar de que es independiente de la libre voluntad que, como es lógico, es el factor primordial de toda ética. Esta tesis se desprende con toda lógica del hecho de que todo individuo lleva consigo como una proyección ideal de su posible perfección: “En la moralidad yo creo ver todo hombre que ante mí pasa como inscrito en una silueta moral de sí mismo” (Ortega y Gasset 1916a:81).</p>
+         <p>Esta plenitud ontológica ejerce también de bien moral. La vocación en suma es un componente básico de la ética porque ejerce la función de meta, criterio e incluso bien moral. Ser bueno moralmente es lo mismo que ser bueno ontológicamente, pues consiste en autorrealizarnos, en realizar lo que tenemos que ser, lo que auténticamente somos. Si cada uno proyecta su propia y posible perfección ontológica/moral, lo que podría -y tendría- que ser, entonces, deduce Ortega y Gasset, “no midamos, pues, a cada cual sino consigo mismo: lo que es como realidad con lo que es como proyecto” (Ortega y Gasset 1916a:181). La idea de vocación permite pues establecer también el criterio moral, ya que nos dice lo que tenemos que hacer para ser buenos, esto es, para ser verdaderamente nosotros mismos. Una acción es buena, moral, si contribuye a realizar la vocación, si nos permite ser lo que auténticamente somos.</p>
+         <p>El concepto de vocación configura la ética de Ortega y Gasset como una ética de la autenticidad, que es el valor moral máximo. El bien moral orteguiano es ser auténticos, llegar a ser cada uno su sí mismo, su verdadero ser: “Queremos ser, ante todo, la verdad de lo que somos” (Ortega y Gasset 1916b:216). Entonces, la praxis moral está supeditada a ese plano más primario que, como un imperativo, nos exige que tenemos que ser nosotros mismos, lo que estamos llamados a ser. La libre voluntad reflexiva debe gobernar la conducta para realizar el personaje que tenemos que ser. Esto, ser fiel a la vocación, es “el ideal de una vida moral en Ortega y Gasset” (Aranguren 1958:61), que entonces se halla dirigida por un imperativo bien distinto del kantiano. El principio o imperativo moral que nos manda a ser nosotros mismos es algo formal, pues no hay un solo uno mismo sino tantos como sujetos. Cada individuo tiene como posibilidad su propia y exclusiva mismidad. Por tanto, con independencia de las metas concretas materiales que cada individuo se proponga, la ética vocacional orteguiana es una ética presidida por el principio formal de la autorrealización y la autenticidad, ya que en ella importa menos el qué, el contenido, que el cómo, la forma.</p>
+         <p>La ética de la autenticidad de Ortega y Gasset es una ética formalista, como la kantiana, pero también en esto se distinguen. La ética de Kant tampoco nos dice qué hacer, la materialidad de la acción, sino cómo, la forma de la acción. Y esa forma no es otra que el que podamos querer como sujetos racionales que nuestra máxima subjetiva devenga ley universal. El formalismo orteguiano reside en el hecho de que nos dice cómo ser auténticos, siendo uno mismo, pero nada dice acerca de cuál debe ser ese sí mismo, pues cada uno está llamado a ser uno determinado. Dado además que el tener que ser es más radical que el deber ser moral, no hay aquí ningún fundamento para reprobar algún sí mismo que pudiera resultar inmoral. Por esto, escribe Ortega y Gasset, “el hombre cuya entelequia fuera ser ladrón tiene que serlo, aunque sus ideas morales se opongan a ello”, pero entonces “el hombre que tenía que ser ladrón y, por virtuoso esfuerzo de su voluntad, ha conseguido no serlo, falsifica su vida” (Ortega y Gasset 1932:130). No hay ningún criterio moral que esté por encima de los distintos sí mismos de cada uno, de modo que todas esas metas particulares valen moralmente lo mismo. Desde la perspectiva formalista de la autorrealización como valor moral, lo mismo da jugarse la vida por ser un santo que un terrorista.</p>
+      </sec>
+      <sec>
+         <title>El querer ético como criterio</title>
+         <p>Es evidente que en los seres humanos la voluntad no se determina exclusivamente a base de razón. Por ello, aclara Kant, para que nuestro querer actúe no bastan los principios, sino que éstos han de tener cierto poder constrictivo sobre la voluntad. Pues bien, se llama ‘imperativo’ a la “regla que determina el querer y que consiste precisamente en un principio solo que representado de forma constrictiva” (Kant 1952:22). Sin atender a la distinción entre los imperativos hipotéticos y los categóricos, puesto que estamos en un plano exclusivamente ético, hay que subrayar que entonces la acción moral es aquella a la que precede como su causa un acto de la libre voluntad racional, un querer determinado por un imperativo. No puede haber praxis moral sin este previo querer reglado. Esto significa además que la libertad -el libre querer de la voluntad que sigue reglas- es lo que hace posible la moralidad. Así, Kant aseguró que “práctico (praktisch) es todo aquello que es posible mediante libertad (Freiheit)” (Kant 1975:810). Por esto, el propio Ortega y Gasset sostiene que “la bondad o maldad de que habla la ética es siempre la bondad o maldad de una volición, de un querer. No las cosas son buenas o malas, sino nuestro querer” (Ortega y Gasset 1917:286). Y en este querer, en el cómo del querer, localizamos la diferencia entre el idealismo ético kantiano y la posición orteguiana. Recordemos que el propio Ortega y Gasset advertía que la moral de Kant nos mandaba “querer lo que otro cualquiera puede querer” (Ortega y Gasset 1916a:181). Efectivamente, el imperativo ético kantiano nos reclama que podamos querer como puros sujetos racionales que nuestros principios subjetivos se conviertan en principios universales de acción de la humanidad. El imperativo categórico idealista nos manda querer -y actuar- como si fuésemos sujetos trascendentales y no como nosotros mismos. Contra él, en vez de querer lo que quiere mi yo trascendental y no mi yo individual y único, el imperativo vocacional orteguano nos llama a hacer lo que solo nosotros -cada uno- podemos hacer: realizar el sí mismo exclusivo que potencialmente es cada uno. Ortega y Gasset es nítido y tajante: “Llega a ser el que eres. He ahí el justo imperativo” (Ortega y Gasset 1916a:181). Este imperativo posee dos rasgos definitorios: la radicalidad individual del querer y la libertad. Veamos.</p>
+         <p>Frente al sujeto trascendental kantiano que quiere lo universal, Ortega y Gasset afirma que “yo no puedo querer plenamente sino lo que en mí brota como apetencia de toda mi individual persona” (Ortega y Gasset 1916a:181). No es lo querido lo moral sino el querer, y no uno cualquiera sino uno determinado. Este querer ético consiste en que “nos ligamos al objeto querido sin reservas ni temores”, tanto que “no nos parecería soportable vivir nosotros en un mundo donde el objeto querido no existiera; nos veríamos como fantasmas de nosotros mismos, como infieles a nosotros mismos” (Ortega y Gasset 1917:286). Por consiguiente, precisa Ortega y Gasset, “la característica del acto moral está en la plenitud con que es querido. Cuando todo nuestro ser quiere algo -sin reservas, sin temores, integralmente- cumplimos con nuestro deber, porque es el mayor deber de la fidelidad con nosotros mismos” (Ortega y Gasset 1917:287). Sean los que sean los ideales por los que ponemos nuestra vida en juego, es claro que cada uno, al comprometerse desde lo más profundo de su persona con esos valores -cualesquiera que fuesen-, se identifica con ellos, de manera que “renunciar a su realización es renunciar a ser uno mismo y condenarse a ser inauténtico” (Cerezo 2009:140). Por tanto, este ‘querer ético’ es inseparable de la fidelidad a sí mismo, pues ser uno mismo supone querer radical y absolutamente aquello querido por nuestra individualidad, hasta el extremo de dar la vida si fuera necesario. No hay entonces diferencia entre el ser sí mismo y este querer ético. Me ligo tanto a lo querido que no concibo vivir -ser yo- sin ello. No puedo ser yo sin lo querido. Por tanto, ser uno mismo equivale a luchar por aquello que quiero radicalmente. El hecho de reconocerse como infiel a sí mismo si no existe lo querido implica que el compromiso con este objeto es absoluto. Nos va la vida en ello, nos va ser nosotros mismos.</p>
+         <p>De aquí deriva Ortega y Gasset que “la moral no es una performance suplementaria y lujosa que el hombre añade a su ser para obtener un premio, sino que es el ser mismo del hombre cuando está en su propio quicio y vital eficiencia. Un hombre desmoralizado es simplemente un hombre que no está en plena posesión de sí mismo, que está fuera de su radical autenticidad”, de modo que “la moral no es lo que el hombre debe ser, pero por lo visto puede prescindir de ser, sino que es simplemente el ser inexorable de cada hombre” (Ortega y Gasset 1930b:304). La moralidad es más radical que la legalidad, el deber y la voluntad, pues se desenvuelve en un plano ontológico más primario, el de la autorrealización. Ser moral es ser uno mismo, ejecutar la esencia -vocación- que uno tiene que ser.</p>
+         <p>Por eso Aranguren señala que la metafísica de Ortega y Gasset es una “metafísica ética o una ética metafísica” (Aranguren 1958:23). Ahora bien, antes vimos cómo lo moral en Ortega y Gasset está subordinado al plano primario metafísico de la vocación, del “tener que ser” (Ortega y Gasset 1932:130), y sin embargo aquí presentamos el ser moral como atenerse a ese plano primordial. Esta evidente ambigüedad se debe a que Ortega y Gasset usa el mismo término ‘moral’ indistintamente con doble significado. A veces usa el término ‘moral’ como subordinado a lo metafísico de la vida humana y entonces se refiere a la moral como deber ser kantiano, algo reflexivo y dependiente de la libre voluntad, mientras que en otras ocasiones lo emplea como tener que ser refiriéndose a lo moral como constitutivo ineludible de la vida humana, algo metafísico. Este querer tan radical, este querer ético que puede llegar a dar la vida, es el criterio ético orteguiano. Por eso Ortega y Gasset declara que “no conozco otro rasgo más certero para distinguir un hombre moral de un hombre frívolo que el ser capaz o no de dar su vida por algo” (Ortega y Gasset 1921b:198).</p>
+         <p>Finamente, Lasaga ha escrito que para Ortega y Gasset “vivir éticamente es poner la vida a una carta” (Lasaga 2006:117). Por esto ha escrito Ortega y Gasset que una vida que no se entrega a algo y se la juega, “una vida que se arrastra y prolonga en el vacío de sí misma” (Ortega y Gasset 1925b:547) nada vale. La vida que no se la juega por una meta no vale nada, no es plena, no es moral. La proximidad de la muerte es lo que bendice la praxis humana con el prestigio de la moralidad. Por ello, Cerezo ha sostenido acertadamente que “Ortega y Gasset ha visto bien que la muerte, como el revés de la vida, muestra mejor que ningún otro signo la altura y la profundidad del proyecto vital” (Cerezo 1984:155). En la ética heroica orteguiana la muerte deviene criterio ético. Pero no olvidemos que no se trata simplemente de jugarse la vida sin más. Cerezo subraya que “exponerse a la muerte no es de suyo ningún síntoma de virilidad (virtus) ética, si no va acompañado de una profunda afirmación de un sentido en la vida” (Cerezo 2009:143). Se trata de exponer la vida por algo. El compromiso ético de Ortega y Gasset es jugarse la vida a la carta de ser uno mismo. Además, de este modo se le da sentido a la vida y a la propia muerte. Una vida vivida con sentido, cincelada por uno mismo con la intención de autorrealizarse, y que en este empeño conduce a la muerte, le da sentido a la muerte, la justifica. Por otra parte, una muerte que es consecuencia de una vida auténtica, dirigida por uno para ser el que se tiene que ser, una muerte así da sentido a la vida.</p>
+      </sec>
+      <sec>
+         <title>Libertad para ser y para no ser uno mismo</title>
+         <p>El segundo rasgo del imperativo vocacional es la libertad. Justamente por consistir la vocación en un ‘llegar a ser’ no es algo mecánico, sino supeditado a nuestro querer, a nuestra libertad. Por ello, y dado además que la libertad es condición de posibilidad inexcusable de lo ético-práctico, inferimos que la vocación puede vincularse con la ética. Ahora bien, el yo, lo que tenemos que ser, no es algo caprichoso o arbitrario que dependa de mi libre voluntad de elección, sino que, al contrario, “mi ser como proyecto es irremediable, no puedo modificarlo, de modo que ese yo que se tiene que ser es indestructible” (Ortega y Gasset 1930c:437). Esta fatalidad del yo se debe a que “existe más allá de la esfera en que mi voluntad opera” (Ortega y Gasset 1930c:438). Pero no olvidemos que esta vocación o tener que ser nos es propuesta o exigida, no impuesta, de modo que entonces no soy libre para elegir lo que tengo que ser, pero sí lo soy para realizar ese yo proyectivo y precisamente por ello también soy libre para no verificarlo y desobedecer aquella voz imperativa de la vocación: “Yo puedo querer no ser, no realizar el yo que tengo que ser, pero no porque pueda evitar su realización dejo de ser inexorablemente el proyecto que soy” (Ortega y Gasset 1930c:437).</p>
+         <p>La fatalidad con que nos es dado como proyecto nuestro auténtico yo, pues no podemos elegirlo, se conjuga luego con la libertad de que disponemos para consumarlo o no: “Nuestra voluntad es libre para realizar o no ese proyecto vital que últimamente somos, pero no puede corregirlo, cambiarlo, prescindir de él o sustituirlo. Somos indeleblemente ese único personaje programático que necesita realizarse” (Ortega y Gasset 1932:124). La vocación tiene una dimensión de fatalidad -no elegimos lo que tenemos que ser-, pero también posee otro lado de libertad -somos libres para serlo y para no serlo. Y porque somos libres para ser nosotros mismos -y para no serlo-, justamente por ello, deriva Ortega y Gasset, “cada uno de nosotros está siempre en peligro de no ser el sí mismo único e intransferible que es” (Ortega y Gasset 1939:40). Es preciso aclarar que esta fatalidad se extiende también al hecho de que la vocación personal ha de realizarse en una circunstancia no elegida y que abarca todo tipo de factores. En suma, si la ética idealista kantiana es una ética de libertad absoluta, puesto que -determinada solo a base de razón pura práctica o voluntad pura- es una ética independiente de cualquier circunstancia real, la ética vocacional orteguiana, de acuerdo con el espíritu anti-trascendental y anti-idealista que la caracteriza, conjuga la libertad con la atención a la realidad. Efectivamente, “lo que vitalmente se tiene que ser o no se tiene que ser, no se discute, sino que se acepta o no, pero si lo aceptamos, somos auténticos; si no lo aceptamos, somos la negación, la falsificación de nosotros mismos” (Ortega y Gasset 1930a:439). Si no efectuamos lo que tenemos que ser no somos el que auténticamente somos, nos traicionamos, pues para Ortega y Gasset “poder puedes ser lo que quieras, pero solo si quieres ser de tal determinado modo serás el que tienes que ser” (Ortega y Gasset 1933:483). El ser humano orteguiano “posee un amplio margen de libertad con respecto a su yo o destino. Puede negarse a realizarlo, puede ser infiel a sí mismo. Entonces su vida carece de autenticidad” (Ortega y Gasset 1932:126). Aproximándose al espíritu del estoicismo, puede decirse que en Ortega y Gasset la autenticidad supone la libre aceptación de la necesidad del yo que cada uno tiene que ser. Pero por lo mismo también la libertad puede ser empleada negativamente para no aceptar ser el yo que tenemos que ser.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Álvarez, E.(2012). "El fondo insobornable: el problema de la autenticidad en Ortega".
+               <italic>Revista de Estudios Orteguianos.</italic>
+               (25), 163-183.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Álvarez</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>El fondo insobornable: el problema de la autenticidad en Ortega</article-title>
+               <source>Revista de Estudios Orteguianos</source>
+               <volume />
+               <issue>25</issue>
+               <fpage>163</fpage>
+               <lpage>183</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Aranguren, J.,  (1958).
+               <italic>Ética</italic>
+               . : Alianza
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aranguren</surname>
+                     <given-names>J.L.</given-names>
+                  </name>
+               </person-group>
+               <year>1958</year>
+               <source>Ética</source>
+               <publisher-name>Alianza</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Cerezo, P.,  (1984).
+               <italic>La voluntad de aventura. Aproximamiento crítico al pensamiento crítico de Ortega y Gasset</italic>
+               . : Ariel
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cerezo</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>1984</year>
+               <source>La voluntad de aventura. Aproximamiento crítico al pensamiento crítico de Ortega y Gasset</source>
+               <publisher-name>Ariel</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Cerezo, P.(2009). "La ética de la alegría creadora".
+               <italic>Revista de Estudios Orteguianos.</italic>
+               (18), 129-170.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cerezo</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>La ética de la alegría creadora</article-title>
+               <source>Revista de Estudios Orteguianos</source>
+               <volume />
+               <issue>18</issue>
+               <fpage>129</fpage>
+               <lpage>170</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Kant, I.,  (1952).
+               <italic>Kritik der praktischen Vernunft</italic>
+               . : Felix Meiner
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kant</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1952</year>
+               <source>Kritik der praktischen Vernunft</source>
+               <publisher-name>Felix Meiner</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Kant, I.,  (1975).
+               <italic>Kritik der reinen Vernunft</italic>
+               . : Reclam
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kant</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1975</year>
+               <source>Kritik der reinen Vernunft</source>
+               <publisher-name>Reclam</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Lasaga, J.,  (2006).
+               <italic>Figuras de la vida buena (ensayo sobre las ideas morales de Ortega y Gasset)</italic>
+               . : Enigma Editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lasaga</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Figuras de la vida buena (ensayo sobre las ideas morales de Ortega y Gasset)</source>
+               <publisher-name>Enigma Editores</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Marías, J.,  (1960).
+               <italic>Ortega. Circunstancia y vocación</italic>
+               . : Editorial Revista de Occidente
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Marías</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1960</year>
+               <source>Ortega. Circunstancia y vocación</source>
+               <publisher-name>Editorial Revista de Occidente</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1914).
+               <italic>Meditaciones del Quijote. Obras Completas I/2004</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1914</year>
+               <source>Meditaciones del Quijote. Obras Completas I/2004</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1916a).
+               <italic>Estética en el tranvía. Obras Completas II/2004</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1916a</year>
+               <source>Estética en el tranvía. Obras Completas II/2004</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1916b).
+               <italic>Ideas sobre Pío Baroja. Obras Completas II/2004</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1916b</year>
+               <source>Ideas sobre Pío Baroja. Obras Completas II/2004</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1917).
+               <italic>Muerte y resurrección. Obras Completas II/2004</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1917</year>
+               <source>Muerte y resurrección. Obras Completas II/2004</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1921a).
+               <italic>España invertebrada. Obras Completas III/2005</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1921a</year>
+               <source>España invertebrada. Obras Completas III/2005</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1921b).
+               <italic>Introducción a un ‘Don Juan’. Obras Completas VI/2006</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1921b</year>
+               <source>Introducción a un ‘Don Juan’. Obras Completas VI/2006</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1924a).
+               <italic>Kant. Reflexiones de centenario. Obras Completas IV/2005</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1924a</year>
+               <source>Kant. Reflexiones de centenario. Obras Completas IV/2005</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1924b).
+               <italic>Las dos grandes metáforas. Obras Completas II</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1924b</year>
+               <source>Las dos grandes metáforas. Obras Completas II</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1925a).
+               <italic>Reforma de la inteligencia. Obras Completas V/2006</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1925a</year>
+               <source>Reforma de la inteligencia. Obras Completas V/2006</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1925b).
+               <italic>Notas del vago estío. Obras Completas II/2004</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1925b</year>
+               <source>Notas del vago estío. Obras Completas II/2004</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1926).
+               <italic>Destinos diferentes. Obras Completas II/2004</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1926</year>
+               <source>Destinos diferentes. Obras Completas II/2004</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1927).
+               <italic>Ética de los griegos. Obras Completas III/2005</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1927</year>
+               <source>Ética de los griegos. Obras Completas III/2005</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1930a).
+               <italic>La rebelión de las masas. Obras Completas IV/2005</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1930a</year>
+               <source>La rebelión de las masas. Obras Completas IV/2005</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1930b).
+               <italic>Por qué he escrito ‘El hombre a la defensiva’. Obras Completas IV/2005</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1930b</year>
+               <source>Por qué he escrito ‘El hombre a la defensiva’. Obras Completas IV/2005</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1930c).
+               <italic>¿Qué es la vida? Obras Completas VIII/2008</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1930c</year>
+               <source>¿Qué es la vida? Obras Completas VIII/2008</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1932).
+               <italic>Pidiendo un Goethe desde dentro. Obras Completas V/2006</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1932</year>
+               <source>Pidiendo un Goethe desde dentro. Obras Completas V/2006</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1933).
+               <italic>En torno a Galileo. Obras Completas VI/2006</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1933</year>
+               <source>En torno a Galileo. Obras Completas VI/2006</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B26">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1935).
+               <italic>Misión del bibliotecario. Obras Completas V/2006</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1935</year>
+               <source>Misión del bibliotecario. Obras Completas V/2006</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B27">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1939).
+               <italic>Ensimismamiento y alteración. Obras Completas V/2006</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1939</year>
+               <source>Ensimismamiento y alteración. Obras Completas V/2006</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B28">
+            <mixed-citation>
+               Ortega y Gasset, J.,  (1946).
+               <italic>Sobre la leyenda de Goya. Obras Completas IX/2009</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega y Gasset</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1946</year>
+               <source>Sobre la leyenda de Goya. Obras Completas IX/2009</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

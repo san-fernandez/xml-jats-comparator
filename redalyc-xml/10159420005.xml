@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article 
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+<journal-title-group>
+<journal-title>Cinta de moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">00005</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Artículos</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Incommensurability, types of phenomena and relevant incompatibility (part I)</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5329-5434</contrib-id>
+<name>
+<surname>Céspedes</surname>
+<given-names>Esteban</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label>
+<institution content-type="original">Chile. Instituto de Sistemas Complejos de Valparaíso  Correo electrónico: estebancespedes@aol.com</institution>
+<institution content-type="normalized">Instituto de Sistemas Complejos de Valparaíso </institution>
+<institution content-type="orgname">Instituto de Sistemas Complejos de Valparaíso </institution>
+<country country="CL">Chile</country>
+<email>estebancespedes@aol.com</email>
+</aff>
+<pub-date pub-type="epub">
+<season>Oct-Dec</season>
+<year>2018</year>
+</pub-date>
+<issue>63</issue>
+<fpage>323</fpage>
+<lpage>330</lpage>
+<history>
+<date date-type="received">
+<day>23</day>
+<month>07</month>
+<year>2018</year>
+</date>
+<date date-type="accepted">
+<day>14</day>
+<month>10</month>
+<year>2018</year>
+</date>
+</history>
+<permissions>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Abstract:</title>
+<p>This is the first part of a three-part paper on incommensurability. Although incommensurability between theories has been object of study during many years, there does not seem to be a clear consensus regarding the notion of meaning according to which it should be characterised. Based on the notion of incommensurability proposed here, the common ground between incommensurable theories is neither determined by the sense nor by the reference of the relevant terms, but by a given phenomenon type, which fixes the subject matter of inquiry. Phenomenon types are understood as expressions that are associated with some phenomenon and describable or understandable in some language. In this proposal, two theories can refer to a same phenomenon type even if they are mutually incommensurable about the concepts used in them to grasp it. This possibility may serve as a way of fixing the subject matter of an investigation and, thus, to characterise the common ground between incommensurable paths of inquiry.</p>
+</abstract>
+<kwd-group xml:lang="en">
+<title>Keywords:</title>
+<kwd>incommensurability</kwd>
+<kwd>sense</kwd>
+<kwd>reference</kwd>
+<kwd>phenomenon</kwd>
+<kwd>type</kwd>
+<kwd>scientific</kwd>
+<kwd>realism</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="5"/>
+<page-count count="8"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>Introduction: Incommensurability as relevant terminological incompatibility</title>
+<p>Incommensurability is well known as an incompatibility that holds between scientific theories that seem to compete about the explanation of some type of phenomenon. The thesis of incommensurability can be formulated as follows:</p><p>(1) Incommensurability thesis. There are periods in the development of scientific knowledge during which it may be difficult to compare two conflicting theories due to their mutual incompatibility.</p><p>As is well known, this thesis is based on the influential works of Thomas Kuhn (The structure of scientific revolutions) and Paul Feyerabend (Explanation, reduction and empiricism), who studied the issue carefully, generating great controversy and interest. Note that the thesis, as just characterised, does not claim that it is impossible to compare mutually incommensurable theories, but that it may be difficult. While Kuhn did not believe that incommensurability implies incomparability (Commensurability, comparability, communicability), Feyerabend even demanded their comparison.</p><p>The notion of incommensurability may refer to a terminological incompatibility between two theories as well as to a methodological incompatibility (Sankey &amp; Hoyningen-Huene Incommensurability and related matters, Sankey Scientific realism and the semantic incommensurability thesis). For the present purposes, only the first kind of incommensurability, which may be called taxonomic or semantic incommensurability, will be of special interest. It can be characterised as follows:</p><p>(2) Semantic incommensurability. Two theories T1 and T2 are taxonomically incommensurable just in case, they are conceptually incompatible.</p><p>We may understand the notion of conceptual incompatibility involved in the characterisation of semantic incommensurability in the following way (Kuhn The road since structure, Mizrahi Kuhn&apos;s incommensurability thesis):</p><p>(3) Conceptual incompatibility as taxonomical difference. Two theories T1 and T2 are conceptually incompatible just in case their lexical taxonomies (that is, the linguistic structures and vocabularies of kind terms on which they are based) differ.</p><p>This definition is not precise enough. Particularly, we may ask the following question: On the grounds of which notion of meaning should we understand a lexical taxonomy compared in cases of incommensurability? I will present a clearer way of characterising incompatibility to tackle this question and, thus, also a clearer way of understanding the conceptual incommensurability between theories. </p><p>As defined above, semantic incompatibility is a relation between rival theories about certain terms. The problematic aspect of incommensurability does not lie merely on the possibility of theoretical incompatibility, but also on two main assumptions about meaning-variance: </p><p>a) A scientific term involved in a theory cannot be fully understood unless the principles of that theory are understood.</p><p>b) The meaning of a scientific term involved in a theory will change if that theory changes or if it is replaced by another theory that also involves that term. </p><p>Thus, on the one hand it seems possible to compare two theories regarding one and the same term. On the other hand, it seems problematic to accept such a point of comparison, since the term’s meaning is not actually the same according to each theory. How can we say that two semantically incompatible theories are rivals in the first place? </p><p>Against assumption (a), Peter Achinstein argues that we can understand main terms involved in a theory without understanding the theory completely. Thus, there must be factors independent from that theory that allow us to do that. He also claims, against thesis (b), that even if meaning-variance depends on some relevant, theoretic factors, many of them may remain constant in some cases. In other words, many kinds of dependencies and independencies may hold between scientific theories. This allows to find meaning-invariant common terms based on which two incompatible theories could be compared (<xref ref-type="bibr" rid="B1">Achinstein 1964</xref>:503).</p><p>Paul Feyerabend (On the ‘meaning’ of scientific terms) opposes Achinstein’s view, providing various examples that show how some pairs of incompatible, rival theories do not share any element of meaning. According to Feyerabend, it is neither necessary nor desirable that two rival theories contain common terms having the same meaning. Considering this issue, Robert Butts claims that some notion of meaning-invariance might be desirable at least as a methodological principle and is indeed necessary if we want to understand theoretical incompatibility. He concludes that to make sense of Feyerabend’s notion of incommensurability, one would have to either introduce non-evidential -perhaps non-epistemological-considerations regarding the accepted theory (to explain scientific progress) or some idea of common observational core (<xref ref-type="bibr" rid="B2">Butts 1966</xref>:388). </p><p>In what follows, I will try to show that, being careful enough, both strategies could be implemented at once. On the one hand, pragmatic, non-evidential conditions are crucial for the comparison of incompatible theories. These do not need to be extremely arbitrary, focused only on the interests of small scientific communities. On the other hand, observational aspects are crucial too. However, these do not have to be expressed in a common observational language, shared by both conflicting theories, a kind of language rejected by Feyerabend. The notion of observational language rejected by Feyerabend (An attempt at a realistic interpretation of experience) was defined based on decidability conditions regarding observational sentences. One of the main criticisms towards observational languages provided by Feyerabend was focused on the allegedly undesirable consequences of assuming that the interpretation of such languages is theory-independent. </p><p>My proposal will consist in the consideration of an observational core characterised in terms of subject matters instead of observational languages. Subject matters are neither theory-independent nor bound to decidability conditions, since their basic structure is intensional (in relation to each theory) rather than syntactic, and they can be considered as common grounds between rival theories.</p><p>According to Carl Kordig, there is usually some observational meaning invariance between conflicting theories. Such meaning is associated with invariant objects considered by each theory and is non-trivial, i.e. extensional. The kind of meaning invariance considered by Kordig is not a semantic overlap between the compared theories but may be a common reference of expressions involved in some appropriate metalanguage. Some examples of these expressions can be found in statements of logic, mathematics or everyday affairs (:471). Metalanguages in this sense are languages in which we may talk about rival theories.</p><p>Israel Scheffler (Science and subjectivity) discusses the incommensurability thesis considering the distinction between sense and reference. He argues that since the fact that two theories differ regarding the sense of some of their concepts (i.e the theoretical aspect of its meaning) does not entail that they differ about the reference of that concept (i.e. the set of objects it designates), the mere difference with respect to sense does not imply total conceptual incompatibility. The considered concepts may be still compatible based on their shared reference.</p><p>For instance, the sense of the term “planet” according to a Ptolemaic point of view differs from the sense of the term “planet” according to a Copernican point of view. Nevertheless, this would not mean, according to Scheffler, that both theories are conceptually incompatible, because the considered term refers in both theories to the same kind of objects, i.e. planets.</p><p>Mary Hesse (Review of science and subjectivity) criticises Scheffler’s argument, claiming that reference invariance is neither enough nor necessary for logical comparability. It is not enough, she argues, because science operates mainly based on intensional rather than extensional properties, and it is not necessary, because two rival theories may assume different categorisations for the same object. Michael Martin (Referential variance and scientific objectivity) argues that Hesse’s point is irrelevant and that classical analyses of meaning in terms of reference are crucial to understand incommensurability. He shows how two theories that are in principle not mutually inconsistent could turn out to be in conflict relative to explicit assumptions about their referents (for instance, about how they overlap). This could also explain the possibility of scientific objectivity despite conceptual incompatibility.</p><p>The formulation of the incommensurability thesis provided in (1) is quite weak. Michael Devitt (Against incommensurability) focuses on and criticises a stronger version, according to which some conflicting theories are radically incomparable due to their semantic incompatibility. He argues that two theories are comparable even if the referents of their relevant terms do not overlap, adopting a strong commitment to scientific realism. According to Devitt, two theories are comparable regarding some term, when that term partially refers to different sets of objects, depending on each theory, i.e. when there is a causal network underlying such term and grounded on both sets of objects. Philip Kitcher (Implications of incommensurability) also proposes to focus on the various underlying ways or mechanisms that fix reference instead of considering just plain reference. He introduces the notion of reference potential, which is the set of events that could generate the tokens of a term type within a given scientific context. On this basis, two languages are incommensurable regarding some term just in case their reference potentials regarding that term are different, where this depends on the acceptance of relevant presuppositions of each language by their users.</p><p>Moti Mizrahi (Kuhn&apos;s incommensurability thesis) turns again the discussion to whether reference variation is sufficient for theoretical incompatibility. As he argues, the fact that two theories differ regarding the reference of some of their concepts does not entail that they are conceptually incompatible. Take the case of the word “kid”, considered by Mizrahi. Although its reference according to folk taxonomy differs from its reference according to biological taxonomy, we would not say that folk taxonomy is conceptually incompatible with biological taxonomy.</p><p>Both Scheffler and Mizrahi are right in some way. Neither difference of sense nor difference of reference provide a sufficient condition for conceptual incompatibility. Anyway, it is questionable that any of the options that they present has ever been sustained on a plausible basis. According to classical characterisations of incommensurability, one may claim that the meaning variance of relevant terms involved between incommensurable scientific theories consists in a difference regarding sense as well as reference. It is also questionable whether Kuhn is talking about reference in a technical semantic sense when he explains incommensurability.</p><p>A natural alternative would be to require that difference regarding sense and difference regarding reference constitute together a necessary and sufficient condition for conceptual incompatibility. Before developing this idea in more depth, one should note that it may be misguiding to ask whether two theories are conceptually incompatible without determining the terms on which the supposed incompatibility is based. Thus, for instance, the claim “T1 and T2 are conceptually incompatible” should be interpreted as “T1 and T2 are conceptually incompatible about some term t”. Considering this, we could understand conceptual incompatibility as follows:</p><p>(4) Conceptual incompatibility of sense and reference. Two theories T1 and T2 are conceptually incompatible about a relevant term t just in case:</p><p>a) the sense of t according to T1 differs from the sense of t according to T2 and</p><p>b) the reference of t according to T1 differs from the reference of t according to T2</p><p>The flaw of this definition is that, on its basis, we can hardly solve one of the main problems associated with incommensurability, which is the fact that there does not seem to be a criterion of theory choice that can be applied when comparing two incompatible theories. According to the definition of conceptual incompatibility just considered, the theories are simply different. To tackle this issue, it might be helpful to think that, usually, when one is confronted with different options in a decision situation, the options are relevant about some point of comparison. This point of comparison is constituted by considerations of some set of relevant assumptions and on the relevant, perceivable consequences of each one of the alternatives. </p><p>Regarding terminological incompatibility, the key idea is the following: If it has any sense to claim that two theories are theoretically incompatible, they must be incompatible based on something. That basis, I would like to argue, is related to the manners in which theories approach a given field of phenomena. This idea cannot be considered obviating the importance of the development of theories within history.</p><p>Let me characterise a way in which two theories could be confronted at some period of scientific development. I focus on four steps of it.</p><p>(5) Four steps towards conceptual incompatibility.</p><p>i) A theory T1 describes a set of phenomena φ1 using the term t1.</p><p>ii) Some propositions of T1 that involve t1 are anomalous regarding some set of phenomena φ2, which seem to be of the same type as φ1.</p><p>iii) A different theory T2 introduces a new term t2 to describe φ1, as well as φ2 without anomalies.</p><p>iv) The sense of t2 is different from the sense of t1 and the reference of t2 is different from the reference of t1.</p><p>To understand what it means that two theories attribute different senses or references to a given term, characterisations of the notions of sense and reference are needed: </p><p>(6) Theoretical sense. The sense of a term t within a theory T is determined by the functions that t plays in the sentences implied by T.</p><p>(7) Theoretical reference. The reference of a term t within a theory T is the entity of a supposed ontology that is associated with and postulated based on the role that t plays in T.</p><p>Although two theories that are incommensurable regarding some term are different with respect to the sense and the reference of that term, both point towards a description of the same type of phenomena. Phenomena can be understood as what appears, as experiences, i.e. sets of qualities structured in some way. When I cut my finger, I experience pain. That pain is constituted by a set of qualities, involving intensities, ways in which it feels and may be related to other simultaneous experiences. It seems perfectly plausible to assume that my pain, at that moment, is neither reproducible nor can be experienced by someone else as such. Nevertheless, I can communicate with others about what I feel, mentioning the type of phenomenon to which my feeling corresponds. Pain would be the most relevant phenomenon type according to this example. Intensities and relations to other experiences may also be considered as types of phenomena. Although the same holds for singular observations in scientific contexts, the use of the word “phenomenon” within scientific discourse is different. The Doppler effect, for instance, is usually called a “phenomenon”, when it should be understood as a phenomenon type, following the characterisation just made. Motion of celestial objects is another phenomenon type, a sub-type of motion in general. </p><p>Based on general, intuitive ideas coming from type theory (Russel Mathematical logic as based on the theory of types, Church A formulation of the simple theory of types, Granström Treatise on intuitionistic type theory), we may characterise a phenomenon type as follows: </p><p>(8) Phenomenon type. T is a phenomenon type to which corresponds some phenomenon p, just in case T is (part of) a conceptual (or linguistic) space in which p can be described or understood. </p><p>Thus, the experience of pain that I feel when I cut my finger can be described within the conceptual space of pain, it can be described as pain. Pain is a conceptual space from which my experience of pain can be described. </p><p>According to another, complementary characterisation, phenomenon types are semantic domains that relate to propositions and descriptions as topics. A description is always about some phenomenon type, it has always a subject matter. This aspect of phenomenon types will be considered later in some more detail.</p><p>On this basis, we may propose another notion of conceptual incompatibility, focused on the relevance of the terms that are the reason of the conflict. A term is considered as relevant if it is associated with the relevant phenomenon type. Let t be a term and T a theory. We write tT to represent the term t, as involved and interpreted within T. The proposal is the following:</p><p>(9) Relevant conceptual incompatibility. Two theories T1 and T2 are incompatible about a relevant type of phenomenon, just in case:</p><p>a) a term tT1 and a term tT2 are associated with the same type of phenomenon,</p><p>b) the sense of tT1 differs from the sense of tT2 and</p><p>c) the reference of tT1 differs from the reference of tT2</p><p>This definition does not only account for cases in which two theories attribute different interpretations to a common expression, as it occurs with the Ptolemaic and the Copernican points of view regarding the term “planet”, but also for cases in which two theories offer two different expressions related to mutually incompatible concepts to account for the same type of phenomenon. A paradigmatic example of this kind of cases is the incompatibility between the theory of phlogiston and the theory of oxygen as accounts of the phenomenon type of combustion.</p><p>We are now ready to consider a clearer characterisation of the notion of incommensurability:</p><p>(10) Conceptual incommensurability. Two theories are incommensurable regarding a type of phenomenon just in case they are conceptually incompatible in a relevant way regarding that type of phenomenon.</p><p>Considering another classic example, Newtonian mechanics and special relativity theory can be considered as two conflicting theories that are incommensurable regarding the term “mass”, but both point towards the description of the same type of phenomena, namely the spatio-temporal relations between objects.</p><p>We may also consider again the example involving the term “kid” in the light of the incommensurability notion just proposed. Folk taxonomy and biological taxonomy are not incompatible regarding the term “kid”, because there is no relevant phenomenon type to which both theories relate the term.</p><p>Another issue that can be explained successfully following the present proposal is the difference between incommensurability and radical disparity. Paul Hoyningen-Huene provides a clear case of the latter: A theory of the unconscious and a theory of globular star clusters are considerably disparate in a way that is different from the way in which two rival, mutually incommensurable theories are related (<xref ref-type="bibr" rid="B4">Hoyningen-Huene 1993</xref>:119). He claims that these theories are disparate because they have totally different object domains and research problems. Considering the terminology proposed above, we might say that object domains and research problems are (constituted by) types of phenomena. Thus, disparate theories, as opposed to incommensurable ones, do not share a focus on a same relevant type of phenomenon. </p><p>The account proposed here is particularly original as far as it does not imply an attempt to cancel incommensurability by providing a way to compare rival theories. Such is a strategy followed by many philosophers who have been trying to avoid some of the consequences of the incommensurability thesis. By contrast, the present account shows how mutually incommensurable theories can be compared without compromising any of the main features originally attributed to incommensurability by Kuhn and Feyerabend (e.g. meaning variance and irreducibility of one theory to the other). Additionally, as should be clear later, the view on incommensurability based on phenomenon types gets over the debate regarding the apparent opposition between the possibility of incommensurability and scientific realism. Thus, realist, scientific progress is indeed possible through sequences of rival incommensurable theories.</p>
+</sec>
+<sec>
+<title>2. Subject matter as common ground</title>
+<p>According to the notion of incommensurability proposed here, if two theories are incommensurable, they differ regarding the theoretical reference of the term according to which they are compared. How can we compare two theories if they do not refer to the same kind of thing? To answer this and to make sense of the idea that incommensurable theories can be compared with regard to the kind of phenomenon on which they are focused, I would like to appeal to the notion of subject matter, which can be characterised as follows, considering a definition proposed by Stephen <xref ref-type="bibr" rid="B5">Yablo (2014</xref>:27):</p><p>(11) Subject matter. A subject matter is a system of differences, such that a subject matter m1 is equivalent to a subject matter m2 just in case propositions differing where m1 is concerned differ also with respect to m2</p><p>Consider, for instance, the following couple of propositions:</p><p>(12) “It will rain on Monday” and “It will rain on Tuesday”. </p><p>These propositions are clearly different. The aspect in which they differ is the day of the week. This is the subject matter or topic that may be relevant if two persons want to discuss the truth of both propositions. Consider now these propositions:</p><p>(13) “Peter will be busy on Monday” and “Peter will be busy on Tuesday”. </p><p>These propositions are also different from each other. The aspect in which they differ is a subject matter, which is the same as the subject matter according to which the couple of propositions in (12) is distinguished. </p><p>When two pieces of information (for instance, sentences or theories) are about the same type of phenomenon, i.e. about the same general regularity, we may say that they share a subject matter. Note that a subject matter does not depend on the extension of the concepts based on which the subject matter is determined. Thus, one could extract a given general regularity from two extensionally different sets of data. We could say, for instance, that the predicate “day of the week” has an extension of seven objects from the perspective of the Gregorian calendar. On such a basis, we may form sentences concerning days of the week. Now, based on the first version of the Soviet calendar, a week consists of five days. Hence, the predicate “day of the week” selects a set of five objects. However, the subject matter of a sentence formulated with the predicate “day of the week” from the perspective of the Soviet calendar could be the same as the subject matter of a sentence formulated with the predicate “day of the week” from the perspective of the Gregorian calendar.</p><p>We may apply the notion of a subject matter in an interesting way to compare incommensurable scientific theories. So, what does it mean that two theories are associated with the same phenomenon type? The sort of relation holding between theories and phenomenon types that is relevant for our discussion is basically the relation that holds between descriptions and phenomenon types. Theories are about phenomenon types. Newtonian mechanics can describe that the velocity of a given object is of a certain quantity. That description may correspond extensionally to some (postulated) fact, but it is not only about that fact; it is about the general phenomenon type of motion. The theory as a whole is also about motion. We may compare Newtonian mechanics with relativistic mechanics regarding how they are associated with motion. And this is not in conflict with the idea that they are conceptually incompatible about the term “velocity”. They are rival theories about motion which are semantically incommensurable.</p><p>Note that although the relation between a theory and a type of phenomenon may be understood as reference, it is not extensional reference. Types of phenomena are non-extensional; it is preferable to distinguish them from extensional theoretical properties.</p><p>As another example, consider again the comparison between the Ptolemaic theory and the Copernican theory. Although the extension of the concept of a planet is different in both theories, both are models about the motion of celestial bodies in which the term “planet” is relevant and they can be compared as such. Thus, there can be two theories T1 and T2, such that the subject matter of T1 is the same as the subject matter of T2, but the extension of a term t in T1 differs from the extension of t in T2. On this basis, we have a way of comparing two theories that are different regarding the sense and the reference of one of their relevant terms.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>Referencias bibliográficas</title>
+<ref id="B1">
+<mixed-citation>Achinstein, P.(1964). "On the meaning of scientific terms". <italic>Journal of Philosophy. 61</italic>(17), 497-509. Recuperado de https://doi.org/10.2307/2022847</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Achinstein</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>1964</year>
+<article-title>On the meaning of scientific terms</article-title>
+<source>Journal of Philosophy</source>
+<volume>61</volume>
+<issue>17</issue>
+<fpage>497</fpage>
+<lpage>509</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2022847">https://doi.org/10.2307/2022847</ext-link>
+</element-citation>
+</ref>
+<ref id="B2">
+<mixed-citation>Butts, R.(1966). "Feyerabend and the pragmatic theory of observation". <italic>Philosophy of Science. 33</italic>(4), 383-394. Recuperado de https://doi.org/10.1086/288110</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Butts</surname>
+<given-names>R.E.</given-names>
+</name>
+</person-group>
+<year>1966</year>
+<article-title>Feyerabend and the pragmatic theory of observation</article-title>
+<source>Philosophy of Science</source>
+<volume>33</volume>
+<issue>4</issue>
+<fpage>383</fpage>
+<lpage>394</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/288110">https://doi.org/10.1086/288110</ext-link>
+</element-citation>
+</ref>
+<ref id="B3">
+<mixed-citation>Kordig, C.(1971). "The comparability of scientific theories". <italic>Philosophy of Science. 38</italic>(4), 467-485. Recuperado de https://doi.org/10.1086/288390</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kordig</surname>
+<given-names>C.R.</given-names>
+</name>
+</person-group>
+<year>1971</year>
+<article-title>The comparability of scientific theories</article-title>
+<source>Philosophy of Science</source>
+<volume>38</volume>
+<issue>4</issue>
+<fpage>467</fpage>
+<lpage>485</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/288390">https://doi.org/10.1086/288390</ext-link>
+</element-citation>
+</ref>
+<ref id="B4">
+<mixed-citation>Hoyningen-Huene, P. (1993). <italic>Reconstructing scientific revolutions: Thomas S. Kuhn's philosophy of science</italic>. En  Chicago: University of Chicago Press</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Hoyningen-Huene</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>1993</year>
+<source>Reconstructing scientific revolutions: Thomas S. Kuhn's philosophy of science</source>
+<publisher-name>University of Chicago Press</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B5">
+<mixed-citation>Yablo, S. (2014). <italic>Aboutness</italic>.  Princeton: Princeton University Press</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Yablo</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>Aboutness</source>
+<publisher-name>Princeton University Press</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+</ref-list>
+<app-group>
+<app id="app1">
+<label>
+
+</label>
+<p>
+
+</p>
+</app>
+</app-group>
+</back>
+</article>

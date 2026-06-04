@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000100011</article-id>
+         <article-id pub-id-type="publisher-id">00002</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>La inducción analítica como método sociológico desde una perspectiva histórica</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Analytic induction as a sociological method from a historical perspective</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7376-6213</contrib-id>
+               <name>
+                  <surname>Sosa</surname>
+                  <given-names>Andrea</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Nacional de San Martín, Buenos Aires, Argentina</institution>
+            <institution content-type="normalized">Universidad Nacional de San Martín</institution>
+            <institution content-type="orgname">Universidad Nacional de San Martín</institution>
+            <country country="AR">Argentina</country>
+            <email>andreapatriciasosa@gmail.com</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>64</issue>
+         <fpage>11</fpage>
+         <lpage>30</lpage>
+         <history>
+            <date date-type="received">
+               <day>22</day>
+               <month>11</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>05</day>
+               <month>01</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El objetivo de este artículo es estudiar la inducción analítica como método científico de investigación, es decir, como modo válido de hacer ciencia. En 1934, su creador, el filósofo y sociólogo Florian Znaniecki, afirmó que este era el método que debía ser adoptado en toda investigación sociológica. Su relevancia radica en que se propone encontrar explicaciones globales de los fenómenos sociales a partir de la utilización de técnicas cualitativas de investigación. Aquí adopto una perspectiva histórica que permite inscribir su emergencia y evolución en un contexto mayor del desarrollo de metodologías cualitativas en sociología, para luego reflexionar sobre sus presupuestos epistemológicos y las críticas de las que fue objeto. Por último, realizo un balance de los aportes de esta metodología a la disciplina.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The aim of this article is to study analytic induction as a scientific research method, that is, as a valid way of making science. In 1934, the philosopher and sociologist Florian Znaniecki, its creator, referred to this methodology as the method that should be adopted by any sociological research. Its relevance lies on the fact that its goal is to find global explanations to social phenomena by using qualitative research techniques. I adopt a historical perspective to inscribe this method’s emergency and evolution in a larger context of the development of qualitative methods in sociology, and then reflect upon its epistemological basis and the criticisms made in relation to it. Finally, I evaluate this method’s contributions to the discipline.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>inducción</kwd>
+            <kwd>analítica</kwd>
+            <kwd>método</kwd>
+            <kwd>cualitativo</kwd>
+            <kwd>sociología</kwd>
+            <kwd>presupuesto</kwd>
+            <kwd>epistemología</kwd>
+            <kwd>crítica</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>analytic</kwd>
+            <kwd>induction</kwd>
+            <kwd>qualitative</kwd>
+            <kwd>method</kwd>
+            <kwd>sociology</kwd>
+            <kwd>epistemology</kwd>
+            <kwd>criticism</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="33" />
+            <page-count count="20" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>Introducción</title>
+         <p>Las técnicas cualitativas de investigación han tenido diferentes momentos de auge en la historia del pensamiento y, más específicamente, dentro de las ciencias sociales modernas. Dos de esos momentos, quizá los más significativos en términos de proliferación de técnicas cualitativas de investigación en sociología, tuvieron lugar en las décadas de 1920 y 1930, y luego durante las décadas de 1950 y 1960. En ambos períodos, estas técnicas fueron adoptadas y desarrolladas por escuelas metodológicas que buscaron diferenciarse de las escuelas positivistas, más adeptas a las técnicas cuantitativas de recolección y análisis de información.</p>
+         <p>Este trabajo se centra en una metodología específica formalizada en el primer período mencionado, y retomada y reformulada durante el segundo. Se trata de la inducción analítica, metodología descrita por Florian Znaniecki como el método que debía ser adoptado en toda investigación sociológica. Ella consiste en la sucesiva postulación de hipótesis de aplicabilidad universal, y su puesta a prueba a través de la búsqueda sistemática de casos que las invaliden.</p>
+         <p>Mi hipótesis principal es que esta propuesta metodológica fue central en el debate entablado entre las metodologías cualitativas -nacientes en el primer período señalado- y las metodologías cuantitativas, en la medida en que pretende conjugar la formulación de explicaciones universales de los fenómenos con el estudio de casos particulares, es decir, sin basarse en el método estadístico.</p>
+         <p>El objetivo es analizar la inducción analítica como método científico de investigación o, en otras palabras, como modo válido de hacer ciencia, desde una perspectiva histórica del devenir científico. Por ello, se inscribe su emergencia en un contexto mayor del desarrollo de metodologías cualitativas en sociología, para luego reflexionar sobre sus presupuestos epistemológicos, que desbordan el campo de las técnicas en tanto formas de estructuración de la información y la construcción de los datos. Por último, se buscará hacer un balance de los aportes de esta metodología a la disciplina.</p>
+         <p>Debe resaltarse que se trata de una discusión prácticamente ausente en la producción académica en habla hispana. Algunas de las preguntas que guían esta exposición son: cuál es el contexto de surgimiento de la inducción analítica, cuál es su lógica de construcción del conocimiento, es decir, en qué consiste el proceso inductivo en este caso en particular, cómo ha sido utilizada en las investigaciones empíricas, en qué se diferencia de las metodologías cualitativas que le fueron contemporáneas, qué críticas se le han hecho o cuál es el estado actual de la inducción analítica.</p>
+      </sec>
+      <sec>
+         <title>Primer período de emergencia de las técnicas cualitativas en sociología</title>
+         <p>Las técnicas cualitativas de recolección y análisis de información han sido desarrolladas por diferentes escuelas y desde perspectivas distintas como el constructivismo, el feminismo y los estudios culturales, y al interior de diversas disciplinas: sociología, antropología, historia, psicología, etc. En sociología, los períodos quizá más significativos en términos de proliferación de técnicas cualitativas de investigación y de esfuerzos por sistematizarlas tuvieron lugar durante las décadas de 1920 y 1930, y luego durante las de 1950 y 1960. Estos períodos coincidieron, respectivamente, con el surgimiento y resurgimiento de la inducción analítica como método de investigación.</p>
+         <p>En este apartado se reconstruirá el primer contexto, correspondiente al surgimiento de la inducción analítica, para luego hacer lo propio con su momento de resurgimiento luego de la Segunda Guerra Mundial. Dado que la ciencia constituye un fenómeno social en sí mismo, esta forma de proceder ayuda a entender el lugar de la inducción analítica dentro de las diferentes formas de estudiar la realidad que las ciencias sociales, y en particular la sociología, fueron construyendo.</p>
+         <p>Durante este primer período, la Escuela de Chicago fue una de las más relevantes para el desarrollo de técnicas cualitativas de investigación, especialmente en sociología. Con este nombre se denomina un conjunto de trabajos producidos en la Universidad de Chicago entre 1915 y 1940 en el ámbito de las ciencias sociales. Fueron en un primer momento Robert Park y Ernest Burgess, provenientes de la sociología urbana, quienes contribuyeron mayormente a que esta forma de investigar se volviera hegemónica en la sociología norteamericana hasta mediados de la década de 1930. Esta escuela desarrolló una serie de técnicas de recolección de información que luego serían típicas de las investigaciones con un enfoque cualitativo. Algunas de ellas son: utilización de documentos personales, trabajo de campo intensivo y sistemático, mapeo social, entrevistas en profundidad, grupos de discusión, historias de vida. Además, introdujeron en la sociología técnicas características de la antropología como la observación participante.</p>
+         <p>Este cambio en las estrategias de recolección de información responde a la postura filosófica de la Escuela de Chicago, claramente expuesta en El campesino polaco en Europa y América. Esta obra de 5 tomos fue publicada entre 1918 y 1921 por Florian Znaniecki y William I. Thomas. Se trata de un estudio sobre los campesinos de origen polaco que migraban masivamente hacia Estados Unidos a principios del siglo XX. Su objetivo era analizar los modos por medio de los cuales los campesinos se alejaban de sus formas tradicionales de organización y de comportamiento social para convertirse poco a poco en trabajadores racionales.</p>
+         <p>Znaniecki estableció su primer contacto con la tradición de Chicago gracias a la investigación que desembocó en esa publicación. Según Juan Ignacio Piovani, se trata de una “obra paradigmática en el campo de los estudios cualitativos y referencia obligada en los debates metodológicos de la época entre ‘estudios de caso’ (cualitativos) y ‘métodos estadísticos’ (cuantitativos)” (2001:249). Por lo demás, en ella se aboga por el pragmatismo norteamericano como base filosófica para comprender el comportamiento de los individuos en sociedad.</p>
+         <p>Como explica Jeffrey Alexander, este pragmatismo responde, en su vertiente más individualista, a los escritos de William James y de John Dewey. Según el primer autor, “el mandato del método pragmatista consiste en verificar todas las creencias conceptuales abstractas comparándolas con la experiencia práctica individual” (Alexander 1990:125). De acuerdo con Dewey, los individuos son moralmente responsables de la elección de sus creencias, y desde la teoría se los entiende además como fuente principal de la que ellas emanan: “Dewey no veía el orden social como una restricción para los individuos sino como algo que los individuos reinician constantemente” (Alexander 1990:125). El nuevo método pragmatista que este autor propone precisa por lo tanto de “indagaciones específicas sobre una multitud de estructuras e interacciones. La solemne reiteración de categorías [...] no solo no favorece estas indagaciones definidas y detalladas, sino que las pone en jaque. Esto detiene el pensamiento, sumergiéndolo en generalidades pomposas y grandilocuentes [...] y dando a los hechos empíricos el lugar de meras ilustraciones” (Dewey 1920:198-199).</p>
+         <p>En el libro de Thomas y Znaniecki se parte de este bagaje filosófico general. Siguiendo la propuesta pragmatista, para los autores “la definición exacta de los términos utilizados desde el punto de vista de la teoría social debe ser establecida durante el proceso de investigación, de manera que cada término sea definido con vistas a su aplicación, y su validez metodológica, probada en su uso efectivo” (Thomas y Znaniecki 1918:23).</p>
+         <p>Estos autores utilizan algunos conceptos específicos aportados por la obra de Dewey. Quizás el más relevante para los estudios cualitativos sea el concepto de situación, según el cual la vida es un flujo permanente que solo puede ser comprendido a partir de situaciones problemáticas. Como explica Alexander: “el cientista social pragmatista debe concentrarse en la situación concreta, particular y contingente de la acción, y no ya en el orden normativo que la sustenta” (1990:125). En efecto, para Thomas y Znaniecki este tipo particular de situaciones permiten cortar ese flujo y estudiar la vida social.</p>
+         <p>En El campesino polaco se incorpora entonces la situación como un concepto elemental de las ciencias sociales, traduciendo su espesura filosófica para convertirlo en un concepto sociológico. Según el Teorema de Thomas, explicitado en el libro The child in America, escrito en coautoría con su esposa: “si los individuos definen una situación como real, esta situación es real en sus consecuencias” (Thomas y Thomas 1928:572).</p>
+         <p>En este nivel teórico la situación está compuesta por valores sociales (concepto que proviene de la idea durkheimiana de la conciencia colectiva), actitudes individuales (es decir, las contrapartes individuales de los valores sociales) y la definición de la situación. Esto último implica que existe un proceso de interacción donde se resuelven situaciones problemáticas que pueden ser interpretadas como nuevas. Es en esta idea sobre la que se basarán el interaccionista Erving Goffman, y más tarde, Hardold Garfinkel, a quien se hará referencia más adelante. Por esta razón, El campesino polaco es considerada la obra precursora del interaccionismo simbólico y, Thomas, el padre de esta corriente metodológica.</p>
+         <p>Una situación problemática constituye un proceso de socialización que puede ser resuelto de la forma habitual, o bien ser percibido por los actores de una manera novedosa. Eso posibilita el análisis de la creatividad social de los individuos en términos sociológicos -y no psicológicos-, dado que las reglas ya no se conciben como un elemento coactivo que pesa sobre los individuos, sino como algo que puede ser modificado por ellos. Esto último es lo que sucede justamente durante las situaciones problemáticas, y por eso es importante estudiarlas.</p>
+         <p>El pragmatismo de Thomas y Znaniecki los llevó a apoyarse más en la actividad humana que en la estructura de valores, y para estudiarla propusieron una serie de herramientas conceptuales para la comprensión de cómo se van modificando las reglas que gobiernan esa actividad. Para esta concepción, las leyes sociales pueden encontrarse en términos de proceso inductivo porque se entiende que surgen de la interacción cotidiana de los seres humanos, de hechos particulares que cobran la forma de norma y luego de ley.</p>
+         <p>Es por estas razones que recurrieron al análisis cualitativo, el único que permite estudiar aquellas situaciones singulares donde las reglas sociales se modifican. Como se dijo, introdujeron en la sociología recursos etnográficos, que facilitan el análisis de las situaciones microsociológicas. Las fuentes utilizadas fueron denominadas por Thomas “materiales concretos”: registros judiciales, periódicos, cartas personales, materiales escolares.</p>
+      </sec>
+      <sec>
+         <title>La inducción analítica. Primera sistematización y estructura lógica</title>
+         <p>La Escuela de Chicago fue también campo de cultivo de formas sistematizadas del análisis cualitativo que tuvieron como propósito generar teoría y nuevos conceptos al interior de cada investigación. Una de ellas, quizá la más temprana en la historia de la investigación cualitativa en sociología, es la inducción analítica, de la que se hablará a continuación. La otra, la teoría fundamentada, vio la luz en el segundo período de auge de la investigación cualitativa; se hará referencia a ella y a su relación con la inducción analítica más adelante.</p>
+         <p>La inducción analítica o inducción por analogía es una metodología de investigación que consiste en la búsqueda de explicaciones universales de los fenómenos sociales a partir del estudio de casos. Si bien puede decirse que este método ya había sido utilizado por autores como John A. Keynes o incluso Adam Smith, la fundación de esta escuela metodológica es atribuida a Florian Znaniecki. Sin embargo, el propio Znaniecki agradece a Thomas por haberle enseñado a trabajar a partir del estudio de casos, que luego utilizaron en la investigación de la que son coautores El campesino polaco: “Thomas fue tal vez el primero en basar por completo la investigación científica en el análisis de casos particulares, utilizando varias y diferentes casos para cada generalización” (Znaniecki 1934:237).</p>
+         <p>Más tarde, en el libro recién citado, The method of sociology, Znaniecki proveería de un fundamento metodológico más sólido a este tipo de investigación. Allí presentó la inducción analítica como el método que permitiría cumplir con el objetivo último de este tipo de investigación: encontrar generalizaciones no solo frecuentemente aplicables, sino de aplicabilidad universal. Desde el punto de vista lógico, este método permitiría llegar a conclusiones del tipo “todos los S son P” o “si p, entonces q” (Znaniecki 1934:232), “en lugar de meras correlaciones para las que siempre hay excepciones” (Robinson 1951:812) no contempladas por la teoría desarrollada. En otras palabras, “consiste en buscar una proposición general que permita dar cuenta de todos los casos particulares que corresponden al fenómeno estudiado” (Becker 2000:154).</p>
+         <p>Ello no quiere decir que la realidad sea tan uniforme que no pueda esperarse ninguna desviación o excepción. A decir verdad, el investigador o investigadora sabe perfectamente que pueden aparecer casos que contradigan sus generalizaciones. Lo importante es que no debe temerles, sino que, por el contrario, son justamente estos casos contradictorios los que estimulan la investigación. A medida que la investigación avanza, irá confirmando que el caso desviado era solo aparente y que se trata de una manifestación más del fenómeno, o que puede ser explicada por medio de una ley subsidiaria vinculada a la generalización formulada previamente. Por último, también puede ocurrir que este caso invalide su generalización y lo fuerce a formular una nueva teoría más eficiente.</p>
+         <p>Un ejemplo temprano de la utilización de este método es la llevada a cabo por Robert C. Angell (The family encounters the depression) a partir de 50 documentos personales sobre los efectos de la caída repentina y duradera de los ingresos en familias estadounidenses. El autor procuró desarrollar clasificaciones partiendo del análisis de un número de casos relativamente pequeño. Para ello se esmeró en buscar evidencias negativas que le permitiesen poner a prueba sus hipótesis. La obra de Angell “ejemplifica el método como un medio de clasificación”, ya que es utilizada como mero modo de “analizar datos ‘subjetivos’ y así construir tipos empíricos” (Bulmer 1979:662). Por lo tanto, terminó siendo una buena demostración de cómo construir clasificaciones mediante la búsqueda de similitudes dentro categorías amplias de fenómenos sociales. Esto conlleva los problemas encontrados por todos los constructores de tipos ideales, como por ejemplo el hecho de que no especifican “ninguna dinámica de transformación de un tipo a otro, lo que suele ser visto como problemático por quienes estudian el cambio social” (Goldenberg 1993:163).</p>
+         <p>Respecto de esa obra, Turner llega inclusive a afirmar que, al tratar un fenómeno complejo como la integración familiar, el autor cae en la utilización de “la técnica de los tipos ideales” más que en la inducción analítica tal como sería desarrollada más tarde. Esto se debe a que la verificación empírica necesaria para llevar a cabo ese método se vuelve inabordable para comportamientos no individuales, puesto que “la inducción analítica estaría mal equipada para semejante tarea” (Turner 1953:609), que implica considerar múltiples causas.</p>
+         <p>En efecto, puede decirse que en esta primera etapa el método consistió en la búsqueda de una proposición general que permitiera dar cuenta de todos los casos particulares correspondientes al fenómeno que se deseaba estudiar. Sin embargo, el mismo año de la publicación del libro de Angell, Alfred Lindesmith entraba al Departamento de Sociología de la Universidad de Indiana, que estuvo dirigido por el sociólogo Edwin Sutherland entre 1935 y 1949. Lindesmith había sido discípulo de Sutherland en la Escuela de Chicago, y compartiría con su maestro y jefe la metodología de la inducción analítica. Como se verá más adelante, será este autor quien dará un nuevo impulso a la inducción analítica como método científico.</p>
+      </sec>
+      <sec>
+         <title>De la inducción como forma de inferencia a la inducción analítica propiamente dicha</title>
+         <p>La inducción es un procedimiento que no se restringe a lo que puede llamarse su forma sistematizada (la inducción analítica), ni tampoco a las investigaciones cualitativas en general. La inducción es, en primer lugar, una forma de la inferencia contraria a la deducción. Si esta última infiere un hecho particular a partir de un principio general, la primera infiere un principio general a partir de la acumulación de hechos particulares. Se trata en todo caso de lo que pretende cualquier investigador o investigadora que realice trabajo de campo, cualquiera sea el tipo de datos que contruya.</p>
+         <p>Existe además una forma de inducción, la adbucción, que permite generar hipótesis de trabajo a partir de hechos particulares. Como explica Bar: “En la inducción se infiere que, si los enunciados que describen lo observado en el caso es verdadero, entonces, la misma cosa es verdad en la clase entera; o bien, si se observa algo en cierta proporción, es de esperar que esa proporción de casos también esté presente en el universo. En la hipótesis, por el contrario, se supone que el caso inferido corresponde a una cierta regla y, en consecuencia, adoptamos esa suposición. Si bien la abducción se presenta como un argumento débil que inclina nuestro juicio hacia una cierta conclusión, no es menos cierto que, desde una perspectiva heurística, opera como un esquema propicio para dar cuenta de situaciones o hechos insuficientemente explicados” (Bar 2001:3). Aunque no fue explicitado por Znaniecki, este mecanismo abductivo -proveniente del pensamiento pragmatista de Charles S. Pierce- se muestra fundamental en el método de la inducción analítica.</p>
+         <p>La inducción analítica consiste entonces en una sistematización de procedimientos muy recurrentes en ciencias sociales. Como sostiene Becker, las investigaciones en las que el trabajo de campo es central utilizan un procedimiento inductivo en la medida en que ponen a prueba generalizaciones con el objetivo de construir una imagen de conjunto de determinado fenómeno. Este hecho, junto con el esfuerzo por no hacer caso omiso a los contraejemplos que surjan del propio trabajo de campo e intentar incorporarlos a los planteos teóricos, acerca a este tipo de investigaciones al método de la inducción analítica propiamente dicho. Sin embargo, en su forma clásica, este método exige focalizar la puesta a prueba de una “única generalización” (Becker 2000:157) sobre un fenómeno claramente definido. La diferencia radica entonces en que la inducción analítica es una aplicación sistemática de algo que se encuentra de manera algo “menos obsesiva” (Becker 2000:154) en las investigaciones con un importante trabajo de campo.</p>
+         <p>El propio Znaniecki discutía de manera explícita con aquellas versiones anteriores de este método, a las que llama “inducción pura o enumerativa”, y que corresponde en gran medida a esta aplicación no sistemática de la inducción. Si bien ambos tipos de inducción buscan lograr certezas generales y abstractas a partir de hechos particulares concretos, la diferencia radicaría en la forma de proceder. En la inducción enumerativa, en primer lugar, “se define determinada clase lógica, y el problema es buscar las características que son comunes y distintivas de los objetos particulares que pertenecen a esta clase, que no estaban incluidos en la definición” (Znaniecki 1934:249). Es decir, que abstrae por medio de la generalización: busca características similares en muchos casos y los abstrae conceptualmente por su generalidad, bajo el supuesto de que son esenciales a cada caso. Por el contrario, en la inducción analítica el procedimiento es en gran medida inverso al de la inducción enumerativa. Primero “se determinan objetos particulares por medio de un estudio intensivo, y el problema es definir las clases lógicas que representan” (Znaniecki 1934:249). En otras palabras, se generaliza a través de la abstracción: se abstraen características esenciales de cada caso concreto y se las generaliza bajo el supuesto de que, al ser esenciales, deben ser comunes a muchos casos.</p>
+         <p>Esta distinción fue criticada por W. S. Robinson como meramente cuantitativa. Según el autor, en la inducción analítica se trata de lograr una frecuencia mayor de casos similares, mientras que en la enumerativa se conforma con un número reducido de los primeros. El hecho de lograr explicaciones “completas” dependería entonces más de la sistematización del procedimiento de postular sucesivamente hipótesis de trabajo que de su estructura lógica. Así, la diferencia reposaría en “cuán lejos se lleva el estudio antes de publicar los resultados” (Robinson 1951:816).</p>
+         <p>Sin embargo, esto es discutido por Lindesmith en su estudio sobre los opiáceos. Allí sostiene que la inducción enumerativa o pura es un tipo de análisis en el que “la confiabilidad de las inferencias depende únicamente de la cantidad de casos examinados”, mientras que la inducción analítica “hace referencia a un modo diferente, en el que la validez de las conclusiones no depende meramente del número de casos analizados, sino de su variedad, de cuánto se conoce cada uno, y de las circunstancias presentes en cada uno” (Lindesmith 1968:10).</p>
+         <p>Además, como explica Turner, desde esta perspectiva las generalizaciones teóricas son producto de la identificación de las causas esenciales de cierto fenómeno, es decir, aquellas que pueden “deducirse de la definición de este fenómeno” (Turner 1953:609). Ello responde a que tales generalizaciones refieren a categorías de fenómenos causalmente homogéneos y que la delimitación de cada fenómeno surge del examen de sus causas esenciales.</p>
+         <p>La operación que realiza el investigador o investigadora consiste en “un juego entre la postulación de causas tentativas y de definiciones tentativas del fenómeno a estudiar, donde una modifica a la otra”. En la medida en que “se establezca una relación integral y completa entre ambas”, la teoría se acercará a su formulación final. “Cuando las generalizaciones se vuelven autoevidentes a partir de la definición del fenómeno que se busca explicar, se habrá cumplido la tarea” (Turner 1953:609).</p>
+         <p>Se asume entonces que las características esenciales de cada caso particular y concreto considerado típico son comunes y distintivas de una clase de hechos. Esto siempre que el analisis de la información, que se realiza antes que cualquier clasificación o formulación general, esté “bien hecho”, es decir, que no quede “nada de importancia por aprender acerca de la clase representada por esos datos en ninguna investigación subsiguiente de más datos sobre la misma clase” (Znaniecki 1934:249). Znaniecki da el ejemplo del zoológo que describe una nueva especie o el físico que formula una nueva ley luego de estudios y experimentos prolongados, respectivamente ninguno de ellos “suele esperar que se derive ningún conocimiento significativo sobre su problema a partir del análisis de otros especímenes o experimentos” (1934:249).</p>
+         <p>Sobre este punto, Robinson afirma que este método no asegura que no aparezca “excepciones en el futuro” y que, si bien no puede exigírsele tal cosa a ningún método científico, “adoptar un punto de vista probabilístico podría mejorar la ya valiosa contribución de la inducción analítica”, ya que permitiría “establecer los límites de confianza para la proporción de excepciones que podrían ocurrir en el futuro” (Robinson 1951:818). Lindesmith defiende el método al decir que, “si la validez de una teoría es definida en términos de la evidencia empírica que podría demostrar su falsedad, pero no lo hace, esta teoría es inverificable, ya que las excepciones que la niegan son aceptadas por adelantado” (Lindesmith 1968:8). Por lo demás, su obra sobre la adicción a los opiáceos fue inclusive elogiada por el propio Robinson por haber integrado implícitamente “la inducción analítica y la perspectiva probabilística de la ciencia moderna” (Robinson 1951:817).</p>
+         <p>En síntesis, la inducción analítica no pretende negar la posibilidad de que aparezcan excepciones futuras, sino evitar la posibilidad de mantener una teoría sobre la que existen excepciones. En esto radica justamente, a mi entender, su mayor fortaleza, ya que el procedimiento propuesto avanza gracias a la búsqueda de tales casos negativos. De ser encontrados una vez establecidas las leyes que gobiernan el fenómeno, esto lleva a revisar las hipótesis sobre las que se basa la teoría formulada.</p>
+      </sec>
+      <sec>
+         <title>La inducción analítica en el debate epistemológico e institucional</title>
+         <p>Aquí surge la pregunta: si la inducción como forma de inferencia ya existía en ciencias sociales, ¿por qué el ahínco en defenderla?, ¿por qué intentar sistematizarla? Ello nos lleva nuevamente a la historia del pensamiento sociológico. Como se dijo en la introducción, esta propuesta metodologica se presentó como un arma fundamental en una batalla epistemológica e institucional entre los representantes del método estadístico y de las metodologías cualitativas. Surge de la adscripción a una postura filosófica pragmatista que busca la relación entre la teoría y el mundo empírico, contingente y cambiante, y que por lo tanto “rechaza las verdades abstractas y totalizadoras a favor de las observaciones cotidianas, locales y enraizadas” (Plummer 2006:17).</p>
+         <p>Lundberg explica que ya la obra de Thomas y Znaniecki El campesino polaco de 1918-1921, significó un hito en “la controversia sobre los méritos relativos de los ‘estudios de caso’ frente al método estadístico” (Lundberg 1960:19), imperante en la época en la que se publicó. Se puede pensar por lo tanto que esa obra pertrechó a la Escuela de Chicago, enfrentada por sus propuestas epistemológicas a las Universidades de Columbia y Harvard, en su esfuerzo por demostrar que los estudios cualitativos también eran una forma válida de hacer ciencia.</p>
+         <p>Sin embargo, a partir de la década de 1930 se fue gestando en el seno de la Universidad de Chicago una corriente cuantitativa que, luego de la Segunda Guerra Mundial, se volvió hegemónica. Bajo un claro influjo positivista y privilegiando el enfoque cuantitativo, en 1935 se funda en Estados Unidos la American Sociological Review, donde, por lo demás, más tarde se publicó la principal crítica realizada a la inducción analítica: el texto de Robinson ya citado. Desde entonces, esa revista entabló un debate metodológico con la American Journal of Sociology, donde solían publicarse las investigaciones con enfoque cualitativo de la Escuela de Chicago.</p>
+         <p>La publicación, en 1934, del libro The Method of Sociology se realizó en un contexto en el que la hegemonía cuantitativista se hacía más fuerte. En él, Znaniecki acusaba al método estadístico de “eliminar el pensamiento teórico del proceso de investigación científica” y de reducir a su mínima expresión “toda la actividad intelectual que implica analizar materiales y sacar conclusiones teóricas” (Znaniecki 1934:234) en favor del perfeccionamiento técnico de la estadística. En particular, críticaba a los investigadores cuantitativos por el carácter de las hipótesis que formulan, puesto que “en vistas de las inevitables limitaciones de su método, no son más que generalizaciones superficiales de la reflexión práctica del sentido común” (Znaniecki 1934:235), que luego son puestas a prueba por medio de la técnica estadística.</p>
+         <p>En ese libro se ve cómo, una vez introducidas las técnicas propias de los estudios cualitativos en sociología, Znaniecki no se resigna, sin embargo, a la pretensión de lograr explicaciones globales de los fenómenos, así como tampoco abandona la idea de emular el método de las ciencias naturales. Allí afirma que “lo principal y esencialmente más valioso de la realidad social, [supone] aceptar tanto los valores como las actividades humanas como hechos, exactamente como los propios agentes los aceptan, pero estudiarlos objetivamente y con la aplicación de los mismos principios formales que los físicos o los biólogos aplican a su materia natural” (Znaniecki 1934:viii).</p>
+         <p>Paralelamente, si en El campesino polaco se planteaban las bases de una microsociología, desde 1934 Znaniecki fue virando hacia la búsqueda de explicaciones globales semejantes a leyes sociales. En un contexto de decadencia de la Escuela de Chicago, quizás esto haya sido una respuesta al sostenido ataque al que se vio sometida la metodología de los estudios de caso en particular, y las investigaciones cualitativas en general, como forma válida de hacer ciencia.</p>
+         <p>Znaniecki siempre insistió: explicaciones globales, no así totalizantes. La sociología era, a su entender, una ciencia “analítica y que puede generalizar” (Znaniecki 1934:209), pero siempre a partir de procedimientos inductivos. Esa es una de sus críticas más fuertes a las posturas que resurgían según las cuales las leyes y los modelos ideados en el pensamiento pretendían explicar todos los casos. Estas explicaciones debían lograrse a partir del contacto con el registro empírico, y serían globales en tanto y en cuanto contribuyeran a la definición de un fenómeno particular y lo explicaran de manera exhaustiva, sin por ello pretender explicar todo el resto de los fenómenos similares, pero no idénticos. La deducción se vuelve de este modo un elemento subordinado a la inducción, que es “el método dominante y determinante de la sociología” (Znaniecki 1934:218).</p>
+         <p>No obstante, por un lado, fue la postura cuantitativista la que impuso su voz, encarnada en la figura de William Ogburn, presidente desde 1931 de la American Statistical Association, y quien comenzó a dirigir el Departamento de Sociología de Chicago. Por el otro lado, debe tenerse en cuenta lo significativa que resultó la publicación, en 1937, de La Estructura de la Acción Social de Talcott Parsons. Esta obra se constituyó en el primer tratado de una nueva escuela que se alejaba progresivamente de la sociología pragmatista de la Escuela de Chicago. Parsons formaba parte de un grupo de sociólogos que habían estudiado en las universidades de Harvard y Columbia, y que fundaron la American Sociological Review, mencionada más arriba. Según Alexander, uno de los mayores aportes de Parsons fue la intención que infundió a la sociología de generar una teoría “multidimensional y sintética” (1990:184). Ello sería un punto de inflexión en la historia del pensamiento.</p>
+         <p>Ambas resultaron ser tendencias mundiales vinculadas con las transformaciones impuestas por la Segunda Guerra Mundial, que terminó de consolidar el poderío de los Estados Unidos. Incluso en este país, “el paso de la forma competitiva a la forma oligopolista de la economía inducía un desplazamiento de los problemas sociales centrales [...] este desplazamiento engendró en el seno de la sociología norteamericana el surgimiento paralelo del método de encuestas (survey research) y del estructural funcionalismo parsoniano, que establecieron así su hegemonía sobre la sociología empírica y la teoría general, respectivamente, reduciendo todas las otras formas de observación y de teorización a una existencia marginal, precaria, o a la extinción” (Bertaux 1999:2).</p>
+         <p>Durante el período de posguerra, el funcionalismo dominó el campo disciplinar bajo el paraguas institucional de los departamentos de sociología de las Universidades de Harvard y Columbia, desplazando a la Escuela de Chicago en su intento por hacer una sociología más empírica, pragmática y que introdujera el componente individual en los planteos sobre la sociedad. En cuanto a Znaniecki, si bien la propuesta de El campesino polaco surgió en el seno de la Escuela de Chicago, cinco años después de la publicación de The Method of Sociology volvió a Estados Unidos huyendo de la guera, invitado por la Universidad de Columbia. Terminó su carrera en la Universidad de Illinois, volcándose hacia el desarrollo de una teoría general sobre la estructura social. Esa fue la tercera y última de sus estancias en Estados Unidos, donde terminó sus días.</p>
+         <p>Por su parte, pese a las vicisitudes que atravesaba la Escuela de Chicago, Sutherland nunca dejó de defender el método de Znaniecki para estudiar el delito. Este autor privilegiaba la inducción como forma de distanciarse de la perspectiva cuantitativista del matrimonio Glueck, que en esos años hegemonizaba en ese ámbito del conocimiento. Sheldon Glueck, profesor de la Universidad de Harvard, y su esposa Eleanor, presentaban la estadística inferencial como la mejor manera de predecir la posibilidad de que los jóvenes cometieran delitos. Se trataba de investigaciones longitudinales meticulosas que recurrían a la economía, la biología, el derecho y el estudio del comportamiento.</p>
+         <p>En su debate público y epistolar con los Glueck, Sutherland sostenía que “no hay ningún procedimiento estadístico por medio del cual una asociación estadísticamente significativa pueda ser traducida como una causa” (Sutherland 1937:12). Fue poco después, en The Principles of Criminology de 1939, donde afirmó que la inducción analítica era más adecuada para explicar el comportamiento delictivo a través de generalizaciones universales. Desde entonces, en su búsqueda de una metodología alternativa a la inferencia estadística, Sutherland utilizó esa metodología en sus obras más relevantes sobre el delito. Ello le permitió también demarcar el campo de estudios sobre el tema dentro del espacio disciplinar de la sociología y desplazar a otras disciplinas como la psiquiatría y la psicología.</p>
+         <p>Una vez terminada la Segunda Guerra Mundial, Sutherland publicó, junto a su discípulo Cressey, la cuarta edición de The Principles of Criminology. Allí se presenta la formulación final de la teoría de la asociación diferencial. Según Laub y Sampson, esta teoría fue posible gracias a que, a través de la inducción analítica, Sutherland logró organizar hechos diversos bajo esta “única abstracción teórica” (Laub y Sampson 1991:1495). La teoría de la asociación diferencial pretende explicar por qué los individuos comienzan a delinquir por medio de nueve proposiciones fundamentales, regidas por la idea de que todo comportamiento delictivo es producto de un aprendizaje.</p>
+         <p>En la época de esa publicación, el rechazo al análisis estadístico de Sutherland se volvió más furibundo: “toda explicación científica consiste en la descripción de las condiciones que están siempre presentes cuando ocurre un fenómeno, y que nunca lo están cuando el fenómeno no ocurre” (Sutherland y Cressey 1947:3, cursivas añadidas). Vuelve a recomendar, por lo tanto, remplazar la teoría del análisis factorial múltiple, que insiste en que los fenómenos sociales -en este caso el delito- son “producto de una gran cantidad y variedad de factores”, y propone “reducir esa serie de factores a la simplicidad a través del método de la abstracción” (Sutherland y Cressey 1947:66), tal como permite la inducción analítica. “Solo puede alcanzarse una explicación adecuada del comportamiento criminal si se establecen los mecanismos abstractos y los procesos comunes” (Sutherland y Cressey 1947:3) a todo tipo de criminales. Años más tarde, este llamado haría eco en otros autores.</p>
+      </sec>
+      <sec>
+         <title>Segundo período de auge de las técnicas cualitativas</title>
+         <p>
+            A partir de la década de 1950, y en particular durante la de 1960, resurgió el paradigma interpretativo y hubo un retorno a la utilización de las técnicas cualitativas. Según
+            <xref ref-type="bibr" rid="B5">Bertaux (1999</xref>
+            :3), fue el impacto ideológico de los levantamientos sociales de esos años lo que puso en tela de juicio el “monopolio de la cientificidad” que el funcionalismo, en Estados Unidos, y el estructuralismo, en Francia, se habían atribuido. Entre las teorías que, aunque con raíces clásicas, aparecieron como nuevas y vinieron a cuestionar la hegemonía parsoniana en Estados Unidos, se pueden mencionar las del intercambio, las del conflicto y el interaccionismo simbólico.
+         </p>
+         <p>Esta última corriente teórica surgió en la década de 1940, contemporáneamente a la teoría funcionalista de Parsons. El término de interaccionismo simbólico fue acuñado por Blumer, alumno de los “años dorados” de la Escuela de Chicago, que trascurrieron entre 1918 y la Segunda Guerra Mundial. Sin embargo, solo adquirió peso como postura teórica en la década de 1960, cuando los teóricos más jóvenes tomaron la idea de Blumer de desarrollar ese enfoque en diversos subcampos empíricos. Ella resulta particularmente interesante por la raíz filosófica común con la inducción analítica y por lo novedoso de la propuesta metodológica a la que dio origen: la etnometodología, representada por Harold Garfinkel, de la que se hablará en el apartado siguiente.</p>
+         <p>Respecto de lo primero, ya se ha mencionado el libro de Thomas y Znaniecki como predecesor del interaccionismo. Si bien allí no se habla de interaccionismo en esos términos, se introduce la necesidad de que las acciones humanas, para ser consideradas sociales, estén dirigidas a alguien, ya sea un individuo o un colectivo, lo que implica entender la acción siempre como interacción. Sin embargo, la vertiente pragmatista del interaccionismo simbólico se apoyó más en un segundo desarrollo llevado a cabo por Herbert Mead, propuesta menos individualista que la de Dewey y más cercana a la de Charles Pierce. De acuerdo con Alexander, Mead procuraba infundir una orientación más colectivista y darle una dirección explícitamente sociológica a la sociología pragmatista. Es en esta filosofía social, aunque con modificaciones, en la que se apoya Blumer para dar cuerpo al interaccionismo simbólico.</p>
+         <p>Como en la inducción analítica, aquí la relación entre herramientas metodológicas, teoría y postura filosófica se evidencia como fundamental. El interaccionismo, por su legado pragmatista, considera que la diferencia entre el ser humano y el resto de los animales es su capacidad de elaborar símbolos que le posibilitan la producción de historias, relatos y culturas. De este modo, según esta perspectiva, los significados nunca son fijos ni inmutables, sino siempre emergentes, cambiantes, y por lo tanto las herramientas tradicionales de investigación, especialmente los cuestionarios, no son las más indicadas para estudiar el mundo empírico vivido.</p>
+      </sec>
+      <sec>
+         <title>La etnometodología de Harold Garfinkel</title>
+         <p>La etnometodología, una de las corrientes más importantes en investigación cualitativa nacidas durante la década de 1960, partió de los principios del interaccionismo mencionados en el apartado anterior. Fue fundada por Harold Garfinkel en oposición a la hegemonía parsoniana y al positivismo. Su objeto de estudio: “los mundos cotidianos de actores sociales locales” (Ferguson 2007:244) y sus prácticas, el “sentido común” y el “razonamiento sociológico práctico” (Sharrock 2007:249). Esta corriente es deudora del interaccionismo simbólico en el sentido de que “presupone la misma postura normativa e individualista” (Alexander 1990:147) de Blumer, aunque luego lo resuelve de un modo diferente. Discípulo de Alfred Schütz, pero también de Parsons, Garfinkel comprende gracias al segundo que las reglas existen y son “culturalmente” internalizadas por los individuos, y gracias al primero, que esas reglas deben ser elaboradas.</p>
+         <p>Esto último responde al planteo fenomenológico de Schütz (a su vez deudor de Edmund Husserl), de que estas normas y reglas funcionan únicamente si operan en conjunción con la “conciencia” individual. Esta conciencia -en el sentido fenomenológico- constituye las reglas porque cree en su existencia y que ellas controlan la conducta propia y de los otros; se trata de una “profecía autocumplida” (Garfinkel 2006:66). Desde este punto de vista, la etnometodología constituye un paso adelante en la “secularización de la fenomenología” (Ferguson 2007:244).</p>
+         <p>
+            La etnometodología, al igual que la inducción analítica, rechaza la formulación de “modelos estandarizados desde afuera” (<xref ref-type="bibr" rid="B7">Correa et al. 2013</xref>:7) de determinado contexto o situación concreta, así como cualquier teorización apriorística que sobre lo cotidiano suelen hacer las representaciones teóricas. Por ello, aboga por una microsociología que conozca el modo en que se produce y reproduce lo social a través del análisis de las actividades cotidianas “desde ‘dentro’ del escenario concreto”; busca “descubrir las propiedades formales de las acciones prácticas ordinarias y de sentido común” (Garfinkel 2006:2).
+         </p>
+         <p>Pretende lograrlo a través del estudio de la reflexividad de los individuos, es decir, del análisis de las explicaciones que ellos mismos se dan de sus propias interacciones. Esto se hace visible cuando algo en su mundo cotidiano, es decir, algo en el “orden legítimo de creencias sobre la vida en sociedad” que cada sociedad tiene de sí misma se altera, cuando los considerados “naturales de la vida en sociedad” (Garfinkel 2006:57) se desorganizan. En otras palabras, esta reflexividad se produce cuando se pierden las expectativas de trasfondo que ordenan las interacciones en esa sociedad. “El ambiente real de sentido de pérdida del trasfondo conocido-en común debe convertirse en algo ‘específicamente sin sentido’ […] Correspondientemente, las estructuras de interacción deben ser desorganizadas” (Garfinkel 2006:68).</p>
+         <p>Para conseguir ese estado de desorganización, Garfinkel realizaba experimentos de ruptura donde se generaban situaciones en las que los procedimientos normales de la interacción social, compartidos por los miembros de una misma colectividad, eran dislocados. En esas situaciones, los individuos “producen reflexiones a través de las cuales se puede detectar el carácter extraño de un mundo obstinadamente familiar” (Garfinkel 2006:50), generando así la reflexividad necesaria para un estudio microsociológico.</p>
+         <p>Una de las diferencias que puede establecerse entre esta propuesta y la de Thomas y Znaniecki radica en que la primera se ocupa de estudiar cómo funcionan las normas, pero no cómo se generan. Además, la etnometodología no busca explicaciones universales, sino que continuó la deriva microsociológica más propia de El campesino polaco que The method of sociology. Es decir que “no aspira a la formación de teoría” (Sharrock 2007:251), ya que “al tratar el ‘razonamiento sociológico’ como un aspecto ubicuo de la vida cotidiana, Garfinkel no buscaba elevar la sociología al estatus de ciencia universal, sino socavar los intentos de establecer una línea demarcatoria entre el análisis sociológico y las formas ordinarias del razonamiento práctico mediante una demostración de sus bases completamente ‘ordinarias’” (Greiffenhagen et.al. 2015:463).</p>
+      </sec>
+      <sec>
+         <title>La teoría fundamentada</title>
+         <p>La teoría fundamentada, tal como fue desarrollada por Barney Glaser y Anselm Strauss en The discovery of grounded theory en 1967 es, a mi entender, el único procedimiento comparable a la inducción analítica en términos del lugar que pretende ocupar en el campo metodológico. Por un lado, porque “se apoya teóricamente en el interaccionismo simbólico y en la sociología cualitativa” inaugurada por Escuela de Chicago, si bien también presenta la “influencia metodológica cuantitativa de Lazarsfeld y la propuesta de teorías de Merton” (Lúquez de Camacho y Fernández de Celayarán 2016:104).</p>
+         <p>Por otro lado -y quizá más importante-, ambas propuestas metodológicas son formas de análisis cualitativo que buscan generar teoría a partir de un proceso inductivo. En la teoría fundamentada, la teoría surge de los datos en la medida en que es el propio desarrollo del trabajo de campo el que abre las puertas a la conceptualización. Ella permite analizar un amplio espectro de material cualitativo: “observaciones, entrevistas, documentos, artículos, libros, entre otros” (San Martín Cantero 2014:110), que se organiza de manera que los sucesos observados sean incluidos en categorías mediante la utilización de códigos.</p>
+         <p>Análogamente a los indicadores de los estudios cuantitativos, estos códigos permiten identificar, al interior del material producido, categorías comunes y sus propiedades, pero también porciones de material que precisan de la construcción de nuevas categorías para ser incluidas en el análisis. Tanto las categorías iniciales como las que emergen del análisis son construidas por el investigador o la investigadora, y es la articulación entre estas categorías la que da lugar a la formulación de hipótesis (y sobre la base de estas, a la construcción de teoría).</p>
+         <p>Cuando las categorías emergen de los datos se sigue un procedimiento de tipo inductivo. Es decir que no se pretende necesariamente verificar hipótesis previas, sino generar, a partir del análisis de la información, hipótesis que surjan del análisis del material. Como explican Jones et al.: “el proceso de codificación consiste en preguntarse sobre los datos, y estas preguntas ayudan a desarrollar líneas de especulación y formular hipótesis” (2004:8).</p>
+         <p>Es el desarrollo teórico que se realice al interior de cada investigación el que determinará la búsqueda de nuevos casos a través de lo que se conoce como muestreo teórico. Estos casos pueden confirmar hipótesis inicialmente construidas o, por el contrario, entrar en conflicto con ellas, pero lo importante aquí es que, si bien pueden aparecer casos contradictorios (y aun cuando esto sea deseable), no se los busca de manera sistemática como en la inducción analítica. Además, la selección de casos estará guiada por su relevancia teórica, es decir, por su capacidad para hacer emerger nuevas categorías de análisis y nuevas relaciones entre estas categorías (nuevas hipótesis) y entre las propiedades de cada una de ellas. Nuevamente, la búsqueda de nuevos casos a analizar no está regida, en este caso, por la necesidad de encontrar casos negativos, si bien se espera abarcar la mayor diversidad de casos posibles.</p>
+         <p>Esto último está relacionado con el criterio de saturación teórica, es decir, el momento en el que el analista detiene la inclusión de casos nuevos. Como explicitan Glaser y Strauss: “Saturación significa que no se está hallando ninguna información adicional a través de la cual el sociólogo pueda desarrollar propiedades de la categoría”, por lo que, para conseguir saturar cada categoría contruida, debe intentar “llevar la búsqueda de grupos que amplíen al máximo la diversidad de los datos para asegurarse de que la saturación está basada en el mayor abanico posible de datos de esa categoría” (Glaser y Strauss 2006:61).</p>
+         <p>Para terminar, la teoría generada desde este enfoque comienza por referirse a una clase específica de unidades de análisis, a un área empírica delimitada. Se la denomina, por lo tanto, teoría sustantiva y no se alejaría, en cuanto a su alcance, de lo que las explicaciones de la inducción analítica pretenden abarcar. Sin embargo, no comparte con esta última la pretensión de una universalidad que no acepta excepciones. Lo más cercano a ello que la teoría fundamentada propone es la posibilidad de derivar de este nivel de teoría otras menos específicas en cuanto al objeto empírico, pero que se vuelven más comparables a nivel conceptual. En ese caso, se habrá postulado una teoría formal aplicable a una clase más amplia de problemas de investigación, pero no una explicación cabal de cada fenómeno puntual del que se deriva dicha teoría más general, como sí pretende la inducción analítica.</p>
+      </sec>
+      <sec>
+         <title>Algunas aplicaciones de la inducción analítica como forma de análisis de información en esta segunda etapa</title>
+         <p>Volvamos al tema de este trabajo para reubicar la inducción analítica en este segundo contexto. Durante las décadas de 1950 y 1960 esta metodología fue objeto de un refinamiento mayor en su aplicación y en su capacidad de generar teoría, y fue utilizada en combinación con otras técnicas de observación y recolección de información. Para dar un ejemplo, como resalta Norman Denzin, la inducción analítica es una forma privilegiada de análisis de la historia de vida, a tal punto que la última sería la “forma paradigmática” de la primera. Ello se debe a que “el investigador asume que el caso o los casos que ha analizado en profundidad ofrecen un retrato del universo a partir del cual han sido seleccionados” (Denzin 1978:233).</p>
+         <p>El estudio de Lindesmith sobre la adicción a los opiáceos, Opiate addiction, publicado por primera vez en 1947, es una de las investigaciones más emblemáticas que utilizaron la combinación de historia de vida e inducción analítica. Además, esta obra se considera la expresión más sistemática y rigurosa del método de la inducción analítica y le dio nuevo impulso como forma de hacer ciencia. Fue publicado el mismo año que la cuarta edición de The principles of criminology, de su maestro Sutherland. En Opiate addiction se producen hipótesis explicativas a partir de 70 entrevistas en profundidad. Se busca descubrir proposiciones universales utilizando la historia de vida como técnica de registro y la inducción analítica como modelo de inferencia. Este libro resulta una perfecta ilustración del método de la inducción analítica en cuanto procedimiento de investigación, ya que el autor describe cómo fue revisando una a una sus hipótesis en función de los casos negativos.</p>
+         <p>Lindesmith consideró que los casos nuevos podían invalidar una hipótesis previa, es decir, que eran potencialmente negativos. El hecho de encontrar estos casos negativos que contradecían sus hipótesis iniciales lo llevó a plantear nuevas hipótesis sobre la adicción hasta que esos casos dejaron de aparecer. El procedimiento utilizado se acerca, por lo tanto, al criterio de saturación teórica de la muestra de la teoría fundamentada. Concretamente, si en un principio sostenía que la adicción estaba asociada al conocimiento de la droga consumida y a un consumo prolongado durante un tiempo suficiente como para producir síntomas de abstinencia, en su formulación teórica final terminó por distinguir dos tipos de adicciones: una verdadera, y otra, no comprendida en la primera formulación, que denominó habituación, y en la que no estaba presente el síndrome de abstinencia. Este es un gran ejemplo de la interacción entre el trabajo de campo y la teoría que logra la inducción analítica.</p>
+         <p>Tres años después de la publicación de Opiate addiction de Lindesmith apareció un trabajo de Cressey sobre los desfalcadores o abusadores de confianza, titulado Criminal violation of financial trust. Allí también se utiliza la inducción analítica como procedimiento que dirige la investigación y se lo sistematiza aún más en cuanto tal. Esta sistematización resulta muy similar a la que Denzin presentaría en uno de los textos consagrados sobre la inducción analítica, extraída en gran parte de la síntesis de Sutherland. Según Cressey, el procedimiento comienza con la formulación de una primera definición del fenómeno a explicar. Luego se pasa al planteo de una explicación hipotética. A la luz de esta hipótesis se realiza el estudio de un caso, con el objetivo de determinar si ella se adecua a los hechos en este caso particular. Si esto ocurre así, si los hechos se adecuan a la hipótesis, si no se presentan casos negativos, el investigador o la investigadora irá incorporando uno a uno los casos positivos, confirmando así de manera progresiva su hipótesis. De lo contrario, las opciones son las siguientes: se reformula la hipótesis para que incluya los casos encontrados, o se redefine el fenómeno a explicar de manera de que excluya los casos que desafían la explicación proporcionada por la hipótesis. Entonces, cada vez que se encuentren casos negativos que refuten la explicación propuesta, se deberá proceder a una reformulación.</p>
+         <p>Para esto, Lindesmith plantea la necesidad de hacer hincapié en los llamados “casos cruciales”, que son los que ponen mayores obstáculos a la comprobación de la hipótesis. En la investigación sobre la adicción a los opiáceos se trató de aquellos entrevistados que, en particular debido al alto nivel de autoreflexión sobre la propia conducta y a su discurso articulado, “llevaron a sucesivas revisiones de las ideas que guiaban el estudio, y ampliaron las percepciones sobre las implicaciones lógicas y las ramificaciones de esas ideas (Lindesmith 1968:7).</p>
+         <p>En 1958, Lemert publicó un estudio que lleva más lejos la propuesta metodológica de Lindesmith. En ese trabajo, el autor logra invalidar las formulaciones sobre la existencia de un comportamiento sistemático compartido por los ladrones profesionales postuladas por Sutherland, mostrando la existencia de un comportamiento distintivo de una categoría particular de ladrón: el falsificador de cheques. En efecto, lo que realiza Lemert es un ejemplo muy acabado del procedimiento propuesto por la inducción analítica. Aplica la teoría del delincuente profesional de Sutherland a su caso de estudio y descubre en él un caso negativo que conduce a la revisión de la teoría original de la que surgió la hipótesis, ahora descartada, sobre la existencia de un tipo de comportamiento común a todos los ladrones profesionales. Es decir que utilizó la metodología de Sutherland para discutir la teoría de Sutherland.</p>
+         <p>Otro estudio similar al de Lindesmith es el realizado por Becker sobre la génesis del uso de la marihuana por placer a partir de 50 entrevistas a consumidores de esa droga. Allí se opta explícitamente por la inducción analítica, por medio de la cual el autor intenta llegar a un enunciado general sobre la secuencia de cambios en las actitudes y las experiencias individuales que ocurren cada vez que el individuo puede y quiere usar marihuana por placer, y que no se presenta o al menos no se mantiene en el tiempo cuando el individuo no desea consumirla con ese fin. A diferencia de la formulación original de Znaniecki, donde se debe comenzar con una muestra diversa dentro de la cual se utilice la comparación interna, Becker comienza por un grupo homogéneo. En ese trabajo nuevamente se afirma que “este método requiere que cada caso contenido en la investigación corrobore la hipótesis. Si se encuentra un caso que no lo hace, el investigador debe cambiar la hipótesis para que encaje con el caso que probó que su idea original estaba equivocada” (Becker 1963:45).</p>
+      </sec>
+      <sec>
+         <title>Conclusión</title>
+         <p>La inducción analítica es un método que, en su aplicación en investigaciones concretas, cobró diversas formas. Desde la etapa de la selección de la primera muestra de casos, estas divergencias son marcadas. Sin embargo, el objetivo último de este método siempre consiste en lograr explicaciones universales. Ello significa que se busca desarrollar una teoría general que indique cuáles son los aspectos básicos y esenciales del fenómeno estudiado, es decir, aquellos aspectos invariablemente presentes en todas las manifestaciones del fenómeno.</p>
+         <p>En este artículo se recurrió a la historia del pensamiento para comprender el lugar de la inducción analítica en el desarrollo de las perspectivas metodológicas actuales. En el contexto del enfrentamiento entre el método estadístico, hegemónico durante la primera mitad del siglo XX, y las metodologías cualitativas emergentes, la inducción analítica procuró congeniar la formulación de generalizaciones universales con el estudio de casos, el análisis de documentos y otras técnicas cualitativas que permitiesen estudiar la acción social desde una perspectiva pragmática.</p>
+         <p>Al igual que la teoría fundamentada, consiste en un procedimiento analítico específico creado “con el propósito de generar conceptos y teoría a partir del material procedente del estudio de casos” (Valles 1999:343). Ello establece una diferencia fundamental respecto de las técnicas de investigación cualitativas que no se proponen generar teoría, como la etnometodología o las técnicas biográficas, criticadas estas últimas por su débil componente analítico.</p>
+         <p>Una primera ventaja de este método es que proporciona definiciones “caracterizadas por su homogeneidad causal” (Turner 1953:608). Ello obliga al investigador o investigadora a definir su objeto de estudio de manera acotada, ya que para llegar a explicaciones de validez universal se debe “focalizar en un problema específico y estrictamente delimitado, analizarlo con toda la exhaustividad posible, y no considerar muchas otras cuestiones que podrían ser de interés y ser significativas en conexión con otros tipos de teorías” (Lindesmith 1968:7). Ello también implica que “las generalizaciones que produce son deducidas de las definiciones” de los fenómenos estudiados (Turner 1953:608). En otras palabras, sus características esenciales -aquellas que están siempre presentes en el origen del fenómeno-, y por lo tanto generalizables, están implícitas en la teoría construida. Como explica Turner, “no pueden encontrarse relaciones universales y uniformes, excepto por aquellas que constituyen corolarios lógicos de una definición conceptual” (Turner 1953:609).</p>
+         <p>Por ello, “esta búsqueda de universales no nos deja ir más allá que formular una definición e indicar sus corolarios lógicos”, y “no puede proporcionar predicción empírica”. Como se trata de buscar relaciones de determinación absoluta, no sirve el procedimiento usual que ofrece el método estadístico, que solo consigue establecer “relaciones estadísticamente probables” (Turner 1953:609) de variables medidas con anterioridad a que se produzca el efecto esperado. Además, la virtud principal de cualquier teoría general de este tipo reside justamente en que la búsqueda de evidencia negativa a partir de la realidad empírica alienta a sus críticos a construir una mejor teoría, y no conformarse con remarcar las excepciones a las teorías ya existentes. En la inducción analítica, como en “todo sistema científico genuino, la teoría evoluciona a medida que es confrontada con nueva evidencia que no puede ser explicada por teorías anteriores” (Lindesmith 1968:5). Una ventaja vinculada con lo recién expuesto consiste en que permite la incorporación de viejas teorías a las nuevas en calidad de evidencia negativa. Además, su énfasis en la búsqueda de “casos negativos, sin reparar en la frecuencia de su aparición” y “el refinamiento progresivo de la teoría” (Lindesmith 1968:9) que esto implica, hace imperativa una aceitada articulación entre observaciones, hechos, conceptos y teoría.</p>
+         <p>Puede decirse entonces que la fortaleza epistemológica de este enfoque radica en el supuesto de que la verificación de una teoría no consiste en la recolección de casos seleccionados con vistas a su comprobación, sino en buscar evidencias que contradigan las implicaciones lógicas que podrían deducirse de esta teoría. De ello se desprende que los aspectos esenciales del fenómeno que tal teoría contiene conforman un sistema o patrón lógicamente implicado o predicho por ella, ya que la propia definición del fenómeno fue progresivamente modicada a través de un proceso que consiste en la revisión constante de certezas provisorias, es decir, de los conceptos que integran las explicaciones planteadas, de las relaciones entre ellos, pero también de un proceso constante de contrastación de estas hipótesis con la información relevada.</p>
+         <p>Por lo demás, los llamados “casos desviados”, dinamizan la producción de conocimiento, ponen a prueba la teoría, cuestionan sus alcances, e incentivan su perfeccionamiento. Mejorar la teoría implica así transformarla en función de la inclusión de tales casos, de manera que pueda contemplarlos. Ellos dejan de ser desviados, para constituirse en “casos incluidos” acerca de los cuales la teoría debe dar cuenta. Así, el elemento que no se integra a una generalización es utilizado para encontrar nuevas variables o aspectos del fenómeno estudiado. “Exigir que la generalización englobe un ejemplo contradictorio molesto (que denominamos, en los términos de la inducción analítica, un ‘caso negativo’), agrega dimensiones hasta ese momento insospechadas al análisis” (Becker 2000:153).</p>
+         <p>Debe tenerse en cuenta que el hecho de que no se necesite un gran número de casos para aceptar provisoriamente las hipótesis planteadas luego de las reformulaciones realizadas como respuesta a la aparición de casos negativos no implica que el análisis de esos casos permita asegurar la validez de esas explicaciones. Como en cualquier procedimiento científico, las certezas deben ser contrastadas empíricamente una y otra vez, lo que en este enfoque se logra a través de la búsqueda de casos que nieguen estas hipótesis. Sin embargo, no se precisa -como podría pensarse- de casos negativos concretos para hacerlo. Becker explica que si lo que se busca es incorporar nuevas dimensiones y elementos al análisis, basta con inventar posibles casos negativos o, como los llama el autor, algún “ejemplo contradictorio molesto” que permite “encontrar otras dimensiones y otros elementos en la situación y en el proceso” estudiado. A veces, esos casos incluso pueden ser tomados de la literatura. Y si de pronto ese “contraejemplo” o caso imaginario termina por carecer completamente de pertinencia empírica, simplemente se procede a descartarlo (Becker 2000:155).</p>
+         <p>La inducción analítica se presenta así como una forma de análisis que abre las puertas a la inventiva, la reflexión y la ruptura de los sentidos comunes sociológicos. Ella convoca, de manera general, a la imaginación sociológica. Actualmente, se la utiliza en investigaciones sobre temas educativos y deportivos, sobre salud, liderazgoy adolescencia. Sin embargo, las investigaciones que la escogen como método a aplicar para el estudio de los fenómenos sociales son menos, por ejemplo, que las que utilizan la teoría fundamentada, y casi no se encuentran en castellano. Asimismo, resulta difícil hallar investigaciones que recurran únicamente a este método, sin combinarlo con otros, y menos aún como forma de explicar fenómenos. Desde una perspectiva histórica parece verosímil que, así como las investigaciones cuantitativas contaban con herramientas tales como el modelo de Lazarsfeld para lograr explicar los fenómenos, la investigación cualitativa también haya buscado un modo de que sus explicaciones no fueran simplemente parciales. Ese modo fue la inducción analítica, una herramienta fundamental para enfrentar las críticas de aquellos que defendían el tipo de pensamiento deductivo como el único válido.</p>
+         <p>
+            Al adoptar la inducción analítica, por ejemplo, Sutherland protegía su teoría de la asociación diferencial frente a los embates y las críticas de los cuantitativistas del momento. Ello también formaba parte de su objetivo de proporcionar una explicación científica estrictamente sociológica del delito. La inducción analítica le habría permitido rechazar el análisis multifactorial, las correlaciones, las desviaciones estándar, los coeficientes y todo lo que un estudio estadístico implica, y sin embargo hacer reposar su teoría sobre una base científica. Por ello este autor fue víctima de muchos embates, al igual que otros trabajos que posteriormente utilizaron esta metodología. Para mencionar solo algunas de las críticas a Sutherland por utilizarla, se lo acusó de “darse el lujo de no tener que recolectar datos para apoyar su teoría, ya que estaba lidiando con conceptos y no con hechos, debido a que el concepto era la evidencia” (<xref ref-type="bibr" rid="B21">Perri et al. 2014</xref>:75).
+         </p>
+         <p>La crítica más articulada a la inducción analítica fue, como se vio, la de W. S. Robinson. Él explica que esta metodología puede ser pensada, primero, como “procedimiento que dirige el trabajo de campo, segundo, como método de análisis causal, y tercero, como método de verificación” (Robinson 1951:812). Este autor considera que la búsqueda de las características necesarias y suficientes para que un fenómeno tenga lugar no alcanza, sin embargo, para completar con las últimas dos funciones de causalidad y verificación, puesto que nada prueba que esas características sean esenciales, es decir, “cuya aparición está seguida del fenómeno y cuya no aparición no está seguida del fenómeno” (Robinson 1951:817). Ello relegaría a la inducción analítica al lugar de “una definición operacional superficial de la esencialidad” (Robinson 1951:817). Implicaría además que no puede predecir fenómenos, ya que no se puede tener certeza de que ante la aparición de tales características el mismo hecho se vuelva a producir. No serían por lo tanto causas en sentido estricto, y la inducción análitica solo proporciona explicaciones parciales” (Robinson 1951:815).</p>
+         <p>Pese a esas críticas, y a otras mencionadas a lo largo de este texto, la adopción de la inducción analítica fue una decisión estratégica para aquellos sociólogos que procuraran producir leyes causales que explicaran el comportamiento humano sin necesidad de recurrir a los métodos estadísticos. Se trata de un método de generación de hipótesis cuya permanente revisión a posteriori hace que represente “una aproximación al modelo experimental en la medida en que realiza comparaciones explícitas con grupos no expuestos a los factores causales analizados” (Denzin 1978:191). Denzin subraya una ventaja adicional frente a otras formas de análisis causal, inclusive el análisis multivariado, y es que posibilita la formulación de “generalizaciones que pueden ser aplicadas a todos los casos del problema” en cuestión (Denzin 2006:134).</p>
+         <p>El método de la teoría fundamentada, comparable a la inducción analítica en cuanto forma de estructuración y análisis cualitativo de datos, también permite analizar información recogida a través de herramientas propias de la investigación cualitativa con el fin de generar conceptos y teoría sustantiva o de alcance medio. Sin embargo, a diferencia de la inducción analítica, la teoría fundamentada no tuvo la misma pretensión de generar explicaciones globales. Tal vez sea esa una de las razones por las cuales fue preferida por muchas investigaciones con estrategias cualitativas de análisis de información.</p>
+         <p>En conclusión, la inducción analítica, al nunca haber renunciado a la búsqueda de explicaciones totales aun criticando las explicaciones totalizantes, parece haber sido un Caballo de Troya de la investigación cualitativa. Por esta característica distintiva fue objeto de fuertes críticas, y tal vez haya sido su pretensión universal la que dificultó la extensión de su uso en comparación con la teoría fundamentada, aunque ambas sirvieran al mismo fin de generación teoría.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Alexander, J.,  (1990).
+               <italic>Las teorías sociológicas desde la segunda guerra mundial</italic>
+               .  Barcelona: Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alexander</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>Las teorías sociológicas desde la segunda guerra mundial</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Bar, A.(2001). "Abducción. La inferencia del descubrimiento".
+               <italic>Cinta de Moebio.</italic>
+               (12), 1-8. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.moebio.uchile.cl/12/bar.html">https://www.moebio.uchile.cl/12/bar.html</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bar</surname>
+                     <given-names>A.R.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Abducción. La inferencia del descubrimiento</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>12</issue>
+               <fpage>1</fpage>
+               <lpage>8</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.moebio.uchile.cl/12/bar.html">https://www.moebio.uchile.cl/12/bar.html"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Becker, H.,  (1963).
+               <italic>Outsiders. Studies in the sociology of deviance</italic>
+               .  New York: The Free Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Becker</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>1963</year>
+               <source>Outsiders. Studies in the sociology of deviance</source>
+               <publisher-name>The Free Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Becker, H.(2000). "L’enquête de terrain: quelques ficelles du métier".
+               <italic>Societés contemporaines. 40</italic>
+               (40), 151-164. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.persee.fr/doc/socco_1150-1944_2000_num_40_1_1818">https://www.persee.fr/doc/socco_1150-1944_2000_num_40_1_1818</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Becker</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>L’enquête de terrain: quelques ficelles du métier</article-title>
+               <source>Societés contemporaines</source>
+               <volume>40</volume>
+               <issue>40</issue>
+               <fpage>151</fpage>
+               <lpage>164</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.persee.fr/doc/socco_1150-1944_2000_num_40_1_1818">https://www.persee.fr/doc/socco_1150-1944_2000_num_40_1_1818"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Bertaux, D.(1999). "El enfoque biográfico: su validez metodológica, sus potencialidades".
+               <italic>Proposiciones.</italic>
+               (29), 1-23. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://surcorporacion.cl/publicaciones/Revista_Proposiciones/PR-0029-003-3258.pdf">http://surcorporacion.cl/publicaciones/Revista_Proposiciones/PR-0029-003-3258.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bertaux</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <article-title>El enfoque biográfico: su validez metodológica, sus potencialidades</article-title>
+               <source>Proposiciones</source>
+               <volume />
+               <issue>29</issue>
+               <fpage>1</fpage>
+               <lpage>23</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://surcorporacion.cl/publicaciones/Revista_Proposiciones/PR-0029-003-3258.pdf">http://surcorporacion.cl/publicaciones/Revista_Proposiciones/PR-0029-003-3258.pdf"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Bulmer, M.(1979). "Concepts in the analysis of qualitative data".
+               <italic>The Sociological Review. 27</italic>
+               (4), 651-677. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-954X.1979.tb00354.x">https://doi.org/10.1111/j.1467-954X.1979.tb00354.x</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bulmer</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1979</year>
+               <article-title>Concepts in the analysis of qualitative data</article-title>
+               <source>The Sociological Review</source>
+               <volume>27</volume>
+               <issue>4</issue>
+               <fpage>651</fpage>
+               <lpage>677</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-954X.1979.tb00354.x">https://doi.org/10.1111/j.1467-954X.1979.tb00354.x"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Correa, M., Mendoza, M., Sosa, A., Torres Salazar, M.,  (2013).
+               <italic>El análisis cualitativo en el campo de la sociología</italic>
+               .  Buenos Aires: Universidad de Buenos Aires
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Correa</surname>
+                     <given-names>María Eugenia</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mendoza</surname>
+                     <given-names>Mariana</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sosa</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Torres Salazar</surname>
+                     <given-names>Mercedes</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>El análisis cualitativo en el campo de la sociología</source>
+               <publisher-name>Universidad de Buenos Aires</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Denzin, N.,  (1978).
+               <italic>The research act. A theoretical introduction to sociological methods</italic>
+               .  New York: McGraw-Hill
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Denzin</surname>
+                     <given-names>N.K.</given-names>
+                  </name>
+               </person-group>
+               <year>1978</year>
+               <source>The research act. A theoretical introduction to sociological methods</source>
+               <publisher-name>McGraw-Hill</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Denzin, N. (2006).
+               <italic>Analytic induction</italic>
+               . En Ritzer, G (autor.);Encyclopedia of sociology.  (134-136). New York: Wiley-Blackwell
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Denzin</surname>
+                     <given-names>N.K.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Analytic induction</chapter-title>
+               <year>2006</year>
+               <source>Encyclopedia of sociology</source>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <fpage>134</fpage>
+               <lpage>136</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Dewey, J.,  (1920).
+               <italic>Reconstruction in philosophy</italic>
+               .  New York: Henry Holt and Company
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dewey</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1920</year>
+               <source>Reconstruction in philosophy</source>
+               <publisher-name>Henry Holt and Company</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Ferguson,  . (2007).
+               <italic>Phenomenology and social</italic>
+               . En Ritzer, G., Smart, B (autor.);Handbook of social theory.  (232-248). London: SAGE
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ferguson</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Phenomenology and social</chapter-title>
+               <year>2007</year>
+               <source>Handbook of social theory</source>
+               <publisher-name>SAGE</publisher-name>
+               <fpage>232</fpage>
+               <lpage>248</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Garfinkel, H.,  (2006).
+               <italic>Estudios en etnometodología</italic>
+               .  Barcelona: Anthropos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Garfinkel</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Estudios en etnometodología</source>
+               <publisher-name>Anthropos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Glaser, B., Strauss, A.,  (2006).
+               <italic>The discovery of grounded theory: strategies of qualitative research</italic>
+               .  London: Aldine Transaction
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Glaser</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Strauss</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>The discovery of grounded theory: strategies of qualitative research</source>
+               <publisher-name>Aldine Transaction</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Goldenberg, S.(1993). "Analytic induction revisited".
+               <italic>The Canadian Journal of Sociology. 18</italic>
+               (2), 161-176. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/3341256">https://doi.org/10.2307/3341256</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Goldenberg</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <article-title>Analytic induction revisited</article-title>
+               <source>The Canadian Journal of Sociology</source>
+               <volume>18</volume>
+               <issue>2</issue>
+               <fpage>161</fpage>
+               <lpage>176</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/3341256">https://doi.org/10.2307/3341256"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Greiffenhagen, C., Mair, M., Sharrock, W.(2015). "Methodological troubles as problems and phenomena: ethnomethodology and the question of ‘method’ in the social sciences".
+               <italic>The British Journal of Sociology. 66</italic>
+               (33), 460-485. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1468-4446.12136">https://doi.org/10.1111/1468-4446.12136</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Greiffenhagen</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mair</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sharrock</surname>
+                     <given-names>Wes</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Methodological troubles as problems and phenomena: ethnomethodology and the question of ‘method’ in the social sciences</article-title>
+               <source>The British Journal of Sociology</source>
+               <volume>66</volume>
+               <issue>33</issue>
+               <fpage>460</fpage>
+               <lpage>485</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1468-4446.12136">https://doi.org/10.1111/1468-4446.12136"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Jones, D., Manzelli, H., Pecheny, M.(2004). "Grounded theory. Una aplicación de la teoría fundamentada a la salud".
+               <italic>Cinta de Moebio.</italic>
+               (19), 38-54. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.moebio.uchile.cl/19/manzelli.html">https://www.moebio.uchile.cl/19/manzelli.html</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Manzelli</surname>
+                     <given-names>Hernán</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pecheny</surname>
+                     <given-names>Mario</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <article-title>Grounded theory. Una aplicación de la teoría fundamentada a la salud</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>19</issue>
+               <fpage>38</fpage>
+               <lpage>54</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.moebio.uchile.cl/19/manzelli.html">https://www.moebio.uchile.cl/19/manzelli.html"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Laub, J., Sampson, R.(1991). "The Sutherland-Glueck debate: On the sociology of criminological knowledge".
+               <italic>American Journal of Sociology. 96</italic>
+               (6), 1402-1440. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/229691">https://doi.org/10.1086/229691</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Laub</surname>
+                     <given-names>J.H.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sampson</surname>
+                     <given-names>R.J.</given-names>
+                  </name>
+               </person-group>
+               <year>1991</year>
+               <article-title>The Sutherland-Glueck debate: On the sociology of criminological knowledge</article-title>
+               <source>American Journal of Sociology</source>
+               <volume>96</volume>
+               <issue>6</issue>
+               <fpage>1402</fpage>
+               <lpage>1440</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/229691">https://doi.org/10.1086/229691"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Lúquez de Camacho, P., Fernández de Celayarán, O.(2016). "La teoría fundamentada: precisiones epistemológicas, teórico-conceptuales, metodológicas y aportes a las ciencias".
+               <italic>Cumbres. 2</italic>
+               (1), 101-114. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://investigacion.utmachala.edu.ec/revistas/index.php/Cumbres/article/view/34/30">http://investigacion.utmachala.edu.ec/revistas/index.php/Cumbres/article/view/34/30</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lúquez de Camacho</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fernández de Celayarán</surname>
+                     <given-names>O.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>La teoría fundamentada: precisiones epistemológicas, teórico-conceptuales, metodológicas y aportes a las ciencias</article-title>
+               <source>Cumbres</source>
+               <volume>2</volume>
+               <issue>1</issue>
+               <fpage>101</fpage>
+               <lpage>114</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://investigacion.utmachala.edu.ec/revistas/index.php/Cumbres/article/view/34/30">http://investigacion.utmachala.edu.ec/revistas/index.php/Cumbres/article/view/34/30"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Lindesmith, A.,  (1968).
+               <italic>Addiction and opiates</italic>
+               .  Chicago: Aldine Publishing Company
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lindesmith</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>1968</year>
+               <source>Addiction and opiates</source>
+               <publisher-name>Aldine Publishing Company</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Lundberg, G.(1960). "Quantitative methods in sociology: 1920-1960".
+               <italic>Social Forces. 39</italic>
+               (1), 19-24. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2573569">https://doi.org/10.2307/2573569</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lundberg</surname>
+                     <given-names>G.A.</given-names>
+                  </name>
+               </person-group>
+               <year>1960</year>
+               <article-title>Quantitative methods in sociology: 1920-1960</article-title>
+               <source>Social Forces</source>
+               <volume>39</volume>
+               <issue>1</issue>
+               <fpage>19</fpage>
+               <lpage>24</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2573569">https://doi.org/10.2307/2573569"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Perri , F., Terrance, L., Mieczkowska, E.(2014). "Sutherland, Cleckley and beyond: White-collar crime and psychopathy".
+               <italic>International Journal of Psychological Studies. 6</italic>
+               (4), 71-88. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5539/ijps.v6n4p71">https://doi.org/10.5539/ijps.v6n4p71</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Perri</surname>
+                     <given-names>Frank</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Terrance</surname>
+                     <given-names>Lichtenwald</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mieczkowska</surname>
+                     <given-names>Edyta</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Sutherland, Cleckley and beyond: White-collar crime and psychopathy</article-title>
+               <source>International Journal of Psychological Studies</source>
+               <volume>6</volume>
+               <issue>4</issue>
+               <fpage>71</fpage>
+               <lpage>88</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5539/ijps.v6n4p71">https://doi.org/10.5539/ijps.v6n4p71"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Piovani, J.(2011). "La escuela de Chicago y los enfoques cualitativos: términos y conceptos metodológicos".
+               <italic>Papers. 96</italic>
+               (1), 245-258. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://ddd.uab.cat/pub/papers/02102862v96n1/02102862v96n1p245.txt">https://ddd.uab.cat/pub/papers/02102862v96n1/02102862v96n1p245.txt</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Piovani</surname>
+                     <given-names>J. I.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>La escuela de Chicago y los enfoques cualitativos: términos y conceptos metodológicos</article-title>
+               <source>Papers</source>
+               <volume>96</volume>
+               <issue>1</issue>
+               <fpage>245</fpage>
+               <lpage>258</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://ddd.uab.cat/pub/papers/02102862v96n1/02102862v96n1p245.txt">https://ddd.uab.cat/pub/papers/02102862v96n1/02102862v96n1p245.txt"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>
+               Plummer, K. (2006).
+               <italic>Prólogo</italic>
+               . En Thomas, W., Znaniecki, F (autor.);El campesino polaco en Europa y América.  (11-20). Madrid: Boletín Oficial del Estado
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Plummer</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Prólogo</chapter-title>
+               <year>2006</year>
+               <source>El campesino polaco en Europa y América</source>
+               <publisher-name>Boletín Oficial del Estado</publisher-name>
+               <fpage>11</fpage>
+               <lpage>20</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>
+               Robinson, W.(1951). "The logical structure of analytic induction".
+               <italic>American Sociological Review. 16</italic>
+               (6), 812-818.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Robinson</surname>
+                     <given-names>W.S.</given-names>
+                  </name>
+               </person-group>
+               <year>1951</year>
+               <article-title>The logical structure of analytic induction</article-title>
+               <source>American Sociological Review</source>
+               <volume>16</volume>
+               <issue>6</issue>
+               <fpage>812</fpage>
+               <lpage>818</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>
+               San Martín Cantero, D.(2014). "Teoría fundamentada y Atlas.ti: recursos metodológicos para la investigación educativa".
+               <italic>Revista Electrónica de Investigación Educativa. 16</italic>
+               (1), 104-122. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://redie.uabc.mx/redie/article/view/727">https://redie.uabc.mx/redie/article/view/727</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>San Martín Cantero</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Teoría fundamentada y Atlas.ti: recursos metodológicos para la investigación educativa</article-title>
+               <source>Revista Electrónica de Investigación Educativa</source>
+               <volume>16</volume>
+               <issue>1</issue>
+               <fpage>104</fpage>
+               <lpage>122</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://redie.uabc.mx/redie/article/view/727">https://redie.uabc.mx/redie/article/view/727"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B26">
+            <mixed-citation>
+               Sharrock, W. (2007).
+               <italic>Fundamentals of ethnomethodology</italic>
+               . En Ritzer , G., Smart, B (autor.);Handbook of social theory.  (249-259). London: SAGE
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sharrock</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Fundamentals of ethnomethodology</chapter-title>
+               <year>2007</year>
+               <source>Handbook of social theory</source>
+               <publisher-name>SAGE</publisher-name>
+               <fpage>249</fpage>
+               <lpage>259</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B27">
+            <mixed-citation>
+               Sutherland, E.,  (1937).
+               <italic>The professional thief</italic>
+               .  Chicago: University of Chicago Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sutherland</surname>
+                     <given-names>E.H.</given-names>
+                  </name>
+               </person-group>
+               <year>1937</year>
+               <source>The professional thief</source>
+               <publisher-name>University of Chicago Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B28">
+            <mixed-citation>
+               Sutherland, E., Cressey, D.,  (1947).
+               <italic>Principles of criminology</italic>
+               .  Chicago: J. B. Lippincott
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sutherland</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cressey</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>1947</year>
+               <source>Principles of criminology</source>
+               <publisher-name>J. B. Lippincott</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B29">
+            <mixed-citation>
+               Thomas, W., Thomas, D.,  (1928).
+               <italic>The child in America. Behavior problems and programs</italic>
+               .  New York: Alfred A. Knopf
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>W.I.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>D.S.</given-names>
+                  </name>
+               </person-group>
+               <year>1928</year>
+               <source>The child in America. Behavior problems and programs</source>
+               <publisher-name>Alfred A. Knopf</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B30">
+            <mixed-citation>
+               Thomas, W., Znaniecki, F.,  (1918).
+               <italic>The Polish peasant in Europe and America: Monograph of an inmigrant group</italic>
+               .  Boston: The Gorham Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>W.I.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Znaniecki</surname>
+                     <given-names>F.W.</given-names>
+                  </name>
+               </person-group>
+               <year>1918</year>
+               <source>The Polish peasant in Europe and America: Monograph of an inmigrant group</source>
+               <publisher-name>The Gorham Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B31">
+            <mixed-citation>
+               Turner, R.(1953). "The quest for universals in sociological research".
+               <italic>American Sociological Review. 18</italic>
+               (6), 604-611. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2088113">https://doi.org/10.2307/2088113</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Turner</surname>
+                     <given-names>R.H.</given-names>
+                  </name>
+               </person-group>
+               <year>1953</year>
+               <article-title>The quest for universals in sociological research</article-title>
+               <source>American Sociological Review</source>
+               <volume>18</volume>
+               <issue>6</issue>
+               <fpage>604</fpage>
+               <lpage>611</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2088113">https://doi.org/10.2307/2088113"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B32">
+            <mixed-citation>
+               Valles, M.,  (1999).
+               <italic>Técnicas cualitativas de investigación social. Reflexión metodológica y práctica profesional</italic>
+               .  Madrid: Síntesis
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Valles</surname>
+                     <given-names>M. S.</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <source>Técnicas cualitativas de investigación social. Reflexión metodológica y práctica profesional</source>
+               <publisher-name>Síntesis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B33">
+            <mixed-citation>
+               Znaniecki, F.,  (1934).
+               <italic>The method of sociology</italic>
+               .  New York: Farrar &amp; Rinehart
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Znaniecki</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>1934</year>
+               <source>The method of sociology</source>
+               <publisher-name>Farrar &amp; Rinehart</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

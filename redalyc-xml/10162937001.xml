@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000100001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>La posibilidad de la objetividad en ciencias humanas</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The possibility of objectivity in human sciences</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0938-2730</contrib-id>
+               <name>
+                  <surname>Aguirre-García</surname>
+                  <given-names>Juan Carlos</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <institution content-type="original">Universidad del Cauca. Colombia</institution>
+            <institution content-type="normalized">Universidad del Cauca</institution>
+            <institution content-type="orgname">Universidad del Cauca</institution>
+            <country country="CO">Colombia</country>
+            <email>jcaguirre@unicauca.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub-ppub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>67</issue>
+         <fpage>1</fpage>
+         <lpage>13</lpage>
+         <history>
+            <date date-type="received">
+               <day>30</day>
+               <month>11</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>04</day>
+               <month>01</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>El propósito de este artículo consiste en responder afirmativamente a la pregunta por la posibilidad de la objetividad en las ciencias humanas. Se comienza planteando que, pese a su aparente anacronismo, la discusión sobre la objetividad se torna vigente frente al desafío que plantea a la epistemología la noción de posverdad. Posteriormente, se reconstruyen algunas versiones de objetividad presentes en la literatura. A continuación, se exponen y discuten algunas posturas respecto a la posibilidad de la objetividad en las ciencias humanas y se evalúa no solo su consistencia, sino también las consecuencias que estas tienen para las ciencias humanas. Finalmente, se proponen algunas ideas para la constitución de un concepto plausible de objetividad para las ciencias humanas. Se espera que este trabajo abra rutas para la exploración sistemática de un programa de epistemología de las ciencias humanas comprometido con un marco realista de investigación.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>This paper aims to answer affirmatively the question about the possibility of objectivity in the human sciences. I firstly claim that, though their seemly anachronism, the discussion on objectivity is valid in front of the challenge that puts the notion of post-truth to epistemology. Then, I reconstruct some views about objectivity from the literature. Next, I show and discuss some views about the possibility of the objectivity in the human sciences and I assess both their consistency as the consequences that they have to the human sciences. Finally, I propose some ideas for the constitution of a plausible concept of objectivity for the human sciences. I hope this paper open routes to the systematic exploration of an epistemological program for the human sciences committed with a realistic framework of research.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave</title>
+            <kwd>ciencias humanas</kwd>
+            <kwd>imparcialidad</kwd>
+            <kwd>neutralidad</kwd>
+            <kwd>objetividad</kwd>
+            <kwd>posverdad</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>human sciences</kwd>
+            <kwd>impartiality</kwd>
+            <kwd>neutrality</kwd>
+            <kwd>objectivity</kwd>
+            <kwd>post-truth</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0"/>
+            <table-count count="0"/>
+            <equation-count count="0"/>
+            <ref-count count="11"/>
+            <page-count count="13"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>En una columna de opinión, el periodista Gustavo Gómez, refiriéndose a la facilidad con la que se juega con la honra de los periodistas, en especial en torno a la crítica de no ser objetivo, afirmó: “no conozco a ningún periodista objetivo. El periodismo es un oficio subjetivo. Cuando el reportero escoge una óptica, cuando el editor titula, cuando el conductor radial pregunta, cuando el jefe de redacción escribe un pie de foto… siempre median modos de pensar o sentir. Solo las tostadoras podrían ejercer el reclamado periodismo objetivo” (Gómez. <ext-link ext-link-type="uri" xlink:href="https://www.eltiempo.com/opinion/columnistas/gustavo-gomez-cordoba/entrecomillados-columna-de-gustavo-gomez-cordoba-338664">Entrecomillados</ext-link>). Algunos meses después, durante una intervención pública, el expresidente norteamericano Barack Obama afirmó: “Quiero un mundo en el que se crea en hechos, no en opiniones” (Obama. <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=buBB0XSzAAE">Conferencia en EXMA</ext-link>). Más recientemente aún, el renombrado profesor Steven Pinker, ante la pregunta: “¿Qué de erróneo que haya en el mundo cambiaría y por qué?”, respondió: “Muchos líderes e influenciadores, incluyendo políticos, periodistas, intelectuales y académicos se rinden ante el sesgo cognitivo de evaluar el mundo a través de anécdotas e imágenes más que en datos y hechos” (Pinker. <ext-link ext-link-type="uri" xlink:href="https://news.harvard.edu/gazette/story/2019/06/focal-point-harvard-professor-steven-pinker-says-the-truth-lies-in-the-data/">One thing to change: Anecdotes aren’t data</ext-link>).</p>
+         <p>Las referencias presentadas parecen implicar una confrontación entre dos visiones respecto a los hechos: por un lado, Gómez niega la posibilidad de acceso a los hechos, pues esto implicaría un abandono de la subjetividad, la que se caracterizaría por “modos de pensar o sentir”. Si se deja de lado la subjetividad, estaríamos en el nivel de los autómatas, esto es, dejaríamos de ser personas. En consecuencia, ser periodista es renunciar a la objetividad. Por otro lado, Obama y Pinker suscriben una visión contraria, una especie de vuelta a los hechos, lo que involucra un esfuerzo por superar el dominio de la opinión y una apelación a la evaluación basada en la evidencia.</p>
+         <p>Aunque ninguno de los tres personajes tiene prima facie una pretensión académica, lo que se trasluce en estas intervenciones es una discusión epistémica en torno a la objetividad. Según el Diccionario de la Lengua Española (en adelante DRAE), en su versión en línea, la objetividad es “cualidad de objetivo”. Objetivo, por su parte, tiene como algunas de sus acepciones las siguientes: 1. Perteneciente o relativo al objeto en sí mismo, con independencia de la propia manera de pensar o de sentir; 2. Desinteresado, desapasionado; 3. Que existe realmente, fuera del sujeto que lo conoce. En efecto, Gómez, en cuanto periodista, renuncia a ser objetivo; pero más que ello, planea que es imposible serlo. Obama y Pinker, por su parte, aceptan una concepción objetiva del mundo, a saber: que hay hechos independientemente de los sujetos epistémicos; de igual modo, que estos pueden alcanzarse, siempre y cuando se supere el ámbito de las opiniones, lo que significaría adoptar una visión desinteresada y desapasionada. Pero ¿acaso la discusión sobre la objetividad no es una cuestión superada? ¿No hemos asistido a muchas despedidas de la objetividad? ¿Por qué y para qué resucitar ahora ese fantasma?</p>
+         <p>Como ocurre con la mayoría de las discusiones epistemológicas, estas impactan de manera directa la cotidianidad. Pese a la tecnicidad del tratamiento de algunos asuntos, estos pueden (y deben) traducirse en situaciones concretas del mundo de la vida. Ciertamente, la discusión sobre la objetividad no se sitúa en un marco abstracto o meramente académico, sino que se ancla en uno de los fenómenos más interesantes y desafiantes para la epistemología contemporánea: la posverdad. Según el DRAE, posverdad es la “distorsión deliberada de una realidad, que manipula creencias y emociones con el fin de influir en la opinión pública y en actitudes sociales”. En inglés, la definición del término post-truth ejemplifica más claramente los términos que están en debate: “que se relaciona con o denota circunstancias en las que los hechos objetivos son menos influyentes al momento de configurar la opinión pública que la apelación a la emoción y a la creencia personal” (<ext-link ext-link-type="uri" xlink:href="https://www.lexico.com/definition/post-truth">lexico.com/definition/post-truth</ext-link>). Ambas definiciones revalúan el lugar de los hechos objetivos (o la realidad) y entronizan las creencias personales y la opinión; pero más allá de esto, introducen el aspecto de la manipulación de la opinión pública. Lo interesante del fenómeno, entonces, no es que en él confluya la disputa objetivismo-subjetivismo, sino que la da por superada (de ahí el prefijo post: después de), pues su interés no es ya establecer el origen del conocimiento o su fuente de legitimidad, sino el afán de persuadir.</p>
+         <p>La consideración de la posverdad va más allá del mero interés y desafío académico. De no ser por las consecuencias que tiene para un grupo social la toma de decisiones basada no en la evidencia, sino en las emociones y las creencias personales, la posverdad no sería más que otro de los temas académicos de moda; sin embargo, ante la evidencia de decisiones tomadas con criterios no objetivos se vislumbra el riesgo que significa la transmutación de valores epistémicos, como la objetividad, por otros, como la apelación a la emoción en aras de lograr cualquier fin, por irracional que sea. Por consiguiente, no es posible ser indiferente ante expresiones como “el periodismo es un oficio subjetivo”; del mismo modo, es necesario aclarar en qué consiste la sugerida distinción hecho-opinión.</p>
+         <p>El propósito de este escrito no es considerar todas las aristas de la cuestión; bastante tiempo tomará a la epistemología encontrar respuestas a los desafíos de la posverdad. El fin que me propongo es más modesto: se espera considerar algunos conceptos de objetividad y examinar cuáles de ellos pueden contribuir a la constitución de una definición de objetividad para las ciencias humanas. Se parte de una definición mínima o provisional de ciencias humanas, toda vez que la definición misma de estas ciencias está en discusión. Aunque parezca increíble, Lorraine Daston plantea que “todavía no existe una epistemología de las humanidades” (2014:24). De acuerdo con esto, tal definición consistirá, siguiendo a Gurrute y Aguirre, en considerar como ciencias humanas a aquellas disciplinas agrupadas en revistas científicas de alto impacto que están clasificadas bajo la denominación “humanidades” o “ciencias humanas” en los sistemas de indexación y resúmenes reconocidos internacionalmente. Ejemplo de estas ciencias son la historia, la filosofía, la literatura (Gurrute y Aguirre. <ext-link ext-link-type="uri" xlink:href="https://gkacademics.com/es/book/discurso-y-espacios-contemporaneos-para-la-discusion-de-las-humanidades/">Situación de las ciencias humanas en América Latina</ext-link>). Se espera que esta discusión abra rutas para la exploración sistemática de un programa de epistemología de las ciencias humanas comprometido con un marco realista de investigación.</p>
+      </sec>
+      <sec>
+         <title>Versiones de objetividad</title>
+         <p>Las acepciones 1 y 3 que da DRAE para el término “objetivo” tienen un compromiso directo con el realismo. En efecto, uno de los componentes que establece Sankey en su elaboración del realismo científico consiste en que este considera que “la ciencia da conocimiento de una realidad objetiva independiente de la mente, incluyendo aquellas áreas de la realidad que no podemos observar de modo directo. Los realistas científicos sostienen que hay verdades absolutas o hechos objetivos acerca de los cuales nuestras teorías pueden ser correctas o incorrectas” (Sankey 2017:212). En tal caso, parece que la objetividad respalda los discursos científicos y es proclive a la búsqueda de la verdad. Por su parte, la acepción 2, tal vez la que se presenta como más chocante a la amplia comunidad académica (y, a lo mejor, fue la que más contribuyó al periodista mencionado a renunciar a la objetividad), implica, a primera vista, una suspensión tanto de los afectos como de la voluntad humanos al aproximarse a los objetos. Como puede verse, la objetividad no es un concepto que tenga que trabajarse por separado, sino que hace parte de una red de conceptos y, en consecuencia, tiene implicaciones que afectan amplios sectores de la investigación.</p>
+         <p>Pero la aproximación al concepto de objetividad no solo es compleja debido a las interacciones que entabla con otros conceptos. La definición misma puede dar lugar a equivocidad. Tomemos como caso la primera acepción: “Perteneciente o relativo al objeto en sí mismo, con independencia de la propia manera de pensar o de sentir” (Tomada del DRAE). Por lo menos desde Kant, tal y como lo denuncian Ferraris, en su libro Manifiesto del nuevo realismo, y Gabriel (Por qué el mundo no existe), el objeto en sí mismo (cosa-en-sí) sería incognoscible; asimismo, todo objeto sería dependiente de los modos cognitivos como está configurado lo humano. En palabras de Gabriel, Kant decía que “no podemos conocer el mundo tal como es en sí mismo. Sea lo que sea que conozcamos, siempre es algo elaborado por seres humanos” (Gabriel 2017:11). Si esto es así, no sería posible ser objetivo al modo como lo plantea DRAE y, de ser objetivos al modo kantiano, la objetividad correría el riesgo de perder su contacto con los objetos.</p>
+         <p>Debido a los puntos señalados, no existe una definición unívoca de la objetividad. Esto parece un hecho, al menos si se revisan los tratados al respecto. Veamos dos ejemplos.</p>
+         <p>En un libro clásico titulado Rethinking objectivity, editado por Allan Megill, el propio editor introduce las cuestiones bajo el título: “Cuatro sentidos de objetividad”. Los sentidos a los que alude Megill son los siguientes: 1. El filosófico o absoluto, según el cual el ideal de la objetividad consiste en representar las cosas tal y como ellas son realmente. Según el autor, se trata de “aspirar a conocer tan fielmente la realidad como para que no sufra ninguna distorsión” (Megill 1994:1). 2. El disciplinar, el cual toma el consenso entre los miembros de comunidades particulares de investigación como su estándar de objetividad. 3. El interactivo o dialéctico, el cual asume que “los objetos están constituidos como objetos en el curso de una interrelación entre el sujeto y el objeto; así pues, a diferencia de los sentidos absoluto y disciplinar, el sentido dialéctico deja espacio a la subjetividad de quien conoce” (Megill 1994:1). Finalmente, 4. el procedimental, que se dirige a la práctica de un método impersonal de investigación o administración.</p>
+         <p>El otro caso se toma de la introducción del libro Objectivity, escrito en 2012, titulada: “Las variedades de la objetividad”. En este trabajo, al igual que en el anterior, se parte de la idea que la objetividad no es un concepto sencillo y, por consiguiente, el tratar de definirlo genera varios problemas. Por tal motivo, Gaukroger se da a la tarea de recoger algunos de los sentidos más relevantes de objetividad, a saber: el primero es el más común: “un juicio objetivo es aquel que está libre de prejuicios y parcialidad” (Gaukroger 2012:4). El segundo es que “un juicio objetivo es un juicio libre de presupuestos y valores” (2012:5). El tercero se centra directamente en el modo como llegamos a nuestras opiniones y teorías; se trata de “un procedimiento objetivo que nos permite decidir entre opiniones o teorías en conflicto” (2012:6). El cuarto toma un camino distinto de los anteriores: a diferencia, por ejemplo, de los sentidos uno y dos, que son en esencia negativos, el cuarto adopta una postura positiva: se trata de representar de manera precisa cómo son las cosas (el mundo). Finalmente, Gaukroger señala la postura que sostiene que algo es objetivo “si conduce a conclusiones que son aceptadas universalmente” (2012:10).</p>
+         <p>De acuerdo con lo anterior, cuando se discute acerca de la objetividad habrá que tener presente que este no es un concepto unívoco y, en consecuencia, el ataque a un flanco del concepto no implica su derrota; de igual modo, la no univocidad tampoco implica un motivo de renuncia a su definición. Ahora bien, lo que sí es claro, aunque parezca pasar inadvertido por algunas de las discusiones sobre el problema, es que antes de la definición de objetividad se requiere una definición de hecho u objeto, toda vez que esto es lo que parece estar en juego. Para hacerlo, podría recurrirse al trabajo de Agazzi, titulado Scientific Objectivity and Its Contexts, en especial a su tesis de la objetividad sin objetos.</p>
+         <p>Antes de considerar la tesis, es preciso mencionar algunas ideas expuestas por Agazzi. En primer lugar, el término objetividad parece caracterizarse, sobre todo, por una referencia (indirecta) al sujeto, más que al objeto: “Cuando se dice, por ejemplo, que cierto juicio es objetivo, que cierta investigación se ha realizado de una manera objetiva o que cierta cualidad es objetivamente poseída por alguien o por algo, usualmente se quiere decir que el juicio, la investigación o la cualidad no dependen del sujeto o sujetos que expresan el juicio, hacen la investigación o atribuyen la cualidad” (Agazzi 2014:51). Esta caracterización que destaca Agazzi está en consonancia tanto con la primera acepción del DRAE como con algunas de las variaciones presentes en Megill (1994) y Gaukroger (2012), correspondiendo en este último trabajo a los denominados sentidos negativos de la objetividad. En esencia, se trataría de considerar la objetividad como un juicio que se logra una vez se han retirado algunos elementos típicos del sujeto, permaneciendo solo aquellos que puedan ser compartidos por muchos sujetos, los que, a su vez, se tornan los realmente constitutivos del objeto.</p>
+         <p>En segundo lugar, y como resultado de lo primero, se tiene que la objetividad comporta dos aristas: por un lado, la arista ontológica: “todo ‘objeto’, puesto que comparte las características generales del ser, debe concebirse como algo que siempre ha sido y siempre será exactamente como es en un momento arbitrario de su existencia” (Agazzi 2014:53). Por el otro, la arista epistemológica: un objeto se conoce “solo si ese conocimiento [del objeto] aparece como ‘independiente del sujeto’, es decir, si es válido para todo sujeto cognoscente (‘universal’) y (‘necesariamente’) el mismo para todos los sujetos” (Agazzi 2014:53). Tales aristas conforman las que posteriormente serán tomadas como condiciones necesarias de la objetividad: la universalidad y la necesidad.</p>
+         <p>Finalmente, Agazzi destaca un desplazamiento histórico del sentido de la objetividad, el cual consiste en ir dejando a un lado el sentido fuerte de objetividad e ir adoptando un sentido débil de la misma. Por sentido fuerte Agazzi comprende el aspecto sustancial de la objetividad, el cual se relaciona con la referencia al objeto de conocimiento, lo que equivaldría a decir que se tiene conocimiento objetivo siempre y cuando se dé cuenta del objeto en sí; por su parte, el sentido débil, más que a una estructura ontológica, responde a una estructura formal, en la cual la objetividad se daría siempre y cuando se cumplan las siguientes condiciones: un conocimiento que sea independiente del sujeto, necesario y universal. Apoyado en casos de la historia de la ciencia natural y de la filosofía, Agazzi concluye que “el sentido débil llegó a ser, gradualmente, el único a ser tenido en cuenta en la teoría del conocimiento. Esto significa que, después de un tiempo, las características formales empezaron a tomarse como garantías suficientes para la objetividad; o, si se prefiere, que las características formales se volvieron, de alguna manera, también sustanciales” (2014:55). Este desplazamiento se notó de modo evidente en la ciencia moderna, permitiendo la equivalencia de la objetividad a la intersubjetividad y, de manera más refinada, a la invariancia; valga notar que ambos calificativos de la objetividad cumplen con las tres condiciones formales mencionadas.</p>
+         <p>Respecto a la objetividad como invariancia, Agazzi afirma: “La característica principal de nuestro entrar en contacto con los objetos de nuestra experiencia es que los podemos describir de distintas maneras, dependiendo de los distintos marcos de referencia que adoptemos para guardar nuestras observaciones. Todas estas descripciones son, ciertamente, distintas unas de otras, pero resulta que estas diferentes ‘proyecciones’ del mismo objeto pueden someterse a ciertas reglas de transformación que constituyen grupos en el sentido matemático de la palabra; y estos grupos admiten invariantes. Ahora bien, aunque no sería razonable pretender que todas las distintas proyecciones sean objetivas (pues son diferentes) parece muy razonable reducir la objetividad a este núcleo de invariantes que se preservan bajo los múltiples puntos de vista” (2014:60).</p>
+         <p>Tanto la intersubjetividad como la invariancia se ubican en un nuevo desplazamiento de la objetividad: no se trata ya de dar cuenta plena del objeto (sentido fuerte) sino de hallar las invariantes propias del objeto que puedan ser intersubjetivamente garantizadas (sentido débil); a la vez, no se tendría que dar cuenta de la totalidad de la realidad sino del sector de la realidad que es susceptible de invariancia. En palabras de Agazzi, “la intersubjetividad y la invariancia ya no son consideradas como ‘marcas características’ de la realidad, sino más bien como ‘características específicas’ de un sector particular de la realidad, el sector de la objetividad” (2014:70). Este desplazamiento es relevante para la consideración de la objetividad, pues establece una distinción entre sectores de la realidad, por ejemplo, el mundo externo y la autoconciencia; esto significa que no se excluye de la realidad a los estados subjetivos, aunque ubica en un rango más alto la realidad objetiva, debido a la imposibilidad para comprender dichos estados mentales en primera persona. Justamente, la última afirmación nos permite comprender cómo, históricamente, la objetividad científica hace a un lado los aspectos subjetivos de los investigadores y tiende a convertirlos en meros “detectores o registradores de distintos aspectos de la realidad” (2014:70).</p>
+         <p>No obstante lo anterior, aparece histórica y conceptualmente el problema que está de trasfondo en la discusión del periodista sobre la objetividad: si aún en nuestra autoconciencia interna privilegiamos lo objetivo sobre lo subjetivo (piénsese, por ejemplo, en el juicio: “Cuando estaba enfermo, no podía gustar el verdadero sabor de este vino”, donde habría una auto distinción entre un estado alterado o enfermo y un estado objetivamente sano), entonces, ¿qué puede un sujeto compartir con otros sujetos?” (Agazzi 2014:71) La pregunta se torna aún más compleja si admitimos que todo conocimiento es producto de un acto de conocimiento; en tal caso, todo conocimiento, así sea de objetos externos, estaría mediado por un sujeto cognoscente capaz de expresar juicios acerca de ellos. No habría, por tanto, un conocimiento objetivo, a menos que seamos “tostadoras”. La moraleja de esto sería que todo conocimiento es subjetivo, de la que algunos extraen su inversa: no hay conocimiento objetivo.</p>
+         <p>La salida que ve Agazzi a este problema se ubica en lo que él denomina: “objetividad sin objetos”: “la objetividad no requiere, por ejemplo, que seamos conscientes (como sujetos cognoscentes en el pleno sentido de la palabra) de la conciencia de nuestro interlocutor cuando habla acerca de una propiedad de una cosa, sino simplemente que seamos conscientes de un acuerdo con él respecto a esa propiedad” (2014:71). El ejemplo dado por el autor nos permite comprender mejor su propuesta: “no puedo conocer el conocimiento privado que mi interlocutor tiene de una superficie roja; pero los dos podemos saber, podemos estar conscientes del acuerdo que hemos logrado al calificar a tal superficie como roja” (2014:70-71). En este caso, la objetividad no dependería del modo como me represente el objeto o mi vivencia personal de él sino del acuerdo público que pueda lograrse respecto a él. Ahora bien, no se trata de un consenso para determinar qué cuenta como objetivo. En el caso de la objetividad científica, que es el que analiza Agazzi, este acuerdo tiene que estar acompañado por otras condiciones, por ejemplo: replicabilidad o comprobabilidad, las cuales corroboran las condiciones necesarias y suficientes de la intersubjetividad y la invariancia. Las relaciones se tejerían de los modos siguientes: “si algo es objetivo en el sentido de ser comprobable por otros sujetos y por mí, también es necesariamente independiente de mi voluntad; y, sobre todo, si esta comprobación es tal que pueda ser hecha por cualquier sujeto, esto implica que debe ser ‘externa’ a mí en el espacio y en el tiempo” (2014:74).</p>
+         <p>Las versiones de objetividad revisadas en este apartado permiten comprender que la definición de este concepto conduce a discusiones tanto conceptuales como históricas. Sin entrar a evaluar la solidez de la propuesta de Agazzi, es posible ver a través de ella la necesidad de considerar la objetividad al margen de los tradicionales dualismos (objetivo-subjetivo / ontológico-epistemológico / mundo externo-mundo interno) en los que generalmente se enmarca el problema y encontrar las maneras como, desde la cotidianidad, pero también en lo más elaborado del proceder científico, opera el concepto para intentar presentar una formulación plausible de él que satisfaga diversos campos del conocimiento y del mundo de la vida.</p>
+      </sec>
+      <sec>
+         <title>La objetividad y las ciencias humanas</title>
+         <p>
+            Las discusiones del apartado anterior han tenido o bien un carácter general (DRAE, Megill o Gaukroger) sobre la objetividad, o bien un carácter particularizado respecto a la objetividad en el contexto de las ciencias naturales (Agazzi). En el terreno de las ciencias humanas, la cuestión de la objetividad ha generado disputas acérrimas. A modo de ejemplo, se puede señalar la contraposición que establece Rorty entre objetividad y solidaridad, de amplia acogida en diversas esferas de las ciencias humanas, la cual culmina en la propuesta de “reducir la objetividad a la solidaridad” (Rorty 1996:39). No es el interés de este apartado reconstruir las polémicas puramente filosóficas que se han dado en torno a la objetividad en las ciencias humanas (a este respecto puede verse el apartado “Conocimiento en ciencias humanas como conocimiento objetivo” en el libro de J. Aguirre Racionalidad renovada); bastará remitirnos a dos trabajos: uno clásico, un artículo de Otto Friedrich
+            <xref ref-type="bibr" rid="B2">Bollnow (1962</xref>
+            ), y otro más reciente, el ya citado texto de
+            <xref ref-type="bibr" rid="B3">Daston (2014</xref>
+            ). El criterio de selección es que ambos abordan el asunto de manera directa.
+         </p>
+         <p>El trabajo de Bollnow parte de la definición básica de objetividad como “la eliminación de todo prejuicio subjetivo” (1962:4). Es importante resaltar que esta actitud no es exclusiva del ámbito científico, sino que incumbe a distintas esferas de la vida práctica. El autor señala, a modo de ejemplo, el contexto judicial: en este contexto, “objetivo significa sin parcialidad, sin prejuicio -un comportamiento imparcial frente al objeto-. Esto presupone, por tanto, una separación de los compromisos vitales inmediatos: el juicio objetivo debe erigirse por encima de los intereses vitales que están en conflicto” (1962:4). Pese a esto, la objetividad ha sido un problema especialmente relevante en el contexto científico, donde no se trata ya de esforzarse por dictaminar un juicio imparcial, sino que se convierte en un ideal regulador: “brota la cuestión del criterio de tal objetividad, por lo que el problema de la objetividad como una actitud humana hacia la vida se convierte en el de la estructura objetiva que es, precisamente, el contexto del fundamento de la ciencia” (1962:5). De la búsqueda de una actitud liberada de prejuicios se pasa a la objetividad como un “criterio de validación universal”. En similitud con el análisis de Agazzi, Bollnow identifica dos principios implícitos en el criterio: “la capacidad de repetir experimentos” y “la reducción de todos los fenómenos relevantes a lo cuantitativo, a lo mensurable, excluyendo, por tanto, todas las sensaciones que no se pueden verificar” (1962:5).</p>
+         <p>Cuando intentan constituirse como ciencias, las ciencias humanas (Geisteswissenschaften) encuentran que no pueden adoptar este tipo de objetividad. Las razones dadas por Bollnow son las siguientes: “Por un lado, no pueden experimentar con el sujeto, trabajar factores individuales a partir de la variación de las condiciones: tienen que tomar su realidad como se presenta por sí misma […] Por el otro, en las ciencias humanas, lo que es esencial no se puede medir, y lo que se puede medir, en el caso de que hubiera algo así, no es esencial sino superficial” (1962:5). La conclusión que extrae Bollnow es que “en las ciencias humanas no se puede obtener la validación universal de los resultados -por lo menos no con el mismo rigor que en las ciencias naturales-. Por tanto, las ciencias humanas carecen de un criterio de correspondencia fácilmente manejable” (1962:6).</p>
+         <p>Esta tensión se halla constantemente en las discusiones sobre la objetividad. No es extraño, por tanto, que en muchas ocasiones se prefiera abandonar la búsqueda de objetividad en ciencias humanas, toda vez que no habría un criterio similar al exigido en las ciencias naturales. Veamos el siguiente caso expuesto por Bollnow: “Si consideramos las grandes obras de las ciencias humanas, los trabajos de historiadores de la literatura sobre el mismo poeta -por ejemplo, Goethe- o los trabajos de varios historiadores de la filosofía sobre el mismo filósofo -por ejemplo, Platón-, encontramos que difieren grandemente entre sí, que a menudo se contradice uno y otro, por lo que no se puede reducir estas interpretaciones a un común denominador. No obstante, es claro que la relación entre ellos no es tal que una interpretación sea correcta y las otras falsas. A pesar de su diversidad, ellas no son completamente irreconciliables. Decimos que cada una de ellas es ‘de algún modo correcta’. Pero esta expresión indefinida ‘de algún modo correcta’ contiene el problema, pues aquí lo indefinido significa que parece sostenerse entre lo claramente verdadero y lo claramente falso. ¿Si es, en efecto, algo correcto, es correcto, precisamente, respecto a qué? ¿Cómo distinguirlo de lo que no es correcto?” (1962:6).</p>
+         <p>Sin lugar a dudas, la premisa que subyace en la cita anterior conduce al predicamento de abandonar la objetividad o adoptar un criterio tan débil de la misma que, en últimas, empuje a las ciencias humanas al relativismo. Sin embargo, Bollnow plantea una interesante salida: la separación entre la objetividad y la validez universal; con otras palabras, parece imposible para las ciencias humanas alcanzar una validez universal, mas esto no implica el abandono de la objetividad. La imposibilidad, como se había insinuado, tiene que ver con el carácter ineludible de la subjetividad, propio de estas ciencias. Ahora bien, este movimiento exige una consideración fresca de la subjetividad, una que no contribuya a la polaridad objetividad-subjetividad. Si la subjetividad se toma como “arbitrariedad subjetiva, prisionera de diversos límites accidentales y prejuicios” (1962:7), es natural que un investigador riguroso se esfuerce por dejarla a un lado; sin embargo, hay de hecho otro sentido de subjetividad, a saber, aquel que reconoce “la influencia del alma en el cognocente, la cual debe entrar en su proceso de comprensión para que su objeto se descubra en su profundidad” (1962:8). Esta influencia es inevitable; más aún, como lo afirma Bollnow, “es la precondición necesaria para que haya conocimiento” (1962:8). Lo importante de esta salida es que establece un nuevo concepto de objetividad para las ciencias humanas: “La objetividad así definida ya no tiene que medirse por el estandar de la validación universal sino que está relacionada con el objeto, dedicada al objeto; nos conduce a él mediante el descubrimiento de su esencia. Esto, en últimas, es lo que significa [para las ciencias humanas] el término objetividad” (1962:8).</p>
+         <p>
+            El trabajo de Bollnow nos remite a un período de la discusión que si bien se sitúa en una fase de “madurez” de las ciencias humanas (a diferencia, por ejemplo, de los trabajos de Dilthey o Windelband), esta se da en términos aún ligados a lo filosófico. A continuación, podemos revisar otra aproximación, esta vez desde la historia de las ciencias humanas; me refiero específicamente al trabajo de la profesora Lorraine
+            <xref ref-type="bibr" rid="B3">Daston (2014</xref>
+            ). De acuerdo con Daston, la historia tanto de las ciencias como de las humanidades, por lo menos desde el siglo XVI, ha estado interrelacionada en múltiples niveles, a saber: métodos, instituciones, ideas y virtudes epistémicas; la objetividad es un ejemplo de estas últimas. La objetividad “emergió tanto en las humanidades como en las ciencias en el siglo XIX; pero, al menos en algunas de las humanidades, estuvo precedida por una virtud epistémica más antigua: la imparcialidad” (2014:27). Para los propósitos de este escrito, no es necesario reconstruir todas etapas por las que, de acuerdo con Daston, transcurre el paso de la imparcialidad a la objetividad; basta señalar unos pocos casos, especialmente los relacionados con las historias nacionales, elaboradas por los historiadores de los siglos dieciocho y diecinueve. La idea básica que defiende la autora es que la idea de objetividad que sucede a la imparcialidad tiene que ver, sobre todo, con “ciertas técnicas y actitudes aplicadas a temas relacionados con la historia” (2014:28).
+         </p>
+         <p>Respecto a la imparcialidad, Daston sostiene que la principal utilidad de la historia consistía en producir “narraciones verdaderas de vidas y acontecimientos presentados como guías tanto morales como prácticas para los lectores” (2014:28). La historia tenía, entonces, una función moral, a saber, presentar modelos a seguir. El lema que iluminó este tipo de investigaciones fue: Sine ira et studio (sin ira ni fanatismo). Debe notarse que la imparcialidad no era sinónimo de neutralidad; en efecto, si bien la imparcialidad tenía que ver con no tomar partido por las distintas versiones de la historia, sin embargo, sí había de facto una toma de partido por aquellos episodios que reivindicaran una postura moral deseable. La imparcialidad se comprendía en un contexto judicativo, pero era imposible de considerar desde la esfera de la neutralidad (¿puede acaso concebirse un juez neutral?), toda vez que se debía emitir un veredicto.</p>
+         <p>No obstante, al estar ligada a la preservación de unos valores morales, la imparcialidad estaba expuesta a los conflictos propios de valores morales en disputa, los cuales se hicieron patentes una vez las narraciones históricas acerca de los estado-nación se volvieron el centro de atención de los historiadores. Según Daston, para los historiadores alemanes del siglo diecinueve, “la ciencia de la historia […] no era un fin en sí misma sino un medio a través del cual se promovían los intereses nacionales” (2014:30).</p>
+         <p>La reacción a este tipo de historia vino de la mano de Gustav Droysen quien en su trabajo Grundriss der Historik defendió una objetividad histórica que se alejaba tanto del positivismo histórico como de la novela histórica. Es importante destacar el concepto de objetividad de este historiador, toda vez que no ancla la narración histórica en los “hechos puros” (reine Tatsachen), ni cree en la posibilidad de hallar leyes deterministas en la historia, ni mucho menos plantea que se pueda llegar a verdades no mediadas acerca del pasado. Para él, “los historiadores solo pueden vislumbrar el pasado a través de vidrios oscuros y fuentes fragmentadas, las cuales han sido impregnadas de perspectivas parciales y partidistas” (Daston 2014:32). No obstante, Droysen propone una serie de técnicas que agrupa en torno a lo que él denomina crítica histórica a las fuentes (Quellenkritik), que a la larga se convertirá en la fuente de la objetividad histórica. Un esbozo del procedimiento establecido por Droysen es el siguiente: “Primero, determinar de qué trataban las fuentes; segundo, comprobar con cuáles ‘colores’ se habían impregnado debido a las concepciones reinantes del tiempo y el lugar; y tercero, discernir el ‘colorido’ individual que le había impregnado quien había escrito la fuente. La Quellenkritik fue la práctica sistemática de identificación, contextualización y crítica” (Daston 2014:32).</p>
+         <p>La esquemática presentación del paso de la imparcialidad a la objetividad, en el caso específico de la historia, ha permitido ver cómo es posible ubicar la objetividad en el contexto de “procedimientos y protocolos”, tal y como se dio en el ámbito de las ciencias naturales, según la exposición de Agazzi. La conclusión que de esto extrae Daston es que “la verdad ‘objetiva’ del pasado siempre estaba fuera de alcance; sin embargo, los métodos del historiador -y sobre todo la conciencia de los historiadores respecto a los límites de estos métodos- calificó la historia científica como objetiva” (2014:32); de cierta manera, esta elaboración permitió la fundamentación de la historia como ciencia.</p>
+         <p>Las posturas de Bollnow y Daston sobre la objetividad en ciencias humanas no difieren sustancialmente de las de Agazzi sobre la objetividad en ciencias naturales o las de Megill y Gaukroger respecto a la objetividad en el contexto de la epistemología general. Tampoco son extrañas a quienes indagan por la objetividad en disciplinas específicas como el periodismo. La profesora Senja Post, por ejemplo, se propuso determinar, a través de un amplio número de encuestas aplicadas a periodistas alemanes, si existe la objetividad científica en el periodismo. Bien es sabido que, en la actualidad, el periodismo ha sido uno de los bastiones de la posverdad, en especial con la popularización de las llamadas fake news o noticias falsas. Post encontró que, similar al caso de Gómez (<ext-link ext-link-type="uri" xlink:href="https://www.eltiempo.com/opinion/columnistas/gustavo-gomez-cordoba/entrecomillados-columna-de-gustavo-gomez-cordoba-338664">Entrecomillados</ext-link>), algunos periodistas se niegan a la posibilidad de hallar la objetividad o, por lo menos, “dudan respecto a la posibilidad práctica de encontrar criterios de objetividad científica en el periodismo” (Post 2015:733).</p>
+         <p>Tal y como se ha presentado en este artículo, también lo que los teóricos del periodismo entienden por objetividad tiene distintas respuestas, algunas de las cuales “retan la idea que haya una realidad externa independiente de los sujetos que la perciben y describen” (Post 2015:732). De acuerdo con esta posición, ni los hechos científicos ni la información periodística pueden ser objetivos, pues “no reflejan la realidad sino las condiciones sociales y cognitivas que subyacen a ella” (2015:732). Una idea que promueve esta postura consiste en una cruzada por el abandono de la objetividad, toda vez que esta “refuerza las estructuras sociales al favorecer modos de pensar establecidos o inhibir intuiciones o conclusiones” (2015:732). De acuerdo con otras posiciones, la objetividad periodística es un ideal regulador (a sabiendas de la imposibilidad de alcanzarla plenamente) o algo deseable. Asimismo, existen posiciones escépticas respecto al periodismo objetivo. La variedad de posiciones no es exclusiva en esta disciplina particular. Si se amplía el contorno, se obtendría casos ad nauseam que validarían la idea que se requiere una discusión epistémica respecto a la objetividad en ciencias humanas.</p>
+         <p>El recorrido hecho en este apartado ha permitido considerar el problema de la objetividad en el contexto de las ciencias humanas. Tal y como se había vislumbrado en el apartado anterior, este problema está ligado a la falta de una definición de objetividad; pero no solo esto, también tiene que ver con el traslado de problemas propios de la epistemología general sin atender a las situaciones históricas de cada disciplina. La consecuencia de esto último ha sido que ciertas discusiones dadas en el terreno de la epistemología general permean la epistemología de las disciplinas particulares sin la debida crítica de los postulados que están en juego. Sin el requerido filtro crítico e histórico, las disciplinas podrían verse girando en círculos sobre ideas ajenas, por lo regular filosóficas, o estableciendo bastiones teóricos que impiden la conformación de sistemas coherentes al interior de la disciplina (algunos de estos bastiones pueden verse en las distintas posturas que los periodistas tienen sobre la objetividad en el periodismo), radicalizando lo que Kuhn, en su libro The Structure of Scientific Revolutions, denominó paradigmas emergentes, sin la esperanza de hallar un paradigma dominante, lo que, conservando la misma línea kuhniana, perpetúa la situación de las ciencias humanas como ciencias inmaduras (en el sentido de no tener un paradigma dominante, tal y como lo plantea Kuhn en su artículo The Natural and the Human Sciences).</p>
+         <p>Tal vez un modo de contribuir al debate sea proponer un concepto de objetividad para las ciencias humanas que no sea exclusivo de ellas, sino que se intersecte con la objetividad científica en general; más aún, con la objetividad en el mundo de la vida. De acuerdo con lo considerado en este apartado, tal definición tendrá que romper con la pretensión de alguna rama de la filosofía que exija para la objetividad lo que Putnam, en Reason, Truth and History, denominó “el punto de vista del ojo de Dios”, pero sin avalar posturas como las de Glasersfeld, quien clamaba por un “Adiós a la objetividad” (precisamente en un ensayo que lleva esto por título Farewell to Objectivity). En el siguiente apartado conclusivo indico algunas ideas que podrían ser útiles para la constitución de una definición de objetividad en las ciencias humanas.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión: ideas para la constitución de una definición de objetividad en ciencias humanas</title>
+         <p>Antes de enunciar las ideas, es necesario responder afirmativamente a la pregunta planteada en el título de este artículo, esto es, sí es posible la objetividad en las ciencias humanas. Este artículo permitió, por lo menos, poner en cuestión una versión fuerte o rígida de objetividad, tal vez la objetividad que tiene en mente Gómez (<ext-link ext-link-type="uri" xlink:href="https://www.eltiempo.com/opinion/columnistas/gustavo-gomez-cordoba/entrecomillados-columna-de-gustavo-gomez-cordoba-338664">Entrecomillados</ext-link>) cuando se negaba, como periodista, a ser objetivo. El punto es que, si bien esta concepción extrema de objetividad, relacionada de modo directo con el externalismo fuerte, sucumbe a exámenes básicos, como los planteados por Agazzi o Bollnow, esto no implica que haya un abandono de los hechos, preocupación presente en Obama y Pinker (para una discusión externalismo-internalismo en la justificación epistémica ver la entrada escrita por Pappas <ext-link ext-link-type="uri" xlink:href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=justep-intext">internalist vs. externalist conceptions of epistemic justification</ext-link>. En ese artículo pueden considerarse algunas versiones débiles de externalismo que podrían ser compatibles con versiones débiles de internalismo). En tal sentido, es posible formular una objetividad que no esté en contraposición con la subjetividad, sino que la tenga en cuenta.</p>
+         <p>Ahora bien, lo interesante de la discusión es que esto no ocurre solo para las ciencias humanas, sino que se da en el campo de las ciencias naturales o en el terreno mismo de la cotidianidad. En este caso, se estaría dando razón a Haack quien, en una discusión sobre cuestiones epistémicas de las ciencias naturales y la sociales (y es, ciertamente, coextensivo a las humanas), concluye que se trata de “lo mismo, solo que diferente” (el ensayo de Haack se titula del mismo modo The same, only different). Para Haack, “puesto que la investigación científico-social es un tipo de investigación, cae bajo el escrutinio de los valores epistémicos” (2007:169). Para el caso del valor de la imparcialidad, afirma que “no requiere que comencemos con un tablero en blanco, una mente vacía de creencias -si fuera así no se podría investigar nada-; lo que requiere es que no se tengan preconceptos inamovibles, que se revise toda la evidencia y que se cambie el juicio inicial si la evidencia va en contra de él” (2007:170). No se trata de reducir las ciencias humanas a las naturales, como en algún momento se intentó, sino de conservar algunas características similares (“lo mismo”), sin olvidar que, como afirma Ingthorsson, “quienes han tomado a las ciencias humanas como menos talentosa que sus hermanas las ciencias naturales no han apreciado adecuadamente la diferencia entre los dos tipos de fenómenos que están estudiando y las consecuencias metodológicas de esa diferencia” (Ingthorsson 2013:40), esto es, “lo diferente”.</p>
+         <p>Teniendo esto presente, se enuncian algunos elementos para tener en cuenta en la constitución de una definición de objetividad para las ciencias humanas:</p>
+         <p>a. La objetividad en ciencias humanas no tiene que ver con la imparcialidad o neutralidad del investigador. Reconoce que el sujeto es quien conoce y, en tal medida, no puede eximirse del proceso del conocimiento.</p>
+         <p>b. La inclusión de la subjetividad en la objetividad no hace de las ciencias humanas un subjetivismo desligado del mundo independiente del sujeto. Con otras palabras, la objetividad en ciencias humanas no es incompatible con la postulación de un mundo externo al sujeto, sobre el cual puede pronunciarse públicamente.</p>
+         <p>c. Los objetos de las ciencias humanas parecen ser más complejos que los de las ciencias naturales; sin embargo, a esta dificultad no le es inherente la imposibilidad. En tal sentido, la objetividad en ciencias humanas, más que dar cuenta plena de su objeto, se compromete con la búsqueda de criterios intersubjetivos que garanticen el núcleo invariante de un hecho. Es posible garantizar, a través de estos criterios, la cientificidad de las ciencias humanas.</p>
+         <p>d. El conocimiento objetivo en ciencias humanas no se distingue, en esencia, del conocimiento objetivo producido por otras ciencias, por lo que también comparte sus mismas características y exigencias, entre las que se destaca: la falibilidad, el valor y la humildad intelectual, la justicia epistémica, la honestidad académica, entre otras.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Este artículo hace parte del proyecto de investigación: “La objetividad en ciencias humanas: dificultades en su definición y polémicas recientes en torno a ella” (ID 5094), adelantado por el grupo de investigación Fenomenología y Ciencia, y financiado por la Vicerrectoría de investigaciones de la Universidad del Cauca.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Agazzi, E.,  (2014).
+               <italic>Scientific objectivity and its contexts</italic>
+               . : Springer Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/978-3-319-04660-0">https://doi.org/10.1007/978-3-319-04660-0</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agazzi</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>Scientific objectivity and its contexts</source>
+               <publisher-name>Springer</publisher-name>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/978-3-319-04660-0">https://doi.org/10.1007/978-3-319-04660-0"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Bollnow, O.(1962). "Die Objektivität der Geisteswissenschaften und die Frage nach dem Wesen der Wahrheit".
+               <italic>Zeitschrift für philosophische Forschung. 16</italic>
+               (1), 3-25. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/20481238">https://www.jstor.org/stable/20481238</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bollnow</surname>
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>
+               <year>1962</year>
+               <article-title>Die Objektivität der Geisteswissenschaften und die Frage nach dem Wesen der Wahrheit</article-title>
+               <source>Zeitschrift für philosophische Forschung</source>
+               <volume>16</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>25</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/20481238">https://www.jstor.org/stable/20481238"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Daston, L. (2014).
+               <italic>Objectivity and impartiality. epistemic virtues in the humanities</italic>
+               . En Bod, R., Maat, J., Weststeijn, T (autor.);The making of the humanities, Volume III.  (27-41).: Amsterdam University Press Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.26530/OAPEN_500288">https://doi.org/10.26530/OAPEN_500288</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Daston</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Objectivity and impartiality. epistemic virtues in the humanities</chapter-title>
+               <year>2014</year>
+               <source>The making of the humanities, Volume III</source>
+               <publisher-name>Amsterdam University Press</publisher-name>
+               <fpage>27</fpage>
+               <lpage>41</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.26530/OAPEN_500288">https://doi.org/10.26530/OAPEN_500288"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Gabrie, M.,  (2017).
+               <italic>Por qué el mundo no existe</italic>
+               . : Pasado &amp; Presente
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gabrie</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Por qué el mundo no existe</source>
+               <publisher-name>Pasado &amp; Presente</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Gaukroger, S.,  (2012).
+               <italic>Objectivity. A very short introduction</italic>
+               . : Oxford University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gaukroger</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Objectivity. A very short introduction</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Haack, S.,  (2007).
+               <italic>Defending science -within reason</italic>
+               . : Prometheus Books
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Haack</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Defending science -within reason</source>
+               <publisher-name>Prometheus Books</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Ingthorsson, R.(2013). "The natural vs. the human sciences".
+               <italic>Discusiones filosóficas. 22</italic>
+               , 25-41. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0124-61272013000100003">http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0124-61272013000100003</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ingthorsson</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>The natural vs. the human sciences</article-title>
+               <source>Discusiones filosóficas</source>
+               <volume>22</volume>
+               <issue />
+               <fpage>25</fpage>
+               <lpage>41</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0124-61272013000100003">http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0124-61272013000100003"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Megill, A.,  (1994).
+               <italic>Rethinking objectivity</italic>
+               . : Duke University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Megill</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <source>Rethinking objectivity</source>
+               <publisher-name>Duke University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Post, S.(2015). "Scientific objectivity in journalism? How journalists and academics define objectivity, assess its attainability, and rate its desirability".
+               <italic>Journalism. 16</italic>
+               (6), 730-749. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1464884914541067">https://doi.org/10.1177/1464884914541067</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Post</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Scientific objectivity in journalism? How journalists and academics define objectivity, assess its attainability, and rate its desirability</article-title>
+               <source>Journalism</source>
+               <volume>16</volume>
+               <issue>6</issue>
+               <fpage>730</fpage>
+               <lpage>749</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1464884914541067">https://doi.org/10.1177/1464884914541067"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Rorty, R.,  (1996).
+               <italic>Objetividad, relativismo y verdad. Escritos filosóficos 1</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rorty</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>Objetividad, relativismo y verdad. Escritos filosóficos 1</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Sankey, H.(2017). "Realism, progress and the historical turn".
+               <italic>Foundations of Science. 22</italic>
+               , 201-214. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/.10.1007/s10699-015-9481-4">https://doi.org/.10.1007/s10699-015-9481-4</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sankey</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Realism, progress and the historical turn</article-title>
+               <source>Foundations of Science</source>
+               <volume>22</volume>
+               <issue />
+               <fpage>201</fpage>
+               <lpage>214</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/.10.1007/s10699-015-9481-4">https://doi.org/.10.1007/s10699-015-9481-4"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

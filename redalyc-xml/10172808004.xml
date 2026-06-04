@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2022000200078</article-id>
+         <article-id pub-id-type="publisher-id">00004</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículo</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Imaginarios sociales, representaciones sociales y re-presentaciones discursivas</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Social imaginaries, social representations, and discursive re-presentations</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0001-6691-3572</contrib-id>
+               <name>
+                  <surname>Riffo-Pavón</surname>
+                  <given-names>Ignacio</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+            <aff id="aff1">
+               <label>1</label>
+               <institution content-type="original"> Facultad de Economía, Gobierno y Comunicación, Universidad Central de Chile (Santiago, Chile) (ignacioriffopavon@gmail.com)</institution>
+               <institution content-type="normalized">Universidad Central de Chile</institution>
+               <institution content-type="orgdiv1">Facultad de Economía, Gobierno y Comunicación</institution>
+               <institution content-type="orgname">Universidad Central de Chile</institution>
+               <addr-line>
+                  <named-content content-type="city">Santiago</named-content>
+               </addr-line>
+               <country country="CL">Chile</country>
+               <email>ignacioriffopavon@gmail.com</email>
+            </aff>
+         <pub-date pub-type="epub">
+            <month>09</month>
+            <year>2022</year>
+         </pub-date>
+         <issue>74</issue>
+         <fpage>78</fpage>
+         <lpage>94</lpage>
+         <history>
+            <date date-type="received">
+               <day>11</day>
+               <month>03</month>
+               <year>2022</year>
+            </date>
+            <date date-type="accepted">
+               <day>25</day>
+               <month>06</month>
+               <year>2022</year>
+            </date>
+         </history>
+         <permissions>
+            <license xml:lang="es" license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by/4.0;/">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>En este trabajo se desarrolla una aproximación epistemológica a las significaciones sociales, comprendidas como una entidad central que urde la composición simbólica de la realidad. Para ello, se despliega un trabajo teórico y reflexivo con el objetivo de esclarecer las tres significaciones sociales que aquí se establecen: imaginarios sociales, representaciones sociales y re-presentaciones discursivas. Al mismo tiempo, se procura presentar una taxonomía en planos de significación, correspondiente a las particularidades y ámbitos de acción de los imaginarios sociales (plano profundo), representaciones sociales (plano medio de transición) y re-presentaciones discursivas (plano superficial). Este trabajo epistémico, que aporta en la clarificación conceptual de las tres nociones tratadas, ofrece un sustento teórico para futuras investigaciones y una nueva forma de abordar las significaciones sociales.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>In this work, an epistemological approach to social meanings is developed, understood as a central entity that weaves the symbolic composition of reality. To do this, a theoretical and reflective work is deployed with the aim of clarifying the three social meanings established here: social imaginaries, social representations, and discursive re-presentations. At the same time, it seeks to present a taxonomy in planes of meaning, corresponding to the particularities and fields of action of social imaginaries (deep plane), social representations (middle plane of transition) and discursive re-presentations (superficial plane). This epistemic work, which contributes to the conceptual clarification of the three notions discussed, offers theoretical support for future research and a new way of approaching social meanings.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="en">
+            <title>Key words:</title>
+            <kwd>imaginary</kwd>
+            <kwd>representations</kwd>
+            <kwd>discursive re-presentations</kwd>
+            <kwd>social significance</kwd>
+            <kwd>society</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>imaginarios</kwd>
+            <kwd>representaciones</kwd>
+            <kwd>re-presentaciones discursivas</kwd>
+            <kwd>significación social</kwd>
+            <kwd>sociedad</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group award-type="contract">
+               <award-id>N°3210195</award-id>
+            </award-group>
+         </funding-group>
+         <counts>
+            <fig-count count="0"/>
+            <table-count count="0"/>
+            <equation-count count="0"/>
+            <ref-count count="19"/>
+            <page-count count="17"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>A partir de una serie debates producidos en el III Workshop Internacional de la Red Iberoamericana de Investigación en Imaginarios y Representaciones Sociales (RIIR), organizado por la Universidad Autónoma Metropolitana de México en el mes de octubre del 2021, se logró identificar unos usos indistintos y, también, sinónimos en torno a las nociones de imaginarios y representaciones sociales. Esta cuestión ya se alcanzaba a apreciar en el libro <italic>Imaginarios y representaciones sociales: estado de la investigación en Iberoamérica </italic>de Aliaga, Maric y Uribe, así como en los límites difusos conceptuales que establecía José Cegarra (Fundamentos teórico epistemológicos de los imaginarios sociales) o en las aproximaciones metodológicas en torno al estudio de los imaginarios y representaciones sociales en Chile (La investigación en Chile sobre imaginarios y representaciones sociales). A raíz de esta situación, surge aquí el esfuerzo epistémico por clarificar las nociones en cuestión y, también, constituir una clasificación en torno a los distintos planos de significación constitutivos del mundo social.</p>
+         <p>De esta manera, el objetivo de este artículo es doble: a) establecer un esclarecimiento en torno a las nociones de imaginarios sociales, representaciones sociales y re-presentaciones discursivas; y b) presentar una taxonomía que permita dilucidar los distintos planos de significación que ofrecen las tres nociones recién planteadas. Es decir, <italic>grosso modo</italic>, aquí se despliega un trabajo que intenta ahondar en los fundamentos y dimensiones de las significaciones sociales que estructuran la realidad (imaginarios sociales, representaciones sociales y re-presentaciones discursivas). Para ello, se realiza un recorrido teórico-reflexivo de las propuestas clásicas y las aportaciones más recientes que abordan el presente objeto de estudio, anclado en las dimensiones, alcances y particularidades de las significaciones que constituyen la realidad social.</p>
+         <p>En este sentido, este trabajo está confeccionado por cuatro secciones articuladas entre sí. La primera se titula <italic>Los tres planos de significación social: una propuesta epistémica y operativa</italic>. Aquí se presentan los tres grandes niveles de significación que se plantean en este artículo: el plano profundo (imaginarios sociales), el plano medio de transición (representaciones sociales) y el plano superficial (re-presentaciones discursivas). En rigor en esta taxonomía se modula el esclarecimiento teórico-conceptual que resulta cardinal para los fines del presente trabajo. </p>
+         <p>La segunda sección <italic>Los imaginarios sociales: plano profundo de significación</italic>, se plasman definiciones y funciones en torno a los imaginarios sociales. Además, se propone que en este plano se hallan dos categorías de imaginarios sociales (los nucleares y los periféricos). A partir de estos, como fuente matriz de significación, se cimienta la intervención del ser humano en la cotidianeidad y, además, fundamenta sus más diversas creaciones.</p>
+         <p>La tercera parte <italic>Representaciones sociales: plano medio de transición de significación</italic>, deja de manifiesto que las representaciones sociales se establecen mediante la interacción de los seres humanos y en base a aquellos fundamentos imaginarios sociales existentes. Asimismo, las representaciones sociales o imágenes socioculturales tienen la facultad de explicar el decir-hacer social de los individuos. Por tanto, este plano es el nexo significacional entre el fundamento matriz (imaginarios sociales) y la manifestación o <italic>praxis</italic> del ser humano (re-presentaciones discursivas).</p>
+         <p>En último lugar, la cuarta sección titulada <italic>Re-presentaciones discursivas: plano superficial de significación</italic>, da cuenta de la capacidad humana de re-presentar su mundo mediante los imaginarios y representaciones sociales que recorren el saber histórico-social donde el individuo se encuentra inserto. Este plano de significación permite observar y aprehender todas aquellas obras o prácticas humanas portadoras de sentido del decir-hacer social.</p>
+         <p>A modo de conclusiones, este artículo busca demostrar que las tres significaciones sociales aquí planteadas se sitúan, respectivamente, en planos de significación diferentes, por ende, cada una exhibe unas cualidades epistémicas propias. Esta cuestión logra evidenciar que cada significación social contribuye, según sus particularidades inmanentes, en la construcción de la realidad social. Es decir, los imaginarios sociales son el fundamento cardinal de toda creación; las representaciones sociales permiten explicar el decir-hacer de los sujetos; y las re-presentaciones discursivas son la reproducción y expresión encarnada de sentido que deja de manifiesto a los imaginarios y representaciones sociales que urden a una sociedad.</p>
+      </sec>
+      <sec>
+         <title>Los tres planos de significación social: una propuesta epistémica y operativa</title>
+         <p>Este abordaje epistemológico considera a la cultura como un proceso de simbolización (Solares. <italic>Gilbert Durand, escritos musicales</italic>; Durand. <italic>Les structures anthropologiques de l’imaginaire</italic>), es decir, toda producción humana (ideas, materiales, filosofías, ciencias, mitos, prácticas, etc.) es sustancialmente simbólica. <italic>Ergo</italic>, la realidad social se halla entretejida ineludiblemente por unas redes de carácter simbólica. Por tanto, las significaciones sociales, que son el objeto de interés de este manuscrito, se han de entender, en una primera instancia, como el resultado simbólico de un proceso creativo e instituyente del ser humano. De este modo, el manuscrito se adentra en la dimensión de las significaciones sociales entendidas como construcciones simbólicas humanas que, como veremos en los folios posteriores, poseen unas propias cualidades que constituyen los tres planos que aquí se proponen (<italic>plano profundo</italic>, <italic>plano medio de transición</italic> y <italic>plano superficial</italic>).</p>
+         <p>La propuesta central que plantea este artículo es la de establecer tres planos de la significación social, que van desde el más profundo-latente hasta el más superficial-patente. En primer lugar, los imaginarios sociales, correspondientes al plano profundo; en segundo lugar, las representaciones sociales, referentes al plano medio de transición; y, por último, las re-presentaciones discursivas, relativas al plano superficial.</p>
+         <p>Vinculado al interés de este escrito, se puede mencionar que Castoriadis (<italic>La institución imaginaria de la sociedad</italic>), Baeza (<italic>Mundo real, mundo imaginario social</italic>) y Carretero (Para una tipología de las representaciones sociales) han abordado y deslizado una clasificación o distinción de las significaciones sociales. A rasgos generales, estos tres aportes establecen lo siguiente.</p>
+         <p>Primero es Cornelius Castoriadis, quien establece una distinción de las significaciones imaginarias. Allí a unas las denominó <italic>primarias</italic> y a otras <italic>secundarias</italic>. Sin embargo, en el presente artículo se decide prolongar y aportar una nueva configuración a estos componentes significacionales.</p>
+         <p>Segundo, desde una perspectiva fenomenológica, Manuel Baeza plantea que el ser humano puede observar y adentrarse a la realidad social desde distintos planos. Inicia este recorrido por el plano aparente u observable, al cual se accede fácilmente a través de los sentidos; luego señala al plano subyacente o medianamente accesible a los sentidos; también destaca al plano imaginado inaccesible mediante los sentidos y que se constituye con informaciones previas como con creaciones de la imaginación; y, por último, el plano inconsciente, el cual remite a una mayor profundidad donde se hallan los arquetipos.</p>
+         <p>Tercero, Enrique Carretero enseña los distintos modos de operatividad sociológica otorgados a las representaciones sociales y a los imaginarios sociales. Así, el autor establece tres niveles interrelacionados, de los que se intuye una operatividad y un campo de actuación. El primer nivel, desde una mirada transhistórica, es denominado imaginario social como <italic>arquetipo</italic>. El segundo nivel, a partir de la fenomenología, se considera al imaginario social como <italic>significación imaginaria</italic>. El tercer nivel, desde un prisma constructivista y focalizado en las representaciones sociales, se establece al imaginario social como <italic>constructor de realidades sociales</italic>.</p>
+         <p>Así, estas tres aportaciones condensan una serie de perspectivas intelectivas que sedimentan e invitan a sondear nuevos caminos en torno a este sujeto. Por ello, el presente artículo intenta proponer una nueva taxonomía que permita dilucidar los distintos planos de las significaciones sociales y, a la vez, establecer un esclarecimiento conceptual sobre las nociones que aquí se despliegan. </p>
+         <p>En este sentido, se resuelve trazar un camino epistemológico en base a tres grandes niveles de significaciones: imaginarios sociales, representaciones sociales y re-presentaciones discursivas. Primero se presenta a los imaginarios sociales, estos se encuentran en el plano más profundo y actúan como matrices de sentido para fundar el mundo tal cual es. Segundo, relativo al plano medio de transición, se expone la importancia de las representaciones sociales en su rol explicativo del mundo más próximo del individuo. Tercero, se despliega la sección correspondiente al plano superficial de las re-presentaciones discursivas. Estas se instalan en la dimensión más patente de las significaciones sociales, pues se relacionan con la materialización de las <italic>praxis</italic> o el decir-hacer social de los individuos.</p>
+         <sec>
+            <title>1. Los imaginarios sociales: plano profundo de significación</title>
+            <p>Se considera que los imaginarios sociales se encuentran en el plano más profundo, invisible y difícil de aprehender de la significación social. Éstos se concentran en una incursión simbólica más compleja y contundente (Carretero. <italic>Actualidad del campo de los imaginarios y las representaciones sociales en España</italic>). En este plano profundo, los imaginarios cumplen la función de matriz o magma de significaciones que permite instituir la sociedad (Castoriadis. <italic>La institución imaginaria de la sociedad</italic>), además de hacerla coherente y cognoscible.</p>
+            <p>Se estipula que los imaginarios sociales son las creencias, relatos e ideas de mundo que posee y comparte un determinado pueblo en un espacio-tiempo determinado. Es así como los imaginarios sociales se relacionan a la institución social de lo que los seres humanos entendemos por realidad (Castoriadis. <italic>La institución imaginaria de la sociedad</italic>). En otras palabras, los imaginarios sociales son unas cartografías mentales compartidas que permiten fundar la realidad tal cual es. De aquí se eleva la importancia de los imaginarios como arquitectura socio-cognitiva referencial de las <italic>praxis</italic> humanas y, a la vez, como fuente matriz que funda la realidad social. Por tanto, gracias al papel central de los imaginarios sociales, una sociedad en concreto puede legitimar de manera amplia aquello que considera que es la realidad.</p>
+            <p>Es prudente indicar que el contenido de los imaginarios sociales no permanece estático de manera indefinida en el tiempo, sino más bien puede reactualizarse para así responder a los desafíos que acaecen en la sociedad. Sin embargo, esta (re)actualización se produce de forma paulatina, no es brusca ni acelerada, puesto que “los imaginarios se encuentran en un tiempo histórico largo, mutan lentamente, sus procesos de institución o caída necesitan de un transcurso temporal más extenso” (<xref ref-type="bibr" rid="B15">Riffo-Pavón, Basulto y Segovia 2021</xref>:362).</p>
+            <p>Se prefiere señalar la noción de imaginarios sociales en plural, puesto que “las sociedades en las que vivimos son policontexturales, no tienen centros ni vértices que produzcan un imaginario único ni una verdad indiscutible, ni una moral universalmente válida” (<xref ref-type="bibr" rid="B14">Pintos 2015</xref>:156). Por tanto, los imaginarios sociales no se hallan exentos de variadas oposiciones provenientes de la propia diversidad de una sociedad. Esta cualidad policontextural de las sociedades se traduce en la confrontación, interrelación y coexistencia entre diversos imaginarios sociales. </p>
+            <p>El dominio predilecto de los imaginarios sociales se sitúa en el ADN sociocultural o en el fondo de la conciencia de una sociedad. Vale decir que los imaginarios sociales están ligados a los fondos culturales configuradores del dominio histórico-social (Castoriadis). Los imaginarios sociales no son un atributo más de la sociedad, sino más bien son la condición misma de su existencia. Por ende, los imaginarios remiten a un nivel de significación más profundo y constitutivo de la realidad social. Los imaginarios sociales fondeados en lo más profundo de la significación social desbordan la representación y lo ideológico (Le Goff. <italic>L´imaginaire medieval</italic>), vale decir, los imaginarios son esquemas de representación (Ledrut. Société réel, société imaginaire) o esquemas abstractos de representación de sendos referenciales sociales hacia donde se dirige la sociedad (Pintos. <italic>Los imaginarios sociales</italic>). Así, los imaginarios sociales se disponen como una matriz fundante de lo social, pues son considerados como esquemas básicos compartidos. Es decir, los imaginarios sociales comprenden los saberes culturales, ideas cardinales o concepciones primarias arraigadas en la memoria sociocultural de un pueblo.</p>
+            <p>Luego de este conciso esclarecimiento sobre los imaginarios sociales, en tanto que significación del plano profundo, se presentan, por un lado, seis imaginarios sociales nucleares y, por otro lado, la importancia y conformación de los imaginarios sociales periféricos. Ambos estamentos (<italic>nucleares</italic> y <italic>periféricos</italic>) se hallan en el plano profundo de significación. Resulta adecuado indicar que esta propuesta busca extender las nociones de significaciones primarias y secundarias desarrolladas por Cornelius Castoriadis.</p>
+            <sec>
+               <title>1.1. Los imaginarios sociales nucleares</title>
+               <p>Se considera que el ser humano emplazado en un espacio, irradiado por unos fundamentos míticos transhistóricos, interviene en la realidad a partir de la concepción de sí en relación con la alteridad, en unos marcos temporales consustanciales a él (pasado-presente-futuro), donde actúa en rigor a un <italic>deber ser</italic> normativo o valórico instituido socialmente. </p>
+               <p>A partir de la premisa recién mencionada, la propuesta epistemológica de este manuscrito considera que el ser humano no se puede eludir de los seis imaginarios sociales nucleares que aquí se proponen, ya que estos son magma creativo matricial y estamentos referenciales intrínsecos de la espacie humana. De este modo, los seis imaginarios sociales nucleares son: imaginarios sociales de la mismidad, otredad, valóricos, temporales, espaciales y mitológicos.</p>
+               <p>Los imaginarios sociales de mismidad. El sujeto, individual o colectivo, busca con sus propias particularidades diferenciarse en aspectos éticos y/o estéticos de los demás sujetos que le rodean. Es decir, el ser humano es capaz de construir su propia identidad, su <italic>ethos</italic> constitutivo y su realidad histórica-social. Aquí resalta la importancia de la noción de la identidad que los seres humanos poseen y que le distingue de sus semejantes (Falcón. Anotaciones sobre identidad y ‘otredad’; Larraín. <italic>¿América Latina moderna?</italic>). De acuerdo con Mabel Falcón, la identidad considerada como atributo individual responde a tres necesidades de lo humano. Primero, la necesidad del ser humano de percibirse como una totalidad. Segundo, el requerimiento de que dicha totalidad tenga una continuidad, es decir, <italic>ser uno mismo</italic> a lo largo del tiempo. Y, tercero, que esta unidad alcance reconocimiento por el contexto social, lo que se denomina mismidad. El valor de la noción de identidad radica en que a partir de ella se estructura un imaginario social correspondiente, que en el presente trabajo se denomina el imaginario social de mismidad.</p>
+               <p>Por tanto, el imaginario de la mismidad posee su columna de distinción en la noción de identidad, puesto que esta última se vincula con la idea existente de un <italic>nosotros</italic> en relación con un <italic>otro</italic>. Es la configuración de una autoimagen que involucra a las relaciones sociales y a la evaluación del propio <italic>yo</italic> o de un <italic>nosotros</italic>, es decir, la mismidad. En tal sentido, para la concreción de una autoimagen se recurre a la noción de identidad y a su primera función que es marcar diferencias con la otredad. Siguiendo a Manuel Baeza (<italic>Hacer mundo</italic>; <italic>Los caminos invisibles de la realidad social</italic>), para que exista identidad deben existir tres posicionamientos fundamentales: espacial (ubicación y apropiación de un espacio físico o simbólico), temporal (la vinculación con un pasado, presente y futuro) y relacional (percepción del otro desde la particularidad de un nosotros).</p>
+               <p>Es plausible indicar que el imaginario de la mismidad puede remitir a un individuo en singular o a un conjunto de sujetos interrelacionados (clan familiar, agrupaciones políticas/sociales, gremios, congregaciones religiosas, comunidades, países, etc.). Este imaginario se conforma en base a una gran urdimbre de significados que el propio sujeto ha construido para sí mismo. De tal manera, el imaginario social de la mismidad es aquella percepción, ideación y prefiguración de sí mismo que se concretiza en el <italic>ethos</italic> de un individuo o de un conjunto social, a partir de unos significados instituidos, unas peculiaridades materiales de sí y, por último, la conjugación del posicionamiento espacial, temporal y relacional existente. </p>
+               <p>Los imaginarios sociales de la otredad. Este segundo imaginario nuclear se halla estrechamente ligado al imaginario de la mismidad, puesto que la construcción de la mismidad del sujeto individual o colectivo se produce en relación con la otredad o lo <italic>no-yo</italic>. De tal modo, la concreción de la identidad no es una cuestión exclusiva del Yo (auto-imagen o auto-representación), sino también de la representación de lo Otro. Es decir, el <italic>anthropos</italic> no puede eludir la relación entre <italic>alter-ego</italic> y su presencia en el mundo, puesto que la interrelación y la condición gregaria del ser humano fundamenta lo sustancialmente humano. </p>
+               <p>Así, este imaginario nuclear que aquí se expone, responde al fundamento imaginario estructurado de ideas, atributos y arquetipos que condicionan la mirada que dirigimos hacia lo Otro. La autoconfiguración de la mismidad (<italic>Ego</italic>) remite a la ineludible relación, percepción, reconocimiento y negación de la otredad (<italic>Alter</italic>). Es decir, la configuración e institución del mundo y, por su puesto, de todas sus interrelaciones “se basa en una autorreferencialidad: el egotismo. Esta conducta egótica define lo que somos (Ego) y lo que no somos (Alter). A partir de esa autorreferencialidad tratamos al Otro como inferior, igual o superior” (<xref ref-type="bibr" rid="B4">Dittus 2011</xref>:68). </p>
+               <p>Este imaginario es considerado como nuclear puesto que en la construcción significativa de la mismidad (Yo), la presencia de la otredad (Otro/s) cumple el rol cardinal e inevitable de entidad diferenciadora. Se confirma en el Otro un elemento constitutivo en la concreción de la identidad (Bajtin. <italic>Yo también soy</italic>). Es decir, el sujeto individual o colectivo se autoinstituye en correspondencia con la otredad. Por consiguiente, desde aquí se discurre que el imaginario de la otredad es un fundamento configurador para el propio sujeto, ya que éste en base ideas, creencias, memorias o valoraciones construye y objetiva una alteridad, cuestión que le permite, al mismo tiempo, crear una autoimagen constitutiva de sí.</p>
+               <p>Los imaginarios sociales valóricos. Los grupos humanos son capaces de construir colectividades e instituciones comunes a partir del relacionamiento de ciertos valores compartidos. Cuestión por la cual los valores son considerados como fuente de normatividad y estamentos referenciales del <italic>deber ser</italic> de los sujetos en comunidad. Los valores son aquellos que “definen lo que está bien y lo que está mal, lo que está permitido o prohibido, así como los objetivos fundamentales por los que han de luchar los individuos, grupos y sociedades” (<xref ref-type="bibr" rid="B18">Van Dijk 2008a</xref>:24). </p>
+               <p>Los imaginarios sociales valóricos conllevan ideas fundantes del bien y el mal, los cuales se encuentran concretados en valores positivos o negativos. Estos moldes normativos son el reservorio referencial colectivo frente al <italic>deber ser</italic> de los individuos que conforman una comunidad. Para Van Dijk (<italic>Ideología y discurso</italic>) son el conjunto de normas y valores los que organizan las acciones y las evaluaciones del ser humano. Vale decir, la construcción del mundo social está mediada por una arquitectura normativa instituida por cada sociedad en un lugar y tiempo dado. Dicha arquitectura normativa es dinámica y evoluciona en el tiempo, adquiriendo así unos ciertos significados en determinados momentos históricos. Aquí se revela la condición imaginaria social de los valores, en tanto que creencias culturales básicas que orientan el devenir del ser humano y la sociedad. Los imaginarios sociales valóricos tienen que ver con las maneras de proceder o de actuaciones de los sujetos, puesto que son un fundamento común de ideas normadas y sociabilizadas que generalmente no se ponen en duda. En definitiva, siguiendo a Manuel Antonio Baeza: “Entendemos por valores sociales, esquemas bastante difusos que contienen ciertos principios normativos a través de los cuales, tras validarlos imaginario-socialmente, la sociedad en cuestión simplemente confía en que se apliquen en los comportamientos individuales y colectivos. Se trata, por lo tanto, de conductas o comportamientos esperables” (Baeza 2015:230).</p>
+               <p>Los imaginarios sociales temporales. Para Castoriadis el ser humano no está separado del espacio ni del tiempo, sino que, además, el tiempo es consustancial al ser. El ser humano es tiempo, por lo que no puede rehuir a esta condición intrínseca. El mundo físico/natural y la realidad social viven en el tiempo. Asimismo, el tiempo es impensable sin la creación humana, puesto que el tiempo no es nada o es creación (Castoriadis. <italic>Los dominios del hombre</italic>). Es el ser humano que vive en y, a la vez, instituye socialmente el tiempo dotándole de sentido.</p>
+               <p>Aquí se destaca la propia condición humana de situarse en el mundo en relación con un tiempo que puede ser pasado, presente y futuro. Es decir, la capacidad antropológica de (re)significar hechos pasados hallados en la memoria; la acción en el aquí y ahora del presente; y la capacidad proyectiva o (pre)figurativa del futuro. Estas variables adquieren significación en la medida en que el ser humano las instituye y las legitima socialmente. “Para poder hacer referencias más sólidas al tiempo se requiere construirlo de manera social, y que esto es materia de imaginarios sociales instituyentes de lo que finalmente es un tiempo social” (<xref ref-type="bibr" rid="B2">Baeza 2017</xref>:9). Esta construcción social del tiempo se halla conformada por significaciones imaginarias que colman de sentido las dimensiones temporales del pasado, presente y futuro, de las cuales ser humano es creador y sujeto significador.</p>
+               <p>Los imaginarios sociales en relación con las dimensiones temporales oscilan desde lo pretérito con la memoria social (Halbwachs. <italic>Los marcos sociales de la memoria</italic>) y la pretensión de (re)significar un hecho pasado (Baeza. Memoria e imaginarios sociales); pasando por la vivencia fugaz del aquí y el ahora del presente (Baeza. En torno al concepto de utopía); hasta la dimensión futura que estimula la utopía como alternativa al mundo existente (Duch. <italic>Conceptos fundamentales de antropología y religión</italic>) y el miedo antropológico del ser humano al tiempo (<italic>cronos</italic>) arrollador que siempre se avecina (Durand. <italic>Les structures anthropologiques de l’imaginaire</italic>).</p>
+               <p>Los imaginarios sociales espaciales. Para el ser humano el espacio se presenta como lo inevitable. La dimensión espacial es ineludible para el <italic>anthropos</italic>, pues, como remarca Perec (<italic>Especies de espacios</italic>), el ser humano es un ser de espacios. Vale decir, por la sola razón de su existencia, el ser humano se ubica en una dimensión espacial. Este espacio con el que se enfrenta el ser humano se compone, por un lado, de los accidentes geográficos naturales que conforman el relieve y el terreno específico de una zona y los accidentes geográficos del universo (planetas, lunas y asteroides). Por ende, es en la materia (tierra, agua, aire y fuego) donde se concretan las primeras ensoñaciones humanas, que se hallan condicionadas por la naturaleza del elemento en el que se proyectan nuestros sueños e ideaciones (Bachelard. <italic>El agua y los sueños</italic>). Por otro lado, se hallan los accidentes geográficos artificiales que han sido creados por el ser humano (puentes, autovías, edificios, etc.). Sin bien estos ya son obra material y simbólica del acto creativo del sujeto, igualmente constituyen el espacio en el que se emplaza el ser humano.</p>
+               <p>El <italic>anthropos</italic> habita, establece un contacto, vínculos y dota de significado a este primer estrato espacial dado. Es así como el sujeto de forma inevitable, por su cualidad antropológica simbolizante, articula unos imaginarios espaciales que otorgan un valor simbólico y trascendente a este nudo estrato espacial. Son aquellas ideas consignadas sobre algún accidente geográfico las que le otorgan sentido, inteligibilidad y familiaridad con aquel espacio que lo alberga. Parafraseando a Castoriadis (<italic>El imaginario social instituyente</italic>), la culminación de cualquier creación humana se halla condicionada, nunca determinada, por unas <italic>restricciones externas</italic> o de entorno que corresponden al primer estrato que envuelve al individuo. En este sentido, los imaginarios sociales espaciales emanan del propio sujeto en su relación, aprehensión y dotación simbólica sobre el estrato espacial o lugar en el que se sitúa. Es así como estos imaginarios inspiran las formas de vivir y de experiencia del sujeto para con su entorno. Por ejemplo, las costumbres, tradiciones y diversas formas de vida asentadas a los alrededores de los espacios fluviales.</p>
+               <p>Además del primer estrato recién descrito, se debe considerar la importancia en los imaginarios sociales espaciales la condición de la corporeidad del individuo emplazado en un espacio. De acuerdo con Godelier (<italic>Lo ideal y lo material</italic>), la realidad no solo remite a lo material, sino también a lo ideal que se encuentra intrínsecamente unido a lo material. Es decir, las ideaciones provenientes del natural trayecto antropológico (Durand. <italic>Les structures anthropologiques de l’imaginaire</italic>) del ser humano ubicado en una espacialidad, donde es capaz de conferir e institucionalizar posicionamientos de interior-exterior, arriba-abajo, dentro-fuera, centro-periferia, etc. A partir de estas dimensiones imaginarias nucleares, el ser humano comienza a instituir una serie de creencias e imágenes, tales como países del norte y del sur, orientales y occidentales, fronteras territoriales, espacio público y privado, sectores urbanos y suburbanos, autóctono y alóctono, etc.</p>
+               <p>Los imaginarios sociales mitológicos. Aquí se destaca la relevancia del mito como fundamento estructurador de las sociedades, de las más antiguas hasta las actuales. El mito es un modelo ejemplar “que sirve de pauta para todos los comportamientos, incluso los profanos del hombre” (<xref ref-type="bibr" rid="B7">Gutiérrez 2012</xref>:50). Es decir, los mitos contribuyen a la articulación cohesionada de las sociedades al proveer de personajes arquetípicos, sujetos actantes, escenarios posibles, enseñanzas, castigos, desafíos, etc. Por tanto, el mito es un artefacto que funciona como guía para la incursión del ser humano en el acto de construir su espacio y su tiempo. De acuerdo con Manuel Baeza: “el imaginario social más antiguo de la humanidad está contenido en el mito, que algunos han presentado como el mayor esfuerzo que el hombre haya efectuado sobre su propia memoria” (Baeza 2015:133). Por ello, los mitos, metarrelatos fundantes de lo social, revelan los aspectos más profundos de la realidad social.</p>
+               <p>Se considera al imaginario mitológico, en sus diversas formas y contenidos, una matriz significante profunda capaz de otorgar sentido simbólico al mundo del ser humano, puesto que el mito forma parte de la entraña misma de la condición humana (Chillón. La urdimbre mitopoética de la cultura mediática). Es decir, el mito se emplaza como una compleja y enriquecida fuente de significación profunda, que remite a una imagen de mundo apostada en la arquitectura del espíritu (Lévi-Strauss. <italic>Le cru et le cuit</italic>) y que impacta en el mundo social (Campbell. <italic>Los mitos</italic>).</p>
+               <p>El mito como imaginario social nuclear capaz de fundar lo social es considerado como “un relato ejemplar, es decir, que integra elementos fundadores tales como divinidades, atributos numinosos, arquetipos” (<xref ref-type="bibr" rid="B5">Durand 1979</xref>:83). Vale decir, en el sentido de Michel Maffesoli (<italic>El conocimiento ordinario</italic>), las sociedades contienen <italic>una huella mítica</italic> que es la base de su conformación. Aquello que también reveló Roland Barthes (<italic>Mitologías</italic>), al establecer que las sociedades y, por tanto, los fenómenos culturales poseen un residuo mítico. En este sentido, el imaginario social mitológico posee una gran carga de significación sociocultural y, a su vez, funciona como estamento originario y fundante de lo social.</p>
+            </sec>
+            <sec>
+               <title>1.2. Imaginarios sociales periféricos</title>
+               <p>En base a la idea de Cornelius Castoriadis (<italic>La institución imaginaria de la sociedad</italic>) en torno a las significaciones imaginarias secundarias, se decide revitalizar y extender su propuesta con el fin de explicar la taxonomía significacional y el esclarecimiento conceptual que se desarrolla en el presente manuscrito. En el sentido de Castoriadis, las significaciones secundarias surgen y/o dependen de las significaciones primarias, que en este artículo denominamos como <italic>nucleares</italic>. Es decir, los seis imaginarios sociales nucleares son fuente significacional magmática para la concreción de nuevos imaginarios, que aquí se designan como <italic>periféricos</italic>.</p>
+               <p>Al igual que los seis imaginarios sociales nucleares, los imaginarios sociales periféricos se sitúan en un plano profundo de significación. Sin embargo, los periféricos dependen de los nucleares, pues estos últimos son inherentes al ser humano. Además, los imaginarios sociales periféricos se entienden como construcciones mucho más amplias o, según Baeza (<italic>Hacer mundo</italic>) retomando a Castoriadis, más frondosa, como si se fuese una estructura arborescente. De este modo, se desprende que los imaginarios sociales periféricos son una gama más variada y extensa de ideas o creencias compartidas, capaces de poblar el plano profundo significacional social. Por lo tanto, esta condición les permite ser fundamento matricial o de referencia significacional para la construcción del mundo histórico-social.</p>
+               <p>La importancia de los imaginarios sociales periféricos es que permiten articular y otorgar contundencia significativa a los imaginarios sociales nucleares. De este modo, parafraseando a Baeza, los imaginarios sociales periféricos son construcciones socio-imaginarias que otorgan una mayor densidad al plano profundo de significación con nuevos elementos simbólicos, que sirven de esquemas de referencia a los seres humanos. En otras palabras, los imaginarios sociales periféricos son la extendida red significacional socio-compartida que dependen, en una primera instancia, de los imaginarios sociales nucleares, pero que, una vez ya instituidos, tienen su propia dinámica y particularidades.</p>
+               <p>En este sentido, en el fondo sociocultural de una determinada sociedad, existe una diversa red de imaginarios sociales que, según lo expuesto, aquí se designan como periféricos. Por mencionar algunos se logran distinguir: imaginarios sociales de la amenaza inminente (<xref ref-type="bibr" rid="B1">Baeza 2015</xref>), del fin de los tiempos (Baeza. <italic>Hacer mundo</italic>), de la comunidad nacional (Anderson. <italic>Comunidades imaginadas</italic>), de la política (Bouvier. <italic>Machiavel, Campanella</italic>, Baczko. <italic>Los imaginarios sociales</italic>), de los tiempos modernos o posmodernos (Taylor. <italic>Imaginarios sociales modernos</italic>, Maffesoli. <italic>Être postmoderne</italic>), del progreso (Nisbet. <italic>Historia de la idea de progreso</italic>), de la tecnología y las Tic’s (Coca. <italic>Artefactos, ciborgs y ciencias urbanas</italic>, Cabrera. <italic>La matriz imaginaria de las nuevas tecnologías</italic>), de la ciudad y lo urbano (Silva. <italic>Imaginarios urbanos</italic>, Lindón, Aguilar y Hiernaux. <italic>Lugares e imaginarios en la metrópolis</italic>), de las migraciones latinoamericanas (Aliaga. <italic>Integración de los inmigrantes en tiempos de crisis</italic>); entre muchos otros que conforman este plano profundo de significación social.</p>
+               <p>Con el fin de ejemplificar lo hasta aquí planteado, en el imaginario social nuclear de lo mitológico, se puede hallar el mito griego de Prometeo, en tanto relato ejemplar (Durand. <italic>Sciencie de l´homme et tradition</italic>) emplazado en la arquitectura del espíritu (Lévi-Strauss. <italic>Le cru et le cuit</italic>), provee de un fundamento significacional profundo que se decanta en el imaginario social periférico del progreso. Es decir, la idea socio-compartida de progreso, ligada a los criterios de avance y el perfeccionamiento de la naturaleza humana.</p>
+               <p>En definitiva, se estipula que los imaginarios sociales, nucleares y periféricos, son unas matrices de sentido que descasan en el plano profundo o cuenca cognitiva sociocultural de un pueblo, capaces de sostener el pensamiento y fundamentar el decir-hacer social. Estas matrices de sentido socio-imaginarias coinciden con una gramática común, relatos compartidos, creencias o un sistema de ideas socializadas en el cuerpo social que proveen de inteligibilidad al mundo que envuelve al ser humano.</p>
+            </sec>
+         </sec>
+         <sec>
+            <title>2. Representaciones sociales: plano medio de transición de significación</title>
+            <p>En rigor a la propuesta epistémica y taxonómica que se expone en este artículo, la transición del plano profundo (imaginarios sociales) al plano medio de transición (representaciones sociales), se entiende a partir de que el primero remite al fundamento de lo social, en tanto que el segundo se traduce en la explicación del decir-hacer social. Por consiguiente, se transita desde las ideas de mundo, las creencias o fundamento magmáticos, hasta el terreno de las imágenes socioculturales que evidencian aquello que está ausente.</p>
+            <p>Con el fin de esclarecer nociones, se debe dejar de manifiesto el concepto de representación (<italic>en singular</italic>). Este tiene un carácter individual, se halla en la <italic>psique</italic> de cada individuo y adquiere forma, en cuanto representación, con la percepción mediante los sentidos y el esfuerzo intelectivo/imaginativo personal. En relación con esto último, la imaginación es una actividad psíquica que se expresa en imágenes. En esta dimensión cognitiva individual, la representación reposa en la cuenca de la <italic>psique</italic> de cada individuo. En tal sentido, para el ser humano, la representación es vital para orientar su experiencia y el sentido de su presencia en la tierra (Solares. <italic>Gilbert Durand, escritos musicales</italic>).</p>
+            <p>Aclarado el concepto de representación (<italic>en singular</italic>), ahora se decide exponer las principales características, alcances y dimensiones constitutivas de la noción de representaciones sociales, que se emplazan en el aquí denominado <italic>plano medio de transición</italic> de significación social.</p>
+            <p>La conceptualización de representaciones sociales fue desarrollada por Serge Moscovici (<italic>El psicoanálisis, su imagen y su público</italic>) a partir de la propuesta de Émile Durkheim (<italic>Las reglas del método sociológico</italic>) sobre representaciones colectivas. Moscovici prefiere utilizar el adjetivo de <italic>sociales</italic> debido al “funcionamiento del pensamiento social en las sociedades contemporáneas caracterizadas por el pluralismo de ideas, el cambio, la movilidad social, la autonomización de los actores sociales, la penetración de las ciencias en la vida cotidiana y la importancia de las comunicaciones” (<xref ref-type="bibr" rid="B9">Jodelet 2020a</xref>:53).</p>
+            <p>Se focaliza la atención en las representaciones sociales por hallarse compartidas en la urdimbre simbólica de la semiosis socio-histórica. En el sentido de Lidia Girola (<italic>Representaciones e imaginarios sociales</italic>), resulta conveniente de mencionar a las representaciones como <italic>sociales</italic>, puesto que éstas son numerosas en el espacio social; no son compartidas de manera homogénea por todos los miembros de una sociedad; pertenecen a diversos grupos dentro de la sociedad; y son creadas/renovadas socialmente de manera continua. Además, porque “surgen de la interacción entre seres humanos que construyen y reconstruyen permanentemente sus mundos de la vida” (<xref ref-type="bibr" rid="B3">Banchs, Agudo y Astorga 2007</xref>:69).</p>
+            <p>En este plano medio de transición, las representaciones sociales tienen la particularidad de empatar lo cognitivo con lo perceptivo (Girola. <italic>Representaciones e imaginarios sociales</italic>). Es decir, son imágenes compartidas socialmente, mediadas por la interacción humana, que se hallan almacenadas en el aparato cognitivo de los sujetos. Éstas llegan a ser lo que son, en tanto imágenes ancladas en la <italic>psique</italic>, por la percepción del mundo circundante a través de los sentidos.</p>
+            <p>Es idóneo considerar que los seres humanos se refieren a las representaciones (imágenes) del inmigrante, de la escuela, de la ciudad, de la mujer, de la clase política, etc. Esta cuestión permite establecer que “la fineza de una representación es comparable con el grado de definición óptica de una imagen” (<xref ref-type="bibr" rid="B11">Moscovici 1979</xref>:16). Estas imágenes se hallan en el aparato cognitivo de los individuos y tienen la función de ser marcos o esquemas interpretativos de la sociedad, ya que condensan un conjunto de significados compartidos en la semiosis social. Por ende, en esta dimensión cognitiva, las representaciones sociales son “una organización de imágenes y de lenguajes porque recorta y simboliza actos y situaciones que son o se convierten en comunes” (Moscovici 1979:16). Es decir, cuando las representaciones sociales se asientan como habituales e instituidas facilitan la intervención del ser humano en su mundo natural y social. De acuerdo con Lidia Girola, “las representaciones sociales objetivizadas y ancladas, son utilizadas por los agentes sociales para interpretar, orientar y justificar los comportamientos” (Girola 2012:380). Este proceso del anclaje para la conformación de representaciones sociales permite que algo desconocido se transforme en una imagen familiar y compartida. Para Jodelet, el anclaje “se refiere al enraizamiento social de la representación y de su objeto” (<xref ref-type="bibr" rid="B8">Jodelet 1986</xref>:486).</p>
+            <p>El mundo social cotidiano contribuye a erigir representaciones desde la interacción de los sujetos (Jodelet. <italic>Las representaciones sociales</italic>, Banchs, Agudo y Astorga. <italic>Imaginarios, representaciones y memoria social</italic>). Las representaciones son aquellas imágenes culturales compartidas que emergen de las distintas esferas de interacción social y del fondo cultural que proveen los imaginarios sociales, en tanto que significaciones profundas de un pueblo. Este fondo cultural es el estamento que proporciona el fundamento matriz que ayuda a dar forma a las representaciones.</p>
+            <p>Para proseguir con el esclarecimiento conceptual, en este <italic>plano medio de transición</italic> resulta menester ahondar en una aproximación epistémica más holística y operativa en torno a las representaciones sociales. Por ello, siguiendo a Denisse Jodelet, las representaciones sociales se refieren: “tanto a los productos como a los procesos que caracterizan el pensamiento de sentido común, es una forma de pensamiento práctico, socialmente elaborado, marcado por un estilo y una lógica propia, y compartido por los miembros de un mismo colectivo social o cultural” (Jodelet 2020a:52).</p>
+            <p>Esta definición sugiere que las representaciones sociales corresponden a una formalización y socialización de aquello que no tiene forma, es decir, ideas o fondos culturales comunes. Así, las representaciones logran hacer visible lo invisible y, por ende, serían “una manifestación del propio cuerpo social al que pertenecemos” (<xref ref-type="bibr" rid="B13">Pérez-Freire 2017</xref>:5). A partir de esta premisa, se considera que las representaciones logran explicitar y concretizar en imágenes las ideas invisibles que configuran a las sociedades. En rigor, las representaciones “corresponderían a aquello que hace aparecer e intensifica lo que está presente y que puede hacer patente/visible lo que se encuentra ausente” (<xref ref-type="bibr" rid="B15">Riffo-Pavón, Basulto y Segovia 2021</xref>:350). Es decir, las representaciones sociales son una suerte de imagen revelada del espíritu de una época o imaginarios sociales.</p>
+            <p>De tal modo, es relevante puntualizar que las representaciones sociales, ancladas en la <italic>psique</italic>, pueden proyectarse y salir del aparato cognitivo de los individuos. Es decir, las imágenes logran su materialización en alguna plataforma disponible para el ser humano. Por esta razón, se consideran que las representaciones se emplazan en el <italic>plano medio de transición</italic>, puesto que son imágenes que van desde el aparato cognitivo hasta una concretización más tangible o manifiesta. </p>
+            <p>En esta misma línea, se considera que “las representaciones sociales son entidades casi tangibles. Circulan, se cruzan y se cristalizan sin cesar en nuestro universo cotidiano a través de una palabra, un gesto, un encuentro” (<xref ref-type="bibr" rid="B11">Moscovici 1979</xref>:27). Tal es el caso de los medios masivos de comunicación, entendidos como plataformas donde se vehiculizan, instauran y transforman diversas representaciones sociales. Así, las representaciones tienen una función expresiva y orientativa para los sujetos situados en el espacio público-social, ya que permiten la inteligibilidad del mundo y la acción sobre él (Cegarra. <italic>Fundamentos teórico epistemológicos de los imaginarios sociales</italic>). En este sentido, las representaciones sociales tienen “como una de sus funciones ordenar, simplificar y ‘cristalizar’ la realidad […] posibilitar la comunicación e interacción entre los actores, en la medida en que suponen códigos culturales compartidos” (<xref ref-type="bibr" rid="B6">Girola 2012</xref>:379). De tal modo, las representaciones son esenciales en las predisposiciones y las actitudes de los sujetos ante vicisitudes que enfrenta en su mundo natural-social.</p>
+            <p>En rigor a lo expuesto, se ubica a las representaciones sociales en el plano medio de transición, ya que éstas son el nexo entre el fundamento matriz y las manifestaciones del ser humano. Vale decir, estas imágenes culturales, nutridas por los imaginarios sociales, transitan desde lo cognitivo hasta la concretización más aparente. Por tanto, en su rol de simplificar y ordenar la realidad, las representaciones sociales pueden explicar el decir-hacer social, que logra verse materializado en las re-presentaciones discursivas, correspondientes al plano superficial de significación que se presenta a continuación. </p>
+         </sec>
+         <sec>
+            <title>3. Re-presentaciones discursivas: plano superficial de significación</title>
+            <p>A partir de la premisa de que las representaciones sociales son entidades casi tangibles (Moscovici. <italic>El psicoanálisis, su imagen y su público</italic>) e imágenes culturales (Jodelet. La representación social), que bajo diversas formas presentan un armazón simbólico (Jodelet. Las representaciones sociales) y, a su vez, hacen patente aquello que está ausente (Riffo-Pavón, Basulto y Segovia. <italic>El estallido social chileno de 2019</italic>), se estipula que éstas se pueden distinguir en las creaciones humanas.</p>
+            <p>Desde un punto de vista mediático, por ejemplo, focalizando la importancia en los medios de comunicación (Jodelet. <italic>Las representaciones sociales</italic>, <italic>Sobre el espíritu del tiempo y las representaciones sociales</italic>), las representaciones y los imaginarios sociales alcanzan su reconocimiento y masividad “por su modo de producción industrial, por su modo de comunicación que utiliza medios masivos (prensa, cine, televisión, radio, etcétera) y por el público al que se dirigen más allá de las divisiones y determinaciones sociales” (<xref ref-type="bibr" rid="B10">Jodelet 2020b</xref>:30). </p>
+            <p>Por consiguiente, en rigor a lo planteado, se propone la conceptualización de <italic>re-presentaciones discursivas </italic>para referirse a este plano superficial más tangible de la realidad social. Por un lado, <italic>re-presentaciones</italic>, puesto que se considera que los seres humanos son capaces de imprimir o, más bien, <italic>re-presentar</italic> incesantemente su mundo con aquellos imaginarios y representaciones sociales que recorren por su torrente psíquico e histórico-social. Por otro lado, el apelativo <italic>discursivas</italic>, remite a la entidad de discurso, entendido como toda acción o producción humana portadora de sentido y, por tanto, cubierto de significado social (Van Dijk. El análisis crítico del discurso y el pensamiento social). En esta misma senda, los discursos son un asunto de palabras, imágenes, prácticas sociales, creencias y prejuicios socializados. Asimismo, se entiende el discurso como una práctica social o forma de acción significativa (Calsamiglia y Tusón. <italic>Las cosas del decir</italic>). Por ello, en tanto que prácticas sociales, los discursos serían la consolidación de las variadas prácticas humanas entretejidas simbólicamente. Concretamente, “el discurso se constituye, en la expresión multi-sígnica, en la que las sociedades acrisolan su pensamiento e identidad. En este sentido, en el discurso confluye el carácter cognitivo y social que tipifica el saber común compartido por un grupo” (<xref ref-type="bibr" rid="B12">Pardo 2007</xref>:1)</p>
+            <p>De tal manera, las re-presentaciones discursivas, comprendidas como entidades simbólicas, permiten sintetizar el acto fundamental del discurso en su rol de vehiculizar “la expresión y la (re)producción de las cogniciones sociales como los conocimientos, ideologías, normas y los valores que compartimos como miembros de grupos, y que en su turno regulan y controlan los actos y interacciones” (<xref ref-type="bibr" rid="B17">Van Dijk 2002</xref>:19).</p>
+            <p>En este plano superficial de significación, las re-presentaciones discursivas transitan incesantemente en la cotidianeidad social a través de fuentes diversas, entre ellas: “difusión por los medios masivos de comunicación, los marcos impuestos por los funcionamientos institucionales, las hegemonías ideológicas, etc.” (<xref ref-type="bibr" rid="B9">Jodelet 2020a</xref>:55). Concretamente, las re-presentaciones discursivas se condensan en la forma expresiva final más amplia de la obra humana; son el resultado manifiesto proveniente de una serie de significaciones sociales situadas en el plano medio de transición y profundo que urden la realidad del ser humano.</p>
+            <p>Vinculado a los planos de acceso a la realidad que menciona Baeza (<italic>Hacer mundo</italic>), las re-presentaciones discursivas son de fácil aprehensión mediante los sentidos, puesto que se hallan en la superficie más aparente de lo social. De tal modo, las re-presentaciones discursivas se definen como una red amplia, compleja, dinámica e interconectada de producciones y prácticas significativas para el ser humano. Aquí se pueden hallar, por ejemplo, el conjunto de fotogramas que componen un <italic>filme</italic>; un reportaje periodístico; una exposición artística; una composición musical; afiches y pancartas de protesta; anuncios publicitarios; mensajes políticos; textos literarios; intervenciones culturales; etcétera. Es decir, las re-presentaciones discursivas son todo producto y práctica con sentido que se extiende en el decir-hacer cotidiano del ser humano. Aquí recae la importancia en el estamento discursivo, ya que “el discurso manifiesta o expresa, y al mismo tiempo modela, las múltiples propiedades relevantes de la situación sociocultural que denominamos su <italic>contexto</italic>” (<xref ref-type="bibr" rid="B19">Van Dijk 2008b</xref>:23).</p>
+            <p>Este contexto o situación sociocultural que menciona Van Dijk (<italic>El discurso como interacción social</italic>), está permeado y estrechamente ligado a lo simbólico. Es decir, la cultura (el conjunto de producciones y prácticas humanas) no puede ser reducida a criterios meramente materiales, económicos, científicos o históricos, sino más bien, debe ser comprendida como una expresión simbólica cargada de sentido. Es que la vida del ser humano, estrictamente, consiste en emprender una constante labor de simbolización (Duch y Chillón. <italic>Un ser de mediaciones</italic>).</p>
+            <p>Entendido la cultura como un proceso de simbolización, todo el decir-hacer social no puede eludir el universo simbólico. En este sentido, para Blanca Solares: “todas las producciones humanas (mito, ciencia y arte) son de por sí, elaboraciones de sentido, es decir, expresiones o articulaciones significativas verbales y no verbales, de la necesidad innata y específica del homo sapiens de interpretar su realidad y de expresar su experiencia, relación o alianza con lo sagrado, la Naturaleza, lo Totalmente Otro, el misterio (<italic>mystes</italic>; o alma) o el espíritu más allá de la letra” (<xref ref-type="bibr" rid="B16">Solares 2018</xref>:139).</p>
+            <p>En base a lo hasta aquí planteado, desde una perspectiva práctica, las re-presentaciones discursivas, que figuran en el plano superficial, facilitan la incursión, aprehensión y estudio del decir-hacer social. Por tanto, a través de las re-presentaciones discursivas es posible ahondar y comprender la composición simbólica de una determinada producción-expresión social; al mismo tiempo que identificar las significaciones que se hallan en los planos medio de transición y profundo. En definitiva, las re-presentaciones discursivas logran encarnar y expresar toda una urdimbre de sentido proveniente desde las representaciones y los imaginarios sociales. Entonces, la extensa red de re-presentaciones discursivas que cubre a una sociedad, deja de manifiesto las imágenes culturales e ideas fundacionales compartidas en la interacción cotidiana del <italic>anthropos</italic>. Es decir, las re-presentaciones discursivas son un constructo significante que reproduce y expresa las diversas cogniciones sociales que posee y comparte una sociedad.</p>
+         </sec>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusiones</title>
+         <p>El presente trabajo se encargó de ahondar y proponer una taxonomía en relación con las significaciones sociales que urden la realidad humana. Para ello, se ahondó en las nociones de imaginarios sociales, representaciones sociales y re-presentaciones discursivas. A partir de este trabajo epistémico se logró determinar a nivel general que las significaciones sociales ancladas en sus respectivos planos tienen la particularidad de constituir aquello que el <italic>anthropos</italic> denomina realidad. Es decir, el mundo humano es tal cual es, debido a este tejido significacional construido socialmente que otorga un sostén de sentido común en un espacio y tiempo determinado. En relación con los tres planos donde se emplazan las significaciones sociales se concluye que:</p>
+         <p>
+         <disp-quote>
+            <p> Primero, el plano profundo de significación compuesto por imaginarios sociales nucleares y periféricos son el corazón simbólico o epicentro que permite fundar la realidad social de los individuos. Es decir, estos se consideran como el fundamento matricial del decir-hacer social. De un lado, los seis imaginarios nucleares que se proponen (mismidad, otredad, valóricos, temporales, espaciales y mitológicos) son constitutivos e ineludibles para el sujeto en sociedad. De otro lado, los imaginarios periféricos son la amplia red significacional compartida que dota de densidad referencial y matricial al plano profundo.
+Segundo, el plano medio de transición de significación, donde se sitúan las representaciones sociales, admite y facilita la explicación del decir-hacer social, debido a su capacidad de explicitar las ideas o creencias invisibles que configuran el mundo social. Se concluye que estas imágenes socioculturales tienen el papel cardinal de ser el enlace entre el fondo cultural imaginario social y las re-presentaciones discursivas que se extienden en la esfera social de la cotidianeidad. 
+Tercero, el plano superficial de significación, territorio de las re-presentaciones discursivas, es el más patente y de fácil acceso para el ser humano. Se establece que las re-presentaciones discursivas son la obra materializada o, estrictamente, son la cristalización del decir-hacer social envestido de sentido, capaz de ser percibido de manera directa por los sentidos del sujeto. De esta manera, se estipula que las re-presentaciones discursivas vehiculizan el extenso tejido de representaciones e imaginarios instituidos en una sociedad. Por ende, las re-presentaciones discursivas, desde una perspectiva metodológica, son fácilmente aprehendidas para ejecutar así un procedimiento analítico. </p>
+         </disp-quote></p>
+         <p>Así, la propuesta taxonómica aquí planteada permite aportar en la clarificación conceptual en torno a los imaginarios sociales, las representaciones sociales y las re-presentaciones discursivas. Además, en base a la clasificación en planos de significación (profundo, medio de transición y superficial), se vislumbra una posible operacionalización de estos tres niveles para futuras investigaciones. De este modo, diversas áreas e intereses investigativos pueden nutrirse del desarrollo epistémico planteado en el presente manuscrito. </p>
+         <p>Por último, en el marco de un próximo proyecto, se considera extender esta propuesta taxonómica para así observar y evaluar su aplicabilidad en investigaciones empíricas-analíticas. Es decir, aprehender el sustento epistemológico aquí desarrollado y conferirle una esquematización operativa, que faculte la ejecución de un trabajo de análisis en torno a un objeto de estudio vinculado a un tipo de discurso presente en la sociedad. De esta manera, se buscará identificar las representaciones e imaginarios sociales que se vehiculizan en la re-presentación discursiva del objeto de estudio. Así, haciendo las veces de eslabones, se le otorga en primera instancia a la re-presentación discursiva el rol de ser la puerta de entrada a la dimensión significacional, para luego acceder, respectivamente, a las representaciones e imaginarios sociales que completan la cadena de significación social.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimientos</title>
+         <p>El texto fue realizado en el marco del proyecto de Postdoctorado Fondecyt N°3210195: La evolución argumentativa de los discursos políticos en Chile durante la campaña electoral plebiscitaria 2020, el post-plebiscito y la campaña electoral presidencial 2021.</p>
+      </ack>
+      <ref-list>
+         <title>Bibliografía</title>
+         <ref id="B1">
+            <mixed-citation>Baeza, M. (2015). <italic>Hacer mundo. Significaciones imaginario-sociales para construir sociedad</italic>. RIL.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baeza</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>
+                  <italic>Hacer mundo. Significaciones imaginario-sociales para construir sociedad</italic>.</source>
+               <publisher-name>RIL</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>______. (2017). En torno al concepto de utopía. <italic>Boletín Imaginación o Barbarie</italic>, <italic>8</italic>, 4-18. https://imaginariosyrepresentaciones.files.wordpress.com/2017/10/8imagbarbarie_vfa.pdf</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baeza</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>En torno al concepto de utopía</article-title>
+               <source>Boletín Imaginación o Barbarie</source>
+               <issue>8</issue>
+               <fpage>4</fpage>
+               <lpage>18</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://imaginariosyrepresentaciones.files.wordpress.com/2017/10/8imagbarbarie_vfa.pdf">https://imaginariosyrepresentaciones.files.wordpress.com/2017/10/8imagbarbarie_vfa.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>Banchs, M.A, Agudo, A. y Astorga, L. (2007). Imaginarios, representaciones y memoria social, pp. 45-80. En: A. Arruda. <italic>Espacios imaginarios y representaciones sociales. Aportes desde Latinoamérica</italic>. Anthropos-UAM.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Banchs</surname>
+                     <given-names>M.A</given-names>
+                  </name>
+                  <name>
+                     <surname>Agudo</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Astorga</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <chapter-title>Imaginarios, representaciones y memoria social</chapter-title>
+               <fpage>45</fpage>
+               <lpage>80</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arruda</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <source>Espacios imaginarios y representaciones sociales. Aportes desde Latinoamérica</source>
+               <publisher-name>Anthropos-UAM.</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>Dittus, R. (2011). El imaginario social del otro inferiorizado, pp. 67-97. En: J. Coca; J. Valero; F. Randazzo y J. Pintos.(Coor). <italic>Nuevas posibilidades de los imaginarios sociales</italic>. Ceasga.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dittus</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <chapter-title>El imaginario social del otro inferiorizado</chapter-title>
+               <fpage>67</fpage>
+               <lpage>97</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Coca</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Valero</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Randazzo</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Pintos</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <source>Nuevas posibilidades de los imaginarios sociales</source>
+               <publisher-name>Ceasga</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>Durand, G. (1979). <italic>Sciencie de l´homme et tradition</italic>. Berg International</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Durand</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>1979</year>
+               <source>Sciencie de l´homme et tradition</source>
+               <publisher-name>Berg International</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>Girola, L. (2012). Representaciones e imaginarios sociales. Tendencias recientes en la investigación, pp. 402-431. En: E. De-la-Garza. <italic>Tratado de metodología de las ciencias sociales: perspectivas actuales</italic>. FCE.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Girola</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <chapter-title>Representaciones e imaginarios sociales. Tendencias recientes en la investigación</chapter-title>
+               <fpage>402</fpage>
+               <lpage>431</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>De-la-Garza</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <source>Tratado de metodología de las ciencias sociales: perspectivas actuales</source>
+               <publisher-name>FCE</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>Gutiérrez, F. (2012). <italic>Mitocrítica. Naturaleza, función, teoría y práctica</italic>. Milenio.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gutiérrez</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>
+                  <italic>Mitocrítica. Naturaleza, función, teoría y práctica</italic>.</source>
+               <publisher-name>Milenio</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>Jodelet, D. (1986). La representación social: fenómeno, conceptos y teoría, pp. 469-494. En: S. Moscovici. <italic>Psicología Social II</italic>. Paidós.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jodelet</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>1986</year>
+               <chapter-title>La representación social: fenómeno, conceptos y teoría</chapter-title>
+               <fpage>469</fpage>
+               <lpage>494</lpage>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Moscovici</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <source>
+                  <italic>Psicología Social II</italic>.</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>______. (2020a). Las representaciones sociales: un recurso para indagar la complejidad psicosocial. <italic>Red Sociales</italic>, <italic>7</italic>(1), 50-61. http://www.redsocialesunlu.net/?p=1451</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jodelet</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2020a</year>
+               <article-title>Las representaciones sociales: un recurso para indagar la complejidad psicosocial</article-title>
+               <source>Red Sociales</source>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>50</fpage>
+               <lpage>61</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.redsocialesunlu.net/?p=1451">http://www.redsocialesunlu.net/?p=1451</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>______. (2020b). Sobre el espíritu del tiempo y las representaciones sociales. <italic>Revista Cultura y Representaciones Sociales</italic>, <italic>15</italic>(29), 19-36. http://www.culturayrs.unam.mx/index.php/CRS/article/view/816</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jodelet</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2020b</year>
+               <article-title>Sobre el espíritu del tiempo y las representaciones sociales</article-title>
+               <source>Revista Cultura y Representaciones Sociales</source>
+               <volume>15</volume>
+               <issue>29</issue>
+               <fpage>19</fpage>
+               <lpage>36</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.culturayrs.unam.mx/index.php/CRS/article/view/816">http://www.culturayrs.unam.mx/index.php/CRS/article/view/816</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>Moscovici, S. (1979). <italic>El psicoanálisis, su imagen y su público</italic>. Huemul.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Moscovici</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>1979</year>
+               <source>El psicoanálisis, su imagen y su público</source>
+               <publisher-name>Huemul</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>Pardo, N. (2007). Mediatización, multimodalidad y significado. Ponencia presentada al X <italic>Congreso Internacional de Humanidades</italic>. Universidad de Brasilia. </mixed-citation>
+            <element-citation publication-type="confproc">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pardo</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Mediatización, multimodalidad y significado</source>
+               <conf-name>XCongreso Internacional de Humanidades</conf-name>
+               <conf-sponsor>Universidad de Brasilia</conf-sponsor>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>Pérez-Freire, S. (2017). Situando los imaginarios sociales: aproximación y propuestas. <italic>Imagonautas</italic>, 7(1), 1-22. <ext-link ext-link-type="uri"
+                         xlink:href="http://revistas.usc.edu.co/index.php/Imagonautas /article/view/620">http://revistas.usc.edu.co/index.php/<italic>Imagonautas</italic> /article/view/620</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pérez-Freire</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Situando los imaginarios sociales: aproximación y propuestas</article-title>
+               <source>Imagonautas</source>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>22</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://revistas.usc.edu.co/index.php/Imagonautas /article/view/620">http://revistas.usc.edu.co/index.php/<italic>Imagonautas</italic> /article/view/620</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>Pintos, J.L. (2015). Apreciaciones del concepto de imaginarios sociales. <italic>Miradas</italic>, 1(13), 150-159. https://doi.org/10.22517/25393812.12281</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pintos</surname>
+                     <given-names>J.L.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Apreciaciones del concepto de imaginarios sociales</article-title>
+               <source>Miradas</source>
+               <volume>1</volume>
+               <issue>13</issue>
+               <fpage>150</fpage>
+               <lpage>159</lpage>
+               <pub-id pub-id-type="doi">10.22517/25393812.12281</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation> Riffo-Pavón, I.; Basulto, O. y Segovia, P. (2021). El estallido social chileno de 2019: un estudio a partir de las representaciones e imaginarios sociales en la prensa. <italic>Revista Mexica de Ciencias Políticas y Sociales</italic>, <italic>66</italic>(243), 345-268. https://doi.org/10.22201/fcpys.2448492xe.2021.243.78095</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Riffo-Pavón</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Basulto</surname>
+                     <given-names>O.</given-names>
+                  </name>
+                  <name>
+                     <surname>Segovia</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2021</year>
+               <article-title>El estallido social chileno de 2019: un estudio a partir de las representaciones e imaginarios sociales en la prensa.</article-title>
+               <source>Revista Mexica de Ciencias Políticas y Sociales</source>
+               <volume>66</volume>
+               <issue>243</issue>
+               <fpage>345</fpage>
+               <lpage>268</lpage>
+               <pub-id pub-id-type="doi">10.22201/fcpys.2448492xe.2021.243.78095</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>Solares, B. (2018). <italic>Gilbert Durand, escritos musicales: la estructura musical de lo imaginario</italic>. Anthropos.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Solares</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Gilbert Durand, escritos musicales: la estructura musical de lo imaginario</source>
+               <publisher-name>Anthropos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>Van-Dijk, T. (2002). El análisis crítico del discurso y el pensamiento social. <italic>Athenea Digital</italic>, 1, 18-24. <ext-link ext-link-type="uri"
+                         xlink:href="https://raco.cat/index.php/Athenea/article/view/34083">https://raco.cat/index.php/Athenea/article/view/34083</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van-Dijk</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <article-title>El análisis crítico del discurso y el pensamiento social</article-title>
+               <source>Athenea Digital</source>
+               <issue>1</issue>
+               <fpage>18</fpage>
+               <lpage>24</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://raco.cat/index.php/Athenea/article/view/34083">https://raco.cat/index.php/Athenea/article/view/34083</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>______. (2008a). <italic>Ideología y discurso. Una introducción multidisciplinar</italic>. Ariel.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van-Dijk</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2008a</year>
+               <source>Ideología y discurso. Una introducción multidisciplinar</source>
+               <publisher-name>Ariel</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>______. (2008b). <italic>El discurso como interacción social. Estudios sobre el discurso II</italic>. Gedisa.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van-Dijk</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2008b</year>
+               <source>
+                  <italic>El discurso como interacción social. Estudios sobre el discurso II</italic>. </source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

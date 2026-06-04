@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model type="application/xml-dtd" href="http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1d3" specific-use="Marcalyc 1.2" article-type="research-article" xml:lang="es">
+<front>
+<journal-meta>
+<journal-id journal-id-type="redalyc">101</journal-id>
+<journal-title-group>
+<journal-title specific-use="original" xml:lang="es">Cinta de Moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="es">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile</publisher-name>
+<publisher-loc>
+<country>Chile</country>
+<email>fosorio@uchile.cl</email>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="art-access-id" specific-use="redalyc">10148922006</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Sin sección</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="es">Ejemplificación del proceso metodológico de la teoría fundamentada</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="no">
+<name name-style="western">
+<surname>Bonilla-García</surname>
+<given-names>Miguel Ángel</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+<email>miguel012580@hotmail.com</email>
+</contrib>
+<contrib contrib-type="author" corresp="no">
+<name name-style="western">
+<surname>López-Suárez</surname>
+<given-names>Ana Delia</given-names>
+</name>
+<xref ref-type="aff" rid="aff2"/>
+<email>anadelia_lopez@yahoo.com</email>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<institution content-type="original">Instituto de  Investigaciones Psicológicas, Universidad Veracruzana (Xalapa, México)</institution>
+<institution content-type="orgname">Universidad Veracruzana</institution>
+<country country="mx">México</country>
+</aff>
+<aff id="aff2">
+<institution content-type="original"> Instituto de  Investigaciones Psicológicas, Universidad Veracruzana (Xalapa, México)</institution>
+<institution content-type="orgname">Universidad Veracruzana</institution>
+<country country="mx">México</country>
+</aff>
+<pub-date pub-type="epub-ppub">
+<season>Octubre-Diciembre</season>
+<year>2016</year>
+</pub-date>
+<issue>57</issue>
+<fpage>305</fpage>
+<lpage>315</lpage>
+<permissions>
+<copyright-year>2016</copyright-year>
+<copyright-holder>Autor</copyright-holder>
+<ali:free_to_read/>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<ali:license_ref>https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+<license-p>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</license-p>
+</license>
+</permissions>
+<abstract xml:lang="es">
+<title>Resumen</title>
+<p> La teoría  fundamentada, nacida al interior de las ciencias sociales, es un método de  investigación que posee una técnica flexible y que realiza simultáneamente la  recolección y el procesamiento de los datos. En este método, el investigador se  encuentra inmerso en el campo de estudio y sus observaciones se abocan al dato,  considerando tanto su interpretación como la de los otros sujetos implicados,  con la finalidad de fortalecer la comprensión del fenómeno social investigado.  En este texto se describe brevemente la teoría fundamentada y cómo se analizan  los datos mediante ejemplos concretos, que se presentan a partir del  estereotipo como objeto de estudio.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract</title>
+<p> Grounded  theory, a research method born out of the social sciences field, offers a  flexible technique that allows simultaneous data collection and processing.  Researchers using this method immerse themselves in an area of study, focusing  their observations on the data and taking into consideration not only their own  interpretations, but also those of the other subjects involved, in order to  strengthen their understanding of the social phenomena under examination. This  text briefly describes the concept of grounded theory and uses concrete  examples to illustrate how data are analysed from the standpoint of the  stereotype as an object of study.</p>
+</trans-abstract>
+<kwd-group xml:lang="en">
+<title>Keywords</title>
+<kwd>grounded  theory</kwd>
+<kwd> method</kwd>
+<kwd> technique</kwd>
+<kwd> coding</kwd>
+<kwd> analysis</kwd>
+</kwd-group>
+<kwd-group xml:lang="es">
+<title>Palabras clave</title>
+<kwd>teoría fundamentada</kwd>
+<kwd> método</kwd>
+<kwd> técnica</kwd>
+<kwd> codificación</kwd>
+<kwd>  análisis</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="21"/>
+</counts>
+</article-meta>
+</front>
+<body>
+		
+		<sec>
+            <title>Introducción</title>
+			
+		<p>El principal propósito  de la ciencia se ve reflejado en su desarrollo y consiste básicamente en  “mejorar la calidad de vida del ser humano” (Delgado 2012:1), mediante de los  procesos de investigación que generan conocimiento. El conocimiento es un  producto mental nuevo que se genera gracias a “un proceso en el cual se  relacionan un sujeto cognoscente (quien conoce) con un objeto de conocimiento  (aquello que se conoce)” (Martínez Rodríguez 2011:2).</p>
+<p>El objeto de  conocimiento o de estudio se constituye como tal cuando ocurren dos fenómenos:  la problematización y la indagación. La primera se refiere a la identificación  del objeto de estudio como un problema para un grupo social determinado y la  indagación, al problema que merece investigarse. Para abordar al objeto de conocimiento  ya problematizado, se requiere de un método de investigación que se sustente en  una teoría que suministre la base y el modelo para resolver dicho problema,  esto es: el paradigma.</p>
+<p>El método de  investigación, entonces, se integra “de un tipo particular de técnicas de  recolección y análisis de información” (Páramo y Otálvaro 2006:2) y se  identifica nominalmente como cualitativo o cuantitativo, aunque también puede  haber una mezcla de investigación realizada con un método y con otro (métodos  mixtos), los cuales “en combinación proveen de una mejor comprensión de los problemas de  investigación” (Creswell y Plano Clark 2007:5), que si se abordaran bajo un  método únicamente.</p>
+<p>La postura de una investigación no radica en la diferencia de los  métodos de investigación, sino en su fundamento ontológico y epistemológico, es  decir, en la manera de aproximarse a conocer el objeto de estudio. La  ontología, por ejemplo, nos da la visión sobre la naturaleza de la realidad,  mientras que la epistemología indica cómo se genera el conocimiento. Por ello:  “A todo investigador le debe quedar claro cuáles son los elementos básicos  necesarios para realizar la investigación” (Dorantes Rodríguez 2010:13), puesto  que éstos tendrán como fin último la creación del conocimiento.</p>
+<p>La postura cuantitativa se sustenta en el positivismo, en el cual se  busca la objetividad mediante la cuantificación y la medición, con la finalidad  de ganar generalización en los hallazgos. Por su parte, la postura cualitativa  indaga “en situaciones naturales, intentando dar sentido o interpretar los  fenómenos en los términos del significado que las personas les otorgan”  (Vasilachis 2006:24). Asimismo, es interpretativa porque otorga valor a las  significaciones que tienen los sujetos acerca del objeto de conocimiento, con  lo cual se puede llegar al desarrollo de un concepto, un modelo o una teoría.</p>
+<p>En este texto se explica la teoría fundamentada (en adelante TF),  abarcando los fundamentos de este método de investigación, así como las bases  para entender el proceso de la recolección, la codificación y el análisis de  los datos. Posteriormente, se ejemplifica su aplicación en una investigación  realizada acerca del estereotipo de un candidato idóneo a presidente municipal,  para lo cual se explica qué son los estereotipos, las generalidades de la  investigación y cómo se llevaron a cabo la codificación abierta, la generación  de familias, la codificación axial y la codificación selectiva.</p>
+</sec>
+	<sec>
+<title>La teoría fundamentada (TF)</title>
+<p>La TF es un método de investigación cuyo soporte epistemológico radica  en la vinculación entre un sujeto que busca la comprensión de un objeto a  investigar mediante “las acciones y significaciones de los participantes de la  investigación” (Charmaz 2013:272). Lo anterior implica que el investigador  “recoge, codifica y analiza datos en forma simultánea” (Soneira 2006:155) mas  no sucesiva. En ello radica la singularidad de la TF como un proceso metódico,  sistemático e interpretativo, propio del paradigma cualitativo.</p>
+<p>El inicio de la TF se remonta al año de 1967. Sus creadores fueron B.  Glaser y A. Strauss. En esta primera época de la TF, conocida como escuela  clásica u ortodoxa, se combinan elementos cuantitativos como el empirismo  cuantitativo y cualitativos como el interaccionismo simbólico (reinterpretación  y redefinición de significados por parte de los sujetos), con la finalidad de  construir teoría. La segunda época de la TF es propuesta por el mismo A.  Strauss y por J. Corbin. Su perspectiva se conoce como la escuela reformulada,  la cual rompió con la clásica, al impulsar de manera significativa al  interaccionismo simbólico, lo que permitió la introducción de la TF a diversas  disciplinas del saber, como fue el caso de la psicología.</p>
+<p>En el actual siglo XXI, una tercera escuela tiene un fuerte auge. Ésta  es la constructivista que planteó K. Charmaz. Su propuesta es un rediseño al  modelo positivista, cuestionando sus bases objetivistas, mediante un enfoque  sistemático que fomenta la integración de (1) la experiencia subjetiva del  investigador, como prioridad y (2) las condiciones sociales propias del objeto  de estudio (Charmaz 2013).</p>
+<p>La escuela constructivista hace énfasis en el objeto de estudio, al cual  también llama fenómeno, pero deja en un segundo plano a los métodos para  estudiarlo. Esta postura se sustenta en que el carácter cualitativo de la TF  debe evitar las prácticas positivistas, teniendo claro que se buscan las  representaciones interpretativas de la realidad social (la cual es diferente  según el ambiente o contexto), en vez de informes que tengan un sello de una  pretensión puramente objetivista.</p>
+<p>La TF es un método que implica la recolección y el análisis simultáneo  de datos; se caracteriza por ser flexible, ya que se pueden combinar métodos  cuantitativos y cualitativos, además de diferentes técnicas de investigación,  cuyo análisis y contraste permiten la triangulación metódica, o bien, pueden  realizarse composiciones metodológicas apropiadas para abordar al objeto de  estudio y generar teoría acerca del mismo. La finalidad principal de la TF es  la generación de teoría, por lo que “los métodos son un medio para conseguir un  fin, no el fin en sí mismo” (Andréu Abela et. al. 2007:54).</p>
+<p>En el proceso metodológico de la TF intervienen dos grandes estrategias:  el método de comparación constante y el muestreo teórico. Según Soneira (2006),  el método de comparación constante  expresa por sí mismo la flexibilidad de la TF e implica por parte del  investigador (1) la recolección, (2) la codificación y (3) el análisis de los  datos, en forma simultánea. Lo anterior se explicará en el siguiente apartado.</p>
+<p>Con el muestreo teórico se descubren las características o atributos de la  categoría; también se verifican las semejanzas y las diferencias de dichas  propiedades y se sugieren interrelaciones entre ellas para la generación de la  teoría. Asimismo, el muestreo teórico representa a la muestra de la  investigación ya definida, es decir, al total de participantes de la  investigación, determinado por la saturación teórica. “En el instante en que  las comparaciones constantes entre los datos no evidencian nuevas relaciones o  propiedades de los datos; la riqueza que representan los datos se comienza a  agotar. En ese momento se evidencia la saturación teórica, donde el muestreo  teórico comienza a definir su término, por lo tanto, no es conveniente realizar  más entrevistas y observaciones. Los datos comienzan a tornarse repetitivos y  no se obtiene nada nuevo” (San Martín Cantero 2014:113).</p>
+</sec>
+<sec>
+<title>La recolección, la  codificación y el análisis de los datos</title>
+<p>El proceso metodológico de la TF inicia con la elección de la técnica y  del instrumento que el investigador considere adecuados; se ingresa a campo y  se recaban los datos. La recolección se realiza a través de dos procedimientos:  el ajuste y el funcionamiento. El ajuste es la generación de categorías  conceptuales a partir de los datos y el funcionamiento es la capacidad de las  categorías conceptuales para explicar lo investigado.</p>
+<p>En los datos se identifican sus atributos, es decir, las cualidades o  las características del dato, que se comparan entre sí para encontrar  coincidencias y distinguir diferencias. Los datos que comparten las mismas  características se agrupan; se les asigna un rótulo o un nombre determinado que  indica el concepto al que pertenecen, es decir, se congregan en un mismo código  (según el nombre que reciben en el software de análisis cualitativo) o subcategoría. El proceso de asignar códigos se llama  codificación.</p>
+<p>La codificación es un proceso sistemático que contiene tres tipos de  codificación: (1) abierta, (2) axial y (3) selectiva. En la codificación  abierta se generan códigos a partir de dos fuentes: la pre-codificación y los  códigos in vivo. La pre-codificación  son los códigos o subcategorías que se generan gracias a la subjetividad  inductiva del investigador, mientras que los códigos in vivo son las expresiones y el lenguaje de los participantes,  encontradas en lasfrases  literales que emplearon y cuya riqueza se perdería al ubicarlas dentro  de un código o porque simplemente no existe un rótulo que la abrevie.</p>
+<p>El ATLAS.ti, un software especializado para la elaboración de TF, también hace  la diferencia de los códigos antes explicados y los códigos libres, los cuales están previamente identificados dada la  teoría existente (deducción).  La aportación del paradigma cuantitativo radica en que los códigos pueden  contabilizarse sacando la frecuencia de aparición de los códigos.</p>
+<p>Al  igual que se hace la agrupación de los datos, los códigos o subcategorías se  organizan para conformar una organización más grande llamada familia (según el software)  o categoría. Se analiza el contenido  de cada código, comparándolo con los demás e identificando qué tienen en común  y se decide si pertenecen a la misma  clase de respuestas, nombrando al grupo al que pertenecen. Esto es semejante a la  comparación de datos para ubicarlos en un código, pero en un nivel superior,  como si fuera una agrupación de personas que conforman una ciudad, ciudades que  conforman estados, estados que conforman países.</p>
+<p>A partir de la codificación abierta se realiza la codificación axial. Ésta consiste en la  búsqueda activa y sistemática de la relación que guardan los códigos y las  familias (o subcategorías y categorías, respectivamente) entre sí. Las  relaciones posibles que se pueden establecer se encuentran en el Cuadro 1. El  tipo de relación que guardan unos con otros resulta de la comparación constante  entre códigos y familias, es decir, por el contraste de las semejanzas y de las  diferencias existentes. La categoría que tiene mayor número de relaciones con  las demás se llama categoría central.</p>
+<p>Finalmente, la codificación selectiva es la relación conceptual y  teórica que guardan entre sí los códigos o familias y que se concreta en la  teorización. Ésta última ocurre cuando el investigador integra dichas  relaciones dentro de un relato que contiene un conjunto de proposiciones. Una  proposición es un enunciado que expresa la relación entre dos o más categorías  y sus propiedades. Aquí el investigador emplea su habilidad para discernir,  comprender y dar sentido a los datos, lo cual es conocido como sensibilidad  teórica.</p>
+<p>  La teoría que resulta de los datos se clasifica en sustantiva y en  emergente. La sustantiva se genera durante el proceso de interacción del sujeto  cognoscente en el campo donde se encuentra el fenómeno de estudio, con su  acercamiento a los datos a través de los participantes. La emergente tiene que  ver con la recolección de los datos y con su comparación cuando éstos van  surgiendo. Esa comparación de datos (análisis teórico) permite construir  relaciones entre categorías para explicarlas, lo cual es en sí mismo la  generación de una teoría.</p>
+<p>La recomendación de los expertos, para la aplicación de la TF, es  apegarse a alguna de las tres escuelas existentes, antes descritas. Debe unirse  a aquélla que el investigador considere adecuada para la comprensión del objeto  de estudio. Para esto es indispensable tener claridad en las características de  la población y en las del ambiente de estudio.</p>
+<p>El proceso metodológico aquí descrito se aproxima a la escuela  reformulada y a la constructivista. El ejemplo, que más adelante se presenta,  partió de la conceptualización previa del constructo, lo que permitió ser  preciso en el análisis de los datos. Es importante recordar que, en la  investigación cualitativa, específicamente en la TF, no siempre es posible  partir de cero en el conocimiento del fenómeno, ni puede basarse únicamente en  la sensibilidad teórica del investigador la cual “no se refiere solamente a la  capacidad para conceptualizar y formular teoría apenas emerja de los datos… sino  también a la capacidad de discernir teóricamente dentro de un área específica  de investigación” (Jones et. al. 2004:51). En razón de lo anterior, se  considera que la investigación regularmente requiere una mínima revisión de la  teoría.</p>
+</sec>
+<sec>
+<title>Los estereotipos</title>
+<p>Previo a definir al estereotipo, es importante anotar que forma parte de  “los procesos mentales mediante los cuales la gente conoce al mundo social”  (Páez et. al. 1994:128) y que la psicología llama cognición social. También se  define como “las maneras en que interpretamos, analizamos, recordamos y  empleamos la información sobre el mundo social -en otras palabras, cómo  pensamos acerca de los demás” (Baron y Byrne 2005:82).</p>
+<p>Los estereotipos son “creencias consensuales  sobre los atributos de un grupo social y sus miembros… Se trata de atribuciones  socialmente compartidas sobre las características de personalidad, las  conductas y/o los valores de un colectivo y de sus miembros sin atención a las  diferencias intragrupales” (Smith y Pérez 2007:130). También pueden definirse  como un conjunto de creencias  positivas o negativas que ideamos acerca de grupos sociales. Son creencias  sobre características particulares “que nos forjamos respecto de ciertos grupos  y que influyen sobre los juicios que hacemos acerca de los individuos que los  conforman” (Kassin et. al. 2013:130), es decir, generalizamos a todo el grupo  las características que atribuimos a ciertos integrantes.</p>
+<p>Aunque existen diferentes definiciones, “parece existir consenso en que  son esquemas cognitivos” (Gómez Jiménez 2007:14). Los estereotipos se forman  como un esquema mental, pero también son “sociales no solo porque son el  resultado de influencias sociales sobre el individuo, sino porque pueden  convertirse a su vez en especie de norma social” (Rodríguez y Moya 1998:28). En  este sentido Gómez Jiménez y Rodríguez y Moya, parafraseando los hallazgos de  Henri Tajfel, reiteran que los estereotipos además de fungir como norma social,  también ayudan a mantener funciones sociales o grupales, tales como (1) tener  una identidad positiva, (2) justificar las acciones del grupo con respecto de  otros grupos y (3) explicar la realidad social.</p>
+<p>Explicado coloquialmente, en la vida diaria convivimos con una variedad  de personas, que pueden pertenecer a nuestro grupo social o a otros. Para  emitir juicios o una conducta determinada ante lo que vivimos, requerimos comprender el mundo y adaptarnos a él. Las  experiencias sociales que hemos tenido aportan información compleja que sería  muy difícil de manejar si no la redujéramos. Precisamente, estereotipar es uno  de los procesos mentales que nos permite reducir la cantidad de información  acerca de los grupos sociales, para tener una postura frente a alguien y su  función es ahorrar energía cognoscitiva. Ese ahorro se hace evidente cuando  observamos unas cuantas características de alguien y determinamos a qué grupo  pertenece, ubicándolo entonces dentro de cierta categoría o del grupo social  que presenta la característica observada. Si un niño lleva al hombro una mochila  suponemos que es un estudiante y no un traficante de drogas, por ejemplo. Eso  nos lleva a no considerarlo como una amenaza y a no tener miedo cuando pasamos  frente a él.</p>
+<p>Kassin et. al. (2013) presentan el caso de los bomberos de raza de color  en la sociedad estadounidense. Si la casa de una persona se incendiara y  llegara un bombero de raza negra, la persona afectada lo categorizaría como  bombero y no por su raza, en cambio, si estuvieran en una fiesta, se le  categorizaría más por su raza que por ser bombero. En este ejemplo se  identifican dos grupos de referencia: el grupo de trabajo y el grupo étnico. A  partir de un aspecto de la persona que percibimos en determinado contexto, la  ubicamos dentro de una categoría (estereotipamos) y emitimos juicios que determinan  nuestro comportamiento. De esa manera, nuestro cerebro toma el camino corto  para ahorrar energía cognitiva.</p>
+</sec>
+<sec>
+<title>Aplicación de la TF al estudio del estereotipo</title>
+<p>En este apartado se presenta la aplicación metodológica de la TF al  estudio del estereotipo de un candidato idóneo a presidente municipal, el cual  se definió como el conjunto de atributos que debería poseer un candidato, según  la percepción social y las expectativas comunitarias. Se tuvo entonces como  propósito indagar los atributos deseables y los no deseables de un candidato  idóneo a presidente municipal. Los atributos no deseables se consideraron  únicamente para incrementar las respuestas de las personas, ya que muchas veces  es difícil evocar el rasgo positivo o la presencia de atributos; para algunas  personas quizá es más sencillo expresar lo que no debería ser o lo que no se  quiere en un candidato.</p>
+<p>Los participantes fueron  ciudadanos de uno de los 212 municipios del Estado de Veracruz, México. El  estudio se realizó en un “ámbito público político” (Fraser 1993:49). Recibe  esos calificativos porque el ambiente político está inmerso en un gran ambiente  que es el público.</p>
+<p>Los datos se recolectaron  mediante las técnicas de cuestionario y de entrevista. Se preguntó: ¿cuáles son  las características que debe tener un candidato a presidente municipal por este  municipio? y ¿qué características tendría un candidato a la presidencia  municipal por el cual no votarías? Los datos se transcribieron e incorporaron  al software ATLAS.ti (versión 7), conforme  se iban recolectando.</p>
+</sec>
+<sec>
+<title>La codificación abierta</title>
+<p>El análisis inició con la comparación de los datos, a partir de la  interpretación del investigador acerca del mundo de los participantes. En las respuestas se identificó la idea principal y se generó un código.  Además, se realizó un análisis de afinidad semántica, que consistió en  verificar en un diccionario los significados usuales de las palabras que  aparecían en esas ideas principales, se contrastaron sus significados y se  generaron los códigos. Por ejemplo, se determinó que honesto y honrado eran  sinónimos y se agruparon en el código honesto.</p>
+<p>  En el caso de los atributos no deseables, se ubicó el código en un  primer momento, para después encontrar el antónimo con la ayuda de un  diccionario, de tal manera que pudiera hablarse de presencia de atributos y no  de su ausencia. Por ejemplo, para el código deshonesto se empleó el antónimo honesto.</p>
+<p>A continuación, se  presentan algunas respuestas de los participantes para ejemplificar la  generación de códigos. Ante la pregunta de los atributos deseables, las  personas respondieron lo siguiente acerca de cómo debería ser el candidato:  “honesto, sencillo, con aspiraciones a mejorar la comunidad”, “que sea social con el  pueblo”, “que sea amable con todo el pueblo y no cambie cuando llegue al  puesto”. El dato honesto se clasificó  en el código honesto. Las respuestas: sencillo, que sea amable con todo el pueblo y no cambie cuando llegue al puesto se clasificaron en el código sencillo. La respuesta con aspiraciones a mejorar  la comunidad se identificó con el código  progresista y la afirmación que sea  social con el pueblo se ubicó con el código sociable.</p>
+<p>Algunas respuestas para la pregunta de los atributos indeseables fueron  las siguientes: “De los que siempre  mienten y dicen servir al pueblo y se sirven del pueblo”. Esta respuesta caracteriza a una persona deshonesta, al utilizar  el antónimo, se clasificó en el código honesto. “Que no caiga (bien), que no invite, que no salude” se clasificaron por  su antónimo en el código sociable. “Que fuera muy engrandecido y al llegar al  puesto alzarse más” se clasificó por su antónimo en el código sencillo.</p>
+<p>Las definiciones de los  códigos antes mencionados fueron las siguientes:</p>
+<p>Honesto: Persona que actúa con integridad, que  tiene una administración correcta en lo económico y en los bienes, y que cumple  su palabra o sus promesas.</p>
+<p>Sencillo: Persona que se comporta de manera  amable y educada, mostrando un trato igualitario y recíproco con la gente.</p>
+<p>Progresista: Persona con  visión e inclinación hacia la mejoría o el desarrollo comunitario.</p>
+<p>Sociable: Persona que  tiene la facilidad de entablar buenas relaciones humanas en su comunidad.</p>
+<p>Algunas expresiones de los participantes contenían tal riqueza que  complicaba su incorporación a alguno de los códigos identificados previamente,  por lo que se consideraron códigos in  vivo. Por ejemplo: “que éste (el candidato) fuera manejado por terceros” y  “que no sea descendiente (el candidato) de personas de poder”.</p>
+<p>En ocasiones se genera un  código a partir de algunas respuestas que son muy parecidas, pero quizá ocurra  que al leer una respuesta, el investigador se cuestione qué tan semejante es a  las ya clasificadas bajo determinado código. Entonces, éste debe determinar si  vale la pena conservar diferencias sutiles o desvanecerlas, según el propósito  de la investigación. A esto nos referíamos cuando anteriormente hablamos del  proceso de comparación constante entre datos, códigos y familias. Es importante  detallar las diferencias, porque los códigos y las categorías deben ser  mutuamente excluyentes para un mismo nivel de análisis, condición propia de  todo proceso de codificación o categorización.</p>
+<p>Los códigos y las  familias deben definirse claramente por dos razones: para incrementar la  precisión en la codificación de manera personal y para que cualquiera empleé  los mismos criterios al llevar a cabo este proceso. En algunas investigaciones  se tiene a varios codificadores que analizan diferentes segmentos de  información o bien, hay varias personas que codifican la misma información y  posteriormente se verifica el acuerdo entre éstas, para tener mayor  confiabilidad en el análisis.</p>
+<p>El software de análisis cualitativo también se auxilia de notas u  observaciones de quienes analizan los datos en el proceso de investigación, que  reciben el nombre de memo. El memo se emplea para precisar lo que se requiera o  para conservar las ideas o reflexiones que surgen en la cabeza del  investigador.</p>
+</sec>
+<sec>
+<title>La generación de familia  o categoría</title>
+<p>Los códigos honesto, humilde, sencillo, con  sentido de bien común, responsable, diligente, solidario, respetuoso, sociable  y trabajador conformaron la familia filosofía moral (ética). Aquí se mencionan  únicamente los que aparecieron con mayor frecuencia, pero hubo más códigos  dentro de esa familia.</p>
+<p>Filosofía moral (ética) se definió como el conjunto de valores morales (virtudes) que un candidato  debe poseer para desempeñar su trabajo con calidad humana, por el bien de la  comunidad. Para definir esta familia se empleó lo teorizado por Cortina (2013).  A continuación, se indica cómo se vinculan los hallazgos de la investigación  con el desarrollo teórico preexistente.</p>
+<p>La filosofía moral (ética) se refiere a ser moral, es decir, a la manera  como actuamos cotidianamente según normas y principios morales dentro del grupo  social en el que estamos inmersos. La moral se determina según los códigos de  conducta que la legitiman. Un código moral contiene normas sociales aceptables  para un grupo social y que permite a un individuo ser aceptado dentro de dicho  grupo y, por lo tanto, formar parte de él.</p>
+<p>El nombre hace referencia a dos aspectos filosóficos: la ética y los  valores. Los valores son indisociables de la ética. La ética está cimentada en  la confianza porque “la confianza es el principal «recurso moral» de una  sociedad” (Cortina 2013:15). Si bien la ética y los valores son de aplicación  universal, en cada grupo social se tienen cánones propios de aplicación.</p>
+<p>Los valores son la parte práctica de la ética; concretamente, los  valores denominados morales, según Cortina (2013), son los aplicables al ámbito  público. Estos valores -por ser morales- ayudan a crear en las personas “un  determinado modelo ideal de buena conducta socialmente establecido” (Cortina y  Martínez 2008:14), es decir, permiten tener un comportamiento adecuado y  socialmente aceptable.</p>
+<p>Los valores se legitiman y por ende garantizan confianza, asimismo, se  ven como cualidades en determinadas personas y, por lo tanto, también se  refieren a la contraparte o extremo negativo, que serían los atributos  indeseables o defectos. En este sentido podemos decir que “los valores son las  interpretaciones más básicas sobre las que se fundamenta una cultura, y que  expresan las necesidades idiosincrásicas del tipo de hombre que evalúa ligadas  a su conservación y desarrollo” (Sánchez Meca 2013:3).</p>
+<p>Los valores son también vistos como virtudes que ayudan a obrar bien,  como por ejemplo la justicia, la prudencia, la fortaleza y la honestidad entre  muchas otras. Al hablar de obrar bien se hace referencia al carácter de la  persona y de la sociedad, vistos como sistemas interdependientes. Esto tiene  que ver con el origen etimológico de las palabras moral y ética (mosmoris y ethos) que significan formación del carácter y hábitos que influyen  en el obrar con rectitud. Al hablar de carácter, se hace alusión a la manera o  forma de ser de las personas inmersas en una sociedad, que legitima valores  -elementos inherentes a la moral-, para que ésta funcione adecuadamente.</p>
+</sec>
+<sec>
+<title>La codificación axial</title>
+<p>Durante el proceso de comparación constante se identificaron relaciones  entre códigos (subcategorías) y familias (categorías). Por ejemplo, el ser  sencillo antecede a ser sociable, por lo que el código sencillo es causa del código sociable. En el caso  de la relación entre los códigos honesto y progresista, se tuvo que honesto se asocia con progresista, ya que una  persona que cumple sus promesas y que tiene un adecuado manejo en las finanzas,  buscará la mejora y el progreso de su comunidad y empleará los recursos  necesarios para conseguirlo. Las relaciones también pueden establecerse entre  familias.</p>
+<p>Los resultados de este análisis son dos: un esquema de relaciones que  condensa la teoría e identificar la densidad de un código o de una familia. La  densidad es el número de relaciones que tiene con los demás. La familia central  en este caso fue la de filosofía moral (ética).</p>
+</sec>
+<sec>
+<title>La codificación selectiva</title>
+<p>Por último, se llegó a la codificación selectiva que es en sí misma la  teorización. Ésta se presenta a continuación. Cualquier aspirante a presidente  municipal debe poseer valores universales y ética en su actuar personal y en su  actuar como servidor público. Debe tener valores como honestidad, humildad, amabilidad, sentido de bien común,  responsabilidad, diligencia, solidaridad, respeto, sociabilidad y trabajo. La  comparación entre datos, en un ambiente político, pone al descubierto  necesidades y deberes evidentes. En este caso, el candidato idóneo debe tener  ciertos atributos para ser presidente municipal, destacando su obligación de  servir con sentido de responsabilidad, ética y diligencia.</p>
+</sec>
+<sec>
+<title>Conclusiones</title>
+<p>Las experiencias sociales de cada población y  por lo tanto de cada sujeto, permiten que las personas den significados  diferentes a los acontecimientos y, por ende, generan mundos muy singulares.  Las personas significan sus motivaciones en un vocabulario particular que  corresponde a su mundo y a su vez, refiere a la singularidad de contextos  sociales, culturales, históricos y económicos. Merleau-Ponty indica que todos “somos amalgamas  resultado de nuestras relaciones en y con el mundo; el mundo siempre está con  nosotros” (en San Martin Cantero 2014:107). La TF es una de las metodologías que permite estudiar con profundidad  estos mundos, ya que considera la interpretación que tienen los sujetos  acerca de su entorno.</p>
+<p>La comprensión de los fenómenos con suficiente profundidad requiere  también de flexibilidad en el método, por lo que se recurre a diferentes  técnicas de recolección de información. La flexibilidad también abarca al  planteamiento de la investigación. En la TF se puede partir de una  base cero en lo teórico o bien, desde los elementos teóricos existentes sobre  la temática a investigar. Lo anterior favorece la solidez en la teoría  generada, ya que se parte fundamentalmente de la contrastación de los hallazgos  y de éstos con la teoría. Como pudo apreciarse en la descripción del ejemplo,  la comparación entre datos, entre códigos, entre familias y a su vez con la  teoría es un proceso permanente en los métodos de la TF.</p>
+<p>Aunque el fundamento epistemológico de la TF  le confiere una postura eminentemente cualitativa, se complementa con análisis  de frecuencia en torno a la aparición de cada código. Charmaz dice que “los  métodos de la teoría fundamentada proporcionaron un modelo para llevar a cabo  la investigación cualitativa, sellada con la aprobación positivista”  (2013:274), ya que la sistematización con la que se trabajan los datos fue dada  por el positivismo. Debe tenerse siempre presente que el fin último de la TF es  la generación de teoría: a veces se crea una nueva o se perfecciona alguna ya  existente, lo cual es una de sus principales aportaciones a la ciencia.</p>
+<sec>
+<title>Agradecimientos</title>
+<p>Miguel  Bonilla-García es becario para estudios de maestría de la  Secretaría de Educación de Veracruz.</p>
+</sec>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>Referencias</title>
+<ref id="redalyc_10148922006_ref1">
+<mixed-citation>Andréu Abela, J; García-Nieto, A; Pérez Corbacho, A.  M. 2007. Evolución de la teoría fundamentada como técnica de análisis  cualitativo. Santiago de Compostela: Centro de Investigaciones Sociológicas  (CIS). </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Andréu Abela</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Evolución de la teoría fundamentada como técnica de análisis cualitativo</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref2">
+<mixed-citation>Baron, R. A; Byrne, D. 2005. Psicología social.  México: Pearson Educación. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Baron</surname>
+<given-names> R</given-names>
+</name>
+</person-group>
+<source>Psicología social</source>
+<year>2005</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref3">
+<mixed-citation>Cortina, A. 2013. ¿Para qué sirve realmente la ética? Madrid: Paidós. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Cortina</surname>
+<given-names> A</given-names>
+</name>
+</person-group>
+<source>¿Para qué sirve realmente la ética?</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref4">
+<mixed-citation>Cortina, A; Martínez, E. 2008. Ética. Madrid: Akai. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Cortina</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Martínez</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<source>Ética</source>
+<year>2008</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref5">
+<mixed-citation>Charmaz, K. 2013. La teoría fundamentada en el siglo XXI: Aplicaciones para promover  estudios sobre la justicia social, pp. 270-325. En: N. K. Denzin; Y. S.  Lincoln (comps.) Estrategias de investigación cualitativa: Vol. III. Buenos Aires: Gedisa. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Charmaz</surname>
+<given-names> K</given-names>
+</name>
+</person-group>
+<source>Estrategias de investigación cualitativa: Vol. III</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref6">
+<mixed-citation>Creswell, J. W; Plano Clark, V. L. 2007. Designing and conducting  mixed methods research. New York: Sage  Publications.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Creswell</surname>
+<given-names> J</given-names>
+</name>
+</person-group>
+<source>Designing and conducting mixed methods research</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref7">
+<mixed-citation>Delgado, C. 2012. La teoría fundamentada: decisión entre  perspectivas. Bloomington: Author  House. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Delgado</surname>
+<given-names> C</given-names>
+</name>
+</person-group>
+<source>La teoría fundamentada: decisión entre perspectivas</source>
+<year>2012</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref8">
+<mixed-citation>Dorantes Rodríguez, C. H. 2010. El proyecto de  investigación en psicología, de su génesis a la publicación. México:  Universidad Iberoamericana.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Dorantes Rodríguez</surname>
+<given-names> C</given-names>
+</name>
+</person-group>
+<source>El proyecto de investigación en psicología, de su génesis a la publicación</source>
+<year>2010</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref9">
+<mixed-citation>Fraser, N. 1993. Repensar el ámbito público: Una contribución a la  crítica de la democracia realmente existente. Debate feminista7: 23-58.  http://www.debatefeminista.pueg.unam.mx/wp-content/uploads/2016/03/articulos/007_02.pdf</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fraser</surname>
+<given-names> N</given-names>
+</name>
+</person-group>
+<source>Debate feminista</source>
+<year>1993</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref10">
+<mixed-citation>Gómez Jiménez, A. 2007. Estereotipos, pp. 213-241. En: J.F. Morales; M.C. Moya; E. Gaviria; I. Cuadrado. Psicología  social. Madrid: McGraw-Hill. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Gómez Jiménez</surname>
+<given-names> A</given-names>
+</name>
+</person-group>
+<source>Psicología social</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref11">
+<mixed-citation>Jones, D; Manzelli, H; Pecheny, M. 2004. Grounded theory: una aplicación  de la teoría fundamentada a la salud. Cinta moebio 19: 1-19. http://www.moebio.uchile.cl/19/manzelli.html </mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<source>Cinta moebio</source>
+<year>2004</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref12">
+<mixed-citation>Kassin, S; Fein, S; Markus, H.R. 2013. Psicología social. México: Cengage Learning. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kassin</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<source>Psicología social</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref13">
+<mixed-citation>Martínez Rodríguez, J. 2011. Métodos de investigación  cualitativa. Silogismos de investigación 8(1): 1-43. http://www.cide.edu.co/ojs/index.php/silogismo/article/view/64/53 </mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Martínez Rodríguez</surname>
+<given-names> J</given-names>
+</name>
+</person-group>
+<source>Silogismos de investigación</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref14">
+<mixed-citation>Páez, D; Marques, J; Insúa, P. 1994. Estructuras y procesos de la  cognición social, pp. 123-170. En: J.F. Morales. Psicología social. Madrid: McGraw-Hill. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Páez</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<source>Psicología social</source>
+<year>1994</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref15">
+<mixed-citation>Páramo, P. y Otálvaro, G. 2006. Investigación  alternativa: por una distinción entre posturas epistemológicas y no entre  métodos. Cinta moebio 25:1-7. www.moebio.uchile.cl/25/paramo.html</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Páramo</surname>
+<given-names> P</given-names>
+</name>
+</person-group>
+<source>Cinta moebio</source>
+<year>2006</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref16">
+<mixed-citation>  Rodríguez,  R; Moya, M.C. 1998. España vista desde Andalucía. Estereotipos e identidad. Psicología política 16:  27-48. http://www.uv.es/garzon/psicologia%20politica/N16-2.pdf</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rodríguez</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<source>Psicología política</source>
+<year>1998</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref17">
+<mixed-citation>	San Martín Cantero, D. 2014. Teoría fundamentada y ATLAS.ti: recursos  metodológicos para la investigación educativa. Revista electrónica de  investigación educativa 16(1): 104-122. http://redie.uabc.mx/vol16no1/contenido-sanmartin.html</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>San Martín Cantero</surname>
+<given-names> D</given-names>
+</name>
+</person-group>
+<source>Revista electrónica de investigación educativa</source>
+<year>2014</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref18">
+<mixed-citation>Sánchez Meca, D. 2013. ¿Qué son y cómo se forman los  valores? Estudios Nietzsche: Revista de  la Sociedad Española de estudios sobre Friedrich Nietzsche 2(13): 1-6. https://dialnet.unirioja.es/servlet/articulo?codigo=5097671</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sánchez Meca</surname>
+<given-names> D</given-names>
+</name>
+</person-group>
+<source>Estudios Nietzsche: Revista de la Sociedad Española de estudios sobre Friedrich Nietzsche</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref19">
+<mixed-citation>Smith, V; Pérez, R. 2007.  Atribuciones estereotípicas de calidez y habilidad en jóvenes universitarios. Revista de ciencias sociales 117-118:  129-147. http://revistas.ucr.ac.cr/index.php/sociales/article/view/11019/10399</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<source>Revista de ciencias sociales</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref20">
+<mixed-citation>Soneira, A. J. 2006. La teoría fundamentada en los datos (grounded theory) de Glaser y  Strauss, pp. 153-173. En: I. Vasilachis. Estrategias de  investigación cualitativa. Barcelona: Gedisa. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Soneira</surname>
+<given-names> A</given-names>
+</name>
+</person-group>
+<source>Estrategias de investigación cualitativa</source>
+<year>2006</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922006_ref21">
+<mixed-citation>Vasilachis, I. 2006. Estrategias de investigación  cualitativa. Barcelona: Gedisa.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Vasilachis</surname>
+<given-names> I</given-names>
+</name>
+</person-group>
+<source>Estrategias de investigación cualitativa</source>
+<year>2006</year>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

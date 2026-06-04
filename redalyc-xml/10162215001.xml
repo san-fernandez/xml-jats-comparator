@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000300281</article-id>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Espacio e intervención en trabajo social a partir de Lefebvre</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Space and intervention in social work from Lefebvre</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3196-7831</contrib-id>
+               <name>
+                  <surname>Saravia</surname>
+                  <given-names>Felipe</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad del Bio-Bío. Chile</institution>
+            <institution content-type="normalized">Universidad del Bio-Bío</institution>
+            <institution content-type="orgname">Universidad del Bio-Bío</institution>
+            <country country="CL">Chile</country>
+            <email>fsaravia@ubiobio.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Oct-Dec</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>66</issue>
+         <fpage>281</fpage>
+         <lpage>294</lpage>
+         <history>
+            <date date-type="received">
+               <day>29</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>07</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Se aborda el vínculo entre intervención social y espacio en el campo del trabajo social, a partir de la revisión de aspectos centrales de la obra de Henri Lefebvre y sus implicancias para la comprensión de la intervención social. En primer lugar, se concluye de forma general que lo espacial constituye una dimensión ineludible de toda intervención. Ello tiene como implicancias que es necesario avanzar hacia una perspectiva socioespacial transdisciplinaria de la intervención, superar la fragmentación de los procesos de intervención, y repensar el rol de las profesiones de la intervención social en la transformación socioespacial. Los desafíos de estas resultan ser no solo de carácter epistemológico sino también ético-político.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The link between social intervention and space in the field of social work is addressed, based on the review of central aspects of Henri Lefebvre's work and its implications for the understanding of social intervention. In the first place, it is generally concluded that space constitutes an unavoidable dimension of any intervention. This has as implications that it is necessary to move towards a transdisciplinary socio-spatial perspective about intervention, breaking the fragmentation of the intervention processes, and rethinking social intervention professions role in socio-spatial transformation. In this context, the challenges are not only epistemological but also ethical-political.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>espacio</kwd>
+            <kwd>trabajo social</kwd>
+            <kwd>intervención social</kwd>
+            <kwd>Lefebvre</kwd>
+            <kwd>epistemología</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>space</kwd>
+            <kwd>social work</kwd>
+            <kwd>social intervention</kwd>
+            <kwd>Lefebvre</kwd>
+            <kwd>epistemology</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="11" />
+            <page-count count="14" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>En el marco de una contemporaneidad caracterizada por la globalización, una urbanización considerada por algunos planetaria, y la postmodernidad, tal como plantea Ramos-Feijóo en Enfoque comunitario, el concepto de comunidad parece cada vez más cuestionable como categoría explicativa de las interacciones sociales y como eje rector en la configuración de las intervenciones sociales colectivas por parte del Trabajo Social. No solo porque las relaciones sociales contemporáneas tendrían un carácter predominantemente societario en vez de comunitario, y porque existirían un conjunto importante de dificultades para la implementación de intervenciones sociales comunitarias en el marco de nuestras sociedades fuertemente marcadas por el neoliberalismo (las que han sido constatadas por Duarte en su trabajo Condicionantes de la intervención comunitaria en Chile), sino también porque el concepto de comunidad ha sido utilizado de una manera polisémica al punto de que puede significar, dependiendo de quienes lo utilizan, discursos completamente contrapuestos entre sí, como plantea Lynn en su trabajo Discourses of community. En este sentido, lo comunitario ha llegado a ser concebido incluso como una trampa, en palabras de María Antonieta Urquieta. El foco que desde el Trabajo Social se pone en dicha categoría, impediría abordar dimensiones de los fenómenos sociales que no logran ser captadas desde un enfoque comunitario. Ello queda ejemplificado en la escasa reflexión intelectual sobre lo socioespacial desde Trabajo Social constatada a nivel internacional, con algunas pocas excepciones como en el artículo A theoretical primer on space de Fairbanks. Otro ejemplo es la débil incorporación en el currículo formativo de Trabajo Social en América Latina, de categorías tales como ciudad, territorio, marginalidad urbana, o espacio, tal como lo muestran Orellana y Panez en su trabajo titulado El debate sobre la cuestión urbana y el trabajo social. Ello contrasta con lo que ocurre en el ejercicio cotidiano de la profesión, en el que sí se observa la incorporación desde las políticas públicas de conceptos tales como territorio. Sin embargo, como plantea Elpidio-Abreu en su trabajo Fronteiras, armadilhas e muros, el uso de este pareciera hacerse de una manera polisémica, acrítica, y sin mayor reflexión teórico-epistemológica, lo que podría redundar en la reproducción de ideologías conservadoras en el quehacer profesional. En este sentido, es posible encontrar en revistas de trabajo social latinoamericanas varios trabajos que hacen referencia al concepto territorio, pero que no desarrollan reflexiones teóricas suficientemente profundas al respecto, pudiendo caer en las situaciones descritas anteriormente.</p>
+         <p>En Europa y Norteamérica algunos autores han desarrollado trabajos que reflexionan acerca del vínculo entre Trabajo Social y el espacio. En Alemania, el trabajo de Spatscheck y Wolf-Ostermann, titulado The socio-spatial paradigm in social work, propone la existencia de un paradigma socio-espacial en el Trabajo Social que vendría asentándose en dicho país desde la década de 1990, aunque reconocen que, en términos más amplios, es posible constatar cierta preocupación por asuntos socio-espaciales en precursoras del Trabajo Social como Jane Adams en Estados Unidos, reflejada en su trabajo a través de settlements en Chicago. De hecho, como plantean Álvarez-Uría y Parra: “Jane Adams define el settlement como un esfuerzo experimental para ayudar en la solución de problemas sociales e industriales engendrados por las modernas condiciones de vida en la gran ciudad” (2016:98).</p>
+         <p>Es decir, aunque pareciera ser que no ha sido suficientemente investigado en el origen de la profesión en Europa y Norteamérica, existió una preocupación importante respecto de las condiciones sociales asociadas al surgimiento de la urbanización industrial. Ello es refrendado también por la trayectoria de Octavia Hill, quien es considerada como precursora del Trabajo Social en Europa, y cuyo trabajo se caracterizó por el foco puesto en la vivienda y en los entornos urbanos de las clases populares en Reino Unido, como indica Wohl en Octavia Hill and the homes of the London poor.</p>
+         <p>Ahora bien, el foco puesto en lo que podría ser considerado lo espacial, no quiere decir que las aproximaciones a los fenómenos hayan sido realizadas de forma coherente en términos epistemológicos, teóricos y metodológicos. La propuesta Spatscheck y Wolf-Ostermann se centra en una perspectiva predominantemente ecológica, con referencia a autores como Bronfenbrenner y, aunque reconoce la relación entre lo que denominan como marcos dados por condiciones materiales y objetivas de vida, y las perspectivas subjetivas de los habitantes del área condicionada por dichos marcos, no hacen referencia al campo de estudios geográficos críticos, con autores tales como Henri Lefebvre, Edward Soja, David Harvey, Doreen Massey o a sociólogos como Saskia Sassen o Löic Wacquant.</p>
+         <p>En este contexto, se considera relevante desarrollar una reflexión teórico-epistemológica que vincule perspectivas teóricas sobre el espacio con el campo de estudios sobre la intervención en Trabajo Social. Por ello, este trabajo intenta aproximarse a una vinculación entre la obra de Henri Lefebvre con Trabajo Social en tanto disciplina. Se centra en la obra de Lefebvre considerando su importante impacto en diversas disciplinas abocadas a lo espacial, y la relevancia de su obra en el entrecruzamiento del pensamiento marxista y el análisis de lo urbano, la ciudad, y el espacio en general.</p>
+         <p>Buscamos interrogar la obra Lefebvriana con preguntas tales como qué es el espacio, cómo es configurado, y de qué manera se transforma, para luego desarrollar una reflexión propia acerca de las implicancias que dichas respuestas tienen para pensar el objeto central de Trabajo Social en tanto disciplina, a saber, la intervención social. Buscamos dilucidar posibles implicancias sobre la concepción del objeto de la intervención, es decir, aquello respecto de lo que se interviene: ¿son las intervenciones desde Trabajo Social solo sociales, o es posible concebir intervenciones socioespaciales?, ¿es la dimensión espacial un elemento opcional en la intervención, o más bien una dimensión ineludible? Buscamos también esclarecer si un cambio en la comprensión del objeto de la intervención implica también un cambio en la concepción misma del proceso interventivo: qué alcance tiene la intervención y quiénes deben diseñarla y realizarla.</p>
+         <p>A continuación, en primer lugar, se desarrollan de forma somera algunos de los planteamientos centrales de la obra de Lefebvre, para luego finalizar con una reflexión sobre las implicancias teóricas, epistemológicas y políticas para Trabajo Social.</p>
+      </sec>
+      <sec>
+         <title>La producción del espacio según Lefebvre</title>
+         <p>Henri Lefebvre (1901-1991) fue un filósofo marxista francés, cuya obra en lo relacionado con el análisis de la vida cotidiana y el espacio, es considerada como una de las contribuciones más importantes en la materia, durante el Siglo XX. Un argumento central en su obra titulada La producción del espacio, es precisamente que el espacio no es algo meramente dado, previo a la existencia humana, sino algo producido. Es decir, que el espacio no se reduce al espacio natural, aunque en palabras del mismo Lefebvre, tal planteamiento puede resultar poco comprensible: “suena extraño hablar de producción del espacio. El esquema según el cual el espacio vacío preexiste a aquello que lo ocupa sigue conservando aún mucho vigor” (Lefebvre 2013:76). En efecto, aún hoy la lógica del espacio como caja vacía o como escenario en el que ocurren determinadas sucesiones de eventos y procesos, parece estar vigente en varios campos y subcampos disciplinarios, inclusive en Trabajo Social. Desde esta lógica lo espacial se reduce a lo material, tangible y mensurable, por lo que la idea de que el espacio sea producido es particularmente extraña. ¿Cómo es posible que el espacio sea una producción social, si los seres humanos requieren de este para poder producir? En este sentido, Lefebvre no rehúye la tensión dialéctica que en esta argumentación se produce: “cualquier espacio es siempre anterior a la aparición del actor, sujeto principal y colectivo, miembro de un grupo o de una clase que intenta apropiarse de ese espacio (...) y, sin embargo, su presencia, su acción y su discurso niegan al mismo tiempo que suponen dicha pre-existencia espacial” (Lefebvre 2013:115).</p>
+         <p>Lo que plantea el autor es que, aunque es innegable la existencia de un espacio natural previo a la acción humana, esta se despliega de tal manera que el espacio pre-existente deja de existir en las condiciones naturales. Es más, dada la historicidad de la acción social sobre el espacio, todo espacio es espacio social, y no meramente espacio natural: “el espacio-naturaleza desaparece irreversiblemente (...) Es considerado meramente como la materia prima sobre la que operan las fuerzas productivas de las diferentes sociedades para forjar su espacio” (Lefebvre 2013:90).</p>
+         <p>Lo anterior tiene como consecuencia que no existe un solo espacio, sino que en la medida que es el conjunto de la sociedad la que lo produce, cada sociedad genera un espacio para sí misma. Aunque en realidad no se trata de un espacio único, sino de una multiplicidad de espacios sociales simultáneos, superpuestos y entrecruzados, emanados de las sociedades que los producen: espacios sociales de diversa naturaleza (producción material, comercio, simbólico-culturales, etcétera) y de distintas escalas (locales, regionales, nacionales, globales). La interacción e imbricación entre estos es planteada como ley por el autor.</p>
+         <p>Ahora bien, un trabajo de disección analítica permitiría identificar estos espacios específicos, pero no debe pensarse que el espacio sea un objeto o una cosa: “el espacio (social) no es una cosa entre las cosas, un producto cualquiera entre los productos: más bien envuelve a las cosas producidas y comprende sus relaciones en su coexistencia y simultaneidad” (Lefebvre 2013:129). Desde esta lógica, toda acción humana es espacial, inclusive la actividad cognitiva e intelectual, y debiera ser entendida desde una teoría que la conciba de forma conjunta a la materialidad, y a las relaciones sociales asociadas a esta.</p>
+         <p>No obstante, la filosofía y el desarrollo de las ciencias modernas ha tendido sistemáticamente a la fragmentación de la realidad en campos y subcampos de estudios específicos, perdiéndose de esta manera una teoría para la comprensión unitaria de los procesos humanos. En este contexto, lo que pretende Lefebvre es la construcción de una teoría unitaria que articule campos tradicionalmente considerados por separado: el campo físico (la naturaleza, el cosmos), el campo mental (incluida la abstracción formal y la lógica) y el campo social. Al respecto, plantea: “la exigencia de unidad puede formularse de otro modo, que acentuaría su importancia. El pensamiento reflexivo en ocasiones confunde y otras veces separa los ‹‹niveles›› que la práctica social aprecia, suscitando de ese modo la cuestión de sus relaciones. El habitar y la vivienda -el ‹‹hábitat››, como se dice- conciernen a la arquitectura. La ciudad y el espacio urbano son propios de un dominio especializado: el urbanismo. En cuanto al espacio más amplio, el territorio (regional, nacional, continental o mundial) es competencia de los planificadores y los economistas. Algunas veces esas ‹‹especialidades›› se insertan bajo el auspicio de un actor privilegiado, el político. Otras veces, sus respectivos dominios se sitúan al margen los unos de los otros, abandonando todo proyecto común y cualquier hermandad teórica. Una teoría unitaria debería poner fin a esta situación” (Lefebvre 2013:72).</p>
+         <p>De lo anterior se desprende que el fin de la teoría propuesta es el cuestionamiento e incluso la eliminación de las barreras disciplinares, que configuran campos que reducen la realidad, fragmentándola de manera artificial: “el concepto y la teoría de la producción del espacio amenazan los campos de los especialistas, y pueden hacer estremecer e incluso derribar los muros de esos cotos erigidos en torno al conocimiento” (Lefebvre 2013:163).</p>
+         <p>Al cuestionamiento de dichas barreras artificialmente configuradas, Lefebvre suma la constatación de que estas sirven a un poder centralizado, a la influencia y direccionamiento del actor político. Es decir, aunque la tendencia moderna es a la fragmentación de la realidad social y del conocimiento sobre esta realidad de manera compartimentada, al mismo tiempo se subordina dicha separatidad a un poder centralizado. Ello se contrapone con el ideal de ser humano que subyace en la obra de Lefebvre, e incluso con el ideal de ser humano en la obra de Marx, como lo plantea Erich Fromm en su obra sobre Marx y su concepto de hombre. Por esta razón, como utopía, Lefebvre plantea que es necesario invertir la tendencia dominante que va hacia la fragmentación, la separación y la desintegración, tendencia subordinada a un centro o a un poder centralizado y formalizada por el saber que actúa en nombre del poder.</p>
+         <p>Esta utopía resulta ser al mismo tiempo intelectual y pragmática. En la medida que el saber tiene la capacidad de formalizar y legitimar el poder político que, mediante su despliegue técnico-operativo, fragmenta, separa y desintegra al espacio, se encuentra afecto por tensiones ineludibles: ¿ha de cuestionar su fragmentación artificiosa y su subordinación al poder centralizador/desintegrador? Ese cuestionamiento implica un posicionamiento ético-político.</p>
+         <p>Ahora bien, para llegar al punto reflexivo en que se es consciente de la necesidad de dicho posicionamiento, es necesaria precisamente una teoría que subvierta lo dado por sentado, aquello no cuestionado. En esta línea, Lefebvre plantea como la suprema ilusión “considerar a los arquitectos, a los urbanistas o planificadores como expertos en el espacio, jueces supremos de la espacialidad. Los ‹‹interesados›› no parecen advertir que en realidad modifican lo demandado, ante lo comandado” (Lefebvre 2013:150). Se trata de un peligro derivado de una epistemología positivista que en primer lugar genera una barrera taxativa entre expertos y legos. El espacio será el ámbito de acción para un grupo reducido de profesionales que, en función de recortes muy parcelados de la realidad, tendrían capacidad de desplegar una voz legítima respecto de los asuntos pertinentes a dichos recortes. Lefebvre menciona a los arquitectos, urbanistas o planificadores, que de acuerdo con esta lógica podrían ser considerados como los jueces supremos de la espacialidad. Fuera de ellos no habría mentes autorizadas para abordar las cuestiones espaciales, ni voces legítimas para referirse a ellas en el debate público, lógica de la cual es posible dar varios ejemplos en el caso chileno, como el descrito por Manuel Tironi en su trabajo Pastelero a tus pasteles, publicado en el libro Produciendo lo social. Ahora bien, ¿acaso no es posible encontrar argumentos similares en campos tales como la economía regional, la antropología urbana, la sociología urbana y rural, y la geografía, entre otros? Aún en ciencias sociales aparentemente críticas subsistiría esta separación no solo entre disciplinas, sino especialmente respecto de los no-expertos. Ello tiene consecuencias políticas importantes que son abordadas posteriormente.</p>
+         <p>Existe también el peligro de la ingenuidad de creer que se actúa sin coacción alguna en la actividad intelectual y profesional, como si fuese posible hacer reflexión fuera del espacio social, sin determinaciones múltiples actuando de forma simultánea sobre el actor pensante. Los jueces supremos de la espacialidad, dice Lefebvre, en realidad son demandados para actuar de tal o cual manera, y comandados para que su actuación sirva para unos fines determinados no por ellos, sino por un poder centralizado y centralizador. Sin embargo, “de manera al tiempo ingenua y arrogante, piensan que el espacio urbano es algo que está ahí, esperándoles, disponible por completo para sus hazañas creativas. No reconocen, o hacen como si no reconociesen, que ellos mismos forman parte de las relaciones de producción, que acatan órdenes” (Delgado 2017:18). Ello puede ocurrir de forma explícita, pero la mayor parte de las veces se trata de condicionamientos que operan de maneras poco visibles y que, por lo mismo, dan pie para que profesionales pretendan ser artífices de obras consideradas producto de su propio ingenio e inventiva, sin más.</p>
+         <p>Estos riesgos revisten la fragmentación teórica en el abordaje del espacio. Puede dar lugar a la impresión de ser un producto más entre otros, resultado de la acción individual, más la realidad, como plantea Lefebvre, es completamente diferente: no son determinados sujetos, o grupos de sujetos en torno a un campo disciplinar, quienes producen el espacio, sino una sociedad en su conjunto, con sus respectivas tensiones de clase y hegemonías: “la atribución de la responsabilidad sobre la producción de un espacio no puede hacerse a un individuo o a una entidad, sino a una realidad social susceptible de investir el espacio, de producirlo con los medios y recursos a su alcance (fuerzas productivas, técnicas, conocimientos, medios de trabajo, etc.)” (Lefebvre 2013:169).</p>
+         <p>La producción del espacio así, en la medida que es vista como resultado del trabajo, es un producto de clase y, consecuentemente, las tensiones de clase constituyen desde esta lógica, el principal factor explicativo de las características del espacio. En este sentido, Lefebvre destaca como ejemplos de transformación social y espacial, las reformas agrarias y revoluciones campesinas de la primera mitad del Siglo XX. En términos más contemporáneos, menciona a las guerrillas urbanas, especialmente en América Latina. Concordando con ello, David Harvey hace un listado de movimientos sociales con un creciente énfasis urbano, desde El Cairo a Santiago de Chile, que tendrían a la base, aunque no se reconozca explícitamente, un importante contenido de clase.</p>
+         <p>Es decir, no solo el cambio social se explicaría a partir de las tensiones de clase, sino también el cambio espacial. O más bien, todo cambio social debiese ser también un cambio espacial, si ha de perdurar: “una revolución que no da lugar a un nuevo espacio no llega a realizar todo su potencial; embarranca y no genera cambios de vida, tan solo modifica las superestructuras ideológicas, las instituciones, los aparatos políticos. Una transformación revolucionaria se verifica por su capacidad creativa, generadora de efectos en la vida cotidiana, en el lenguaje y en el espacio” (Lefebvre 2013:112).</p>
+         <p>En este punto resulta necesario detenerse a precisar la aproximación trialéctica que Lefebvre hace al espacio. Si los cambios políticos y sociales -superestructurales e institucionales, en la lógica marxista- no son posibles de sostener sin cambios simultáneos en el espacio, ¿en qué consisten concretamente estos potenciales cambios espaciales?, ¿qué dimensiones tienen?, ¿de qué manera pueden ser identificados? La lógica Lefebvriana del espacio implica una aproximación compleja que considera tres dimensiones entrelazadas: aquella que denomina práctica espacial o espacios percibidos, otra que refiere como espacios representados o espacios concebidos y una tercera denominada como espacios de representación o espacios vividos.</p>
+         <p>Con práctica espacial Lefrebvre hace referencia a prácticas cotidianas realizadas predominantemente sin una conciencia reflexiva, que están moldeadas o estructuradas por el espacio y que simultáneamente lo transforman. Retomando la distinción marxista, incorpora aquí tanto a las prácticas de producción como de reproducción de la vida. Con las primeras hacemos referencia a la división del trabajo y su organización, y por tanto a las funciones sociales jerarquizadas, mientras que con las segundas nos referimos a las relaciones biofisiológicas entre los sexos, las edades, con la específica organización familiar derivada de ellas. Se trata de una dimensión eminentemente material y al mismo tiempo social.</p>
+         <p>Con espacios representados o espacios concebidos, Lefrebvre se refiere a las maneras en que el espacio es representado a través de reducciones y hecho mensurable a través de codificaciones e instrumentos técnicos que, guiados desde ciertas lógicas epistemológicas y teóricas, plasman representaciones del espacio, comunicables entre grupos sociales con la capacidad de interpretar dichas codificaciones. Se trata de una dimensión del espacio en la que la actividad cognitiva y reflexiva humana tiene un rol preponderante, a diferencia de lo que ocurre en los espacios percibidos.</p>
+         <p>Por último, con espacios de representación o espacios vividos, Lefebvre se refiere a las maneras en que el espacio es experimentado de forma directa por los seres humanos, de forma corporal, sin mediación de sistemas de representación verbales, y que puede dar lugar a nuevas formas de prácticas socioespaciales.</p>
+      </sec>
+      <sec>
+         <title>Desafíos para Trabajo Social</title>
+         <p>A partir de la revisión realizada de parte de la obra de Lefebvre, se plantean algunos desafíos importantes para el Trabajo Social y para las disciplinas asociadas a la intervención social en general: en primer lugar, la necesidad de avanzar hacia una perspectiva socioespacial transdisciplinaria de la intervención. En segundo lugar, superar la fragmentación de los procesos interventivos. Y, por último, cuestionar qué es y cómo se produce transformación socioespacial para repensar el rol de las profesiones de la intervención social.</p>
+         <p>Si como plantea Lefebvre, el cambio social que no trae consigo también un cambio espacial no logra efectivamente asentarse y constituirse en un cambio estructural, lo espacial debe constituir el objeto en torno al cual se despliegan los esfuerzos de cambio, es decir, la intervención. En otras palabras, desde esta lógica, si se busca avanzar hacia cambios estructurales, toda intervención debiese ser no solo social, sino socioespacial. Ello es, como queda claro en la somera revisión realizada de parte de la obra de Lefebvre, distinto a decir que toda intervención social debiese ser comunitaria, o que toda intervención social debiese ser territorial. El espacio no es necesariamente comunitario (aunque toda comunidad se desarrolle en un espacio), ni necesariamente el espacio es sinónimo de territorio (aunque todo territorio sea un espacio). El espacio no es una cosa entre las cosas, sino lo que las envuelve y articula, incluyendo desde un punto de vista trialéctico, aspectos materiales, subjetivos y sociales.</p>
+         <p>Lo anterior implica que Trabajo Social requiere de una epistemología que le permita entender la unicidad inherente de dichos procesos, y criticar la tendencia a la fragmentación impuesta por el capitalismo. En realidad, se trata más bien de una epistemología común a las ciencias en general, ya que una crítica radical a la separatidad ilusoria de la realidad y del conocimiento, propia de la modernidad, llevará a resquebrajar las barreras disciplinarias y hará confluir campos que parecieran de ninguna manera necesitar estar vinculados.</p>
+         <p>En este sentido, Trabajo Social debe avanzar hacia la transdisciplina, como tempranamente proponía el académico de la Universidad de Concepción, Mario Quiroz en Trabajo social y pensamiento complejo, desde una perspectiva de la teoría de la complejidad de Edgar Morin. Lo mismo plantea más recientemente María Belén Ortega en su artículo Trabajo social como transdisciplina, quien a su vez propone que ello implicaría afrontar al menos tres desafíos: el primero es repensar la forma en que hacemos investigación, en lo relacionado con las barreras entre campos disciplinares (Trabajo Social puede y debe incorporar técnicas provenientes de diversas disciplinas para su quehacer investigativo), y especialmente en lo relacionado entre la distinción taxativa entre expertos y legos anteriormente mencionada. Romper dicha distinción implica oponerse a la noción de la denominada sociedad del conocimiento en la que “el discurso competente es, en efecto, el de los especialistas, de aquellos que saben al respecto de alguna dimensión de la naturaleza o la vida de las personas y que enseñan a vivir mejor. Esto tiene una consecuencia política central: la sociedad, así entendida, se divide entre individuos competentes que mandan e individuos incompetentes que obedecen. Con ello se reemplaza la idea de que la sociedad se divide en clases sociales” (Rodríguez, Betancourt y Barrientos 2019:91).</p>
+         <p>Avanzar en este sentido implicará que las intervenciones deberán ser siempre en alguna medida, auto-intervenciones. El rol experto en este sentido cambia, ya que como vimos en la propuesta Lefebvriana, la producción del espacio y el cambio de éste, no es posible de atribuir a un sujeto, o a una institución dedicada a la intervención social, sino a una sociedad en su conjunto, en la que tienen especial importancia las tensiones de clase que empujan el cambio. En este contexto, el rol experto consiste más bien en constituirse en un elemento catalizador de las fuerzas que impulsan los cambios, más que en un diseñador o programador unilateral de dichos cambios socioespaciales. Ahora bien, ello implicará también un posicionamiento ético-político en el marco de las tensiones de clases que impulsan los cambios. ¿Hasta qué punto se está abierto a la incertidumbre generada por el aumento de poder de actores no expertos en la delimitación de lo que se entiende por objeto de intervención, y en las formas de abordaje de este? ¿Hasta qué punto se está disponible para ser parte de los procesos de fortalecimiento de la autonomía e incremento del poder de dichos actores? La respuesta a estas preguntas no solo pone en cuestión la posición de poder de los profesionales en términos individuales respecto de los sujetos de la intervención, sino también de la profesión en su conjunto. Avanzar hacia una difuminación de las barreras entre legos y expertos puede ser vista en este sentido como una pérdida de poder si se observa desde el campo disciplinar, pero desde una postura ético-política que prioriza el bienestar del conjunto de la sociedad y el avance hacia relaciones sociales más igualitarias, dicha difuminación genera más bien, incremento del poder colectivo, mediante alianzas inter-clase.</p>
+         <p>En segundo lugar, Ortega propone que concebir Trabajo Social como transdisciplina implica repensar la utilización de técnicas diagnósticas y de intervención en términos reversibles. Es decir, deshacer la fragmentación entre investigación y acción. La intervención socioespacial, con toda su riqueza metodológica y técnica, constituye una fuente importante de material que puede nutrir la investigación. En este sentido, resulta deseable avanzar hacia concepciones que entiendan la intervención en interrelación con la investigación, en al menos tres sentidos: toda intervención debe ser fundada en investigación, debe idealmente dar lugar a procesos de investigación formales, y toda investigación debe buscar transformar. Una separación taxativa entre ambas esferas es propia de la tendencia a la fragmentación descrita por Lefebvre, y resulta ser funcional para los fines del capital, como queda claro al observar las dinámicas de producción científica global.</p>
+         <p>Por último, la autora plantea que una concepción transdisciplinaria de Trabajo Social requiere de la incorporación de la dimensión simbólica entrelazada con las prácticas de los sujetos y las estructuras sociales en las que estas se enmarcan. Ello se alinea también con la propuesta de Lefebvre, de entender la realidad socioespacial como la confluencia e interacción continua e inseparable de distintas dimensiones de la realidad, que es posible diseccionar en términos analíticos, pero que en términos pragmáticos operan de forma conjunta.</p>
+         <p>En suma, asumir lo espacial como elemento que debe ser considerado central en toda intervención social, implicará necesariamente asumir una concepción del Trabajo Social como transdisciplina. Además, implicará entender la intervención social como un objeto que, aunque constituye el corazón del quehacer disciplinar, no se encuentra clausurado, tal como proponen autores como Juan Saavedra o Gianinna Muñoz. Ello tendrá, quiérase o no, consecuencias en la configuración de la identidad profesional y disciplinaria. Sin embargo, como plantea Yañez, esta reconfiguración no debe ser buscada desde una lógica de apego a las certezas absolutas (es decir, reemplazando certezas pasadas por nuevas verdades), sino más bien, sin esencialismos, como una identidad dinámica: “la identidad se encuentra en todo lo que acontece como su ser, en la medida en que no es perpetua e inalterable, sino que supone una búsqueda permanente de sentido, de contenido, de morada; pero, por vía del encuentro y la separación dialogante con la totalidad de la que se es parte” (Yañez 2016:418).</p>
+         <p>En relación con el segundo desafío indicado, resulta importante aclarar que cuando se plantea lo espacial como central de cualquier intervención social, se entiende que el concepto de espacio no es relevante solo para las intervenciones consideradas tradicionalmente como comunitarias, o solo para aquellas que se vinculan más fuertemente con colectivos, sino que en la medida que el espacio comprende la vida humana en su totalidad, la dimensión espacial es indisociable de toda intervención social.</p>
+         <p>El espacio así, como plantea Lefebvre en Critique of everyday life, tiene que ver con la vida cotidiana de los sujetos, en sus niveles micro y meso, pero también con macro-espacios y con temporalidades de mayor alcance. En cada uno de estos niveles socioespaciales será posible identificar fenómenos que, aunque están interrelacionados (y, por lo tanto, requieren de un abordaje teórico general), merecen tratamientos analíticos diferenciados para su intervención. No se quiere decir con esto que sea necesario renunciar a una comprensión global de los procesos socioespaciales, tal como proponía Quiroz desde la teoría de la complejidad: “el principio de la complejidad no solo impide toda teoría unificadora, sino que reconoce la imposibilidad de eliminar la contradicción, la incertidumbre, lo irracionalizable” (Quiroz 2000:119). Esta forma de proceder solo contribuiría a la reproducción de la fragmentación de los saberes y, consecuentemente, mermaría las posibilidades de transformación socio-espacial en términos estructurales. Más bien, se propone que, aunque es posible reconocer distintos niveles socioespaciales (y cada uno de estos da lugar a fenómenos específicos regidos por lógicas particulares que requieren ser tenidas en consideración para su análisis e intervención), estos deben ser comprendidos desde una teoría general acerca del espacio, para lo cual la obra de Lefebvre constituye un importante referente.</p>
+         <p>La relación entre lo macro y lo micro es un asunto que en ciencias sociales ha sido objeto de amplio debate. Desde una perspectiva estructuralista se planteará la preeminencia de lo macro para explicar lo micro, mientras que desde una perspectiva subjetivista lo micro tendría explicación en sí mismo. Para Trabajo Social, posicionarse desde uno u otro enfoque no resulta baladí. En el primer caso los fenómenos respecto de los cuales la intervención social versa tendrían su explicación en la estructura social, y consecuentemente, la intervención social debiera enfocarse en las causas estructurales de los fenómenos a abordar, tales como la pobreza, las desigualdades, etcétera. En el segundo caso en cambio, se entenderá que los fenómenos se explican a partir de lo micro. Así, las causas de la pobreza, las desigualdades, la delincuencia, drogadicción, alcoholismo, entre otros fenómenos, radicarían en un nivel micro de análisis, como las unidades familiares o los individuos. La tensión entre ambas perspectivas resulta ser no solo epistemológica, sino también ético-política. Mientras en la primera mirada se entiende que los fenómenos socioespaciales con los que se trabaja tienen sus causas en las relaciones de poder que configuran la estructura social, la segunda tenderá a ubicar dichas causas en los sujetos que son afectados por los fenómenos en cuestión. De esta manera, más o menos explícitamente se les culpabiliza y, consecuentemente, responsabiliza por el cambio. A este respecto, Lefebvre plantea una vía interpretativa media: “lo macro no determina lo micro. Lo abarca, lo controla, lo penetra y le impone regulaciones, que se encuentran en diferentes niveles de profundidad y eficacia: normas de conducta y patrones de comportamiento, modelos y roles, etc.” (Lefebvre 2002:141).</p>
+         <p>Es decir, aunque la estructura socioespacial macro en efecto incide sobre los fenómenos atribuibles a un nivel micro, en este último no deja de existir la posibilidad de agencia, de cambio, de indeterminación. Qué aspectos de los fenómenos deben ser abordados desde una perspectiva micro o macro para el análisis de sus causalidades, resulta un asunto que sobrepasa con creces los límites de este artículo. Sin embargo, también la obra de Lefebvre constituye un importante referente en esta materia. Lo importante para efectos de la argumentación que aquí se presenta, es que quede claro que lo socio-espacial no se refiere únicamente a un nivel macro o meso de análisis, sino que es posible hallarlo también en lo micro, y que estos niveles se encuentran condicionados mutuamente.</p>
+         <p>En efecto, en un nivel socio espacial micro, la relevancia de Lefebvre ha sido ya analizada en el trabajo de Jeyasingham The production of space in children’s social work, que aplica una perspectiva Lefebvriana al trabajo social con niños. El autor muestra la importancia de diferenciar entre práctica espacial, representación espacial y espacios vividos. Identifica que ciertas prácticas espaciales de trabajadores sociales en el área de infancia presentan patrones claramente diferenciados en términos espaciales: por ejemplo, ciertas reuniones tienden a ocurrir solo en lugares específicos y tienen una duración estimada pre-establecida, las visitas domiciliarias tienden a ser realizadas también en momentos específicos del día, y las prácticas de movilidad espacial presentan patrones identificables asociados a las características del espacio en el que la actividad profesional se desarrolla. Es decir, las prácticas concretas llevadas a cabo por los equipos profesionales se encuentran más condicionadas por el entorno socio-espacial de lo que parecería. Por otro lado, al referirse a la representación espacial, el autor menciona el uso de instrumentos tales como mapas y planos, e indicadores sociales espacializados. Resultaría relevante cuestionarse en qué medida estas formas de representación del espacio utilizadas por los equipos profesionales logran avanzar hacia deshacer las fragmentaciones anteriormente mencionadas, no solo en relación con las barreras disciplinares, sino también entre legos y expertos.</p>
+         <p>En este sentido, parece ser un desafío para los trabajadores sociales el avanzar también hacia la incorporación de nuevas formas de representación del espacio, como los sistemas de información geográfica, y ampliar el uso de formas participativas de recolección de información, como el mapeo comunitario, y otras técnicas como la autofotografía, mapas mentales, caminatas estructuradas en conjunto con actores claves, etcétera. Por último, al referirse Jeyasingham a los espacios de representación, menciona el ejemplo de como las mujeres involucradas en la prostitución callejera pueden, en efecto, negociar el uso de los espacios públicos en las urbes. Es decir, la delimitación normativa formal de los usos del espacio pueden ser subvertidas comúnmente por los sujetos que lo habitan, y respecto de ello pueden generarse conflictos socio-espaciales tan relevantes como diversos, a distintas escalas: desde lo micro (la unidad doméstica, las instituciones de cuidado de adultos mayores y de niños y jóvenes institucionalizados), a niveles meso (las relaciones vecinales en el barrio o el uso de los espacios al interior de establecimientos educativos) o macro (la configuración de las ciudades intermedias y metrópolis y sus relaciones dentro de la red urbana nacional a internacional, y los conflictos socio-ambientales asociados a la actividad económica de carácter extractivista tan común en los países de América Latina).</p>
+         <p>De esta manera, queda claro que el análisis micro de lo socioespacial no resulta desligable de niveles meso y macro. La profundización de la reflexión acerca de qué fenómenos se inscriben en cada uno de estos niveles y cómo debe realizarse el análisis en estos, requiere un tratamiento pormenorizado que resulta perentorio abordar en próximos trabajos. Por lo pronto, es necesario dejar establecido que lo socioespacial se asocia a niveles otrora considerados en extremo fragmentados, yendo desde lo corporal, hasta las relaciones globales y su impacto en lo local.</p>
+         <p>Ya hemos argumentado que el cambio socioespacial no es atribuible a un grupo de sujetos o a una institución o disciplina en particular, sino a las tensiones de poder en una sociedad en su conjunto, que modifican y crean la realidad. ¿Qué rol les cabe en este marco a las profesiones dedicadas a la intervención social? Un rol facilitador o catalizador. ¿En qué exactamente consiste ese rol catalizador? Responder esto implica referirse a una interrogante aún mayor: cuál es el sustrato del cambio socioespacial, es decir, dónde se origina. ¿Se origina en el lenguaje, en la subjetividad e intersubjetividad, o más bien en la realidad material y las tensiones de poder que en estas se dan?</p>
+         <p>Aquí la discusión respecto de los factores explicativos de los fenómenos socioespaciales cambia de foco. Ya no discutimos los niveles en que estos se ubican -macro, meso o micro-, sino su naturaleza, aunque en general es posible hallar ciertas relaciones entre ambas discusiones. Quienes ubican su foco en lo micro tienden a interpretar los fenómenos socioespaciales como producto de las subjetividades e intersubjetividades, y viceversa, quienes se enfocan en lo macro tienden a dar mayor relevancia a factores de carácter material y tensiones de poder. Estas son tendencias generales en cuanto a posturas analíticas, que en varios teóricos son entremezcladas. Es posible encontrar posturas que analizando los niveles micro enfatizan lo estructural, material y las relaciones de poder, y viceversa. Ahora bien, ¿cómo interpreta Lefebvre el cambio socioespacial? Al respecto, plantea Jeyasingham: “el trabajo de Lefebvre puede ser diferenciado de la mayoría de los demás autores posestructuralistas, porque este se rehúsa a priorizar un enfoque deconstruccionista del lenguaje, por sobre la atención a la heterogeneidad material del espacio. Para Lefebvre y varios otros geógrafos posestructuralistas, el lenguaje no debe ser visto como la principal forma en que el significado se construye” (2014:183).</p>
+         <p>En efecto, Lefebvre plantea que “todo lenguaje se sitúa en un espacio; todo discurso dice algo sobre un espacio (lugares o conjunto de lugares); todo discurso habla desde un espacio” (Lefebvre 2013:184). Es decir, el cambio socioespacial no es atribuible principalmente al discurso o a cambios discursivos, ya que el lenguaje y el discurso se asientan en el espacio, y este no es mero texto, es decir, no es reducible al lenguaje. Desde la lógica de la trialéctica propuesta por Lefebvre, el espacio no es transformado por meras representaciones sociales, o solo por acciones dialógicas. Un espacio es transformado cuando se transforma tanto la dimensión material de este, como los procesos sociales y de representaciones subjetivas asociadas. En este sentido, la intervención social debe ser vista como algo que va más allá de un mero dispositivo discursivo.</p>
+         <p>Aseverar esto da lugar a un interesante debate con el trabajo de Juan Saavedra, quien en respuesta a la tradicional postura positivista que concibe la intervención social como mera actividad (como kinesis), releva posturas más complejas, entre las que destaca la perspectiva de la complejidad (en la cual se inserta el trabajo de Quiroz, ya citado) que se centra en la interpretación de las subjetividades, el enfoque funcional-sistémico que, aplicado a lo relativo a intervención social, trabaja en base a la distinción entre inclusión y exclusión, y un enfoque discursivo que concibiendo la intervención social como un dispositivo discursivo, entiende que el diseño de estas consiste principalmente en la configuración de enunciados lingüísticos. En relación con esta última postura plantea: “la intervención social puede ser comprendida en el campo discursivo, no solo por los actos orales de habla (ej. los mensajes presidenciales), sino que también en los textos, que constituyen productos duraderos de estas acciones lingüísticas. En este sentido, las enunciaciones de las políticas sociales, como los fundamentos de programas, proyectos y servicios sociales representan el ámbito de configuración discursiva de la intervención” (Saavedra 2015:141).</p>
+         <p>Resulta un argumento coherente que en efecto los actos lingüísticos constituyen un elemento de relevancia en la intervención social, y que tal como plantea Saavedra, estos quedan plasmados no solo en actos orales del habla, sino también en textos tales como informes, normativas, políticas, entre otros, que no solo guían la puesta en práctica de determinadas acciones, sino que constituyen en sí mismas acciones con efectos sobre el espacio social. Sin embargo, siguiendo la argumentación de Lefebvre, dichos actos lingüísticos son emitidos desde un espacio en particular, que condiciona no solo la posibilidad de emisión de estos, sino sus características, y el alcance del efecto que estos puedan tener. En otras palabras, el contexto histórico material del espacio resulta ser un factor gravitante previo a lo discursivo, y por lo tanto de una jerarquía explicativa más alta. Plantear lo contrario, constituye una postura idealista, que ya ha sido criticada ampliamente en los trabajos marxistas. Como plantean Rodríguez, Betancourt y Barrientos, “es fundamental entender que las ideas no son las determinantes del proceso histórico, sino que ellas son constituidas por el proceso histórico” (2019:90).</p>
+         <p>Ahora bien, en términos pragmáticos resulta verosímil el argumento que plantea que profesionales de la intervención social trabajan principalmente con la palabra, o que sus principales herramientas cotidianas son dispositivos discursivos, concretizados no solo en los informes anteriormente indicados, sino también en diálogos de coordinación entre equipos profesionales o con sujetos afectados por los fenómenos socioespaciales que se abordan. Pero como ya vimos en el trabajo de Jeyasingham, existen diversas prácticas espaciales cotidianas en el trabajo de profesionales de la intervención social que no necesariamente se encuentran mediadas por el discurso y que, sin embargo, pueden reconfigurar el espacio en que estas ocurren. Además, poner el énfasis en el discurso como principal factor explicativo del cambio socioespacial, deja oscurecido el hecho de que las asimetrías de poder y la dominación tienen su base en el diferencial acceso a fuentes materiales de poder. En este sentido, la estructura productiva y ocupacional (con su correspondiente correlato espacial), resulta ser aquello que debe ser modificado, y esto no será el resultado de meros actos lingüísticos.</p>
+         <p>¿En qué consiste entonces el rol catalizador de los profesionales de la intervención social? En línea con lo ya esbozado, se trata de facilitar la reconfiguración de poder entre clases para la producción del espacio. Trabajo Social en este contexto asume un posicionamiento aliado a las clases dominadas, y -añadimos-, a los grupos subalternos en general (piénsese en las categorías de género, raza/etnia, entre otras). Desde esta lógica, la intervención social siempre tendrá como fin la reestructuración de las relaciones de poder, con miras a la emancipación de los grupos dominados. Por tanto, la intervención social debe ser vista como un proceso de transformación socioespacial en el que los profesionales son solo un conjunto de actores específicos que aportan algunos elementos, pero que es realizado principalmente por el conjunto de grupos subalternos. Consecuentemente, la intervención social deberá ser siempre una alianza inter-clase, o entre grupos dominados y privilegiados (los profesionales).</p>
+         <p>Parte importante de estos procesos tendrán que ver con lo que Saavedra denomina dispositivos discursivos (el desafío en esta materia radicará primordialmente en la disputa por el sentido común, buscando que los intereses de los grupos dominados sean visibilizados y priorizados), pero no se reducen a estos. Habrá que también propiciar, acompañar y facilitar el acceso a medios materiales y su control (suelo, vivienda, recursos naturales, entre otros), así como prácticas espaciales que aun sin mediaciones lingüísticas subviertan el orden dado, y favorezcan el arribo a escenarios de mayor igualdad.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión</title>
+         <p>Se ha revisado aquí de forma somera parte de la obra de Henri Lefebvre, y se ha se reflexionado acerca de sus implicancias en la comprensión de la intervención social, que entendemos como objeto central del Trabajo Social y de las disciplinas abocadas a los procesos de cambio social. En términos generales se concluye que resulta de provecho el análisis de la obra Lefebvriana para los fines propuestos. A partir de este, se desprenden los tres desafíos planteados: avanzar hacia una perspectiva socioespacial transdisciplinaria de la intervención, superar la fragmentación de los procesos de intervención, y repensar el rol de las profesiones de la intervención social en la transformación socioespacial.</p>
+         <p>En algunos de estos desafíos se llega a conclusiones similares a las que han sido planteadas desde otras posturas teóricas y epistemológicas. Sin embargo, desde la postura Lefebvriana a diferencia de lo que ocurre con otros enfoques, resalta con mayor nitidez el hecho de que no es solo lo social el objeto de la intervención, sino también lo espacial, en tanto constituye una dimensión consustancial a la existencia humana. Al respecto surge como un desafío para trabajos posteriores el desarrollo de análisis específicos de las diversas y múltiples espacialidades implicadas en la intervención social, considerando las particularidades de los fenómenos según niveles espaciales, así como las implicancias teóricas y metodológicas asociadas a los procesos de transformación de estos.</p>
+         <p>Otra implicancia transversal que se desprende de la perspectiva Lefebvriana, es que toda intervención social implica un proceso de reestructuración de relaciones de poder, por lo que requiere un posicionamiento ético-político. Es decir, la lógica del trabajo social aséptico, neutral en términos políticos, es cuestionada y criticada a partir de los argumentos presentados. Esto entra en tensión con la corriente principal en el trabajo social latinoamericano -con excepción de Brasil- a partir de la década de 1980. Tal como plantea Vivero, el trabajo social requiere hoy una mayor reflexión intelectual acerca de las implicancias políticas de su quehacer, ya que “en un Trabajo Social que asuma una praxis emancipadora, y a partir de ello sustente su proyecto ético político, no es permisible la neutralidad bajo ningún punto de vista” (Vivero 2017:351). No es posible realizar intervenciones sociales apolíticas. Pretenderlo implica el riesgo de reproducir procesos de dominación socioespacial, muchas veces invisibilizados entre grupos de profesionales que no se cuestionan esta dimensión ineludible de su trabajo. En este sentido, la revisión de la obra de Lefebvre deberá llevarnos a revisar nuevamente la experiencia de reconceptualización del trabajo social latinoamericano.</p>
+         <p>Lo revisión realizada también genera desafíos no solo en la práctica de la profesión, sino también en el campo de la formación universitaria de trabajadores sociales. ¿De qué manera la comprensión del espacio como dimensión central en toda intervención social y la necesaria aproximación transdisciplinaria que ello implica es operacionalizado en el quehacer formativo? Este asunto requiere análisis pormenorizado en próximos trabajos, pero en principio se propone a la luz de lo ya planteado, que es necesario avanzar hacia formas de enseñanza que se abran a la transdisciplina de forma radical, lo que puede significar la vinculación activa entre equipos de académicos e investigadores de diversas disciplinas no solo en función de actividades investigativas, sino propiamente formativas. En este sentido, trabajo social podría abrirse a desarrollar prácticas docentes conjuntas con otras carreras tales como arquitectura, geografía e ingenierías. Al mismo tiempo, se hace necesario abrirse a la posibilidad (y de hecho ya hay experiencias al respecto en escuelas de trabajo social en Europa y Estados Unidos) de vínculos con organismos no universitarios implicados en procesos de transformación socioespacial, para el desarrollo de experiencias de intervención social e investigación de forma conjunta y entrelazada. Ahora bien, como plantea Ortega, ello puede implicar ventajas, pero también ciertos riesgos: “la ventaja es la excelente posición de observación y relación con los sujetos, con confianzas superadas y seguridad para conocer y transitar los posibles caminos investigativos; pero un riesgo por cuanto el trabajador social puede ser una parte del engranaje institucional, tan inserto que naturalice los valores e imaginarios que rigen las políticas públicas y la acción social, justificando la extensión y las características de los elementos más estables, asumidos como propios” (Ortega 2015:287).</p>
+         <p>Estos peligros asociados al desafío de avanzar en las articulaciones transdisciplinares (entre distintas disciplinas, entre universidad y entorno y entre expertos y legos) deberán ser afrontados desde una actitud reflexiva y crítica, para lo cual la perspectiva epistemológica desde la lógica Lefebvriana ya expuesta, resulta un importante aporte.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Alvarez-Uría, F., Parra, P.(2016). "The bitter cry: materiales para una genealogía de la identidad profesional de las pioneras del trabajo social en Inglaterra y los Estados Unidos".
+               <italic>Cuadernos de Trabajo Social. 27</italic>
+               (1), 93-102. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/rev_CUTS.2014.v27.n1.43219">https://doi.org/10.5209/rev_CUTS.2014.v27.n1.43219</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alvarez-Uría</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Parra</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>The bitter cry: materiales para una genealogía de la identidad profesional de las pioneras del trabajo social en Inglaterra y los Estados Unidos</article-title>
+               <source>Cuadernos de Trabajo Social</source>
+               <volume>27</volume>
+               <issue>1</issue>
+               <fpage>93</fpage>
+               <lpage>102</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/rev_CUTS.2014.v27.n1.43219">https://doi.org/10.5209/rev_CUTS.2014.v27.n1.43219"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Delgado, M. (2017).
+               <italic>Introducción: lo urbano, más allá de la ciudad</italic>
+               . En Lefebvre, H (autor.);El derecho a la ciudad.  (15-19).: Capitan Swing
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Delgado</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Introducción: lo urbano, más allá de la ciudad</chapter-title>
+               <year>2017</year>
+               <source>El derecho a la ciudad</source>
+               <publisher-name>Capitan Swing</publisher-name>
+               <fpage>15</fpage>
+               <lpage>19</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Jeyasingham, D.(2014). "The production of space in children’s social work: Insights from Henri Lefebvre’s spatial dialectics".
+               <italic>British Journal of Social Work. 44</italic>
+               (7), 1879-1894. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/bjsw/bct053">https://doi.org/10.1093/bjsw/bct053</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jeyasingham</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>The production of space in children’s social work: Insights from Henri Lefebvre’s spatial dialectics</article-title>
+               <source>British Journal of Social Work</source>
+               <volume>44</volume>
+               <issue>7</issue>
+               <fpage>1879</fpage>
+               <lpage>1894</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/bjsw/bct053">https://doi.org/10.1093/bjsw/bct053"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Lefebvre, H.,  (2013).
+               <italic>La producción del espacio</italic>
+               . : Capitan Swing
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lefebvre</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>La producción del espacio</source>
+               <publisher-name>Capitan Swing</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Lefebvre, H.,  (2002).
+               <italic>Critique of everyday life</italic>
+               . : Verso
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lefebvre</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Critique of everyday life</source>
+               <publisher-name>Verso</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Ortega, M.(2015). "Trabajo social como transdisciplina: hacia una teoría de la intervención".
+               <italic>Cinta de Moebio.</italic>
+               (54), 278-289. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2015000300005">https://doi.org/10.4067/S0717-554X2015000300005</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortega</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Trabajo social como transdisciplina: hacia una teoría de la intervención</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>54</issue>
+               <fpage>278</fpage>
+               <lpage>289</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2015000300005">https://doi.org/10.4067/S0717-554X2015000300005"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Quiroz, M.(2000). "Trabajo social y pensamiento complejo en el argumento moriniano".
+               <italic>Sociedad Hoy.</italic>
+               (4), 111-123. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://ediciones.ucsh.cl/ojs/index.php/Perspectivas/article/viewFile/1660/1524">http://ediciones.ucsh.cl/ojs/index.php/Perspectivas/article/viewFile/1660/1524</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Quiroz</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Trabajo social y pensamiento complejo en el argumento moriniano</article-title>
+               <source>Sociedad Hoy</source>
+               <volume />
+               <issue>4</issue>
+               <fpage>111</fpage>
+               <lpage>123</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://ediciones.ucsh.cl/ojs/index.php/Perspectivas/article/viewFile/1660/1524">http://ediciones.ucsh.cl/ojs/index.php/Perspectivas/article/viewFile/1660/1524"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Rodríguez, H., Betancourt, M., Barrientos, A.(2019). "Ontología del lenguaje, ¿un nuevo dispositivo para la construcción del sujeto neoliberal? ".
+               <italic>Sophia, colección de Filosofía de la Educación.</italic>
+               (27), 77-104. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&amp;pid=S1390-86262019000200077">http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&amp;pid=S1390-86262019000200077</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rodríguez</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Betancourt</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barrientos</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Ontología del lenguaje, ¿un nuevo dispositivo para la construcción del sujeto neoliberal?</article-title>
+               <source>Sophia, colección de Filosofía de la Educación</source>
+               <volume />
+               <issue>27</issue>
+               <fpage>77</fpage>
+               <lpage>104</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&amp;pid=S1390-86262019000200077">http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&amp;pid=S1390-86262019000200077"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Saavedra, J.(2015). "Cuatro argumentos sobre el concepto de intervención social".
+               <italic>Cinta de Moebio.</italic>
+               (53), 135-146. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2015000200003">https://doi.org/10.4067/S0717-554X2015000200003</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Saavedra</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Cuatro argumentos sobre el concepto de intervención social</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>53</issue>
+               <fpage>135</fpage>
+               <lpage>146</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2015000200003">https://doi.org/10.4067/S0717-554X2015000200003"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Vivero, L.(2017). "Desafíos de una práctica ético-política. El trabajo social chileno post-dictadura".
+               <italic>Revista Katálysis. 20</italic>
+               (3), 344-352. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1982-02592017v20n3p344">https://doi.org/10.1590/1982-02592017v20n3p344</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vivero</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Desafíos de una práctica ético-política. El trabajo social chileno post-dictadura</article-title>
+               <source>Revista Katálysis</source>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>344</fpage>
+               <lpage>352</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1982-02592017v20n3p344">https://doi.org/10.1590/1982-02592017v20n3p344"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Yañez, V.(2016). "Notas sobre la cosmología disciplinar del trabajo social".
+               <italic>Tabula Rasa.</italic>
+               (25), 415-427. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S179424892016000200415&amp;lng=es&amp;tlng=es">http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S179424892016000200415&amp;lng=es&amp;tlng=es</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yañez</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Notas sobre la cosmología disciplinar del trabajo social</article-title>
+               <source>Tabula Rasa</source>
+               <volume />
+               <issue>25</issue>
+               <fpage>415</fpage>
+               <lpage>427</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S179424892016000200415&amp;lng=es&amp;tlng=es">http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S179424892016000200415&amp;lng=es&amp;tlng=es"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

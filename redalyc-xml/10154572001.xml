@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.6" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000200116</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>El abordaje problemático como metodología para la investigación en teoría sociológica y el análisis de las clasificaciones sociales</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>The problematic approach as a methodology for research in sociological theory and the analysis of social classifications</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bialakowsky</surname>
+						<given-names>Alejandro</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Universidad de Buenos Aires (Buenos Aires, Argentina). ORCID: 0000-0001-8076-7671. (alejbialakowsk@gmail.com)</institution>
+					<institution content-type="normalized">Universidad de Buenos Aires</institution>
+					<institution content-type="orgname">Universidad de Buenos Aires</institution>
+					<addr-line>
+						<named-content content-type="city">Buenos Aires</named-content>
+					</addr-line>
+					<country country="AR">Argentina</country>
+					<email>alejbialakowsk@gmail.com</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<season>Apr-Sep</season>
+				<year>2017</year>
+			</pub-date>
+			<issue>59</issue>
+			<fpage>116</fpage>
+			<lpage>128</lpage>
+			<history>
+				<date date-type="received">
+					<day>07</day>
+					<month>12</month>
+					<year>2016</year>
+				</date>
+				<date date-type="accepted">
+					<day>12</day>
+					<month>02</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>Desde una reflexión teórica, epistemológica y metodológica, este ensayo propone al “abordaje problemático” como metodología para investigar en teoría sociológica. Para esto, se retoman críticamente las postulaciones de Alexander sobre su multidimensionalidad y las de Ritzer acerca de su carácter multiparadigmático. Allí, se señalan ciertos reduccionismos en sus elaboraciones que interpretan a la teoría sociológica desde algunas dicotomías clásicas. En cambio, el abordaje problemático permite dar cuenta de la pluralidad de problemas, presupuestos y análisis que van transformando a la teoría sociológica, la cual tampoco se recorta únicamente por conceptos. Así, se trazan dimensiones y niveles de un problema, que habilitan a comparar perspectivas. Tal trazado es el resultado de un análisis emergente, que las delimita desde los mismos planteos de las perspectivas, al evitar un estudio “interno”, clausurado en un autor, o “externo”, que las interpreta desde una supuesta perspectiva “superadora”. Asimismo, este abordaje y su análisis emergente se ponen a prueba con el problema de las clasificaciones sociales, en el cual se detectan dos dimensiones (tipológica-histórica y jerárquica), atravesadas por dos niveles (representacional y epistemológico-político). El concepto de reclasificaciones sociológicas, como proceso que reclasifica clasificaciones sociales en general, permite una mirada reflexiva sobre la teoría y sus dicotomías. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>This essay proposes the “problematic approach” as a methodology to sociological theory. It is based on a critic of Alexander’s multidimensionality and Ritzer’s multiparadigm. The problematic approach allows to account for a diversity of problems, presuppositions and analyses that have been changing sociological theory, which cannot be reduced to concepts. Such is the result of an emergent analysis, limited from the perspectives themselves, as opposed to an “internal” study around an author, and to an “external” one which interprets them from a supposed “superior” perspective. Also, this approach and its emergent analysis are tested through the problem of social classifications, in which two dimensions (typological-historical and hierarchical) are crossed by two levels (representational and epistemological-political). The concept of sociological reclassifications, as the process that reclassifies general social classifications, allows a reflexive outlook on theory and its dichotomies.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>sociological theory</kwd>
+				<kwd>problematic approach</kwd>
+				<kwd>emergent analysis</kwd>
+				<kwd>social classifications</kwd>
+				<kwd>dichotomies</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>teoría sociológica</kwd>
+				<kwd>abordaje problemático</kwd>
+				<kwd>análisis emergente</kwd>
+				<kwd>clasificaciones sociales</kwd>
+				<kwd>dicotomías.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="20"/>
+				<page-count count="13"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>La investigación en teoría sociológica es una práctica frecuente en los espacios académicos más diversos. Es cierto que, en muchos casos, esta labor se subordina a las necesidades de la enseñanza de la sociología, como se observa tanto en las carreras de grado como de posgrado. Sin embargo, dentro de ciertos límites difusos, esto también implica un “subcampo” de elaboración singular. Dentro del complejo entramado de propuestas que se producen y circulan bajo el rótulo de “teoría sociológica”, las reflexiones sobre esta misma actividad resultan dispares. En variados contextos, se plasman aportes significativos para la disciplina sin profundizar más que en breves párrafos o notas a pie en las características y lineamientos particulares de la investigación en teoría. No obstante, también existen una serie de propuestas epistemológicas y metodológicas que exploran esta cuestión de forma directa.</p>
+			<p>Vale señalar también que los límites disciplinares de la sociología pueden ser puestos en duda bajo el término “teoría social”, el cual supone una apertura a otros modos de concebir a la teoría. Así, en especial, la “historia conceptual” y la “historia intelectual” se encuentran en boga como guía y reflexión sobre un trabajo de investigación de teoría en las ciencias sociales y humanidades, que sea “sensible a las cuestiones intelectuales y culturales sin caer en los excesos de la clásica historia de las ideas” (<xref ref-type="bibr" rid="B19">Vilanou 2006</xref>:187). Sin embargo, aquí no se ahondará en ellos, sin por eso disminuir su importancia, por ejemplo, en el uso de propuestas más cercanas a otras disciplinas (por ejemplo, la filosofía política) para analizar la teoría sociológica. </p>
+			<p>Tampoco se profundizará sobre el proceso de teorización, por caso, respecto de la propuesta de Swedberg, que retoma de Pierce el concepto de “abducción”, en tanto análisis pragmatista acerca de “qué se hace para producir una teoría” (2012:2). Tal proceso está conectado a lo que Alexander denomina “teorías de” -distintas de los análisis de presupuestos o hermenéuticos -, que “han producido conjuntos de proposiciones causales o descriptivas muy generales con el objeto de modelizar procesos empíricos” (1998:3), por ejemplo, una “teoría del Estado”, una “teoría del consumo”, etc. Esta delimitación se encuentra, también, en las diferentes formas (siete) a través de las cuales Abend define el uso del término “teoría”, como “proposiciones generales que relacionan dos o más variables”, como “explicación de un fenómeno social particular”, o como “interpretación, lectura o dotación de sentido original de una porción del mundo empírico” (2008:177-178). </p>
+			<p>Ahora bien, respecto del espacio específico de la investigación en teoría sociológica, resulta clave destacar los visos “fundacionales” que tuvo <italic>La estructura de la acción social</italic> de Parsons de 1937, a partir de su defensa de una autonomía relativa de tal forma de investigación, en tanto “variable independiente en el desarrollo de la ciencia” (Parsons 1968:39). Esto contrastó con las múltiples corrientes dentro de la sociología, en general críticas de la investigación teórica autónoma, que hasta la década de 1970 ofrecieron alternativas a la mirada de Parsons (desde la fenomenología social, el interaccionismo simbólico y el marxismo al estilo de Wright Mills hasta las “ideas-elemento” de Nisbet). Sin embargo, ya en las décadas de 1980 y 1990, en paralelo al “retorno de la gran teoría” (Giddens, Luhmann, Habermas), surgió un debate decisivo sobre el quehacer de la investigación en teoría sociológica, en el cual se destacaron las propuestas de Alexander con su “lógica teórica” y de Ritzer con su “metateoría”. En este marco, propongo al “abordaje problemático” como una vía factible para analizar perspectivas de modo comparativo a partir de un problema teórico y sus dimensiones, que busca rehuir de ciertos reduccionismos en las perspectivas de Alexander y Ritzer.</p>
+			<p>En consecuencia, este ensayo profundiza en el abordaje problemático desde algunas cuestiones fundamentales. Por un lado, como contexto previo al abordaje problemático, se focaliza en el debate sobre ciertos reduccionismos rastreables en las miradas de Alexander y Ritzer, vinculados a sus análisis de algunas dicotomías de la teoría sociológica. Por otro lado, se despliega el enfoque aquí propuesto y su análisis emergente, el cual luego es puesto a prueba desde el problema de las clasificaciones sociales. El cruce entre el abordaje problemático y las clasificaciones sociales se muestra productivo para realizar una reflexión teórica, epistemológica y metodológica multidimensional acerca de la propia teoría sociológica.</p>
+			<sec>
+				<title>Las miradas de Alexander y Ritzer como contexto previo al abordaje problemático</title>
+				<p>En el ambiente que <xref ref-type="bibr" rid="B2">Alexander denominó “post-positivismo” (1982</xref>:30) y en el cual <xref ref-type="bibr" rid="B15">Ritzer afirmó que “la sociología es una ciencia multiparadigmática” (1975</xref>:158), para la década de 1980 ya resultaba difícil sostener muchas de las premisas que fueron fundamentales para el estudio comparativo de Parsons de 1937. Fue resultando cada vez más sospechosa su propuesta de un único “marco de referencia” de la acción, el cual era supuestamente compartido por las cuatro perspectivas analizadas por él (Durkheim, Weber, Marshall y Pareto). Sin embargo, esto no condujo a abandonar la totalidad de su propuesta. </p>
+				<p>Hacia finales de la década de 1970, la proliferación de perspectivas de gran calado teórico con “ansias sintéticas” obligó a recuperar elementos de la obra inaugural de Parsons, aunque paradójicamente esas nuevas elaboraciones se hicieron eco de muchas de las críticas a ese autor que circulaban durante la época. De esta manera, se retomó el análisis comparativo de teorías como fundamental para la sociología. Esto implicó reivindicar otra vez a la teoría como una variable independiente, con una lógica propia, es decir, con una autonomía relativa, sin por ello escindirla ni de los procesos sociales ni de sus análisis empíricos. </p>
+				<p>Durante la década de 1980, en tanto contexto previo decisivo al abordaje problemático que se propone aquí, Alexander y Ritzer pretendieron actualizar un estudio sobre la investigación en teoría que fuese específicamente sociológico. Así, propusieron un contraste entre perspectivas disímiles que no implicara una historia de las ideas, sino que desplegara en sí misma una investigación teórica. No obstante, en sus planteos, la herencia parsoniana no se circunscribe al análisis comparativo de teorías; también se conecta con su llamado a evitar los dualismos, en especial, aquellos de los cuales, según Parsons en <italic>La estructura de la acción social</italic>, los cuatro clásicos por él canonizados habían intentado escapar. </p>
+				<p>Así, se destacan dos grandes dicotomías -tema sobre el cual se volverá más adelante en este ensayo. Por un lado, se impugna al dualismo entre idealismo y materialismo -u objetivismo y subjetivismo-, que se derrama sobre las relaciones entre teoría y empiria. Por el otro, se critica la dicotomía entre individualismo y colectivismo, es decir, en términos más contemporáneos, entre lo micro y lo macro, entre agente y estructura. Resulta necesario detenerse primero en la dicotomía entre idealismo y materialismo, ya que atañe de modo directo a las reivindicaciones de la investigación teórica que efectúan Alexander y Ritzer.</p>
+				<p>En el caso de Alexander, tal posición se sustenta a partir de su denominado “continuo científico”. Este continuo se extiende desde el entorno metafísico hasta el empírico (ambos inalcanzables), con sus distintas “estaciones” relativamente autónomas, las cuales no implican posturas correlativas entre sí, por ejemplo, entre los presupuestos generales, las orientaciones ideológicas, los conceptos, las leyes, los supuestos metodológicos o las observaciones. Si bien la teoría sociológica no se reduce solo a los presupuestos generales de la disciplina (por ejemplo, también abarca definiciones o modelos teóricos), el interés de Alexander se focaliza en éstos, que son más abstractos y fundamentales, los cuales “no pueden ser subsumidos por ningún otro nivel más empíricamente orientado (...) [y] deben tener significativas repercusiones en cada uno de los otros niveles más específicos del análisis sociológico” (1982:37). Para el autor, dado que esos presupuestos resultan multidimensionales, se deben rastrear los modos a través de los cuales distintas perspectivas teorizan tanto sobre ellos como sobre sus dimensiones.</p>
+				<p>En Ritzer tal reivindicación de la teoría se articula con su propuesta de la <italic>metateoría</italic>, “que debe entenderse como una sistematización del estudio de la teoría” (<xref ref-type="bibr" rid="B20">Zabludovsky 2002</xref>:140), el cual da cuenta de los distintos modos de investigación de los paradigmas sociológicos. Para Ritzer, la condición de la sociología ha sido siempre una convivencia conflictiva entre distintos paradigmas. Esta forma multiparadigmática de la disciplina se ha vuelto explícita una vez que se derrumbó la pretendida hegemonía del “consenso ortodoxo estructural-funcionalista”. Así, a excepción de encerrarse en un mismo paradigma, situación casi imposible en el contexto actual de la sociología, toda elaboración requiere de un ejercicio metateórico, ya sea como hermenéutica de una perspectiva, como preludio a una nueva teoría, como crítica postmoderna o como el trazado de un “arco” entre paradigmas en competencia, singulares pero comparables, que frente a la fragmentación resulta fundamental para “prevenirnos de perder de vista los parámetros del campo” (Ritzer 1990:9). Tales tipos ideales de metateoría se combinan, por un lado, con una mirada interna de la disciplina o externa a ella; por el otro, con los factores intelectuales o sociales. En su mirada, a partir de aquella variante de la metateoría que traza un arco entre teorías y paradigmas, el foco está puesto en las dimensiones intelectual e interna de la sociología, que “implica el desarrollo de herramienta(s) metateórica(s) general(es) con la(s) que se analizan las teorías sociológicas existentes y desarrollan nuevas teorías” (<xref ref-type="bibr" rid="B16">Ritzer 1988</xref>:191). </p>
+				<p>Entonces, para ambos autores, la investigación en teoría no se trata solo de una actividad de un “subcampo” específico, por ejemplo, los estudios comparativos. Ritzer señala que, aunque se la rechace, la metateoría es una práctica sumamente extendida en la teoría sociológica y en la disciplina en general, por ejemplo, en los marcos teóricos de las investigaciones empíricas. Alexander también afirma que siempre hay ciertos presupuestos generales imbricados en cada elaboración sociológica, a pesar de que se encuentren de modo implícito. Por ende, la teoría sociológica y las investigaciones de largo alcance que comparan teorías (como las que realizan ellos dos) son imprescindibles para la sociología en general y no se contraponen a su ambición explicativa de procesos sociales empíricos. </p>
+				<p>Así, como he mencionado, en este escenario epocal ya no se busca un “marco de referencia” común sobre la acción: Alexander estudia la multidimensionalidad de los presupuestos generales de la sociología y Ritzer demarca ciertos “polos” dentro de los cuales se ubican sus distintos paradigmas. Ahora bien, a pesar de tal esfuerzo, estas propuestas parecen verse atrapadas en ciertos reduccionismos y, por tanto, considero necesario desplazarse a un abordaje o enfoque problemático (o por problemas teóricos), el cual despliego en este ensayo. </p>
+				<p>Tanto Alexander como Ritzer señalan como claves interpretativas de la lógica teórica o de la metateoría a las dos dicotomías antes indicadas, las cuales Parsons delimitó a partir de los clásicos: el idealismo y el materialismo; y el individualismo y el colectivismo. Para trazar un arco metateórico, Ritzer sugiere “dos ejes: micro-macro y subjetivo-objetivo” (<xref ref-type="bibr" rid="B14">Requena Santos 2000</xref>:139). En Alexander, a primera vista, esta reposición parece más compleja, ya que los presupuestos generales que indica son la acción y el orden, sin observarse un vínculo dicotómico u oposicional entre ellos. Sin embargo, esto cambia si se avanza en las dos dimensiones de cada presupuesto, las cuales -según el autor- toda teoría debe abarcar. Tales dimensiones resultan ser las dos dicotomías antes mencionadas: el orden social puede ser colectivista o individualista y la acción puede ser instrumental (o racional) o normativa. Éstas “nos permiten dar cuenta de las diferentes tradiciones sociológicas existentes: teorías individualistas/racionales [instrumentales] (...) individualistas/normativas (...) colectivistas/racionales [instrumentales] (...) colectivistas/normativas” (<xref ref-type="bibr" rid="B5">Beltrán 2005</xref>:261).</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>El abordaje problemático y el análisis emergente frente a los reduccionismos</title>
+			<p>En este contexto de discusiones claves sobre la metodología en investigación en teoría sociológica, los planteos multidimensionales de Alexander y multiparadigmáticos de Ritzer no eluden cierto reduccionismo: ¿no hay otros presupuestos generales con sus dimensiones en la teoría sociológica? ¿Acaso no son presupuestos generales de la teoría sociológica clásica y contemporánea, por ejemplo, el sentido, la comunidad o, como se señalará más adelante, las clasificaciones sociales? Así, la metateoría y la lógica teórica limitan a ciertas (pocas) cuestiones la investigación en teoría sociológica. En cambio, puede resultar más acorde para dar cuenta de este tipo de investigación esta propuesta del “abordaje problemático”. Desde este abordaje se trabaja sobre problemas, con sus dimensiones y recortes singulares: con una serie de preguntas, búsquedas y reflexiones que se interrogan frente a un problema determinado. Esto tiene consecuencias teóricas, epistemológicas y metodológicas decisivas. </p>
+			<p>En primer lugar, tal abordaje evita el reduccionismo de toda teoría sociológica a determinadas dicotomías clásicas. Dentro de este enfoque se investigan los interrogantes específicos con los cuales lidian las distintas perspectivas al enfrentarse a -y tematizar- un problema teórico. Esto resulta fundamental para captar las rupturas y transformaciones que irrumpen en ciertos momentos de la disciplina, como incluso Parsons había indicado sobre la creciente importancia de ciertas “categorías residuales” de generaciones anteriores en una siguiente generación. </p>
+			<p>Por lo tanto, esta propuesta se aleja de una reconstrucción de la sociología al estilo “manualística” o unilateral, que encuentra una y otra vez las mismas preguntas y problemas (que, según ellos, en general han sido mal resueltos hasta que surge la propuesta “superadora” desde la cual escriben). El abordaje problemático se inclina por un análisis emergente de los problemas teóricos. Este análisis se despliega en la compleja y sinuosa doble investigación sobre las singulares modulaciones del problema según cada mirada y acerca de las dimensiones de tal problema, que habilitan a comparar las perspectivas seleccionadas para el estudio.</p>
+			<p>En segundo lugar, el abordaje que sustento en este ensayo se separa de un análisis recortado únicamente a partir del derrotero de un concepto. Los conceptos son, en cierta medida, la “materia prima” desde la cual se aborda un problema, pero no lo agotan. Los autores tematizan, dan forma e innovan sobre un problema teórico a través tanto de conceptos como de los análisis que realizan al utilizar tales conceptos. Sin embargo, un problema teórico no se reduce a la caracterización de un concepto (o sus “parecidos de familia”), no solo porque distintos autores -o incluso un autor en distintos momentos de su obra- pueden trabajar un mismo problema aludiendo a diferentes conceptos. Esto también ocurre ya que la densidad de un problema excede a una definición conceptual: podemos dar cuenta de tal densidad con una variedad de desarrollos y análisis (en los cuales algunos conceptos pueden ser centrales y otros secundarios).</p>
+			<p>Entonces, aunque la comparación entre diversas propuestas se realiza a través de un problema teórico, esto no se efectúa a partir del problema “en sí”, sino mediante ciertas dimensiones emergentes que lo atraviesan. No se trata solo de arribar a una definición general del problema estudiado en cuanto tal, sino que esa definición es posible al desplegar las dimensiones que resultan decisivas para los interrogantes y la elaboración de este problema. Así, sus dimensiones permiten comparar disímiles perspectivas sin “encorsetarlas” en una sola posición adoptada por el investigador: por ejemplo, para la comunidad, las dimensiones “histórica”, “tipológica”, “utópica”, “tecnológica” y “ontológica” (de Marinis 2010:7). Esta comparación no marca meras “semejanzas” y “diferencias”, ya que su multidimensionalidad -retomando la noción de Alexander, sin su reduccionismo- habilita a detectar distintos niveles del problema teórico, las dimensiones de cada uno de esos niveles y las relaciones que se establecen entre tales niveles y dimensiones.</p>
+			<p>Por último, el enfoque problemático muestra con claridad que un problema teórico atraviesa las más diversas producciones sociológicas, no solo aquellas que se denominan como “teóricas”, es decir, las que se focalizan en la elaboración conceptual y analítica. Los interrogantes y planteos sobre un problema teórico recorren cualquier investigación sociológica, ya sea que estudien comunidades o intenten comprender el sentido puesto en juego de ciertas prácticas. Este abordaje permite rastrear comparativamente en investigaciones de corte “empírico” cómo se trabaja y se innova sobre un problema y sus dimensiones, al dar cuenta de muchos de sus presupuestos. Por caso, la fuerza teórica de la obra de Bourdieu radica en que el autor realiza constantemente ese análisis sobre sus propias investigaciones empíricas (acerca de sus propios presupuestos y los modos en que otras perspectivas elaboran un problema teórico). </p>
+			<p>Desde la investigación teórica de un problema, a mi entender, se revela la multiplicidad de discusiones a partir de las cuales las diversas propuestas sociológicas toman posición. En esa línea, pueden estudiarse sus interpretaciones y sus reinterpretaciones sobre un problema. Incluso si estas perspectivas no son estrictamente teóricas, las dimensiones del problema estudiado imbrican a esas investigaciones con los debates tanto clásicos como contemporáneos de la teoría sociológica. Por lo tanto, este rasgo analítico de todo problema teórico lo incluye en una determinada encrucijada epocal, a la cual pretende comprender y sobre la cual, a la vez, en muchos casos, se busca intervenir<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>. En definitiva, esta cualidad del abordaje evita escindir las investigaciones teóricas de los análisis con pretensiones empíricas. </p>
+			<p>Ahora bien, Colomy, inspirado en la propuesta de Alexander, realiza una pregunta fundamental, de la cual el abordaje problemático debe dar cuenta: ¿no se requieren criterios evaluativos para llevar a cabo la comparación entre tradiciones teóricas (o paradigmas) en competencia? Colomy sugiere un criterio universalista, sustentado en una “razón histórica” al momento de su puesta en práctica, para “que las teorías puedan y deban ser evaluadas no solo por su adecuación empírica, sino también con estándares extra-empíricos y universales” (1991:279). Si bien esa variante universalista recae en la mirada unilateral que previamente se señaló en Alexander respecto de los presupuestos generales de la sociología, la pregunta no deja de tener relevancia. ¿Cómo se lleva a cabo el análisis comparativo sobre un problema teórico? Frente a tal interrogante, considero que se pueden observar tres posibles respuestas metodológicas: una interna, otra externa y una tercera emergente.</p>
+			<p>La respuesta “interna” defiende una suerte de inconmensurabilidad entre teorías. Cada mirada, con sus categorías y léxicos, es singular e irreductible. Entonces, solo se deben realizar investigaciones para profundizar en cada propuesta, a la cual -en el mejor de los casos- se puede poner en paralelo con aquellas perspectivas que posean ciertos “parecidos de familia” con la teoría estudiada. En realidad, la metodología interna impugna el análisis comparativo. De manera más o menos directa, esta respuesta termina por recaer en las limitaciones a las que he hecho mención respecto de la posibilidad de encerrarse en una única mirada sobre lo social. Por este motivo, en los últimos tiempos no es tan frecuente hallar posturas de ese estilo. No obstante, este tipo de análisis se encuentra, en especial, en los estudios de la obra de un autor o de una escuela, por ejemplo, en el trabajo hermenéutico sobre los clásicos de la sociología (por caso, acerca de Durkheim, Weber, Marx o Parsons). Sin embargo, “la dificultad de distinguir puntos de encuentro y posibilidades de comparación (…) revela más una incapacidad de abstracción (…) del observador que efectúa la evaluación, que una discrepancia fundamental entre estas teorías” (<xref ref-type="bibr" rid="B4">Arnold y Rodríguez 1990</xref>:33).</p>
+			<p>La respuesta “externa” se vincula, en general, a los intentos “superadores” de los dualismos de la teoría sociológica. Se trata de adoptar una mirada particular que, si no se considera “superadora”, es la que se pretende más cercana a ello, y desde allí se evalúan y se subsumen (de forma explícita o implícita) las preguntas y planteos de las demás perspectivas. En caso extremo, se afirma que todas las perspectivas de una u otra manera (salvo cuando “se equivocan”) se encuentran en la misma senda teórica que aquella “superadora”. Entonces, una intensa y compleja interpretación de una mirada (o un conjunto de ellas) permite analizar las restantes. Un caso ejemplar de este análisis resulta ser el realizado por Habermas sobre los clásicos de la sociología desde su propia teoría comunicativa de la acción y la racionalidad, a la cual denomina “metateoría” (<xref ref-type="bibr" rid="B11">Habermas 2010</xref>:29). Así, al reconstruir cada perspectiva (por ejemplo, de Weber, Durkheim o Mead), Habermas o bien toma aquello que se amolda a su mirada, o bien critica y descarta todo lo que no coincide con su propuesta para superar los dualismos de la sociología. Es cierto que este ejercicio está al servicio de construir un aparato teórico propio. No obstante, señala un modo de trabajo que puede observarse en otras investigaciones en teoría sociológica, las cuales adoptan una perspectiva superadora -en este caso, que no es propia, sino de otra propuesta- a partir de la cual se analizan a las demás.</p>
+			<p>Finalmente, el abordaje problemático se vincula a aquella respuesta que denomino “emergente”. Ésta se focaliza en reconstruir los contornos de un problema teórico y sus dimensiones desde las mismas categorías, conceptos, planteos y léxicos de cada una de las perspectivas seleccionadas. Luego del análisis de cada perspectiva, al comparar entre ellas, emergen distintos niveles y dimensiones del problema teórico, a partir de las cuales se compara a los autores -se podrá ver este ejercicio en el siguiente apartado sobre las clasificaciones sociales. Si bien es evidente que se llega al análisis con interpretaciones previas y lecturas “sensibilizadoras”, ese abordaje permite desplazarse de las formas más obvias de comprender tales perspectivas. Aun cuando no se trata de producir una novedad “pura” -como si eso fuera posible-, el modo de su análisis y el encadenamiento de su despliegue resultan los aspectos más enriquecedores para una investigación en teoría sociológica. </p>
+			<p>No hay, pues, una evaluación emergente “inmaculada”. Esto tampoco ocurre ni en la evaluación interna ni en la externa. En la primera es imposible no hacer referencia a otras propuestas, al menos a partir de las propias referencias que realiza la perspectiva estudiada, como, por ejemplo, al desplegar la perspectiva de Durkheim, se requiere explicitar sus debates con Tarde. En la segunda se debe dar cuenta, de alguna manera, de las particularidades de cada perspectiva, por caso, al reconstruir una mirada sobre la acción desde la teoría de la estructuración de Giddens, se deben profundizar en las características singulares de la mirada estudiada, para luego señalar sus contribuciones y falencias. Así también, en la evaluación emergente conectada al abordaje problemático, están en juego tanto ciertas características singulares y propias de cada mirada como algunos interrogantes y presupuestos externos a las teorías analizadas. Sin embargo, existen énfasis decisivos en unas u otras formas de investigación. La articulación de abordaje problemático que propongo en este ensayo con la evaluación emergente conlleva algunos costos: implica un esfuerzo reconstructivo de largo alcance de cada perspectiva y requiere de una sutil elaboración comparativa -la cual supone algún tipo de “traducción”. Por ende, resulta por momentos dificultoso plasmar esta modalidad de investigación en escritos breves, como son requeridos cada vez más en el actual contexto del campo científico. No obstante, por los motivos antes explicitados, puede ser un esfuerzo vital para la teoría sociológica contemporánea. </p>
+			<p>Ahora bien, ¿no hay ningún criterio supuesto en la evaluación emergente propuesta aquí? Considero que la multidimensionalidad puede resultar un criterio de guía relevante, dentro del denominado “proyecto unificador” de la sociología. Se trata de tomar en serio las propuestas teóricas que pretenden desplegar con rigurosidad y profundidad diversas dimensiones de lo social: comprender en sus propios términos cómo realizan ese desarrollo, para luego comparar entre ellas sus innovaciones y falencias. A su vez, el abordaje problemático también puede vincularse a una forma de comprender las elaboraciones teóricas, a la manera de una propuesta teórica, epistemológica y metodológica, aunque tal condición no sea necesaria para su uso. En ese contexto, el problema de las clasificaciones sociales se muestra particularmente interesante ya que permite focalizarse de modo reflexivo en la multidimensionalidad de las teorías.</p>
+		</sec>
+		<sec>
+			<title>Abordaje problemático, multidimensionalidad y clasificaciones sociales</title>
+			<p>Desde sus variados clásicos, incluso sus pioneros, las distintas teorías sociológicas se han preocupado por conceptualizar los modos a través de los cuales clasifican -y son clasificados- “individuos”, “grupos”, “instituciones”, “regiones”, “sociedades” y sus “partes”. El análisis sobre las maneras en que se dividen y se otorgan atributos a determinadas instancias de lo social permite comprender características claves de su configuración, por caso, la articulación de clasificaciones de fuerte pregnancia práctica (en marcas corporales o discursos) con relaciones asimétricas de dominación y jerarquías legítimas, lo cual también implica una mirada sobre las luchas de impugnación y reformulación de tales clasificaciones y relaciones de dominación. </p>
+			<p>De esta manera, el problema de las clasificaciones sociales se despliega en una serie de reflexiones claves. Cabe señalar, entre muchos otros, los aportes de Marx sobre las “clases sociales”, los de Durkheim y Mauss sobre las “formas primitivas de clasificación”, la conceptualización de Schütz sobre las “tipificaciones”, los análisis de Goffman sobre la presentación de la persona y los estigmas, o la “teoría del etiquetamiento social” de Becker. Actualmente, estos sedimentos clásicos se han incorporado y reinterpretado en los debates de distintos ámbitos: los “estudios culturales” y, en especial, sobre los “consumos”, la perspectiva de “género”, las investigaciones sobre la “colonialidad del poder” y, en particular, sobre la “identidad racial y étnica”. </p>
+			<p>Por lo tanto, desde el abordaje problemático, el problema sociológico de las clasificaciones sociales, en tanto pregunta teórica y analítica sobre los modos del clasificar, no se reduce a una sola dimensión ni a un solo nivel. De hecho, es posible demarcar tanto una dimensión tipológica-histórica como otra jerárquica, las cuales están atravesadas por dos niveles: el representacional, preocupado por las propias representaciones de los “individuos”, “grupos”, “instituciones”, “regiones” o “sociedades” y sus “partes” y el epistemológico-político, focalizado en el proceso mismo de reclasificación social que realiza la sociología. </p>
+			<p>Por un lado, se encuentra la dimensión de corte tipológica e histórica, que incluye a las maneras de clasificar tipos de sociedades o grupos sociales según determinadas cualidades o atributos. Aquí, cobra especial relevancia el contrapunto entre las formas de clasificación de sociedades no modernas con la definición particular de cada perspectiva sobre la modernidad, en cuanto objeto privilegiado de la sociología. Así, se da cuenta de cómo se componen o dividen tales sociedades y esos grupos históricos, según distintas modalidades teórico-analíticas, por ejemplo, “individuos”, “clases”, “partes funcionales” o “instituciones”. </p>
+			<p>Por otro lado, se observa una dimensión de cuño jerárquica, vinculada a las relaciones de dominación y estratificación entre esos “componentes” o “estratos” de determinados grupos o sociedades, o entre sociedades y grupos. En esa dirección, se señala si existen o no asimetrías entre ellos, para lo cual se vuelven fundamentales los motivos brindados para explicar tales diferencias. A partir de esas explicaciones, se despliegan distintas formas de comprensión de los nexos entre las clasificaciones sociales y las relaciones de dominación (o la ausencia de ellas). Esto conduce hacia una interrogación por las luchas en torno a tales clasificaciones, en los intentos por trastocarlas, reacomodarlas o emanciparse de ellas. Allí, con relación a la dimensión previa, se articula un posible diagnóstico de determinada “encrucijada epocal”, con sus desgarramientos y promesas particulares.</p>
+			<p>Respecto de los niveles que atraviesan a las anteriores dos dimensiones, en principio emerge uno de corte representacional. Éste pretende dar cuenta de los modos en que se clasifican a sí mismos, y a otros, esos “individuos”, “grupos”, “instituciones”, “regiones”, o “sociedades” y sus “partes”. Estas clasificaciones y autoclasficaciones no siempre implican su elaboración explícita, ya sea de manera discursiva o simbólica (a partir de entramados de símbolos elusivos a su puesta en discurso). Estas clasificaciones también se registran en las prácticas mismas, a partir de su despliegue “semiconsciente”, en muchos casos en las formas más inmediatamente corporales de la vida cotidiana. </p>
+			<p>El otro nivel que atraviesa a las dimensiones tipológica-histórica y jerárquica es aquel que es posible denominar epistemológico-político. Tal nivel se focaliza en los vínculos entre las clasificaciones sociales en general y las propias clasificaciones de la sociología, que para más precisión llamaré “reclasificaciones”. Esos nexos, que pueden ser de tensión, apropiación, crítica o mutua colaboración, se conectan con las modalidades a través de las cuales se concibe la intervención de la sociología sobre la sociedad, en especial, sobre sus relaciones de dominación o “patologías” observables. </p>
+			<p>En cuanto a este último nivel, la sociología y, en especial, la teoría sociológica está vinculada profundamente con esta operación de reclasificación social. Un estudio de estas reclasificaciones permite analizar la relación entre el nivel representacional y el de la propia sociología, desde el punto de vista de la sociología misma. Se trata siempre de formas de reclasificar aquello que ya está clasificado. Incluso, en ese proceso de reclasificación, puede surgir una innovación creativa, la cual luego sea apropiada por otras instancias sociales. </p>
+			<p>Esta centralidad de las reclasificaciones sociológicas es detectada con contundencia por los autores del “nuevo movimiento teórico”. En Bourdieu, el concepto de “efecto de teoría” señala cómo cierta representación sociológica puede incidir en el juego entre los esquematismos, que portan los agentes, y las divisiones y desigualdades del mundo, que se plasman en taxonomías del sentido común -por ejemplo, en el caso de Marx y su teoría del proletariado, ya que “solo después de Marx e incluso después de la constitución de partidos capaces de imponer (a gran escala) una visión del mundo social organizada según la teoría de la lucha de clases puede hablarse con rigor de clases y de luchas de esas clases” (<xref ref-type="bibr" rid="B6">Bourdieu 1985</xref>:101). Asimismo, según Giddens, a partir de sus propios esquemas interpretativos, la sociología realiza una doble hermenéutica sobre las tipificaciones del saber mutuo de los agentes. Esto la habilita a poner en duda y trasformar el sentido común, es decir, las racionalizaciones que legitiman la dominación social -por caso, en los debates sobre la transformación y reproducción social en la educación, debido a que según el autor “existe una relación no contingente entre demostrar que una creencia social es falsa, y unas consecuencias prácticas en el sentido de modificar una acción ligada con esa creencia” (<xref ref-type="bibr" rid="B9">Giddens 1998</xref>:362). </p>
+			<p>A su vez, en Habermas, la sociología aporta a revertir las patologías sociales detectando los tipos de acción y los criterios de validez, con pretensiones universales, que se despliegan en la acción comunicativa. Así, puede intervenir en un debate comunicativo en el espacio público -por ejemplo, con el objetivo de mediar las diversas esferas especializadas de la cultura con la vida cotidiana en los movimientos sociales, ya que “los nuevos conflictos se desencadenan (...) en torno a cuestiones relativas a la <italic>gramática de las formas de vida</italic>” (<xref ref-type="bibr" rid="B11">Habermas 2010</xref>:929). Por último, según Luhmann, la sociología observa observadores, en una observación de segundo orden, desde su código científico verdad/no verdad. Esto implica, por una parte, la asimetrización de ciertos lados de las distinciones con las que se observa (en la mayoría de los casos binarias), y, por la otra, un juego de “irritaciones” y “redescripciones” con las teorías de reflexión de otros sistemas funcionales -por caso, en la relación entre una teoría sociológica del Estado de bienestar, las autodescripciones del propio sistema político y los rendimientos operativos de tal sistema, en un contexto en el que “bajo condiciones de bienestar elevado y en aumento (...) se puede expandir un descontento generalizado que alimenta opiniones poco realistas sobre la sociedad moderna y lleva con avidez al consumo de los escándalos” (<xref ref-type="bibr" rid="B12">Luhmann 2007</xref>:605).</p>
+			<p>Estas propuestas de algunos de los “últimos clásicos” de la teoría sociológica muestran cómo el problema de las clasificaciones sociales permite una mirada multidimensional de lo social, en especial, a partir del estudio de las reclasificaciones sociológicas. De esta manera, desde un abordaje problemático y su análisis emergente, se evidencian las diversas estrategias teóricas con las cuales se elabora la relación entre un nivel representacional de las distintas instancias sociales y un nivel espistemológico-político de la sociología. Así, en ese caso, es posible discutir las formas de intervención social (o no) de la sociología en otras instancias sociales, en el marco de una interrogación por la especificidad de la disciplina, sus prácticas y sus discursos singulares. </p>
+			<p>Aquí, una investigación sobre el problema de las clasificaciones sociales realiza un aporte no solo como ejemplificación del abordaje problemático; investigar este problema también permite añadir una capa reflexiva, con evidentes tintes circulares, a las consideraciones previas sobre ciertos reduccionismos de Alexander y Ritzer, en especial, respecto de la conexión entre algunas dicotomías y la teoría sociológica. Las dicotomías de la sociología, y sus intentos de “superación”, no son ajenos a las clasificaciones sociales en general: están atravesados y tensionados por ellas, más allá de las mediaciones que se deben rastrear entre unos y otras. En realidad, la propia teoría sobre las clasificaciones sociales, que cada postura (o conjunto de ellas) sostiene de modo explícito o implícito, es la mediación fundamental entre las dicotomías y “soluciones” de la teoría sociológica y las clasificaciones sociales.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>En este ensayo he propuesto el abordaje problemático como posible metodología para la investigación en teoría sociológica. A partir de la comparación multidimensional y multiparadigmática de un problema teórico, pretendí evitar algunos reduccionismos observables en ciertos planteos claves sobre la cuestión, que marcaron el contexto teórico-epistemológico previo a las reflexiones de este ensayo, así como también habilitar el rastreo de determinados interrogantes fundamentales para ciertas encrucijadas epocales. De este modo, el abordaje problemático se vincula con un tipo de análisis de cuño emergente respecto de las perspectivas seleccionadas, el cual toma forma en la confección y el contraste de dimensiones y niveles del problema que se investiga. En ese marco, he ejemplificado el enfoque con el problema de las clasificaciones sociales. Éste no solo brinda un caso de estudio de intensas cualidades multidimensionales, sino que también permite una mayor reflexividad del propio abordaje problemático. </p>
+			<p>Tal reflexividad se relaciona con la incesante preocupación de la teoría sociológica por las dicotomías, binarismos o dualismos. Si bien las propuestas de Alexander y Ritzer parecen quedar encerradas en el reduccionismo de insistir sobre dos dicotomías clásicas de la sociología, detectan con lucidez cómo las figuras del “nuevo movimiento teórico”, paralelo a sus propuestas, se preocupan especialmente por el lugar de las dicotomías en la teoría sociológica. No son los únicos. Al igual que muchos otros autores, los clásicos -por ejemplo, Durkheim en reiteradas oportunidades o el marxismo con su concepto de dialéctica- y Parsons, en la mencionada <italic>La estructura de la acción social</italic>, afirman que sus teorías logran evadir los infructuosos dualismos, binarismos o dicotomías de la teoría sociológica. En el caso de las propuestas del “nuevo movimiento teórico”, esto se realiza a partir de diversas estrategias: Giddens y Bourdieu muestran los dualismos como falsos, Habermas integra en una misma teoría de la sociedad los polos dicotómicos y Luhmann abandona uno de esos polos, en tanto “obstáculo” teórico de la sociología. </p>
+			<p>Las lecturas de Alexander y Ritzer sobre esas propuestas resultan en cierta medida simplificadoras, ya que pierden de vista las consecuencias de estos intentos, a partir de la centralidad que adquieren otros problemas teóricos, por ejemplo, para estos cuatro autores, el sentido y sus dimensiones. Con ello, no captan un elemento decisivo de las perspectivas de la teoría sociológica, en especial, de aquellas con fuertes pretensiones explicativas. En la sociología, sobre todo en determinados momentos de la disciplina, se articula y se promueve un “proyecto unificador”, es decir, se procura plasmar “teorías unificadas de lo social” que abarquen sus aspectos más diversos, aquello que Alexander denomina “multidimensionalidad”. Esto se revela con claridad en la generación de “nuevos teóricos”, quienes intentan de modos diversos actualizar ese proyecto, en particular, durante su auge en la década de 1980. </p>
+			<p>Ahora bien, ¿acaso la sociología logra en alguno de esos intentos evitar o “superar” las dicotomías? Por el momento, la respuesta es negativa: las hemos visto resurgir una y otra vez. En el caso de las propuestas del nuevo movimiento teórico, a partir de su “giro del sentido”, otro tipo de dicotomías se hacen más evidentes y cobran centralidad, por ejemplo, entre unas representaciones discursivas, vinculadas al lenguaje, y otras simbólicas, que eluden su “puesta en discurso”. ¿Esta imposibilidad se trata acaso de algo circunstancial? </p>
+			<p>No me atrevo a dar una respuesta definitiva. Más allá de resolver o no ese interrogante, la teoría sociológica se embarca en desafíos unificadores a través de los cuales se realizan algunas de sus innovaciones más sugerentes. Por ello, la teoría sociológica y la sociología en general deben obligarse a sí mismas a esos esfuerzos, que se aúnan con muchos de sus análisis más agudos sobre los distintos procesos sociales. Se trata, entonces, de captar las transformaciones teóricas y analíticas que resultan de tales propuestas.</p>
+			<p>En ese contexto, cabe preguntarse si una metodología para la teoría no requiere también de una teoría. La discusión sociológica en torno a las dicotomías (por ejemplo, acerca de su evasión, crítica o superación) alude, de modo directo o indirecto, a la teoría de las representaciones que cada postura sostiene, la cual se vincula -según el caso- con una metodología en particular para la investigación teórica. Así, frente a esas teorías de las representaciones (sociales en general y de la sociología en particular), una elaboración sobre las clasificaciones sociales puede brindarnos una contribución decisiva teórica, epistemológica y metodológica.</p>
+			<p>En definitiva, esto no implica volver a juntar la teoría y la metodología sin más, en particular, cuando lidiamos con una metodología para la teoría. Poco nos ayuda afirmar que toda metodología es, finalmente, resultado de una teoría, y que toda teoría requiere una metodología. Así, la circularidad sociológica se hunde, sin poder aportar demasiado, en las consecuencias de su propia audacia autorreflexiva. Resulta más productivo profundizar en la investigación de teorías y de análisis de lo social a partir de una posible metodología, en este caso, el abordaje problemático, con el objetivo de colaborar en la elaboración de una mirada de mayor alcance multidimensional, atenta a las relaciones de dominación y sus luchas.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Abend, G. 2008. The meaning of “theory”.<italic>Sociological Theory</italic>26(2): 173-199. doi: 10.1111/j.1467-9558.2008.00324.x</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abend</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>The meaning of “theory”</article-title>
+					<source>Sociological Theory</source>
+					<volume>26</volume>
+					<issue>2</issue>
+					<fpage>173</fpage>
+					<lpage>199</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1467-9558.2008.00324.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Alexander, J. 1982. <italic>Theoretical logic in sociology. Positivism, presuppositions, and currents controversies</italic>. Berkeley: University of California Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alexander</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>1982</year>
+					<source>Theoretical logic in sociology. Positivism, presuppositions, and currents controversies</source>
+					<publisher-loc>Berkeley</publisher-loc>
+					<publisher-name>University of California Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Alexander, J. 1998. Theories of sociology. En: <italic>Routledge Encyclopedia of Philosophy Vol. X</italic>, pp. 2-8. Londres: Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alexander</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<chapter-title>Theories of sociology</chapter-title>
+					<source>Routledge Encyclopedia of Philosophy Vol. X</source>
+					<fpage>2</fpage>
+					<lpage>8</lpage>
+					<publisher-loc>Londres</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Arnold, M. y Rodríguez, D. 1990. El perspectivismo en la teoría sociológica. <italic>Revista Paraguaya de Sociología</italic> 27(78): 21-33. <ext-link ext-link-type="uri" xlink:href="http://repositorio.uchile.cl/handle/2250/121742">http://repositorio.uchile.cl/handle/2250/121742</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arnold</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<article-title>El perspectivismo en la teoría sociológica</article-title>
+					<source>Revista Paraguaya de Sociología</source>
+					<volume>27</volume>
+					<issue>78</issue>
+					<fpage>21</fpage>
+					<lpage>33</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://repositorio.uchile.cl/handle/2250/121742">http://repositorio.uchile.cl/handle/2250/121742</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Beltrán, M. 2005. El dilema: acción y estructura. Una visión desde Jeffrey Alexander y Anthony Giddens. <italic>Revista Colombiana de Sociología</italic> 24: 251-271. <ext-link ext-link-type="uri" xlink:href="http://www.revistas.unal.edu.co/index.php/recs/article/view/11303">http://www.revistas.unal.edu.co/index.php/recs/article/view/11303</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Beltrán</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>El dilema: acción y estructura. Una visión desde Jeffrey Alexander y Anthony Giddens</article-title>
+					<source>Revista Colombiana de Sociología</source>
+					<volume>24</volume>
+					<fpage>251</fpage>
+					<lpage>271</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.revistas.unal.edu.co/index.php/recs/article/view/11303">http://www.revistas.unal.edu.co/index.php/recs/article/view/11303</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Bourdieu, P. 1985. <italic>¿Qué significa hablar? Economía de los intercambios lingüísticos</italic>. Madrid: Akal.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bourdieu</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>1985</year>
+					<source>¿Qué significa hablar? Economía de los intercambios lingüísticos</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Akal</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>de Marinis, P. 2008. Max Weber: la disputada herencia de un clásico de la sociología. Entrevistas a Wolfgang Schluchter y Dirk Käsler. <italic>Reis</italic> 121: 169-204. <ext-link ext-link-type="uri" xlink:href="http://www.reis.cis.es/REIS/PDF/REIS_121_0061202129634805.pdf">http://www.reis.cis.es/REIS/PDF/REIS_121_0061202129634805.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>de Marinis</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Max Weber: la disputada herencia de un clásico de la sociología. Entrevistas a Wolfgang Schluchter y Dirk Käsler</article-title>
+					<source>Reis</source>
+					<volume>121</volume>
+					<fpage>169</fpage>
+					<lpage>204</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.reis.cis.es/REIS/PDF/REIS_121_0061202129634805.pdf">http://www.reis.cis.es/REIS/PDF/REIS_121_0061202129634805.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Colomy, P. 1991. Metatheorizing in a postpositivist frame. <italic>Sociological Perspectives</italic> 34(3): 269-286. doi: 10.2307/1389511.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Colomy</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<article-title>Metatheorizing in a postpositivist frame</article-title>
+					<source>Sociological Perspectives</source>
+					<volume>34</volume>
+					<issue>3</issue>
+					<fpage>269</fpage>
+					<lpage>286</lpage>
+					<pub-id pub-id-type="doi">10.2307/1389511.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Giddens, A. 1998. <italic>La constitución de la sociedad. Bases para una teoría de la estructuración</italic>. Buenos Aires: Amorrortu.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Giddens</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>La constitución de la sociedad. Bases para una teoría de la estructuración</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Amorrortu</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Grondona, A. 2016. El giro narrativo y el lugar de la heterogeneidad discursiva en el análisis de teorías sociológicas. El caso de la teoría de la modernización en Gino Germani. <italic>Cinta moebio</italic> 56: 147-158. doi: 10.4067/S0717-554X2016000200003</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grondona</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>El giro narrativo y el lugar de la heterogeneidad discursiva en el análisis de teorías sociológicas. El caso de la teoría de la modernización en Gino Germani</article-title>
+					<source>Cinta moebio</source>
+					<volume>56</volume>
+					<fpage>147</fpage>
+					<lpage>158</lpage>
+					<pub-id pub-id-type="doi">10.4067/S0717-554X2016000200003</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Habermas, J. 2010. <italic>Teoría de la acción comunicativa</italic>. Madrid: Trotta.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Habermas</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Teoría de la acción comunicativa</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Trotta</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Luhmann, N. 2007. <italic>La sociedad de la sociedad</italic>. México: Herder.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Luhmann</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>La sociedad de la sociedad</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Herder</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Parsons, T. 1968. <italic>La estructura de la acción social</italic>. Madrid: Guadarrama.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parsons</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>1968</year>
+					<source>La estructura de la acción social</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Guadarrama</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Requena Santos, F. 2000. Hacia una perspectiva reticular de la teoría sociológica. <italic>Papers: revista de sociología</italic> 62: 133-144. <ext-link ext-link-type="uri" xlink:href="https://ddd.uab.cat/pub/papers/02102862n62/02102862n62p133.pdf">https://ddd.uab.cat/pub/papers/02102862n62/02102862n62p133.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Requena Santos</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Hacia una perspectiva reticular de la teoría sociológica</article-title>
+					<source>Papers: revista de sociología</source>
+					<volume>62</volume>
+					<fpage>133</fpage>
+					<lpage>144</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://ddd.uab.cat/pub/papers/02102862n62/02102862n62p133.pdf">https://ddd.uab.cat/pub/papers/02102862n62/02102862n62p133.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Ritzer, G. 1975. Sociology: a multiple paradigm science. <italic>The American Sociologist</italic> 10(3): 156-167. <ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/27702185">http://www.jstor.org/stable/27702185</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ritzer</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>1975</year>
+					<article-title>Sociology: a multiple paradigm science</article-title>
+					<source>The American Sociologist</source>
+					<volume>10</volume>
+					<issue>3</issue>
+					<fpage>156</fpage>
+					<lpage>167</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/27702185">http://www.jstor.org/stable/27702185</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Ritzer, G. 1988. Sociological metatheory: a defense of a subfield by a delineation of its parameters. <italic>Sociological Theory</italic> 6(2): 187-200. <ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/202115">http://www.jstor.org/stable/202115</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ritzer</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>1988</year>
+					<article-title>Sociological metatheory: a defense of a subfield by a delineation of its parameters</article-title>
+					<source>Sociological Theory</source>
+					<volume>6</volume>
+					<issue>2</issue>
+					<fpage>187</fpage>
+					<lpage>200</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/202115">http://www.jstor.org/stable/202115</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Ritzer, G. 1990. Metatheorizing in sociology. <italic>Sociological Forum</italic> 5(1): 3-15. <ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/684578">http://www.jstor.org/stable/684578</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ritzer</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<article-title>Metatheorizing in sociology</article-title>
+					<source>Sociological Forum</source>
+					<volume>5</volume>
+					<issue>1</issue>
+					<fpage>3</fpage>
+					<lpage>15</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/684578">http://www.jstor.org/stable/684578</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Swedberg, R. 2012. Theorizing in sociology and social science: turning to the context of discovery.<italic>Theory and Society</italic>41(1): 1-40. doi: 10.1007/s11186-011-9161-5</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Swedberg</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Theorizing in sociology and social science: turning to the context of discovery</article-title>
+					<source>Theory and Society</source>
+					<volume>41</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>40</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11186-011-9161-5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Vilanou, C. 2006. Historia conceptual e historia intelectual. <italic>Ars Brevis</italic> 12: 165-190. <ext-link ext-link-type="uri" xlink:href="http://www.raco.cat/index.php/ArsBrevis/article/view/65855">http://www.raco.cat/index.php/ArsBrevis/article/view/65855</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vilanou</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Historia conceptual e historia intelectual</article-title>
+					<source>Ars Brevis</source>
+					<volume>12</volume>
+					<fpage>165</fpage>
+					<lpage>190</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.raco.cat/index.php/ArsBrevis/article/view/65855">http://www.raco.cat/index.php/ArsBrevis/article/view/65855</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Zabludovsky, G. 2002. <italic>Sociología y política, el debate clásico y contemporáneo</italic>. México: Porrúa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zabludovsky</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>Sociología y política, el debate clásico y contemporáneo</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p> Aquí, se observa un punto de contacto con la denominada “problematización” foucaultiana, que estudia las formas en que un determinado problema toma relevancia y es problematizado por ciertos discursos, prácticas, instituciones, tecnologías de gobierno o dispositivos, a través del análisis documental, al rastrear el “haz de interrogantes que, formulados explícitamente o no, organizan una serie de ´soluciones´ que se proponen en una determinada coyuntura (a veces de modos contradictorios)”<xref ref-type="bibr" rid="B10">Grondona 2016</xref>: 157). En este ensayo me mantengo más próximo a los debates que surgen dentro de la teoría sociológica.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

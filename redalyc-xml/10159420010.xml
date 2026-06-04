@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article 
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+<journal-title-group>
+<journal-title>Cinta de moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">00010</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Artículos</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Injusticias y emancipación. La renovación de las bases epistemológicas de la crítica social</article-title>
+<trans-title-group xml:lang="en">
+<trans-title>Injustices and emancipation. The renewal of the epistemological bases of social criticism</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2102-6966</contrib-id>
+<name>
+<surname>Sembler </surname>
+<given-names>Camilo</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label>
+<institution content-type="original">Chile. Universidad Academia de Humanismo Cristiano  Correo electrónico: camilo.sembler@gmail.com</institution>
+<institution content-type="normalized">Universidad Academia de Humanismo Cristiano </institution>
+<institution content-type="orgname">Universidad Academia de Humanismo Cristiano </institution>
+<country country="CL">Chile</country>
+<email>camilo.sembler@gmail.com</email>
+</aff>
+<pub-date pub-type="epub">
+<season>Oct-Dec</season>
+<year>2018</year>
+</pub-date>
+<issue>63</issue>
+<fpage>377</fpage>
+<lpage>390</lpage>
+<history>
+<date date-type="received">
+<day>06</day>
+<month>09</month>
+<year>2018</year>
+</date>
+<date date-type="accepted">
+<day>12</day>
+<month>11</month>
+<year>2018</year>
+</date>
+</history>
+<permissions>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Resumen:</title>
+<p>El presente artículo reconstruye los principales motivos que impulsaron la más reciente renovación de las bases epistemológicas de la teoría crítica, esto es, el desplazamiento desde su fundamentación en una teoría de la “acción comunicativa” (Jürgen Habermas) hacia el concepto de “reconocimiento” (Axel Honneth). Se muestra que esta renovación, así como el “giro intersubjetivo” emprendido décadas antes por Habermas en relación con el programa originario de “crítica de la ideología”, puede ser entendido a partir de una de las tareas distintivas que la teoría crítica asume a partir de su posicionamiento epistemológico: comprender sus formas de conocimiento como un momento de autorreflexión de un interés emancipador socialmente existente. Esto supone conectar de alguna manera su crítica de las injusticias con las experiencias vividas de injusticia. En suma, los distintos modos de abordar esta tarea autorreflexiva pueden ser entendidos como un hilo conductor entre las sucesivas renovaciones epistemológicas de esta tradición de la crítica social.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract:</title>
+<p>This article reconstructs the main motives that led to the most recent renewal of the epistemological foundations of critical theory. It analyses the move from a theory based on the notion of “communicative action” (Jürgen Habermas) to one centred on “recognition” (Axel Honneth). The article argues that both this renewal and the “inter-subjective turn”, proposed decades ago by Habermas as response to the original agenda focused on the “critique of ideology”, can be understood by looking at one of the distinctive goals critical theory seeks to meet from its epistemological positioning: to conceive its forms of knowledge as a moment of self-reflection of a socially existing emancipatory interest. This implies connecting in some way its critiques of injustice to the lived experiences of injustice. In sum, the different ways of addressing this self-reflective goal can be understood as the guideline between consecutive epistemological renewals of this tradition of social criticism.</p>
+</trans-abstract>
+<kwd-group xml:lang="es">
+<title>Palabras clave:</title>
+<kwd>injusticia</kwd>
+<kwd>emancipación</kwd>
+<kwd>crítica social</kwd>
+<kwd>comunicación</kwd>
+<kwd>reconocimiento</kwd>
+</kwd-group>
+<kwd-group xml:lang="en">
+<title>Keywords:</title>
+<kwd>injustice</kwd>
+<kwd>emancipation</kwd>
+<kwd>social criticism</kwd>
+<kwd>communication</kwd>
+<kwd>recognition</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="14"/>
+<page-count count="14"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>Introducción </title>
+<p>En su introducción a la conocida Disputa del positivismo en la sociología alemana sostiene Theodor W. Adorno: “La crítica dialéctica puede rescatar aquello que no pertenece a la totalidad, que se opone a ella o lo que, como potencial de individuación que aún no es, se está configurando, ayudando a producirlo” (<xref ref-type="bibr" rid="B1">Adorno 1972</xref>:22). Con ello, así como en otras afirmaciones planteadas en medio de esta polémica, Adorno buscaba subrayar que la diferencia crucial entre la teoría crítica y una visión cientificista acerca del conocimiento debía ser buscada no exclusivamente en su comprensión de la necesaria mediación social que comportan sus categorías y métodos (al modo, por ejemplo, de una sociología del conocimiento), sino en relación con su interés epistemológicamente manifiesto por la emancipación. </p><p>Esta misma idea se encontraba ciertamente ya sugerida en el ensayo programático Teoría Tradicional y Teoría Crítica de Max Horkheimer. En este contexto, el carácter crítico de un programa de investigación social es definido no a partir de sus objetos de estudio o las intenciones declaradas por parte del investigador, sino en relación con la posibilidad de disponer de una arquitectura epistémico-conceptual que permita someter a crítica las experiencias de dominación e injusticia social presentes y, al mismo tiempo, sacar a la luz posibilidades de emancipación. Es solo en virtud de tal presupuesto epistemológico que puede afirmarse, enfatiza Horkheimer, que la teoría crítica se orienta de manera inmanente por un decisivo interés en la emancipación social. </p><p>Es precisamente esta exigente descripción de los presupuestos epistemológicos de un programa de investigación lo que ha dado pie a algunos de los rasgos que, hasta el presente, distinguen a la tradición crítica de la Escuela de Frankfurt. Así, por ejemplo, la permanente búsqueda de una articulación entre filosofía y ciencias sociales responde a la necesidad de incorporar puntos de vista normativos y categorías explicativas que permitan evitar el riesgo de una investigación irreflexiva acerca de sus propias premisas o, del otro lado, de una reflexión filosófica “concluyente, prescriptiva o normativa” (<xref ref-type="bibr" rid="B2">Brincat 2012</xref>:220) que al encontrarse no obstante vaciada de todo contenido histórico, resulta finalmente incapaz de “cultivar una mutua crítica de sí misma y del mundo” (<xref ref-type="bibr" rid="B2">Brincat 2012</xref>:220). </p><p>De igual manera, un segundo rasgo también característico de las premisas epistemológicas de esta tradición de la crítica social se refiere a su relación con una teoría de la reproducción social. En efecto, la necesidad de describir los modos en que se reproduce el orden social se vincula no solo a su crucial tarea de describir las distintas distorsiones o patologías que su reproducción experimenta en el contexto histórico del capitalismo, sino además permite situar a la propia crítica como un momento de autorreflexión de una praxis socialmente existente cuyo potencial racional puede servir a los fines de una transformación. Los fines emancipadores de la crítica social son vistos, de esta manera, no como abstracciones o simples ideales perseguidos por el investigador, sino en tanto componentes de una praxis racional que resulta crucial para entender la reproducción del orden social. </p><p>Durante las últimas décadas, como es sabido, este programa de crítica social ha experimentado una importante renovación en sus bases epistemológicas y, por consiguiente, en la definición de sus tareas características. En efecto, si a partir de los años sesenta (en especial a partir de la publicación de Conocimiento e Interés) fue la teoría de la comunicación de Jürgen Habermas la principal exponente de esta tradición, en las últimas décadas ha asumido un destacado lugar el esfuerzo sostenido por Axel Honneth basado en renovar la crítica social a partir de una actualización sistemática de la noción hegeliana de “reconocimiento” (Anerkennung). </p><p>El presente artículo busca reconstruir los principales motivos que impulsaron esta renovación de las bases epistemológicas de la crítica social -el desplazamiento desde la “comunicación” al “reconocimiento”- examinando sus respectivas implicancias en la definición de las tareas descriptivas y emancipatorias que, como se señalaba, Adorno y Horkheimer subrayaban como propias de esta tradición.</p><p>En particular, se intenta mostrar que esta reciente renovación se encuentra directamente motivada por una de las tareas distintivas que la teoría crítica asume a partir de su posicionamiento epistemológico. En efecto, al pretender situarse como un momento de autorreflexión de un interés emancipador socialmente existente, su crítica de las injusticias del presente asume la necesidad de conectar sus categorías de alguna manera con las experiencias vividas de injusticia. Son los distintos modos de abordar dicha tarea autorreflexiva aquello que puede ser situado, entonces, como un hilo conductor que recorre las sucesivas renovaciones epistemológicas de esta tradición de la crítica social. </p><p>Para caracterizar esta idea, en un primer momento se examinan desde este ángulo -el lugar otorgado a las experiencias de injusticia en el programa de una crítica social- los motivos que llevaron a Jürgen Habermas a reemplazar la idea originaria de una “crítica de la ideología” por una “crítica de la razón funcionalista” basada en el concepto de comunicación. A continuación, se da paso a una reconstrucción, nuevamente desde el punto de vista de las experiencias de injusticia y su lugar en una crítica con fines emancipatorios, de la particular apropiación del “giro intersubjetivo” de la crítica social que ha llevada a cabo Axel Honneth a partir de su redefinición en el marco de una teoría del reconocimiento. Las conclusiones, por último, se enfocan en destacar algunos aspectos relevantes que emergen a partir de este modo de reconstruir los esfuerzos de renovación de la crítica social, en especial a propósito del lugar epistemológico que asumen en sus respectivas formas de conocimiento las experiencias de injusticia y su relación inmanente con sus objetivos de emancipación.</p>
+</sec>
+<sec>
+<title>De la crítica de la ideología al giro comunicativo </title>
+<p>Basta recordar algunas de las principales ideas presentes en los escritos de la década de los treinta de Max Horkheimer, Theodor W. Adorno o Herbert Marcuse para apreciar con claridad el lugar clave asignado a una “crítica de la ideología” en el programa de investigación originario de la teoría crítica. En efecto, siguiendo entonces la senda abierta años antes por Lukács con Historia y Conciencia de Clase, se encuentra en ellos el esfuerzo de volver a conectar reflexivamente la crítica marxista del capitalismo con los presupuestos filosóficos de la crítica de la razón elaborada por el idealismo de Kant a Hegel, superando así las interpretaciones deterministas y cientificistas por aquel entonces dominantes. En este contexto, la idea de una “crítica de la ideología” suponía ir más allá de su reducción a una simple denuncia de la falsedad de la cultura burguesa ante el dominio de los intereses de clases, pasando a constituir una clave metodológica en la indagación acerca de las posibilidades efectivas de realización de las ideas de libertad y razón que dan forma al horizonte histórico-cultural de la época moderna.</p><p>La “crítica de la ideología” aparecía de esta manera para el círculo originario de la teoría crítica como “un método indispensable para evaluar el grado en que una forma de vida -al mismo tiempo una formación social y una actualización de la razón- puede permitir o bloquear la realización de la libertad de sus miembros” (<xref ref-type="bibr" rid="B13">Ng 2015</xref>:393). Se asumía entonces la posibilidad de someter a crítica a la sociedad capitalista a partir de las normas y valores (igualdad, libertad) que su propia cultura proclama como sus principios legitimadores fundamentales. </p><p>Tal como Marx en su crítica de la economía política, el círculo originario de la teoría crítica pretendió mostrar que las instituciones y prácticas que caracterizan a la sociedad capitalista no están a la altura de sus propios ideales, buscando además las causas de esta contradicción en el principio individualista que determina el sentido de la organización económica de la sociedad. Su “crítica de la ideología” no se restringía así únicamente a una interrogación sobre el carácter de clase de los productos culturales de la época moderna, sino además pretendía dar cuenta del modo (contradictorio) en que sus ideales culturales se manifiestan en las instituciones que sostienen la reproducción cotidiana de la vida social (esto explica, por ejemplo, la relevancia asignada por Horkheimer a una crítica de la familia en el marco más general de una crítica del capitalismo).</p><p>De igual manera, este procedimiento de una “crítica de la ideología”, junto con poner de manifiesto que las instituciones de la sociedad capitalista no están en condiciones de realizar sus propias promesas de emancipación, pretendía identificar los procesos que conducen a que aquellos valores y normas, en tanto se inscriben en los mecanismos que determinan la reproducción social, tiendan paradójicamente a devenir mecanismos de legitimación de la dominación. La “crítica de la ideología” buscaba aquí, en otras palabras, describir un proceso socialmente inducido de autoliquidación de los aspectos progresivos de la cultura burguesa, esto en la medida que “libertad e igualdad no son puramente ideas, sino ideas que han devenido efectivas en la realidad social y se han sedimentando en instituciones sociales” (<xref ref-type="bibr" rid="B5">Jaeggi 2009</xref>:274).</p><p>No obstante esta crítica de la dominación, el programa de una “crítica de la ideología” pretendía en su diagnóstico mantener abierta a su vez la posibilidad de la emancipación humana. Con este rasgo se asocia su insistencia en que los principios posibles de un orden más racional se encuentran ya inscritos de alguna manera en la reproducción de la sociedad actual, lo cual al mismo tiempo permitía situar a la propia crítica -sus criterios de evaluación e ideales de emancipación- en relación con una praxis históricamente disponible, aun en medio de la reproducción de la injusticia y la dominación. Es aquí donde la premisa marxista acerca del carácter emancipador de la praxis del trabajo adquiere plena relevancia para el programa de “crítica de la ideología”: “Los puntos de vista que esta &#91;la teoría crítica&#93; extrae como fines de la actividad humana, especialmente la idea de una organización social racional acorde a la generalidad, son inmanentes al trabajo humano, sin que los individuos o la conciencia pública los tengan presentes en su verdadera forma” (<xref ref-type="bibr" rid="B12">Horkheimer 2003</xref>:229).</p><p>Es este programa originario de investigación social el que Habermas (a contar de los años sesenta) someterá a un ejercicio de autocrítica en relación con sus propios fines descriptivos y emancipatorios. En efecto, Habermas buscará sostener que fue precisamente aquella centralidad otorgada a la praxis del trabajo en su arquitectura epistemológica, lo que impidió a la “crítica de la ideología” cumplir a cabalidad su propósito declarado de dar forma a un conocimiento de la realidad social guiado de manera inmanente por un interés emancipador. </p><p>Así, en relación con sus tareas de diagnóstico del presente, Habermas va a sostener que la “crítica de la ideología” habría carecido de los recursos conceptuales necesarios para formular una imagen adecuada de los procesos de racionalización que determinan la formación histórica de la sociedad moderna. En particular, ligado a su herencia conceptual del marxismo clásico, el programa de “crítica de la ideología” habría pasado por alto las dinámicas específicas inscritas en los procesos de racionalización práctico-moral (modernidad cultural), reduciendo su significado histórico a los cambios acaecidos en la esfera de la producción. Esta deficiencia en sus categorías descriptivas, lejos de ser inocua para sus fines emancipatorios estaría, según Habermas, en el núcleo de una serie de aporías conceptuales que de manera cada vez más acentuada debió enfrentar la “crítica de la ideología”.</p><p>En primer lugar, al no considerar de manera adecuada el potencial racional depositado en esferas como la moral y el derecho moderno, la “crítica de la ideología” tendió a verse auto-ratificada en su descripción del presente en términos de una sociedad completamente administrada por los imperativos de la racionalidad instrumental. En otras palabras, la imagen del capitalismo tardío como una “sociedad sin oposición” (como le denomina por ejemplo Marcuse en El Hombre Unidimensional), vino a expresar más bien un artefacto teórico derivado de las propias premisas epistemológicas de la crítica social, que una descripción acertada del presente. </p><p>En segundo lugar, la centralidad otorgada al trabajo en tanto exclusiva praxis racional en el marco de su teoría de la reproducción social condujo al programa de “crítica de la ideología” (incluso antes de su devenir marcadamente pesimista con la Dialéctica de la Ilustración) a una insuficiencia categorial al momento de pensar posibilidades históricamente existentes de emancipación. Pues, sostiene Habermas, en la medida que el trabajo es entendido desde una filosofía materialista como una dimensión expresiva de los rendimientos civilizatoriamente alcanzados en la transformación de la naturaleza, la emancipación social es pensada a partir de la ficción de un macrosujeto histórico. Y desde la misma premisa se derivaría el hecho que, al verse debilitada la clase obrera en las condiciones del capitalismo tardío, la “crítica de la ideología” perdió además toda posibilidad de referirse conceptualmente a un potencial de emancipación disponible socialmente, consagrando su conversión en filosofía negativa de la historia. </p><p>Todo ello, finalmente, se expresaría en que a raíz de sus premisas epistemológicas básicas el programa de “crítica de la ideología”, tampoco habría estado en condiciones de conectar de manera adecuada su diagnóstico con las experiencias prácticas de los sujetos en sus contextos más cotidianos. Así, a pesar de su profundidad, su crítica de las injusticias tendió a asumir (como la afirmación antes citada de Horkheimer lo revela con cierta claridad) un punto de vista más bien externo a la perspectiva de los actores. Con ello nuevamente se puso en entredicho su capacidad de poder situarse a sí misma como una instancia de autorreflexión de un interés emancipador socialmente existente, lo cual según Habermas se asocia en último término igualmente a la primacía epistemológica otorgada a la praxis del trabajo en el conocimiento de la realidad social. Pues al situar su crítica de la razón instrumental únicamente desde el punto de vista de los procesos de transformación de la naturaleza externa, las dimensiones intersubjetivas y subjetivas siempre se consideraron más bien como efectos colaterales: “De ahí que no ofrezca ningún medio para explicar qué significa la instrumentalización de las relaciones sociales e intrapsíquicas, vista desde la perspectiva de la vida violentada y deformada” (<xref ref-type="bibr" rid="B6">Habermas 1981</xref>:522).</p><p>En síntesis, el balance que realiza Habermas del programa originario de “crítica de la ideología” subraya las dificultades que, a causa de sus premisas epistemológicas, éste debió enfrentar en el cumplimiento de sus tareas descriptivas y sus objetivos emancipatorios, revelándose finalmente incapaz de conectar la arquitectura categorial de su crítica de las injusticias de la sociedad capitalista con las experiencias vividas por los actores. Es a partir de este balance que Habermas propondrá, entonces, una renovación de las bases epistemológicas de la crítica social orientada a situar de manera adecuada tanto sus tareas de diagnóstico como su autocomprensión en relación con un interés emancipador socialmente existente. </p><p>En efecto, Habermas buscará primero a través de los recursos conceptuales de una antropología trascendental reestablecer una unidad reflexiva entre el conocimiento social y la existencia de un interés práctico emancipador. En Conocimiento e Interés el psicoanálisis freudiano será interpretado como modelo paradigmático del modo de conocimiento propio de la crítica social, esto en la medida que la elaboración de su arquitectura teórica está anclada en la reflexividad del lenguaje que se expresa en la escena del diálogo terapéutico y, desde ahí, otorga un especial significado a las experiencias subjetivas de padecimiento. Éstas no constituyen, en rigor, meramente un objeto del conocimiento crítico, sino más bien el medio mismo que hace posible la elaboración de sus conceptos que solo son posibles desde una afección subjetiva y un previo interés por la curación: “La crítica termina en una transformación de la base afectivo-emocional, al igual que comienza con la necesidad de cambio práctico. La crítica no tendría el poder de romper la falsa conciencia si no fuese impulsada por una pasión por la crítica. O de parte de la experiencia de dolor y de la necesidad y del interés por la superación de esta situación opresiva” (<xref ref-type="bibr" rid="B7">Habermas 1982</xref>:234). En breve, el conocimiento crítico aparece aquí como la autorreflexión de un interés emancipador. </p><p>Este modo de comprender el conocimiento crítico y sus objetivos no desaparecerán una vez que Habermas se desplace más decididamente desde la antropología trascendental hacia una teoría de la intersubjetividad social. Nuevamente es posible apreciar aquí la intención de articular “un concepto sociológico capaz de abordar las manifestaciones objetivas de crisis -esto es, problemas de dirección en las esferas económicas y políticas- así como las experiencias subjetivas de crisis -esto es, los efectos prácticos que los mecanismos funcionales tiene sobre la conciencia y las relaciones sociales” (<xref ref-type="bibr" rid="B3">Cordero 2014</xref>:501). Este concepto será, como es sabido, la “acción comunicativa” en tanto piedra angular de una descripción dualista (“sistema” y “mundo de la vida”) de la reproducción del orden social. Es con esta renovación a partir de un “giro intersubjetivo” basado en el paradigma de la comunicación que Habermas pretenderá, entonces, encontrar bases epistemológicas más adecuadas para realizar tanto los fines descriptivos como emancipadores de la crítica social. </p><p>En tal sentido Habermas sostendrá, en primer lugar, que con este “giro intersubjetivo” la crítica se encuentra en mejores condiciones para describir el orden social moderno y su reproducción, pues ahora puede reconocer la especificidad de los procesos de racionalización del “mundo de la vida” que conducen a la formación de ámbitos como la moral universalista y el derecho formal. Así, aun cuando Habermas incorpora aquí los rendimientos analíticos del funcionalismo parsoniano para describir la emergencia y diferenciación moderna de subsistemas en el campo de la economía (el mercado capitalista) y la política (el poder político-administrativo), su comprensión normativa del orden social otorga un papel central a las dinámicas propias del “mundo de la vida”: las innovaciones en los ámbitos sistémicos exigen necesariamente, a su juicio, un anclaje en el horizonte normativo del “mundo de la vida” para obtener su legitimidad y garantizar la motivación a actuar por parte de los sujetos. </p><p>En base a esta descripción del orden social moderno, el diagnóstico del presente puede ser reformulado según Habermas en términos de una “crítica de la razón funcionalista”. Se trata aquí de la conocida tesis de una “colonización del mundo”, según la cual el incremento progresivo de la complejidad de los contextos de acción sistémicamente integrados (Mercado y Estado) conduce no solo a su creciente autonomización, sino que termina generando tendencias de intromisión de sus lógicas específicas en las estructuras comunicativas del “mundo de la vida” (“monetarización” y “burocratización”) que deforman su reproducción simbólica. En un último aspecto que parece acreditar aún más la pertinencia de su giro comunicativo para las tareas de diagnóstico de la crítica social, Habermas asocia las “patologías sociales” que resultan de dicho proceso de colonización en los distintos componentes del “mundo de la vida” (personalidad, cultura y sociedad) con los fenómenos que la teoría social desde el origen de las sociedades modernas instaló en el centro de sus consideraciones críticas acerca del presente: “alienación” (Marx), “pérdida de sentido” (Weber) y “anomia” (Durkheim).</p><p>Ahora bien, la medida en que este diagnóstico del presente -la “colonización del mundo de la vida”- permite volver a conectar con el punto de vista de las experiencias prácticas de los actores, requiere todavía un paso más para su clarificación. La clave radica aquí en que el concepto de “acción comunicativa” que está en el núcleo de la renovación epistemológica habermasiana, junto con una pauta de descripción de la reproducción del orden social moderno, contiene una teoría de la individuación. En efecto, como Habermas aclara sobre todo en relación con la teoría de la socialización de George Herbert Mead, la formación de las capacidades prácticas y la identidad del sujeto dependen estructuralmente de su afirmación en el medio representado por relaciones comunicativas. Una vez provisto de este elemento, Habermas está entonces en condiciones de poder plantear que las “perturbaciones en la reproducción simbólica del mundo de la vida” (<xref ref-type="bibr" rid="B6">Habermas 1981</xref>:432) a raíz de las tendencias de colonización sistémica no pueden sino tener finalmente un costo subjetivo: se trata de “crisis, pues, que ‘subjetivamente’ se experimentan como amenazas a la identidad” (<xref ref-type="bibr" rid="B6">Habermas 1981</xref>:432). </p><p>Si con estas consideraciones ya parece quedar claro el modo en que Habermas busca redefinir el punto de vista de la crítica social y el lugar que corresponde en ella a las experiencias vividas por los actores, es necesario precisar todavía su redefinición de su relación inmanente con un interés emancipador. En efecto, Habermas intentará rastrear en los supuestos pragmáticos de la praxis comunicativa una dimensión de “trascendencia intramundana” asociada a la necesaria idealización normativa o anticipación ideal de una “comunidad de comunicación libre de coacciones” que caracteriza el desempeño cotidiano de los actos de habla. Con este último elemento vinculado a una “pragmática universal”, Habermas está en condiciones, en suma, no solo de identificar una dimensión utópica inmanente a la reproducción normativa de lo social, sino al mismo tiempo puede situar su propia crítica basada en el concepto de “acción comunicativa” como un momento de autorreflexión de dicha praxis emancipadora cotidiana. </p><p>Es este último aspecto el que se expresa, posteriormente, en la comprensión discursiva de la justicia y la democracia en que Habermas hará desembocar el giro comunicativo de la crítica social. Tanto su tratamiento de los asuntos práctico-morales (la “ética del discurso”) como la descripción reconstructiva de las condiciones institucionales necesarias para una formación comunicativa de la voluntad democrática (explicitadas en su obra Facticidad y Validez), serán concebidas por Habermas como argumentaciones teóricas posibilitadas por una continuación reflexiva de la comunicación intersubjetiva cotidiana y su potencial normativo. Ambas se sirven así de una dimensión de racionalidad práctica inscrita en la reproducción simbólica de la infraestructura comunicativa del “mundo de la vida”, permitiendo mantener así, aun en medio de lo que el mismo Habermas denominará el “agotamiento de las energías utópicas” en el capitalismo tardío, el objetivo de la crítica de enunciar las condiciones sociales que hacen posible el surgimiento de formas vitales emancipadas.</p>
+</sec>
+<sec>
+<title>De la comunicación al reconocimiento </title>
+<p>En la renovación intersubjetiva de las bases epistemológicas llevada a cabo por Habermas, también identificará Axel Honneth el esfuerzo más importante por actualizar los objetivos de la teoría crítica. En efecto, con esta renovación intersubjetiva se buscaría no solo reestablecer una forma de conocimiento social capaz de articular una crítica del presente con un interés por la emancipación, sino, además (y a diferencia del programa de “crítica de la ideología”) dar cabida de modo más decidido al punto de vista de los sujetos y sus experiencias de injusticia. </p><p>No obstante, sostendrá Honneth, la arquitectura conceptual (el concepto de “acción comunicativa” basado en una teoría pragmática del lenguaje) resultaría insuficiente para cumplir a cabalidad con estos propósitos. Ante esto, con el objetivo de volver a conectar con las intenciones originarias del “giro intersubjetivo” habermasiano, Honneth propondrá una nueva renovación de las bases epistemológicas de la crítica social basada en reemplazar el concepto de comunicación” por la noción de “reconocimiento”. </p><p>Para comprender plenamente el sentido de esta reciente renovación de la teoría crítica, es preciso sin embargo considerar en primer lugar la propia caracterización que Honneth elabora acerca de los fines epistemológicos distintivos de esta tradición. A su juicio, el programa de investigación de la teoría crítica se situaría desde su origen en una herencia epistemológica derivada de Hegel y Marx que pretende definir sus criterios normativos no en base a una reflexión meramente especulativa, sino en relación con una praxis social pre-científica expresiva de potenciales históricos de transformación, esto es, un interés práctico emancipador. </p><p>Esto se expresaría no solo en sus modos de someter a crítica el presente siempre a la luz de las respectivas condiciones históricas que hacen imposible la realización plena de dicha potencial, sino además en su permanente crítica a una comprensión positivista del conocimiento científico que pasa por alto su vínculo con la dinámica social: “El análisis y crítica de las ciencias que realizan los autores de la Teoría Crítica se apoya en supuestos antropológicos que aluden a la relación existente en cada caso entre acción, constitución de la realidad y metodología científica” (<xref ref-type="bibr" rid="B9">Honneth 2003</xref>:59). </p><p>No obstante, al igual que Habermas en sus primeros escritos, también Honneth identifica que este programa de crítica social habría experimentado importantes dificultades y contradicciones en su formulación originaria a causa de una concepción reducida de la acción social, esto es, su identificación única del trabajo como modelo de praxis social. Se trataría de un “déficit sociológico” que (derivado de las premisas epistemológicas propias de una filosofía de la conciencia ligada a la praxis del trabajo) generó a su vez una suerte de antinormativismo en el diagnóstico del presente: una incapacidad categorial de incluir en éste los componentes normativos que explican el carácter ético de las luchas sociales y que desempeñan un papel determinante en las pautas de desarrollo histórico-moral de las sociedades. Esto explicaría, de acuerdo con Honneth, no solo aquel negativismo filosófico que de manera marcada a partir de la Dialéctica de la Ilustración caracteriza a un tipo de crítica inmune conceptualmente a los conflictos sociales cotidianos, sino además la permanente tendencia a describir la reproducción e integración únicamente a partir de las exigencias instrumentales derivadas en último término de las relaciones de dominación de clase (una especie de “marxismo funcionalista”, según Honneth). </p><p>Con ello, en suma, el programa de investigación social de la temprana teoría crítica no solo no logró disponer de los fundamentos epistemológicos necesarios para cumplir su declarada pretensión de interdisciplinariedad (finalmente, la incorporación de otras disciplinas permaneció siempre subordinada a las premisas metodológicas de la economía política), sino que al revelarse incapaz conceptualmente de identificar en la realidad social potenciales de acción no instrumentalizados de antemano por los fines de la dominación, perdió toda conexión inmanente con un interés emancipador históricamente disponible. </p><p>Es en este escenario que durante la segunda mitad del siglo XX van a surgir, según el diagnóstico de Honneth, dos programas teóricos claves que pretendieron volver a situar a los conflictos sociales en el núcleo epistemológico de la crítica. Este “redescubrimiento de lo social”, como le denomina Honneth, se vincularía por una parte a la crítica del poder elaborada por Michel Foucault y, por otra, al giro intersubjetivo realizado por Jürgen Habermas. Es en relación con las ventajas y dificultades de ambas propuestas -en especial, el respectivo lugar que asignan a las experiencias de injusticia y a los conflictos sociales- que Honneth va a elaborar, entonces, su propio camino de renovación epistemológica de la crítica social. </p><p>De esta manera, en los escritos de Foucault identifica Honneth el objetivo de articular un conocimiento crítico de la sociedad moderna a partir de los efectos perversos que las técnicas de poder ejercen sobre los cuerpos. No obstante, a pesar de la riqueza de sus análisis históricos y la profundidad de su crítica, el programa foucaultiano presentaría igualmente una serie de dificultades epistemológicas basadas en la relación categorial asumida entre conocimiento crítico, experiencias de injusticia o sumisión, y la emergencia de conflictos sociales.</p><p>En primer lugar, su intento de superar las dificultades del modelo crítico tradicional centrado en la praxis del trabajo mediante su reemplazo por una concepción de lo social que pone el acento en las luchas por el poder, no implicaría sin embargo (de acuerdo a Honneth) desprenderse por completo de una descripción funcionalista de la reproducción social: “Foucault lleva a cabo su investigación histórica evidentemente en base a una teoría de sistemas que comprende las formas de organización de una sociedad como un complejo de estrategias de poder” (<xref ref-type="bibr" rid="B8">Honneth 1989</xref>:214). De esta manera, Foucault no abandonaría una descripción de lo social que subraya sobre todo las exigencias de adaptación subjetiva que supone la reproducción de la dominación, aun cuando ciertamente amplía el ámbito de la crítica del poder hacia una serie de dimensiones, mecanismos y técnicas hasta entonces no advertidas por la crítica marxista tradicional. Por lo mismo, a pesar de las apariencias, los conflictos y formas de resistencia social ocuparían solo un lugar secundario en las bases epistemológicas de la crítica foucaultiana, pues éstas serían siempre comprendidas de manera reducida en su relación con las exigencias de reproducción del poder. </p><p>Junto con sobredimensionar la dimensión estratégica de la acción social (luchas por el poder), el programa de investigación elaborado por Foucault tampoco lograría desprenderse de un marcado antinormativismo en su crítica. Si bien este déficit ya no deriva en su caso de un énfasis en la producción, su rechazo a articular las premisas normativas que dan forma a su crítica del poder conduciría a un problema de justificación, pues no son claros los motivos que permiten sostener que sus efectos sobre la subjetividad deben ser considerados como objetos de crítica. Con ello, finalmente, la crítica de una parálisis de las fuerzas de resistencia ante los mecanismos de disciplinamiento también acabaría presentando problemas de justificación, revelando nuevamente la medida en que los conflictos sociales surgidos de experiencias de injusticia o dominación no se encuentran en la base epistemológica de la renovación de la crítica emprendida por Foucault. </p><p>En suma, aun cuando los escritos de Michel Foucault habrían permitido ampliar el foco de análisis y enriquecer el material histórico de la crítica social en las específicas condiciones históricas del capitalismo tardío, sus premisas centrales -su descripción funcionalista de la integración social y su marcado antinormativismo- impedirían vincular de manera inmanente su crítica del poder con la existencia de un interés práctico emancipador. </p><p>Recién con el “giro intersubjetivo” emprendido por Jürgen Habermas se plantearía entonces una alternativa consistente para volver a vincular el diagnóstico del presente de la crítica social con sus objetivos de emancipación. En efecto, según Honneth, a partir de la idea de una praxis comunicativa cotidiana, Habermas estaría ahora en condiciones no solo de incluir en su descripción de las sociedades del capitalismo tardío las especificidades de las dinámicas históricas de desarrollo moral, sino además volver a conectar la formación conceptual de la teoría crítica con una dimensión de racionalidad práctica socialmente existente. Con ello, el problema de la emancipación lograría desprenderse tanto de las dificultades presentes en la originaria “crítica de la ideología” (la suposición de un macrosujeto histórico) como de la concepción estratégica de lo social presente en la descripción foucaltiana de las luchas por el poder. En su lugar se instalaría ahora el rol clave que cumplen los procesos cooperativos de entendimiento intersubjetivo que, posibilitados por la infraestructura normativa del mundo de la vida, se expresan en forma de luchas sociales éticamente motivadas. </p><p>No obstante, el efectivo desarrollo del potencial analítico de esta renovación epistemológica habermasiana se vería truncado por dos decisiones teóricas cruciales: la incorporación de la “pragmática universal” en tanto herramienta privilegiada para describir las estructuras fundamentales de la intersubjetividad y, por otra, de la “teoría de sistemas” para explicar la integración de las sociedades modernas. La manera en que Honneth somete a crítica ambas decisiones puede leerse en relación, precisamente, con las dificultades teóricas y metódicas que conllevan ambas, finalmente, para el objetivo de incluir las experiencias de los actores en el diagnóstico de la crítica social. Desde aquí se pondrá en evidencia, entonces, la necesidad de continuar el camino abierto por el “giro intersubjetivo” de la crítica social, pero ahora a través de otros medios conceptuales, esto es, reemplazar el concepto de “comunicación” por la noción de “reconocimiento” en tanto clave de comprensión de la intersubjetividad del mundo social. </p><p>En efecto, como consecuencia en primer lugar de su desplazamiento metódico hacia una descripción de la intersubjetividad en base a una teoría del lenguaje, así como la consiguiente incorporación de modelos provenientes de la psicología del desarrollo moral (Kohlberg, Piaget) para explicar los procesos de racionalización del “mundo de la vida”, la crítica social habermasiana perdería la posibilidad de establecer un vínculo inmanente con las experiencias sociales de injusticia, toda vez que sus categorías críticas fundamentales serían desplazadas a una dimensión de lo social abstraída de los contextos más cotidianos de vida de los sujetos. Los efectos perversos sobre las capacidades de interacción que se desencadenan a partir de la colonización sistémica sobre el “mundo de la vida”, corresponderían a fenómenos desencajados de los horizontes de vida más concretos de los sujetos: “El proceso de emancipación sobre el cual Habermas ancla socialmente la perspectiva normativa de su Teoría Crítica, no se refleja como tal en las experiencias morales de los sujetos implicados; porque estos perciben un perjuicio de aquello que podemos considerar como sus expectativas morales, como su moral point of view, no como una restricción de reglas lingüísticas dominadas intuitivamente, sino como una lesión de pretensiones de identidad adquiridas mediante el proceso de socialización” (<xref ref-type="bibr" rid="B10">Honneth 2011</xref>:135). </p><p>Es esta desconexión conceptual entre conocimiento científico y experiencias de injusticia, aquello que explicaría, por ejemplo, la ausencia de atención que Habermas presta a formas de protesta social desprovistas de articulación lingüística o expresión pública (por ejemplo, al interior del mundo del trabajo) o a otros aspectos claves no lingüísticos de la subjetividad, como las “dimensiones corporales de la acción social” (<xref ref-type="bibr" rid="B8">Honneth 1989</xref>:310). </p><p>Una consecuencia similar identifica Honneth a partir de la incorporación de las categorías provenientes de la teoría de sistemas para dar cuenta de la forma específica de integración de las sociedades modernas. Si bien con esto Habermas habría buscado articular una explicación de los procesos de racionalización social desprovista de la ficción de un sujeto colectivo unitario (mediante la introducción de la distinción conceptual entre “sistema” y “mundo de la vida”), su consecuencia sería el surgimiento de dos nuevas ficciones teóricas especialmente graves para los fines de la crítica social. Por una parte, la suposición de la existencia de espacios integrados sistémicamente y, como tales, presuntamente libres de normas (mercado, poder político-administrativo); y por otra, la descripción del “mundo de la vida” como una esfera de comunicación intersubjetiva supuestamente libre de poder (comprendido éste, con la sociología de Parsons, en tanto medio sistémico de intercambio generalizado).</p><p>A partir de estas dos ficciones complementarias, Habermas se vería entonces forzado a describir una serie de procesos de desarrollo social desde el punto de vista exclusivo de exigencias funcionales, acentuando así una descripción de procesos anónimos (incrementos de complejidad sistémica/racionalización lingüística del “mundo de la vida”) que lleva a desplazar el rol que cumplen los conflictos sociales en el desarrollo histórico. Junto con ello, el punto de vista de la crítica social también resultaría reducido a partir de estas decisiones teóricas, pues los fenómenos puestos ahora bajo su consideración solo corresponderían a aquellos relacionados con la intromisión de imperativos sistémicos en los contextos del “mundo de la vida”. Por el contrario, todas aquellas experiencias de injusticia y dominación situadas en el ámbito de la interacción cotidiana entre los sujetos quedan, más bien, desplazadas del foco de la crítica. </p><p>Esta exclusión se expresaría, finalmente, en la comprensión discursiva de la justicia y la democracia en que Habermas hace desembocar su “giro intersubjetivo”. Pues ambas se asientan en una marcada distinción -propia de una filosofía práctica kantiana- entre discursos éticos (anclados en formas de vida y sus correspondientes particulares concepciones del bien) y discursos morales (referidos por el contrario a principios de justicia generalizables). De esta manera, la fundamentación discursiva de los asuntos de justicia y la soberanía popular consolidaría el distanciamiento de la crítica respecto al horizonte ético de las experiencias de los sujetos, enfatizando más bien las condiciones procedimentales necesarias (mecanismos de universalización) para una solución racional. </p><p>A partir de estas consideraciones, Honneth sostiene la necesidad de una nueva renovación de las bases epistemológicas de la crítica social. Con el reemplazo de la categoría de “comunicación” por la de “reconocimiento” (Anerkennung), el “giro intersubjetivo” inaugurado por Habermas podría ser continuado, a su juicio, de tal manera que esté en condiciones de volver a conectar con las experiencias prácticas de los sujetos y, por esa vía, reestablecer la conexión inmanente entre conocimiento científico y emancipación que caracteriza a la tradición de la Teoría Crítica. </p><p>De manera interesante, si Habermas en los sesenta buscó renovar la crítica social mediante una antropología transcendental, Honneth se aproximará en primera instancia a esta redefinición del “giro intersubjetivo” a través de una recuperación de motivos claves de la antropología filosófica materialista con la publicación en 1980 junto a Hans Joas de Soziales Handeln und menschliche Natur. Anthropologische Grundlagen der Sozialwissenchaften (Acción social y naturaleza humana. Fundamentos antropológicos de las ciencias sociales). En el sensualismo de Feuerbach, entre otros, encuentran Honneth y Joas claves para una comprensión de las dimensiones de la praxis social no reducibles a la estructura del lenguaje (por ejemplo, el cuerpo). </p><p>No obstante, una forma más consolidada de la alternativa renovadora elaborada por Honneth se advertirá recién con la publicación de La Lucha por el Reconocimiento. Por una Gramática Moral de los Conflictos Sociales. Como se deja apreciar en su subtítulo, aquí la categoría de “reconocimiento” si bien conserva aún una dimensión antropológica (en tanto alude al mecanismo social clave que hace posible la individuación), es definida al mismo tiempo en relación con la “gramática moral” específica que Hegel habría descrito a propósito de la diferenciación de esferas de reconocimiento en el contexto histórico de la sociedad moderna. A partir de esta premisa, esta nueva renovación de las bases epistemológicas de la crítica debe servir a una redefinición, tanto de sus tareas de diagnóstico social como de su relación con un interés práctico emancipador. </p><p>Así, en relación con el diagnóstico del presente, la renovación emprendida por Honneth buscó desplazar el ámbito de análisis de la crítica desde las deformaciones de las capacidades intersubjetivas inducidas por la intromisión de imperativos sistémicos (tesis habermasiana de la colonización) hacia todas aquellas experiencias sociales que lesionan expectativas de reconocimiento que resultan claves para la afirmación positiva de los individuos y su identidad, esto es, lo que Honneth ha denominado “experiencias de menosprecio” (Mißachtung). Con esta redefinición de su punto de vista, la crítica social se encuentra además nuevamente en condiciones, subraya Honneth, de asignar un lugar de relevancia a las experiencias vividas de injusticia, pues su referencia clave no es más “el saber universal de las condiciones de una comunicación libre de dominio, sino el conocimiento concreto del dominio padecido y la injusticia experimentada” (<xref ref-type="bibr" rid="B8">Honneth 1989</xref>:299). </p><p>Y al mismo tiempo, esta crítica de las experiencias de menosprecio permitiría volver a situar en la dinámica social misma un interés práctico emancipatorio: “Solo a través de la consideración de las experiencias de falta de reconocimiento (misrecognition) deviene posible perfilar un marco normativo del reconocimiento, a saber, la idea de ‘vida buena’” (<xref ref-type="bibr" rid="B14">Toniolatti 2009</xref>:382). Es decir, en vez de tener que recurrir a fuentes normativas externas, la crítica social puede volver a ser pensada en tanto momento de autorreflexión de un potencial moral inscrito en la realidad, esta vez, en las experiencias de menosprecio que motivan el surgimiento de luchas sociales. </p><p>En suma, como consecuencia de esta reorientación de la crítica social, también se redefine finalmente su vínculo con los conflictos sociales y la emancipación. La idea de un interés práctico emancipador inmanente a la crítica puede ser leída ahora en relación con la continua emergencia, motivada por experiencias de menosprecio, de luchas colectivas que pretenden ampliar el ámbito de validez o el significado hegemónico de las normas que regulan el reconocimiento y hacen posible la afirmación de la identidad personal. Es por ello que será la noción de “lucha por el reconocimiento” aquello que se encuentra en el núcleo epistemológico del programa de investigación mediante el cual Honneth ha buscado desde entonces renovar la crítica social: “La teoría crítica no es sino la continuación, a través de una metodología controlada científicamente, de la labor cognitiva que los grupos oprimidos deben realizar en sus luchas cotidianas cuando trabajan por desnaturalizar pautas hegemónicas de interpretación y exponer los intereses que motivan a éstas” (<xref ref-type="bibr" rid="B11">Honneth 2017</xref>:919).</p>
+</sec>
+<sec>
+<title>Conclusiones </title>
+<p>El examen aquí realizado de los principales motivos que impulsaron la más reciente renovación de las bases epistemológicas de la teoría crítica -desde la “comunicación” al “reconocimiento”- ha intentado mostrar que, al igual que el “giro intersubjetivo” emprendido a contar de los años sesenta por Habermas en relación con el programa originario de “crítica de la ideología”, una de sus claves más relevantes remite a una de las tareas distintivas que la teoría crítica asume por su propio posicionamiento epistemológico: buscar comprender sus formas de conocimiento crítico como una instancia de autorreflexión de un interés emancipador socialmente existente. Son los distintos modos de abordar esta tarea autorreflexiva, en suma, aquello que puede ser entendido como un hilo conductor que atraviesa las sucesivas renovaciones epistemológicas de esta tradición de la crítica social. </p><p>Para finalizar, cabe destacar aquí solo algunos aspectos relevantes que emergen a partir de este modo de reconstruir los esfuerzos de renovación de la crítica social, en especial a propósito del lugar epistemológico que asumen en sus formas de conocimiento las experiencias de injusticias y su relación inmanente con sus propósitos emancipadores. </p><p>Como se intentó poner de manifiesto, al pretender situarse como un momento de autorreflexión de un interés práctico emancipador, su crítica de las injusticias presentes asume la necesidad de conectar de alguna manera su estructura conceptual con las experiencias vividas de injusticia. Si esto puede ser entendido como un motivo epistemológico inherente a la tradición de la teoría crítica, como hasta aquí se ha intentado explicar, se desprenden de ello al menos dos consideraciones finales importantes. </p><p>En primer lugar, cabe situar en torno a este aspecto una diferencia epistemológica crucial entre la crítica de las injusticias característica de esta tradición y las “teorías de la justicia” más habituales situadas en el campo de la filosofía política. En efecto, y precisamente acorde a lo que enunciaban ya Horkheimer y Adorno en sus reflexiones, la diferencia entre ambos tipos de análisis no se refiere de manera primordial a sus respectivos objetos de estudio, menos aún se sitúa simplemente en relación con las intenciones declaradas por parte del investigador. De manera mucho más exigente, la tradición aquí reconstruida se distingue por pretender articular una arquitectura conceptual que permita sostener una crítica de las injusticias presentes y, al mismo tiempo, sacar a la luz posibilidades socialmente existentes de emancipación. Esto es, no basta con disponer de criterios normativos o procedimientos racionales que permitan cuestionar las injusticias existentes (como lo hace la mayoría de las “teorías de la justicia” provenientes del campo de la filosofía política), sino que se trata de disponer de fundamentos epistemológicos y conceptuales que permitan sostener una unidad reflexiva entre las tareas descriptivas y emancipatorias de la crítica social. La crítica de las injusticias y la posibilidad de la emancipación, en suma, deben poder ser abordadas en el marco de un mismo movimiento argumentativo.</p><p>Y, en segundo lugar, esta exigente premisa epistemológica permite apreciar la continuidad de una tradición de la crítica social a lo largo de sus diferentes programas de investigación. En efecto, vista desde este ángulo, la historia de la teoría crítica se muestra como una serie de readecuaciones en medio de una continuidad de sus propósitos epistemológicos más fundamentales. No es extraño, por tanto, que cada esfuerzo de renovación vaya siempre acompañado no de un simple abandono de la historia previa, sino más bien de una relectura y apropiación para los propios esfuerzos (así es, por ejemplo, en la relectura habermasiana de la tesis de la cosificación tan central para la primera teoría crítica o en la particular continuación desde una teoría del reconocimiento que realiza Honneth del “giro intersubjetivo”). </p><p>Por lo mismo, no cabe entender la reconstrucción aquí realizada en el sentido de una trayectoria definitiva. Así, también se han sugerido de manera reciente algunos focos de interrogación en relación con la posibilidad efectiva de cumplir los fines epistemológicos aquí descritos a través de los recursos conceptuales que Honneth ha ido elaborando con su teoría del reconocimiento. Hay así, por ejemplo, voces críticas a propósito del desplazamiento conceptual que ha realizado desde su primera lectura de la acción social basada en los motivos de una antropológica materialista hacia una visión más institucionalista del reconocimiento (“esferas del reconocimiento”): “Contrariamente a Habermas, &#91;…&#93; Honneth pretendía fundamentar la acción social en términos pre-lingüísticos. Sin embargo, se puede argumentar que el cuerpo en La Lucha por el Reconocimiento y en los textos que siguen, ya no ocupa el lugar sustancial que tenía en sus estudios previos” (<xref ref-type="bibr" rid="B4">Deranty 2005</xref>:166). En cualquier caso, ésta y otras interrogantes hoy en discusión parecen revelar, una vez más, la fecundidad de una tradición abierta a sucesivas renovaciones en relación con el cumplimiento de sus propósitos críticos fundamentales.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>Referencias bibliográficas</title>
+<ref id="B1">
+<mixed-citation>Adorno, T. (1972). <italic>La disputa del positivismo en la sociología alemana</italic>. En Adorno, T., Popper, k., Dahrendorf, R., Habermas, J., Albert, H., Pilot, H (autor.);Introducción.  (11-8). Barcelona: Grijalbo</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Adorno</surname>
+<given-names>Th. W. </given-names>
+</name>
+</person-group>
+<year>1972</year>
+<source>La disputa del positivismo en la sociología alemana</source>
+<publisher-name>Grijalbo</publisher-name>
+<fpage>11</fpage>
+<lpage>8</lpage>
+</element-citation>
+</ref>
+<ref id="B2">
+<mixed-citation>Brincat, S.(2012). "On the methods of critical theory: advancing the project of emancipation beyond the early Frankfurt school". <italic>International Relations. 26</italic>(2), 218-245. Recuperado de https://doi.org/10.1177/0047117811423648</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brincat</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<article-title>On the methods of critical theory: advancing the project of emancipation beyond the early Frankfurt school</article-title>
+<source>International Relations</source>
+<volume>26</volume>
+<issue>2</issue>
+<fpage>218</fpage>
+<lpage>245</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0047117811423648">https://doi.org/10.1177/0047117811423648</ext-link>
+</element-citation>
+</ref>
+<ref id="B3">
+<mixed-citation>Cordero, R.(2014). "Crisis and critique in Jürgen Habermas's social theory". <italic>European Journal of Social Theory. 17</italic>(4), 497-515. Recuperado de https://doi.org/10.1177/1368431013520387</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cordero</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<article-title>Crisis and critique in Jürgen Habermas's social theory</article-title>
+<source>European Journal of Social Theory</source>
+<volume>17</volume>
+<issue>4</issue>
+<fpage>497</fpage>
+<lpage>515</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1368431013520387">https://doi.org/10.1177/1368431013520387</ext-link>
+</element-citation>
+</ref>
+<ref id="B4">
+<mixed-citation>Deranty, J.(2005). "The loss of nature in Axel Honneth's social philosophy. Rereading Mead with Merleau-Ponty". <italic>Critical Horizons. 6</italic>(1), 153-181. Recuperado de https://doi.org/10.1163/156851605775009519</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Deranty</surname>
+<given-names>J.P.</given-names>
+</name>
+</person-group>
+<year>2005</year>
+<article-title>The loss of nature in Axel Honneth's social philosophy. Rereading Mead with Merleau-Ponty</article-title>
+<source>Critical Horizons</source>
+<volume>6</volume>
+<issue>1</issue>
+<fpage>153</fpage>
+<lpage>181</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1163/156851605775009519">https://doi.org/10.1163/156851605775009519</ext-link>
+</element-citation>
+</ref>
+<ref id="B5">
+<mixed-citation>Jaeggi, R. (2009). <italic>Was ist Kritik</italic>. En Jaeggi, R., Wesche, T (autor.);Was ist ideologiekritik?.  (266-295). Frankfurt/M.: Suhrkamp</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Jaeggi</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>2009</year>
+<source>Was ist Kritik</source>
+<publisher-name>Suhrkamp</publisher-name>
+<fpage>266</fpage>
+<lpage>295</lpage>
+</element-citation>
+</ref>
+<ref id="B6">
+<mixed-citation>Habermas, J. (1981). <italic>Theorie des kommunikativen Handelns (Handlungsrationalität und gesellschaftliche Rationalisierung)</italic>.  Frankfurt/M.: Suhrkamp</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Habermas</surname>
+<given-names>J. </given-names>
+</name>
+</person-group>
+<year>1981</year>
+<source>Theorie des kommunikativen Handelns (Handlungsrationalität und gesellschaftliche Rationalisierung)</source>
+<publisher-name>Suhrkamp</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B7">
+<mixed-citation>Habermas, J. (1982). <italic>Conocimiento e interés</italic>.  Madrid: Taurus</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Habermas</surname>
+<given-names>J. </given-names>
+</name>
+</person-group>
+<year>1982</year>
+<source>Conocimiento e interés</source>
+<publisher-name>Taurus</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B8">
+<mixed-citation>Honneth, A. (1989). <italic>Kritik der Macht. Reflexionsstufen einer kritischen Gesellschaftstheorie</italic>.  Frankfurt/M.: Suhrkamp</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Honneth</surname>
+<given-names>A. </given-names>
+</name>
+</person-group>
+<year>1989</year>
+<source>Kritik der Macht. Reflexionsstufen einer kritischen Gesellschaftstheorie</source>
+<publisher-name>Suhrkamp</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B9">
+<mixed-citation>Honneth, A. (2003). <italic>Kunst, Macht und Institution. Studien zur philosophischen Anthropologie, soziologischen Theorie und Kultursoziologie der Moderne</italic>. En Fischer, J., Joas, H (autor.);Halbierte Rationalität. Erkenntnisanthropologische Motive der Frankfurter Schule.  (58-74). Frankfurt/M./New York: Campus</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Honneth</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<year>2003</year>
+<source>Kunst, Macht und Institution. Studien zur philosophischen Anthropologie, soziologischen Theorie und Kultursoziologie der Moderne</source>
+<publisher-name>Campus</publisher-name>
+<fpage>58</fpage>
+<lpage>74</lpage>
+</element-citation>
+</ref>
+<ref id="B10">
+<mixed-citation>Honneth, A. (2011). <italic>La sociedad del desprecio</italic>.  Madrid: Trotta</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Honneth</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<source>La sociedad del desprecio</source>
+<publisher-name>Trotta</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B11">
+<mixed-citation>Honneth, A.(2017). "Is there an emancipatory interest? An attempt to answer critical theory's most fundamental question". <italic>European Journal of Philosophy. 25</italic>(4), 908-920. Recuperado de https://doi.org/10.1111/ejop.12321</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Honneth</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<article-title>Is there an emancipatory interest? An attempt to answer critical theory's most fundamental question</article-title>
+<source>European Journal of Philosophy</source>
+<volume>25</volume>
+<issue>4</issue>
+<fpage>908</fpage>
+<lpage>920</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/ejop.12321">https://doi.org/10.1111/ejop.12321</ext-link>
+</element-citation>
+</ref>
+<ref id="B12">
+<mixed-citation>Horkheimer, M. (2003). <italic>Traditionelle und kritische Theorie. Fünf Aufsätze</italic>.  Frankfurt/M.: Fischer</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Horkheimer</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2003</year>
+<source>Traditionelle und kritische Theorie. Fünf Aufsätze</source>
+<publisher-name>Fischer</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B13">
+<mixed-citation>Ng, K.(2015). "Ideology critique from Hegel and Marx to critical theory". <italic>Constellations. 22</italic>(3), 393-404. Recuperado de https://doi.org/10.1111/1467-8675.12170</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ng</surname>
+<given-names>K.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<article-title>Ideology critique from Hegel and Marx to critical theory</article-title>
+<source>Constellations</source>
+<volume>22</volume>
+<issue>3</issue>
+<fpage>393</fpage>
+<lpage>404</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1467-8675.12170">https://doi.org/10.1111/1467-8675.12170</ext-link>
+</element-citation>
+</ref>
+<ref id="B14">
+<mixed-citation>Toniolatti, E.(2009). "From critique to reconstruction: on Axel Honneth's theory of recognition and its critical potential". <italic>Critical Horizons. 10</italic>(3), 371-390. Recuperado de https://doi.org/10.1558/crit.v10i3.371</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Toniolatti</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<year>2009</year>
+<article-title>From critique to reconstruction: on Axel Honneth's theory of recognition and its critical potential</article-title>
+<source>Critical Horizons</source>
+<volume>10</volume>
+<issue>3</issue>
+<fpage>371</fpage>
+<lpage>390</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1558/crit.v10i3.371">https://doi.org/10.1558/crit.v10i3.371</ext-link>
+</element-citation>
+</ref>
+</ref-list>
+<app-group>
+<app id="app1">
+<label>
+
+</label>
+<p>
+
+</p>
+</app>
+</app-group>
+</back>
+</article>

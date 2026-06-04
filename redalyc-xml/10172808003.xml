@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2022000200065</article-id>
+         <article-id pub-id-type="publisher-id">00003</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículo</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Neurath, Passeron, and protocol sentences in sociology</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0001-6665-8591</contrib-id>
+               <name>
+                  <surname>Moreno-Pestaña</surname>
+                  <given-names>José Luis</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0001-6640-7549</contrib-id>
+               <name>
+                  <surname>Costa-Delgado</surname>
+                  <given-names>Jorge</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original"> Facultad de Filosofía y Letras, Universidad de Granada (Granada, España) (jlmorenopestana@ugr.es)</institution>
+            <institution content-type="normalized">Universidad de Granada</institution>
+            <institution content-type="orgdiv1">Facultad de Filosofía y Letras</institution>
+            <institution content-type="orgname">Universidad de Granada</institution>
+            <addr-line>
+              <named-content content-type="city">Granada</named-content>
+            </addr-line>
+            <country country="ES">Spain</country>
+            <email>jlmorenopestana@ugr.es</email>
+         </aff>
+         <aff id="aff2">
+            <label>2</label>
+            <institution content-type="original"> Departamento de Historia y Filosofía, Universidad de Alcalá de Henares (Alcalá de Henares, España) (jorge.costa@uah.es)</institution>
+            <institution content-type="normalized">Universidad de Alcalá de Henares</institution>
+            <institution content-type="orgdiv1">Departamento de Historia y Filosofía</institution>
+            <institution content-type="orgname">Universidad de Alcalá de Henares</institution>
+            <addr-line>
+              <named-content content-type="city">Alcalá de Henares</named-content>
+            </addr-line>
+            <country country="ES">Spain</country>
+            <email>jorge.costa@uah.es</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <month>09</month>
+            <year>2022</year>
+         </pub-date>
+         <issue>74</issue>
+         <fpage>65</fpage>
+         <lpage>77</lpage>
+         <history>
+            <date date-type="received">
+               <day>05</day>
+               <month>04</month>
+               <year>2022</year>
+            </date>
+            <date date-type="accepted">
+               <day>12</day>
+               <month>06</month>
+               <year>2022</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/3.0/" xml:lang="en">
+               <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+            </license> 
+         </permissions>
+         <abstract>
+            <title>Abstract</title>
+            <p>The central aim of this paper is to explain how protocol sentences establish a specific space for scientific discussion at the level of observation in the social sciences. In this space, the four levels of the theory of protocol sentences work as a coordinate system that allows to specify the degree of quality of data production. To do so, we elaborate upon Jean-Claude Passeron’s epistemology by combining it with Otto Neurath’s theory of protocol sentences. We start by discussing Passeron’s interpretation of Neurath’s work in Le raissonnement sociologique and then present Neurath’s theory, following Thomas Uebel’s interpretation, with the purpose of developing the potential of Passeron’s epistemology in this regard.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <title>Key words:</title>
+            <kwd>sociological knowledge</kwd>
+            <kwd>social theory</kwd>
+            <kwd>Jean-Claude Passeron</kwd>
+            <kwd>protocol sentences</kwd>
+            <kwd>Otto Neurath</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0"/>
+            <table-count count="0"/>
+            <equation-count count="0"/>
+            <ref-count count="5"/>
+            <page-count count="13"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>In this paper, we propose that the theory of protocol sentences can play a central role in discussions about the character and quality of observation in the social sciences. Specifically, our thesis is that the four conditions of observation statements allow to clarify what is right or wrong in the process of data production of a particular research, in each historical state of the scientific field concerned. In conjunction with a broader epistemological framework of analysis, protocol sentences can be very helpful in assessing the scientific quality of social science research.</p>
+         <p>We will show how sociological epistemology benefits from the analysis of observation statements proposed by Otto Neurath, following Thomas Uebel’s analysis, one of the most outstanding experts in Neurath’s work. For this purpose, we compare Neurath’s proposal with one of the richest epistemologies of sociology: the one proposed by the French sociologist Jean-Claude <xref ref-type="bibr" rid="B5">Passeron. Our analysis is based on the second edition of Passeron’s work published in 2006</xref>, a revision of the original work published in 1991.</p>
+         <p>Passeron’s sociological epistemology avoids a normative conception of scientific reasoning. In this sense, Passeron aims at analysing how the social sciences work rather than at promoting a type of social science based on a specific method. According to Passeron, the social sciences address complex contexts that cannot be decomposed experimentally by means of separating the factors involved and identifying the independent contribution of each factor to the final effect. Thus, they operate comparing contexts. Such contexts always incorporate of an idiosyncratic specific component that can only be addressed using a deictic. The comparison between what is common is never sufficient because the terminology used in the social sciences is composed of “proper semi nouns” (Passeron 2006:127). They are considered proper nouns because they are bound to a historical juncture, though something in them goes beyond such historical particularity and allows comparison with another juncture. For example, we can establish that the link between cultural capital of the family and academic success is a sociological regularity, but this regularity will not manifest in the same way in all cases. To know better, it is not a matter of saying that regularity works <italic>ceteris paribus</italic>, which leaves the responsibility for variations to an indeterminate complexity. It is a question of seeing how the link between cultural capital and academic success is expressed in one context or another, which will help us to better express the sociological regularity.</p>
+         <p>Passeron discusses Popper’s model of science, as revisited by philosophers such as Jean-Claude Milner, to question the scientificity of sociology. Passeron vehemently opposes the thesis that the social sciences must be excluded from scientific reasoning if they cannot fulfil Popper’s refutability criteria. Without experimental control, the thesis that science is based on falsifiability makes no sense. Neurath states that the experimental control of Popper's theory of falsifiability is not valid even for natural sciences, because a single observation is not sufficient to falsify a theory. For different reasons, as we shall see below, Passeron limits his critique to its extension to the social sciences.</p>
+         <p>As we said before, following Passeron, historical contexts cannot be decomposed experimentally, so it is impossible to reproduce accurately the exact conditions of a previous observation. Under these circumstances, it is structurally impossible to produce a valid counterexample to refute a theory based on single observations from irreproducible contexts. Of course, like Passeron, we do not think that this obliges us to renounce scientific rigor in sociological reasoning. For this reason, Passeron attempts to define a scientific reasoning free of Popperian properties. Hence the subtitle of his work: ‘Un space non-poppérien de l’argumentation’. Surprisingly, Passeron does not invoke one of the most tenacious critics of Popper’s in his support, the sociologist of the Vienna Circle Otto Neurath. In fact, as we will see in the following sections, Passeron misinterprets Neurath’s contributions. Neurath could have broadened Passeron’s theory in two ways: by revealing the dogmatic aspects of Popper’s epistemology and by specifying some of the key dimensions of sociological argumentation. The present contribution addresses these shortcomings. </p>
+         <p>This paper is organized as follows. The first part is devoted to explaining the axes of sociological competence according to Passeron and to explore how one of them, the first one, is related to the ability to produce empirical information. We distinguish between two levels of theoretical quality and display the differences between an empirical sociological theory and a simple theoretical analysis of theories or a metaphysical model of argumentation. One thing is a theoretical analysis of theories and another a metaphysical model of argumentation. The difference between the two would be that the former does not claim to be a self-sufficient sociological reasoning, while the latter does, despite not correctly incorporating empirical data. It may be legitimate to conduct a logical or formal analysis of a theory, or an analysis of the relationship between a theory and the empirical data on which it claims to be based. In these examples of theoretical analysis, no substantial new empirical data are provided, but the aim is not to produce a new model for interpreting reality, but to study an already elaborated theoretical model. Later, we will discuss metaphysical models of argumentation.</p>
+         <p>The second part of this paper provides an analysis of the architecture of sociological reasoning according to Passeron, isolating the specificity of sociological information. To this effect, we reformulate the example of the phonebook, offered by Passeron on <italic>Le raissonnement sociologique</italic>, following Uebel's interpetation of Neurath's model of protocol sentences: at a certain moment and place, Passeron thinks that Passeron sees that there is a telephone number along with an address in the phonebook. At this point we explain how Passeron could have taken advantage of Neurath’s protocol sentences. Unfortunately, Passeron’s interpretation of them is clearly misleading, as it views Neurath’s contribution as place in the context of a dogmatic verificationism. Nevertheless, it is not the aim of this paper to criticize Passeron's reception of Neurath, but to complete his challenging epistemology with recent interpretations of the latter, which were not available when the French sociologist wrote his work.</p>
+         <p>In the third part, once Passeron’s principles of sociological knowledge have been presented, we develop the axes that organize observation statements. To make them significant for social sciences, we include specific information in each one, following Uebel in our argumentation and introducing some modifications in the developments carried out by his work. </p>
+      </sec>
+      <sec>
+         <title>Empiria and the social sciences: the metaphysical temptation</title>
+         <p>The two axes of sociological research. Passeron claims that the quality of sociology is articulated on two axes. The first axis presents demands for something to count as an appropriate observation according to a particular research programme. This axis gives empirical richness to the theory: otherwise, it would be impossible to understand the logic behind certain historical junctures or certain events in the social world. Passeron points out that these instances must be “non-redundant”: if they were so, such a theory would be based on no more than a set of monotonous examples, relevant only for very specific processes. If scientific theory were exclusively based on this axis, it would become a mere series of empirical illustrations. However, scientific practice must go beyond and be organized according to a second axis. This allows to compare examples according to a theoretical framework where three aspects are identified. The first aspect concerns what must be retained in the comparison. Second, and closely related, it is necessary to establish what is variable and what remains in each of the situations compared. Third, it should be explained how causally significant bonds within a series of events are built. Semantic force and logical coherence strengthen this axis: if we succumb to them, we tend to theoretical seclusion and internal articulation while we forget the empirical character of sociology. If the danger of the first axis lies in deictic dispersion (i.e., in highlighting particular events), the second lies in doctrinal armouring. Data without concepts result in blindness: in sociography or, at best, in detailed journalism. Concepts without data lack real content and turn scientific into philosophical work, assuming a model of philosophy that eludes the empirical pertinence of its theories (Passeron. De la pluralité théorique en sociologie). </p>
+         <p>Is it not possible to conceive a paradigm that allows, as in monoparadigmatic sciences, the highest degree of logical articulation and comparison and, at the same time, promotes the use of empirical examples? It would be possible if, and only if, one could firmly establish the relevant aspects to be compared for every context. Yet, a context cannot be completely broken into pieces and then converted into a set of constant variables to be compared to other contexts where such variables appear. This is one of the possibilities offered by statistical reasoning. But it that case, if the aim is to widen the scope of comparisons and produce detailed descriptions, or even explanations, it is necessary to work with non-identical realities that cannot be superposed. No paradigm can tell us, a priori, the key aspects of such realities, if we want to understand them well. Contexts are similar in some respects but not in others: addressing them as if they were interchangeable improves the theoretical articulation of a paradigm, but it also impoverishes it from the perspective of historical-social accuracy.</p>
+         <p>If Passeron’s description is right, the ideal scenario will show well-balanced axes. Nevertheless, such a balance is completely unstable. In fact, some people tend to embrace paradigms focused on historical illustrations (with a minimum of theoretical elaboration) while others focus instead on logical coherence. We are not referring here only to major theoretical accounts but also to a command of techniques: the ethnographic perspective will inevitably lead to the former tendency, while those who resort to controlled variations of statistical packages will be led to the latter. Depending on the situation or context, e.g., in the middle of a controversy, we may be sensitive to a lack of historical context or annoyed by a lack of methodological standardization.</p>
+         <p>Empirical theory and metaphysical theory. In line with Passeron’s epistemology, Jean-Pierre Olivier de Sardan (La rigueur du qualitatif) points out the presence of two qualities in the social sciences. On the one hand, it is important to evaluate the quality of the data produced or extracted from reality. On the other hand, we must evaluate the relevance of the produced interpretation. There are three possibilities.</p>
+         <p>
+         <bold>Data</bold>
+         <bold>Interpretation</bold>
+      </p>
+         <p>The first is a successful theory that is valuable both due to its production of sociological information and to the quality of the proposed knowledge and the global theory in which it is presented. A second scenario is the case of worthy scientific practice for data production but inadequate in the data analysis, or in Passeron’s view, inadequate for the generation of sociological knowledge and theoretical intelligibility (more on these terms in the following sections). Although this practice may provide information, even appropriate causal bonds, it is difficult to find in it a global articulation that makes intelligible what it’s happening. The third possibility is a metaphysical theory where the focus is on intellectual elaboration. However, it is developed in complete independence from the production of scientific data and/or disregarding the incorporation of constraints for empirical argumentation. The process of intelligibility lacks an underlying sociological knowledge, which is the link between data and interpretation. Or, in the cases where this intelligibility resorts to sociological knowledge, it distorts such knowledge by introducing it in a stereotyped language and setting it within a strategy of group reaffirmation.</p>
+         <p>Thus, the protocol dimension of sociology plays a crucial role both for successful models of scientific argumentation and for a theory that, while insufficient at the theoretical level, proposes important advantages in data production. The question about the quality of data is unfortunately absent in metaphysical theories. In this sense, this absent entails a pole of intellectual creativity that is missing in this type of theories, which, for that reason, would also be unfit for sociological reasoning, according to Passeron's epistemology. We will delve into this in the following section.</p>
+      </sec>
+      <sec>
+         <title><bold>The three levels of argumentation in <italic>Le raissonnement sociologique</italic>
+            </bold></title>
+         <p>Information, concepts, intelligibility. In <italic>Le raissonnement sociologique</italic>¸ Jean-Claude Passeron establishes three levels of what he calls “L’énonciation historique” (The historical enunciation), where sociology is located: the first level concerns sociological information, the second, the “knowledge effect”, and the third, intelligibility. The “knowledge effect” allows the transformation of information into statements linked by concepts that carry out causal attribution operations. For example, a phonebook may contain relevant sociological information. To obtain it, we can compare the frequency of telephone numbers within a set of addresses. We may reach the conclusion that certain social conditions may have an influence on telephone access. This is the “knowledge effect” (Passeron 2006:371).</p>
+         <p>Such knowledge demands something else: a comparison with information from other contexts related to other types of social inequality. Unlike the experimental or formal sciences, the social sciences compare contexts that cannot be kept constant or defined by a finite set of variables. These are “related contexts” (<xref ref-type="bibr" rid="B5">Passeron 2006</xref>:373). It is only by analysing these related contexts that we can propose a theory that explains why telephone numbers are distributed according to a certain social reason. </p>
+         <p>The issue of sociological information has been left aside in the discussion so far, because it will be the focus of the rest of this paper. To transform a phonebook into information, we must first establish data through an observation protocol. Within a set of spatial-temporal coordinates, there is a set of recorded telephone numbers. Given a certain moment <italic>t</italic> and a place <italic>k</italic>, it is possible to check whether, by dialling a certain telephone number, we ring the address recorded in the phonebook. This specifically constitutes the observation.</p>
+         <p>We can establish such observation as follows. Jean-Claude Passeron’s protocol: at a certain moment and place, Passeron thinks that Passeron sees that there is a telephone number along with an address in the phonebook. This would constitute Passeron’s statement reconstructed according to Otto Neurath’s model, following Thomas Uebel (Empiricism at the crossroads). The protocol contains:</p>
+         <p>
+         <disp-quote>
+            <p>-An institutional condition with an agent that includes a spatial-temporal reference. Also, we should add that this agent observes the phonebook with sociological purposes. As we will see below, this is crucial: Passeron is formulating a sociological information or an observation protocol.
+-An intentional condition composed of a reference to which Passeron’s thinks or says, that is, Passeron thinks that he does not lie.
+-A sensory condition that refers to what Passeron’s sees: Passeron does not observe an old phonebook because he may have misread the date.
+-A negative coherence condition: there is indeed a telephone number in the phonebook and there are no other observers adducing other contradictory observations.</p>
+         </disp-quote></p>
+         <p>The information, according to Thomas Uebel’s reconstruction, is articulated through four components: <italic>protocol</italic> (<italic>thought</italic> [<italic>stimulation state</italic> {<italic>observable fact</italic>}]).</p>
+         <p>If all the conditions were met, we would have a fact (the telephone number associated to an address). If propositions b and d were not met, the result would be a lie. If propositions c and d were not met, the result would be a hallucination or mistake. Neurath’s argumentative strategy states that, by omitting each parenthesis, there would be a level of argumentation that would fall from the equation, but not the others. Thus, the hallucination does not eliminate the subject’s honesty, and, in turn, the subject’s honesty would not necessarily imply the elimination of the institutional condition: at a certain moment, someone formulated a scientific protocol. In that case, there are two possibilities: either he is a liar or, as we will see, he is influenced by detected biases unnoticed by himself, and both within the scientific system.</p>
+         <p>Confusions about Neurath. Passeron cites Neurath and Carnap regarding the issue of information. Both philosophers of the Vienna Circle argued that science is validated by “singular existential propositions” (Passeron 2006:366). Immediately, Passeron quotes Popper’s <italic>The logic of scientific discovery</italic> and clarifies that these statements are combined with the spatial and temporal conditions that constitute the initial conditions of experience. </p>
+         <p>As this and other fragments of <italic>Le raisonnement sociologique</italic> illustrate, Passeron misunderstood Neurath’s views on protocol sentences by placing him within a dogmatic verificationism. However, Neurath argued against the belief that there exists an indisputable foundation in the ground of science (as opposed to Rudolf Carnap). He labelled the same criticism at Popper’s falsificationism. The statements of falsification are based on the idea that there must be a basis where scientific statements meet an indisputable reality (Neurath. Pseudorationalism of falsification). </p>
+         <p>In other passages of <italic>Le raisonnement sociologique</italic>, Passeron refers to Neurath as the promoter of the idea that observation statements are characterized by “tendre asymptotiquement vers la coincidence entre un enoncé et un état de choses” (Passeron 2006:545). Passeron cites Neurath’s paper “Protocol sentences”. Paradoxically, this paper presents a harsh criticism of Rudolph Carnap who, according to Neurath, thinks that there are “certain <italic>basic elements</italic> out of which the world- picture is to be constructed. In this academic view, these <italic>atomic experiences</italic> are, of course, above any kind of critical scrutiny; they do not require verification” (<xref ref-type="bibr" rid="B2">Neurath 1959a</xref>:204, italics in the original). Neurath, like Passeron, rejects the idea of an <italic>experimentum crucis</italic> allowing for an unequivocal specification of the quality of a theory. Moreover, this thesis is related to the idea that statements cannot be compared to reality but to other statements. This is the question addressed by the first of the propositions closing <italic>Le raisonnement sociologique</italic>. The same thesis is found in another of Passeron's work, where he quotes Neurath: “Statements are compared with statements, not with ‘experiences’, ‘the world’, of anything else. All these meaningless duplications belong to a more or less refined metaphysics and are, for that reason, to be rejected. Each new statement is compared with the totality of existing statements previously coordinated. To say that a statement is correct, therefore, means that it can be incorporated in this totality” (<xref ref-type="bibr" rid="B3">Neurath 1959b</xref>:291). </p>
+         <p>Perhaps the most interesting part of his criticism is that in which Passeron refers to the formal aspects of observation statements as described by Neurath. According to Passeron, Neurath ignores that observation statements cannot be repeated. Sociological statements are subject to spatial-temporal determinants that are never reiterated (in contrast to those found in experimental sciences that can control the context and reason <italic>ceteris paribus</italic>). Passeron does not realize that Neurath’s sentences (and Neurath’s criticism of Popper is radical at this point) also contain spatial-temporal coordinates and that they appear in sciences that do not control the context experimentally. Neurath thinks that this argumentation holds also for the laws of physics and that the <italic>ceteris paribus</italic> or <italic>rebus sic stantibus </italic>clauses serve to elude the spatial-temporal limitations of the laws described. For Neurath, although it is possible to establish sociological correlations, these are only presupposed in other spaces apart from that where they are validated (Zolo. Reflexive epistemology). They are always “unstable uniformities” (<xref ref-type="bibr" rid="B1">Neurath 1944</xref>:30). As can be seen, Neurath’s views are extraordinarily close to Passeron’s own position in the page where the latter points out his criticism.</p>
+         <p>One could search for more theoretically sympathetic theses, for example, by contrasting the idea of system with Neurath’s idea of encyclopaedia. The idea of system presupposes a set organized around certain immovable principles. The encyclopaedia goes against this pattern and reaffirms the existence of unstable links between theories and the observations that are added together with a coherence that is only partial, not absolute. The propositions and methods of this encyclopaedia are always under discussion. In line with Passeron’s criticism of Popper’s model, Neurath enunciates this programme against Popperian absolutism.</p>
+         <p>However, this paper does not focus on analysing Passeron’s understanding of the Vienna Circle and Otto Neurath’s thinking. As a matter of fact, Passeron himself is aware of the problems in his perception of Neurath: according to the translator and editor of his work, and after discussing with him this specific matter, Passeron modified two passages of the Spanish translation of <italic>Le raisonnement sociologique</italic> that referred to Neurath. Specifically, there is a minor modification on page 233 in the Spanish edition (<italic>El razonamiento sociológico</italic>, Siglo XXI). A major modification appears on page 470 in the same edition. This paper aims to complete the three levels of sociological reasoning proposed by Passeron, specifically paying attention to the spaces where informative statements or protocols are built.</p>
+      </sec>
+      <sec>
+         <title>Axes of observation protocols and the theory of sociological knowledge according to Passeron</title>
+         <p>Theory of sociological knowledge and social theory. As explained by Olivier de Sardan in his brilliant work <italic>La rigueur du qualitatif</italic>, to observe means to recover a sequence of events that could have been filmed, although obviously in most cases they were not recorded. Olivier de Sardan refers to ethnography in this case, but that does not exclude other forms of data collection or observation contexts. For example, those "artificially" produced by the researcher (but never fully controlled), like a survey. These reconstructions may be first-hand experiences or may be provided by other observers. The social scientist will tend to the former type, as do practitioners of experimental philosophy. In contrast, the social theorist, and the practical philosopher, if they abandon the position of commentator of a tradition, will work based on observations made by others. Empirical statements demand a theory of scientific evidence. As Thomas Uebel (<italic>Empiricism at the crossroads</italic>) shows, observation statements propose a discussion on the quality of scientific evidence. In short, a discussion on the reliability of the "filming" of the events proposed by a witness. In fact, Neurath’s protocol theory is intended for the acceptance of second-hand evidence. For this evidence to be accepted with minimal assurances, it is necessary to specify the required data acceptance conditions as much as possible (Uebel. Neurath’s protocol sentences revisited). </p>
+         <p>Before proceeding further, it is important to recall a specific contribution made by Passeron that may help to identify the axes that constitute an observation protocol in the social sciences. This idea comes from a previous work by Bourdieu, Chamboredon, and Passeron (Le métier de sociologue), where they state that there exists a difference between the theory of sociological knowledge and the different partial theories of the social. The first one establishes the lowest common denominator in sociological reasoning. In contrast, social theories may be plural, that is, the theory of sociological knowledge generates a variety of partial social theories. Three principles define the theory of sociological knowledge in <italic>Le métier de sociologue</italic>. In later research, Passeron (De la pluralité théorique en sociologie) adds a new principle. Here are the four principles of the theory of sociological knowledge:</p>
+         <p>
+         <disp-quote>
+            <p>The first principle requires moving away from common sense through the construction of the object. Such breakup is never absolute, but it requires a critical elaboration of the common assumptions of everyday experience. 
+The second principle requires questioning the idea that subjects have a transparent view of reality. 
+The third principle requires explaining the social for social reasons, without resorting to transhistorical truths as those provided by naturalistic explanations or by transcendental explanations beyond the social (e.g., the idea of a sense of history imposed on individuals). This principle entails a methodological position regarding which are the relevant forces for social experience. Methodological and not epistemological, because this principle works as a self-imposed limit inside sociological reasoning: it does not deny the possibility of other epistemological approaches, but the latter need to mobilize different argumentative registers. In any case, it is impossible to identify this principle in the axes of observation statements.
+The fourth principle formulated by Passeron, emphasizes the fact that any sociological statement is empirically underdetermined or, in other words, that observations allow for legitimate diverse theoretical elaborations. On the other hand, theory promotes the generation of empirical knowledge. This principle corresponds to the axes of sociological quality, as explained above: “En sociologie comme ailleurs, un schème théorique est indispensable pour formuler un langage de description donnant ses chances à l’augmentation de la connaissance empirique. II arrive, en notre discipline, que le schème prenne quelque ampleur théorique et que les enquêtes atteignent au volume d'un grand chantier ; mais cela ne préjuge jamais de l'avenir paradigmatique de la recherche sociologique ni ne décide du sort des autres théories” (<xref ref-type="bibr" rid="B4">Passeron 1994</xref>:115).</p>
+         </disp-quote></p>
+         <p>The principles proposed by Passeron differ in their status from the axes that constitute observation statements. The four principles are present not only in the production of information but also in all the phases of sociological reasoning. However, except for the third one, it is possible to identify evidence of these principles in the axes described in the next section. </p>
+         <p>Axes of protocol sentences. Consider again Jean-Claude Passeron’s protocol: at a certain moment and place, Passeron thinks that Passeron sees that there is a telephone number along with an address in the phonebook. As just mentioned, there are four conditions. In this section, we provide reasons supporting their relevance for sociology.</p>
+         <p>Regarding the institutional dimension, one can imagine that Passeron’s protocol begins by counting the telephone numbers associated to a certain group of addresses or by comparing their frequency in the phonebook with their distribution in the city map. In this way, the phonebook has been transformed into a source of sociological information. Our observer has reported his statement in a specific language that makes this information comprehensible to the scientific community. Expressing his protocol either quantitatively or qualitatively allows him to be identified as a member of the scientific community (Uebel. Interpreting Neurath's protocols), since science operates under certain descriptive procedures the observer must follow (Olivier de Sardan. <italic>La rigueur du qualitatif</italic>). Although, admittedly, it is sometimes difficult to distinguish an everyday observation from a scientific one, Passeron’s example shows the compulsory element for such a distinction: considering the phonebook from a scientific perspective, it is transformed from a mere source of information about telephone numbers to evidence about social stratification.</p>
+         <p>Other epistemological scenarios are possible too. The protocol could have included theoretical references in the description. In this case, maybe it would not be a protocol of a science but a protocol of a metaphysical nature: for example, “the existence of a phonebook is a symptom of the desecration of the world and the reduction of the human to a mere quantity that is expressed in a coordinate system”. It could also be possible for a protocol to be expressed within an outdated paradigmatic model. For example, the sentence “there were blazing swords in the sky perceived by A in 1703” is a valid protocol sentence, as long as we keep the date. Nowadays, however, it is not a valid statement. Rather, it has changed its knowledge domain: it is not a protocol sentence of astronomy but of the sociology of knowledge. Although defensible in 1703, the statement is no longer valid. But it would be pointless or unfair to discard it as a mere lie (Nottelman. Otto Neurath on the structure of protocol sentences). This type of problem is more frequent in the social sciences given the different existing paradigms in each historical period and their relationship with philosophical and political issues. In any case, it is possible to establish what is imposed by this condition of the protocol sentence. As it is the result of the processes of transformation of data within frameworks of data collection, and since such frameworks characterize certain paradigms, a protocol sentence shows an institutional dimension of scientific stability. If the social scientist does not embrace this institutional dimension, he would find himself relegated to amateurism. The philosophical dimension present in this paradigm choice (either consciously or not) is unavoidable. </p>
+         <p>The Passeronian principle of the construction of the object is located on this axis, even though in a very limited sense. Information production requires an approach to the real as a source of possible information, which is always connected to a programme of sociological knowledge and intelligibility. Thus, in historical sciences such information production requires the standardization of data collection by means of specific tools.</p>
+         <p>Let us now move on to the intentional condition. A second component in protocol sentences is that they must be the result of an authentic conceptualization of data, in this case, an honest report by Passeron. This consideration, however, does not uniquely hold for first-hand data, but also for the second-hand evidence used in our observations. If this condition is not fulfilled, then the result obtained is a lie.</p>
+         <p>It has been pointed out that this condition is unrealistic because, very often, it is impossible to express with extreme accuracy what we see (Nottelman. Otto Neurath on the structure of protocol sentences). Some of the contents of this axis can be improved by considering them not as the result of a lie but of intentional or avoidable biases in research. This dimension of the protocol observation does not only raise the issue of the veracity of the evidence: not all the data are easy to access and there may also be restrictions in their production. When choosing among different work programmes, we are not only choosing paradigms (previous condition), but also the type of data used. The extent to which these data are accessible or the way they are produced would influence our negative or positive relation with diverse social forces. For example, an institution may resist opening or allowing access to a particular file. Or a researcher may face hostility from a social or political group upset by the results of his or her work. The controversy that followed Hannah Arendt's publication of <italic>Eichmann in Jerusalem</italic> is a good example of the latter. In our opinion, this is one of the key points derived from the political philosophy of science proposed by Neurath: the choice of the kind of (truthful) data we produce entails decisions loaded with philosophical and even political sense. The latter has a twofold meaning, because it may refer both to the political conflicts the author may face when revealing data (including the necessary ethical disposition to assume the cost of being side-lined as a result and a condition of the objectivation) and also to the political consequences these data may have. The objectivation, in Bourdieu's view, implies that the researcher analyses his own situation in the social space and can recognise the biases that constitute it. This may have consequences for the relations between the researcher and those social agents who are not in the same position and who therefore have a different link to the analysed facts.</p>
+         <p>The third condition in Passeron’s protocol is the sensory condition. The observation (whether first or second-hand) requires an accurate recording of what has been observed. In this case, the problem is not the lie, but error. There are two dimensions to this condition.</p>
+         <p>First, at a very basic level, this dimension implies that the subject could have misinterpreted what experience supposedly showed, because he missed his perceptual register. As Neurath pointed out, the subject could have had a hallucination or, less dramatically, a confusion.</p>
+         <p>Second, at this point, it is difficult to distinguish the experiences from the problems of the second condition. The difference lays in the intentionality of error. Specifically, observers in sociology develop three types of descriptive biases. First, biases may be the result of a personal dimension that includes prejudices, affections, interests, strategies, etc. Second, they may also be produced by a lack of experimental tools in the historical sciences that impedes the control of the influence of personal prejudices. Third, as it departs from statistical data registration and procedures, qualitative research will face specific conflicts regarding its specific modes of insertion in the field, the relevance of the actors involved, and the possibility of comparing the contexts where information is produced with other contexts (Olivier de Sardan. <italic>La rigueur du qualitatif</italic>). Passeron’s principle of non-transparency is divided into the second and third axes of observation statements. Whether as an error, as an intentional bias or as a confusion (or a hallucination, in an extreme form) the theory of ideologies operates in the process of data registration of the subject. </p>
+         <p>Fourth, a protocol sentence may be compared to other statements. First-hand observation registers may or may not agree with other observers’ statements. For example, another observer of the phonebook could focus on the analysis of the surnames to register a spatial distribution of a population, in the same city, based on ethnic or religious factors. In this observation, the telephone numbers themselves are irrelevant. Also, what in Passeron’s protocol referred to a series of observations that operated implicitly with categories associated to the concept of “social class” to measure social stratification, in other observers’ protocols, the same material could provide different data from observations that operate with concepts such as “ethnicity” or “religion”. The interpretations of the factors that organize the spatial distribution of the population in this fictitious city will vary enormously depending on the observations or the categories that each sociologist privileges in the analysis. But even operating with similar categories, the observations may differ: a neighbourhood where few inhabitants have a telephone may mean, for a given observer, that said population lacks sufficient resources to afford a telephone installation. For another observer, perhaps with additional data, it may mean that we are dealing with a mobile population (students, temporary workers), a population with greater purchasing power or with different generational traits (who renounced landlines to use the latest generation of mobile phones), or with particular uses of housing (for example, tourist rental, which does not need a telephone number).</p>
+         <p>Olivier de Sardan highlights that every observation implies the selection of a time sequence (the duration of the observation) or of the specific aspects that are the focus of such observation, as well as who were the agents and the audience in the scene. In this way, an individual has reported the situation in a public language (institutional condition), acting truthfully (intentional condition) and may not have suffered from any hallucination. However, what they observe does not correspond to other observations. This point is especially important to understand the factors that make scientific anomalies relevant for research. </p>
+         <p>Aside from the protocol discussion, one should ponder the required conditions for a protocol to be included in the argumentation. This is a condition of acceptance. Once the dimensions of the observation statement are discussed, the next step consists in deciding whether it is connected or not to theory (Uebel. <italic>Empiricism at the crossroads</italic>). No scientific paradigm is refuted by an anomaly, even less so in the social sciences. This assumption, however, does not imply that any theory can be sustained independently of the data. In fact, a theory shows its scientific tension when it can recognize anomalies (in contrast to a metaphysical approach that simply hides, falsifies, or ignores those aspects that do not fit in it). It depends on its empirical tension to be able to survive with anomalies. Here we find the Passeronian principle of empirical underdetermination of sociological statements (both protocol and non-protocol sentences).</p>
+         <p>Thus, in the first place, a protocol may not be recognized as scientific if it is not reported in a public language (first condition). In the second place, the protocol may be considered erroneous or dubious regarding its authenticity or its validity (second, third, and fourth conditions). In the third place, it must be decided whether statements may produce a crisis in a scientific paradigm and put an end to its validity (Uebel. Neurath’s protocol sentences revisited). </p>
+         <p>The following table summarizes the components of an observation statement and the epistemological issues they raise. </p>
+         <p>
+         <bold>Observation statements</bold>
+         <bold>Epistemological debates</bold>
+      </p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusion. A sociology of scientific protocols</title>
+         <p>Each of the axes of the protocols introduces a sociological dimension that is central to scientific argumentation. Based on Neurath's work, Uebel (<italic>Empiricism at the crossroads</italic>) has identified three dimensions. First, the institutional condition requires us to analyse the necessary conditions to be recognized as a scientific agent. This takes place at the more basic level of science, that is, in the collection of observations or evidence. Second, stimulation allows for the identification of a space for the analysis of scientific errors. It is in this space where some sociological questions about the observation arise: the influence of the researcher’s beliefs or motivations, the non-experimental conditions of observation, or the fieldwork biases. Third, the condition of negative coherence imposes an element of social debate in the scientific community, where a wide range of possibilities must be considered. Finally, an additional condition could be added to Uebel-Neurath’s typology: the pragmatic circumstances that hinders or promotes the recognition of the anomalies. Such processes of loss of belief are not easy to match with the model of argumentation of the metaphysical views of the world. For instance, religions or philosophy (at least, certain philosophical approaches) are completely indifferent to empirical work and tend to take refuge in sacred texts (Passeron. De la pluralité théorique en sociologie).</p>
+         <p>The introduction of the theory of observation statements contributes to create a crucial space for discussion in the social sciences, specifically in relation to the information collected in protocols. At the same time, this theory presents this space as involved in conflicts regarding the choice of appropriate knowledge strategies. Sociology plays an important role in this space of discussion, since it involves institutions, ideologies, lies, and decisions about what we should give credit to to have an acceptable scientific knowledge of reality.</p>
+         <p>As mentioned above, Passeron defended that sociology and, in general, the historical sciences are organized around two axes: empirical and theoretical. Neurath’s theory contributes to specifying how they communicate with each other. It puts the focus of attention on a basic element of scientific work: the social and political conditions for the elaboration of basic scientific statements and their integration in the argumentative processes that constitute the theoretical level of the social sciences. The theoretical axis allows agents to be institutionally recognized based on certain standardized procedures to report information. This information, moreover, must be compared and discussed with others to be accepted or not. While the former is related to the institutional condition, the latter is related to the negative coherence condition. Furthermore, the stringency levels to avoid lies (doxastic condition) or errors and biases in research (sensory condition) set a standard of sociological quality in various scenarios: in collective reflexivity, in the process of data triangulation or in the simple explicit enunciation of the registers that inform us of reality. Additionally, with this approach we may detect when we are facing a metaphysical theory (or a metaphysical use of a certain theory) and identify how the doctrinal armour of these purported sociological theories work. </p>
+         <p>Paradoxically, it is true that Neurath held a more radical epistemological position than Passeron. While Passeron seems to naively accept a Popperian view of the natural sciences, Neurath discarded it as a new form of dogmatism. Such a dogmatism, by the way, left the social sciences out, something that both Neurath and Passeron rejected. Neurath, according to Thomas Uebel’s interpretation, put sociology back on key moments of the construction of data without falling into the trap of relativism. Instead, he unfolds what we often perceive only through intuition. In this way, he improves our understanding of the nature of sociological reasoning.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Bibliography</title>
+         <ref id="B1">
+            <mixed-citation>Neurath, O. (1944). <italic>Foundations of the social sciences</italic>. University of Chicago Press. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Neurath</surname>
+                     <given-names>O.</given-names>
+                  </name>
+               </person-group>
+               <year>1944</year>
+               <source>Foundations of the social sciences</source>
+               <publisher-name>University of Chicago Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>______. (1959a). Protocol sentences, pp. 199-208. In Alfred J. Ayer (Ed.) <italic>Logical positivism</italic>. The Free Press.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Neurath</surname>
+                     <given-names>O.</given-names>
+                  </name>
+               </person-group>
+               <year>1959a</year>
+               <chapter-title>Protocol sentences</chapter-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Ayer</surname>
+                     <given-names>Alfred-J.</given-names>
+                  </name>
+               </person-group>
+               <source>Logical positivism</source>
+               <publisher-name>The Free Press</publisher-name>
+               <fpage>199</fpage>
+               <lpage>208</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>______. (1959b). Sociology and physicalism, pp. 282-320. In Alfred J. Ayer (Ed.) <italic>Logical positivism</italic>. The Free Press.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Neurath</surname>
+                     <given-names>O.</given-names>
+                  </name>
+               </person-group>
+               <year>1959b</year>
+               <chapter-title>Sociology and physicalism</chapter-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Ayer</surname>
+                     <given-names>Alfred-J.</given-names>
+                  </name>
+               </person-group>
+               <source>Logical positivism</source>
+               <publisher-name>The Free Press</publisher-name>
+               <fpage>282</fpage>
+               <lpage>320</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>Passeron, J-C. (1994). De la pluralité théorique en sociologie. Théorie de la connaissance sociologique et théories sociologiques. <italic>Revue européenne des sciences sociales</italic>, <italic>22</italic>(99), 71-116. <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/40370926">https://www.jstor.org/stable/40370926</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Passeron</surname>
+                     <given-names>J-C.</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <article-title>De la pluralité théorique en sociologie. Théorie de la connaissance sociologique et théories sociologiques</article-title>
+               <source>Revue européenne des sciences sociales</source>
+               <volume>22</volume>
+               <issue>99</issue>
+               <fpage>71</fpage>
+               <lpage>116</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/40370926">https://www.jstor.org/stable/40370926</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation> ______. (2006). <italic>Le raisonnement sociologique. Un espace non-poppérien de l’argumentation</italic>. Albin Michel.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Passeron</surname>
+                     <given-names>J-C.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>
+                  <italic>Le raisonnement sociologique. Un espace non-poppérien de l’argumentation</italic>.</source>
+               <publisher-name>Albin Michel</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000200159</article-id>
+         <article-id pub-id-type="publisher-id">00002</article-id>         
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Sobre la noción de cuerpo en Maurice Merleau-Ponty</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>On the notion of body in Maurice Merleau-Ponty</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5966-6796</contrib-id>
+               <name>
+                  <surname>Ferrada-Sullivan</surname>
+                  <given-names>Jorge</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad de Los Lagos. Chile</institution>
+            <institution content-type="normalized">Universidad de Los Lagos</institution>
+            <institution content-type="orgname">Universidad de Los Lagos</institution>
+            <country country="CL">Chile</country>
+            <email>jorge.ferrada@ulagos.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2019</year>
+         </pub-date>
+         <!--volume>0</volume-->
+         <issue>65</issue>
+         <fpage>159</fpage>
+         <lpage>166</lpage>
+         <history>
+            <date date-type="received">
+               <day>18</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>26</day>
+               <month>06</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El presente artículo dialoga con los principales postulados fenomenológicos del filósofo Maurice Merleau-Ponty, referidos a la noción de cuerpo desde una perspectiva contemporánea. Tal mirada simboliza una nueva comprensión del sujeto como sí mismo y como una verdadera multidimensionalidad abierta hacia los otros. En el trayecto del relato, se propone una representación de lo corpóreo que permita distanciarse de las clásicas concepciones que instalan al cuerpo como una estructura técnica y como una producción necesaria para la circulación de imágenes cotidianas. ¿Qué es ser cuerpo? pregunta y argumento de Merleau-Ponty pensado a partir de la relación substancial entre el hombre, la cotidianidad y la experiencia de ser-en-el-mundo.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This article dialogues with the main phenomenological postulates of the philosopher Maurice Merleau- Ponty, referring to the notion of body from a contemporary perspective. Such a look symbolizes a new understanding of the subject as himself and as a true multi-dimensionality open to others. On the journey of the story, it proposes a representation of the corporeal that allows to distance itself from the classical conceptions that install the body as a technical structure and as a necessary production for the circulation of everyday images. What is being a body? Question and argument of Merleau-Ponty conceived from the substantial relationship between man, daily life and the experience of being-in-the-world.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>fenomenología</kwd>
+            <kwd>cuerpo</kwd>
+            <kwd>subjetividad</kwd>
+            <kwd>experiencia</kwd>
+            <kwd>Merleau-Ponty</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>phenomenology</kwd>
+            <kwd>body</kwd>
+            <kwd>subjectivity</kwd>
+            <kwd>experience</kwd>
+            <kwd>Merleau-Ponty</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="12" />
+            <page-count count="8" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>El cuerpo contemporáneo</title>
+         <p>Cuando se piensa tradicionalmente sobre el cuerpo, se está pensando desde distintas disciplinas, sin una vinculación explícita entre ellas. Situación que se explicaría desde la diversidad de definiciones sobre el cuerpo, en tanto materia biológica, psicológica, histórica, artística, cultural, por nombrar solo algunas. El cuerpo se referencia tanto desde los sentidos físico-real como emocional-cultural-social. La modernidad también ha realizado aproximaciones al cuerpo a partir de los estudios sobre el consciente y el inconsciente, a través de su relación con lugares y biografías, con su vinculación a la pornografía, a la política, y a partir de nociones y concepciones filosóficas que aventuran realidades y definiciones aparentemente concluyentes, y que sin duda se transforman en prácticas de exclusividades disciplinarias.</p>
+         <p>
+            Es más, se hace referencia a distintas aproximaciones desde los valores ideológicos, las sensaciones y las emociones, así como las percepciones. Es en consideración a dichos aspectos donde la fenomenología merleau-pontyana supone al cuerpo como una superación del conocimiento científico disciplinar, en la medida que aporta a la comprensión de su existencia, a la valoración de su subjetividad y a la resignificación de su experiencia temporal. En palabras de Merleau-Ponty, “cada presente capta paso a paso, a través de su horizonte del pasado inmediato y del futuro próximo, la totalidad del tiempo posible” (Merleau-Ponty 1996:107). Es la existencia y la experiencia lo que encontramos en el cuerpo al vincularnos con el mundo, y es el mundo lo que se revela por medio del cuerpo. En otras palabras, la existencia se encuentra en correspondencia con el propio cuerpo, desde el momento en que éste se manifiesta entre y con las cosas como forma de encarnarse en el mundo. La carne (encarnar) significaría para el filósofo francés una suerte de tránsito entre lo tangible y lo intangible de las cosas. Para De la Vega, “en el cuerpo/hombre, si bien hay una dimensión tangible, también hay una dimensión intangible. Esta aparente dualidad no es tal. El cuerpo/hombre forma con sus dos dimensiones un continuum. Es como la moneda que no por tener dos caras se piensa como dos cosas distintas. Ambas caras son la misma moneda. Para explicar esto, Merleau-Ponty introduce la idea de la carne. Según el autor, el cuerpo sería el lugar de la carne. Es decir, que es el cuerpo donde el fenómeno de la carne se hace evidente. La carne sería presente en ese lugar en la forma de una estructura intersensorial, no como una suma de partes sino como un tejido” (
+            <xref ref-type="bibr" rid="B2">De la Vega 2011</xref>
+            :103).
+         </p>
+      </sec>
+      <sec>
+         <title>El cuerpo fenomenológico, ¿qué es la experiencia del cuerpo?</title>
+         <p>El mundo está en nosotros tanto como nosotros estamos en el mundo, es esta una relación de co-originariedad constante; uno se da al mundo tanto como él le devuelve al uno: “Estamos en el mundo, somos-del-mundo, eso es: unas cosas se dibujan, un individuo inmenso se afirma, cada existencia se comprende y comprende a los demás” (Merleau-Ponty 1996:417). En otras palabras, ya que logramos establecer una participación en común, una comunidad de cuerpos, es que podemos sostenernos en los otros tanto como ellos se sostienen en uno, ya que nuestros cuerpos se comprenden en una relación de comunión corporal, una especie de encarnación co-respondida hacia los otros.</p>
+         <p>En diálogo con Merleau-Ponty, ¿qué vendría a ser un cuerpo? Prácticamente en toda la literatura del filósofo, la noción de cuerpo -implícita o explícita- retorna sucesivamente a la suposición de opacidad que posee el ser un cuerpo en lo contemporáneo. Es más, esta forma de devenir cuerpo en olvido permanente, distancia al sujeto del mundo y de su correlato existencial como ser-en-el-mundo. Dejemos que él mismo enuncie un acercamiento a la noción de cuerpo: “En el mismo instante en que vivo en el mundo, en que estoy entregado a mis proyectos, a mis ocupaciones, a mis amigos, a mis recuerdos, puedo cerrar los ojos, recostarme, escuchar mi sangre palpitando en mis oídos, fundirme en un placer o un dolor, encerrarme en esta vida anónima que subtiende mi vida personal. Pero precisamente porque puede cerrarse al mundo, mi cuerpo es asimismo lo que me abre al mundo y me pone dentro de él en situación” (Merleau-Ponty 1996:248).</p>
+         <p>El cuerpo fenomenológico permite el aparecer del mundo y se constituye como en el mundo. Un cuerpo fenómeno, un cuerpo en potencia consciente de su existir en el sentir, en otras palabras, fenómeno de sensaciones que permiten sentirse sentir y abrir el mundo como posibilidad de entrar en él y ser parte de él. ¿Qué vemos del mundo?, es decir, ¿vemos el mundo? Parece ser que este cuerpo reclama su aprender a ver, a verse en y para el mundo. En palabras de Merleau-Ponty, “reconocer bajo el nombre de mirada, de mano y, en general, de cuerpo, un sistema de sistemas consagrado a la inspección de un mundo, capaz de salvar las distancias, de penetrar el porvenir perceptivo, de dibujar en la sencillez inconcebible del ser, huecos y relieves, distancias y desvíos, un sentido” (Merleau-Ponty 2006:75). Es decir, una especie de correspondencia entre el cuerpo y el mundo, que presupone, por una parte, que en el cuerpo mismo haya una unidad de co-pertenencia entre los cinco sentidos, y por otra, entre estos y el movimiento. Una forma de sensoro-motricidad que se expresa comúnmente a través del gesto y de la palabra. Aún más, podríamos afirmar -en este contexto- que vemos sonidos y tocamos colores en la medida que dichos sonidos y colores, “retumban” o repercuten en nuestro particular modo de existencia y, por tanto, en nuestro ser cuerpo como estar-en-el-mundo.</p>
+         <p>
+            Michel Henry, fenomenólogo y referente fundamental para dicha tradición, sostiene que “si la sensación no es aquello por lo que conocemos nuestro cuerpo, ni menos aún este cuerpo mismo, resulta en cambio que la sensación es conocida por el cuerpo, no representada, precisamente, sino dada al movimiento en el desarrollo del proceso subjetivo de su esfuerzo en el sentir” (
+            <xref ref-type="bibr" rid="B5">Henry 2007</xref>
+            :120). Sin embargo, también se puede suponer que el cuerpo, en dicha posibilidad de sentir, se hace presencia antes de la sensación ya que está en disposición -en el límite de la sensación- de sentir en ausencia de cualquier predisposición o determinación externa y, por tanto, de toda propiedad sensible que interiorice el ser en el mundo. Habitar el mundo recuerda lo que la realidad humana presenta, y tal forma de habitar vendría a ser el carácter ontológico que sirve para definir tanto el mundo como el cuerpo que es su habitante.
+         </p>
+         <p>Por lo tanto, qué significa la pregunta por el cuerpo fenomenológico: si el mundo está conformado por una diversidad de cosas -en la amplitud del concepto- que afectan nuestra experiencia, nuestra relación con ellas no sería una relación distante, ya que cada una de las cosas habla a nuestro cuerpo y a nuestra vida. El cuerpo bajo una perspectiva fenomenológica, ¿puede recuperar el mundo como lo percibe en la experiencia vivida?, ¿pueden las cosas vivir en nosotros como tantas otras experiencias? Con esta experiencia, el cuerpo ¿se siente sentir? Este sentido de ser en el mundo, ¿permite reconocer un cuerpo que encarna un mundo para constituirse como ser para el mundo? Y finalmente, ¿qué es la experiencia del cuerpo?, ¿cómo se siente y cómo se vive?</p>
+      </sec>
+      <sec>
+         <title>Ser cuerpo como comunidad de cuerpos</title>
+         <p>El cuerpo es tanto cuerpo para su propia individualidad y para exponerse en la comunidad. No es privilegio del sí mismo, el sentido del sentirse sentir en el mundo, muy por el contrario: el cuerpo es una suerte de espacio expresivo que se entrelaza con los demás cuerpos humanos, con lo viviente y con las otras cosas, lo que en definitiva corresponde al mundo mismo. Es el mismo cuerpo el que permite coexistir con las cosas y formar un todo unitario en el aparecer del mundo y de la realidad. Pues al ser parte de la identidad de cuerpo común y constituirse como cuerpo en contacto con otros, es que se logra estar-en-el-mundo. El cuerpo en su relación con otros cuerpos, con las cosas, en la existencia cotidiana, está ya en relación con el mundo bajo una unidad o entrecruzamiento tejido en su encarnación. Desde esta perspectiva, el cuerpo está inmediatamente abierto al cuerpo de los demás, o si se quiere, el sí mismo está instalado en el cuerpo del otro, así como el otro, está en el mío desde nuestros sentidos, desde nuestro movimiento hacia ellos y desde nuestra expresión concreta para ellos en el mundo. En este contexto, si queremos explicar dicha unidad o entrelazamiento de nuestros sentidos, de nuestros movimientos y de nuestro lenguaje con los otros cuerpos, se deberá ir más lejos, desde el instante que nuestro cuerpo como espacio expresivo proyecta hacia el exterior las significaciones de lo internalizado -en tanto relaciones sensibles con las cosas- como medio de exteriorizarse en un lugar donde las cosas cobren su existencia y el cuerpo exista en el mundo junto a ellas.</p>
+         <p>
+            Es la individualidad del ser o más bien la capacidad de sentirse sujetos para sí y para otros, lo que nos permite sentirnos en este mundo y sentir a los demás cuerpos. Logramos sentirnos como cuerpos individuados, si somos capaces de reconocer tu cuerpo y el mío, nuestros cuerpos en una constante relación corporal. “La determinación singular es esencial al cuerpo. No se puede definir un cuerpo como sentiente y como relación si no se le define al mismo tiempo por eso indefinible que es el hecho de ser cada vez un cuerpo singular -el cuerpo éste y no otro. Es solamente a condición de tener el cuerpo este y no otro como el cuerpo este puede sentirse como cuerpo y sentir los demás” (
+            <xref ref-type="bibr" rid="B11">Nancy 2003</xref>
+            :101). Somos tanto del mundo como somos para cada uno. Nos sentimos a nosotros mismos, porque se siente desde afuera un contacto externo con los demás cuerpos. El cuerpo se pone en relación con otros cuerpos desde la exterioridad, desde mi afuera, desde la apertura y exposición de mi piel, de mis ojos, mis oídos: “Ver un objeto en cuanto que los objetos forman un sistema o un mundo y que cada uno de ellos dispone de los demás, que están a su alrededor, como espectadores de sus aspectos ocultos y garantía de su permanencia. Toda visión de un objeto por mí se reitera instantáneamente entre todos los objetos del mundo que son captados como coexistentes porque cada uno es todo lo que los demás ‘ven’ de él” (Nancy 2003:88).
+         </p>
+         <p>Con estas ideas se nos aparece una dimensión que nos permite pensar el cuerpo como una experiencia que recorre lo vivido y aquello que deviene. Con lo anterior, es posible otra entrada a la pregunta fenomenológica qué vendría a ser un cuerpo en su devenir histórico. Esto plantea el clásico dualismo histórico-cultural y filosófico que ha dejado una marca ontológica entre cuerpo-alma o cuerpo-razón.</p>
+      </sec>
+      <sec>
+         <title>La expresión primordial: ser-cuerpo-en-el-mundo</title>
+         <p>Los diversos paradigmas y sus matrices teórico-conceptuales han desarrollado un entramado analítico que ha significado representar de diversas maneras la concepción del cuerpo. Sin embargo, el sentido de ser en el mundo pregunta también por la manera de habitarlo, de encarnarlo, de comprenderlo y de reconocer lo que el mundo nos devuelve en la percepción sensible de las cosas. Por esto, mi cuerpo permite que comprenda al otro y a lo otro. Una seña, un signo, un gesto: el sentido del cuerpo en su gesto se funde con la estructura del mundo que el propio gesto construye y bosqueja. La comprensión de los gestos no es, según Merleau-Ponty, un ejercicio de la conciencia atada a la intelección, se trata más bien de una comprensión del gesto en virtud de comprender el comportamiento que demanda la expresión del gesto como un texto corpóreo. Por esta razón, también pensable como una cierta referencia al ser y a la manera en que éste construye el mundo.</p>
+         <p>
+            Para Heidegger, la palabra gesto caracteriza el movimiento en tanto la identificación del propio movimiento corporal. Esta referencia al ser estaría definiendo un modo de ser en el mundo -como cuerpo (el mío)- y una forma de corporar (estar, habitar participar) propiamente humano. En otras palabras, el cuerpo es solamente cuerpo en tanto que corpora como presencia y presente. En el límite del corporar, para Heidegger, el cuerpo es solamente cuerpo en tanto que corpora, es decir, en cuanto es un gesto visible a otros y al mundo. Si, en definitiva, el gesto nombra el movimiento corporal, para el ser humano (horizonte del ser al cual pertenezco), el gesto tendería a entretejer un conjunto de comportamientos subjetivos y particulares y una manera de reconocer e internalizar el mundo. Cito a Heidegger para complementar este punto: “En filosofía no debemos limitar el nombre ‘gesto’ a la interpretación ‘expresión’, sino que debemos caracterizar todo el comportamiento del ser humano en cuanto un ser-en-el-mundo determinado por el corporar en cuanto gesto y así en cuanto comportarse de este u otro modo” (
+            <xref ref-type="bibr" rid="B4">Heidegger 2007</xref>
+            :139).
+         </p>
+         <p>
+            Retornamos al ser por el cuerpo. Podemos escenificar o determinar el lugar del mundo por la expresión que nuestro propio cuerpo revela los aspectos del mundo. El ser es el espíritu del mundo que se hace cuerpo, que lo encarna y lo transforma. Cuerpo y mundo se presentan bajo una complicidad simultánea. Como señalamos, el ser se manifiesta al corporar por el cuerpo del viviente y el cuerpo se abre al mundo para que éste adquiera su significación. El espíritu del mundo vendría a ser como una especie de huella, de impronta y de señal que el propio mundo sella en el cuerpo del sujeto como ser encarnado para el entendimiento y la conciencia de estar en el mundo. Es más, esta complicidad la podemos pensar también como una apertura del hombre hacia el mundo y éste como una forma de expresión y revelación de nuestra existencia a través del propio cuerpo. El mundo, en la espacialidad del cuerpo, despliega su ser cuerpo, es decir, la manera como se realiza y se constituye como cuerpo. Por este motivo, como señala Merleau-Ponty: “dicho espíritu totalmente puro lo encuentro y por así decirlo no lo toco sino en mí mismo. Los otros hombres jamás son para mi puro espíritu: solo los conozco a través de sus miradas, sus gestos, sus palabras, en resumen, a través de su cuerpo” (
+            <xref ref-type="bibr" rid="B9">Merleau-Ponty 2002</xref>
+            :48).
+         </p>
+         <p>
+            Si el cuerpo permite la apertura hacia el mundo, ¿cómo se nos abre el mundo? El cuerpo percibe el mundo por su propia expresión. Merleau-Ponty llamaba a esta cualidad “expresión primordial” que expone un cuerpo vidente y visible. El que mira todas las cosas, también se puede mirar y reconocer más allá de su potencia vidente: “El que se ve viendo, se toca tocando, es visible y sensible para sí mismo (...) es un sí mismo por confusión, narcisismo, inherencia del que ve a lo que ve, del que toca a lo que toca, del que siente a lo sentido” (
+            <xref ref-type="bibr" rid="B7">Merleau-Ponty 1977</xref>
+            :16). El espíritu del mundo somos nosotros, desde el momento en que sabemos movernos y sabemos mirar. Todo hombre y todo ser que toca el mundo, es tocado por la experiencia al saberse mover y saberse mirar: “Quiero ir allá abajo, y ya estoy allí, sin que haya entrado en el secreto inhumano de la maquinaria corporal, sin que la haya ajustado a los datos del problema, ni, por ejemplo, al lugar del objetivo definido por su referencia a algún sistema de coordenadas. Miro el objetivo, soy atraído por él, y el aparato corporal hace lo que hay que hacer para que me encuentre allí” (
+            <xref ref-type="bibr" rid="B10">Merleau-Ponty 2006</xref>
+            :75).
+         </p>
+         <p>El cuerpo fenomenológico mira y percibe el mundo en la encarnación de las cosas que se presentan como mundo. Es una relación primordial y singular, por donde la máxima husserliana se hace vivencia: ¡Id a las cosas mismas! La vivencia se realiza y se nos presenta ahí, ya que nuestra mirada permite acceder a las “cosas” como habitándolas y recorriéndolas en un acto de infinitud insospechada, por su permanente significación y referencialidad al retorno del ser, que, por cierto, se hace cuerpo con los sentidos. Parafraseando a Merleau-Ponty, lo visible está siempre detrás, después o entre los aspectos que vemos, el único modo de acceder a ello es mediante una experiencia que, a su vez, se halla totalmente fuera de sí misma. Los sentidos del ser se materializan en los sentidos del hacer cuerpo y realizar el mundo. Por ende, el cuerpo transporta nuevas significaciones más allá de sí mismo, las cuales logran re-organizar la estructura de nuevos pensamientos y experiencias. Esta idea nos remite al cuerpo vivido, al cuerpo experiencia, que logra constituirse en el mundo a través de los sentidos y en nuestro movimiento en el espacio circundante. Esto nos plantea, la co-participación de los sentidos en la experiencia del re-conocer el mundo. Si bien la visión y la videncia es aquella suprema experiencia fenomenológica en la re-presentación de las cosas, el filósofo sostiene que toda traducción y apropiación de las cosas por medio de la vista o el tacto -con los sentidos-, se hace de una vez acontecimiento relacional al constituirse como el propio cuerpo. En otras palabras, cada sentido tiene un espacio o lugar independiente uno de otro. Su unidad aparece como engranaje de conjunto, siendo precisamente la unidad de los sentidos, la manifestación en su diversidad. Se encuentran convocados por una mismidad que permite la co-pertenencia entre ellos. En consecuencia, el cuerpo mira y toca, siente y se sensibiliza bajo un sistema sinérgico de apropiación y reconocimiento del mundo, capaz de penetrar y re-dibujar las cosas como forma de acontecimiento para el encuentro del sentido del sí mismo y para su comprensión en el mundo.</p>
+         <p>
+            En la conciencia, el aparecer del mundo no es el ser, sino el fenómeno. Nos dice al respecto Merleau-Ponty: “no quitamos la síntesis al cuerpo objetivo más que para darla al cuerpo fenomenal, eso es al cuerpo en cuanto proyecta a su alrededor un cierto medio, en cuanto que sus partes se conocen dinámicamente una a otra y que sus receptores se disponen de modo que posibiliten con su sinergia la percepción del objeto” (
+            <xref ref-type="bibr" rid="B8">Merleau-Ponty 1996</xref>
+            :247). Por esto, no puede pertenecer el cuerpo exclusivamente al mundo de la conciencia ya que la co-participación de los sentidos han internalizado el saber preciso que el cuerpo tiene de sí mismo. Es el cuerpo el que siente al desbordarse en la multisensorialidad. Esta unidad, diversificada y diferenciada en cada experiencia con el mundo se manifiesta en tanto que “cada visión monocular, cada palpitación de una sola mano, a la vez que tiene su contenido visible o táctil, está vinculada a cada una de las otras visiones, a cada una de las otras palpitaciones, de modo que forma con ellas la experiencia de un solo mundo gracias a una posibilidad de conversión y paso de su lenguaje al de ellas, de referencia y reciprocidad, en virtud de la cual el pequeño mundo particular de cada una está, no yuxtapuesto al de todas las demás, sino rodeado por él, sacado de él y todos juntos constituyen un Sintiente en general frente a un Sensible en general” (
+            <xref ref-type="bibr" rid="B6">Merleau-Ponty 1970</xref>
+            :176).
+         </p>
+         <p>
+            Es más, la experiencia de la cosa o de la realidad, como señala el autor, una realidad-para-la-vista o una para-el-tacto, corresponden a realidades que han permitido co-existir con el fenómeno, hacerse parte y cargo de la experiencia sentiente, es decir, la cosa nunca puede estar separada de alguien que la perciba. Es esta extraña manera de co-pertenecer lo que posibilita el logro de estar en la unidad de nuestro cuerpo, en conjunto con las cosas y el mundo, y es a partir de dichas co-pertenencias que nuestra visión, nuestro tocar y todos nuestros órganos de los sentidos, se nos aparecen, se nos revelan, se nos des-ocultan. Por otra parte, el aparecer de las cosas para la experiencia sintiente, interpela la condición de una especie de arraigo originario con el mundo y en él. En esta condición de correspondencia, comprende al cuerpo como una entidad sentiente sensible, lo que implica que a la vez es parte del mundo para su revelación y el mundo, es lo que le da el sentido de existencia al cuerpo. Para tan pronto como me he enterado de que me vigilan o veo mi reflejo en una ventana, mi cuerpo adquiere un “halo de visibilidad” y mi mundo interior retrocede. La reversibilidad de la visión es tratada como universal por Merleau-Ponty: mi cuerpo ha evolucionado como “un órgano para ser visto, pero las representaciones que utiliza plantean preguntas inexploradas” (
+            <xref ref-type="bibr" rid="B1">Biernoff 2005</xref>
+            :48).
+         </p>
+         <p>
+            Por lo tanto, ¿existiría un límite entre el cuerpo y el mundo? Al parecer no, ya que en toda sensación sensible ambos se entrelazan, se encarnan, se fusionan de tal manera que ya no podría sostenerse que el cuerpo está en el mundo y la visión u otros sentidos en el cuerpo. Ambos constituyen un único y primordial tejido que Merleau-Ponty nombra con la palabra “carne”. El cuerpo que siente y el cuerpo sentido son el uno en el otro: “nuestra sensibilidad no es un mosaico de cualidades e impresiones que cada uno tiene exclusivamente, carente de contacto con los demás, sino que es unitariamente una afectividad originaria, una atracción y repulsión originarias, una unidad de nuestras impresiones en forma de miedo, belleza, sublimidad, banalidad, trivialidad, insignificancia, que serán capaces de decirnos algo originario” (
+            <xref ref-type="bibr" rid="B12">Patočka 2005</xref>
+            :174).
+         </p>
+         <p>
+            Esta relación significante con las cosas excluye lo determinado o preconcebido, ya que el cuerpo se siente entre las cosas y se hace parte de ellas. El cuerpo vidente que se encuentra en y con las cosas se hace también visible. El cuerpo siente que lo sensible se encarna en él y que a su vez lo sensible es a su mirada una prolongación de su ser. Con esta idea, el mundo se nos aparece y aparece el sentiente. En complemento a lo sostenido “vivir corpóreamente en este mundo significa estar comprometido con él en una experiencia corpóreo-perceptivo-práxica. Esa experiencia perceptiva asegura que el sujeto comprenda el sentido de la situación y ello no proviene de una especie de conciencia ideal que él posea de antemano. La comprensión surge de la propia actuación corpóreo-perceptiva de ese momento, en medio de la situación-que-está-percibiendo-desde-sí: el ser es sinónimo de estar situado. Y en este comportamiento situacional, el sentido es, pues, vivido” (
+            <xref ref-type="bibr" rid="B3">Espinal 2011</xref>
+            :193).
+         </p>
+         <p>Se evidencia el sentir del cuerpo como aquel sentirse sentir entre y con las cosas (mundo encarnado en las cosas) a través del yo como cosa sintiente. Por esto podemos revelar el mundo, comprenderlo y encontrar diversas significaciones que permitan entrar en él y abrir su posibilidad de interpretación y descubrimiento. Dice el filósofo francés, “yo, que veo, tengo también mi profundidad, ya que estoy adosado a lo visible que veo y que sé muy bien que me envuelve por detrás. El espesor del cuerpo, lejos de rivalizar con el mundo, es, por el contrario, el único medio que tengo para ir hasta el corazón de las cosas, convirtiéndome en mundo y convirtiéndolas a ellas en carne” (Merleau-Ponty 1970:169). El autor refiere el concepto de carne no como materia, sino como la sensible experiencia de “enrollarse” lo visible en el cuerpo vidente, lo tangible en el cuerpo que toca en la evidencia cuando el cuerpo se ve, se toca viendo y tocando las cosas. Quizás el mayor abismo es sentir que nuestro sistema sensorial no acota y no agota nuestra percepción de las cosas. Es más, Merleau-Ponty sostiene que “quien ve y quien toca no es exactamente yo mismo, porque el mundo visible y el mundo tangible no son el mundo en su totalidad. Cuando veo un objeto, siempre experimento que aún hay ser más allá de cuanto actualmente veo, no solo ser visible, sino incluso ser tangible o captable por el oído -y no solamente ser sensible, sino también una profundidad del objeto que ninguna captación agotará” (Merleau-Ponty 1996:231).</p>
+         <p>El cuerpo se hace presente -está aquí- cuando entre vidente y visible, entre quien toca y lo tocado, se presentifica el sentido de ese cuerpo que siente en el aparecer de las cosas, es decir, la simultaneidad de su presencia: mostrar cómo las cosas se hacen cosas y el mundo se hace mundo. En consecuencia, para Merleau-Ponty, “tenemos la experiencia, no de una verdad eterna y de una participación al Uno, sino de actos concretos de reanudación mediante los cuales, en el azar del tiempo, trabamos relaciones con nosotros mismos y con el otro, en una palabra, de una participación en el mundo, el ‘ser-de-la-verdad’ no es distinto del ser-del-mundo” (Merleau-Ponty 1996:404). Pues el mundo nos comunica la identidad del sí mismo, nos compromete con él y nos unifica en las situaciones comunes, donde formamos parte de una colectividad que comparte un momento e intención en común. Para Le Breton, el cuerpo en la comunidad del mundo, “en el júbilo del Carnaval, por ejemplo, los cuerpos se entremezclan sin distinciones, participan de un estado en común: el de la comunidad llevado a su incandescencia” (Le Breton 1992:30). Un estado en común que unifica a los cuerpos los pone en un sentido de correspondencia, permitiendo que puedan establecer un contacto directo y una unidad entre más cuerpos.</p>
+      </sec>
+      <sec>
+         <title>Conclusión</title>
+         <p>Desde la interrogante qué significa ser cuerpo se instala una interesante pregunta fenomenológica referida a la experiencia de aquello que la palabra cuerpo nombra y que se encuentra más allá de los significados disciplinares. La noción de cuerpo nos recordaría aquello que des-borda el límite de lo fenomenal, para constituirse como experiencia del toque -límite del cuerpo en los otros cuerpos comunes. Es más, la interrogante señalada se origina desde las ideas de Merleau-Ponty, que ponen en diálogo una suposición que podría cuestionar en el futuro lo siguiente: ¿si el lenguaje expresara tanto por lo que está en las palabras como por las palabras, si apareciera desde el lenguaje común y corriente, el texto del gesto, las significaciones se liberarían totalmente del comercio de los signos y se abriría una posibilidad de pensar las significaciones desde el sentir como aquel toque que interrumpe la razón del sentido significado?</p>
+         <p>Pensar en el cuerpo y todas sus posibilidades de reflexión en nuestro tiempo, nos permiten concluir que el cuerpo tendería a ser un lugar en donde la interioridad sensible del sujeto -como ser consciente de su proximidad a las cosas y al mundo-, hace latente una opción vital y un verdadero reconocimiento fenomenal: estar en el mundo es descubrir(se) que el cuerpo mira y percibe el mundo en la encarnación de las cosas que se presentan como fenómenos del mundo -las hace carne en su encarnación. Nuestra experiencia corpórea, se nos presenta ahí -en el mundo-, ya que nuestros sentidos permiten acceder a las cosas como habitándolas y reconociéndolas. Con esta inspección el cuerpo toma conciencia de su entorno y lo aprehende para sí. Por este motivo, la sensación que se siente ante las cosas interiorizadas tiende a ser intencional ya que el cuerpo encuentra en lo sensible la puesta en marcha de una especie de reflexión, una captación de sí para sí. Esto que se capta convierte al cuerpo en el vínculo del yo y de las cosas percibidas por él para comprender la experiencia cotidiana de ser-en-el-mundo.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Biernoff, S.(2005). "Carnal relations: embodied sight in Merleau-Ponty, Roger Bacon and St Francis".
+               <italic>Journal of Visual Culture. 4</italic>
+               (1), 39-52. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1470412905050889">https://doi.org/10.1177/1470412905050889</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Biernoff</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Carnal relations: embodied sight in Merleau-Ponty, Roger Bacon and St Francis</article-title>
+               <source>Journal of Visual Culture</source>
+               <volume>4</volume>
+               <issue>1</issue>
+               <fpage>39</fpage>
+               <lpage>52</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1470412905050889">https://doi.org/10.1177/1470412905050889"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               De la Vega, D.(2011). "Hombre, ser ex-céntrico. Merleau-Ponty: un giro antropológico para refundar la libertad".
+               <italic>En-claves del pensamiento. 5</italic>
+               (9), 87-109. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/pdf/enclav/v5n9/v5n9a6.pdf">http://www.scielo.org.mx/pdf/enclav/v5n9/v5n9a6.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>De la Vega</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Hombre, ser ex-céntrico. Merleau-Ponty: un giro antropológico para refundar la libertad</article-title>
+               <source>En-claves del pensamiento</source>
+               <volume>5</volume>
+               <issue>9</issue>
+               <fpage>87</fpage>
+               <lpage>109</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/pdf/enclav/v5n9/v5n9a6.pdf">http://www.scielo.org.mx/pdf/enclav/v5n9/v5n9a6.pdf"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Espinal, C.(2011). "El cuerpo: un modo de existencia ambiguo. Aproximación a la filosofía del cuerpo en la fenomenología de Merleau-Ponty".
+               <italic>Co-herencia. 8</italic>
+               (15), 187-217. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://publicaciones.eafit.edu.co/index.php/co-herencia/article/view/610/539">http://publicaciones.eafit.edu.co/index.php/co-herencia/article/view/610/539</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Espinal</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>El cuerpo: un modo de existencia ambiguo. Aproximación a la filosofía del cuerpo en la fenomenología de Merleau-Ponty</article-title>
+               <source>Co-herencia</source>
+               <volume>8</volume>
+               <issue>15</issue>
+               <fpage>187</fpage>
+               <lpage>217</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://publicaciones.eafit.edu.co/index.php/co-herencia/article/view/610/539">http://publicaciones.eafit.edu.co/index.php/co-herencia/article/view/610/539"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Heidegger, M.,  (2007).
+               <italic>Seminarios de Zollikon</italic>
+               . , México: Medard Boss
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Heidegger</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Seminarios de Zollikon</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Medard Boss</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Henry, M.,  (2007).
+               <italic>Filosofía y fenomenología del cuerpo</italic>
+               .  Barcelona: Sígueme
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henry</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Filosofía y fenomenología del cuerpo</source>
+               <publisher-name>Sígueme</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Merleau-Ponty, M.,  (1970).
+               <italic>Lo visible y lo invisible</italic>
+               .  Barcelona: Seix Barral
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Merleau-Ponty</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>1970</year>
+               <source>Lo visible y lo invisible</source>
+               <publisher-name>Seix Barral</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Merleau-Ponty, M.,  (1977).
+               <italic>El ojo y el espíritu</italic>
+               .  Buenos Aires: Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Merleau-Ponty</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>1977</year>
+               <source>El ojo y el espíritu</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Merleau-Ponty, M.,  (1996).
+               <italic>Fenomenología de la percepción</italic>
+               .  Barcelona: Península
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Merleau-Ponty</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>Fenomenología de la percepción</source>
+               <publisher-name>Península</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Merleau-Ponty, M.,  (2002).
+               <italic>El mundo de la percepción</italic>
+               .  Buenos Aires: FCE
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Merleau-Ponty</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>El mundo de la percepción</source>
+               <publisher-name>FCE</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Merleau-Ponty, M.,  (2006).
+               <italic>Elogio de la filosofía</italic>
+               .  Buenos Aires: Nueva Visión
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Merleau-Ponty</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Elogio de la filosofía</source>
+               <publisher-name>Nueva Visión</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Nancy, J.,  (2003).
+               <italic>Corpus</italic>
+               .  Madrid: Arena Libros
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nancy</surname>
+                     <given-names>J-L</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <source>Corpus</source>
+               <publisher-name>Arena Libros</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Patočka, J.,  (2005).
+               <italic>Introducción a la fenomenología</italic>
+               .  Barcelona: Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Patočka</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source>Introducción a la fenomenología</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

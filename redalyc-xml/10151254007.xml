@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.4" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000100089</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Capacidades explicativas de las teorías de integración, dominación e interdepen-dencia en el análisis de los linchamientos</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Explanatory capacity of the theories of integration, domination and interdependence in the analysis of lynching</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-0403-3948</contrib-id>
+					<name>
+						<surname>Quiroz</surname>
+						<given-names>Loreto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original"> (loretoqr@gmail.com) Centro de Estudios de Conflicto y Cohesión Social (Santiago, Chile) </institution>
+					<country>Chile</country>
+					<email>loretoqr@gmail.com</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>58</issue>
+			<fpage>89</fpage>
+			<lpage>102</lpage>
+			<history>
+				<date date-type="received">
+					<day>12</day>
+					<month>10</month>
+					<year>2016</year>
+				</date>
+				<date date-type="accepted">
+					<day>14</day>
+					<month>12</month>
+					<year>2016</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>A través del estudio de los linchamientos, el artículo explora en la capacidad explicativa de algunas de las principales teorías sociológicas sobre integración, dominación e interdependencia para comprender la acción, sin que ello implique interpretaciones totales y recíprocamente excluyentes sobre esas acciones. Por el contrario, se trata de buscar distintas entradas parciales, fragmentos de lo que no son y/o de lo que parcialmente son los linchamientos. El texto observa que la disruptividad de estas acciones respecto de las teorías examinadas podría explicarse en tanto en ellas conciencia y práctica fueron pensadas como oposiciones binarias, que en el mejor de los casos operarían en momentos sucesivos. En estas teorías sociológicas la acción podría explicarse por uno de estos planos o por el otro. Sin embargo, en el caso de los linchamientos es posible que estos dos estratos concurran a explicar la acción de manera conjunta.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The article explores in the explanatory capacity of some of the main sociological theories on integration, domination and interdependence, to understand the action, specifically lynching, without implying total and reciprocally exclusive interpretations of these actions. On the contrary, it tries to look for different partial entries to its explanation, fragments of what lynching are not and/or what they partially are. The text notes that the disruption of these actions in relation with the theories examined could be explained considering that in them, consciousness and practice were developed as binary oppositions. This would at best operate in successive moments, but in these cases the action could be explained by either one of these levels. In the lynching case, it is possible that these two strata explain the action jointly.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>linchamientos</kwd>
+				<kwd>acción</kwd>
+				<kwd>integración</kwd>
+				<kwd>dominación</kwd>
+				<kwd>interdependencia</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>lynching</kwd>
+				<kwd>action</kwd>
+				<kwd>integration</kwd>
+				<kwd>domination</kwd>
+				<kwd>interdependence</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>CONICYT/FONDAP</funding-source>
+					<award-id>15130009</award-id>
+				</award-group>
+				<funding-statement>CONICYT/FONDAP/15130009</funding-statement>
+			</funding-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="25"/>
+				<page-count count="14"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Los linchamientos han sido definidos como: &quot;una acción colectiva, punitiva, que puede ser anónima, espontánea u organizada, con diferentes niveles de ritualización, que persigue la violencia física sobre individuos que presumiblemente han infringido una norma, sea esta formal o virtual (es decir instituida por la colectividad), y que se encuentran en considerable inferioridad numérica&quot; (<xref ref-type="bibr" rid="B10">Fuentes, 2011</xref>:125). Para la comprensión de estas acciones este trabajo explora en la trama entre conciencia y práctica que le da sentido a los linchamientos.</p>
+			<p>En el contexto de finales del siglo XIX y principios del siglo XX en los Estados Unidos, momento en que las relaciones raciales en el país se encontraban en un profundo proceso de cambio a raíz de los efectos de la guerra de secesión, los linchamientos son interpretados como una estrategia utilizada por los blancos para mantener la subalternidad de la población negra: &quot;En el sur de los Estados Unidos el objetivo de los linchamientos era mantener a la población negra en los límites de su casta&quot; (<xref ref-type="bibr" rid="B16">Martins, 1995</xref>:297, traducción propia). Estas acciones tendrían entonces un carácter marcadamente conservador y racista. </p>
+			<p>En el territorio latinoamericano muchas veces estas acciones se han asociado &quot;al mundo rural y a la presencia residual del derecho indígena como mecanismo de los sectores populares para reapropiarse ilegalmente [...] de la potestad jurídica que debería detentar el Estado&quot; (<xref ref-type="bibr" rid="B14">González, Ladeuix y Ferreyra, 2011</xref>:169). Los linchamientos son explicados entonces como manifestaciones de procesos de modernización defectuosos. Este abordaje presenta el inconveniente de no dar cuenta adecuadamente de la ocurrencia de estas acciones en espacios de tránsito en las ciudades, cuando el único lazo común entre los actores es justamente participar del linchamiento.</p>
+			<p>Sin embargo también existen interpretaciones que nos sirven para comprender los linchamientos que se producen en espacios de tránsito, así por ejemplo cuando se explican los linchamientos como &quot;manifestación de una subjetividad que se ha conformado en un orden que no se inserta en el marco estatal y que tiende a disiparlo&quot; (<xref ref-type="bibr" rid="B10">Fuentes, 2011</xref>:136), o cuando se señala que &quot;la cohesión social expresada en el linchamiento reflejaría únicamente el consenso social del combate a la delincuencia, más no un acuerdo que trabaje un proyecto de mejorar la calidad de vida a través de construir nuevas formas de convivencia ciudadana, los fenómenos de violencia colectiva sólo responderían al discurso de la seguridad ciudadana&quot; (<xref ref-type="bibr" rid="B21">Santillán, 2008</xref>:68). En sentido similar, respecto de Venezuela se indica que estas acciones no implican &quot;un reforzamiento de vínculos sociales, sino más bien la imposición de controles privados, que alejan la posibilidad de la organización comunitaria&quot; (<xref ref-type="bibr" rid="B20">Romero y Rujano, 2007</xref>:141). En Argentina se destaca como una de las principales características de estas acciones su objetivo de interpelación hacia el Estado y otros actores públicos (medios de comunicación), &quot;en pos de garantizar que el delito cometido no permanezca impune&quot; (<xref ref-type="bibr" rid="B14">González et. al., 2011</xref>:172), el accionar desplegado mostraría objetivos prácticos y límites. Para el caso mexicano se señala que estas acciones &quot;son una de las formas que fragmentos de la sociedad utilizan para indirectamente linchar a las autoridades y sus símbolos&quot; (<xref ref-type="bibr" rid="B19">Rodríguez y Mora, 2008</xref>:64), la acción es también rechazo a la corrupción e impunidad. En términos similares se comprenden fenómenos emparentados con los linchamientos, así por ejemplo los grupos de defensa comunitaria se explican &quot;en un contexto signado por un Estado omiso, transformaciones económicas que dan soporte a una mayor vulnerabilidad social, condiciones de vida precaria y actividades delictivas del crimen organizado&quot; (<xref ref-type="bibr" rid="B11">Fuentes, 2014</xref>:1).</p>
+			<p>El linchamiento se realiza en contextos de una doble precariedad: &quot;por un lado, con la existencia de un Estado débil (ausente, deslegitimado, ineficiente) y, por otro, con la presencia de una sociedad civil endeble con capital social frágil (fragmentada, diversa)&quot; (<xref ref-type="bibr" rid="B4">Carrión 2008</xref>:1). En sentido similar se identifican los linchamientos como &quot;actos de pobres contra pobres, unos y otros compartiendo la misma falta de justicia institucional&quot; (<xref ref-type="bibr" rid="B9">Fuentes, 2006</xref>:417).</p>
+			<p>En el caso chileno se ha señalado que los linchamientos se relacionan con el Derecho de manera paradójica, en tanto se presentan en contradicción con el canon del derecho moderno, sin embargo, apelan, involucran y/o comprometen la intervención de este. Se ha sugerido &quot;la posibilidad de estar asistiendo a la emergencia de un proceso de normalización de estas acciones&quot; (<xref ref-type="bibr" rid="B18">Quiroz, 2015</xref>:87). Aun cuando es necesario advertir que la información examinada, esto es notas de prensa, solo permite visibilizar una especie de normalización situada, en tanto no contiene evidencia que permita afirmar la validación de estas acciones más allá del momento y el espacio en el que estas acontecen. Esto sugiere la posibilidad de una cierta administración de los linchamientos, en tanto ilegalismos. Esto tanto por parte de quienes ejercen la violencia implicada en ellos, como por parte de los operadores del derecho del Estado, administración que apunta a sacar provecho de estos.</p>
+			<p>Los linchamientos constituirían una forma de señalar que los límites han sido rotos y que es necesario restablecerlos, son expresión de la ruptura de los códigos morales que vinculan sociedad y autoridad, lo que Durkheim denomina anomia. Los linchamientos resultan un objeto de observación pertinente para dar cuenta de ello en la medida en que apuntan a lo microsocial, nivel en que se manifiestan los efectos de los procesos macrosociales, macroeconómicos y macropolíticos, a partir de los que la mayoría de la gente construye sus juicios de legitimidad, en tanto es en este nivel en el cual se &quot;posee o espera poseer alguna capacidad de decisión&quot; (<xref ref-type="bibr" rid="B23">Vilas, 2001</xref>:134).</p>
+			<p>Dado que en &quot;una gran proporción de problemas empíricos, en el campo de la acción, están implicado más de un de estos sistemas teóricos, se sigue de ello que no cabe esquivar la cuestión de sus relaciones&quot; (<xref ref-type="bibr" rid="B17">Parsons, 1984</xref>:919). En razón de lo anterior, para optimizar el rendimiento explicativo de las teorías sociológicas sobre integración, dominación e interdependencia para explicar la acción, no se busca identificar las normalidades o anomalías que podrían representar los linchamientos, respecto a los sistemas de significado que se construyen a través de estos conceptos. Por el contrario, lo que propone el ensayo es explorar en la capacidad explicativa de estas nociones, intentando ponerlas en relación. Para ello los esquemas interpretativos propuestos por los distintos autores examinados no pueden ser considerados como un bloque, en el que estas acciones deban encajar, sino que se los tomará como constelaciones de conceptos que pueden operar en diversos estratos. De esa manera el carácter disruptivo con el que emergen los linchamientos, luego de su testeo inicial a la luz de las teorías examinadas, deviene en una acción posible de ser interpretada sociológicamente a partir de la ilación de fragmentos de explicaciones parciales.</p>
+		</sec>
+		<sec>
+			<title>Posibles explicaciones a la luz de la noción de integración. Teoría de la acción racional, anomia y solidaridad mecánica en los linchamientos</title>
+			<p>Teniendo como punto de partida la vigencia de una sociedad marcada por la diferenciación funcional, hay autores que centran su mirada en la cuestión de la integración. Es decir, analizan las dinámicas sociales de acuerdo a como estas se orientan a la integración social. </p>
+			<p>Para Parsons las acciones se coordinan a pesar de la contingencia de las interacciones humanas, en el sentido que se encaminan hacia la integración y a la estabilización de lo social. A su vez, lo que explica esa coordinación de las acciones es la existencia de normas y valores compartidos, que han sido internalizados en los procesos de socialización. Lo que orienta las acciones son los fines: &quot;es imposible incluso hablar de la acción en términos que no impliquen una relación medio-fin&quot; (<xref ref-type="bibr" rid="B17">Parsons, 1984</xref>:890), los que se alcanzan a través de medios disponibles, según los criterios normativos que orientan la acción. Los linchamientos, al estar orientados a un fin consistente en el castigo al infractor de una norma, parecieran encajar llanamente en la teoría de la acción de Parsons. Tanto porque de su definición se desprende que están orientados por lo normativo, como porque poseen claramente un fin. </p>
+			<p>Sin embargo, el asunto se vuelve más complejo si consideramos que se trata de acciones vehiculadas por la violencia, es decir, llevadas a cabo mediante prácticas violentas. Medio que la institucionalidad contemporánea tiene la pretensión de erradicar de las relaciones sociales, a través del monopolio de la coacción pretendido por los Estados Modernos. Lo problemático son entonces los medios utilizados en estas acciones. En la teoría de la acción de Parsons la institucionalización es el mecanismo de integración por excelencia, entonces en los linchamientos existiría un diferencial, y más aún una abierta contradicción, entre el ideal institucional de los Estados Modernos y estas acciones. </p>
+			<p>De acuerdo con Parsons la elección de los medios para la ejecución de la acción se realiza teniendo en consideración un universo de medios seleccionables. Estos no resultan disruptivos respecto al plano normativo. Solo estos medios pueden ser considerados legítimos a objetos de lograr los fines. En razón de lo anterior, si intentamos comprender los linchamientos al alero de la teoría de la acción racional de Parsons, la violencia entonces no debiera resultar disonante del plano normativo. Y en tanto este es el plano de la acción que permite la integración, la violencia, en la medida en que los linchamientos emergen con cierto grado de normalización, estaría jugando un papel ahí. La violencia sería parte de las normas y valores que permiten una sociedad integrada y estable. La violencia sería parte constitutiva del orden, en la medida que hay orden porque hay valores y hay normas internalizadas por procesos de socialización que pre-estructuran la acción social y explican la coordinación. Son las normas y valores los que definen los medios permitidos y prohibidos y estructuran los fines de la acción. La violencia entonces aparece como un medio permitido por las normas y valores que actúan como marco de referencia para la acción. </p>
+			<p>La emergencia de una cierta sistematicidad y de asomos de normalización de estas acciones, podría constituir un indicio respecto a que la socialización de los sujetos que participan de los linchamientos está mediada por prácticas violentas, entonces, la violencia emerge como parte del entramado que facilita la coordinación y la integración.</p>
+			<p>Se debe precaver, sin embargo, que una interpretación como la anterior implica atribuirle una dosis de racionalidad muy importante a las acciones de linchamiento. Supone que todo individuo que participa de estas acciones ha sido socializado en prácticas que incluyen la violencia como una cuestión normalizada y que entonces la conceptualizan como un medio de acción elegible. ¿Cómo podríamos explicar la acción de linchamiento entonces en contextos en que la violencia no se encuentra normalizada, cuando de ella participan sujetos que no utilizan la violencia cotidianamente?</p>
+			<p>Se podría salvar esa necesidad de atribuirle a los linchamientos el carácter de acción racional, no obstante seguir intentando comprenderlas al alero de la idea de lo social como dinámicas de integración. Los linchamientos podrían ser vistos como manifestaciones de mecanismos de integración impropios de sociedades funcionalmente diferenciadas. Nos referimos a lo que Durkheim identificó como solidaridad mecánica. Mecanismo de integración preeminente en sociedades pre-modernas que se basa en la semejanza entre los individuos: los sujetos se confunden en una conciencia colectiva. Pareciera que ese fuera el mecanismo que emerge de los linchamientos, en tanto en estas acciones el colectivo que participa como sujeto activo aparece como indiferenciado, como una especie de muchedumbre, que se vincula por el interés común de castigar la infracción a una norma. </p>
+			<p>Esta forma de solidaridad puede ser comprendida como un residuo de otras épocas, que se explica porque &quot;el funcionamiento de la justicia represiva tiende siempre a permanecer más o menos difuso&quot; (<xref ref-type="bibr" rid="B7">Durkheim, 1995</xref>:90) por responder a sentimientos colectivos. En razón de lo anterior las causas de la represión difusa, a la que podrían asimilarse los linchamientos, serían las mismas que acompañan la represión organizada. Estas no se oponen, y la ocurrencia de linchamientos podría no ser más que la manifestación de atávicas maneras de ser del derecho penal. En consonancia con lo anterior, es posible explicar los linchamientos como mecanismos de integración, sin que sea necesario atribuir al sujeto que participa de estas acciones plena racionalidad en su actuar (elección de medios y fines). Así los linchamientos pueden, en principio, parecer poco problemáticos en contextos modernos. </p>
+			<p>Sin embargo, cabe hacer presente que, de acuerdo al mismo Durkheim, para el caso de la sociedad contemporánea, en tanto sociedad altamente diferenciada, la forma predominante de integración corresponde a la solidaridad orgánica, la que se manifiesta a través de mecanismos de integración en razón de la diferencia. Los mecanismos de integración propios de la solidaridad mecánica son funcionales a sociedades con escaza diferenciación. De ahí entonces que, siguiendo a Durkheim, los linchamientos podrían ser explicados como una manifestación de anomia. En estas acciones el colectivo que pretende sancionar la infracción a una norma aparece situado en una especie de intersticio respecto de la autoridad llamada a procesar la sanción, la que debiera intervenir a través del sistema jurídico del Estado moderno. </p>
+			<p>Lecturas de este tipo sobre la teoría de la acción de Parsons y Durkheim implican entradas a los linchamientos que ven estas acciones en déficit con respecto a la integración, es decir, se explicarían estas acciones como un distanciamiento de los individuos respecto de lo social, colectivo.</p>
+			<p>Sin embargo, esta entrada es puesta en tensión si consideramos que la institucionalización en los procesos de socialización de los sujetos, cuestión medular a la hora de explicar la acción, sobre todo en Parsons, en ciertas sociedades es una cuestión relativa o incluso es más bien un ideal que difiere de la realidad. De esta realidad dan cuenta por ejemplo <xref ref-type="bibr" rid="B6">De Soto (2006</xref>) en Perú y <xref ref-type="bibr" rid="B1">Araujo (2009</xref>) en América Latina en general. En este mismo sentido <xref ref-type="bibr" rid="B12">García refiere a &quot;la ineficacia del Derecho en América Latina&quot; (García, 2011</xref>:161). Si a ello agregáramos además que, en ciertos territorios del subcontinente latinoamericano, en paralelo a esa realidad, la violencia está normalizada como medio legitimo a objeto de lograr el fin perseguido por la acción, podríamos salvar el problema que nos plantea la violencia como medio regular para desarrollar la acción: &quot;Salvo la ocasional patrulla motorizada de policías fuertemente armados, el Estado -y el Derecho-, están del todo ausentes. Como también lo están en tantos barrios de tantas ciudades de América Latina&quot; (<xref ref-type="bibr" rid="B15">Lemaitre, 2011</xref>:47). Esta deficiencia en el arraigo de las instituciones en lo social, resulta coincidente con lo planteado por Araujo respecto a la autoridad en una sociedad latinoamericana como la chilena: &quot;no es la creencia en la legitimidad de quién ejerce la autoridad el factor decisivo que asegura la eficiencia en el mando, sino que es la eficacia en el mando [...] lo que permite la autoridad&quot; (<xref ref-type="bibr" rid="B2">Araujo, 2016</xref>:193). Para la autora la obediencia no es concebida como dependiendo ni única ni principalmente en la creencia en la legitimidad de quién la ejerce: la autoridad está asentada en las formas de su ejercicio, las que deben ser por sobre todo efectivas, es posible inferir de ahí que lo institucional no es determinante para guiar la acción de los individuos frente a la autoridad.</p>
+			<p>A través de los linchamientos se observa que la acción, a la vez que emerge como un mecanismo de solidaridad mecánica, fuera de la institucionalidad contemporánea, desafiante de la pretensión de erradicar la violencia las relaciones sociales, da cuenta de la institucionalización de los sujetos, a través por ejemplo de la apelación a la intervención del derecho y/o de la interpelación a la autoridad que estas acciones representan. Los linchamientos entonces resultan ser acciones que explicitan que la institucionalización es un proceso en constante movimiento, que la institucionalización no excluye la no-institucionalización, sino que pueden constituir modalidades complementarias de socialización, de guías de conducta, que si bien es cierto la institucionalización de los sujetos puede explicar la acción, también hace visibles las tensiones de los procesos de integración.</p>
+		</sec>
+		<sec>
+			<title>Posibles explicaciones a la luz de la noción de dominación. Burocratización, campos y <italic>habitus</italic> en los linchamientos</title>
+			<p>Teniendo también como punto de partida la vigencia de una sociedad marcada por la diferenciación funcional, hay autores que centran su mirada en la cuestión de la dominación como idea central que sirve para describir, explicar y comprender las dinámicas sociales.</p>
+			<p>Uno de los autores que se inscribe en esta mirada es Pierre Bourdieu. Para Bourdieu la idea de dominación constituye el eje explicativo que atraviesa las nociones de campo y de <italic>habitus</italic> . Entendiendo los campos como espacios topológicos constituidos por relaciones sociales, estos se pueden comprender como semejantes a las estructuras. El <italic>habitus</italic> por su parte se entiende como el &quot;sistema socialmente constituido de disposiciones estructuradas y estructurantes adquirido mediante la práctica y siempre orientado a funciones prácticas&quot; (<xref ref-type="bibr" rid="B3">Bourdieu y Wacquant, 1995</xref>:83). La dominación es lo que explica la correspondencia entre los sistemas sociales (campos) y las disposiciones de los agentes (<italic>habitus</italic> ).</p>
+			<p>En razón de lo anterior, y considerando la definición de linchamiento, podemos estimar que estos constituyen acciones que se adscriben al campo de la administración de justicia y entonces, el <italic>habitus</italic> que correspondería observar ahí (que permitiría reproducir el campo y sintonizarlo con las disposiciones de los sujetos) debiera ser coincidente con los tipos de relaciones que debieran observarse en ese campo. </p>
+			<p>A su vez en la sociología de Weber la dominación es entendida como un estado de cosas por el cual una voluntad manifiesta del dominador o de los dominadores influye sobre los actos de los otros, dominados, &quot;de tal suerte que en un grado socialmente relevante estos actos tienen lugar como si los dominados hubieren aceptado por sí mismos y como máxima de su obrar el contenido del mandato&quot; (<xref ref-type="bibr" rid="B25">Weber, 1997</xref>:699). En particular la dominación en la que Weber centra su atención es la relativa a las formas de gobierno. </p>
+			<p>Para Weber la dominación puede fundarse en diversos motivos, es decir, puede ser legítima en virtud de diferentes principios. Pero el modo de dominación preeminente en la modernidad se justifica por el principio de legitimación legal. En el caso de la dominación legal se obedece a la regla y el que ordena también obedece al emitir una regla: &quot;Caen por supuesto bajo el tipo de la dominación legal [...] la estructura moderna del Estado&quot; (<xref ref-type="bibr" rid="B25">Weber, 1997</xref>:707). Se obedece los mandatos de la autoridad porque sus órdenes se originan en la ley, de acuerdo con sus procedimientos y las competencias que esta prescribe.</p>
+			<p>Si tomáramos al pie de la letra la teoría del Estado, la teoría del derecho y la noción de dominación de Weber, si pensamos estas nociones como relaciones sociales que constituyen el campo de administración de justicia, como mecanismos de dominación, y sobre ello instalamos la noción de <italic>habitus</italic> de Bourdieu, deberíamos observar que las acciones que se dan dentro del campo de la administración de justicia corresponden a un <italic>habitus</italic> , marcado por procesos altamente racionalizados, desarrollados con la anuencia y colaboración de los agentes, llevados a cabo por un aparato burocrático profesionalizado. Lo que se traduce en el sometimiento del infractor a un procedimiento reglado, orientado a probar la infracción, guiado por un tercero profesional, ajeno al conflicto y revestido de autoridad legal, entre otras características sobresalientes. Sin embargo, las prácticas observadas en los linchamientos resultan beligerantes con todo lo señalado. Cuestión que podría estar dando cuenta de una distancia con el principio de legitimación legal. </p>
+			<p>No obstante, las acciones de linchamiento pueden explicarse igualmente al alero de la idea de <italic>habitus</italic> , si comprendemos esta noción como un sistema abierto de disposiciones, enfrentado de continuo a experiencias nuevas y, en consecuencia, afectado sin cesar por ellas: el <italic>habitus</italic> &quot;no como la idea de una costumbre repetitiva y mecánica sino como una relación activa y creadora con el mundo&quot; (<xref ref-type="bibr" rid="B3">Bourdieu y Wacquant, 1995</xref>:84). </p>
+			<p>Puede ser entonces que el <italic>habitus</italic> , que aparece disruptivo frente al campo de la administración de justicia, es portador de disposiciones adquiridas mediante la práctica, que difieren de las relaciones sociales que constituyen el campo como mecanismo de dominación. La burocratización es lo que las prácticas de linchamiento pasan por alto y la burocratización constituye justamente el instrumento de socialización de las relaciones de dominación. Este &quot;ha sido y es un recurso de poder de primera clase para aquel que dispone del aparato burocrático&quot; (<xref ref-type="bibr" rid="B25">Weber, 1997</xref>:741). </p>
+			<p>No se trata de una no racionalidad de la acción, justamente porque las acciones no siempre están cubiertas por la racionalidad. Se trata de un <italic>habitus</italic> distinto, el que incluye la violencia como mecanismo de solución de conflictos. Lo que se podría explicar porque quizá la violencia en las interacciones personales si está incluida en el <italic>habitus</italic> de los agentes que participan de estas acciones, ya sea porque la transfieren de otras experiencias, ya sea porque su experiencia práctica de administración de justicia la incluye. Se trataría de disposiciones, &quot;inclinaciones a percibir, sentir, hacer y pensar de cierta manera no consciente, por parte de cada individuo, debido a sus condiciones objetivas de existencia y a su trayectoria social&quot; (<xref ref-type="bibr" rid="B5">Corcuff, 2013</xref>:43). </p>
+			<p>Sin embargo, en las prácticas asociadas a los linchamientos para el caso chileno observamos que también se llama a la operación del sistema de administración de justicia del Estado, esto por ejemplo en la &quot;apelación a la intervención de la policía&quot; (<xref ref-type="bibr" rid="B18">Quiroz, 2015</xref>:80). Desde la perspectiva de Weber esto puede entenderse porque todas las esferas de la acción comunitaria (no burocratizadas), estarían profundamente influidas por las formas de dominación: &quot;la 'dominación' es uno de los más importantes elementos de la acción comunitaria&quot; (<xref ref-type="bibr" rid="B25">Weber, 1997</xref>:695). </p>
+			<p>Esta vinculación de los linchamientos con el sistema burocrático del Estado puede poner en relación estas acciones con el principio de legitimidad legal. Podría tratarse, sin embargo, más bien de una aspiración a la vigencia social de ese aparato, por parte de los linchadores, que de una manifestación efectiva del principio de legitimación legal en las prácticas de los agentes. Se trata de dos planos distintos, el de la acción propiamente tal de los agentes, el de las prácticas, y el de la aspiración de los sujetos, el de la conciencia. Sin embargo, como estos dos planos emergen diacrónicamente, primero linchamientos y luego apelación a la intervención de la policía, pueden conducir a confundirnos respecto del principio de legitimidad que puede estar operando en la acción misma. </p>
+			<p>En realidad, la pregunta de Weber sobre el principio de obediencia, es decir, la pregunta por el principio de legitimidad en estas acciones, queda fuera de lugar. Ello justamente porque lo que se observa a través de ellas es que no hay obediencia, por tanto, el mandato de la autoridad, la dominación legal, no está siendo efectiva. Ello sin embargo no alcanza para conducirnos necesariamente a la lectura de estas acciones como ejercicios de emancipación, justamente porque aun cuando el principio de legitimación legal no está operando, igualmente existen indicios que permiten observar que no se deja de aspirar a él. </p>
+			<p>La emergencia de la desobediencia, podría explicarse por algo que el mismo Weber reconoce: &quot;En particular, deja insatisfecha a las masas desposeídas la 'igualdad jurídica' formal y la justicia y el gobierno 'calculables', tal como lo exigen los intereses 'burgueses'&quot; <xref ref-type="bibr" rid="B25">(Weber, 1997</xref>:735). A su vez, desde la perspectiva de Bourdieu, la vinculación de estas acciones con el aparato burocratizado de administración de justicia del Estado puede entenderse si pensamos que las formas de dominación deben tomar un sentido positivo o volverse naturales, &quot;de modo que los propios dominados, adhieran al orden dominante, mientras pasan por alto su carácter arbitrario&quot; (<xref ref-type="bibr" rid="B5">Corcuff, 2013</xref>:46). </p>
+			<p>Asimismo, las acciones pueden resultar disruptivas del <italic>habitus</italic> necesario para reproducir pacíficamente las relaciones de dominación al interior del campo de la administración de justicia, porque los campos, aun cuándo estructuran el <italic>habitus</italic> , también son escenarios de lucha. &quot;Allí los agentes se enfrentan para transformar o preservar esas correlaciones de fuerzas&quot; (<xref ref-type="bibr" rid="B5">Corcuff, 2013</xref>:45) y la constricción del campo nunca alcanza a determinar por completo el <italic>habitus</italic> . Los linchamientos, en tanto acciones de los dominados, ambivalentes en relación a las estructuras de dominación, parecieran moverse entonces entre las restricciones del campo y ciertos márgenes de autonomía.</p>
+		</sec>
+		<sec>
+			<title>Posibles explicaciones a partir de explicaciones centradas en la interdependencia. Interacción y tensión en los linchamientos</title>
+			<p>Al igual que en los casos de las teorías de la integración y la dominación, la teoría centrada en la interdependencia tiene como premisa una sociedad contemporánea marcada por la diferenciación funcional. Aquí la idea central que sirve para describir, explicar y comprender las dinámicas sociales contemporáneas, es interdependencia. </p>
+			<p>Desde esta perspectiva los linchamientos resultan llamativos en tanto constituyen formas de interacción que sancionan, violencia mediante, al supuesto infractor de una norma, sin obedecer a marcos regulatorios que sean el fruto de un poder central.</p>
+			<p>Siguiendo a Elías, en la edad media todo ello se podía entender a partir de la escaza interdependencia entre individuos y territorios, y en consecuencia de la existencia bajos grados de integración orgánica de grupos humanos de gran extensión. Esta estructura social implica que la realidad de los sujetos está dada solo por su entorno inmediato, de ahí que resulte suficiente la existencia de daño y la designación de un adversario, sin que fuese necesaria la activación en un orden que contuviese categorías y conceptos que aludieran a estructuras regulatorias más complejas para resolver los conflictos. Los linchamientos constituyen entonces formas de interacción social que estarían dando cuenta de la escasa integración e interdependencia de los sujetos que participan de ellos. </p>
+			<p>En razón de lo señalado la posibilidad de una normalización de estas acciones aparece como una anomalía en sociedades modernas. Esto por cuanto la idea del arribo a lo moderno se funda sobre la base de procesos que tienden a una creciente diferenciación funcional, y consiguiente interdependencia de los sujetos en sociedad, circunstancias que generan dinámicas tendientes a la monopolización del poder y la violencia: &quot;Lo que da su carácter especial y único al proceso civilizatorio de Occidente es el hecho de que, por primera vez en la historia, se haya llegado [...] a tal estabilidad en los monopolios de la violencia física&quot; (<xref ref-type="bibr" rid="B8">Elías, 2009</xref>:551). </p>
+			<p>Sin embargo, estas acciones podrían explicarse en tanto en toda sociedad desarrollada y diferenciada, a partir de una cierta fase del proceso, la dependencia del poder central puede convertirse en su contrario: &quot;Cuanto mayor es la cantidad de personas que incurren en dependencia, debido al juego del mecanismo monopólico, mayor es su fuerza social&quot; (<xref ref-type="bibr" rid="B8">Elías, 2009</xref>:417). De acuerdo a lo anterior, en los términos en los que lo plantea Elías, los pocos monopolistas del poder, para la conservación y administración de ese poder, dependen del entramado de personas que están subordinados a ellos. De ahí que no puedan libremente anular o reprimir acciones que representan el sentir de un conjunto de personas, aun cuando se trate de grupos que no participan de la administración de las oportunidades monopolizadas del poder. </p>
+			<p>En el ámbito de la administración de justicia, esto permite visibilizar las diferentes, y eventualmente divergentes, formas de resolución de conflictos sociales, como manifestaciones de los vaivenes en las relaciones de poder entre los subordinados y los monopolistas del poder, en sus respectivas relaciones de interdependencia. En este punto es preciso destacar que el mismo Elías señala que el derecho &quot;es una función de la estructura social, una expresión de las relaciones sociales de fuerza, un símbolo del grado de dependencia y vinculación de los diversos grupos sociales&quot; (<xref ref-type="bibr" rid="B8">Elías, 2009</xref>:372).</p>
+			<p>El aumento de la autonomía de los subordinados, a partir de ciertas fases de desarrollo de la sociedad, abre la posibilidad de ocurrencia de acciones que manifiesten la erosión de las estructuras propias del poder de la modernidad. Esto es, acciones que friccionen las tendencias a la monopolización del poder y a la erradicación de la violencia de las interacciones sociales. Respecto del por qué esta autonomía podría manifestarse en formas de interacción social mediadas por la violencia, podría señalarse que esta nunca ha sido completamente desterrada de los espacios de interacción social, es más, resulta funcional en ciertas circunstancias y por ende los individuos no auto reprimen siempre su uso. </p>
+			<p>En este sentido conviene destacar que &quot;en la tradición liberal de las revoluciones burguesas el derecho aparece como un límite a la violencia&quot; (<xref ref-type="bibr" rid="B15">Lemaitre, 2011</xref>:51), sin embargo, la mayoría de las veces este predicado de la filosofía política tiene una vigencia social solo relativa. Así por ejemplo, &quot;en América Latina existe una enorme brecha entre, por un lado, las normas escritas, las que enseñan los profesores en las facultades de derecho, las que promulgan los legisladores y aplican los jueces y, por el otro, los comportamientos de la gente, incluyendo en el de esos profesores y esos legisladores&quot; (<xref ref-type="bibr" rid="B12">García, 2011</xref>:177). En particular en una sociedad latinoamericana como la chilena desde el arribo a la democracia, en la década de los 90, se observa una creciente e insistente apelación a la noción de Estado de Derecho y al principio de legitimidad legal, como marco de referencia de las interacciones sociales. Este discurso puede leerse como un intento de distinción de la clase política que ejerce el poder desde ese entonces, con respecto a la dictadura que la antecedió, y se sintetiza en la frase insistentemente utilizada por Ricardo Lagos durante su gobierno &quot;las instituciones funcionan&quot;, expresión transformada en un lugar común y acuñada posteriormente en forma de mandato: &quot;hay que dejar que las instituciones funcionen&quot;. </p>
+			<p>Podría pensarse que este discurso opera como un ideal, el que es acompañado en la realidad social, de una relativa o total exclusión del marco del Estado de Derecho de ciertos grupos. Exclusiones que se explican a partir de las desigualdades sociales y económicas y que implican una afección de las motivaciones cognitivas, instrumentales y morales que tienen todos los individuos, incluidos y excluidos, para actuar conforme al Estado de Derecho: &quot;un nivel mínimo de igualdad social y económica entre los individuos es crucial para [...] la existencia misma del Estado de Derecho&quot; (<xref ref-type="bibr" rid="B24">Vilhena, 2011</xref>:34). </p>
+			<p>A partir de esta falta de motivación para actuar conforme al Estado de Derecho, el que queda relegado a la categoría de ideal, y a la relativa autonomía que emerge a partir de cierta fase del desarrollo y diferenciación de la sociedad, es posible comprender la tendencia hacia la fragmentación y/o descentralización de las formas de regulación de las interacciones sociales, aún en contextos generales de altos niveles de interdependencia social. Es así como puede entenderse que siempre exista la posibilidad que &quot;la interacción social [...] puede llegar a una interrupción confusa y embarazosa: la situación deja de estar definida, las posiciones previas se vuelven insostenibles, y los participantes se encuentran sin un curso de acción claramente trazado&quot; (<xref ref-type="bibr" rid="B13">Goffman, 2006</xref>:258). La tendencia a la fragmentación se hace visible como la otra cara de los niveles crecientes de libertad propios de las sociedades complejas: &quot;los individuos liberados de sus ataduras históricas desearon ahora distinguirse los unos de los otros&quot; (<xref ref-type="bibr" rid="B22">Simmel, 2005</xref>:10).</p>
+			<p>El eterno devenir de los procesos de transformación social al que refiere Elias se hace manifiesto y la sociedad aparece entonces, no como una configuración dada, sino como un proceso de integración que se encuentra en tensión permanente. </p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones </title>
+			<p>Las nociones de integración, dominación e interdependencia en las que se centran distintas teorías para explicar lo social permiten diferentes entradas a posibles explicaciones de los linchamientos. Esas entradas, sin embargo, no consisten en subsunciones simplistas de estas acciones en tales teorías. Por el contrario, observamos que los linchamientos no pueden entenderse pacíficamente como acciones sociales en el sentido utilizado por Parsons. Que no encajan como actos que reflejan el principio de legitimidad de legal de Weber. Por su parte la noción de <italic>habitus</italic> de Bourdieu solo sirve como entrada para explicar los linchamientos en la medida en que se haga un uso de ella que apele a su aspecto menos explicado, esto es, como dar cuenta de los procesos de cambio. La noción de interdependencia como lo propio del proceso civilizatorio tampoco explica llanamente acciones que aparecen, en principio, como acotadas espacial y temporalmente.</p>
+			<p>La utilidad de mirar estas acciones a través de los esquemas explicativos que se centran en la noción de integración, consiste justamente en hacer patente el carácter disruptivo con el que emergen los linchamientos, frente a una teoría centrada en la integración. Podríamos señalar entonces que el rendimiento explicativo de los aspectos abordados en las teorías de la integración, con respecto a los linchamientos, consiste en que a través de dicho ejercicio se puede dar cuenta de lo no-pacífico, sino por el contrario, lo conflictivo que resulta comprender la acción en esos procesos de integración. Si la acción se explica por la función que cumple, quizá los linchamientos se explican porque hacen manifiesta la tensión las dinámicas de integración. Su función es disruptiva y no integrativa, función que es impensable en la teoría de la acción de Parsons y problemática en la teoría de Durkheim.</p>
+			<p>El sujeto aparece tensionado en los procesos de integración: &quot;El fenómeno que está en el centro de la condición moderna es el encuentro violento entre el mundo interno del individuo y el mundo externo de la sociedad y las ciudades&quot; (<xref ref-type="bibr" rid="B22">Simmel, 2005</xref>:1). Siguiendo a Simmel es posible afirmar que es ese problemático encuentro el que podría explicar lo disruptivo de los linchamientos, ese mundo interno cruzado por los procesos de individuación, detalles, impulsos irracionales, instintivos y voluntariosos, y ese mundo externo cruzado por relaciones racionales, fungibles, medibles, relaciones sin embargo necesarias para la integración del sujeto a la complejidad de lo social. Así puede entenderse la pulsión de la violencia presente y, sin embargo, administrada en los linchamientos, así puede explicarse su condición de intersticio respecto de las instituciones propias del Estado moderno y sin embargo la apelación y/o interpelación a dichas instituciones en su desarrollo.</p>
+			<p>Por otra parte, observados los linchamientos desde la perspectiva de la dominación, estos aparecen como prácticas disruptivas. Ello por cuánto no responden a las estructuras de dominación propias de las sociedades modernas, específicamente, a las relaciones de dominación que deberían imperar en el campo de acción social relativo a la administración de justicia. </p>
+			<p>La interacción social, considerada como un diálogo entre dos equipos, representados en el caso de los linchamientos por linchadores y policías, al parecer desorganiza en cierta medida un campo social que debería ser sustentado por otro tipo de interacción. Sin embargo, ello puede comprenderse si se considera que si bien en nuestra sociedad, lo que Goffman identifica como equipos, están obligados por lo general a reprimir su ira: &quot;en ciertas ocasiones se ven obligados a suprimir la apariencia de oposición serena y desapasionada, en la interacción, para ofrecer una demostración de sentimientos ultrajados&quot; (<xref ref-type="bibr" rid="B13">Goffman, 2006</xref>:261).</p>
+			<p>A su vez la vinculación de estas acciones con el sistema de administración de justicia del Estado, permite afirmar que, aun cuando estas no están ajustadas al principio de dominación basado en la legitimación legal, pareciera que se aspira a él. </p>
+			<p>El rendimiento explicativo de las teorías de la dominación de Weber y Bourdieu, con respecto a los linchamientos, consiste en que estos desarrollos teóricos permiten dar cuenta de lo no-pacífico de los procesos de dominación, sin que ello alcance para poner entre paréntesis la idea de la dominación como corolario de las dinámicas sociales. </p>
+			<p>Por último, desde la perspectiva de la interdependencia, siguiendo a Elías, podemos decir que los linchamientos podrían explicarse por la tensión permanente que acompaña los procesos de integración. Tensión que tiene como telón de fondo, en el caso de algunas sociedades como las latinoamericanas, la no concreción en la realidad de un Estado de Derecho, que sin embargo es promovido como ideal, cuestión que interviene en la realidad en tanto genera anhelos, que al verse constantemente frustrados, tensan las relaciones sociales de interdependencia. Los crecientes niveles de autonomía de los individuos, posibilitados por la complejidad de la trama de interdependencias, implica que la autoridad no pueda simplemente reprimir estas acciones, aun cuando estas no sean congruentes con el ideal de Estado de Derecho que esta autoridad promueve, al menos discursivamente.</p>
+			<p>Así entonces las entradas que las teorías examinadas proveen para explicar los linchamientos se presentan siempre como accesos desencajados, abordajes que no permiten generar mas que fragmentos de comprensión a partir de lo que no son los linchamientos y/o a partir de lo que parcialmente son. En este esquema los linchamientos podrían dar cuenta por ejemplo de lo problemático de las dinámicas de integración, de las rendijas de las relaciones de dominación y de las paradojas en las relaciones de interdependencia. </p>
+			<p>Las teorías sociales abordadas explican la acción ya sea a partir de la conciencia, lo normativo, en Parsons y Weber, ya sea a partir de las prácticas aprehendidas, en Bourdieu. En el caso de Elías la auto coacción se origina en cierta práctica funcional al orden social, se origina de manera externa. Pero esta práctica una vez estabilizada, implica que esa auto coacción pase al plano de la conciencia. En todas estas explicaciones de la acción, conciencia y práctica son pensadas como oposiciones binarias, que en el mejor de los casos operarían en momentos sucesivos, en una especie de línea de progreso. Se trataría de planos distintos y la acción podría explicarse por uno de estos planos o por el otro. </p>
+			<p>Por el contrario, podríamos pensar que en el caso de los linchamientos estos dos estratos se conectan. Ello habida consideración de la presencia del Estado de Derecho, en tanto ideal al que se promueve su aspiración por parte del poder burocrático. Las acciones de linchamiento se explicarían por procesos de socialización que implican marcos normativos que no tienen un correlato cabal en las prácticas, pero que sin embargo intervienen en ellas, en tanto aspiraciones que regulan de manera imperfecta las interacciones. No existe una especie de frontera entre lo normativo y la praxis independiente de la conciencia, lo que habría entre ambas sería más bien un espacio de porosidad, y esa porosidad explicaría lo problemático de los procesos de integración, los intersticios que se abren en los mecanismos de dominación y el devenir de una interdependencia social en tensión permanente.</p>
+			<p>El Estado de Derecho en tanto ideal juega un rol relevante en el plano normativo. Promovido desde la autoridad burocrática, participa de los procesos de socialización, en tanto se inserta en estos procesos como una aspiración. Es por este carácter de aspiración que, a pesar de su carácter de ideal, interviene en la realidad. Esto explica que interacciones como los linchamientos puedan ser leídos como anomalías, en tanto representan fallos de ese ideal normativo al que se aspira. </p>
+			<p>Ese ideal-aspiración, a la vez que fundamenta las lecturas de estas acciones como anomalías, interviene en dichas prácticas, intervención que puede identificarse por ejemplo en &quot;la forma en que habitualmente estas acciones se conectan con los operadores del derecho&quot; (<xref ref-type="bibr" rid="B18">Quiroz, 2015</xref>:86) y en el objetivo que tendrían estas acciones de &quot;interpelar a las autoridades estatales para que intervengan y no dejen impune el delito vindicado&quot; (<xref ref-type="bibr" rid="B14">González et. al., 2011</xref>:173). Sin embargo, la intervención del ideal-aspiración Estado de Derecho en el desarrollo de estas prácticas, no implica que estas estén completamente determinadas por aquel. </p>
+			<p>Lo disruptivo viene entonces de la socialización. Es ahí donde encontramos a la vez marcos normativos y prácticas que no son completamente determinadas por esos marcos. Son estas relaciones las que emergen en interacciones como los linchamientos. Pareciera que los linchamientos fuesen la manifestación de una realidad social que incluye aspiraciones que, a pesar de no ser más que ideales, intervienen en la realidad como un mecanismo de regulación de estas interacciones. En estas interacciones justamente se conectan dos equipos, los linchadores y la policía, en una operación que parece encausar esta acción, que emerge como una práctica violenta, autárquica, desordenada y desconectada de la autoridad, en procedimientos calculables, compartidos o al menos deseados, que responden a las relaciones propias del campo de acción de la administración de justicia y que en esa medida implican una cierta ampliación espacial temporal de la acción de linchar.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía </title>
+			<ref id="B1">
+				<mixed-citation>Araujo, K. 2009. Se acata pero no se cumple. Estudios sobre las normas en América Latina . Santiago de Chile: LOM.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Araujo</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>Se acata pero no se cumple. Estudios sobre las normas en América Latina</source> 
+					<publisher-loc>Santiago de Chile</publisher-loc>
+					<publisher-name>LOM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation> Araujo, K. 2016. El miedo a los subordinados. Una teoría de la autoridad Santiago de Chile: LOM </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Araujo</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>El miedo a los subordinados. Una teoría de la autoridad</source> 
+					<publisher-loc>Santiago de Chile</publisher-loc>
+					<publisher-name>LOM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Bourdieu, P. y Wacquant, L. 1995. Respuestas para una antropología reflexiva . México: Grijalbo.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bourdieu</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Wacquant</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<source>Respuestas para una antropología reflexiva</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Grijalbo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Carrión, F. 2008. ¿Quién es Fuenteovejuna? Todos a una, Señor. Boletín Ciudad Segura FLACSO Ecuador 22: 1-8. <ext-link ext-link-type="uri" xlink:href="https://works.bepress.com/fernando_carrion/236/">https://works.bepress.com/fernando_carrion/236/</ext-link>. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carrión</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>¿Quién es Fuenteovejuna? Todos a una, Señor</article-title>
+					<source>Boletín Ciudad Segura FLACSO Ecuador</source> 
+					<volume>22</volume>
+					<fpage>1</fpage>
+					<lpage>8</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://works.bepress.com/fernando_carrion/236/">https://works.bepress.com/fernando_carrion/236/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Corcuff, P. 2013. Las nuevas sociologías. Principales corrientes y debates . Buenos Aires: Siglo XXI.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Corcuff</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>Las nuevas sociologías. Principales corrientes y debates</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>De Soto, H. 2006El otro sendero. La revolución informal. Lima: El Barroco.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Soto</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>El otro sendero. La revolución informal</source>
+					<publisher-loc>Lima</publisher-loc>
+					<publisher-name>El Barroco</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Durkheim, E. 1995. La división del trabajo social . Madrid: Ediciones Akal.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Durkheim</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<source>La división del trabajo social</source> 
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Ediciones Akal</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Elías, N. 2009. El proceso de la civilización: Investigaciones sociogenéticas y psicogenéticas . México: FCE</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Elías</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>El proceso de la civilización: Investigaciones sociogenéticas y psicogenéticas</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>FCE</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Fuentes, A. 2006. Subalternidad y violencia colectiva en México y Guatemala. Fermentum 16(46): 415-428. <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/705/70504608.pdf">http://www.redalyc.org/pdf/705/70504608.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuentes</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Fermentum</source> 
+					<volume>16</volume>
+					<issue>46</issue>
+					<fpage>415</fpage>
+					<lpage>428</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/705/70504608.pdf">http://www.redalyc.org/pdf/705/70504608.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Fuentes, A. 2011. México en fragmentos: violencia, miedo y linchamientos, pp. 123-152. En: L. Ocampo.El túnel del miedo. Buenos Aires: Elaleph/Temas estratégicos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuentes</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<chapter-title>México en fragmentos: violencia, miedo y linchamientos</chapter-title>
+					<fpage>123</fpage>
+					<lpage>152</lpage>
+					<name>
+						<surname>Ocampo</surname>
+						<given-names>L</given-names>
+					</name>
+					<source>El túnel del miedo</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Elaleph</publisher-name>
+					<series>Temas estratégicos</series>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Fuentes, A. 2014. Autodefensa y justicia en los márgenes del Estado. Clivajes. Revista de Ciencias Sociales 2: 1-14. <ext-link ext-link-type="uri" xlink:href="http://revistas.uv.mx/index.php/Clivajes/article/view/259">http://revistas.uv.mx/index.php/Clivajes/article/view/259</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuentes</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Autodefensa y justicia en los márgenes del Estado</article-title>
+					<source>Clivajes. Revista de Ciencias Sociales</source> 
+					<volume>2</volume>
+					<fpage>1</fpage>
+					<lpage>14</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://revistas.uv.mx/index.php/Clivajes/article/view/259">http://revistas.uv.mx/index.php/Clivajes/article/view/259</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>García, M. 2011. Ineficacia del derecho y cultura del incumplimiento de reglas en América Latina, pp. 161-184. En: C. Rodríguez.El derecho en América Latina. Buenos Aires: Siglo XXI .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<chapter-title>Ineficacia del derecho y cultura del incumplimiento de reglas en América Latina</chapter-title>
+					<fpage>161</fpage>
+					<lpage>184</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<source>El derecho en América Latina</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Goffman, I. 2006. La presentación de la persona en la vida cotidiana . Buenos Aires: Amorrortu.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Goffman</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>La presentación de la persona en la vida cotidiana</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Amorrortu</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>González, L; Ladeuix, J. y Ferreyra, G. 2011. Acciones colectivas de violencia punitiva en la Argentina reciente. Bajo el Volcán 10(16): 165-193. <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=28620697008">http://www.redalyc.org/articulo.oa?id=28620697008</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>González</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Ladeuix</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ferreyra</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Acciones colectivas de violencia punitiva en la Argentina reciente</article-title>
+					<source>Bajo el Volcán</source> 
+					<volume>10</volume>
+					<issue>16</issue>
+					<fpage>165</fpage>
+					<lpage>193</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=28620697008">http://www.redalyc.org/articulo.oa?id=28620697008</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Lemaitre, J. 2011. ¿Constitución o barbarie? Cómo repensar el derecho en zonas sin ley, pp. 47-68. En: C. Rodríguez. El derecho en América Latina . Buenos Aires: Siglo XXI .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lemaitre</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<chapter-title>¿Constitución o barbarie? Cómo repensar el derecho en zonas sin ley</chapter-title>
+					<fpage>47</fpage>
+					<lpage>68</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<source>El derecho en América Latina</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Martins, J. 1995. As condições do estudo sociológico dos linchamentos no Brasil. Estudos Avançados 9 (25): 295-310. doi: 10.1590/S0103-40141995000300022</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martins</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<article-title>As condições do estudo sociológico dos linchamentos no Brasil</article-title>
+					<source>Estudos Avançados</source> 
+					<volume>9</volume>
+					<issue>25</issue>
+					<fpage>295</fpage>
+					<lpage>310</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0103-40141995000300022</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Parsons, T. 1984. La estructura de la acción social . Madrid: Guadarrama.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parsons</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>1984</year>
+					<source>La estructura de la acción social</source> 
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Quiroz, L. 2015. Linchamientos en Chile. Una aproximación a su comprensión a partir de la descripción de las relaciones entre derecho y violencia que emergen de relatos de prensa del año 2012. Revista de Sociología Universidad de Chile 30: 71-92.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Quiroz</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Linchamientos en Chile. Una aproximación a su comprensión a partir de la descripción de las relaciones entre derecho y violencia que emergen de relatos de prensa del año 2012</article-title>
+					<source>Revista de Sociología</source> 
+					<publisher-name>Universidad de Chile</publisher-name>
+					<volume>30</volume>
+					<fpage>71</fpage>
+					<lpage>92</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Rodríguez, R y Mora, J. 2008. Derechos humanos y linchamientos en México. El Cotidiano 23(150): 63-72. <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=32515010">http://www.redalyc.org/articulo.oa?id=32515010</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Mora</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Derechos humanos y linchamientos en México</article-title>
+					<source>El Cotidiano</source> 
+					<volume>23</volume>
+					<issue>150</issue>
+					<fpage>63</fpage>
+					<lpage>72</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=32515010">http://www.redalyc.org/articulo.oa?id=32515010</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Romero, A y Rujano, R. 2007. Impunidad, anomia y cultura de la muerte. Los linchamientos en Venezuela. Espiral 13(39): 139-161. <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/138/13803905.pdf">http://www.redalyc.org/pdf/138/13803905.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Romero</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Rujano</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Impunidad, anomia y cultura de la muerte. Los linchamientos en Venezuela</article-title>
+					<source>Espiral</source> 
+					<volume>13</volume>
+					<issue>39</issue>
+					<fpage>139</fpage>
+					<lpage>161</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/138/13803905.pdf">http://www.redalyc.org/pdf/138/13803905.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Santillán, A. 2008. Linchamientos urbanos. &quot;Ajusticiamiento popular&quot; en tiempos de la seguridad ciudadana. Iconos. Revista de Ciencias Sociales 31: 57-69. doi: 10.17141/iconos.31.2008.268</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santillán</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Linchamientos urbanos. &quot;Ajusticiamiento popular&quot; en tiempos de la seguridad ciudadana</article-title>
+					<source>Iconos. Revista de Ciencias Sociales</source> 
+					<volume>31</volume>
+					<fpage>57</fpage>
+					<lpage>69</lpage>
+					<pub-id pub-id-type="doi">10.17141/iconos.31.2008.268</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Simmel, G. 2005. La metrópolis y la vida mental. Bifurcaciones 4: 1-10. <ext-link ext-link-type="uri" xlink:href="http://www.bifurcaciones.cl/2005/09/la-metropolis-y-la-vida-mental/">http://www.bifurcaciones.cl/2005/09/la-metropolis-y-la-vida-mental/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Simmel</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>La metrópolis y la vida mental</article-title>
+					<source>Bifurcaciones</source> 
+					<volume>4</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.bifurcaciones.cl/2005/09/la-metropolis-y-la-vida-mental/">http://www.bifurcaciones.cl/2005/09/la-metropolis-y-la-vida-mental/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Vilas, C. 2001. (In)justicia por mano propia: linchamientos en el México contemporáneo. Revista Mexicana de Sociología 63(1): 131-160. doi: 10.2307/3541204</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vilas</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<article-title>(In)justicia por mano propia: linchamientos en el México contemporáneo</article-title>
+					<source>Revista Mexicana de Sociología</source> 
+					<volume>63</volume>
+					<issue>1</issue>
+					<fpage>131</fpage>
+					<lpage>160</lpage>
+					<pub-id pub-id-type="doi">10.2307/3541204</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Vilhena, O. 2011. Desigualdad estructural y estado de derecho, pp.25-46. En: C. Rodríguez. El derecho en América Latina . Buenos Aires: Siglo XXI .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vilhena</surname>
+							<given-names>O</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<chapter-title>Desigualdad estructural y estado de derecho</chapter-title>
+					<fpage>25</fpage>
+					<lpage>46</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<source>El derecho en América Latina</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Weber, M. 1997. Economía y sociedad . México: FCE </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Weber</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<source>Economía y sociedad</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>FCE</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="presented-at" id="fn1">
+				<p>Nota En lo relativo al análisis de la obra de Max Weber, este artículo comparte muchos elementos de la ponencia presentada junto a Leandro González en las X Jornadas de Sociología de la Universidad de Buenos Aires (2013), trabajo que se titula &quot;El Estado moderno y los linchamientos. Una reflexión a partir de la obra weberiana&quot;.</p>
+			</fn>
+			<fn fn-type="financial-disclosure" id="fn2">
+				<p>Agradecimientos La elaboración de este artículo contó con el apoyo del proyecto CONICYT/FONDAP/15130009.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

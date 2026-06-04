@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.6" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000200129</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Un análisis epistemológico desde la cartografía postmoderna y su relación con la segunda filosofía de Wittgenstein</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>An epistemological analysis from postmodern cartography and its relation with Wittgenstein’s second philosophy</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Azócar-Fernández</surname>
+						<given-names>Pablo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Departamento de Cartografía, Universidad Tecnológica Metropolitana, Santiago, Chile. ORCID: 0000-0002-5273-8950. Correo: pazocar@utem.cl</institution>
+					<institution content-type="normalized">Universidad Tecnológica Metropolitana</institution>
+					<institution content-type="orgdiv1">Departamento de Cartografía</institution>
+					<institution content-type="orgname">Universidad Tecnológica Metropolitana</institution>
+					<addr-line>
+						<named-content content-type="city">Santiago</named-content>
+					</addr-line>
+					<country country="CL">Chile</country>
+					<email>pazocar@utem.cl</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<season>Apr-Sep</season>
+				<year>2017</year>
+			</pub-date>
+			<issue>59</issue>
+			<fpage>129</fpage>
+			<lpage>142</lpage>
+			<history>
+				<date date-type="received">
+					<day>23</day>
+					<month>01</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>04</day>
+					<month>03</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>Este artículo aborda planteamientos desde la filosofía y los vincula con la cartografía y los mapas concebidos desde un punto de vista epistemológico como formas de conocimiento. Se analiza el legado de Ludwig Wittgenstein procedente de su segunda obra “Investigaciones Filosóficas” y se compara con los últimos desarrollos de la cartografía, ya que existe un vacío de conocimiento entre las concepciones epistemológicas derivadas de la obra del filósofo y el quehacer de la disciplina cartográfica. Metodológicamente desde la perspectiva semiótica en cartografía, se comparan los mapas semánticos y pragmáticos, estableciendo que ambos tipos de representaciones responden a concepciones diferentes de la realidad. Conjuntamente se analiza la propuesta de la cartografía social postmoderna y su contribución para mapear las mini-narrativas y el uso de otros lenguajes cartográficos rezagados durante el período de la modernidad. Se concluye que existe un símil entre la cartografía postmoderna y las concepciones de la llamada segunda filosofía de Wittgenstein.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>This article links philosophy with maps and cartography, conceived as forms of knowledge. There is a gap between epistemological conceptions and state-of-art in the cartographic discipline. This gap is addressed by considering Ludwig Wittgenstein’s “Philosophical Investigations”. Methodologically, from the semiotics perspective applied to cartography, this article compares semantics maps and pragmatics maps, establishing that both types of depictions have different reality conceptions. It is analyzed the proposal of postmodern social cartography and its contribution to mapping the mini-narratives that had fallen behind against the big discourses or dominant narratives of the period of modernity. It is concluded with an analogy concerning postmodern cartography and conceptions of the second Wittgenstein philosophy.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>Wittgenstein</kwd>
+				<kwd>postmodern cartography</kwd>
+				<kwd>semantics map</kwd>
+				<kwd>pragmatics map</kwd>
+				<kwd>contextual meaning</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>Wittgenstein</kwd>
+				<kwd>cartografía postmoderna</kwd>
+				<kwd>mapa semántico</kwd>
+				<kwd>mapa pragmático</kwd>
+				<kwd>significado contextual</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="2"/>
+				<equation-count count="0"/>
+				<ref-count count="8"/>
+				<page-count count="14"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Es conocido el legado de Ludwig Wittgenstein a través de una diversidad de disciplinas que han estudiado su trayectoria, sin embargo, poco se conoce la relación existente entre cartografía-mapas y la obra del filósofo austriaco. En este sentido, el problema suscitado es que la cartografía necesita profundizar su base teórica o cuerpo de conocimiento para no ser considerada tan solo una herramienta tecnológica más, en el contexto de las ciencias de la información geográfica. Por tanto, se requiere un análisis de carácter epistemológico para la disciplina de la representación espacial desde una perspectiva de la ciencia social.</p>
+			<p>El artículo resalta la obra de Wittgenstein y la compara con el desarrollo experimentado por la disciplina cartográfica durante los últimos 60 años. Se establece dicho horizonte temporal ya que durante las últimas seis décadas se puede hablar de una cartografía moderna (de carácter científico) establecida y consolidada, y también del surgimiento rupturista de una perspectiva cartográfica postmoderna (de carácter crítico). Este cambio paradigmático experimentado por la disciplina en cuanto a la concepción del mapa, responde a un contexto epistemológico que es importante tener en cuenta, mostrando que estos cambios no ocurren en el vacío. Lo anterior permite plantear la hipótesis que el desarrollo del mapa y la cartografía en su conjunto, como toda ciencia social, se inscribe en concepciones epistemológicas que permiten el entendimiento de nuestra realidad. En este sentido, el artículo se enmarca en una perspectiva epistemológica para la comprensión del mapa concebido como forma de conocimiento.</p>
+			<p>Existe un vacío de conocimiento entre el legado de Wittgenstein y su relación con la cartografía. Ha habido intentos de vincular el primer trabajo del filósofo <italic>Tractatus Logico-Philosophicus,</italic> cuyo punto focal es la relación del lenguaje y el conocimiento del mundo, con el lenguaje usado en cartografía. En este sentido, Wittgenstein nunca escribió acerca de cartografía y mapas, no obstante, la concepción del lenguaje como un modelo de la realidad ha permitido establecer una relación con el lenguaje cartográfico usado en los mapas. En éstos, los signos componentes corresponden a un <italic>isomorfismo</italic> con los elementos de la realidad, en este caso la realidad físico-geográfica. Además de haberse establecido una similitud entre el lenguaje natural y el denominado lenguaje-mapa, el análisis presentado en este artículo pretende ir más allá de esta relación biunívoca o de correspondencia entre un modelo y la realidad.</p>
+			<p>Es de importancia destacar que cuando la concepción del mapa es enmarcada en las coordenadas epistemológicas wittgensteinianas, se está haciendo referencia a la noción del mapa científico, es decir, aquel producto cartográfico con características de exactitud, precisión, objetividad y neutral en términos valóricos. En otras palabras, el mapa y a su vez la cartografía misma como formas de conocimiento se encuadran bajo coordenadas positivistas y neopositivistas y/o analíticas. En este sentido, dicha concepción del mapa responde a los planteamientos que Wittgenstein formula en su primera filosofía o filosofía inicial.</p>
+			<p>Dado lo anterior, este artículo analiza en términos generales la denominada Segunda Filosofía de Wittgenstein y sus principales aportes, las críticas que realiza el filósofo a la primera parte de su obra y su nueva propuesta presentada en el texto “Investigaciones Filosóficas”. Posteriormente, desde el campo teórico de la cartografía es considerado el análisis entre los denominados <italic>mapas semánticos</italic> y <italic>mapas pragmáticos</italic> que realiza Tomasz Zarycki. Ambas concepciones de mapas nos permiten comprender de mejor manera esta segunda filosofía y entender su diferencia con la propuesta del <italic>Tractatus.</italic> En otras palabras, este artículo construye un puente entre la concepción zaryckiana del mapa y las <italic>Investigaciones</italic> de Wittgenstein.</p>
+			<p>A su vez, el análisis semiótico de Zarycki a las concepciones de mapas quedará mejor entendido cuando con los autores Rolland Paulston y Martin Liebman nos introduzcamos al tema de la cartografía social postmoderna, es decir, aquella cartografía que se aleja de las concepciones positivistas para enfatizar la realidad social, en un nuevo escenario postmoderno y de carácter deconstruccionista.</p>
+			<p>De acuerdo a lo planteado, el objetivo del presente artículo es considerar los enfoques provenientes de la cartografía crítica o postmoderna y relacionarlos con la propuesta de la segunda filosofía wittgensteiniana. De esta manera, la disciplina cartográfica considerada en gran parte como un saber técnico, en este documento, por el contrario, se sostendrá que posee un fundamento epistemológico relevante en su carácter de ciencia social.</p>
+		</sec>
+		<sec>
+			<title>Wittgenstein y su “investigaciones filosóficas”: juegos de lenguaje, contextos significativos</title>
+			<p>Ludwig Wittgenstein es considerado uno de los grandes pensadores de la historia y su principal legado corresponde a la filosofía del lenguaje. Siendo Austria su país natal, en su juventud se trasladó a Inglaterra para estudiar filosofía en Cambridge, institución en la cual fue alumno del matemático y lógico Bertrand Russell. La obra de Wittgenstein quedó materializada prácticamente en dos influyentes textos, el primero titulado <italic>Tractatus Logico-Philosophicus</italic> correspondiente al denominado “Primer Wittgenstein” o “Primera Filosofía”. El segundo texto lleva por título <italic>Investigaciones Filosóficas</italic> el cual concierne al último pensamiento del autor o la llamada “Segunda Filosofía de Wittgenstein”. Es notable que, a partir de estos dos únicos textos, posteriormente se hayan escrito innumerables libros y documentos analizando la obra de este célebre pensador.</p>
+			<p>En el año 1918 Wittgenstein completa el <italic>Tractatus,</italic> el cual fue publicado en idioma inglés en 1922. Este libro expone los pensamientos del autor acerca de la naturaleza del pensar, la lógica y el lenguaje. Es conocido el impacto e influencia que tuvo esta obra en la comunidad académica, especialmente en el denominado Círculo de Viena. Sin embargo, entre los años 1930 y 1934 cuando el filósofo ejercía como profesor en Cambridge, realizó un viraje en su pensamiento, encontrando seguidores en Cambridge, Oxford y Estados Unidos a raíz de lo expuesto en sus múltiples conferencias y presentaciones.</p>
+			<p>Este nuevo pensamiento o nueva forma del análisis filosófico planteado por Wittgenstein queda concretado en las “Investigaciones Filosóficas”, texto que fue traducido al inglés por Elisabeth Anscombe en el año 1953, dos años después de la muerte del filósofo. El texto original en idioma alemán se titula Philosophische Untersuchungen.</p>
+			<p>Al respecto, David Papineau señala que las “<italic>Investigaciones Filosóficas</italic> están redactadas como una serie de aforismos numerados e interrelacionados. Wittgenstein raras veces presentaba un argumento, e insistía enfáticamente en que él no estaba construyendo una teoría, sino desafiando al lector a renunciar a suposiciones filosóficas profundamente arraigadas. Hay un considerable debate en torno a lo que Wittgenstein trataba de transmitir en muchos de sus pasajes, pero muy pocos ponen en cuestión la importancia de su trabajo, ya que originó un nuevo acercamiento a la filosofía que dominó el mundo filosófico de habla inglesa durante años después de su publicación” (<xref ref-type="bibr" rid="B4">Papineau 2011</xref>:59).</p>
+			<p>Pese a que esta última fase de su obra estuvo más alejada de la ciencia con respecto al <italic>Tractatus</italic>, “Investigaciones Filosóficas” fue una fuente de inspiración para muchos científicos y filósofos debido a su alcance y consideraciones. Este viraje fue tan brusco que se puede hablar de una ruptura con la concepción del conocimiento del mundo expuesta en el primer texto del autor.</p>
+			<p>Para entender cuáles son los alcances de esta segunda filosofía de Wittgenstein en comparación con la primera, es menester examinar la nueva concepción del lenguaje planteada en “Investigaciones”. Wittgenstein rechazó la supremacía del <italic>lenguaje declarativo</italic> y su <italic>visión esencialista</italic>. De este modo, usando el lenguaje pueden ser hechas más cosas que solo describir el mundo físico, como señalaba el <italic>Tractatus</italic>. En éste se ha asumido que el lenguaje tiene como objetivo principal representar mediante proposiciones los hechos del mundo. En <italic>Investigaciones</italic>, el autor sostiene que lo anterior es una concepción distorsionada del lenguaje. Como consecuencia, surgen numerosos problemas y acertijos (<italic>puzzles</italic>) en diferentes campos, tales como en semántica, lógica, filosofía de la psicología, filosofía de la acción y filosofía de la mente.</p>
+			<p>De esta manera, el lenguaje deja de ser un modelo de los hechos y se admite que existe una <italic>pluralidad de lenguajes</italic>. “El mismo lenguaje parece tener su propia vida: constantemente aparecen lenguajes nuevos y caen otros en desuso. Lo fundamental es que el lenguaje es una actividad y solo existe en su <italic>uso</italic>. “Uso” es la palabra clave: no es posible <italic>prescribir</italic> leyes a los lenguajes, sino únicamente <italic>describirlos</italic>; y no se los puede aprender fuera de ellos (por ejemplo, en el diccionario), sino únicamente usándolos. Cada lenguaje es un juego lingüístico […] diferente” (<xref ref-type="bibr" rid="B6">Tejedor 1998</xref>:446).</p>
+			<p>Por lo tanto, la principal contribución de Wittgenstein en esta etapa de su vida es la noción de <italic>juegos de lenguaje</italic> (language-games, sprachspiel). Esto implica que “el significado de una palabra no está determinado por el objeto que representa, sino por el modo en que es empleada en los juegos lingüísticos, es decir, en los distintos contextos conversacionales en que la palabra puede aparecer. Es posible usar la misma palabra en muchos juegos lingüísticos diferentes, y esta variabilidad implica que hay muchos términos a los que no es posible asignar una definición precisa porque su significado variará con el contexto” (<xref ref-type="bibr" rid="B4">Papineau 2011</xref>:60).</p>
+			<p>Haciendo una analogía con los juegos (ajedrez, ludo-damas, naipes, fútbol, tenis), cada uno de éstos tiene sus propias reglas y además no existe ningún elemento que sea común a todos ellos. No obstante, esto no significa que el término “juego” sea incoherente. Lo mismo sucede con las palabras y proposiciones del lenguaje. No existe una palabra única asociada a un elemento de la realidad en una relación biunívoca como señalaba el <italic>Tractatus</italic>. Por el contrario, existe un conjunto de palabras asociadas al objeto, pero la significación exacta va a depender del contexto.</p>
+			<p>De esta manera, tal como en la “familia de los juegos”, los conjuntos de significados de una palabra se parecerán entre sí, como los miembros de una familia. Por tanto, “el lenguaje se caracteriza porque las palabras están asociadas con grupos de rasgos imprecisos, y no con un conjunto de rasgos definitorios específicos” (<xref ref-type="bibr" rid="B4">Papineau 2011</xref>:60). Tal como fue señalado más arriba, esto permite establecer que el lenguaje tiene rasgos descriptivos y no declarativos. Así, la pluralidad de lenguajes escapa a todo intento de sistematización. El lenguaje descrito en el <italic>Tractatus</italic> no es sino uno de los tantos posibles lenguajes existentes.</p>
+			<p>Es importante señalar también que la función del lenguaje ocurre en el contexto de “reglas conocidas”. Para Duncan Richter todas las proposiciones que están fuera o más allá de esas reglas son inconcebibles y carentes de significado. De esta forma, el objetivo de la filosofía de Wittgenstein es clarificar esas <italic>reglas</italic> o <italic>juegos de lenguaje</italic> para el entendimiento del mundo. En consecuencia, todos los conceptos que están fuera de esas reglas son considerados contradicciones, antinomias, sin significado o sinsentido (unsinning).</p>
+			<p>Finalmente, como se llega a la conclusión que “el significado de un término es su uso en el lenguaje” de aquí Wittgenstein deriva su concepción de la filosofía, la cual debe referirse exclusivamente a dos funciones. La <italic>función descriptiva</italic> del lenguaje, en la cual la filosofía solo puede describirlo y no fundarlo. Por otra parte, se tiene la <italic>función terapéutica</italic> del lenguaje en su uso metafísico ilegítimo.</p>
+			<p>Si bien es cierto que esto último escapa de los objetivos de este artículo, es significativo considerar que el cuestionamiento de la filosofía wittgensteiniana del lenguaje a la metafísica queda mejor explicado cuando David Papineau señala que “la nueva concepción del lenguaje de Wittgenstein le llevó a concluir que muchos problemas filosóficos estaban basados en confusiones. Los filósofos, sugería, se quedan enredados en el lenguaje, pues asumen que cada palabra debe referirse a algo, y pasan generaciones tratando de averiguar qué son esas cosas. Wittgenstein afirmó que, de hecho, el lenguaje no es una herramienta para referirse a las cosas, sino una colección de prácticas usadas para coordinar las propias acciones con las de los demás. La filosofía, sostuvo, debería ser transformada en una especie de terapia cuya principal función fuera la de curar a los filósofos de las confusiones causadas por su errónea comprensión del lenguaje” (<xref ref-type="bibr" rid="B4">Papineau 2011</xref>:60).</p>
+			<p>Dado que Wittgenstein no escribió explícitamente acerca de cartografía y mapas, se propone vincular su obra con esta disciplina de la representación espacio-territorial, aludiendo a la semiótica y al lenguaje cartográfico; lenguaje que, mediante signos y símbolos visuales, genera un isomorfismo -en terminología wittgensteiniana- con los elementos de la realidad o los hechos del mundo.</p>
+		</sec>
+		<sec>
+			<title>Enfoques semánticos y pragmáticos desde la semiótica aplicado en cartografía</title>
+			<p>En términos generales a partir de Charles W. Morris la semiótica es considerada la ciencia general de los signos. Diversos autores concuerdan con este filósofo y semiótico estadounidense en que la semiótica se divide en tres grandes ramas, a saber: 1) Sintaxis: estudio de las relaciones de los signos entre sí; 2) Semántica: estudio de las relaciones de los signos con el objeto designado; 3) Pragmática: estudio de las relaciones de los signos con el sujeto que los utiliza.</p>
+			<p>Dado que al interior de la cartografía las tendencias <italic>lenguaje cartográfico, comunicación cartográfica</italic> y <italic>visualización</italic> tienen sus bases en el análisis semiótico, es significativo especificar cada rama de la semiótica en función con los mapas. De esta manera, se tiene que la <italic>Semántica</italic> trata con el significado de los símbolos cartográficos (relaciones entre el signo-vehículo y el referente); <italic>Sintáctica/Sintaxis</italic> aborda las propiedades formales de los signos y los símbolos (relaciones entre signo-vehículo/signo-vehículo); y <italic>Pragmática</italic> analiza todos los fenómenos psicológicos, biológicos y socio-biológicos que rodean la funcionalidad del signo cartográfico (relaciones entre el signo-vehículo y el intérprete). Aquí el <italic>referente</italic> es el objeto y el <italic>intérprete</italic> alude al concepto (pensamiento o referencia).</p>
+			<p>Tomasz Zarycki, sociólogo polaco interesado en la pragmática y en el análisis del discurso, plantea que en la literatura de la pragmática lingüística la oposición semántica-pragmática es un animado debate y que aún no concluye. Sin embargo, el autor asumiendo una clara división entre las dos ramas de la semiótica, discute el tema del significado. Para Zarycki, “mientras la semántica estudia el significado como una característica fija de los signos, o noción absoluta, en la perspectiva de la pragmática el significado es contextual. Este no solamente depende de las personas (intérpretes en el lenguaje de la teoría semiótica) que asignan diferentes significados a los mismos signos. Además, el significado puede depender de diferentes situaciones (la misma persona puede interpretar en forma distinta los mismos signos en diferentes contextos)” (<xref ref-type="bibr" rid="B8">Zarycki 2001</xref>:66).</p>
+			<p>Aquí la noción de contexto adquiere relevancia. El contexto es un conjunto de circunstancias específicas en que se produce el mensaje, tales como: lugar y tiempo, cultura del emisor y receptor, etc., y que permiten su correcta comprensión. En otras palabras, el contexto son los acontecimientos de un evento o acto comunicativo indispensables para su completo entendimiento.</p>
+			<p>La consideración del contexto es diferente para la semántica y la pragmática. De acuerdo a Zarycki “mientras en el análisis pragmático el significado de un mensaje, también de un mapa, puede solamente ser entendido en relación al contexto en el cual el mensaje aparece, el análisis semántico construye modelos asumiendo significados estables de signos estables en los cuales la noción de contexto no es considerada” (2001:66).</p>
+			<p>En este punto debemos recordar lo planteado anteriormente en cuanto al denominado mapa científico, como aquel producto objetivo y neutro en cuanto a valores y significados. Aquí la significación del mapa está dada por su exactitud y precisión, independiente de las circunstancias. En el modelo tradicional de comunicación cartográfica el mapa sirve como un canal de transmisión de información geográfico-espacial desde el cartógrafo al usuario. Por tanto, el objetivo es evaluar la calidad de este proceso de comunicación, verificando si la información recibida a través del mapa fue exacta, objetiva y completa. Si el mensaje deseado no se produce es debido a que durante el proceso ha habido algún tipo de <italic>ruido</italic>: el cartógrafo no supo comunicar eficientemente el mensaje, o el usuario no supo decodificar debidamente, o ambos casos.</p>
+			<p>La propuesta de Zarycki, en contraste con el planteamiento anterior, es considerar la elaboración de mapas como <italic>acción</italic>. Es decir, en vez de evaluar el proceso comunicativo cartográfico en términos de objetividad, la pragmática ve el mismo fenómeno como acción útil en el cual el cartógrafo (mapmaker) intenta influir en las acciones del usuario. Para el autor, esto tiene fundamento en la pragmática lingüística que reconoce la existencia de una clase completa de actos comunicativos que tienen el carácter de ser <italic>performativos</italic> y que no son meramente actos de transmisión de información. Es decir, un enunciado performativo no se limita solo a describir un hecho, sino por el mismo hecho de ser expresado <italic>realiza</italic> el hecho. Aquí el autor se apoya en la teoría de los actos del habla del filósofo del lenguaje John Austin.</p>
+			<p>Llevado al ámbito de la cartografía, el enunciado “este mapa <italic>representa</italic> el territorio” pertenecería al enfoque semántico. Por contraste, el enunciado “este mapa <italic>crea</italic> el territorio” corresponde al lenguaje performativo; por tanto, incumbe a la perspectiva pragmática. El primer enunciado está <italic>describiendo</italic> una realidad, mientras que el segundo está <italic>creando</italic> una realidad más que describirla. En consecuencia, en pragmática los criterios semánticos de la verdad, precisión u objetividad son reemplazados por criterios de aceptabilidad social, adecuación a situaciones o efectividad.</p>
+			<p>Por tanto, de acuerdo a Zarycki, “en caso de un mapa definiendo nuevos límites administrativos, la pregunta ¿es objetivo? debería ser reemplazada por la pregunta ¿es aceptable? De esta manera, mientras la pregunta semántica en un análisis de un plano urbano sería ¿es correcta la localización del signo que representa una iglesia?, la pregunta pragmática sería ¿será aceptable para los usuarios que el mapa incluya solamente información sobre la localización de iglesias cristianas?” (2001:67).</p>
+			<p>Con el ejemplo anterior se aprecia claramente tanto el enfoque semántico como el enfoque pragmático de la semiótica llevados al campo de la cartografía y los mapas. La pragmática en contraste con la semiótica no debería estar interesada directamente con el tema de la <italic>representación</italic> de la realidad, sino más bien de su <italic>construcción</italic> o <italic>negociación</italic>. En este caso, negociación se contempla como una forma de resolución alternativa de conflictos o situaciones que impliquen acción multilateral.</p>
+			<p>En forma complementaria, Zarycki resalta la diferencia entre transmisión de información e interacción entre el cartógrafo y el usuario. La elaboración de mapas no debería ser vista como un proceso unidireccional de transmisión de información desde el cartógrafo a los usuarios del mapa. Por el contrario, el análisis pragmático ve la comunicación como un proceso interactivo entre ellos. Aquí el cartógrafo actúa con la intención de influir las acciones de los usuarios. Esto concuerda con el llamado <italic>poder interno</italic> de la cartografía implícito en la naturaleza del proceso cartográfico como señalaba John Harley. En este caso los procesos cartográficos de compilación, generalización, clasificación, jerarquización y estandarización concretizados en un mapa, permite una influencia del cartógrafo hacia los usuarios.</p>
+			<p>En la interacción cartógrafos-usuarios, también los segundos pueden influir en los primeros. Puede suceder que, a la luz del análisis pragmático, el cartógrafo aparecerá solo como una herramienta de algún actor de nivel superior. Esto se puede dar mediante influencias políticas, sesgos religiosos, poderes fácticos, etc. Incluso puede ocurrir que el propio cartógrafo no esté consciente de dichas influencias. Esto es lo que Harley tempranamente denominó el <italic>poder externo</italic> en cartografía, articulado por un contexto histórico. A decir de Zarycki, “esas circunstancias, la interacción entre personas no directamente usando o elaborando mapas son típicos ejemplos de contexto de mapas funcionando con una noción pragmática básica y tal vez necesaria para la comprensión del contenido del mapa” (<xref ref-type="bibr" rid="B8">Zarycki 2001</xref>:68). La Tabla N° 1 resume las diferencias u oposiciones entre el mapa semántico y el mapa pragmático, señaladas por Zarycki.</p>
+			<p>En la <xref ref-type="table" rid="t1">Tabla N° 1</xref> cuando se menciona <italic>signos</italic> en contraposición a <italic>objetos del mapa</italic>, implica que en el mapa semántico los signos y símbolos están dados por una leyenda la cual incorpora distintas variables visuales como el caso de las variables del semiólogo Jacques Bertin (tamaño, forma, color, valor, grano, orientación), tipo de implantación (lineal, puntual, areal) y si los símbolos empleados cuantifican o cualifican los hechos y/o fenómenos involucrados. En cambio, los “objetos del mapa”, tienen relación con la idea de Denis Wood y John Fels respecto al término <italic>paramapa</italic> (paramap). De acuerdo a estos autores, todos los mapas tienen una autoridad inherente la cual es transportada mediante el llamado paramapa. Este paramapa “puede ser dividido en elementos del <italic>perimapa</italic> (perimap) y elementos del <italic>epimapa</italic> (epimap)” (<xref ref-type="bibr" rid="B7">Wood y Fels 2008</xref>:192). El primero consiste en la producción que rodea un mapa y el segundo es el discurso sobre un mapa para dar forma a su recepción.</p>
+			<p>En la misma línea de pensamiento, para Tom Koch: “el paramapa consiste del <italic>peri</italic>mapa (elementos que incluyen mapas auxiliares, leyendas, escalas, etc.) y un ampliamente concebido <italic>epi</italic>mapa incluyendo el artículo dentro del cual un mapa está incorporado” (<xref ref-type="bibr" rid="B2">Koch 2008</xref>:49). Tanto Koch como Wood y Fels argumentan que la imagen del mapa en sí misma no puede ser entendida sino como incorporada en un paramapa “que rodea y extiende un mapa para presentarlo” (2008:49). Por lo tanto, con estos elementos está clara la noción de contexto de un mapa cuando Zarycki considera que los objetos del mapa pertenecen al mapa pragmático. A la vez, este contexto cumple la función de enfatizar y resaltar el contenido del mapa mismo.</p>
+			<p>
+				<table-wrap id="t1">
+					<label><bold>Tabla N° 1:</bold></label>
+					<caption>
+						<title>Oposición entre el mapa semántico y el mapa pragmático (<xref ref-type="bibr" rid="B8">Zarycki 2001</xref>)</title>
+					</caption>
+					<alternatives>
+						<graphic xlink:href="10159002-gt1.jpg"/>
+					<table>
+						<colgroup>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="justify">Mapa semántico</th>
+								<th align="justify">Mapa pragmático</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="justify">Significado de las formas del mapa</td>
+								<td align="justify">Acción con el uso de las formas del mapa</td>
+							</tr>
+							<tr>
+								<td align="justify">Estable, significado absoluto</td>
+								<td align="justify">Significado contextual</td>
+							</tr>
+							<tr>
+								<td align="justify">Signos</td>
+								<td align="justify">Objetos del mapa</td>
+							</tr>
+							<tr>
+								<td align="justify">Análisis a nivel superficial</td>
+								<td align="justify">Análisis a nivel profundo</td>
+							</tr>
+							<tr>
+								<td align="justify">Enfoque normativo</td>
+								<td align="justify">Enfoque descriptivo</td>
+							</tr>
+							<tr>
+								<td align="justify">Objetividad, representación</td>
+								<td align="justify">Relatividad, funcionalidad</td>
+							</tr>
+							<tr>
+								<td align="justify">Transmisión de información, modelo de comunicación cartográfica en un solo sentido </td>
+								<td align="justify">Interacción social, influencia mutua</td>
+							</tr>
+							<tr>
+								<td align="justify">El mapa como una herramienta de descripción de la realidad</td>
+								<td align="justify">El mapa como una forma de creación / negociación de la realidad. El mapa como una herramienta de dominación simbólica</td>
+							</tr>
+							<tr>
+								<td align="justify">Las reglas de la comunicación cartográfica están dadas objetivamente y deben ser respetadas</td>
+								<td align="justify">Las reglas que gobiernan la comunicación cartográfica son inestables y deben ser establecidas, analizadas y relacionadas a algún contexto social de su existencia</td>
+							</tr>
+							<tr>
+								<td align="justify">Los mapas son creados por cartógrafos sobre la base de su conocimiento de la realidad</td>
+								<td align="justify">Los mapas son diseñados no solo por aquellos que los hacen, sino también por los intereses de quienes sirven. </td>
+							</tr>
+						</tbody>
+					</table>
+				</alternatives>
+				</table-wrap>
+			</p>
+			<p>Por otra parte, respecto a las “reglas de la comunicación cartográfica” del mapa semántico, se refieren a todas aquellas normas y criterios estandarizados mediante un cuerpo de conocimiento que la disciplina ha ido formando a través del tiempo. Esta estandarización o regularización se refiere principalmente a los símbolos y signos, colores, topónimos, rotulaciones, sistemas de coordenadas, sistema de base datos, entre otros, y que generalmente son propuestos, patrocinados y divulgados por las grandes agencias de cartografía gubernamental y/o estatal, tanto a nivel internacional como al interior de las naciones. Estas reglas deben ser respetadas, de lo contrario los productos cartográficos no cumplen la categoría de formalidad requerida como productos oficiales. Sin embargo, con el advenimiento masivo de las tecnologías de la geo-información y específicamente la denominada <italic>Web 2.0</italic> la construcción de cartografía y diseño de mapas ha desbordado los ámbitos oficiales -organismos públicos, empresas privadas, academia- y cada vez es mayor la cantidad de mapas que están siendo puesto en Internet y que son realizados por diversos usuarios (sin experticia), tales como: grupos locales, indígenas, comunidades artísticas, ciudadanos comunes. Por tanto, este nuevo tipo de mapa escapa a los estándares y normas cartográficas preestablecidas. Al respecto, se ha dado un interesante debate respecto a este tema, pero que escapa a los objetivos de este artículo.</p>
+			<p>En síntesis, los criterios establecidos para los mapas semánticos corresponden a una perspectiva científica de la disciplina cartográfica. En cambio, los criterios que caracterizan los denominados mapas pragmáticos trascienden el enfoque científico y se incorporan en las coordenadas epistemológicas de una cartografía postmoderna enmarcada en una ciencia social, como se analizará a continuación.</p>
+		</sec>
+		<sec>
+			<title>Hacia una cartografía postmoderna: inclusión de otros lenguajes cartográficos</title>
+			<p>Varios autores en el ámbito de la cartografía y los mapas, tales como Jeremy Crampton (Maps as social constructions: power, communication and visualization), Rob Kitchin, Chris Perkins y Martin Dodge (Rethinking maps: new frontiers in cartographic theory), han definido la <italic>cartografía postmoderna</italic> como el período de la disciplina que comenzó en la década de los ochenta del siglo XX. Desde entonces, la cartografía y los mapas han sido vistos con diferentes enfoques y perspectivas, las que difieren de manera significativa respecto al periodo de la cartografía moderna o cartografía tradicional.</p>
+			<p>Es importante señalar que el rasgo clave de todo pensamiento postmoderno es la contraposición o quiebre con el modernismo. Entendiéndose por postmodernismo un amplio número de movimientos artísticos, culturales, literarios y filosóficos del siglo XX los cuales son críticos y están en conflicto con el período modernista. De acuerdo a José Ortega Valcárcel: “la puesta en entredicho de los presupuestos científicos, epistemológicos, culturales e ideológicos, que sustentan el desarrollo de la cultura occidental desde el siglo de las luces constituye el signo más destacado del denominado posmodernismo” (2000:237). En otras palabras, es criticado el <italic>discurso universalista</italic> de la modernidad. En términos filosóficos, este discurso sostiene que existe una única realidad la cual puede ser conocida por nosotros a través de la ciencia, especialmente las ciencias fácticas. En este sentido, la cartografía y los mapas no escapan a esta tendencia.</p>
+			<p>Desde la década de 1990 el campo de la cartografía ha sido fructífero en escritos y documentos que identifican los mapas como <italic>asuntos sociales</italic> (social issues) y como expresiones de <italic>poder y conocimiento</italic>. El precursor de esta tendencia, como se señaló al principio del artículo, fue el inglés John Brian Harley, un teórico de la historia de la cartografía, quien consideró a la disciplina no solo como una ciencia que describe lugares mediante mapas, sino también una ciencia que es capaz de aportar una dimensión social. Algunos eminentes escritos de Harley fueron compilados en el libro <italic>The New Nature of Maps: Essays in the History of Cartography</italic> (titulo original publicado en 2001). Una de las principales contribuciones de Harley fue la articulación del llamado <italic>discurso cartográfico</italic> basado en planteamientos provenientes de Michel Foucault y Jacques Derrida.</p>
+			<p>En el contexto de la deconstrucción, Derrida propone una lectura minuciosa a textos literarios o filosóficos para llevarlos al extremo de darles una significación diferente de la que parecían estar diciendo, por tanto, <italic>deconstruir</italic> un texto se refiere a interrogar los supuestos que lo conforman para dar una nueva perspectiva. En este mismo sentido, J. Brian Harley propuso aplicar este método deconstructivista en cartografía para generar una nueva interpretación al contenido del mapa.</p>
+			<p>Por otra parte, los autores Rolland Paulston y Martin Liebman realizan una invitación a la cartografía social postmoderna considerando tres académicos: Val Rust perteneciente al área de la educación comparada y dos en cartografía geográfica: John B. Harley y Robert B. MacNee. Los autores plantean que la educación comparada aplicada se beneficia enormemente con los mapas sociales. Éstos ayudan a presentar y decodificar respuesta prácticas inmediatas acerca de los espacios percibidos y las relaciones de personas, objetos y percepciones en el medio social. De esta manera, la interpretación y comprensión tanto de los constructos teóricos y actos sociales puede ser facilitada y resaltada mediante imágenes llevadas a mapas.</p>
+			<p>En este sentido, la <italic>cartografía social</italic> (conocida también como <italic>cartografía participativa</italic>) es una metodología que permite construir conocimiento del territorio a partir de la elaboración de mapas, por parte de un grupo de personas de una comunidad local específica, representando el territorio o espacio geográfico con las distintas visiones y relaciones que se perciben de él. Desde una perspectiva postmodernista, este tipo de cartografía hace un sustantivo aporte tanto a la teoría como a la praxis cartográfica.</p>
+			<p>Al igual que Ortega Valcárcel, los autores Paulton y Liebman ven que el postmodernismo llama a la deconstrucción de aquellas meta-narrativas (o discursos universalistas) vistas como totalizantes, estandarizadas y predominantes, y que tienen una valoración social común en la era modernista. En este sentido, al ser rechazados los discursos totalizadores surgen como alternativas las pequeñas o mini-narrativas. A decir de Rust: “la influencia deliberativa del postmodernismo trasciende no solamente el tiempo y la historia sino también el espacio y la geografía; por ende el espacio llega a ser más importante que el tiempo en el discurso postmoderno” (citado en <xref ref-type="bibr" rid="B5">Paulston y Liebman 1994</xref>:217). En consecuencia, “el mapeo del espacio social es un método efectivo para abordar los argumentos reflexivos de Rust llamando para una aplicación postmodernista a fortalecer las emergentes representaciones de la realidad” (1994:218).</p>
+			<p>El documento citado propone algunos ejemplos de Cartografía Social comparando un mapa deliberadamente diseñado con cánones modernistas con otros tipos de representaciones que retratan las percepciones del mundo social. Es decir, son muestras de cartografía postmoderna que consideran no solamente el espacio mapeado, sino también las percepciones ofrecidas por los reclamantes de dicho espacio.</p>
+			<p>Finalmente, los autores sostienen que “la cartografía social sugiere no una síntesis sino mayores aperturas de diálogo entre diversos actores sociales, incluyendo aquellos individuos y grupos culturales quienes desean que sus ‘mini-narrativas’ sean incluidas en el discurso social. Proponemos que la cartografía social tiene el potencial de ser un estilo de discurso útil para demostrar los atributos y capacidades, así como el desarrollo y las percepciones de la gente y las culturas operando dentro de un medio social. Ésta ofrece a los educadores comparados un nuevo y efectivo método para demostrar visualmente la sensibilidad de las influencias postmodernas para abrir el dialogo social, especialmente para aquellos que han experimentado privación de derechos por el modernismo” (<xref ref-type="bibr" rid="B5">Paulston y Liebman 1994</xref>:232).</p>
+			<p>Este tipo de cartografía, materializado a través del denominado “mapeo comparado” (comparative mapping), permite contar con una herramienta eficaz y de complemento en los métodos etnográficos aplicados en la ciencia social postmoderna. Estos ejercicios de mapeo social (social mapping exercises) corresponden a las llamadas <italic>nuevas prácticas cartográficas,</italic> que desafían la cartografía profesional y científica, señaladas por Denis Wood y John Krygier. Esta cartografía social o participativa se afianza cada vez más con la incorporación de las nuevas tecnologías geoespaciales, tales como sistemas de información geográfica (SIG), <italic>geo-mapping</italic>, y la participación de la denominada información geográfica voluntaria (<italic>VGI</italic> por sus siglas en inglés).</p>
+			<p>Es importante considerar que la denominada <italic>cartografía temática</italic> surgida en el contexto de la modernidad, a través de sus productos -mapas temáticos- incorporó la variable social en la representación cartográfica (v. gr. mapas políticos, sociales, económicos). Esta nueva forma de representación fue un complemento a la <italic>cartografía referencial</italic> (v. gr. carta base, catastro) ya consolidada científicamente y que había tenido una primacía histórica respecto a los mapas temáticos. La diferencia del mapa temático tradicional comparado con esta nueva cartografía social postmoderna, es que en el primero la información estadística de carácter socio-económica, básicamente proviene de organizaciones e instituciones oficiales. En tanto, en los mapas participativos la información y los contenidos derivan de fuentes directas, es decir de las propias comunidades locales. En este sentido diremos que a través de los mapas temáticos tradicionales se representa los metarelatos de la modernidad, mientras que la cartografía social visualiza las mini-narrativas como expresiones de la postmodernidad.</p>
+		</sec>
+		<sec>
+			<title>Regresando al legado de Wittgenstein y su relación con el pensamiento cartográfico</title>
+			<p>Thomas S. Kuhn planteaba en su teoría de la estructura de las revoluciones científicas que en la lógica de los paradigmas solo se entiende el paradigma reemplazado cuando éste es comparado con la actual visión de mundo o nuevo paradigma. En otras palabras, no podemos entender la esencia de un paradigma si no lo contrastamos con los rasgos y características de otro paradigma. En este sentido, el legado de Ludwig Wittgenstein se puede analizar como dos visiones de mundo muy distintas una de la otra. Tanto el <italic>Tractatus Logico-Philosophicus</italic> como su <italic>Investigaciones Filosóficas</italic> plantean dos visiones o perspectivas diferentes en cuanto al <italic>lenguaje</italic> y el <italic>conocimiento del mundo</italic>. Dado lo anterior, puede considerarse que el pensamiento del filósofo experimentó un cambio paradigmático durante su trayectoria.</p>
+			<p>Tal como fue señalado anteriormente, todavía no se ha encontrado algún escrito de Wittgenstein que mencione la cartografía o los mapas como formas de conocimiento. Sin embargo, el desarrollo de la disciplina cartográfica durante la segunda mitad del siglo XX y la primera década del actual, dan cuenta de una evolución equiparable al pensamiento que tuvo el filósofo durante su vida.</p>
+			<p>Cuando Zarycki describe las características y criterios del mapa semántico y el mapa pragmático, existe una conexión entre la primera y segunda filosofía de Wittgenstein, respectivamente. Esto significa que las características del mapa semántico pertenecen a los criterios estrictos de objetividad cuando Wittgenstein en el <italic>Tratactus</italic> establece una relación biunívoca entre el lenguaje y la realidad. No obstante, las concepciones del mapa pragmático son diferentes y sus criterios coinciden con la evolución del pensamiento del último escrito de Wittgenstein en <italic>Investigaciones</italic>, en donde se afirma que el lenguaje descriptivo o declarativo es solo uno de los distintos tipos de lenguajes existentes. De esta manera, los mapas son analizados pragmáticamente en el contexto posmodernista y de la teoría social. Estos mapas permiten otras alternativas para visualizar y entender el mundo circundante, tal como plantean, entre otros, Paulston y Liebman.</p>
+			<p>La <xref ref-type="table" rid="t2">Tabla N° 2</xref> muestra la correspondencia o similitud entre la filosofía wittgensteiniana y el desarrollo reciente de la cartografía. Es importante destacar que dicho paralelismo no es en estricto sentido temporal, sino en sentido secuencial.</p>
+			<p>De acuerdo a lo expuesto en la tabla podemos referirnos a dos aspectos. Primero, el enfoque semiótico aplicado en cartografía, cuando es confrontado el mapa semántico con el mapa pragmático, coincide plenamente con la evolución del pensamiento de Wittgenstein. De hecho, puede afirmarse que la filosofía del <italic>Tractatus</italic>, aplicada a la cartografía, corresponde a una perspectiva científica y objetiva en la representación de la realidad. En otras palabras, estamos en presencia de una cartografía moderna, positivista, científica. Por otra parte, el pensamiento de Wittgenstein en <italic>Investigaciones</italic> se condice con la cartografía postmoderna, una cartografía crítica, social. En otros términos, observamos el surgimiento de <italic>cartografías alternativas</italic> -lenguajes alternativos- frente a la cientificidad imperante.</p>
+			<p>
+				<table-wrap id="t2">
+					<label><bold>Tabla N° 2</bold>
+ <bold>:</bold></label>
+					<caption>
+						<title>Paralelismo entre la filosofía de Wittgenstein y la evolución de la cartografía durante sus periodos moderno y postmoderno (extraído y modificado de <xref ref-type="bibr" rid="B1">Azócar y Buchroithner 2014</xref>)</title>
+					</caption>
+					<alternatives>
+						<graphic xlink:href="10159002-gt2.jpg"/>
+					<table>
+						<colgroup>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="justify">Filosofía de Ludwig Wittgenstein</th>
+								<th align="justify">Perspectiva o pensamiento cartográfico</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="justify">Wittgenstein inicial o Primera Filosofía de Wittgenstein Texto: Tractatus Logico-Philosophicus (1921) Aspecto clave: Lenguaje y mundo (realidad)</td>
+								<td align="justify">Cartografía moderna Cartografía científica Enfoque positivista y neopositivista del mapa (v. gr. mapa semántico, mapa temático)</td>
+							</tr>
+							<tr>
+								<td align="justify">Wittgenstein tardío o Segunda Filosofía de Wittgenstein Texto: Investigaciones Filosóficas (1953) Aspecto clave: Juegos de lenguaje-Contextos</td>
+								<td align="justify">Cartografía postmoderna Cartografía crítica/social Enfoque deconstruccionista y post-estructuralista del mapa (v. gr. mapa pragmático, mapa social participativo)</td>
+							</tr>
+						</tbody>
+					</table>
+				</alternatives>
+				</table-wrap>
+			</p>
+			<p>Un segundo aspecto nos dice que estamos en presencia de un cambio paradigmático experimentado tanto en el pensamiento de Wittgenstein como en la evolución de la cartografía y los mapas, concebidos como formas de conocimiento. En este sentido, el mapa semántico pertenece a la tradición positivista- neopositivista de las ciencias; y el mapa pragmático corresponde a las coordenadas deconstruccionistas y post-estructuralistas de la postmodernidad. Dos visiones de mundo que son paradigmáticas en cuanto a la concepción, análisis e interpretación de la realidad, en este caso una realidad concebida y representada a través de los mapas.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>El análisis de los planteamientos presentados en <italic>Investigaciones Filosóficas</italic> perteneciente al filósofo Ludwig Wittgenstein en la denominada segunda filosofía, en comparación con el legado proveniente del <italic>Tractatus Logico-Philosophicus</italic>, nos permite una mayor comprensión, desde una perspectiva epistemológica, del desarrollo que ha experimentado la ciencia cartográfica y los mapas, durante las últimas décadas.</p>
+			<p>El principal aporte de Wittgenstein desde el <italic>Tractatus</italic> es la relación biunívoca entre lenguaje y realidad o entre lenguaje y el conocimiento del mundo. Existe un lenguaje declarativo que presenta un isomorfismo con la realidad. En el ideal del lenguaje un significado deber corresponder a cada palabra y ésta a cada elemento u objeto de la realidad. En cambio, en <italic>Investigaciones</italic> el significado de cada palabra dependerá del contexto en que dicho juego de palabras es utilizado. En otros términos, la primera filosofía wittgensteiniana plantea que existe un lenguaje único -el de las ciencias fácticas- para comprender la realidad. En tanto que la segunda filosofía retracta la primera y la complementa proponiendo que existen diversos lenguajes para llegar al conocimiento de esa realidad -lenguajes filosófico, religioso, poético, literario, etc.- y no solamente aquel lenguaje formal y declarativo. Además, que con el lenguaje (v. gr. lenguaje performativo) se pueden hacer más cosas que solo referirse a los hechos del mundo.</p>
+			<p>Relacionado con lo anterior, la misma evolución ha experimentado la disciplina cartográfica durante las últimas décadas ya que en primer término dentro de su desarrollo positivo-científico, la disciplina genera como resultado un mapa que está expresado en un lenguaje único: el científico. Es decir, un mapa con característica de exactitud y precisión, con un contenido temático neutro en sentido valórico. Esta noción o concepción de la realidad es coincidente con las concepciones del primer Wittgenstein. Sin embargo, con el correr del tiempo la cartografía se ha transformado y ya no existe un único lenguaje en su representación, por el contrario, existen otros lenguajes alternativos que se van incorporando: el lenguaje de la ciudadanía, de las comunidades autóctonas, de las comunidades locales, de las tribus urbanas, de los artistas, etc. En otras palabras, ya no se representan en los mapas solamente los hechos, fenómenos y concepciones provenientes desde las organizaciones e instituciones oficiales. Por consiguiente, en la etapa actual de la cartografía <italic>hay más cosas</italic> que representar que solo referirse a los “hechos oficiales” del mundo.</p>
+			<p>El aporte desde la semiótica confrontando los llamados mapas semánticos con los mapas pragmáticos, Zarycki nos da luces de concepciones de mapas que en su interpretación corresponden a visiones paradigmáticas contrapuestas. Ambos productos cartográficos tienen objeto de estudio distinto, así como objetivos, metodologías y resultados diferentes. En forma complementaria, los aportes de Paulston y Liebman desde la teoría social, dan cuenta de una cartografía social postmoderna que nos adentra en las nuevas corrientes en que los mapas se están abriendo paso y que son utilizados ampliamente con un enfoque alternativo a los cánones establecidos en la cartografía moderna o tradicional. Todo lo anterior conduce a mirar la disciplina cartográfica más allá de un enfoque tecnológico-utilitarista, ya que, con la incorporación de nuevas visiones provenientes desde la ciencia social, permiten consolidar su cuerpo teórico y resaltar su contribución como forma de conocimiento.</p>
+			<p>Finalmente, se puede establecer que existe un paralelismo entre la evolución del pensamiento wittgensteiniano -desde los planteamientos del <italic>Tractatus</italic> hasta llegar a <italic>Investigaciones-</italic> con la evolución epistemológica que ha experimentado la cartografía y la concepción de los mapas durante su reciente desarrollo. Los teóricos de la cartografía crítica, en el contexto postmoderno, plantean que no rechazan la cartografía científica-tradicional concebida durante el período de la modernidad. Ellos reivindican el surgimiento de otras <italic>cartografías alternativas</italic> frente a los rígidos estándares y reglas de la cartografía oficial, la cual emana tanto de las organizaciones estatales-gubernamentales como de la academia. Haciendo un símil con el pensamiento de Wittgenstein, surgen así <italic>otros lenguajes cartográficos</italic> tan válidos como el lenguaje de la cartografía científica, en que se valoran y resaltan las visiones, subjetividades y percepciones que acontecen en <italic>otros contextos</italic> (social, comunitario, local). Es decir, aquellos contextos en que los diversos sujetos junto con sus narrativas y visiones de mundo han estado ausentes y/o marginados del discurso oficial de la modernidad.</p>
+			<p>Considerando que el análisis en este documento corresponde a una visión desde la cartografía y los mapas, es necesario señalar que no se está proponiendo que la segunda filosofía de Wittgenstein sea de carácter postmoderna como podría ser interpretado. Aquí se plantea que la forma de concebir la actual cartografía denominada postmoderna, en contraposición con las posturas modernas o tradicionales de los mapas, es coincidente con los planteamientos que Wittgenstein formula en su segundo periodo filosófico. Por tanto, el contraste epistemológico de ambas concepciones de la realidad desarrollado por el filósofo durante su vida es comparable a la evolución y concepción que han tenido los mapas -y la disciplina asociada a ellos- como objetos constructores de realidad.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Azócar, P. y Buchroithner, M. 2014. <italic>Paradigms in cartography: an epistemological review of the 20th and 21<sup>st</sup> centuries</italic> Berlin-Heidelberg: Springer. doi:10.1007/978-3-642-38893-4</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Azócar</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Buchroithner</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>Paradigms in cartography: an epistemological review of the 20th and 21st centuries</source>
+					<publisher-loc>Berlin-Heidelberg</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+					<pub-id pub-id-type="doi"> 10.1007/978-3-642-38893-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Koch, T. 2008. The natures of maps: cartographic construction of the natural world. <italic>Cartographic Perspective</italic> 59: 48-51. <ext-link ext-link-type="uri" xlink:href="http://www.cartographicperspectives.org/index.php/journal/article/view/cp59-koch/311">http://www.cartographicperspectives.org/index.php/journal/article/view/cp59-koch/311</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Koch</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>The natures of maps: cartographic construction of the natural world</article-title>
+					<source>Cartographic Perspective</source>
+					<volume>59</volume>
+					<fpage>48</fpage>
+					<lpage>51</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.cartographicperspectives.org/index.php/journal/article/view/cp59-koch/311">http://www.cartographicperspectives.org/index.php/journal/article/view/cp59-koch/311</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Ortega Valcárcel, J. 2000. <italic>Los horizontes de la geografía: Teoría de la geografía</italic>. Barcelona: Ariel.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ortega Valcárcel</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>Los horizontes de la geografía: Teoría de la geografía</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Ariel</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Papineau, D. 2011. <italic>Filosofía</italic>. Barcelona: Blume.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Papineau</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Filosofía</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Blume</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Paulston, R. y Liebman, M. 1994. An invitation to postmodern social cartography. <italic>Comparative Education Review</italic> 38(2): 215-232. <ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/1189032">http://www.jstor.org/stable/1189032</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Paulston</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liebman</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1994</year>
+					<article-title>An invitation to postmodern social cartography</article-title>
+					<source>Comparative Education Review</source>
+					<volume>38</volume>
+					<issue>2</issue>
+					<fpage>215</fpage>
+					<lpage>232</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/1189032">http://www.jstor.org/stable/1189032</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Tejedor, C. 1998. <italic>Historia de la filosofía en su marco cultural</italic>. Madrid: Ediciones SM.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tejedor</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>Historia de la filosofía en su marco cultural</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Ediciones SM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Wood, D. y Fels, J. 2008. The nature of maps: cartographic constructions of the natural world. <italic>Cartographica</italic> 43(3): 189-202. doi:10.3138/carto43.3.189
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wood</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fels</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>The nature of maps: cartographic constructions of the natural world</article-title>
+					<source>Cartographica</source>
+					<volume>43</volume>
+					<issue>3</issue>
+					<fpage>189</fpage>
+					<lpage>202</lpage>
+					<pub-id pub-id-type="doi"> 10.3138/carto43.3.189</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Zarycki, T. 2001. On the pragmatic approach to map analysis. Remarks on the basis of MacEachren’s approach to map semiotics, pp. 64-70. In: A. Wolodtschenko. <italic>The selected problems of theoretical cartography</italic>. Dresden: Proceedings of the Commission on Theoretical Cartography 2000. International Cartographic Association.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zarycki</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<chapter-title>On the pragmatic approach to map analysis. Remarks on the basis of MacEachren’s approach to map semiotics</chapter-title>
+					<fpage>64</fpage>
+					<lpage>70</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wolodtschenko</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source>The selected problems of theoretical cartography</source>
+					<comment>Dresden: Proceedings of the Commission on Theoretical Cartography 2000</comment>
+					<publisher-name>International Cartographic Association</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

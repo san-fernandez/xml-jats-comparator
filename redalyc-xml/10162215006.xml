@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000300347</article-id>
+         <article-id pub-id-type="publisher-id">00006</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Sobre el rol propedéutico de las intuiciones desde una perspectiva racionalista naturalista</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>On the preparatory learning role of intuitions from a naturalistic rationalist perspective</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6603-070X</contrib-id>
+               <name>
+                  <surname>Miranda-Rojas</surname>
+                  <given-names>Rafael</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Católica del Maule. Chile</institution>
+            <institution content-type="normalized">Universidad Católica del Maule</institution>
+            <institution content-type="orgname">Universidad Católica del Maule</institution>
+            <country country="CL">Chile</country>
+            <email>rafaelmirandarojas@gmail.com</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Oct-Dec</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>66</issue>
+         <fpage>347</fpage>
+         <lpage>365</lpage>
+         <history>
+            <date date-type="received">
+               <day>27</day>
+               <month>09</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>14</day>
+               <month>11</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El objetivo principal de este escrito es proponer un papel propedéutico de las intuiciones racionales, a fin de defender una propuesta híbrida entre el acceso epistémico a priori y a posteriori. Las intuiciones racionales deben ser informadas empíricamente, y descartadas cuando hay pruebas contra ellas, cuando la evidencia empírica muestra que la intuición racional es errada, por lo que cualquier creencia guiada por ella también lo sería. Se sostiene que las intuiciones racionales cumplen un importante rol propedéutico: ayudan a comprender diferentes escenarios modales a través de ejemplificaciones contrafácticas. Esto no se opone a la variación cultural de intuiciones, por ello se propone un confiabilismo intuicional variable. Esta propuesta comprende a las intuiciones como falibles y como no conductoras de verdad: no es el objetivo de las intuiciones rastrear la verdad de alguna proposición, sino ayudar a comprender los escenarios hipotéticos que pueden ser relevantes en diferentes áreas.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The main target of this paper is to propose a preparatory learning role of rational intuitions, in order to defend a hybrid proposal between a priori and a posteriori epistemic access. Rational intuitions must be informed empirically, and discarded when there is evidence against them, when empirical evidence shows that rational intuition is wrong, so any belief guided by it would also be wrong. It is argued that rational intuitions play an important propaedeutic role: they help to understand different modal scenarios through counterfactual exemplifications. This is not opposed to the cultural variation of intuitions, therefore a variable intuitional reliability is proposed. This proposal includes intuitions as fallible and as not truth conducive: it is not the goal of intuitions to trace the truth of a proposition, but to help understand the hypothetical scenarios that may be relevant in different areas.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>intuición</kwd>
+            <kwd>filosofía experimental</kwd>
+            <kwd>racionalismo modal</kwd>
+            <kwd>confiabilismo</kwd>
+            <kwd>escepticismo modal</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>intuition</kwd>
+            <kwd>experimental philosophy</kwd>
+            <kwd>modal rationalism</kwd>
+            <kwd>reliabilism</kwd>
+            <kwd>modal scepticism</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="14" />
+            <page-count count="19" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>1. Introducción</title>
+         <p>En discusiones recientes, el foco de atención respecto al rol y relevancia de las intuiciones en el ámbito filosófico ha sido su arista justificatoria y/o evidencial, con resultados que han derivado en un cierto escepticismo respecto a si las mismas son relevantes, y específicamente si lo son para las aristas que diversas argumentaciones filosóficas presuponen que lo son. Surgen por tanto algunas preguntas metafilosóficas respecto a este tópico contemporáneo: ¿Requiere la filosofía intuiciones en su fundamentación? ¿Son las intuiciones una arista central de la argumentación filosófica? ¿Existe un rol argumentativo de las intuiciones en la filosofía? (Fischer The myth of the intuitive). Subyace a estas preguntas una comprensión de los juicios intuitivos (juicios que consideran intuiciones en su justificación) como argumentos prima facie, juicios aprehendidos intuitivamente presentes en algunos argumentos filosóficos. Desde esta perspectiva, las intuiciones son condiciones previas de la argumentación filosófica. Sostener esto es una mala estrategia para un defensor de las intuiciones, principalmente porque se alinea con una lectura que intenta defender y mantener un rol justificatorio de una intuición. Por ello aquí se descarta que las intuiciones sean argumentos prima facie, o que los mismos requieren intuiciones para ser sólidos o válidos. Este es el llamado problema de reubicación (relocation problem, Deutsch The myth of the intuitive), cuya lectura positiva sugiere que relocalizar el rol de las intuiciones pudiese ser una vía de solución a su estatuto epistémico y su eventual relevancia en el ámbito filosófico.</p>
+         <p>La noción de rol generalmente adoptada sin más análisis (evidencial, justificatorio) se entiende como una función, que en este caso desarrolla la intuición en el campo epistémico. Desde el trabajo realizado por Williamson (The philosophy of philosophy) y Cappelen (Philosophy without intuitions), se ha posicionado (incluso desde una perspectiva racionalista) que la mejor opción es renunciar a las intuiciones, tal vez como una forma de evitar la principal crítica desde la filosofía experimental. Pero, ello solo es así si no hay una vía para reconocer la relevancia de las intuiciones sin asumir los roles más problemáticos: rol justificador y rol probatorio. ¿Por qué descartar el rol de las intuiciones, si está fuera de duda que ayudan en diferentes temas (ética, religión, estética, ciencias), incluso si su función no es justificar o entregar evidencia de una creencia? ¿Por qué descartar las intuiciones, si se le asigna a otras nociones o conceptos las funciones que las intuiciones habían realizado antes de este cambio nominal?</p>
+         <p>Aquí no se comprende que la relevancia de las intuiciones consista en algún rol en la argumentación filosófica, que se entiendan como una condición necesaria para los argumentos filosóficos, ni para sus conclusiones (un excedente o surplus en palabras de Deutsch The myth of the intuitive). En su lugar se propone un rol propedéutico (προπαιδευτικός): una evaluación práctica de las intuiciones en vistas a ayudar a comprender escenarios hipotéticos relevantes en diferentes áreas. Queda abierta, por tanto, la pregunta ontológica sobre cuál es su naturaleza, aunque adoptando por defecto una perspectiva deflacionaria, en la cual las intuiciones son un tipo de juicio no inferencial que permite a los sujetos tener algunas disposiciones para creer una proposición p. La propuesta deflacionista evita el llamado problema de centralidad (centrality problem, Cappelen Philosophy without intuitions), vinculado con el papel justificador y evidencial de las intuiciones, omitiendo otras posturas ontológicas sobre la naturaleza de las intuiciones (profundizan en la arista ontológica Fischer y Collins Experimental philosophy, rationalism and naturalism). Esta posición deflacionista podría entenderse como instrumentalista o pragmática, dado que tal rol señala el objetivo práctico de las intuiciones, foco central del aspecto propedéutico.</p>
+         <p>Esto no significa que las intuiciones rastreen la verdad, siendo esta una característica central del denominado rol justificatorio. Pese a lo anterior, acuerdo subjetivo, preferencia o suposición, son nociones estrechamente relacionadas con las intuiciones. Por ejemplo, la filosofía experimental (Xphi) resalta el papel de las intuiciones no expertas (lay intuitions) para mostrar cuán erróneas o sesgadas culturalmente pueden ser: las intuiciones entendidas como suposiciones son verdaderas o falsas, determinadas contextualmente. De esa manera, la distinción propedéutica importante es que las intuiciones ayudan a comprender enunciados potencialmente verdaderos o falsos, previo a la determinación de qué valor de verdad corresponde a cada uno: es decir, la comprensión como condición necesaria para el acceso epistémico a juicios veritativa o aléticamente determinados. Si bien esto parece entrar en tensión con que se entienda que las intuiciones deben ser empíricamente informadas (y que por lo tanto puedan ser erradas en caso de no estarlo), ello refleja más bien la relación entre enunciados empíricos (a posteriori) y enunciados no empíricos (a priori); y esta concepción dicotómica subyacente a esa observación es la que se descarta, siendo el rol propedéutico principalmente evaluativo, previo a los valores de verdad asignados a diversos juicios. Las intuiciones deben ser empíricamente adecuadas: las intuiciones que no siguen este vínculo con el acceso epistémico a posteriori son erradas, fundamentalmente porque descarta el rol de defeater de la evidencia empírica (Tahko Empirically-informed modal rationalism). El acuerdo o desacuerdo respecto a lo que algunos sujetos creen en algún contexto, se considera como evidencia contra las intuiciones: no importa por qué las intuiciones difieren en las diferentes culturas, importa que exista tal diferencia. Sin embargo, si la propuesta propedéutica es plausible, las intuiciones y específicamente las intuiciones racionales, ayudan a entender un escenario A (generalmente) contrafáctico, en contraste con una posición B, no en vistas a decidir qué posición debe aceptarse o rechazarse, sino a la comprensión inicial requerida para esa evaluación alética ulterior.</p>
+         <p>Las intuiciones desempeñan por tanto un rol propedéutico en la arena argumentativa, y solo ese papel: las intuiciones racionales, específicamente, entregan razones que deben evaluarse ulteriormente mediante argumentos y relaciones inferenciales. Algunos autores sugieren un enfoque similar, al que llaman rol heurístico: “to motivate philosophical questions or raise philosophical puzzles, such as where philosophers intuitions clash with background beliefs, so that the very possibility of what we take to be familiar facts comes to seem puzzling” (<xref ref-type="bibr" rid="B6">Fischer y Collins 2015</xref>:12). También Thomas (A typology for the case study in social science) ha desarrollado una tipología para el estudio de casos, en la que esta propuesta podría entenderse como ilustrativa (illustrative) en lugar de, por ejemplo, testeo de teorías (theory testing) o construcción de teorías (theory building). Al mismo tiempo, esta interpretación arroja luz sobre por qué una intuición no es un caso de background belief, una suposición, o una premisa oculta.</p>
+         <p>Los argumentos filosóficos prueban la confiabilidad y falibilidad de las intuiciones, a través de los accesos a priori y a posteriori. Es un locus classicus que la relevancia de las intuiciones reside en la confiabilidad que proporcionan como un caso de acceso epistémico, en términos generales. Otra cuestión es qué rol cumplen, racionalmente. El papel propedéutico parece responder a una correcta relación epistémica entre intuiciones, creencias y conocimiento, a través de herramientas argumentativas. Vale la pena considerar algunos ejemplos de afirmaciones intuitivas:</p>
+         <p>“a fully rational person does not believe both p and not-p.</p>
+         <p>Torturing a sentient being for fun is wrong.</p>
+         <p>It is impossible for a square to have five sides” (Pust Intuition)</p>
+         <p>Do unto others as you would have them do unto you (https://www.peta.org/)</p>
+         <p>El punto principal respecto a los ejemplos normativos prácticos (hacer o no hacer algo) es que, si se pueden comprender de forma intuitiva, esto no significa que estén justificados o que no requieren análisis ulterior, o argumentación. Solo significa que hay un entendimiento preliminar que permite esa actitud ulterior con respecto a los sujetos, paradigmáticamente la creencia y el conocimiento. Es importante explicitar que las proposiciones éticas intuitivas cumplen una función adicional a la propedéutica aquí propuesta, cual es orientar las acciones (guide action role). ¿Parecen verdaderos estos enunciados? ¿Son proposiciones verdaderas? ¿Se comprende su contenido o son un sin sentido? Si son proposiciones verdaderas: ¿Lo son porque son intuitivas? ¿O son intuitivas porque son verdaderas? En pocas palabras, como lo observan Chapman et alia (In defence of intuitions: a new rationalist manifesto), hay escepticismo acerca de la confiabilidad de las intuiciones, particularmente si es el caso que una intuición racional podría justificar algunas creencias infundadas, irracionales y falsas. Por ello el rol de las intuiciones que aquí se propone es más bien metodológico, subsidiario al acceso epistémico, propedéutico. Este podría ser el papel metodológico de las intuiciones racionales en la filosofía y en otras áreas del conocimiento.</p>
+         <p>Preguntar sobre la metodología tiene un impacto en lo que se entiende como epistemológicamente relevante, y si lo que es metodológicamente relevante tiene alguna prioridad sobre esta pregunta. Sobre este punto, resulta preferible una cierta sincronía entre los aspectos epistémicos y metodológicos de la intuición, sin suponer que uno sea anterior al otro, al menos en relación con el papel específico de las intuiciones racionales en la comprensión de los problemas filosóficos, que es el objetivo central de la propuesta propedéutica: mostrar, evaluar y orientar decisiones, acciones y juicios. Así se observa, por ejemplo: “Determine understanding can be explicated in terms of the associated metaphysical possibility of this sort of truth tracking intuition” (<xref ref-type="bibr" rid="B1">Bealer 2002</xref>:103). La propuesta de Bealer se refiere a este rol explicativo, a pesar de que existe un compromiso entre la comprensión y la función de seguimiento de la verdad (truth – tracking function). Independiente de ello, el punto a destacar es el antecedente de determinar la comprensión para el rol propedéutico. No es errado sostener que actualmente este rol propedéutico se encuentra en un segundo plano, siendo el foco central de crítica al intuicionismo el rol evidencial y justificatorio. Así, aquí se sigue (parcialmente) la tesis sobre el nuevo racionalismo, a saber, “that rational intuitions do at least sometimes, but not always, deliver reliable, but not absolutely infallible, information about the abstract truth-making objects of necessary propositions” (<xref ref-type="bibr" rid="B3">Chapman et al. 2012</xref>:2).</p>
+         <p>La interpretación de esta tesis que se acoge aquí es que hay información conceptual, no evidencial ni empírica, que permite a un sujeto S entender y afirmar alguna proposición p a través de medios a priori, sin descartar, por este motivo, la relevancia de los datos empíricos en el análisis de la falibilidad intuicional, siendo las creencias a priori y empíricamente adecuadas un ejemplo paradigmático de cómo puede establecerse un nexo entre ambos accesos epistémicos. Sin embargo, a diferencia del denominado nuevo racionalismo, esta comprensión propedéutica de cierta información a priori no cumple el rol epistémico de justificar una creencia o, más específicamente, ser el hacedor de verdad (truthmaker) de proposiciones a priori.</p>
+      </sec>
+      <sec>
+         <title>2. Confiabilidad propedéutica o confiabilismo intuicional: una alternativa al rol justificatorio desde una propuesta apriorista dinámica</title>
+         <p>¿La intuición justifica alguna creencia o conocimiento? Si la respuesta es sí, entonces esa posición atribuye a las intuiciones el papel justificador o, en otras palabras, que S cree p porque parece verdadero (seems true) que p es el caso, de acuerdo con esa intuición. Si la respuesta es no, entonces sería apropiado descartar las intuiciones del debate epistemológico y los alcances metodológicos. ¿Por qué se seguiría esta consecuencia? Principalmente porque al rechazar que la intuición justifica alguna creencia, se asume implícitamente que no es un acceso epistémico confiable y, por lo tanto, debe ser excluida del debate filosófico. Esta es una manera restrictiva de entender la relevancia de las intuiciones en la filosofía. Además de la función de justificación o evidencia, hay dos funciones que pueden cumplir las intuiciones: una contrafactual o ejemplificadora, que aquí se ha denominado una función propedéutica; y una función de acción de guía (guide action role). Un ejemplo de análisis contrafácticos con objetivos de difusión es posible observarlo en What If.</p>
+         <p>Ello releva que, independiente del valor de verdad de los casos hipotéticos evaluados, el proceso de reflexión resulta valioso por sí mismo. En ambos casos, existe una cierta confiabilidad no justificatoria en las intuiciones. La razón por la que este es un mejor enfoque del criterio de relevancia sobre las intuiciones es que no supone una comprensión reductiva de lo que debe ser entendido como relevante en el ámbito filosófico y metafilosófico. Los casos paradigmáticos de acceso epistémico a través de intuiciones solo muestran que hay un acceso a priori a esa creencia o conocimiento, no que sean verdaderos porque son intuidos, una posición racionalista extrema, ya que asegura que las intuiciones son una condición necesaria y suficiente para creer o conocer una proposición p. Esto es descrito como “intuitiveness as good evidence” (<xref ref-type="bibr" rid="B5">Deutsch 2015</xref>:x), una posición que el autor descarta. El papel de las intuiciones como acceso epistémico no presupone que este acceso sea a través de un estatus justificatorio ni evidencial. De esta manera, se concilia el estado epistémico de las proposiciones a priori y la relevancia de las intuiciones racionales como una forma de aprehender tales proposiciones, sin sostener que esta es una condición necesaria para acceder a tal proposición: un sujeto S podría aprehender las proposiciones a través del razonamiento intuitivo, o no (de allí el criterio de dispensabilidad discutido el 2017). Al mismo tiempo, se evita el contra argumento de la filosofía experimental, que se centra en las intuiciones racionales como una forma de descartar la relevancia de la información empírica en la arena filosófica, entendiendo las intuiciones como una vía de relevar o sesgos (biases) o una tergiversación (misrepresentation) de la realidad sin valor en estas discusiones (o con valor negativo, lo que debe ser evitado).</p>
+         <p>Así, al menos algunas intuiciones racionales podrían ser una fuente de comprensión conceptual, en lugar de ser entendidas como una forma de creer sin evidencia (believe without evidence). Esta comprensión permite que un sujeto S esté dispuesto a creer p, por lo que, en este sentido, las intuiciones racionales son un tipo de disposición a creer (disposition to believe, Sosa Experimental philosophy and philosophical intuition). Al mismo tiempo, tener una competencia conceptual (conceptual competence) está vinculado con los avances de la filosofía experimental destacados por Machery (The illusion of expertise). De cualquier manera, el papel de las intuiciones en el tópico metodológico filosófico es una discusión central, y algunos filósofos parecen pensar que ponen en riesgo la naturaleza misma de la filosofía, o al menos la llamada filosofía de sillón (armchair philosophy). Está fuera de duda la relevancia de la evidencia empírica para evaluar la corrección (correctness) de las intuiciones racionales, y que sean de este modo una guía epistémica confiable tanto en el ámbito teórico como práctico. En el ámbito práctico, como se ha explicitado, las intuiciones desarrollan un rol de guía de cierta acción, pero usualmente este caso específico se entiende como un caso sui generis de sesgos (biases), lo que abre una arista que será desarrollada en un escrito ulterior. Lo anterior no se opone a que un acceso a priori sea válido per se, si bien diversas posturas racionalistas rechazarían esta lectura híbrida a priori – a posteriori, desarrollada a través de la noción de bootstrapping.</p>
+         <p>El rol propedéutico descarta que las intuiciones sean un tipo de prejuicio (prejudice) o sesgo (bias). Dialécticamente es interesante que, si este fuera el caso, refleja el contexto sociocultural en el que aparece ese prejuicio en primer lugar. Por ejemplo, el racismo, el sexismo y la xenofobia se discuten en de Baggini Why sexist and racist philosophers might still be admirable. Si las intuiciones fueran un subproducto del contexto sociocultural, entonces no habría una manera de validar desde un punto de vista epistémico, ya que serían entendidas como defectuosas (flawed). Incluso el rechazo de las intuiciones desde esta perspectiva sería una postura insostenible, las intuiciones entendidas como un hombre de paja (straw man) de la filosofía experimental. La opinión de Baggini es algo extraña: un filósofo podría ser digno de admiración si sus sesgos se atribuyen al contexto social en lugar de al sesgo del filósofo: “Anyone who cannot bring themselves to admire such a historical figure betrays a profound lack of understanding about just how socially conditioned all our minds are, even the greatest. Because the prejudice seems so self-evidently wrong, they just cannot imagine how anyone could fail to see this without being depraved” (Baggini Why sexist and racist philosophers might still be admirable).</p>
+         <p>A su vez, una noticia reciente consigna el retiro de una estatua concerniente al supuesto racismo de Ghandi (Gandhi statue removed from African university over claims of racism). Ejemplos como estos muestran cuán importante es distinguir las intuiciones como un caso de acceso epistémico a priori, falible y empíricamente informado. Por ello Stump (Conceptual change and the philosophy of science) denomina lo a priori como una precondición necesaria para la comprensión y el conocimiento (necessary precondition for understanding and knowledge), la aprehensión conceptual como precondición para el conocimiento científico. Complementa esta posición, analizando la concepción de la lógica de Carnap: “logic is a given, a place that we must start and taken to be universal. It is literally inconceivable to question logic, since all questioning…presupposes logic” (Stump 2015:xiv). No es extraño que los ejemplos paradigmáticos de las intuiciones racionales sean los principios lógicos, ya que desde una perspectiva evidencial estas intuiciones serían evidentes por sí mismas.</p>
+         <p>Dado que el acceso a priori se propone como falible, el cambio conceptual va de la mano con la variabilidad de la intuición como una forma de aprehender esos conceptos. Esto es lo que Stump (Conceptual change and the philosophy of science) denomina lo a priori dinámico o relativo (dynamic or relative a priori). En la misma línea, la postura denominada universalismo epistémico es analizada por Hongladarom (Epistemology for the rest of the world). El universalismo epistémico analizado permite diferencias intuicionales en diferentes culturas, lo que sugiere que podría eventualmente defenderse una comprensión del verbo conocer (foco central del análisis), acogiendo un potencial pluralismo conceptual de verbos y las actitudes proposicionales que se atribuyen a los mismos. De hecho, al igual que las intuiciones, el cambio conceptual depende del contexto y, por lo tanto, lo que es constitutivo o central en algunas teorías depende de lo que prioricen los contextos. Varias razones impulsan tal posición, entre ellas el hecho de que, desde un punto de vista filosófico experimental, como aquí se comprende esa empresa, no es su foco principal descartar (discard) las intuiciones como un acceso epistémico valioso, sino conectarlas con la información empírica que permite a una intuición ser más confiable, o confiable simpliciter.</p>
+         <p>De esta forma, lo que se propone denominar confiabilismo intuicional variable (variable intuitional reliabilism) es un tipo de racionalismo naturalista. Esta es una forma de abordar el desacuerdo (disagreement) o la variabilidad intuicional, como un punto a favor para las intuiciones, mostrando cómo esas diferencias son un resultado esperable. De este modo, se afirma que “variability in intuitions as indicative of variability in concepts” (Fischer y Collins 2015:413). Sobre este punto, Arvan (Rightness as fairness) desarrolla una interesante discusión sobre el desacuerdo desde un punto de vista moral, y cómo esto afecta la noción misma de rectitud y equidad (rightness and fairness). El punto central de Arvan es que en la filosofía moral no solo hay casos de desacuerdo, sino también de desacuerdo sistemático (systematic disagreement). A pesar de esto, Arvan defiende la existencia de verdades morales (moral truths), científicamente evaluables. Para hacer esto, el autor propone la imaginación modal (modal imagination) y los hallazgos experimentales (experimental findings) como formas de entender la racionalidad y el proceso de toma de decisiones (decision making process). Se observa en esta propuesta un caso de racionalismo naturalista.</p>
+      </sec>
+      <sec>
+         <title>3. El método de casos reconsiderado y la neutralidad del rol propedéutico intuitivo</title>
+         <p>La característica principal del llamado método de casos (method of cases) es: “Consider […] paradigmatic examples of contemporary philosophical reasoning in which a philosophical theory is taken to be prima facie undermined by contradicting an intuition regarding a particular hypothetical case” (Pust Intuition).</p>
+         <p>Como lo analiza Machery (Philosophy within its proper bounds), el caso Gettier es un ejemplo paradigmático de cómo y por qué las intuiciones se entienden como evidencia prima facie a favor o en contra de alguna teoría filosófica. El papel propedéutico relevado aquí se acerca al análisis desarrollado por Saul Kripke (Naming and necessity) respecto a la noción de necesario a posteriori, fuertemente criticada en algunas discusiones contemporáneas. Si las proposiciones necesarias a posteriori están sesgadas por intuiciones racionales específicas (Machery et alia Semantics, cross-cultural style), entonces parece que son modalmente defectuosas (modally flawed). El punto principal es que las intuiciones racionales, en la propuesta kripkeana, no son entendidas como justificación o evidencia de este tipo de proposiciones, sino como una herramienta para entender las posibilidades metafísicas y epistémicas, cualquiera que estas sean. Por supuesto, Kripke favorece una opción, pero ese es otro punto. Desde un punto de vista propedéutico, las intuiciones racionales son neutrales con respecto al juicio que algunos sujetos hacen, las intuiciones racionales resaltan la información conceptual contrafáctica. La neutralidad es abordada recientemente también por el análisis de Machery sobre el método de los casos, a través de propósitos inocuos (innocuous purposes) de casos hipotéticos en la filosofía: “Cases are used for different purposes, some of which are utterly innocuous. Cases can be used to get philosophical inquiry started by eliciting puzzling attitudes (e.g., puzzling judgments) that motivate philosophical discussion: This is their provocative use… An important, but still innocuous use of cases is illustrative: Philosophers often use cases to illustrate a philosophical theory or a philosophical argument by showing how this theory or this argument applies to the situations described by the cases or to illustrate the analysis of a concept of philosophical interest by showing how so analyzed this concept applies to these situations. A philosophical point that is hard to grasp abstractly might be more easily understood once illustrated by means of a concrete case” (<xref ref-type="bibr" rid="B9">Machery 2017</xref>:14-15).</p>
+         <p>Es correcto que Machery rechaza que las intuiciones contribuyan en esta área, principalmente porque el análisis conceptual y la comprensión se presuponen aquí solo a través de los casos enunciados. No obstante, no se explica por qué esos casos son o pueden ser de hecho provocativos o ilustrativos, y ello se debe a que se han formado teniendo en cuenta diferentes escenarios, escenarios intuitivos, que luego los sujetos deben evaluar y explicar por qué prefieren uno, en lugar del otro, o ninguno (por ejemplo, en casos de falsa dicotomía). Es correcto, al mismo tiempo, que la neutralidad intuitiva que caracteriza el rol propedéutico, exige que los casos se formen sin una preferencia particular por intuiciones específicas, y es cierto que este no parece ser el caso en diversos experimentos mentales: a través de ellos se intenta convencer a un sujeto S que una opción A es mejor que B, o al revés. Por lo tanto, esto debe evitarse al momento de utilizar intuiciones con objetivos propedéuticos y de comprensión. La neutralidad funciona en orden a explicar la variabilidad intuicional y, por ende, el desacuerdo filosófico.</p>
+         <p>Considérese, por ejemplo, cómo se entiende que una proposición sea verdadera contingente a priori: significa que puede cambiar a través de contextos diferentes, y de hecho esto es lo que ha ocurrido recientemente con la determinación de la referencia del concepto kilogramo, analizado por Kripke a partir de la estipulación de la temperatura en que hierve el agua en un contexto específico (al nivel del mar) y el concepto de metro: “Suppose someone stipulates that 100 degrees centigrade is to be the temperature at which water boils at sea level. This isn’t completely precise because the pressure might vary at sea level. Of course, historically, a more precise definition was given later. But let’s suppose that this were the definition. Another sort of example in the literature is that one meter is to be the length of S where S is a certain stick or bar in Paris” (<xref ref-type="bibr" rid="B8">Kripke 1980</xref>:54).</p>
+         <p>Es importante tener en cuenta que Kripke está distinguiendo entre fijar (fix) la referencia y dar el significado (give the meaning). La posición de Kripke en este caso es que la variabilidad descarta que el tópico sea sobre el significado, y por eso defiende fijar la referencia como el ejemplo estándar de decisión convencional, a través de propiedades accidentales. En el caso del kilogramo (Historic vote to redefine the kilogram changes forever the way we measure mass) otro problema es si la constante de Planck podría entenderse como un caso de proposición contingente a priori (porque es una constante, un número infinitesimal invariable). Tahko (Empirically-informed modal rationalism), siguiendo a Lowe (What is the source of our knowledge of modal truths?), delinea cómo una definición real (real definition) de esencias está estrechamente relacionada con estipulaciones como esta, cuyo ejemplo es: “(C1) A circle is the locus of a point moving continuously in a plane at a fixed distance from a given point” (Tahko 2017:33). En ambos casos, aunque es más evidente en los casos contingentes a priori, existe una suposición de falibilidad, que disminuye en el caso de lo necesario a posteriori no mediante premisas implícitas basadas en intuiciones, sino a través de principios lógicos (y metafísicos desde un cierto punto de vista), asumidos como verdaderos, como es el caso del principio de identidad o diferencia (esto no toca el rol de la intuición en el denominado problema de la identidad modal).</p>
+         <p>Así, la neutralidad intuicional explica la variabilidad, y el desacuerdo es un signo de variabilidad (intercultural). El problema ulterior con la variabilidad aparece si y solo si una teoría T1 intenta sostener universalidad, pero eso está más allá de la discusión de la intuición per se (ver Céspedes Incommensurability, types of phenomena and relevant incompatibility, part I). Pero, desde un punto de vista filosófico experimental, esto podría exigir la suspensión del juicio: “Philosophical cases also tend to elicit different responses: If these responses are a genuine sign of disagreement, we ought to take stock of this disagreement by suspending judgment; if these responses indicate instead that people are speaking at cross purposes, then we should reorient our research priorities and at least for the time being stop theorizing about justice, permissibility, causation, or personal identity” (<xref ref-type="bibr" rid="B9">Machery 2017</xref>:9).</p>
+         <p>Así, como Nado y Johnson (Moderate intuitionism: a metasemantic account) enfatizan siguiendo a Weinberg et alia. (Normativity and epistemic intuitions), también existe acuerdo intercultural (cross-cultural agreement) en las intuiciones, como por ejemplo que las suposiciones aleatorias no son conocimiento (random guessing is not knowledge). Ahora, uno podría pensar que este ejemplo o uno similar (como que asesinar a personas inocentes no es el summun bonum. Johnson y Nado, Ibid.) son triviales, o truismos. Otro ejemplo es la abolición de la esclavitud en EE. UU. A través de la enmienda 13, discutida recientemente en relación a una cláusula de excepción (Does an exception clause in the 13th amendment still permit slavery?). ¿Esto significa que la esclavitud, como en el caso de la tortura por diversión (torturing for fun), no siempre es incorrecta?</p>
+         <p>Las intuiciones guían los juicios en casos como este, a través de la comprensión conceptual (conceptual understanding), sin por ello resolver la problemática, ética en este caso. Otra interpretación es que reflejan similitudes interculturales (Epistemic intuitions are shockingly robust across cultural differences). La característica de trivialidad está asociada con la de irrelevancia, y así la convergencia intercultural entre intuiciones sería irrelevante. Si esto es así, es un escenario negativo para el intuicionismo, principalmente porque, de cualquier manera, con o sin convergencia, las intuiciones son irrelevantes o, en el mejor de los casos, triviales. Esto es así principalmente porque en ambos casos se supone que sin acuerdo intuicional, no hay progreso, y con tal acuerdo, habría una trivialidad. Comprender diferentes escenarios, hipotéticos o empíricos, ayuda a entender cómo algunas intuiciones podrían guiar acciones o ayudar en el proceso de toma de decisiones (decision making process).</p>
+         <p>Un breve ejemplo de un experimento mental que parece ayudar a entender y tomar una decisión guiada por intuiciones, manteniendo la neutralidad propedéutica propuesta, es el siguiente (basado en un enunciado revisado previamente): Supongamos que se ha dictado una ley que permite torturar a un ser sensible por diversión, sin castigo. De hecho, la ley asegura una recompensa por ese tipo de acción. Para la mayoría de las personas, esto parecería incómodo, al menos. ¿Por qué esto es así? ¿De alguna manera está justificado tal tipo de norma? ¿Se funda en intuiciones? Al mismo tiempo, si se da el caso de que tal afirmación parece errónea, parece ser algo que sugiere que la posición es intuitivamente errónea, equivocada y eventualmente falsa. Este parecer es meramente conceptual, asumiendo implícitamente que casos como este experimento mental fortalecen la hipótesis inicial. El análisis conceptual no se da solo en la arena filosófica, y el papel de las llamadas intuiciones racionales en que un sujeto S crea que “Torturar por diversión a un ser sensible es incorrecto" es verdadero e intuitivamente aprehendido. Así, una postura racionalista no moderada sostiene: “rational intuitions […] act as sufficient justifiers of rational human cognizers’ beliefs about certain kinds of propositions, i.e., necessary truths, and because of these intuitional sufficient justifiers, authentic a priori knowledge is really possible” (<xref ref-type="bibr" rid="B3">Chapman et alia 2012</xref>:1).</p>
+         <p>Usualmente, se asume que el vínculo entre necesidad - a prioridad - verdad es confiable, en la medida en que existe una vía o acceso a algunas proposiciones que cumplan estos criterios. Pero, si la pregunta es qué justifica alguna proposición que es necesariamente verdadera, cognoscible a priori, el tema no se limita a las intuiciones racionales: entender las proposiciones a priori no se reduce a la aprehensión a través de intuiciones. Esto es lo que se debe enfatizar sobre el análisis conceptual, incluida la discusión paradigmática sobre el conocimiento a través de los casos tipo Gettier (Is justified true belief knowledge?). Una intuición podría mostrar que:</p>
+         <p>i) Algunas creencias empíricamente justificadas (empirically justified) pueden ser falsas, si se da el caso de que el acceso perceptual no permite establecer distinciones conceptuales, como la distinción entre creencia justificada verdadera - conocimiento.</p>
+         <p>De esta manera, existe una vía a priori, conceptual, que permite no solo adquirir algún ítem de conocimiento, sino también evaluar la validez de las creencias perceptuales: es una relación fructífera y recíproca entre ambos accesos epistémicos. Por lo general, la pregunta se ha discutido al revés: cuestionar la validez de un acceso a priori, exigiendo que el análisis conceptual sea empíricamente informado. Parece una mejor estrategia establecer el plus de la interrelación entre ambas aristas, cuyos alcances y límites debiesen evaluarse caso a caso. Este enlace no es un problema per se ni un indeseable desiderátum. De hecho, un enfoque híbrido entre lo a priori y lo a posteriori enfatiza la relevancia y la interdependencia (no independencia) entre estos accesos epistémicos. El rol argumentativo criticado por la filosofía experimental presupone que la intuición racional es un tipo de acceso privilegiado a algún ítem de conocimiento o creencia, lo que aquí es rechazado en mor del rol propedéutico.</p>
+         <p>Esta interpretación desde la filosofía experimental del rol de la intuición racional en la filosofía supone que el criterio de confiabilidad (reliability) se aplica solo a procesos de conducción de la verdad (truth-conduciveness, Becker Evidence). Ello descarta que un acceso epistémico sea confiable sin que ello exija acceder a algún conocimiento o razones para creer; este rol extiende la noción de confiabilidad al paso previo de comprensión conceptual. De este modo, las intuiciones racionales permiten comprender y prever posibles escenarios, teóricos y/o prácticos, sin suponer que estos escenarios son aléticamente evaluables a través de alguna aprehensión intuitiva. Esta propuesta es un tipo de minimalismo acerca de las intuiciones, sin asumir un rol justificatorio o evidencial, defendiendo a su vez la relevancia de las intuiciones racionales en el ámbito filosófico. Al asumir los roles justificatorio y evidencial, el denominado supuesto de centralidad (centrality assumption) muestra que hay intuiciones que guían las teorías, incluso si esas intuiciones finalmente son determinadas como erradas, por ejemplo, vía contrastación empírica.</p>
+         <p>La relevancia de las intuiciones no reside, por lo tanto, en el proceso de justificación, ni en el proceso evidencial: reside en la capacidad contrafáctica o hipotética de comprender y evaluar la plausibilidad de diferentes escenarios (de nuevo, teóricos o prácticos). Entonces, cualquiera sea el caso sobre el valor de verdad de, por ejemplo, 2 + 2 = 4 o que es incorrecto torturar por diversión, el punto principal es que en casos como este no son las intuiciones las que dan las razones ni la justificación de tales ítems de creencia o conocimiento. Además, hay casos de intuiciones sobre proposiciones falsas, como en el ejemplo paradigmático de que una pared no puede ser verde y azul al mismo tiempo, S tiene la intuición de que esto es correcto según sus experiencias perceptuales anteriores. Aquí la analogía fenomenológica entre percepción e intuición parece alcanzar su límite, pues es incorrecto suponer que, si la percepción cumple una función justificadora, también lo hace la intuición. La percepción es una vía a posteriori, directamente falsificable. La intuición es un acceso a priori sui generis, y atribuirle el rol justificador retrotrae a una posición racionalista fuerte que defiende precisamente ese rol y valida el criterio de parecer verdadero (seems true), con todos sus problemas. Esto es lo que Koksvik (The phenomenology of intuition) ha destacado a través del nexo disposición para creer - intuición. De hecho, tener una cierta disposición podría ser compatible con el papel propedéutico, en la medida en que se descarte como justificador o compromiso evidencial.</p>
+      </sec>
+      <sec>
+         <title>4. Intuition mongering como consecuencia de un racionalismo extremo</title>
+         <p>Recientemente, un ejemplo de este rechazo de las intuiciones es el uso del término mongering (entusiasmo excesivo) para referirse a los pensadores que confían en ellas. Se observa así por ejemplo en las siguientes citas:</p>
+         <p>“just as appealing to experts is not a good way to resolve a dispute when the experts themselves disagree, appealing to intuitions is not a good way to resolve a dispute when philosophers have incompatible intuitions” (Mizrahi 2012:170).</p>
+         <p>“if the intuition-mongering were abandoned, would that be the end of philosophy? it would be the end of a certain style of philosophy – a style that has cut philosophy off, not only from the humanities but from every other branch of inquiry and culture” (Weinberg thought experiments and philosophical method).</p>
+         <p>En paralelo, se observa un uso en los medios de comunicación de la noción fearmongering (el ex presidente Barack Obama atribuye esta noción a Trump y sus dichos contra los inmigrantes Midterms 2018: Obama accuses Trump of lying and 'fear-mongering' over migrant caravan as election looms y Fox News and Trump reboot a fearmongering TV drama from 2014) considerando el tópico de la inmigración durante el 2019, el problema de ISIS en 2014. En filosofía, como se ha analizado, se cuestiona principalmente la relevancia epistémica de tener intuiciones en orden a creer que p es el caso. Otra fuente que usa esta misma expresión para referirse a las intuiciones es: “Incidentally, the debate in the 1990s about the content of the frog’s visual representation of the fly was never a matter of mere intuition mongering, as some have complained. It was, and still is, about which content ascription hangs together best with the commitments of cognitive neuroscience and other relevant scientific disciplines” (<xref ref-type="bibr" rid="B7">Garson 2018</xref>:728).</p>
+         <p>Mizrahi desarrolla esta crítica al entusiasmo exagerado respecto a las intuiciones en dos escritos breves. El punto importante aquí es resaltar que confiar en ciertas intuiciones desde el rol propedéutico evita esta crítica, al descartar que las mismas justifiquen alguna creencia. El propósito de rechazar las intuiciones como una guía confiable se debe a su apariencia y proximidad a otra noción: conocimiento fácil (Easy knowledge. Mejia Believing without evidence is always morally wrong, donde se enfatiza las consecuencias prácticas de lo que denomina careless believing, siguiendo a Clifford The ethics of belief ); o mera adivinación (mere guessing, <xref ref-type="bibr" rid="B4">Dennett 2013</xref>).</p>
+         <p>Así, no se puede saber que está lloviendo solo porque le parece verdadero a un sujeto S, se necesita evidencia para creer eso. El supuesto es, entonces, que la evidencia parece excluir el desacuerdo (disagreement), y si no hay evidencia, el desacuerdo aparece más fácil. En ciencia, el desacuerdo pone en riesgo la noción misma de objetividad fundada en la evidencia, como se enfatiza: “Disagreement is at odds with how we think science works. Evidence ‘proves’ a theory, it ‘hows’ us how the world is. Science is supposed to be objective, and scientists follow the evidence wherever it leads. If scientists can disagree for years on end, what does this mean for the objectivity of science?” (Zollman What it means when scientists disagree).</p>
+         <p>Como en el caso del movimiento browniano discutido como un ejemplo de evidencia indirecta sobre la existencia de los átomos, la propuesta de Zollman afirma que existe una diferencia entre el desacuerdo científico y el desacuerdo en otras áreas (como la filosofía). En algún punto, se espera que la evidencia o la evidencia indirecta resuelva los desacuerdos previos. ¿Estaba Einstein haciendo un experimento mental cuando calcula cómo se debería comportar una partícula microscópica (aún visible) si chocaba con átomos (invisibles)? (Zollman What it means when scientists disagree). ¿Estaba Perrin confirmando este experimento mental, empíricamente? Este es el mejor modo de conectar los accesos a priori – a posteriori, cada uno con sus límites y alcances, aceptando la contribución de ambos accesos, siendo la intuición un caso sui generis de acceso a priori. Nuevamente, esto no supone entender las intuiciones como evidencias, entre otros motivos porque el rol evidencial asume que:</p>
+         <p>ii) Si las intuiciones racionales no cumplen estos roles, entonces son epistémicamente irrelevantes.</p>
+         <p>Este es un supuesto escéptico respecto a este acceso epistémico a priori, entendiendo las intuiciones como herramientas de pensamiento (tools of thought), útiles para evaluar diferentes escenarios contrafácticos (Kushnir The developmental and cultural psychology of free will), por lo que aceptar solo un papel evidencial podría ulteriormente afectar la noción de acceso a priori, en un sentido amplio, y no solo las intuiciones como caso sui generis. En efecto, Sosa (Experimental philosophy and philosophical intuition) indica cómo podría afectar a otras vías, considerando la falibilidad de las intuiciones y percepciones. Esto es parte de una agenda naturalista fuerte, por lo que la propuesta del rol propedéutico también intenta evitar esa consecuencia. Las intuiciones no nos proporcionan evidencia empírica, por eso es importante considerar el vínculo entre lo a priori y a posteriori como una forma de evitar un sesgo a priorista (a priorist bias).</p>
+         <p>Por otra parte, Nado y Johnson (Moderate intuitionism: a metasemantic account) sostienen que hay una manera moderada, evidencialista, de entender el papel de las intuiciones no solo en la filosofía. Si no existe tal cosa como rastrear la verdad (tracking the truth) vía intuiciones, estas no serían epistémicamente relevantes. Lo anterior ocurre desde una postura restrictiva respecto a qué se entiende por relevante, si se descarta por ejemplo que el rol propedéutico lo sea, aun si este permite resaltar diferencias conceptuales, evaluar diversos escenarios y sus posibles consecuencias. Así, la función principal de las intuiciones consiste en ayudar a comprender y evaluar conceptos y escenarios (Machery Philosophy within its proper bounds). Esto implica que los llamados experimentos mentales tampoco rastrean la verdad, y esa no es su función, fundamentalmente porque en ese caso las intuiciones y los experimentos mentales serían un caso sui generis de evidencia para algún ítem de conocimiento y/o creencia, y eso es lo que siguiendo a Machery (Íbid.) es inmodesto (immodest). Las intuiciones no son premisas implícitas (hidden premises), ni premisas sesgadas en la argumentación filosófica. Y, si así fuesen utilizadas, ello sería un error. Las intuiciones no rastrean la verdad, independiente de que las intuiciones pueden ser rastreadas (Roberts, Andow y Schmidtke Lay intuitions about epistemic normativity). De cualquier manera, siguiendo a Weinberg (Humans as instruments), no está claro que la tarea de la investigación filosófica en la que se enmarca la discusión respecto a las intuiciones sea o consista en predicciones precisas, empíricamente verificables. No es, al mismo tiempo, la búsqueda de compatibilismo entre ciencia y filosofía lo que mueve una defensa moderada de algunas intuiciones, ni una agenda oculta en favor de un racionalismo fuerte. La reflexión filosófica permite vincular el acceso a priori y a posteriori, y ello supone un nexo fructífero y relevante.</p>
+         <p>Otra razón para rechazar el entusiasmo no moderado respecto a las intuiciones es el rol que desempeñan en la evaluación de los mismos experimentos que se han construido para descartarlas, específicamente las denominadas intuiciones no expertas (lay o folk intuitions). Uno de los puntos principales en contra de la filosofía de sillón (armchair philosophy) desde una posición experimental negativa es que, en presencia de cambios irrelevantes, los resultados variarán, disminuyendo de esta manera la confiabilidad en el acceso a priori, en general, y en las intuiciones específicamente. Weinberg (Humans as instruments) observan una conexión entre experimentos mentales e intuiciones. De hecho, los experimentos mentales son la forma habitual de acercarse a las creencias de los sujetos. En particular, en relación con los casos del tranvía, el autor observa una influencia de lo que a él comprende como pequeñas diferencias (small differences), siguiendo a Petrinovich y O´Neill (Influence of wording and framing effects on moral intuitions): “Petrinovich and O´Neill in a study of trolley cases discovered that small differences in wording could exploit framing effects […] for one group of participants, the action being considered was described as throwing ‘the switch which will result in the death of the one innocent person on the side track’. For another group, the action was described as throwing ‘the switch which will result in the five innocent people on the main track being saved’. The difference in wording had a measurable effect on participant´s judgments despite the fact that […] they are obviously describing the same action” (<xref ref-type="bibr" rid="B14">Weinberg 2015</xref>:182).</p>
+         <p>Este es un ejemplo paradigmático que permite considerar qué es comprendido como obvio en los cambios irrelevantes evaluados: ¿Es obvio que es la misma acción la descrita en ambos casos? ¿O es obvio que en ambos casos las consecuencias son las mismas, a saber: la muerte de una persona inocente? Lo que parece obvio es que a pesar de que la acción descrita en ambos casos tiene las mismas consecuencias, no es la misma descripción de la acción. Es fundamental para esta propuesta experimental el supuesto de que algunos factores son irrelevantes y que, si esto conduce a conclusiones diferentes, hay un error en el argumento que se elabora desde experimentos mentales que se construyen intuitivamente. Esto presupone, al mismo tiempo, argumentos intuitivos o un rol justificatorio o evidencial, que aquí se ha intentado descartar. Esto es importante, porque si se consideran algunos casos perceptuales análogos, el punto de vista de algún hecho, intencionalidad aparte, parece asumirse es el mismo hecho percibido. Probablemente estas diferentes descripciones del mismo evento no son o no son solamente pequeñas diferencias de mera redacción (small differences in wording), y por lo tanto constituye un sesgo en la presentación, la interpretación y la construcción del experimento.</p>
+         <p>De todos modos, hay un cambio en el juicio, y ese juicio parece estar basado en intuiciones que emergen de diferentes descripciones, de una misma acción. Este punto también fue desarrollado por la llamada Máquina Moral (Moral Machine), que analiza diferentes escenarios como el caso del tranvía, reflejando la variabilidad intercultural (cross-cultural variability), junto con el impacto de la inteligencia artificial en relación con las decisiones morales. Así, cuando se afirma algo así como "Intuitivamente, el líquido de la Tierra gemela no es agua" (Tobia, Newman y Knobe Water is and is not H2O), ya sea que el juicio sea verdadero o falso, o simplemente equivocado o engañoso, lo que está en discusión:</p>
+         <p>iii) No es la evidencia empírica acerca de la plausibilidad de la identidad contrafáctica entre agua y H2O.</p>
+         <p>Ni</p>
+         <p>iv) La corrección de cómo algunos sujetos han establecido criterios para la pertenencia a una cierta clase natural (natural kind), desde experimentos mentales como la tierra gemela.</p>
+         <p>Los escenarios hipotéticos característicos de los experimentos mentales no ofrecen información empírica sobre el tópico discutido, sino que:</p>
+         <p>v) Resaltan la importancia de cierta comprensión conceptual (por ejemplo, el principio de identidad en el caso de la tierra gemela), y cómo esto nutre los juicios contrafácticos de un sujeto S.</p>
+         <p>Las intuiciones racionales, desde un punto de vista propedéutico, no son aléticamente evaluables (truth-evaluable, Neander Teleological theories of mental content), sino que son una fuente de comprensión de algunas creencias y / o conocimientos. Así, si las intuiciones son un caso de tergiversación (misrepresentation), la variabilidad entre culturas (variability cross-cultural) no aseguraría la fiabilidad. Además:</p>
+         <p>vi) Las intuiciones desde esta perspectiva no serían solamente no confiables, sino inútiles, incluso las intuiciones populares o no expertas (folk intuitions).</p>
+         <p>Lo anterior cuestiona el rol que la filosofía experimental otorga al contraste entre intuiciones populares en diversos experimentos y su eventual relevancia en la emisión de ciertos juicios. Ello no quiere decir, por supuesto, que por este motivo deba abandonarse el debate, sino que su enfoque metodológico debe ser reenfocado hacia una cooperación recíproca que el rol propedéutico intenta relevar. Otra razón para rechazar el entusiasmo no moderado (racionalismo extremo) respecto a las intuiciones es de un alcance mayor al objetivo de este escrito, a saber: ¿Qué estatuto epistémico cumplen las creencias conceptuales, las creencias éticas, las creencias religiosas, las creencias estéticas? En algunos casos, puede parecer que de cualquier manera existe una correlación con la realidad empírica, en otros no. Por ejemplo, entender una creencia ética como factual (factive) implica que algunos eventos son literalmente éticos: hechos normativos (normative facts), si la ética es entendida como normativa. Lo que es el fundamento (no el acceso) para esas creencias no parece depender (como fundamento) de la evidencia empírica. Por lo tanto, una perspectiva racionalista moderada sugiere que hay formas a priori para acceder a esas creencias. Esto no es completamente satisfactorio, primero porque no resuelve el problema humeano, la dicotomía deber-ser (ought-be), y segundo porque es una forma de mantener la distancia entre las vías a priori-a posteriori, lo que se intenta evitar relevando una posición híbrida.</p>
+         <p>Siguiendo a Machery (Philosophy within its proper bounds), uno de los objetivos principales de la filosofía es el análisis conceptual, y las intuiciones ayudan a aclarar y evaluar ideas. En este sentido, las intuiciones no tienen un valor de verdad (truth value), a pesar de haber sido representadas en oraciones, siendo proposiciones. Pero la representación de intuiciones es solo una forma de aproximarse a lo que de otra manera sería inaccesible.</p>
+      </sec>
+      <sec>
+         <title>5. Humanos como instrumentos y progreso filosófico</title>
+         <p>Un aspecto que se ha discutido ampliamente en este tópico intuicional es la comprensión del pensamiento como un instrumento. La comprensión humana y la argumentación como un caso específico de una herramienta. Por ejemplo, se observa esto en la cita a Bo Dahlbom: "You can’t do much carpentry with your bare hands and you can’t do much thinking with your bare brain" (Dennett 2013:11) ¿Cómo interpretar esta cita? ¿Qué quiere decir que no se puede pensar mucho solo con nuestros cerebros? La cita enfatiza el análisis dialéctico: el hecho de que, para sostener una tesis tan problemática sobre el pensamiento, el autor debe estar pensando. Por supuesto, esto es solo un enunciado cartesiano actualizado. Weinberg (Humans as instruments) ha puesto algo de presión en la noción misma de entender al ser humano como instrumentos (más precisamente, a pesar de que Weinberg no lo explicita de este modo, el pensamiento humano como un instrumento epistémico). Esto significa que, si se confía en la perspectiva humana sobre un ítem epistémico, más arbitrarias y subjetivas serán las conclusiones. Weinberg observa esto como la razón principal por la cual la filosofía, contrariamente a la ciencia, no ha progresado tanto en los últimos siglos. La deshumanización, como él la denomina, es la manera de expandir los poderes cognitivos humanos. Desde esa perspectiva, si algún tema no puede ser testeado empíricamente, algo parece estar equivocado acerca de las conclusiones, y las premisas también. Los temas filosóficos como la justicia; bondad; agencia; belleza; y la racionalidad, no han alcanzado un consenso que permita a los filósofos decir que hay un progreso similar al progreso científico. El disenso o desacuerdo como señal de no progreso.</p>
+         <p>Al mismo tiempo, hay algunas proposiciones, no empíricas, que parecen darnos algún tipo de conocimiento, el conocimiento modal (modal knowledge). Un par de ejemplos cotidianos son: “the losing team could have won; that bridge could collapse; two and two couldn’t equal five” (<xref ref-type="bibr" rid="B6">Fischer y Collins 2015</xref>:9). El contenido de estas proposiciones no son hechos empíricos o actuales, por lo que no están sujetos a una justificación empírica, al menos no directamente. Pero, al mismo tiempo, estas son proposiciones acerca de hechos posibles en los primeros dos casos, y un hecho necesario (si se permite el uso de "hecho" aquí) en el tercer caso. Weinberg está de acuerdo en que incluso en temas como la justicia, hay verdades que se pueden conocer. Nociones teóricas, como la noción de justificación, podrían eventualmente carecer de información empírica, y si esto es así, no está claro cómo y cuál es la contribución al conocimiento científico en general de las mismas. Todo esto con el propósito de elevar la relevancia de la filosofía experimental, la indispensabilidad de la misma en el progreso filosófico, pero no solo para la filosofía per se. Llamativamente, Weinberg señala dos estrategias metodológicas, P y S, siendo la primera aproximada a la prueba matemática (proof), y los llamados CoDA (Concise deductive arguments, argumentos deductivos concisos). Es lo que a menudo se observa en la argumentación filosófica, por ejemplo, considérese el modus tollens:</p>
+         <p>P → Q</p>
+         <p>¬ Q</p>
+         <p>______</p>
+         <p>¬ P</p>
+         <p>Inferencias lógicas de este tipo son un ejemplo de la estrategia – P (P- strategy) centrada metodológicamente en evitar el error (avoiding error). Sobre el alcance del razonamiento lógico (logical reasoning) y su dependencia (o no) con cierta evidencia empírica, se afirma: “Logic is concerned to understand reasoning: what makes a bit of reasoning valid and, more generally, legitimate. Now, some of our reasonings are independent of experience. When we reason to an arithmetical theorem, for example, the contents of the claims we make and the legitimacy of our inferential moves and our definitions do not depend on our concurrent experiences. They do not depend on things we happen to be seeing or hearing or touching or tasting as we reason. Sometimes, though, our reasonings do depend on our concurrent experiences” (Gupta Against Post-Truth).</p>
+         <p>Sobre los CoDAs, se afirma: “with CoDAs we treat the question of inferential validity as completely distinct from the question of the acceptability of the premises themselves, and so once an argument is accepted as valid, it remains only to evaluate that handful of premises seriatim” (<xref ref-type="bibr" rid="B14">Weinberg 2015</xref>:174). Otro punto de vista respecto al error no distante del explicitado por Weinberg es: “Mistakes are not just opportunities for learning; they are, in an important sense, the only opportunity for learning or making something truly new. Before there can be learning, there must be learners” (<xref ref-type="bibr" rid="B4">Dennett 2013</xref>:24).</p>
+         <p>Un punto crucial de la argumentación contra las intuiciones es este: que pueden conducir a errores. Contrario a la estrategia P, es plausible sostener que las intuiciones, a pesar de ser a priori, no son un caso de la estrategia P, considerando que cuando un sujeto S tiene cierta intuición, está muy lejos de afirmar la infalibilidad de esa intuición. Sin embargo, si una proposición parece verdadera, y solo por eso se da por sentado que es verdadera, la intuición no cumpliría con los requisitos para ser entendida como un acceso epistémico legítimo. Así, la relevancia de las intuiciones reside en los insumos que entrega a la noción de comprensión contrafáctica entendida como una herramienta de pensamiento (thinking tool), que podría estar empíricamente informada, como en el caso citado previamente sobre el equipo perdedor o el puente que podría colapsar. Pero, estrictamente hablando, las intuiciones no son datos empíricos, y es por eso que son a priori. Si, como lo destaca Weinberg (Humans as instruments), el problema de confiar en algunas intuiciones para tomar decisiones, o para argumentar, es que podrían llevarnos al error, esta es una buena noticia. Siguiendo a Chalmers (Why isn’t there more progress in philosophy?), Weinberg se enfoca en la convergencia como condición requerida para el progreso, incluido el progreso filosófico: “There is no convergence because philosophy does not have a method with the power to produce convergence. Mathematics has proof, the sciences have experiments, history has archival scholarship. In philosophy, we mainly have argument” (<xref ref-type="bibr" rid="B2">Chalmers 2015</xref>:8).</p>
+         <p>A pesar de que el enfoque principal desarrollado aquí no es la divergencia, la convergencia o el desacuerdo en las ciencias, es importante tener en cuenta lo que se ha sostenido sobre el cambio conceptual como caso paradigmático de lo a priori flexible: “Conceptual change during scientific revolutions is a major topic in the philosophy of science […] it has been suggested by many philosophers that when the constitutive elements of scientific theories change, there is a conceptual revolution” (Stump 2015:xiii).</p>
+         <p>Por lo tanto, la convergencia per se no es un objetivo de las ciencias, y las ciencias tienen diversos casos que lo muestran, por ejemplo: “Beyond sowing confusion, perpetual disagreement can undermine faith in science. You can almost hear a politician say, ‘If scientists can’t make up their minds, why should I believe anything they say’?” (Zollman what it means when scientists disagree).</p>
+         <p>El desacuerdo como un problema metodológico para la investigación filosófica no está lejos de ser cierto. ¿Hay o no hay libre albedrío? ¿Es verdadero el dualismo o el materialismo (Machery Philosophy within its proper bounds). Como afirma Norrie (What is philosophy? Prolegomena to a sociological metaphilosophy), el desacuerdo es un problema metafilosófico central, porque exige cuestionar qué preguntas son realmente filosóficas, sin presuponer ninguna postura teórica (theoretic posit como lo denomina Weinberg en Humans as instruments) que haya establecido de antemano cualquier respuesta. Ello descartaría cualquier aspiración de diálogo fructífero, si las condiciones de inicio lo impiden. El desacuerdo conduce a ciertas aporías, y Norrie destaca que esto podría ser una evidencia importante de la naturaleza de la filosofía: un modo específico de mostrar un punto (problematization): “under analysis, it turns out to arise from a definite way of posing problems, philosophy can initially be defined by a particular mode of problematization. This essay establishes this argument and proposes a method for developing this insight into a fully realized, socio‐historical metaphilosophy” (<xref ref-type="bibr" rid="B11">Norrie 2018</xref>:646).</p>
+         <p>Sin embargo, apelar a una idea que emerge de este modo de comprender la noción de problematización y que permite un tipo de progreso, es un área difusa, principalmente porque esas intuiciones iniciales generalmente refieren a la causa y la razón del desacuerdo. Las intuiciones racionales deben estar más allá de la arbitrariedad si su rol propedéutico se releva en vistas a evaluar razones desde un análisis conceptual específico. Además, la propuesta de Norrie exige un enfoque hermenéutico, lo que pone en riesgo la generalidad de los resultados potenciales. La variabilidad de las intuiciones es otro nombre para el desacuerdo desde la perspectiva experimental, y eso no es un problema, ya que está alineado con la falibilidad intuicional y la neutralidad propedéutica como ejemplificador contrafáctico. ¿Es, entonces, la filosofía sin argumentos la mejor manera de evitar la falta de convergencia? ¿Se supone que las intuiciones son una premisa oculta en los denominados CoDAs?</p>
+         <p>Por lo general, un argumento filosófico que sea considerado interesante (teniendo en cuenta el sesgo al determinar cuál argumento sería interesante) suele tener al menos una premisa polémica, no neutral si se prefiere ponerlo de esa manera. La neutralidad aquí parece excluir la subjetividad, a fin de hacer valer las conclusiones del argumento. En una línea similar, Fischer (The myth of the intuitive) se refiere a lo que es filosóficamente relevante, las hipótesis enfatizadas a través de casos hipotéticos, experimentos mentales. Ulteriormente, surge el desacuerdo en las conclusiones, la ausencia de la convergencia de resultados (absence of the convergence of results), en palabras de Weinberg (Humans as instruments). Al parecer, esta ausencia se debe a la ausencia de objetividad en algunas o todas las premisas que llevan en primer lugar a esa conclusión. Tener intuiciones no se reduce a sostener que:</p>
+         <p>vii) Porque el sujeto S cree que p, entonces p.</p>
+         <p>O, siguiendo a Mizrahi (Intuition mongering), la regla de dar por sentado (TFG take from granted en Bach (Default reasoning: jumping to conclusions and knowing when to think twice):</p>
+         <p>(TFG) If it seems to me that p, then infer that p, provided no reason to the contrary occurs to me.</p>
+         <p>Así, las intuiciones se identifican con lo que parece obvio (seems obvious) a un sujeto S, que p sea considerado obviamente verdadero por S. Esta inferencia es injustificada (unwarranted) principalmente porque no hay obviedad en una intuición entendida como premisa implícita (implicit premise) de un argumento filosófico, rol que se ha intentado descartar aquí pues es una arista del rol justificatorio. Además, como señala Mizrahi, esto no sería tan diferente de una apelación a la autoridad. De hecho, desde esta perspectiva:</p>
+         <p>viii) La apelación a la intuición podría entenderse como un tipo de apelación sui generis a la autoridad, autoridad de se. La autoridad, al mismo tiempo, puede entenderse como un caso de experticia, y de este modo se vuelve a la defensa vía experticia filosófica, y la distinción entre intuición experta (filosófica) versus intuición no experta.</p>
+         <p>Las premisas controversiales conducen a conclusiones controversiales, y las conclusiones controversiales pueden fundarse en la experticia. Esto muestra que:</p>
+         <p>ix) El desacuerdo y la discusión respecto a la experticia son tópicos ortogonales, aunque en ciertas circunstancias o debates son abordados conjuntamente.</p>
+         <p>El siguiente ejemplo arroja luz sobre esto (asumiendo experticia, la condición b siguiendo la propuesta del autor):</p>
+         <p>“1. Brian Greene is a theoretical physicist.</p>
+         <p>2. BG says that an electron is a black hole.</p>
+         <p>3. (Therefore) An electron is a black hole.</p>
+         <p>Condition (b) is not met, since the notion of a black hole electron is controversial” (Mizrahi 2012:2).</p>
+         <p>En este punto, es importante tener en cuenta que el consenso es la solución propuesta por el autor: consenso a través de la autoridad de S respecto a t, siendo t un tópico que requiera cierta experticia. Si, como es el caso de la filosofía, no hay acuerdo, ello parecería descartar experticia filosófica. ¿Significa entonces que el mero consenso experto asegura el conocimiento? Weinberg et alia (Are philosophers expert intuiters?) aciertan al presionar en la noción de experticia filosófica, pero esto es realizado con el objetivo de entender la labor de los/as filósofos/as como intuitivos expertos (expert intuiters), sugiriendo con esto que no hay otro objeto de experticia en el ámbito filosófico allende las intuiciones. Todo esto muestra, como he defendido recientemente, que es erróneo entender una intuición como evidencia, pero que también hay un sesgo experimental hacia la comprensión del debate filosófico como relevante. Así:</p>
+         <p>x) Las intuiciones racionales son herramientas de pensamiento (thinking tools) para calibrar (calibrate) diferentes escenarios (contrafácticos y/o empíricos). Si las intuiciones colaboran en la comprensión de algunos datos empíricos y sus posibles escenarios más allá del mundo actual (evaluación modal), entonces es una herramienta relevante, si se usa correctamente y considerando sus límites y alcances.</p>
+         <p>Finalmente, otro ejemplo inferencial (a priori) sobre la importancia de la comprensión de situaciones contrafácticas se encuentra en un artículo reciente sobre el homomorfismo entre el lenguaje hablado y el lenguaje de signos, cuya gramática es considerada mejor (más sofisticada), en el sentido de que permite evitar algunas ambigüedades. El ejemplo es:</p>
+         <p>“Sarkozy told Obama that he would be elected (spoken language)</p>
+         <p>Sarkozyx told Obamay that hex would be elected (sign language)”</p>
+         <p>(Sign language reveals the hidden logical structure, and limitations, of spoken language. Nota de prensa sobre Schlenker Visible meaning: sign language and the foundations of semantics).</p>
+         <p>Agregar las variables lógicas x y z evita posibles malentendidos sobre a quién se está refiriendo al pronombre “he". Al mismo tiempo, permite una comprensión y aclaración del contenido contrafáctico proposicional (would), como es el caso en las oraciones citadas.</p>
+      </sec>
+      <sec>
+         <title>6. Conclusión</title>
+         <p>El punto principal a favor de las intuiciones no es que determinen la referencia u otros tópicos (ética), sino que en cada caso las intuiciones racionales guían nuestros juicios acerca de lo que parece verdadero o correcto en algún contexto o cultura específica, considerando la variabilidad evidenciada por los avances de la filosofía experimental, independiente de cómo se interpretan esos resultados desde esa corriente filosófica. Esto significa que algunas intuiciones están empíricamente informadas y son empíricamente adecuadas. Las intuiciones son falibles y deben contrastarse con la evidencia empírica, en ello reside la hibridez de lo a priori-a posteriori. Esto significa que las intuiciones racionales podrían entenderse como una disposición a creer a través de la comprensión conceptual.</p>
+         <p>De esta manera, la relevancia de las intuiciones reside en que son un acceso a priori que permite comprender por qué algunas proposiciones parecen ser ciertas para cierto grupo, dada la comprensión de los conceptos involucrados en esta creencia. Esta aprehensión varía según las diferentes culturas, como lo ha destacado la filosofía experimental. Este es el punto principal para proponer un confiabilismo intuicional variable (variable intuitional reliabilism) como una forma de abordar el desacuerdo desde una perspectiva positiva. Al mismo tiempo, hay intuiciones racionales compartidas por diferentes culturas, lo que no significa que sean triviales, sino que la variabilidad intuicional no siempre tiene un resultado predeterminado, el desacuerdo intercultural.</p>
+         <p>Ser escéptico acerca de las intuiciones es una posición altamente especulativa, sobre todo concerniente a la evidencia que debiese fundar dicho escepticismo. El escepticismo intuicional defendido por ciertas posturas experimentales no obtiene su validez o plausibilidad a partir de datos empíricos o similares, sino que se basa en hipótesis empíricamente no verificables, lo que es la arista especulativa de cada tipo de escepticismo en términos generales. Por lo tanto, el escepticismo sobre las intuiciones no está empíricamente informado ni puede considerarse empíricamente adecuado, algo que se intenta relevar como una exigencia del uso de las intuiciones en el ámbito filosófico. Es importante tener en cuenta que, los esfuerzos por rechazar algún rol de las intuiciones en el ámbito filosófico permiten observar la relevancia de las mismas, incluso desde la perspectiva experimental (Xphi). En efecto, los experimentos empíricos desarrollados por la corriente experimental utilizan intuiciones no expertas para mostrar cuán errado sería confiar en ellas, dada su variabilidad, como fuente de evidencia o justificación. Las intuiciones racionales tienen un estatuto epistémico específico, a saber: ayudan a comprender diferentes escenarios a través de ejemplificaciones contrafactuales, y ayudan a entender por qué un sujeto S puede tomar una decisión guiada a través de tal comprensión.</p>
+         <p>Así, es posible realizar una lectura con consecuencias positivas del siguiente diagnóstico relativo a la filosofía de sillón (armchair philosophy): “there is no way to defend ‘armchair philosophy’ from x-phi’s challenge if one accepts the view that intuitions are [treated as] evidence [in philosophy]” (Deutsch 2015:132).</p>
+         <p>No se requiere, por tanto, apelar a la intuitividad (intuitiveness) en la argumentación filosófica como premisa implícita, sino más bien como fuente de comprensión conceptual. Así, la siguiente pregunta metafilosófica que surge de un análisis intuicional es: ¿el objetivo principal de la investigación filosófica es relevar y/o descartar argumentos?</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>La redacción de este escrito se enmarca en el proyecto FONDECYT Iniciación N° 11180422 Racionalismo Modal, Naturalismo e Intuiciones y la Beca de Post Doctorado en el Extranjero BECAS CHILE. Universidad de Pittsburgh – Duquesne University, Pittsburgh - Estados Unidos. Mis sinceros agradecimientos por el respaldo.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Bealer, G. (2002).
+               <italic>Modal epistemology and the rationalist renaissance</italic>
+               . En Gendler, T., Hawthorne, J (autor.);Conceivability and possibility.  (71-125).: Oxford University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bealer</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Modal epistemology and the rationalist renaissance</chapter-title>
+               <year>2002</year>
+               <source>Conceivability and possibility</source>
+               <publisher-name>Oxford University Press</publisher-name>
+               <fpage>71</fpage>
+               <lpage>125</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Chalmers, D.(2015). "Why isn’t there more progress in philosophy?".
+               <italic>Philosophy. 90</italic>
+               (1), 3-31. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0031819114000436">https://doi.org/10.1017/S0031819114000436</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chalmers</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Why isn’t there more progress in philosophy?</article-title>
+               <source>Philosophy</source>
+               <volume>90</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>31</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0031819114000436">https://doi.org/10.1017/S0031819114000436"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Chapman, A., Ellis, A., Hanna, R., Hildebrand, T., Pickford, H.,  (2012).
+               <italic>In defence of intuitions: a new rationalist manifesto</italic>
+               . : Macmillan
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chapman</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ellis</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hanna</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hildebrand</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pickford</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>In defence of intuitions: a new rationalist manifesto</source>
+               <publisher-name>Macmillan</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Dennett, D.,  (2013).
+               <italic>Intuition pumps and other tools for thinking</italic>
+               . : W.W Norton &amp; Company
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dennett</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>Intuition pumps and other tools for thinking</source>
+               <publisher-name>W.W Norton &amp; Company</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Deutsch, M.,  (2015).
+               <italic>The myth of the intuitive: experimental philosophy and philosophical method</italic>
+               . : MIT Press Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7551/mitpress/9780262028950.001.0001">https://doi.org/10.7551/mitpress/9780262028950.001.0001</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Deutsch</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>The myth of the intuitive: experimental philosophy and philosophical method</source>
+               <publisher-name>MIT Press</publisher-name>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7551/mitpress/9780262028950.001.0001">https://doi.org/10.7551/mitpress/9780262028950.001.0001"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Fischer, E., Collins, J.,  (2015).
+               <italic>Experimental philosophy, rationalism, and naturalism: rethinking philosophical method</italic>
+               . : Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fischer</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Collins</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Experimental philosophy, rationalism, and naturalism: rethinking philosophical method</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Garson, J.(2018). "Review of Karen Neander’s a mark of the mental: in defense of informational teleosemanics".
+               <italic>Philosophy of Science. 85</italic>
+               (4), 726-734. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/698997">https://doi.org/10.1086/698997</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Garson</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Review of Karen Neander’s a mark of the mental: in defense of informational teleosemanics</article-title>
+               <source>Philosophy of Science</source>
+               <volume>85</volume>
+               <issue>4</issue>
+               <fpage>726</fpage>
+               <lpage>734</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/698997">https://doi.org/10.1086/698997"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Kripke, S.,  (1980).
+               <italic>Naming and necessity</italic>
+               . : Harvard University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kripke</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>1980</year>
+               <source>Naming and necessity</source>
+               <publisher-name>Harvard University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Machery, E.,  (2017).
+               <italic>Philosophy within its proper bounds</italic>
+               . : Oxford University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Machery</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Philosophy within its proper bounds</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Mizrahi, M.(2012). "Intuition mongering".
+               <italic>The Reasoner. 6</italic>
+               (11), 169-170.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mizrahi</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Intuition mongering</article-title>
+               <source>The Reasoner</source>
+               <volume>6</volume>
+               <issue>11</issue>
+               <fpage>169</fpage>
+               <lpage>170</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Norrie, S.(2018). "What is philosophy? Prolegomena to a sociological metaphilosophy".
+               <italic>Metaphilosophy. 49</italic>
+               (5), 646-673. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/meta.12334">https://doi.org/10.1111/meta.12334</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Norrie</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>What is philosophy? Prolegomena to a sociological metaphilosophy</article-title>
+               <source>Metaphilosophy</source>
+               <volume>49</volume>
+               <issue>5</issue>
+               <fpage>646</fpage>
+               <lpage>673</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/meta.12334">https://doi.org/10.1111/meta.12334"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Stump, D.,  (2015).
+               <italic>Conceptual change and the philosophy of science: alternative interpretations of the a priori</italic>
+               . : Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Stump</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Conceptual change and the philosophy of science: alternative interpretations of the a priori</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Tahko, T. (2017).
+               <italic>Empirically-informed modal rationalism</italic>
+               . En Fisher, B., Leon, F (eds.);Modal epistemology after rationalism.  (29-46).: Springer
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tahko</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Empirically-informed modal rationalism</chapter-title>
+               <year>2017</year>
+               <source>Modal epistemology after rationalism</source>
+               <publisher-name>Springer</publisher-name>
+               <fpage>29</fpage>
+               <lpage>46</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Weinberg, J. (2015).
+               <italic>Humans as instruments: or, the inevitability of experimental philosophy</italic>
+               . En Fischer, E., Collins, J (autor.);Experimental philosophy, rationalism, and naturalism: rethinking philosophical method.  (171-187).: Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weinberg</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Humans as instruments: or, the inevitability of experimental philosophy</chapter-title>
+               <year>2015</year>
+               <source>Experimental philosophy, rationalism, and naturalism: rethinking philosophical method</source>
+               <publisher-name>Routledge</publisher-name>
+               <fpage>171</fpage>
+               <lpage>187</lpage>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

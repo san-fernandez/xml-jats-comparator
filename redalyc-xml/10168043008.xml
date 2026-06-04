@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00008</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000200181</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Fundamentación teórica de la propuesta metodológica de Norman Fairclough e Isabela Fairclough</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Theoretical basis of the methodological proposal of Norman Fairclough and Isabela Fairclough</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9727-0020</contrib-id>
+               <name>
+                  <surname>Cuenú</surname>
+                  <given-names>Jairo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad de Ciencias de la Administración, Universidad del Valle, Cali. Colombia</institution>
+            <institution content-type="normalized">Universidad del Valle</institution>
+            <institution content-type="orgname">Universidad del Valle</institution>
+            <country country="CO">Colombia</country>
+            <email>jairo.e.cuenu@correounivalle.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>68</issue>
+         <fpage>181</fpage>
+         <lpage>191</lpage>
+         <history>
+            <date date-type="received">
+               <day>24</day>
+               <month>03</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>17</day>
+               <month>06</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El artículo es la primera parte de un trabajo académico que estudia los fundamentos teórico-conceptuales de la propuesta metodológica de Norman Fairclough e Isabela Fairclough, especialmente la relación entre el concepto de contexto y deliberación con los que sustentan que el discurso político de un determinado actor político para ser político debe pertenecer a un contexto institucionalizado. Tesis que defienden desde la naturaleza política de Aristóteles concebida como un medio para llegar cooperativamente y a través de la acción de la deliberación a asuntos de interés común. Si bien la naturaleza de la política en Aristóteles tiene como esencia la acción humana y la deliberación, también es claro en su política que los esclavos no deliberan. Se pretende mostrar la manera como Norman Fairclough e Isabela Fairclough lidian con la exclusión aristotélica para contribuir al desarrollo teórico-conceptual del análisis crítico del discurso.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This article is the first part of an academic work that studies the theoretical-conceptual foundations of the methodological proposal of Norman Fairclough and Isabela Fairclough, especially the relationship between the concept of context and deliberation with those who support that the political discourse of a given political actor must belong to an institutionalized context. Thesis that they defend from the concept of political nature from Aristotle, conceived to arrive cooperatively and through the action of deliberation to matters of common interest. While the nature of Aristotle's politics is based on human action and deliberation, it is also clear in its policy that slaves do not deliberate. It is intended to show the way Norman Fairclough and Isabela Fairclough deal with Aristotelian exclusion to contribute to the theoretical-conceptual development of critical discourse analysis.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>política</kwd>
+            <kwd>deliberación</kwd>
+            <kwd>relaciones sociales</kwd>
+            <kwd>lucha</kwd>
+            <kwd>democracia deliberativa</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>politics</kwd>
+            <kwd>deliberation</kwd>
+            <kwd>social relations</kwd>
+            <kwd>struggle</kwd>
+            <kwd>deliberative democracy</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="14" />
+            <page-count count="11" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>A pesar de los grandes desarrollos teóricos, conceptuales y metodológicos que han tenido los estudios del discurso (ED), es claro que son considerados noveles, esto se corrobora con Chilton al afirmar que: “El análisis del discurso político es apenas nuevo” (Chilton 2004:ix). Su novedad hace que los ED sean reconocidos como “una nueva ciencia transdisciplinaria” (Van Dijk 2000:15) que comprende teorías, análisis de textos y conversaciones en casi todas las ramas de las ciencias sociales y humanas, lo que implica que están abiertas las puertas para desarrollos tanto teóricos-conceptuales como metodológicos y que se debe estar abierto a nuevas perspectivas. De esto, da cuenta uno de los tratadistas más influyentes del Análisis Crítico del Discurso (ACD) como lo es Norman Fairclough cuando afirma que: “El ACD ya ha atravesado la primera flor de la juventud, y se embarca en un proceso de maduración. Es el momento para la consolidación, para que la reflexión colectiva colabore con la unidad y la coherencia del ACD, con sus bases teóricas, con sus métodos de análisis, y con su relación con áreas adyacentes de estudio (incluyendo a la lingüística, a la sociolingüística, y a la sociología, entre otras ciencias sociales). Este proceso ya se encuentra en marcha. Espero que los temas que propuse en esta introducción contribuyan con ese debate” (Fairclough 1995:68).</p>
+         <p>Contribución que Norman Fairclough e Isabela Fairclough (F y F) en su libro Political discourse análisis. A method for advanced students (2012), no han desatendido ni pasado por alto. De hecho, pretenden con éste contribuir al desarrollo del ACD presentado un nuevo enfoque para analizar el discurso político (DP). Su perspectiva parte de inquietudes teóricas y analíticas generadas de sus trabajos anteriores; entre estas se encuentran la exigua distinción entre el DP y otros tipos de discursos, lo que conlleva a la no claridad “entre objetivos, categorías teóricas y métodos que lo diferencien de otras áreas específicas del análisis del discurso (AD) y que permitan la evaluación sistemática de sus principios” (Fairclough, Fairclough 2012:17). Reconocen que los analistas políticos han intentado abordar estas cuestiones, pero se han quedado en perspectivas de lo político donde la representación es el hecho central. Sugieren la necesidad de examinar o reflexionar más sobre la conexión entre las diferentes perspectivas de la política, las diversas ópticas del DP y los enfoques analíticos del DP.</p>
+         <p>El protagonismo que F y F dan en su libro a la política como acción debe entenderse en el contexto de la realidad institucional humana que brinda posibilidades para abordar conflictos de manera cooperativa. Lo que implica que el discurso político de un determinado actor político es considerado político si y solo si hace parte de un contexto institucional, que posibilita trabajar cooperativamente en asuntos de interés común. Pero, es necesario tener en cuenta que todo contexto institucional sociológicamente es un cúmulo de relaciones recíprocas, que en términos de la sociología de George Simmel forman una unidad a la que llama sociedad, que está precedida por aspectos convergentes como divergentes, es decir, por la contradicción y la lucha. De hecho, afirma que “no hay ninguna unidad social en que las direcciones convergentes de los elementos no estén inseparablemente mezcladas con otras divergentes” (Simmel 1986:266). Es decir, los contextos institucionales no se forman solo desde la armonía, siempre hay una desarmonía, una lucha en la que el más fuerte tiene altas probabilidades de determinar el orden. En palabras de Castell: “en las relaciones de poder siempre hay un mayor grado de influencia de un actor sobre otro actor” (Castell 2009:34). Además, es claro que la naturaleza de la política en Aristóteles se basa, entre otros aspectos, en la deliberación, pero también es claro que en su naturaleza los esclavos no deliberan, es decir, su naturaleza excluye al otro.</p>
+         <p>Lo que se quiere exponer es la manera como F y F, a partir de la naturaleza de la deliberación de Aristóteles y desde las características centrales del discurso político, lidian con la exclusión aristotélica. Lo hacen asumiendo que la deliberación es intrínseca a la democracia, que reconoce que la política no solo opera en contextos de armonía, sino en contextos de desacuerdo y conflicto. De aquí que no sea posible la democracia sin deliberación. El proceso de deliberación examina las múltiples consideraciones de los agentes o individuos bajo una multiplicidad de marcos interpretativos que permiten llegar a decisiones de acción sobre asuntos de interés común.</p>
+         <p>La forma como se abordará la discusión parte de comprender el objeto y sentido de la deliberación en Aristóteles y sus implicaciones para la construcción de asuntos políticos con fines diferentes; seguidos del concepto de lucha tratado por Weber y Simmel. Con Weber se presentará fundamentalmente su concepción de relaciones recíprocas y su concepto de lucha como probabilidad. Simmel es pertinente para comprender que la sociedad se construye desde la armonía y desarmonía. Con estos argumentos se analizan los planteamientos de F y F centrados en su concepción de política (desde los aportes que realiza Aristóteles), que fundamenta teóricamente su propuesta.</p>
+      </sec>
+      <sec>
+         <title>La concepción de deliberar en Aristóteles. Implicaciones sociológicas</title>
+         <p>En el pensamiento de Aristóteles la ciudad, en términos generales, se compone de esclavos y libres. En su libro Política, especialmente en el libro I (objeto y límite de la ciencia política), pretende justificar la realidad natural de la polis y su superioridad sobre cualquier otra forma de comunidad, para lo cual apela a la necesidad y el origen de las ciudades con las que muestra que la casa es algo natural de la polis. La polis está conformada por distintas especies de comunidad, en su orden, la casa, la colonia y la aldea. En términos de relaciones sociales, las partes mínimas o primeras de la casa son la relación amo y esclavo, marido y mujer y padres e hijos. La casa perfecta “la integran esclavos y libres” (Aristóteles 1988:53). Al estar la comunidad doméstica conformada por esposa, hijos, esclavos y amo, estos como cualquier ser vivo necesitan subsistir, sustento que depende o es responsabilidad del esposo, padre y amo. Así, el dueño de la casa o familia tiene el encargo de velar por la vitalidad de los miembros, hecho que hace necesario disponer de instrumentos, que Aristóteles clasifica en animados e inanimados.</p>
+         <p>Uno de los instrumentos claves para llevar a cabo el propósito de la casa son los esclavos, a los que Aristóteles considera como una posesión animada, y al serlo son propiedad del amo. Esto explica que la casa es perfecta cuando los libres tienen instrumentos a disposición para satisfacer sus necesidades. Hay un aspecto clave para comprender por qué el esclavo es propiedad y es el acto de deliberar, la capacidad para deliberar.</p>
+         <p>Aristóteles considera que la naturaleza no ha dotado al esclavo de los medios o de la razón suficiente para deliberar, a diferencia del amo o señor de la casa que es capaz de prever con la mente; motivo por el cual es, naturalmente, jefe y señor por naturaleza. El verbo prever es sinónimo de anticipar. Para Aristóteles el esclavo es un ser que es incapaz de anticipar sus acciones. El esclavo carece en absoluto de facultad deliberativa.</p>
+         <p>En Ética a Nicómaco concibe la deliberación como “una averiguación racional” (Aristóteles 2011:94). Averiguar que expresa el deseo de conocer una cosa o asunto. De aquí, que se delibera sobre “lo futuro y lo posible” (Aristóteles 1985:270), que significan modos de alcanzar la obra, sobre los medios para lograrla. Entiende el concepto de posible como “lo que puede ser realizado por nosotros” (Aristóteles 1985:187). Así, o se delibera sobre todas las cosas, ni todo es objeto de deliberación; no se delibera, por ejemplo, sobre los fines de las acciones, sino sobre sus medios, porque en los fines ya hay acuerdo. Por ejemplo, por cuestiones naturales en una comunidad campesina se cae un puente. La comunidad necesita restaurarlo, para ello, y por los beneficios que trae su uso, es necesario que cooperen en su restablecimiento; aquí el fin es levantar o reconstruir el puente, fin que hace que los sujetos trabajen en comunión. Es decir, el fin tiene puntos en común, lo que hace posible la cooperación. El problema está en los medios para realizar el puente, es decir, en los recursos que son necesarios para construirlo: si se hace en madera o cualquier otro material, qué día se construirá, si debe conservar su forma u otra, etc.</p>
+         <p>Dice Aristóteles: “una vez que se ha establecido el fin, los hombres examinan de qué manera y por qué medios va a producirse. Y si parece que va a producirse por más de uno, examinan a través de cuál se producirá más fácilmente y mejor; pero si se alcanza a través de uno solo, examinan qué manera se producirá a través de éste y éste a través de qué, hasta que llegan a la causa primera, que es la última en ser descubierta” (Aristóteles 2011:103). El objeto de la deliberación, entonces, no es el fin, sino los medios que conducen al fin.</p>
+         <p>Al ser el objeto de la deliberación los medios, se puede decir, que esto es lo que lleva a Aristóteles a afirmar en su libro Política que, si todos los instrumentos pudieran cumplir su cometido, obedeciendo las órdenes de otro o anticipándose a ellas, los maestros no necesitarían de ayudantes ni de esclavos los amos. No los necesitarían porque serían capaces de anticiparse a las acciones a realizar en un determinado asunto. El no tener tal capacidad, el no lograr llegar por sí mismos a la consecución de la obra, hace necesario orientar al esclavo, darle órdenes, las cuales vienen del amo, porque posee la facultad de deliberar otorgada por la naturaleza. Con Aristóteles la naturaleza es la que otorga la capacidad de deliberar y la otorga, no a los esclavos, sino a los ciudadanos, que son los que tienen la forma humana de vivir en convivencia.</p>
+         <p>Al respecto señala Arendt que para Aristóteles: “la palabra politikon era un adjetivo para la organización de la polis y no una caracterización arbitraria de la convivencia humana, no se refería de ninguna manera a que todos los hombres fueran políticos o a que en cualquier parte donde viviesen hombres hubiera política, o sea, polis. De su definición quedaban excluidos no solamente los esclavos, sino también los bárbaros de reinos asiáticos regidos despóticamente, bárbaros de cuya humanidad no dudaba en absoluto. A lo que se refería era simplemente a que es una particularidad del hombre que pueda vivir en una polis y que la organización de ésta representa la suprema forma humana de convivencia y es, por lo tanto, humana en un sentido específico, igualmente alejado de lo divino, que puede mantenerse por sí solo en plena libertad y autonomía, y de lo animal, en que la convivencia -si se da- es una forma de vida marcada por la necesidad. La política, por lo tanto, en el sentido de Aristóteles -y Aristóteles como en muchos otros puntos de sus escritos políticos no reproduce aquí tanto su propio parecer como la opinión compartida, si bien mayoritariamente no articulada, por todos los griegos de la época-, no es en absoluto una obviedad ni se encuentra dondequiera que los hombres convivan” (Arendt 1997:68).</p>
+         <p>La concepción de política de Aristóteles excluye al otro que no sea visto como un igual en las decisiones políticas de un Estado o, en términos de Weber, de una asociación. Pero no se puede desconocer que para llegar a la cooperación es necesario estar o entrar en relaciones sociales e inclusive se puede inferir desde Aristóteles, que la deliberación es una forma de relación social que parte de aspectos comunes (fines) para llegar concretar un determinado asunto. En resumen, para Aristóteles la esencia de la política está en la acción y en la deliberación. La deliberación tiene como esencia dos cosas: (a) que las cosas sean posibles de realizarse y que estén al alcance de la acción humana y (b) que las cosas tengan un grado de incertidumbre. Además, es necesario tener en cuenta que la naturaleza de su política es excluyente. Asimismo, es necesario anotar que se puede inferir que su concepción de deliberación es una forma de relación social.</p>
+      </sec>
+      <sec>
+         <title>Relación social con carácter de lucha</title>
+         <p>Para Weber la acción social (incluyendo tolerancia u omisión) se construye con relación a la acción, en referencia a las acciones de otros indistintamente del tiempo en que se realicen. Los otros pueden ser una colectividad de individuos o un individuo, el hecho básico es que se enlace a ella un significado subjetivo, es decir, que no toda acción humana que se realice en presencia de otros es una acción social. Un choque de dos ciclistas, por ejemplo, dice Weber “es un simple suceso de igual carácter que un fenómeno natural. En cambio, aparecería ya una acción social en el intento de evitar el encuentro, o bien en la riña o consideraciones amistosas subsiguientes al encontronazo” (Weber 2002:19). El intentar, evitar o el considerar son acciones que llevan una referencia hacia otro, que hace que haya una relación social y no un simple un suceso. Es decir, el concepto de relación implica reciprocidad, que no se encuentra en los objetos materiales, ni en la conducta simple o en un suceso.</p>
+         <p>La reciprocidad en la acción permite a Weber comprender que una relación social es “una conducta plural -de varios- que, por el sentido que encierra, se presenta como recíprocamente referida, orientándose por esa reciprocidad. La relación social consiste, pues, plena y exclusivamente, en la probabilidad de que se actuará socialmente en una forma (con sentido) indicable” (Weber 2002:21). El orientarse por reciprocidad no tiene en cuenta si lo que encierra el sentido es amor, lucha o pasión; simplemente exige que haya referencia a la conducta. Así, la acción mutuamente referida no implica necesariamente que los partícipes tengan el mismo sentido en la acción: “o que adopten en su intimidad la actitud de la otra parte, es decir, que exista ‘reciprocidad’ en el sentido. Lo que en uno es ‘amistad’, ‘amor’, ‘piedad’, ‘fidelidad contractual’, ‘sentimiento de la comunidad nacional’, puede encontrarse en el otro con actitudes completamente diferentes. Entonces unen los partícipes a su conducta un sentido diverso: la relación social es así, por ambos lados, objetivamente ‘unilateral’” (Weber 2002:22). Una relación social puede ser objetivamente unilateral u objetivamente bilateral, la diferencia está en que en la primera solo hay referencia, pero no existe el mismo sentido entre las partes y en la bilateral existe referencia y sentido.</p>
+         <p>La concreción de la reciprocidad en Weber comulga con la definición de relación social de Simmel, para quien la sociedad existe allí donde varios individuos entran en acción recíproca que “se produce siempre por determinados instintos o para determinados fines” (Simmel 1986:15). Son las acciones recíprocas tanto para Simmel como para Weber lo que constituye la sociedad. La relación social concebida como una conducta plural que encierra un sentido recíprocamente orientado da a entender que hay múltiples tipos de relaciones desde la amistad hasta la guerra entre naciones, lo que significa que tanto la amistad como la lucha son formas de relación social.</p>
+         <p>Una sociedad no solo se construye a partir de relaciones armoniosas, por lo general, se formaliza a partir de la armonía y la discrepancia. Es un error para Simmel considerar que la sociedad solo se construye desde la armonía. La palabra lucha enlaza siempre una contrariedad, una disputa. Lucha significa dualismo, en concreto “negación de la unidad” (Simmel 1986:10), que puede para Simmel llegar a una unidad. En consecuencia, la lucha tiene como función disminuir una determinada tensión. Para Weber una relación social es de lucha cuando la “acción se orienta por el propósito de imponer la propia voluntad contra la resistencia de la otra u otras partes” (Weber 2002:31). El hombre al imponer pretende lograr un fin, para lo cual recurre a diversos medios, que pueden ser pacíficos o violentos o una mezcla de ellos. A los medios de lucha que tratan de imponer la voluntad de manera no violenta los denomina pacíficos y a la lucha pacífica competencia, que existe cuando “se trata de la adquisición formalmente pacífica de un poder de disposición propio sobre probabilidades deseadas también por otros” (Weber 2002:31). El autor agrega que la competencia es regulada cuando se guía en sus fines y medios por un orden determinado.</p>
+         <p>El orden entrega las condiciones de la lucha o es el que guía el comportamiento en la lucha. Orden que puede orientarse de manera tradicional o con un carácter racional-instrumental, que considera la acción en sí misma como un valor. La sociedad se define “en torno a valores e instituciones, y lo que se valora e institucionaliza está definido por relaciones de poder” (Castell 2009:33), de aquí la alta probabilidad que las instituciones, como la institución política en Aristóteles, tenga grados de exclusión, es decir, incluya a unos actores y a otros no.</p>
+      </sec>
+      <sec>
+         <title>La concepción de política de Norman Fairclough e Isabela Fairclough</title>
+         <p>Para comprender la manera como F y F establecen las bases teórico-conceptuales de su enfoque es necesario remitirse a Van Dijk por tres motivos: (a) es reconocido como referente teórico-conceptual sobre el análisis del discurso, (b) aclara en su libro Discurso y poder que el ACD no es un método de investigación de las ciencias humanas o, de manera más precisa, un método del AD, sino una esfera de la práctica académica, un cruce de disciplinas distribuido a través de todas las humanidades y las ciencias sociales; motivo por el cual prefiere utilizar la denominación estudios del discurso (ED) para referirse al ACD. De hecho, en su artículo El análisis crítico del discurso afirma que: “El análisis crítico del discurso es un tipo de investigación analítica sobre el discurso que estudia primariamente el modo en que el abuso del poder social, el dominio y la desigualdad son practicados, reproducidos, y ocasionalmente combatidos, por los textos y el habla en el contexto social y político” (Van Dijk 1999:23) y (c) el énfasis del ACD hacia el poder es uno de los elementos de F.y F. para determinar que su nuevo enfoque se establece dentro de la perspectiva crítica de los estudios del discurso.</p>
+         <p>Así, comparten F y F con Van Dijk principalmente tres aspectos: (a) la concepción del ADP como una perspectiva crítica, que se enfoca en la reproducción y la disputa del poder político a través del discurso político; (b) la concepción de que el DP está vinculado a los actores políticos: individuos (políticos, ciudadanos), instituciones y organizaciones políticas comprometidos en eventos y procesos políticos y (c) su énfasis en la noción de contexto, con el que afirman que “fuera de los contextos políticos, el discurso de los políticos o de cualquier otro actor político no es político” (Fairclough, Fairclough 2012:18) debido a que los contextos políticos son contextos institucionales, es decir, contextos que hacen posible que los actores ejerzan su influencia y se empoderen para actuar en el mundo. De hecho, afirman que el protagonismo que dan en su libro a la acción “debe entenderse en el contexto de la realidad institucional humana, y las posibilidades que ofrece a los agentes para trabajar en la resolución cooperativa de conflictos” (Fairclough, Fairclough 2012:18), motivo por el cual para F y F el DP de un determinado actor político es considerado político si y solo si hace parte de un contexto político, que es el que posibilita trabajar cooperativamente en asuntos de interés común. Trabajar cooperativamente obliga a los actores a lograr sus propósitos no desde una racionalidad física-violenta, sino desde argumentos que están mediados por el habla o mejor por lenguaje.</p>
+      </sec>
+      <sec>
+         <title>Pensamiento clásico y lenguaje</title>
+         <p>Lenguaje que relacionan con la política porque posibilita explicar que la política es esencialmente argumentativa y deliberativa. Visión que sustentan o inician a sustentar desde la política de Aristóteles que ha sido punto de referencia para muchos teóricos políticos y varios analistas del discurso político. Esto se puede corroborar en teóricos políticos como Arendt en su libro ¿Qué es la política? y Esposito en su libro Diez pensamientos acerca de la política. F y F abordan a Aristóteles partiendo de la pregunta ¿qué dijo Aristóteles sobre la relación entre política y lenguaje?, pregunta que les permite concretar que existe una conexión entre la naturaleza política del hombre y el poder del habla (logos griegos), que genera alocuciones para indicar lo que es justo e injusto.</p>
+         <p>El servir del discurso o su función es comparado por F y F con la retórica de Aristóteles, especialmente con la retórica de la deliberación que tiene como objetivo “persuadir o disuadir un curso de acción, dependiendo de si se considera útil (ventajoso) o perjudicial” (Fairclough, Fairclough 2012:19). Para reforzar sus argumentos y tener más claridad sobre la relación entre la política y el lenguaje y mostrar que la deliberación es un género argumentativo, se remiten al libro Ética a Nicómaco de Aristóteles, caracterizando la política como acción en pos del bien supremo y basada en decisiones que surgen de la deliberación. Para Aristóteles, según F y F, se delibera sobre acciones que están dentro del ámbito de la propia agencia humana. Agregan que no se delibera sobre los fines, sino sobre lo que promueve los fines, es decir, sobre los medios.</p>
+         <p>La exposición de argumentos en la deliberación es el motivo para que F y F consideren la argumentación como un género en el que el principal tipo de argumentación es el razonamiento práctico, es decir, el que responde a la pregunta sobre qué hacer en ciertas situaciones sociales. Además, dicen, si la deliberación es una parte esencial de la política, el análisis político debe incluir el análisis del discurso y en particular la argumentación. Por esto, el enfoque del libro pretende rescatar el componente de la argumentación práctica con el fin de dar más vigor a los análisis textuales hechos en el ACD. De este modo, se comprende la utilidad teórica de la perspectiva Aristotélica para comprender la relación entre política y lenguaje, ya que se basa en una visión coherente de la naturaleza de la política, es decir, la acción de cara al bien supremo, que se basa en decisiones que surgen de la deliberación que “es intrínseca a la democracia” (Fairclough, Fairclough 2012:30), considerándola como un dispositivo para institucionalizar el proceso dialéctico, estableciendo una estructura política que da plena oportunidad para el uso de la competencia para un fin.</p>
+         <p>La política concebida de cara al bien supremo mediada por la argumentación, la deliberación y la acción lleva a F y F a argumentar que la política consiste en llegar cooperativamente, y a través de alguna forma de argumentación (colectiva, deliberación), a las decisiones de acción sobre asuntos de interés común. Se trata de qué hacer en respuesta a los desacuerdos y conflictos públicos. De aquí que la política esté siempre orientada al bien común, a satisfacer intereses colectivos por medio de la argumentación que exige la deliberación. Además, la argumentación toma en cuenta que la política opera no solo en un contexto de desacuerdo y conflicto, sino también en condiciones de incertidumbre, información incompleta y riesgo, donde lo que a menudo se requiere es una decisión inmediata en respuesta a alguna situación problemática.</p>
+      </sec>
+      <sec>
+         <title>La orientación de la política</title>
+         <p>La concepción de política de F y F les entrega un marco analítico para discutir con los enfoques actuales del ADP, especialmente con Chilton y Woodak, que dan primacía al análisis de las representaciones, mientras que el enfoque de F y F da primacía a la pregunta qué hacer, es decir, a la acción que envuelve o subsume las formas de representar la realidad. Chilton, por ejemplo, afirma que: “El examen del texto político y la conversación que se incluye en este libro será en gran parte un examen de las posibles representaciones mentales estimuladas por el texto y la conversación” (Chilton 2004:50). De este modo, es claro el énfasis de Chilton en las representaciones y no en la acción política. F y F establecen fundamentalmente tres grandes diferencias con los argumentos de Chilton: (a) el no abordar las características centrales del discurso político, es decir, la argumentación, la decisión y la elección, pues Chilton simplemente se centra en las formas en que los actores representan la realidad; (b) el vínculo entre política y lenguaje y (c) la discusión entre cooperación y conflicto.</p>
+         <p>Para F y F la teoría política se ocupa de cómo es la política y de cómo debería ser. La conciben como descriptiva y normativa. El motivo que explica el vínculo es que “los actores políticos en la política actual evalúan constantemente la acción política frente a los estándares normativos, evalúan, por ejemplo, lo que realmente sucede en (lo que se reconoce como) las democracias políticas frente a los estándares de lo que debería ser la democracia” (Fairclough, Fairclough 2012:25). Esta característica de la política debe trasladarse a los relatos del DP y a las formas de analizar el DP, lo que no siempre, afirman, ocurre en el análisis del discurso político. Por consiguiente, en el enfoque de F y F la argumentación y la deliberación práctica se analizan de manera descriptiva, pero también se evalúa en términos de estándares normativos. Así, el ADP es normativo y descriptivo; lo muestran analizando principalmente las posturas políticas de Colin Hay, Garner, Mouffe, Ranciere y Bauman y Finlayson, con quienes expresan los motivos que explican por qué su concepción de política tiende a la argumentación, la deliberación y la cooperación.</p>
+         <p>Colin Hay, por ejemplo, plantea en su enfoque más de doce definiciones sobre la política o lo político, en las que existen diferencias, pero también rasgos comunes que proporcionan una base para construir una concepción amplia e inclusiva de la política. Los rasgos esenciales son: la política como elección, como capacidad de agencia, como deliberación y como interacción social. En términos de la política como elección, F y F afirman que todas las definiciones de política citadas por Hay ven la acción política en situaciones en las que se pueden tomar decisiones alternativas, por esto: “La política consiste en tomar decisiones sobre qué hacer, qué acción tomar en respuesta a una situación” (Fairclough, Fairclough 2012:26). Además, las opciones o posibilidades de elegir se caracterizan por la incertidumbre, sumado a otros dos aspectos: (i) el carácter polémico de las opciones políticas y (ii) la urgencia de las decisiones políticas, a pesar de la controversia y la incertidumbre. Características que hacen que F y F, afirmen que: “La política se basa en la capacidad de agencia” (Fairclough, Fairclough 2012:26), es decir, en las actividades necesarias para lograr una cosa; actividades que se realizan planteando estrategias, que posibilitan mantener o cambiar las cosas en determinadas direcciones. Para reforzar la concepción política de Hay como toma de decisiones en situaciones de incertidumbre y la agencialidad de los actores políticos, F y F se apoyan en los argumentos sobre política de Garner que concibe “como el proceso por el cual los grupos que representan intereses y valores divergentes toman decisiones colectivas” (en Fairclough, Fairclough 2012:26). De este modo concluyen que la política es esencialmente un mecanismo para tomar decisiones, hecho que la hace inherentemente deliberativa.</p>
+         <p>Con los argumentos sobre política de Hay y Garner, F y F muestran que la naturaleza de la política está en la toma de decisiones, como en la deliberación. Ya que es necesario sopesar las razones a favor y en contra de una determinada situación. Pero la política o su naturaleza, además, para F y F, es un lugar más de cooperación que de conflicto, sin desconocerlo. De hecho, afirman que muchos teóricos políticos sitúan las nociones de cooperación y conflicto en el centro de la política democrática. Por ejemplo, Mouffe en su libro On the political realiza una distinción ente la política y lo político: “concibo lo político como la dimensión de antagonismo constitutiva de las sociedades humanas, mientras que entiendo a la política como el conjunto de prácticas e instituciones a través de las cuales se crea un determinado orden, organizando la coexistencia humana en el contexto de conflictividad derivada de lo político” (Mouffe 2007:16). Para F y F, Mouffe aboga por una visión agonística (conducta agresiva) de la democracia, la política agonística es una alternativa al antagonismo abierto y al conflicto (y al uso de la fuerza) y presupone una medida de cooperación entre adversarios. Ranciere, dicen F y F, también discute la coexistencia de la cooperación y el conflicto, para él el “arte de la política es reducir el potencial de conflicto inherente a la división entre los aporoi y los euporoi y al poder de las demostraciones, y acentuar la cooperación” (en Fairclough, Fairclough 2012:28). Por lo tanto, para F. y F, la cooperación no es simplemente una condición previa necesaria para el diálogo democrático, como sugiere la comprensión ‘agonística’ de Mouffe, sino que puede ser un recurso para que las oligarquías limiten y contengan la democracia. Esto sugiere que, al analizar el debate democrático como una forma de razonamiento práctico, no se debe limitar a identificar conjuntos de normas compartidas que regulan la cooperación, sino que debería dar cuenta de las condiciones de la cooperación.</p>
+         <p>Así, F y F sostienen la tesis de que la política debe estar orientada hacia la deliberación colectiva, que implica un examen crítico de las razones de los sujetos para actuar en asuntos de interés común. Tesis que se soporta en gran medida en la concepción de democracia de Bauman, quien concibe la democracia como el lugar de la reflexión crítica, en el que se pueden examinar, cuestionar y negociar críticamente la diversidad de opciones como base para la toma de decisiones, es decir, existe la democracia cuando las decisiones a tomar están mediadas por una reflexión crítica. De este modo, según F y F, el ágora para Bauman debería ser “el espacio donde los problemas privados puedan ser traducidos en asuntos públicos y la gente pueda usar el poder de las instituciones para buscar palancas gestionadas colectivamente lo suficientemente poderosas como para sacarlas de su miseria privada” (en Fairclough, Fairclough 2012:28). Motivo por el cual Bauman propone que es necesario reinventar la política, que F y F comprenden como el esfuerzo por ejercer realmente derechos reconocidos formalmente. En consecuencia, la deliberación colectiva es fundamental en la política y en el discurso político porque implica el examen crítico de las razones para actuar en asuntos de interés público. Razones que se sustentan con argumentos.</p>
+      </sec>
+      <sec>
+         <title>Deliberación y democracia</title>
+         <p>F y F han argumentado que la deliberación es un género particularmente importante en el discurso político, porque la política consiste en llegar a decisiones de manera cooperativa en contextos de desacuerdo e intereses conflictivos en los que puede haber incertidumbre, riesgo y urgencia. El análisis sobre la deliberación les permite contribuir a la teoría de la argumentación como a la teoría política de la democracia deliberativa. Para F y F la deliberación es intrínseca a la democracia. La conciben como un dispositivo para institucionalizar el proceso dialéctico, mediante el establecimiento de una estructura política que dé plena oportunidad para el uso de la competencia para un fin cooperativo. La naturaleza argumentativa de esta competencia por los fines cooperativos se manifiesta de diversas maneras, en debates públicos y controversias, y está dirigida de diversas maneras a la resolución de desacuerdos, el compromiso, la toma de decisiones colectivas y, sobre esta base, a la acción. La democracia para ellos se puede observar además como mecanismo para lidiar con el desacuerdo. En otras palabras, la función de la democracia deliberativa para F y F es luchar con el desacuerdo. Luchar en el sentido de entregar mecanismos para llegar cooperativamente a asuntos de interés común.</p>
+         <p>Pero es necesario tener en cuenta, que los desacuerdos no se pueden o se deben enmarcar solo en contextos institucionales. Al decir contexto institucional, se habla de realidades construidas, de realidades institucionales creadas y el objetivo de crear una realidad institucional, siguiendo a Searle, es regular las relaciones de poder entre las personas. Y lo que está en juego en actores que no hacen parte del poder, que no hacen parte de los contextos institucionales, es adquirir poder. Y la democracia debe ser el lugar para obtenerlo. La democracia debe posibilitar la deliberación en contextos institucionales o no. Así, es posible asumir que toda argumentación que se refiera a reivindicaciones sociales sea considerada política. El centrar la argumentación solo a contextos institucionales, excluye los actores no institucionalizados, es decir, todos tienen la capacidad de deliberar, pero el contexto institucional decide con quien delibera y con quien no.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión</title>
+         <p>La principal preocupación de F y F es sentar las bases teórico-conceptuales para establecer un nuevo enfoque para el ADP. El concepto eje que articula el enfoque es el concepto de deliberar tratado por Aristóteles en su teoría política. Se puede decir que es la deliberación el concepto eje que articula todo el nuevo enfoque. Concepto que subsume la representación. El concepto de deliberación les permite llegar a los lineamientos teóricos de van Dijk, especialmente en su noción de contexto, de contexto político, ya que es el que posibilita trabajar en asuntos de interés común.</p>
+         <p>La política concebida de cara al bien supremo mediada por la argumentación, la deliberación y la acción, llevan a F y F a argumentar que la política consiste en llegar cooperativamente, y a través de alguna forma de argumentación, a las decisiones de acción sobre asuntos de interés común. Se trata de qué hacer en respuesta a los desacuerdos y conflictos públicos. De aquí que la política esté siempre orientada al bien común, a satisfacer intereses colectivos por medio de la argumentación que exige la deliberación. Además, la argumentación toma en cuenta que la política opera no solo en un contexto de desacuerdo y conflicto, sino también en condiciones de incertidumbre, información incompleta y riesgo, donde lo que a menudo se requiere es una decisión inmediata en respuesta a alguna situación problemática. El reconocer que la política opera en estos contextos es la forma como F y F lidian con la exclusión del otro en la política aristotélica.</p>
+         <p>El interés común establece los lineamientos para decir que la política es un asunto colectivo, que la política debe estar orientada hacia la deliberación colectiva, pero lo colectivo inmerso en un determinado contexto. Lo colectivo implica fines similares, de aquí que se pueda deliberar, ya que la deliberación se da solo sobre los medios. El problema está cuando los fines son diferentes y no hacen parte de los contextos institucionalizados, aquí la democracia debe abrir las puertas para escuchar la voz de los actores políticos no institucionalizados. De esta forma la democracia reduce el conflicto social.</p>
+         <p>La democracia debe hacer de las relaciones políticas relaciones bilaterales, donde se dé la referencia al otro, pero también el sentido de la relación. Sentido que aparece en la argumentación de los actores. Así, es claro que una sociedad no solo se construye desde la armonía de los actores, sino también desde la discrepancia, que es la que debe llevar a la deliberación. Compartimos con Simmel que es un error considerar la construcción social o política solo desde la armonía, lo social, quiérase o no, alberga una contrariedad desde la que se deben construir los contextos institucionales.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Arendt, H.,  (1997).
+               <italic>¿Qué es la política?</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arendt</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>¿Qué es la política?</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Aristóteles, .,  (1985).
+               <italic>Ética nicomáquea, ética eudemia</italic>
+               . : Editorial Gredos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aristóteles</surname>
+                     <given-names />
+                  </name>
+               </person-group>
+               <year>1985</year>
+               <source>Ética nicomáquea, ética eudemia</source>
+               <publisher-name>Editorial Gredos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Aristóteles, .,  (1988).
+               <italic>Política</italic>
+               . : Editorial Gredos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aristóteles</surname>
+                     <given-names />
+                  </name>
+               </person-group>
+               <year>1988</year>
+               <source>Política</source>
+               <publisher-name>Editorial Gredos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Aristóteles, .,  (2011).
+               <italic>Ética a Nicómaco</italic>
+               . : Editorial Tecnos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aristóteles</surname>
+                     <given-names />
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <source>Ética a Nicómaco</source>
+               <publisher-name>Editorial Tecnos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Castell, M.,  (2009).
+               <italic>Comunicación y poder</italic>
+               . : Alianza Editorial
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Castell</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Comunicación y poder</source>
+               <publisher-name>Alianza Editorial</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Chilton, P.,  (2004).
+               <italic>Analysing political discourse: theory and practice</italic>
+               . : Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chilton</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Analysing political discourse: theory and practice</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Fairclough, I., Fairclough, N.,  (2012).
+               <italic>Political discourse analysis. A method for advanced students</italic>
+               . : Taylor &amp; Francis
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fairclough</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fairclough</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Political discourse analysis. A method for advanced students</source>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Fairclough, N.,  (1995).
+               <italic>Critical discourse analysis. The critical study of language</italic>
+               . : Longman
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fairclough</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>Critical discourse analysis. The critical study of language</source>
+               <publisher-name>Longman</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Mouffe, C.,  (2007).
+               <italic>El torno de lo político</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mouffe</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>El torno de lo político</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Sennet, R.,  (2012).
+               <italic>Juntos. Rituales, placeres y políticas de cooperación</italic>
+               . : Editorial Anagrama
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sennet</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Juntos. Rituales, placeres y políticas de cooperación</source>
+               <publisher-name>Editorial Anagrama</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Simmel, G.,  (1986).
+               <italic>Sociología. Estudios sobre las formas de socialización</italic>
+               . : Alianza Editorial
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Simmel</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>1986</year>
+               <source>Sociología. Estudios sobre las formas de socialización</source>
+               <publisher-name>Alianza Editorial</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Van Dijk, T.,  (1999).
+               <italic>El análisis crítico del discurso</italic>
+               . : Anthropos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Dijk</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <source>El análisis crítico del discurso</source>
+               <publisher-name>Anthropos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Van Dijk, T.,  (2000).
+               <italic>El discurso como interacción social. Estudios sobre el discurso II</italic>
+               . : Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Dijk</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <source>El discurso como interacción social. Estudios sobre el discurso II</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Weber, M.,  (2002).
+               <italic>Economía y sociedad</italic>
+               . : Fondo de Cultura Económica
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weber</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Economía y sociedad</source>
+               <publisher-name>Fondo de Cultura Económica</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

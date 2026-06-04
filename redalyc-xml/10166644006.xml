@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <issn pub-type="ppub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00006</article-id>
+         <article-id pub-id-type="doi">https://doi.org/10.4067/S0717-554X2021000100068</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Un diálogo entre la red de Bruno Latour y la malla de Tim Ingold cruzado por la experiencia</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>A dialogue between Bruno Latour’s network and Tim Ingold’s meshwork crossed by experience</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2628-7313</contrib-id>
+               <name>
+                  <surname>M. Muñoz</surname>
+                  <given-names>Sebastian</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Instituto de Altos Estudios Sociales, Universidad Nacional San Martín, Buenos Aire</institution>
+            <institution content-type="normalized">Universidad Nacional San Martín</institution>
+            <institution content-type="orgname">Universidad Nacional San Martín</institution>
+            <country country="AR">Argentina</country>
+            <email>sebastianmunozt@gmail.com</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>70</issue>
+         <fpage>68</fpage>
+         <lpage>80</lpage>
+         <history>
+            <date date-type="received">
+               <day>24</day>
+               <month>11</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>03</day>
+               <month>02</month>
+               <year>2021</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Este artículo tiene como objetivo presentar un diálogo entre los conceptos de red de Bruno Latour y malla de Tim Ingold. La presentación de este diálogo se funda en la exploración de los desafíos que surgen al poner en valor a los no-humanos y al tratar la cuestión de la experiencia. Esta noción se introduce para clarificar la forma en que el vínculo entre humanos y no-humanos se desarrolla temporalmente. Así, se observan diferencias entre un “cuerpo aplanado” (Latour) y un “organismo que experimenta” (Ingold), alternativas a ideas de aprendizajes y habilidades como socialización o habitus. Finalmente, se trata la reubicación que realiza Latour de la noción de red en su obra tardía, en lo que se considera la existencia de un énfasis experiencial. Se concluye señalando que el desarrollo conceptual presentado debe verse menos como una contraposición entre modelos teóricos estabilizados, que como una reflexión en movimiento ligada a formas experimentales de investigación.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This article aims to present a dialogue between Latour's notion of network with Ingold's concept of meshwork. This dialogue is based on the exploration of the challenges that arise in valuing non-humans in the analysis of these authors. To clarify how the link between humans and nonhumans is specifically developed, I introduce the pragmatic notion of experience. In this line, I described the differences between a “flattened body” (Latour) and a “body that experiences” (Ingold), in what is considered an experiential emphasis. Finally, Latour's relocation of the notion of network in his later work is discussed. The article concludes by pointing out that the conceptual development presented should be seen less as a contrast between stabilized theoretical models, than as a reflection in movement linked to experimental forms of research.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>Latour</kwd>
+            <kwd>Ingold</kwd>
+            <kwd>red</kwd>
+            <kwd>malla</kwd>
+            <kwd>experiencia</kwd>
+            <kwd>cuerpo</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>Latour</kwd>
+            <kwd>Ingold</kwd>
+            <kwd>net</kwd>
+            <kwd>meshwork</kwd>
+            <kwd>experience</kwd>
+            <kwd>body</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="17" />
+            <page-count count="13" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>Introducción</title>
+         <p>El objetivo de este texto es dar cuenta de un diálogo entre las categorías de red de Bruno Latour y malla de Tim Ingold atravesado por la cuestión de la experiencia. Al poner en valor a los no-humanos, estos autores pretenden generar una ampliación del horizonte de seres a considerar en sus investigaciones. Se propone que la noción pragmatista de experiencia, referida al vínculo dinámico de organismos y sus entornos, permite mostrar la dimensión temporal de las relaciones humanos/no-humanos, ligándola al aprendizaje, las habilidades y los procesos de singularización. Esto marca una serie de énfasis y diferencias entre Latour e Ingold y permite observar una elaboración conceptual alternativa a nociones como socialización o habitus (por ejemplo de Bourdieu). Así, en este diálogo se vislumbran los desafíos que surgen al distanciarse de posturas “culturalistas” o de los “teóricos de lo social” centradas en los humanos, al cual (según nuestros autores) estarían limitadas buena parte de las ciencias sociales.</p>
+         <p>Para realizar esta tarea divido el artículo en tres secciones. Para introducir, muestro una sensibilidad común entre Latour e Ingold que, bajo una matriz deleuziana, los aparta de la división sujeto/objeto. Bajo tal sensibilidad, contrasto la noción de red y malla, como un modo de entender lo ateniente a la relación y el desarrollo de los humanos y no-humanos. En segundo lugar, doy cuenta de la diferencia entre un “cuerpo aplanado” (de Latour) y un “organismo que experimenta” (de Ingold), recuperando el concepto pragmatista de experiencia como una noción que clarifica las propuestas de uno y otro autor. Finalmente, muestro la reubicación que realiza Latour de la categoría de red para estudiar lo que denomina “ontología de los modernos”. Allí destaco un énfasis experiencial en la etapa tardía de este autor. En las reflexiones finales propongo que el desarrollo conceptual desplegado se puede entender mejor en sus movimientos: tiene que ver más con experiencias de investigación, en que se combina el trabajo empírico con la conceptualización, que con la contraposición entre modelos teóricos estabilizados. Ambos autores son proclives a la experimentación conceptual y empírica, evitando explícitamente un doble cierre: en lo “social” y en la “teoría”.</p>
+      </sec>
+      <sec>
+         <title>Red y malla: dos nociones frente a la escisión sujeto/objeto</title>
+         <p>De la mano de Serres, Tarde y Descola, Latour se posicionó criticando la teoría sociológica clásica, especialmente a Durkheim y Levi-Strauss. Por su lado, con influencias que van de Bergson, Bateson, Gibson a Marleu-Ponty, Ingold hizo lo propio, elaborando una propuesta donde rescató la fenomenología y la biología en el seno de la disciplina antropológica. Ambos llegaron a una conclusión similar amparados en extensos trabajos etnográficos: el cuestionamiento de la separación radical entre naturaleza-cultura. Latour enlaza tal escisión a una operación propia de la modernidad, específicamente habla de la “constitución moderna”, la cual efectuaba una constante separación entre lo humano de lo no-humano y lo divino (como Dios tachado), “mientras que, por abajo, los híbridos siguen multiplicándose por el mismo efecto de ese tratamiento separado” (Latour 2007:33). Así, la separación analítica predominante de los modernos (que incluye a la antropología) menospreciaba una ligazón práctica y constante.</p>
+         <p>Destacar tales asociaciones no retrotrae a Latour o Ingold a ideas genetistas o racistas (como las que les preocupaban evadir a los antropólogos clásicos). Más bien, se encaminaron a tomar en serio los vínculos activos entre lo que se concebía como “lo natural” y “lo humano” y, convergentemente, a poner en valor la relación con otros múltiples no-humanos, por ejemplo, con las tecnologías en los Science and Technology Studies, campo del cual Latour es uno de sus principales referentes. Se impulsó, de esta forma, una nueva crítica al antropocentrismo, distinta al psicoanálisis o el estructuralismo, que modelaban un ser humano producido por el inconsciente, el lenguaje o el poder, en contrapunto a exageraciones ilustradas sobre su autonomía. Más allá de tales perspectivas, que de un modo u otro actualizaban la escisión sujeto-objeto, propusieron otras maneras de generar conocimiento donde los seres humanos eran resituados entre otros seres, extendiendo los cierres arbitrarios en la “cultura” o en el “contexto social”, abriendo paso a lo que podría denominar un relacionalismo ampliado.</p>
+         <p>En la antropología, a Latour e Ingold se los suele estudiar en los programas universitarios de teoría contemporánea vinculados a un conjunto de ideas como lo “pos-social” o el “pos-constructivismo”. Podría pensarse que junto con otros (como Marilyn Strathern, Roy Wagner o Eduardo Viveiros de Castro) establecieron una distancia respecto a las llamadas antropologías posmodernas, simbólicas o culturalistas. Tal contraste se puede comprender con el desplazamiento de la palabra “cultura” hacia “ontología”, que comenzó a adquirir relevancia en ciertos círculos derivado del análisis de composiciones diversas entre cultura y naturaleza, como las sistematizadas por Philippe Descola, para quien la “naturaleza dejó de ser un recurso para devenir un tópico” (Latour 2009:1). Esto adquirió una dimensión programática en un conjunto de académicos británicos cuando propusieron la expresión “giro ontológico”. Tal enfoque promovía una radicalización de ciertas tendencias propias de la antropología (reflexividad, conceptualización y experimentación), distanciándose de la idea de “mirar de forma diferente” -lo que implica dar cuenta de distintas representaciones o culturas sobre un mundo- para pasar a diversos mundos u ontologías. Destacaban formas singulares de asociar humanos y no-humanos. De la mano de Viveiros de Castro plantearon una renovación de crítica al etnocentrismo, al proponer la posibilidad de hacer un giro de las “propias presuposiciones -y así transformar el campo de la percepción analítica” (Holbraad y Pedersen 2017:6) generada por lo que emerge desde la etnografía, extremando la simetría entre la reflexión y los conceptos del analista con lo que acontece en el trabajo de investigación.</p>
+         <p>No obstante, aunque Latour e Ingold presentan similitudes, es difícil definirlos en una corriente específica y menos una escuela que quizás ellos mismos rechazarían. De hecho, el mismo Ingold señala que, aunque no le gusta la idea de “giros”, si tuviese que caracterizar su posición preferiría hablar más de “giro ontogenético que de ontológico” (Ingold 2018:167). Si bien comparte el relacionalismo ampliado, rechaza hablar de múltiples mundos al proponer procesos de generación y diferenciación de seres en un mundo. Más allá de este debate e intentos de etiquetaje, que puede involucrar disputas de posicionamiento en el campo de la antropología académica contemporánea, me interesa señalar y adentrarme en una sensibilidad común.</p>
+         <p>Sin intentar realizar una genealogía de sus antecedentes, observo de manera insistente la influencia de una matriz deleuziana y posteriormente del pragmatismo norteamericano (que trataré más adelante). Respecto al pensamiento de Deleuze puedo señalar dos puntos. En primer lugar, la atención dedicada a los agenciamientos a-centrados, esto es, procesos de relación que no están signados a priori por un ordenamiento fijado por un nivel superior, si no que más bien acontecen inmanentemente. Evitan diferenciar planos, por ejemplo, entre un orden social que explica a los individuos o uno inconsciente que conforma al sujeto. En segundo lugar, aparece el cuestionamiento a la oposición y separación entre sujetos y objetos, lo que repone una ecología de seres diversos, en constante relación y reacomodo. Ambas ideas se ligan a la noción de rizoma que, al decir de Deleuze y Guattari en Mil mesetas, se generan entre entidades heterogéneas, con diversos eslabones biológicos, políticos, económicos, etcétera. Estas aperturas cognitivas generan las condiciones para explorar una multiplicidad de sistemas abiertos con relaciones más o menos duraderas, que tienen la posibilidad de abrirse a otras y, en esas operaciones, cambiar ellas mismas. Deleuze y Guattari llaman a considerar incidencias tan fundamentales como las de las líneas de fuga (que abren) y las de segmentareidad (que cierran), que les brindan a sus razonamientos una dinámica procesualista con nociones como las de devenir, vida o despliegue.</p>
+         <p>La idea de asociaciones entre seres heterogéneos aparece en buena parte de la obra de Latour y es sintetizada en el concepto de red, que pasa a ocupar un lugar central y más claro en Reensamblar lo social, para luego ser reubicada en Investigación sobre los modos de existencia. Categorías como “interesamiento” o “traducción” estuvieron presentes en diversas investigaciones desarrollados por Latour y Michael Callon (entre otros) en el Centre de Sociologie de l’Innovation (CSI) desde la década 1980, donde realizaron sus estudios sobre ciencia y tecnología, impregnando, a su vez, otras investigaciones en diversos campos como la música, el medio ambiente, la salud o los mercados. Reensamblar puede considerarse una sistematización de esa serie de trabajos, que se cristalizó en la “teoría del actor-red” (o TAR), cuyas premisas son: reconocer el papel activo de los no-humanos; generar descripciones in situ de procesos de asociación; preocuparse por observar cómo se sostienen los ensamblados y; no incurrir en retóricas de la mera dispersión y la fragmentación (de los posmodernos). Las redes son asociaciones activas entre entidades heterogéneas, en que cada una de ellas produce efectos sobre las otras, de este modo, existe una co-determinación que va más allá de las relaciones inmediatas y se expande en diversas direcciones formando cadenas de inter-dependencias inmanentes.</p>
+         <p>Esto aparece claramente en el artículo Give me a laboratory and I will raise the world de 1983. Allí, Latour mostró cómo Louis Pasteur desarrolló la cura contra el Antrax a través de un proceso donde el químico y bacteriólogo francés efectuó diversas alianzas que contribuyeron a fortalecer su posición: dominar a la bacteria, producir una vacuna y conseguir el apoyo necesario para aplicarla. El aporte de Latour es dar tanta importancia al modo en que Pasteur se relaciona con el micro-organismo en el laboratorio, como al hecho de obtener apoyo privado y estatal para desarrollar y aplicar la vacuna. Con ello pretende evitar cierto internalismo (solo observar el trabajo de científicos en el laboratorio, ligado al interaccionismo) y externalismo (solo mirar fuerzas sociales externas que influyen al laboratorio, asociado a la sociología crítica). Por otro lado, en esta investigación hay algo curioso: la obstinación de Latour para no hablar de Pasteur como Pasteur. Según él, no tiene sentido hurgar en su vida y, más bien, hay que mirar lo que hace en su laboratorio como científico y cómo va construyendo alianzas entre humanos y no-humanos. Es cierto que muchas explicaciones del tipo “historia de vida” pueden sobre-evaluar las condiciones de clase, religiosas, laborales, sexuales, etcétera, como causas implícitas que operan en comportamientos (como lo ejemplifica el ajuste del habitus al campo de Bourdieu) y con ello minimizar la descripción del despliegue práctico de asociaciones. Sin embargo, ¿puede ser que ante el privilegio de los procesos de asociación se disuelva la experiencia de Pasteur?</p>
+         <p>Esta interrogante permite avanzar hacia la crítica de Tim Ingold. Para el autor inglés el concepto de red es muy estático. Si bien, hablar de red permite dar cuenta de relaciones y está focalizada en describir los procesos en que los seres se relacionan antes del cierre en ensamblados estables: ¿cómo y en qué sentido algo que se define por el movimiento de asociación es considerado estático? Ingold criticó las elaboraciones de Latour mediante una propuesta que dialoga con la fenomenología y la biología. Latour quería apartarse de la fenomenología por su posible filiación a una filosofía del sujeto. Las diferencias que marca Ingold se nutren de sus reflexiones sobre el cuerpo, la percepción, el aprendizaje y la memoria. De este modo, desarrolló un “dialogo” con un interlocutor que parece no contestarle, por lo menos explícitamente. Así, contrastó la red (network) con su propuesta de malla (meshwork), lo que aparece metafóricamente en el texto When ANT meet SPIDER: social theory for arthopods de 2008 y más concretamente en Líneas de 2007.</p>
+         <p>Para Ingold la red asocia, une o ensambla puntos, pero: “La composición queda como un objeto acabado, un artefacto [debido a que] Las líneas que lo constituyen unen cosas pero no crecen ni se desarrollan” (Ingold 2015:30). Este es el punto central: hay elementos que parecen moverse solo al asociarse con otros. La historia se reduce a la articulación entre ellos. Ingold da el ejemplo de las redes de transporte, las cuales, al mostrar los movimientos, enfatizan los destinos en detrimento de los desplazamientos. Al mirar un mapa se ven puntos (localizaciones) unidos por líneas estáticas. Frente a esto, la idea de malla acentúa el desplazamiento de los seres que se entrelazan. Al contrastar la hormiga (ANT, de actor-network-theory) y la araña (SPIDER), Ingold plantea cómo las telarañas son “Secretadas del cuerpo de la araña a medida que se mueve, son líneas a través de las cuales actúa y percibe” (Ingold 2011:85), de ahí que pueden concebirse, orgánicamente, como extensiones de ellas mismas y (esto es importante) establecen relaciones no “entre” (puntos, elementos), sino a lo “largo” de sus trayectorias. ¿Qué significa esto? Seres (humanos o no-humanos) que se desplazan, se cruzan e influencian mediante un inter-juego de fuerzas. En trabajos anteriores, esto lo refería, en clave biológica, a “sistemas de desarrollo” (Ingold 2001:261) o, en clave fenomenológica, a “ser-en-el-mundo” (Ingold 2001:272) para destacar que el movimiento es una experiencia activa de organismos con sus entornos. Con ello se entiende la utilización de la idea de “líneas” como forma de acentuar movimientos o en senderos de una experiencia vivida, afirmando que “La vida en un sitio puntual no puede producir la experiencia de un lugar… La vida… se vive por senderos” (Ingold 2015:17). Justamente, la malla evoca el entrelazamiento de las líneas. En On human correspondece de 2016, habló de “correspondencia” para insistir en la constitución conjunta de los seres que se relacionan. En fin, si en la red hay un movimiento de asociación, en la malla el movimiento de asociación se combina con uno de co-constitución de los seres que se van definiendo a través de su experiencia.</p>
+         <p>La crítica de Ingold se puede precisar integrando la distinción que realiza Latour respecto al doble movimiento de la red: como proceso y como resultado. El primer movimiento hace referencia a la “instalación del conjunto heterogéneo de los elementos necesarios para la circulación [que implica un] trabajo de exploración que permite reunir o componer una serie discontinua de elementos heterogéneos” (Latour 2013:45). Por ejemplo, un gaseoducto está hecho de tubos de acero, estaciones de bombeo, tratados internacionales, mafias rusas. El segundo movimiento remite a “lo que circula de manera continua, una vez que todos los elementos están instalados en su lugar, cuando no hay crisis y está asegurado el mantenimiento” (Latour 2013:45). Entonces, ¿Ingold al cuestionar el carácter estático de la red, solo lo hace respecto a la red como resultado, sin verla cómo proceso? Ahora bien, si considerar que una red en proceso está lejos de ser estática, a pesar de ello la idea de red ¿no disuelve la experiencia de los seres que se relacionan, de su historia, con un presente y posible porvenir? Por cierto, influenciados y traspasados por otros, pero ¿puede ser que ante el privilegio de las asociaciones no se observen las experiencias que los constituyen?, ¿podría hablarse de un sesgo estructuralista?</p>
+      </sec>
+      <sec>
+         <title>Cuerpo aplanado y la experiencia del organismo</title>
+         <p>En un artículo titulado How talk about the body de 2004, Latour parte señalando que para el filósofo pragmatista William James tener un cuerpo es aprender a ser afectado, esto es, movido por otras entidades humanas y no-humanas. Nuevamente, se distancia de concebir al cuerpo bajo la idea de un sujeto separado del mundo (objeto), tratando de ver articulaciones múltiples. Latour en sus investigaciones no es ajeno a los aprendizajes y las habilidades humanas. Por ejemplo, en el estudio ya referido sobre Pasteur y el Antrax, observa la importancia del saber del científico quien al extraer el microbio puede criarlo en el laboratorio. No obstante, a Latour le interesa subrayar la capacidad de tal científico de desarrollar alianzas en el laboratorio y fuera de él, su preocupación remite más bien a observar el trabajo de “enrolar y alistar a otros” (Latour 1983:143), describiendo un despliegue práctico de asociación.</p>
+         <p>En Reensamblar va a tratar específicamente el tema de la producción de interioridad y las capacidades de los individuos, cuestionando una supuesta interioridad separada del afuera. Para esto propone, en cambio, redes de producción de interioridad (subjetivadores, personalizadores, individualizadores). Nuevamente, las capacidades, más que situarse en un espacio interior (del individuo en sí mismo), las considera dependiente de ensamblados con diversos componentes. Por tanto, si hay una interioridad, es construida desde el exterior, donde el “equipamiento”: “No lo llevamos con nosotros; no es nuestra propiedad. Podemos haberlo internalizado en alguna medida, pero incluso para lograr esa hazaña de internalización tenemos que descargar otro componente adicional” (Latour 2008:298). De este modo se entiende que seríamos una suerte de cyborgs (a lo Donna Haraway), debido a como nuestras articulaciones con otras entidades nos constituyen.</p>
+         <p>Aunque parezca extraño, en una nota al pie Latour dice que la “noción de habitus de Bourdieu, una vez que se la libera de su teoría social, sigue siendo un concepto excelente” (Latour 2008:298). Más que la idea de socialización (lo objetivo-social hecho cuerpo y mente), Latour acepta el carácter relacional del habitus, esto es, el hecho de que los individuos se produzcan por sus nexos con el mundo. Sin embargo, no clarifica la dimensión temporal de tal noción, esto es, cómo los seres en tal relacionalidad poseen una historia o desarrollo. Latour (tanto como Foucault o Deleuze) habla de pliegues para referirse a como lo de “adentro” es una operación del “afuera”, lo que también funciona como una vía para disolver esos límites. Bajo esta idea, propone “aplanar” a los actores re-distribuyendo la agencia en la red. No obstante, el rechazo a la división sujeto/objeto por su salida articulatoria parece llevar a una cierta disolución de los seres en relación, por lo menos en su dimensión analítica.</p>
+         <p>Por otro lado, su posición respecto al peso de los no-humanos en los procesos de estabilización, expresada por ejemplo en la categoría de “cajas negras”, puede abrir la puerta a otras dificultades. En Ciencia en acción de 1987, utiliza tal noción para dar cuenta de la cristalización del objeto de una controversia momentáneamente cerrada, de lo que denomina “ciencia ya elaborada”. Esto provee una manera de pensar algo así como una sedimentación histórica de más largo aliento, por ejemplo, un ordenador que situado en un laboratorio permite observar claramente la estructura del ADN que, a años de su elaboración, resulta tan poco problemático como un mueble. No obstante, Latour busca otra vía de acceso a la ciencia, pretende estudiarla en proceso de elaboración, donde hay incertidumbres, gente trabajando, decisiones, competencias y controversias. Como ya decía, la analítica de Latour tiene como premisa no partir de lo estabilizado, sino indagar en cómo se produce la estabilización (“abrir las cajas negras”), por ejemplo, estudiar cómo se desarrolló el ordenador y la imagen del ADN. En Reensamblar insiste que para llevar esta tarea a término, no hay que separar lo social de otras fuerzas, y destaca el papel de los objetos como elementos claves para estudiar cómo los ensamblados obtienen durabilidad, a diferencia de la variabilidad y debilidad que poseen los vínculos basados solo entre humanos. Así, contrario a lo que piensan los “teóricos de lo social”, la TAR presenta “dudas acerca de la capacidad de los vínculos sociales de expandirse de modo duradero [y] se plantea la posibilidad de un rol verosímil para los objetos” (Latour 2008:105). Sin prejuicio de lo anterior, si es que en la estabilización son claves los objetos, no queda claro el papel de los humanos en las articulaciones que la producen. Especialmente, considerado todo lo que las ciencias sociales han dicho en torno a la inercia de lo que usualmente se trata como cultura: costumbres, tradiciones, aprendizajes sociales o habitus.</p>
+         <p>Es ahí que la noción pragmatista de experiencia del filósofo John Dewey puede ser útil para no recaer en ideas de “los teóricos de lo social” o “culturalistas”, pues se hace cargo de las relaciones entre humanos y no-humanos y de las trayectorias que realizan los mismos. En La Reconstrucción de la filosofía, Dewey habla de la experiencia como una relación entre organismo y entorno durante una trayectoria vital, caracterizada por la conexión entre el padecer y el obrar. Los organismos se adaptan y se transforman, al tiempo que actúan y producen cambios en su entorno. En la propuesta de este filósofo estadounidense no se trata ni de un ajuste e incorporación del afuera (como podría verse en la teoría el habitus de Bourdieu), ni tampoco en un saber-hacer encerrado en sí mismo. Existe más bien una “co-operación, en el sentido de una operación común, repartida entre el organismo y el entorno que forman un solo sistema” (Quéré 2017:7), lo que incluye a los no-humanos. Así, Dewey, sin diluir al organismo, propone a la experiencia como clave para sus concepciones sobre el conocimiento y el aprendizaje. La dinámica entre organismo/entorno contempla el hecho de cómo se generan las continuidades y transformaciones entre lo que sucedió, lo que sucede y lo que sucederá.</p>
+         <p>Ingold señaló que su teoría de la correspondencia “Ya estaba esbozada hace un siglo” (Ingold 2016:6) por Dewey, bajo la idea de variación-en-común (variation-in-commoning). Esta forma de pensar le permitió a Ingold hablar de los organismos como “deambuladores” o “pobladores” del mundo que participan activamente en la formación de ese mundo y van dejando en su movimiento todo un itinerario vital. El autor inglés usó un conjunto de nociones en que muestra cómo viven y se mueven los organismos, sintetizadas con la ya nombrada categoría de línea. Con otro lenguaje, Ingold habló del vínculo entre memoria y ejecución, donde lo que opera allí no es una réplica, sino un movimiento de combinación pasado-presente-futuro. Definió a los aprendizajes y a las habilidades como la formación dentro de un ambiente, que se produce mediante la coordinación de percepción y acción y la realización de una tarea en acto. A partir de las ideas del psicólogo ecologista Gibson, Ingold concibió la percepción como una habilidad que acontece a lo largo de “un sendero de observación”, en función de cómo el “organismo se va moviendo” (Ingold 2012:13). Por otro lado, en Creative and cultural improvisation de 2007, junto a Elizabeth Hallam, elaboró una reflexión que presenta a la creatividad como un modo continuo de situarse en las circunstancias, que requiere considerar al pasado no como reiteración exacta, sino involucrado en una ejecución abierta a lo actual, más o menos distinta que lo anterior.</p>
+         <p>En todas estas ideas podemos ver cómo Ingold sitúa y observa a los seres (humanos y no-humanos) en movimiento y con ello recupera una experiencia a la vez relacional y constitutiva. En textos recientes utilizó la idea de diferenciación intersticial para marcar como la singularidad (ligadas a las nociones de ontogénesis e individuación) se produce cuando los seres van diferenciándose y formándose en presencia de otros. En suma, no se pierde de vista la heterogeneidad de los seres que se relacionan, pero esta relación es vista menos como articulación y más como un continuo proceso de singularización en que los seres se van constituyendo y diferenciando a lo largo de su experiencia.</p>
+         <p>Por su lado, el sociólogo Antoine Hennion, alguien cercano a Latour, refirió a la importancia que comenzó a adquirir la filosofía pragmatista estadounidense en los estudios del CSI. Si la noción de pragmata (en tanto cosas-relaciones, en extensión, plurales) les permitió hablar de otra forma sobre una agencia distribuida, a Hennion la categoría de attachment (vinculaciones) le ayudó a destacar la experiencia de los cuerpos: “Las vinculaciones son lo que se experimenta. La experiencia requiere al cuerpo” (Hennion 2017:114). Según Hennion, su conceptualización no trata de satisfacer cierto tipo de laguna en los análisis del TAR al “abrirse al ‘sujeto’ de la forma que tales ya se habían abierto al objeto” (Hennion 2017:114). Para este autor, los sujetos ya estaban considerados en la TAR (como se trató con la idea de estar afectado), aun cuando el tema del cuerpo (también la moral o la política) no aparecía subrayado en las primeras formulaciones del término attachment propuesto por Michael Callon, en estudios de la ciencia, la técnica y los mercados. Los trabajos de Hennion sobre aficionados a la música y el de un colaborador (Gomart) sobre las drogas, ponen el foco sobre la pasión que ciertas personas tienen sobre estos elementos. Así, por un lado, proponen cómo los aficionados son activos en el aprendizaje para experimentar el objeto de su pasión y, por otro, intentan padecerlos para experimentar los efectos que esos objetos tienen sobre ellos. El oxímoron “aprender activamente a dejarse llevar”, trae la experiencia del cuerpo a primer plano. Esto genera un desplazamiento al interior de la TAR y sirve como contrapunto de lo que hasta ahora se ha tratado de mostrar con la crítica de Ingold. Si, este último, apuntaba a las dificultades del concepto red y del “cuerpo aplanado” para acercarse a la experiencia de los seres y sus modos de conformarse, Hennion destaca esos puntos. Así, se puede volver a la pregunta: ¿hay un punto ciego en Latour o la TAR respecto a la experiencia o es solo una cuestión de énfasis?</p>
+      </sec>
+      <sec>
+         <title>La reubicación de la red y ¿un énfasis experiencial?</title>
+         <p>En Investigaciones sobre los modos de existencia, Latour trata de expandir una problemática desarrollada en Nunca fuimos modernos. En tal libro criticó lo que los “modernos” decían sobre la separación de lo no-humano/humano, dando ejemplos de cómo esto les demandaba esfuerzos purificadores para mantenerla frente a una proliferación de híbridos que, según él, se daban en la práctica. En Investigaciones pretende estudiar lo que sí han sido los modernos, específicamente considerando sus instituciones y sus valores. El desafío investigativo de comprenderse se orienta a negociar con diversas posiciones y composiciones bajo un horizonte cosmopolítico. Esto refiere menos a encaminarse a la conciliación de culturas humanas que tienen “puntos de vistas diferentes sobre un mundo que es el mismo” (Latour 2004:454) y más para orientarse a una construcción ecológica de lo común que considere la existencia de ensamblados de mundos diversos, que incluyen humanos y no-humanos.</p>
+         <p>Latour al hablar de “los modernos” utiliza una noción amplia y algo difusa que puede involucrar a las llamadas sociedades occidentales o en las que se perciba la influencia de la llamada modernización. Así, dentro de las composiciones posibles una sería la “moderna”. Con ello, el autor francés se previene de la rápida universalización de la investigación, asumiendo la cuestión de la alteridad y la multiplicidad de mundos, donde se percibe su interlocución con Viveiros de Castro y su propuesta de la antropología como una teoría y práctica de “descolonización permanente” (Latour 2009:2). No obstante, más que en un sentido totalmente definido de los modernos frente a los “otros”, Latour se abre al juego respecto de sus posibles extensiones, retraimientos o cruces. Esto involucra una innovación metodológica mediante su propuesta de modos de existencia, como una manera de entender la singularidad de las relaciones en y entre los seres donde propondrá ciertos regímenes de verdad e instituciones.</p>
+         <p>Es bajo este proyecto donde Latour realiza una autocrítica a su forma de investigar mediante el concepto la red. Si todo fuese red, solo existirían conjuntos de asociaciones de elementos heterogéneos e imprevistos, sin especificar la manera en que se establecen tales relaciones: “Todas las sorpresas, dejan de ser sorprendentes pues llegan a ser de la misma especie” (Latour 2013:48). La noción de red da una primera libertad de movimiento para la investigación (no quedarse atado a dominios con límites presupuestos), pero tiene el problema de la pérdida de singularidad de lo que se relaciona, que es justamente lo que intenta captar respecto a los “modernos”. Esto se manifiesta en como los informantes de Latour afirman que existe algo específico en los distintos espacios en que se desenvuelven. Hablan de que están haciendo algo jurídico, científico, religioso o artístico, lo que es relevante para comprender la forma en que operan las instituciones. En fin, hay un problema para entender la singularidad de sus que-haceres y cómo los experimentan. Es interesante cómo, más que “seguir a los actores” (fórmula metodológica utilizada en Reensamblar), en este texto habla de “seguir el hilo de la experiencia” y así invocando a James afirma: “no queremos más que experiencia […] pero no menos que experiencia” (Latour 2013:177). Entonces, ¿cómo dar cuenta de las experiencias? Y, finalmente, ¿cómo captarlas sin perder la apertura que permite la red?</p>
+         <p>La solución analítica fue considerar la red como un modo de existencia entre otros, al que se le agrega la especificación de la preposición. Este es un nuevo modo que establece una “tonalidad” propia a la circulación de los elementos de una red particular. Ello da una clave que marca la comprensión de lo que sigue, y así “ofrece el tipo de relación necesaria para captar la experiencia del mundo” (Latour 2013:68). Así, en cada modo, más que contenidos, se establecen formas de tratar las cosas, maneras de relacionarse, por ejemplo, religiosamente, políticamente, artísticamente, etcétera. Red y preposición serán los metalenguajes de una investigación que, junto con Doble Clic (un modo que genera interpretaciones simplificadas y erróneamente indiscutibles), sirven de base para la comprensión de los modernos.</p>
+         <p>De los doce modos que reseña Latour (sin considerar los anteriores) me interesa repasar tres (reproducción, metamorfosis y hábito) que tratan concretamente la cuestión del cambio- permanencia y el despliegue de asociaciones, lo que quizás permite responder (¿involuntariamente?) a los señalamientos de Ingold. Con el modo reproducción Latour trata la cuestión de la permanencia de los existentes (más allá de ser un apoyo para el conocimiento que tengamos sobre ellos, tratado en el modo referencia, propio de la ciencia). Aquí la subsistencia no implica una sustancia (una materia de fondo), sino un trabajo para mantenerse. La pregunta es cómo los seres insisten en ellos mismos y logran durar, focalizado en dos formas: las “líneas de fuerza” que refieren a la insistencia y repetición propia de los seres, y los “linajes” que describen cómo se traspasa algo a la generación siguiente.</p>
+         <p>Siguiendo a Harman, un filósofo y comentador agudo de la obra de Latour, se puede decir que esta concepción de duración indica una diferencia respecto al punto de vista de Bergson (referente de Ingold), quien piensa que “es ridículo que el tiempo pueda ser compuesto por instantes aislados” (Harman 2014:93). Justamente, en un texto sobre creatividad, Ingold y Hallam hablan de la duración para oponerse a la idea de un instante que reemplaza a otro: “La duración es el continuo proceso del pasado que carcome al futuro y se acrecienta al tiempo que avanza” (Hallam y Ingold 2007:11). Siguiendo a Bergson, estos autores observan que el pasado no es un tiempo complejo y único: “el avance del tiempo por sí mismo es un porvenir en un movimiento en curso generativo que tiene final abierto y nunca está completo, es llevado más que replicado por las generaciones que siguen” (Hallam y Ingold 2007:11). Así, el pasado no está contra del presente, está activo en él y presionando respecto al futuro. En el caso de Latour lo central es que la reproducción no es automática, donde es necesario preguntarse por el trabajo requerido para pasar de un momento a otro, algo que parecería inadecuado para Bergson, quien prefiere concebir la continuidad de la temporalidad. Sea como fuere, se puede ver como Latour propone otro foco para considerar el paso del tiempo, el cambio y la permanencia respecto a sus anteriores conceptualizaciones. No solo se enfatizan asociaciones entre seres, también hay seres que realizan un trabajo para mantenerse o para pasar algo a las generaciones siguientes.</p>
+         <p>Por otro lado, el modo metamorfosis trata la trayectoria de las mutaciones y transformaciones de los seres. Ahora, entre los momentos se busca comprender el trabajo de generar diferencias en ellos. No obstante, Latour más que profundizar en la idea de la diferencia de uno o más seres en momentos distintos, hablando de religión y psicología, destaca a “seres invisibles” que desde el exterior transforman, por ejemplo, cuando “nos toman” o “nos poseen”. Retomando cuestiones ya señaladas respecto al cuerpo aplanado, refiere al tema de las transformaciones psicológicas y vuelve a destacar el proceso de producción de interioridad al tratar los modos de producir mutaciones en estos (con comillas) “individuos”. En este modo, ¿sigue predominando una concepción asociacionista?</p>
+         <p>Sea como fuere, tanto en el modo reproducción como en el de metamorfosis, Latour apela a la dinámica del “ser en cuanto otro”, lo que es una vuelta a su crítica del esencialismo y la dualidad sujeto-objeto, en el que existirían ciertas sustancias invariables e inalcanzables (como en la cuestionada idea de materia). Lo interesante es que el “ser en cuanto otro” también permite definir un devenir de alteraciones propias, lo que ayuda a clarificar la mirada sobre el recorrido histórico de los seres. Las asociaciones no son menospreciadas, como lo demuestra la idea de redes de producción de interioridad, pero se vislumbra un camino alternativo para observar la dinámica en que esos mismos seres cambian o se mantienen, siempre relacionalmente, pero atento a sus singulares desarrollos.</p>
+         <p>Por último, el modo hábito, donde nuevamente retoma a James, es un modo que sirve para omitir las discontinuidades, permitiendo hacer parecer a los seres y los otros modos como momentáneamente durables y estables. Hace implícito los trayectos, disimulando las preposiciones, permitiendo “esencializar”, esto es, mostrar a los modos como si fuesen guiados por una esencia: obtener “efectos de sustancia a partir de la subsistencia” (Latour 2013:256). Hay discontinuidades, hay saltos, siguen existiendo las redes, pero emergen “apariencias” (una manera de tratar al hábito) que tienen su propia realidad y sus propios resultados. Operan generando un efecto de estabilidad, omitiendo la clave de interpretación que da la tonalidad a cada modo.</p>
+         <p>En fin, considerando estas cuestiones, en Investigaciones hay una ampliación del marco analítico de la red que podría observarse como un cierto “énfasis experiencial”, por lo menos en dos sentidos. En primer lugar, la red presenta un límite para comprender la especificidad de lo que se relaciona. Justamente, rescatar la experiencia de los que viven y dicen quienes se mueven en ciertos modos, ayuda a reconstruir a los modernos y sus instituciones. En segundo lugar, al estudiar otros modos distintos al de la red, se observan maneras diversas para acercarnos a la permanencia y la transformación. Si al hablar de red se privilegiaba el ensamblaje de elementos con distintos orígenes, ahora, las posibilidades analíticas se expanden. Los seres pueden insistir en su permanencia, entregar algo a las nuevas generaciones, transformarse con ayuda de otros (desde dioses hasta psicólogos) u omitir tales procesos haciendo como si fueran simplemente naturales. Aparecen otras formas de experimentar el tiempo que, desde mi perspectiva, pueden acercarse a la retórica de las líneas y flujos (por ejemplo, con la expresión “hilos de la experiencia”), tal como Ingold ponía en primer plano. Esto, pues al mismo tiempo que se dan cuenta de procesos de asociación, se subraya el desarrollo de los mismos seres que se relacionan, apareciendo de manera más visible y completa la cuestión de la ontogénesis.</p>
+      </sec>
+      <sec>
+         <title>Reflexiones finales</title>
+         <p>A partir de una sensibilidad deleuziana común que se aparta de la escisión sujeto-objeto, Latour e Ingold reubicaron al ser humano entre un conjunto de seres, lo que les permitió valorar relaciones con no-humanos. Luego, en este artículo se marcó un movimiento de diferencias, críticas, autocríticas y énfasis en que apareció la experiencia como elemento clave para explorar temas como el aprendizaje, el cuerpo y la singularización. La diferencia inicial entre los autores refiere a la manera de concebir las relaciones y el desarrollo de los seres humanos y no-humanos expresada en la distinción entre red y malla. Latour observaba los procesos de articulación con el concepto de red para describir una acción distribuida. Con la noción de malla Ingold prestaba atención a seres en relación, destacando el valor de sus movimientos e historias de diferenciación y constitución.</p>
+         <p>En segundo lugar, se presentó una diferencia respecto al cuerpo de los seres u organismos. Latour se separaba de perspectivas que buscan la interioridad y una pretendida escisión adentro/afuera. Para él las capacidades de los cuerpos debían verse articuladas y, en esta condición, destacaba su equipamiento. Estar afectado es estar abierto al influjo del mundo. De ahí propuso “aplanar” al cuerpo, lo que es semejante a decir que está inserto en una red de agencias. Por la mediación del concepto de experiencia de Dewey, se llegó a la perspectiva de Ingold. Más que aplanar, se trataba de observar la relación organismo/entorno a lo largo de un proceso: el organismo actúa, es influenciado y desarrolla un aprendizaje conectado con el entorno. Sin abandonar el horizonte relacional, la idea de “diferenciación intersticial” le permitió a Ingold ver como los seres se conforman, tienen memoria, aprenden y desarrollan habilidades, sin por esto diluirse. A lo hilvanado hasta el momento, se le sumó el matiz que incorporó Hennion. Alguien que, cercano a Latour e influenciado por el pragmatismo, señalaba que en la teoría del actor-red había un espacio para la experiencia, que él de cierta forma enfatizó con la noción de vinculaciones.</p>
+         <p>Finalmente, se señaló como Latour, en la reubicación del concepto red en su investigación sobre los modernos, efectuó un énfasis experiencial al ampliar la manera de observar la permanencia y la transformación de los seres, el traspaso generacional y las formas de generar estabilidad. Con ello se podría pensar que, en la autocrítica de Latour, existe una extensión que puede captar mejor los señalamientos de Ingold o lo destacado por Hennion. Por otro lado, es clara la intención de apertura que realiza Latour en Investigaciones, en que además de reformular sus conceptos se abre al debate en una suerte de asamblea, que tiene un horizonte cosmopolítico. En esta investigación su proyecto es generar un diálogo colectivo, recibir aportes a través de una página web y un conjunto de encuentros en distintos lugares del mundo.</p>
+         <p>Esto me permite referir a un último punto. Ambos autores están explícitamente abiertos a la reelaboración conceptual mediante el diálogo y la investigación. Algunos de estos movimientos aparecen en este texto bajo el desplazamiento de nociones como seres, humanos, no-humanos, organismos o líneas. Luego, si se asume que toda teoría destaca ciertas cuestiones más que otras, es preferible no caricaturizar y caer en falacias del tipo “hombres de paja”, entendiendo conceptualizaciones en movimiento. Por cierto, que en la “discusión” reseñada hay diferencias y énfasis. No obstante, es relevante decir que las elaboraciones conceptuales de Latour e Ingold destacan explícitamente su conexión con la experimentación. Ellos se preocupan más de agregar dimensiones analíticas que cerrarse a una especulación abstracta. De tal modo, más allá de que Latour reivindique la etnografía y un cierto asambleísmo investigativo, e Ingold diga “¡Suficiente con la etnografía!” y prefiera últimamente experimentar transdisciplinariamente en el estudio del “devenir”, en ambos la especulación está inmanentemente ligada a la experimentación en lo que se vislumbra el carácter dinamizador de la antropología. Es allí y no en la contraposición de modelos teóricos (con disquisiciones al infinito) donde producen conocimiento, a pesar de la insistencia de Ingold a contraponerse minuciosamente a Latour. A fin de cuentas, más que tomar partido respecto a si la teoría del actor-red alcanza o no a captar la experiencia, en este artículo se describió una reflexión en movimiento sobre el desafío de combinar el relacionalismo ampliado de los seres humanos y no-humanos con sus desarrollos conjuntos, sus aprendizajes y la generación de sus singularidades. Los énfasis o puntos ciegos se mostraron en sus despliegues.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Hallam, E., Ingold, T.,  (2007).
+               <italic>Creativity and cultural improvisation</italic>
+               . : Berg
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hallam</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ingold</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Creativity and cultural improvisation</source>
+               <publisher-name>Berg</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Harman, G.,  (2014).
+               <italic>Bruno Latour. Reassembling the political</italic>
+               . : Pluto Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Harman</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>Bruno Latour. Reassembling the political</source>
+               <publisher-name>Pluto Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Hennion, A.(2017). "Attachments, you say? How a concept collectively emerges in one research group one research group".
+               <italic>Journal of Cultural Economy. 10</italic>
+               (1), 112-121. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/17530350.2016.1260629">https://doi.org/10.1080/17530350.2016.1260629</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hennion</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Attachments, you say? How a concept collectively emerges in one research group one research group</article-title>
+               <source>Journal of Cultural Economy</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>112</fpage>
+               <lpage>121</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/17530350.2016.1260629">https://doi.org/10.1080/17530350.2016.1260629"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Holbraad, M., Pedersen, M.,  (2017).
+               <italic>The ontological turn. An anthropological exposition</italic>
+               . : Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Holbraad</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pedersen</surname>
+                     <given-names>M.A.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>The ontological turn. An anthropological exposition</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Ingold, T. (2001).
+               <italic>From complementarity to obviation: on dissolving the boundaries between social and biological anthropology, archaeology, and psychology</italic>
+               . En Oyama, S., Griffiths, P., Gray, R (autor.);Cycles of contingency: developmental systems and evolution.  (255-280).: The MIT Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ingold</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>From complementarity to obviation: on dissolving the boundaries between social and biological anthropology, archaeology, and psychology</chapter-title>
+               <year>2001</year>
+               <source>Cycles of contingency: developmental systems and evolution</source>
+               <publisher-name>The MIT Press</publisher-name>
+               <fpage>255</fpage>
+               <lpage>280</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Ingold, T.,  (2011).
+               <italic>Being alive. Essays on movement, knowledge, and description</italic>
+               . : Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ingold</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <source>Being alive. Essays on movement, knowledge, and description</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Ingold, T.,  (2012).
+               <italic>Ambientes para la vida. Conversaciones sobre humanidad, conocimiento y antropología</italic>
+               . : Trilce
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ingold</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Ambientes para la vida. Conversaciones sobre humanidad, conocimiento y antropología</source>
+               <publisher-name>Trilce</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Ingold, T.,  (2015).
+               <italic>Líneas. Una breve historia</italic>
+               . : Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ingold</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Líneas. Una breve historia</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Ingold, T.(2016). "On human correspondence".
+               <italic>Journal of the Royal Anthropological Institute. 23</italic>
+               (1), 1-19. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1467-9655.12541">https://doi.org/10.1111/1467-9655.12541</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ingold</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>On human correspondence</article-title>
+               <source>Journal of the Royal Anthropological Institute</source>
+               <volume>23</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>19</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1467-9655.12541">https://doi.org/10.1111/1467-9655.12541"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Ingold, T.(2018). "One world anthropology. Hau".
+               <italic>Journal of Ethnographic Theory. 8</italic>
+               (1-2), 158-171. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/698315">https://doi.org/10.1086/698315</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ingold</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>One world anthropology. Hau</article-title>
+               <source>Journal of Ethnographic Theory</source>
+               <volume>8</volume>
+               <issue>1-2</issue>
+               <fpage>158</fpage>
+               <lpage>171</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/698315">https://doi.org/10.1086/698315"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Latour, B. (1983).
+               <italic>Give me a laboratory and I will raise the world</italic>
+               . En Knorr-Cetina, K., Mulkay, M (autor.);Science observed: perspectives on the social study of science.  (141-169).: Sage
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Latour</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Give me a laboratory and I will raise the world</chapter-title>
+               <year>1983</year>
+               <source>Science observed: perspectives on the social study of science</source>
+               <publisher-name>Sage</publisher-name>
+               <fpage>141</fpage>
+               <lpage>169</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Latour, B.(2004). "Whose cosmos, which cosmopolitics? Comments on the peace terms of Ulrich Beck".
+               <italic>Common Knowledge. 10</italic>
+               (3), 450-462. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://muse.jhu.edu/article/171401">https://muse.jhu.edu/article/171401</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Latour</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <article-title>Whose cosmos, which cosmopolitics? Comments on the peace terms of Ulrich Beck</article-title>
+               <source>Common Knowledge</source>
+               <volume>10</volume>
+               <issue>3</issue>
+               <fpage>450</fpage>
+               <lpage>462</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://muse.jhu.edu/article/171401">https://muse.jhu.edu/article/171401"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Latour, B.,  (2007).
+               <italic>Nunca fuimos modernos</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Latour</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Nunca fuimos modernos</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Latour, B.,  (2008).
+               <italic>Reensamblar lo social: una teoría del actor-red</italic>
+               . : Manantial
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Latour</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Reensamblar lo social: una teoría del actor-red</source>
+               <publisher-name>Manantial</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Latour, B.(2009). "Perspectivism: ‘Type’ or ‘bomb’? ".
+               <italic>Anthropology Today. 25</italic>
+               (2), 1-2. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-8322.2009.00652.x">https://doi.org/10.1111/j.1467-8322.2009.00652.x</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Latour</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Perspectivism: ‘Type’ or ‘bomb’?</article-title>
+               <source>Anthropology Today</source>
+               <volume>25</volume>
+               <issue>2</issue>
+               <fpage>1</fpage>
+               <lpage>2</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-8322.2009.00652.x">https://doi.org/10.1111/j.1467-8322.2009.00652.x"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Latour, B.,  (2013).
+               <italic>Investigación sobre los modos de existencia: una antropología de los modernos</italic>
+               . : Paidos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Latour</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>Investigación sobre los modos de existencia: una antropología de los modernos</source>
+               <publisher-name>Paidos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Quéré, L.(2017). "Bourdieu y el pragmatismo norteamericano acerca de la creatividad del hábito".
+               <italic>Cuestiones de Sociología.</italic>
+               (16), 1-20. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.24215/23468904e025">https://doi.org/10.24215/23468904e025</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Quéré</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Bourdieu y el pragmatismo norteamericano acerca de la creatividad del hábito</article-title>
+               <source>Cuestiones de Sociología</source>
+               <volume />
+               <issue>16</issue>
+               <fpage>1</fpage>
+               <lpage>20</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.24215/23468904e025">https://doi.org/10.24215/23468904e025"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

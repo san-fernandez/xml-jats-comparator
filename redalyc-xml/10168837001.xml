@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">https://doi.org/10.4067/S0717-554X2021000200109</article-id>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Contra la anti-explicación</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Against anti-explanation</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0002-5192-3409</contrib-id>
+               <name>
+                  <surname>Ramírez</surname>
+                  <given-names>Carlos Andrés</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Departamento de Ciencia Política, Universidad de los Andes, Bogotá, Colombia</institution>
+            <institution content-type="normalized">Universidad de los Andes</institution>
+            <institution content-type="orgname">Universidad de los Andes</institution>
+            <institution content-type="orgdiv1">Departamento de Ciencia Política</institution>
+            <country country="CO">Colombia</country>
+            <email>ca.ramireze@uniandes.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2021</year>
+         </pub-date>
+         <issue>71</issue>
+         <fpage>109</fpage>
+         <lpage>123</lpage>
+         <history>
+            <date date-type="received">
+               <day>28</day>
+               <month>05</month>
+               <year>2021</year>
+            </date>
+            <date date-type="accepted">
+               <day>02</day>
+               <month>08</month>
+               <year>2021</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>La contingencia de los fenómenos sociales y políticos ha sido abordada por diversas teorías contemporáneas. El tema circula en la sociología histórica, la teoría de sistemas de Luhmann, el institucionalismo histórico, la historia contrafáctica o el posmarxismo, asociado, entre otras, al carácter disruptivo y abrupto de ciertos procesos históricos, al cruce de series causales inicialmente independientes, a la inconsistencia de todo orden, a la coexistencia de mundos posibles o a la electividad asociada a la agencia. Como parte de esa constelación, y de la mano de un estudio de caso, el sociólogo Charles Kurzman habla de “anti-explicación”. Su propósito no es solo cuestionar, sobre esa base, cualquier afán predictivo de las ciencias sociales, sino la posibilidad misma de analizar causalmente fenómenos contingentes como las revoluciones y los movimientos sociales. El texto busca desarrollar un contraargumento a esta tesis, moviéndose en el doble plano (epistemológico e histórico-social) en el que opera Kurzman y mostrando, a la vez, su filiación y resonancia con posturas posmarxistas. Pretendiendo integrar la contingencia en la explicación del tipo de fenómenos mencionados, se recurre para ello a conceptos como causación descendente, catalizadores, bucles complejos y mecanismos causales.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The contingency of social and political phenomena has been addressed by various contemporary theories. The topic circulates in historical sociology, Luhmann's system theory, historical institutionalism, counterfactual history, or post-Marxism, associated, among others, to the disruptive and abrupt character of certain historical processes, the cross points of initially independent causal series, the inconsistency of all order, the coexistence of possible worlds or the electivity associated with the agency. As part of that constellation, and along with a case study, the sociologist Charles Kurzman speaks of the “anti-explanation”. The purpose of such is not just to question, on that basis, any predictive haste of the social sciences, but the very possibility of causally analyzing contingent phenomena such as revolutions and social movements. The text seeks to develop a counterargument to this thesis, moving along the epistemological and historical-social double plane in which Kurzman operates and showing, at the same time, its filiation and resonance with post-Marxist positions. With the purpose of integrating the contingency with the explanation of the type of phenomena mentioned, concepts such as downward causation, catalysts, complex loops, and causal mechanisms are used.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>contingencia</kwd>
+            <kwd>anti-explicación</kwd>
+            <kwd>explicación</kwd>
+            <kwd>posrmarxismo</kwd>
+            <kwd>revolución iraní</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>contiengency</kwd>
+            <kwd>anti-explanation</kwd>
+            <kwd>explanation</kwd>
+            <kwd>post-marxism</kwd>
+            <kwd>Iranian revolution</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="23" />
+            <page-count count="15" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>En su polémico libro The unthinkable revolution in Iran, Charles Kurzman plantea un desafío al estudio de los movimientos sociales y las revoluciones. Toda explicación de estos fenómenos es, a su juicio, un intento de ‘predicción retroactiva’, pues busca subsumir un evento inesperado bajo una conexión causal necesaria y general conforme a la cual resulta ex post facto anticipable. Kurzman busca demostrarlo de la mano de un estudio de caso con carácter prototípico. Apela así a cinco modelos explicativos de la Revolución Iraní (en adelante: RI), a saber, los modelos organizacionales (basados en la teoría de la movilización de recursos), culturalistas (basados en los ‘idiomas culturales’), militares (basado en las dinámicas en torno a la represión estatal), políticos (fundados en la estructura de oportunidades políticas) y económicos (basados, ante todo, en la teoría de la privación relativa), señalando sus presupuestos epistemológicos comunes y su incongruencia con la experiencia de los participantes. En casos como el de Irán (pues se trata de inferir consecuencias epistemológicas generales de su análisis) sucede un proceso de ‘des-institucionalización’ en el cual se quiebran las rutinas comportamentales y se experimenta una elevada incertidumbre. Qué resulte de ahí es algo que ni los participantes mismos podrían anticipar, pues, en este tipo de contextos, las instituciones, y cualquier elemento ‘estructural’, pierden su eficacia. El trabajo habitual de la sociología consistiría, sin embargo, en sobreponerle a esa experiencia colectiva de contingencia causas objetivas que hacen de ella una regularidad observable en otros casos.</p>
+         <p>El objetivo crítico de la propuesta es cuestionar la tendencia, en las ciencias sociales, a expulsar la contingencia o, en sus palabras, a “tomar eventos inesperados e intentar hacerlos menos inesperados a posteriori” (Kurzman 2004a:4). El objetivo de la ‘predicción retroactiva’ es postular causas que convierten los eventos en efectos que hubieran podido ser anticipados. El objetivo de la ‘anti-explicación’, por tanto, no es identificar causas sino reconstruir, desde la perspectiva de la ‘comprensión’ (understanding), los ‘estados internos’ de agentes envueltos en secuencias de interacción con altos niveles de incertidumbre. Ponerse en su perspectiva, tal como se pretende en general (contra las posturas radicalmente estructuralistas) en las teorías de la revolución de ‘cuarta generación’, va así de la mano con la recuperación de la contingencia. En ese marco, Kurzman añade una amplia documentación y una rica pluralidad de testimonios del caso iraní para ponerlos en primer plano frente a la pretensión de impersonalidad de los modelos mencionados. De esa forma el plano de una abstracta discusión epistemológica es articulado consistentemente con el de la investigación social empírica.</p>
+         <p>Algunas agudas críticas a Kurzman han señalado las limitaciones de su propuesta. Se ha señalado, por ejemplo, que su anti-explicación “es ‘explicativa’ de la misma forma que lo son las explicaciones usuales” (Ermakoff 2007:880), pues conceptos del tipo de la ‘masa crítica’ usados por Kurzman, también aclaran de manera general el porqué de un fenómeno. Se ha señalado que apela al “viejo método de crear un hombre de paja” a la hora de exponer los cinco modelos explicativos de la RI y eso podría expandirse, tal vez, a su comprensión idiosincrática o, al menos, unilateral, de qué es, en general, explicar. También se ha planteado la objeción de que, en lugar de aislar los diversos causales podrían pensarse su(s) “combinación(es) en producir resultados” (Foran 2005:1776), tal como sucede con los análisis basados en causas INUS de las revoluciones. Esas críticas son, en efecto, valiosas, pero no clausuran el “desafío de Kurzman” (Volpi y Jasper 2018:25): la pregunta a torno a si las buenas explicaciones científico-sociales solo se logran a costa de expulsar la contingencia de ciertos fenómenos. Más allá de las limitaciones de su propuesta, The unthinkable revolution es thought-provoking, pues plantea un problema general presente, con variantes, en la teoría de sistemas de Luhmann, la sociología y el institucionalismo históricos, la historia contrafáctica y el posmarxismo.</p>
+         <p>El objetivo de este texto es acoger el problema planteado por Kurzman, pero rechazar sus conclusiones. Todo apunta, en el marco de lo que Sewell denomina una ‘sociología evenencial’, a elaborar un contraargumento que desmienta la supuesta incompatibilidad entre contingencia y análisis causal. Dado que argumentar contra la propuesta de Kurzman no es un asunto de refutar a un sociólogo relativamente desconocido (aparte del campo de la teoría de las revoluciones y de los estudios sociológicos sobre Medio Oriente), sino de enfrentarse a un tipo de postura con diversas resonancias en la teoría social y política contemporánea, la primera sección apunta a exponer su filiación con posturas posmarxistas. El nombre ‘Charles Kurzman’ engloba así una mirada respecto al sentido de ‘explicar’ los eventos políticos y, por tanto, resulta relevante mostrar su conexión con una de sus resonancias teóricas. Dicho en breve: no importa el nombre, importa la tesis que representa.</p>
+         <p>Dado que uno de los méritos de The unthinkable revolution es articular consistentemente la reflexión epistemológica con un estudio de caso, una segunda sección del texto apunta a exponer la propuesta epistemológica alternativa en el terreno de trabajo de Kurzman: la Revolución Iraní. Pretender objetar sus tesis en el marco de un debate exclusivamente filosófico no dejaría de ser interesante, pero, dado el doble terreno (epistemológico e histórico-social) en el que se mueve su argumentación, resulta más adecuado confrontarlo en él. De ahí que la segunda sección busque ilustrar el funcionamiento concreto de estrategias explicativas sensibles a la contingencia y sugerirlas, sobre esa base, como modelo. No se pretende con ello, en absoluto, hacer algún aporte a las teorías sustantivas de la RI, sino desarrollar un argumento plausible en contra de diversas variantes de ‘anti-explicación’. La ‘ilustración’ y el ‘modelo’ son estrategias argumentativas mediante las cuales se defiende una tesis frente a un antagonista apelando a un caso particular (Perelman. El imperio retórico), ya sea reforzando y vivificando mediante él una regla general (los modelos explicativos sensibles a la contingencia) o ya sea planteándolo como susceptible de imitación (si el análisis del caso contiene elementos replicables). Esto queda enmarcado en un argumento de ‘retorsión’ en el sentido de Perelman: si Kurzman dice “la contingencia es incompatible con el análisis causal porque el caso de Irán lo ejemplifica”, el contraargumento sostiene su compatibilidad porque el mismo caso lo desmiente. Asumo, en ese sentido, que el trabajo científico no es nada aparte de la argumentación al interior de una comunidad de investigación y, por tanto, que también él se nutre de habituales estrategias retóricas.</p>
+      </sec>
+      <sec>
+         <title>Anti-explicación y la reivindicación posmarxista de la contingencia</title>
+         <p>Kurzman empalma con un debate, diez años previo, en el cual la historiadora Nikki Keddie se preguntaba si la RI era predecible. Su ‘no’ se debe, entre otras cosas, a que el caso iraní parecía uno de aquellos en los cuales pequeñas variaciones en el proceso histórico, y no grandes causas evidentes, son las que terminan generando acumulativamente y, en términos de una cierta path dependence, el efecto final. Dado que cada una de estas variaciones (las decisiones del Shah Pahlavi, por ejemplo) podría no haberse dado y que se le puede atribuir a múltiples actores en interacción producir ese tipo de acciones contingentes, el resultado final se hace incalculable. No obstante, Keddie acepta explicaciones no predictivas, pensadas como reconstrucciones retrospectivas de la génesis de un evento, sobre la base de una postura determinista: “como yo creo que todos los fenómenos surgen de un fenómeno previo –algo que suele ser llamado causalidad– mi creencia personal es que los eventos solo pudieron haber tomado el camino que tomaron” (Keddie 1995:23). No era posible saber, en 1977, qué sucedería después, pero sí se puede saber cómo sucedió lo que sucedió. Kurzman también rechaza la posibilidad de predecir la revolución, pero, a diferencia de Keddie, tampoco acepta la reconstrucción retrospectiva, pues “la evidencia a favor de la experiencia subjetiva” (Kurzman 2004b:344) invalida todas sus variantes.</p>
+         <p>La propuesta de Kurzman se suma a discusiones previas en el campo de la teoría de las revoluciones, pero está nutrida por una sensibilidad hacia la cuestión de la contingencia ajena al terreno de la historia y la sociología política. El hecho de que la propuesta de Kurzman remita explícitamente a la ‘sociología de las posibilidades’ de P. Vahabzadeh y esta, a su vez, pueda interpretarse como una apropiación sociológica de temas posfundacionalistas y posmarxistas (especialmente de Laclau), permite comprender la anti-explicación como un síntoma de una tendencia más amplia en la teoría social y política. Entenderé por el equívoco término ‘posmarxismo’ un conjunto de teorías anti-consensualistas de la política derivadas de la recepción, dentro de la tradición marxista, de la crítica post-estructuralista a la ‘metafísica’. Sobre la base de esta definición estipulativa, y dejando de lado las diferencias entre autores (pues no se trata de hacer una exégesis detenida de cada uno de ellos sino de pensarlos como parte de una tendencia), seleccionaré algunos representativos.</p>
+         <p>Ahora bien, si el conjunto de las cinco teorías expuestas de la RI abarcase los tipos de causas presentes en su explicación, toda explicación de la misma implicaría, según Kurzman, los siguientes cuatro rasgos: (A) supone establecer relaciones de dependencia entre fenómenos y, por tanto, no resulta explicable ninguno que se genere con independencia del influjo de otro; (B) o es determinista y, por tanto, dadas unas condiciones iniciales, tiene que darse el efecto o, en su defecto, busca minimizar el grado de imprevisibilidad; (C) es objetivista, pues las relaciones causales subsisten con independencia de las experiencias de los agentes; (D) es universalista y apriorista, pues se asume que las relaciones deterministas de dependencia causal están referidas a tipos de eventos y que, por tanto, se pueden subsumir los casos particulares bajo una regla general ya conocida.</p>
+         <p>La noción de anti-explicación, como antítesis de las propiedades de toda explicación perteneciente al conjunto mencionado, está dirigida contra esas cuatro dimensiones. A continuación, expondré sus características considerando, a la vez, sus ecos en posturas posmarxistas.</p>
+         <p>A. Eventos como la RI no son explicables, pues estos suponen un proceso espontáneo (en el sentido literal: que surge desde sí mismo) y la búsqueda de causas tiene siempre un carácter exógeno frente a aquello que explica. Kurzman contrapone, por ello, ‘explicación’ y ‘viabilidad’. En esta última, la expectativa colectiva de la ocurrencia de un fenómeno termina generándolo al modo de una profecía auto-cumplida. La viabilidad no tiene ninguna causa, pues se asume que las causas trascienden su efecto. La revolución fue viable porque, durante su mismo desarrollo, se incrementó la creencia en la probabilidad de su ocurrencia. Kurzman, sin embargo, no limita este tipo de fenómenos a los momentos de desinstitucionalización. Toda necesidad, podría decirse, es una inconsciencia de la contingencia de un orden: “atender al margen nos recuerda que el conjunto de la fábrica de la vida social –todos los comportamientos e instituciones que damos por sentados, que parecen inmutables– pueden ser vulnerables a la desintegración, que la fábrica de la vida social solo sobrevive a través de nuestra expectativa colectiva de que sobrevivirá” (Kurzman 2004a:138). Vahabzadeh apela directamente a Laclau/Mouffe para concebir lo político como un desafío a la “amnesia de la Urstiftung” (Kurzman 2004a:186): en oposición a la sedimentación de la acción colectiva propia de ‘lo social’, lo político revela su infundada fuerza instituyente.</p>
+         <p>Al modo de la viabilidad, esa fuerza no tiene causas sino depende de la eficacia de sus operaciones inmanentes. Las prácticas hegemónicas, como prácticas articulatorias, generan (a través del efecto retroactivo de la nominación) la posibilidad (inevitablemente inconsumada) de una totalización. También para Rancière (Los nombres de la historia), la intempestiva vaguedad referencial de los actos de habla en los cuales emerge el ‘pueblo’ es un momento irreductible de lo político que el discurso de ‘lo social’, y la sociología, por tanto, viene a intentar reconducir a estados de cosas al margen de la experiencia de los participantes. El ‘evento’, en Badiou, no obtiene consistencia alguna por fuera de los enunciados que constituyen una ‘intervención’ y de la ‘fidelidad’ a los mismos y no depende, tampoco, de nada fáctico previamente dado. Lo político, en el posmarxismo, es un tipo de acción colectiva disruptiva que instaura su propia factibilidad, pues funciona de manera autoreferencial, y con ello, de paso, revela el carácter contingente de toda ‘sociedad’ o ‘estado de la situación’.</p>
+         <p>B. Eventos como la RI no son explicables, pues entre las condiciones iniciales y su ocurrencia no hay la transmisión progresiva de un poder causal, sino un salto. De las condiciones iniciales no se puede deducir, de manera determinista, ningún efecto, ni, tampoco, un incremento en su probabilidad. Según Kurzman: “Aun cuando sea formulada en el lenguaje de las probabilidades, la causalidad científico-social y la explicación nos fastidian con toques de determinismo” (Kurzman 2018:184). El ‘salto’, por el contrario, remite aquí a la contingencia bajo la forma del cambio abrupto de dirección de un proceso causal. Hallar explicaciones, en contravía, sería anticipar la dirección regular de un fenómeno. La ‘viabilidad’ no es determinista, pues una profecía autocumplida, al menos en un plano colectivo, gana progresivamente fuerza a lo largo de un proceso incierto en su desarrollo; cada fase del mismo es una interacción desregulada entre agentes que puede incrementarla o hacerla decrecer, sin garantía alguna de que ocurra lo uno o lo otro.</p>
+         <p>Badiou, Rancière y Laclau/Mouffe no toman lo político como una ‘decisión’ sin supuestos (y por eso hablan, respectivamente, contra el ‘izquierdismo especulativo’, la ‘política pura’ y el ‘momento fundacional puro’), pero, para ninguno de ellos, las condiciones en las cuales surge bastan para aclarar su ocurrencia. Laclau/Mouffe hablan, en ese marco, de cómo entre las condiciones iniciales para que ocurra el ‘antagonismo’ y su ocurrencia, siempre hay un salto. El antagonismo no se deduce de un estado de cosas, como en la ‘contradicción lógica’, pero sí tiene unas condiciones iniciales susceptibles de ser identificadas por las ciencias sociales. La cuestión es que esas condiciones iniciales no bastan para su aparición de modo tal que, entre ellas y el momento en el cual se tiene la experiencia de los ‘límites de la objetividad’, hay una desconexión causal. Rancière reconoce también que toda subjetivación presupone identidades preexistentes, pero su núcleo es la ‘des-identificación’ con un lugar asignado en la ‘política’ y, por tanto, la discontinuidad con una cierta distribución de lo sensible. Badiou asume también, con el concepto del ‘sitio’ (la fábrica, por ejemplo), que ningún ‘evento’ surge de la nada y hay algunos puntos que constituyen el límite del estado de una situación, pero supone, igualmente, que entre este último y el evento mismo siempre ocurre un salto. De ahí que pueda hablarse de una ‘historiografía del evento’ que evita sistemáticamente hablar de la continuidad de la historia para, más bien, pensar cada evento como un fenómeno autosuficiente e imposible de explicar a partir de condiciones precedentes. Badiou piensa la historia política a partir de momentos únicos de alzamiento que coinciden, de hecho, en algunos casos, con fenómenos como las revoluciones. La RI, de hecho, aparece como un subtipo de evento (un ‘evento oscuro’) en esta serie.</p>
+         <p>C. Eventos como la RI no son explicables pues los procesos espontáneos de autoorganización acontecen exclusivamente en el plano de la subjetividad y las causas tienen un carácter determinista y objetivo. Aquí se trata de una subjetividad que se constituye en el marco de la pérdida de validez de los hábitos y los referentes normativos y no en el de la expresión de los efectos estabilizadores de la socialización. Vahabzadeh habla, en este último sentido, de los ‘agentes’, mientras que la dinámica de los movimientos sociales es una con el acontecimiento de la subjetivación; rechazando la búsqueda de fundamentos últimos, se afilia a la ‘fenomenología radical’ de Schürmann para pensar el carácter infundado de la acción colectiva y, de la mano de Laclau, propone, para el estudio sociológico de los nuevos movimientos sociales, liberar su comprensión de condiciones estructurales. Vahahzadeh ataca así los residuos de marxismo en el estudio de los movimientos sociales por parte de autores como Melucci, Eder o Touraine, pues ahí se trataría aún de buscar causas profundas y estables de fenómenos sociales disruptivos, cuyo único asidero es la experiencia de estos. La ‘anti-explicación’, en Kurzman, presupone este modelo.</p>
+         <p>En los autores posmarxistas, la experiencia de los participantes es, de nuevo, lo esencial y toda explicación es vista como la reintroducción de un lenguaje objetivista. La presuposición de ‘fundamentos’ constantes que trasciendan la experiencia de los agentes es, desde esta perspectiva, un eco, en las ciencias sociales, del pensamiento metafísico. Dice Laclau: “El pensamiento metafísico -y el pensamiento sociológico, que no es sino su prolongación-, han respondido optando por la afirmación de la objetividad de lo real y por la reducción de sus fracasos a un problema de aprehensión incorrecta o insuficiente -es decir, a un problema de conocimiento” (Laclau 1990:192). El conocimiento científico-social, desde esta perspectiva, parte de una diferenciación entre esencia y apariencia y busca, bajo la forma de la ‘objetividad de lo real’, aquel núcleo duro y estable que subyace al mundo fenoménico. En el marxismo esta diferenciación va de la mano, por un lado, con la distinción entre la ‘base’ y la ‘superestructura’ y, por otro lado, con la presunta identificación de leyes del desarrollo histórico. Si las ciencias sociales fracasan en su identificación, no es, en conformidad con sus presupuestos ‘metafísicos’, porque no las haya, sino porque no se ha accedido adecuadamente a ese núcleo estable y supraexperiencial. Frente a ese objetivismo Laclau/Mouffe hacen coincidir los momentos políticos con la emergencia de un ‘sujeto’ colectivo, pensado en términos lacanianos desde la falta y el quiebre de los marcos simbólicos, que podría redescribirse, en Kurzman, como uno propio de situaciones de ‘des-institucionalización’. Badiou tampoco separa lo político de la subjetivación. El conocimiento apunta a la ‘objetividad’ y, por tanto, a nominar con exactitud lo ya presente en ella en tanto parte de una clasificación. Sus proposiciones, sin embargo, no son verdaderas, sino ‘verídicas’, pues la verdad carece de objetividad y solo emerge con el sujeto que le es fiel. Ranciére, por su parte, concibe lo ‘estético’ como un terreno en el cual la apariencia o, mejor, el aparecer-para, es autosuficiente frente a cualquier clase condicionante objetivo. La experiencia es irreductible a todo estado de cosas cognoscible empíricamente y capaz, por tanto, de introducir discontinuidades históricas.</p>
+         <p>D. Eventos como la RI no son explicables pues toda explicación pasa por subsumir un evento bajo una regla general y los eventos, por el contrario, generan, con su ocurrencia, sus propias condiciones de posibilidad. Vahabzadeh contrapone, en ese marco, la ‘singularidad’ a la ‘particularidad’: la segunda es un caso de un principio general, mientras la primera no remite a nada más allá de sí misma. Aquello que no tiene ‘fundamento’ se manifiesta en el Ereignis y la presencia de este último no se deja concebir como manifestación de una categoría general, pues cada evento debe ser pensado “en sus propios términos, en su singularidad como tal” (Vahabzadeh 2003:150). Que la singularidad del evento se apropie de ellos y genere un sujeto colectivo, es un momento de su ocurrencia; el evento implica así una dimensión experiencial que incumbe a los involucrados y a quienes buscan conceptualizarlo. Kurzman, en esa línea, señala cómo las ciencias sociales procuran habitualmente detectar regularidades tras toda irregularidad, mientras que la anti-explicación “pone la anomalía en el primer plano” (Kurzman 2004a:166). Si la explicación es, por principio, una forma de subsunción no habría lugar en ella, sino para las particularidades.</p>
+         <p>Del lado posmarxista también se presentan ideas análogas. Laclau, por ejemplo, identifica en cierta historiografía marxista la búsqueda de una “una objetividad esencial cuyas leyes de movimiento rigen la transformación histórica”; conceptos como ‘fuerzas productivas’ o ‘clase’ permitirían pensar una historia que “se verifica según reglas conocidas a priori” (Laclau 1990:38) y no darían espacio para pensar la contingencia y la consecuente impredictibilidad del ‘antagonismo’ y las prácticas hegemónicas. Rancière, en esa misma línea, hace de las ciencias sociales en su conjunto un discurso que busca restaurar cierta idea el orden social tras el evento de la Revolución Francesa y lo hace reduciendo el lenguaje disruptivo de los sujetos a causas estables que subyacen a él y constituyen su ‘verdad’. La historia, sometida al imperativo de cientificidad, buscaría privar a los eventos de su contingencia para convertirlos en la manifestación de alguna clase de estructura preexistente (ese sería el significado de ‘explicarlos’ según Rancière). Los eventos, como lo es por antonomasia la revolución, se basan, por el contrario, en la incongruencia entre actos de habla instituyentes y estados de cosas. Para Badiou los eventos no solo son impredecibles, sino que “las explicaciones retrospectivas tampoco pueden captar el evento” (Wright 2008:78), pues toda explicación se basa en referir un fenómeno a un estado de cosas precedente y generar una asociación general entre lo uno y lo otro. Los eventos, en ese sentido, no tienen explicación, pues su ‘reflexividad’ y la ‘confianza’ de los sujetos en su propia tarea histórica, los independiza de cualquier regla general.</p>
+         <p>La espontaneidad de los eventos políticos, su discontinuidad respecto a las condiciones iniciales, su vínculo con la autonomía relativa de la subjetividad frente a todo estado de cosas y su singular irregularidad, son, en su conjunto, rasgos de la ‘anti-explicación’ en los cuales confluyen (a pesar de sus diferencias internas) los autores posmarxistas mencionados, por un lado, y Kurzman/Vahabzadeh, por el otro. Pese a la disimilitud de sus respectivos campos disciplinares, a la heterogeneidad de sus recursos conceptuales y teóricos, y a otras muchas diferencias, aquí se presenta una línea de pensamiento crítica de la posibilidad de explicar los momentos históricos disruptivos cuyo trasfondo común es la reivindicación de la contingencia.</p>
+      </sec>
+      <sec>
+         <title>Descifrar causalmente la contingencia</title>
+         <p>Vahabzadeh coincide con Laclau en señalar la dependencia de las ciencias sociales de la estructura de pensamiento de la metafísica. El ‘principio de razón suficiente’, según el cual no hay nada sin un porqué (nihil est sine ratione), pertenece a ella y, en consecuencia, se asume que todos los fenómenos sociales tienen un ‘fundamento’ (Vahabzadeh 2003:13). La ‘referencialidad última’ designa, en Vahabzadeh, un presupuesto teórico que articula a priori todos los fenómenos teorizados a partir de la centralidad de una cierta entidad (como la ‘base’ en el marxismo) y de una red de conceptos referidos a ella. La anti-explicación es, en esos términos, la reacción, en términos epistemológicos, a los ecos metafísicos en la sociología o la ciencia política. La ‘comprensión’ de procesos sociales disruptivos en los cuales se suspende toda dependencia de condiciones externas a ellos implica así, para Kurzman, librarse del principio de razón suficiente. Parodiando a Angelus Silesius se podría decir aquí que la revolución es sin un porqué: ocurre porque ocurre. Nada la explica. Ponerse del lado de la contingencia supone distanciarse, en esos términos, del afán de explicación. Bien dice Ranciére: “la ciencia política no es filosofía. Si, de acuerdo con Aristóteles, la última comienza con la admiración, el axioma de la primera es que nada es sorpresivo. Y uno de sus ejercicios favoritos es mostrar la completa predictibilidad del fenómeno que, además, fue incapaz de anticipar” (Ranciére 2010:12). Mientras Ranciére, como filósofo, busca hacerle espacio a lo sorpresivo, las ciencias sociales buscarían domarlo y, según su juicio, ponerse del lado de la reproducción del orden social. La anti-explicación, en su variante Kurzman/Vahabzadeh, no es la expulsión de la sociología o la ciencia política del terreno de lo político, pero la recuperación de la contingencia las convierte en una actividad puramente descriptiva en la cual, además, la ‘comprensión’ se opone a toda causalidad. Toda causa reintroduciría la estabilidad de los ‘fundamentos’ en el carácter autoinstituyente de la acción colectiva. Cabría postular, sin embargo, que esto solo sucede si se asume de antemano una concepción de la causalidad y la explicación contraria de antemano a los fenómenos políticos disruptivos y a la experiencia de los participantes. Pero nada obliga a hacerlo.</p>
+         <p>Analizando la visión de la historia posible en Sahlins, dice Sewell lo siguiente: “el término ‘estructura de la coyuntura’ es un intento de señalar que las coyunturas que llamamos eventos están caracterizadas por regularidades emergentes o lógicas y están, en ese sentido, ‘estructuradas’ a pesar de su novedad” (Sewell 2005:221). Llama ‘evento’ a una “secuencia ramificada de incidentes” (Sewell 2005:228) que depara en una transformación durable de las estructuras reconocibles para quienes las experimentan. Los eventos no solo son la alteración de un equilibrio precedente, sino una reformulación de esta ‘lógica’ por la cual se valora el sentido de los incidentes y, en este modo, redefinen desde sí mismos qué vale como causa. Los eventos son singularidades desde las que emerge una regla. Sewell, un conocedor de la Revolución Francesa, apunta así a una ‘sociología evenencial’ para la cual la historia es un proceso abierto, discontinuo, en el cual pequeñas variaciones, repercutiendo en múltiples niveles, pueden implicar cambios fuertes de dirección. La ‘estructura de la coyuntura’ designa al conjunto de relaciones internas que caracterizan procesos en los cuales se rompen ciertos patrones culturales o, para decirlo con Kurzman, ocurre una forma de des-institucionalización. En ella es central el rol de los agentes, como intérpretes del sentido quebrado, de modo que incluye el conflicto entre sus interpretaciones. Su experiencia es constitutiva del momento de ruptura. De ese modo, “la dinámica de los eventos no es puramente caótica” pues ella muestra “regularidades significativas” (Sewell 2005:221), pese a no ser aquellas que los agentes estaban acostumbrados a esperar. Centrarse en los eventos no implica aquí rechazar toda explicación.</p>
+         <p>La postura de Sewell tiene algunas limitaciones: pensar los eventos solo como discontinuidades entre estructuras [“los eventos son incidentes que transforman estructuras” (Mathieu 2021:17)] y, debido a su concepción de la agencia, no dar suficientemente cuenta de las experiencias de incertidumbre y vacío normativo en ellos. No obstante, Sewell señala correctamente, contra los posmarxistas y Kurzman/Vahabzadeh, la compatibilidad entre contingencia histórica y las explicaciones científico-sociales, sin perder de vista la idea de contingencia como la propiedad de ciertos fenómenos sociales y políticos de romper un patrón causal y generar cortes en la historia (y no como la imprevisibilidad derivada de un déficit de conocimiento). Adicionalmente, Sewell indica, pensando en la investigación empírica, algunos modelos causales que no suponen linealidad ni comparten la regularidad abstracta de las leyes causales: la ‘dependencia del camino’ (path dependence) y las ‘causalidades heterogéneas’. De ese modo, abre un prometedor sendero para oponerse a la anti-explicación.</p>
+         <p>Dado que superarla no consiste ni en revalidar aquello de lo cual Kurzman se desprende o invalidar la importancia de la contingencia ni, tampoco, en plantear una alternativa especulativa a su propuesta, sin ilustrar su funcionamiento en la investigación empírica, el propósito, a continuación, es exponer e ilustrar algunos principios explicativos que integren en ellos la contingencia de los eventos. Siguiendo las sugerencias de Sewell, pero no ateniéndose exclusivamente a ellas, puede decirse que una ‘sociología evenencial’ puede incluir entre otros, y sin que esta lista tenga pretensión alguna de sistematicidad, cuatro principios: (a) la postulación de ‘catalizadores o causas precipitantes’ en un contexto específico, (b) la postulación de bucles complejos basados en la causalidad descendente, (c) la postulación de un efecto de coyuntura derivado de la interrelación entre secuencias de incidentes y (d) la postulación de mecanismos causales que permiten identificar regularidades en las secuencias de interacción entre agentes bajo condiciones de incertidumbre.</p>
+         <p>El presupuesto de este conjunto de principios, en conformidad con el énfasis de Kurzman, y de las teorías de la revolución de cuarta generación en la agencia, es asumir que solo los individuos actúan y que todo hecho social o político supone sus interacciones. Con esto queda de lado el objetivismo que Kurzman critica, pues se destaca la contingencia asociada a las decisiones individuales. Considerar en relación con los movimientos de protesta “cómo los individuos explican sus elecciones nos puede ayudar a explorar la microfundamentación de fenómenos macropolíticos” (Pearlman 2018:113). A la vez, se abandona la idea de hacer de toda causa una entidad o evento exógeno frente a aquello causado, pues el evento mismo se constituye por la dinámica inmanente, no dirigida por nadie y sujeta a reversos de las interacciones entre agentes. Explicar un evento consiste, grosso modo, en reconstruir una variación drástica y repentina de un ensamblaje estructural (que no implica su colapso) tras la ocurrencia de un incidente desencadenante, mediante la amplificación de una secuencia de interacción reversible y considerando el entrelazamiento de diversas secuencias causales. A continuación, sin pretender por ello explicar el conjunto de la RI, incluyendo el tipo de testimonios (aportados por Kurzman) sobre la experiencia de confusión, a modo de esbozo y con base en evidencias poco controversiales, ilustraré los principios mencionados.</p>
+         <p>Para comenzar, un incidente desencadenante no tiene que ser poco frecuente o exógeno frente a un campo de acción. A veces puede tratarse de una cuestión de timing: una acción no anómala ocurre en un momento inapropiado y termina teniendo consecuencias amplias. El inicio de lo sorpresivo no es lo raro. Un incidente así tampoco debe ser, necesariamente, nada que carezca de causas o no pueda explicarse a partir de varias de ellas; puede, incluso, estar sobredeterminado: “hay puntos de quiebre que pueden ser el resultado de cadenas simples lineales. Es probable que otros tengan dos o más caminos que conduzcan a ellos” (Lebow 2011:167). Asimismo, no tiene que ser incompatible con condiciones necesarias de su ocurrencia: una acción individual, sin la cual no se hubiera dado un incidente, puede presuponer ciertas condiciones estructurales, así estas no basten para que ocurra. Las causas desencadenantes no son inexplicables. Que un incidente cualquiera se pueda convertir en un ‘punto de quiebre’ depende de que una acción o un hecho puntual sea percibido por unos agentes, incluidos en un tejido de relaciones y en un momento específico, como desestabilizador. En el terreno de las teorías de los movimientos sociales ese criterio lo cumple el concepto de ‘shock moral’ de Jasper. Una acción agraviante violenta las expectativas normativas de un grupo y lo hace en un momento en el cual, por ejemplo, había una gran susceptibilidad (así la acción haya ocurrido antes) y en el cual, además, la atención de muchos agentes estaba concentrada en la interacción con una autoridad pública. De ahí no se sigue que tenga un impacto a gran escala, pero sí que algunos agentes experimentaron un momento de perturbación. El incidente no desencadena, de manera lineal, un nuevo estado global del sistema, pero sí representa una alteración instantánea, eventualmente reversible, de su funcionamiento.</p>
+         <p>Ese es el caso del artículo difamatorio contra Khomeini publicado en Ettela'at el 7 de enero de 1978. En él se afirmaba, entre otras cosas, que Khomeini era, en realidad, un agente británico que conspiraba contra la ‘Revolución Blanca’ y, por tanto, contra el bienestar de los campesinos, y que, en su juventud, había llevado una vida licenciosa. De inmediato el texto fue percibido como un producto del régimen y se desataron protestas en la ciudad de Qom. La publicación del artículo es un evento pequeño que, con la mediación de una serie de interacciones, igualmente contingentes, en distintas arenas, termina teniendo grandes consecuencias. Que el Shah tratase con dureza al clero revolucionario (a la ‘reacción negra’) no era sorprendente. Khomeini mismo había sido sometido a un exilio forzoso en 1964. Tampoco es un evento incausado. Detrás de su ocurrencia, como lo señala la mayoría de las evidencias, están las intrigas cortesanas. Más específicamente: el resentimiento contra el Primer Ministro Amouzegar de parte de un poderoso candidato, desechado a última hora, Hushang Ansary y del ex Primer Ministro Hoveyda, relevado abruptamente tras casi 13 años en el cargo. Muy probablemente se trató de una jugada para desestabilizar el gobierno de Amouzegar cuyas consecuencias no fueron calculadas (y aquí entra el tema de las consecuencias inintencionadas de la acción). El ciclo de protesta desencadenado por el artículo tiene así causas asociadas a la competencia entre élites al interior del régimen sultánico del Shah Pahlavi, pero no por ello la ocurrencia específica de esa publicación y el momento de su aparición depende de ellas. El Ministro de Comunicaciones Homayun, tal como él mismo lo relata, hubiera podido detener la publicación, pero, por negligencia, no revisó el material que iba a ser publicado: “como ministro debí haber abierto el sobre y leído el artículo. Debí haber supuesto que semejante artículo podría tener consecuencias peligrosas” (Bibiyan 2010:2849). Ese momento del proceso de publicación implica contingencia. También pesa aquí el hecho de que, en medio del clima generado por la ‘liberalización’, mediante la cual el Shah buscaba congraciarse con el nuevo gobierno americano, se habían iniciado múltiples protestas desde mediados de 1977 y que, en ese contexto, se haya sindicado al Shah del asesinato de Mostafa Khomeini; esto politizó las ceremonias fúnebres y generó que, en enero de 1978, se sintiera que el ayatollah era víctima de un agravio redoblado. Visto retrospectivamente, el momento de la publicación parece bastante inoportuno.</p>
+         <p>Las protestas del 8 y 9 de enero en Qom se fueron difundiendo geográfica y socialmente, pues sobre todo grupos de bazaari se fueron sumando a ellas, durante la primera mitad de 1978; otros rituales del calendario chiita y la conmemoración periódica y cíclica del duelo por los mártires de la represión estatal resultan hiperpolitizados. El incremento de las manifestaciones (con un período de declive hacia mediados de año y una nueva oleada tras el incidente del Cinema Rex en agosto) hasta el punto de convertirse en una movilización capaz de desestabilizar el Estado, es un fenómeno emergente y que opera como un bucle complejo. Ya Turner y Killian, dentro de las restricciones de las teorías del ‘comportamiento colectivo’, señalaron cómo, en los fenómenos así designados, se generan normas y funciones a través de la interacción no regulada entre sus participantes. Por normas habría que entender aquí, sencillamente, reglas compartidas sobre el comportamiento (in)deseable. En este caso: el rechazo público de no oponerse al régimen Pahlavi. Los fenómenos sociales y políticos que implican emergencia no dejan de ser generados por una pluralidad de agentes, pero sus propiedades no solo son cualitativamente distintas a las propiedades de los agentes y, por tanto, independientes respecto a sus propios componentes, sino que retroactúan sobre ellos, bajo la forma de la ‘causación descendente’. Emergen normas que se añaden a las motivaciones individuales iniciales. Emergencia y causación descendente indican dos direcciones inversas, pero no separadas, de la relación micro-macro.</p>
+         <p>
+            La causación descendente puede ser simple o compleja y esta última puede tomar la forma de la ‘inmersión’ o de la ‘emergencia de segundo orden’. Es simple si el feedback ocurre en un solo ciclo y es compleja si ocurre una secuencia de ciclos de tal modo que el feedback inicial genera acciones que refuerzan o intensifican las propiedades del nivel agregado y este repercute, de nuevo, sobre el nivel micro, etc. Así ocurre un bucle complejo: “los efectos macroscópicos iniciales son reforzados o debilitados conforme al tipo de estados mentales que se propaguen” (<xref ref-type="bibr" rid="B2">Conte et al. 2014</xref>:28). En un ciclo de protesta, por ejemplo, una marcha puede tener como efecto generar un sentimiento de solidaridad entre los manifestantes, de modo que las motivaciones de los agentes, para salir a marchar de nuevo, incluyan la experiencia precedente y generen, en una nueva ocasión, una solidaridad intensificada que repercute entonces sobre sus propias motivaciones. Este tipo de fenómeno supone contingencia, en tanto aquí se fragua justamente la discontinuidad entre dos situaciones colectivas, pero no una generada por un evento exógeno a un tipo de interacción, pues “en numerosos casos los accidentes son endógenos al sistema de acción que perturban” (Ermakoff 2015:74).
+         </p>
+         <p>Ese proceso opera mediante procesos de aprendizaje social (concebibles como mecanismos causales transversales a distintos casos, pero combinables en distintas configuraciones) que incluyen la experiencia del agente: cada uno, a falta de más referentes, monitorea el comportamiento de otros agentes individuales y se ‘alinea’, como diría Ermakoff, con su conducta a lo largo de varias secuencias de interacción. Sobre la base de la observación recíproca y la comunicación informal se generan secuencias de acción en las cuales lo inicialmente normal se va regularizando; el crecimiento inicial de las protestas centradas en Qom fue avanzando así mediante mecanismos de ‘alineamiento secuencial’ en los cuales unos individuos imitan, en un plano horizontal, el comportamiento de otros. En las fases de disminución de la intensidad de las protestas al final del primer semestre de 1978 el ajuste del comportamiento individual al comportamiento de otros opera a partir de rumores circulantes en intercambios cara a cara dentro de redes descentradas de pequeña escala (‘conocimiento tácito’ en Ermakoff) tal como heyats, grupos particulares de recitación del Corán o, sencillamente, grupos de amigos o vecinos. Tras el incendio del Cinema Rex en Abadan y, sobre todo, tras el Viernes Negro, estos procesos tipo ‘masa crítica’ se potencian radicalmente e intervienen algunos más del subtipo ‘coordinación tácita’ en el cual los pronunciamientos de alguien con carácter representativo de las actitudes de un grupo, Khomeini en este caso, bastan como parámetro para inferir cómo comportarse. La adhesión inicial de los obreros del sector petrolero o las manifestaciones de diciembre de hasta tres millones de personas, en Teherán, en las cuales muchos individuos sin ningún perfil de activistas o los empleados públicos adhirieron a las protestas, dependen de este tipo de mecanismos por encima de cualquier organización centralizada. Las redes clericales solo intervienen tardíamente en este proceso.</p>
+         <p>La operación del bucle complejo no requiere representarse las normas como normas, pero aun así solo ocurre en la experiencia de los agentes; a la vez, pasa por momentos de incertidumbre en cada uno de sus pasos. Lo propio de la espontaneidad de una acción colectiva, en el sentido de Snow y Moss, es que ella no depende de planes previos, sino de las reacciones de los agentes hic et nunc y bajo condiciones de ‘racionalidad limitada’ (Snow y Moss 2014:1124), a una situación de interacción cuya secuencia es contingente. Su misma dinámica “produce frecuentemente un libreto o plan de acción subsiguiente, alterado espontáneamente, que ocurre de una manera episódica, contingente” (Snow y Moss 2014:1139). A no ser que se asuma el irracionalismo propio de las teorías del comportamiento colectivo, aquí entran en juego acciones más o menos deliberadas, por parte de cada uno de los agentes, y, por tanto, acciones contingentes. Que alguien salga o no a una marcha, por ejemplo, no es algo que tenga que ocurrir así suban las cifras de participantes. La emergencia implicada en la ‘causación descendente’ conserva algo del ‘salto’ entre condiciones iniciales y ocurrencia de un fenómeno, pero esto se modera en tanto supone la identificación de procesos cognitivos que permiten deletrear el proceso mediante el cual una secuencia de interacción se estabiliza y difunde progresiva y acumulativamente. Aquí aparece el tipo de path dependence señalado por Sewell en tanto un incidente puntual y local da lugar a un efecto en cadena en el cual cada etapa de una interacción incrementa la intensidad de su siguiente aparición, pero se incluye un conjunto de mecanismos psicológico-sociales que permiten reconstruir, con base en evidencias de corte cualitativo y en un contexto específico, la gestación de un evento.</p>
+         <p>La interacción entre los manifestantes y el Estado es, sin embargo, solo una ‘arena’ de interacción. Cuando Sewell habla de la ‘heterogeneidad de las causas’ se refiere, bajo el supuesto de la pluralidad de estructuras, a cómo cada una de estas tiene una dinámica relativamente autónoma. Para explicar fenómenos como la RI, desde una perspectiva referida a interacciones generadas por la movilización misma, cabría quizás más hablar de ‘arenas’, pues estas son espacios, más o menos evanescentes, menos estructurados que un ‘campo’, en los cuales ocurren interacciones: negociaciones, diálogos, confrontaciones. La arena de la relación entre manifestantes y Estado tiene una dinámica interna que, sin embargo, repercute sobre otras arenas como, por ejemplo, la de las relaciones entre las fuerzas de oposición. Khomeini no comienza siendo el líder de las protestas, a mediados de 1977, sino se sube a un tren ya en marcha impulsado, inicialmente, por intelectuales liberales, estudiantes y habitantes de barrios marginales de Teherán. El balance de fuerzas entre líderes de oposición como Bazargan o Sanjabi, clérigos reformistas como el ayatollah Shariadtmadari y fuerzas de izquierda, como Mujahedin-e-Khalq, no fue por eso el mismo antes y después del ciclo de protesta disparado por el artículo difamatorio. Más o menos a regañadientes, como fue sobre todo el caso con Shariadtmadari, este grupo de agentes tuvo que reconocer el reposicionamiento de Khomeini dentro de las fuerzas opositoras. Tras los agravios procedimentales de agosto y septiembre, los sectores moderados, que habían dejado la puerta abierta a la negociación con el Shah, pierden credibilidad y Khomeini, por su obcecado rechazo a ella (alimentado, de paso, por la relativa protección que le daba estar exiliado) arrastra hacia su terreno la indignación popular. Sharif Emami, por su parte, lo convierte de facto en el líder al anunciar, después del Viernes Negro, que Khomeini podía regresar y se negociarían con él las reformas del Estado. Las difíciles negociaciones y diálogos entre nacionalistas, reformistas y marxistas revolucionarios se redimensionan en vista del crecimiento de la popularidad y legitimidad del discurso radicalmente oposicional de Khomeini.</p>
+         <p>El efecto de coyuntura se genera sobre la base, en términos de Sewell, de una secuencia ramificada de incidentes. La noción de coyuntura, entendida como un encuentro en un momento preciso del tiempo, entre secuencias de incidentes inicialmente independientes, recoge un rasgo de la noción de contingencia: el surgimiento de algo inesperado a partir del cruce de cadenas causales heterogéneas. El fracaso de la política exterior estadounidense puede pensarse, por ejemplo, como una de las causas de la RI con una propia secuencia de incidentes. La arena de las relaciones entre Washington y Teherán, durante el Gobierno Carter, pasa por la recíproca desconfianza entre las partes. Las visitas del Shah a Washington y de Carter a Teherán, a finales de 1977, no logran menguarla. Cuando los eventos asociados a las protestas iniciales en Qom y Tabriz dejan de ser percibidos como una turbulencia manejable, pero sin prever por ello mínimamente la evolución de la situación, el cuerpo diplomático estadounidense, en cabeza del Embajador Sullivan, empieza a explorar contactos con las fuerzas de oposición. La incapacidad de los diplomáticos estadounidenses, en Washington y en Teherán, para interpretar adecuadamente la situación (debido a sus sesgos secularistas, a su ignorancia de la historia iraní, a sus propias preferencias ideológicas y a la focalización de las amenazas en el ‘comunismo’) conduce, al menos por un tiempo, a plantearse el escenario de respaldar el second best scenario de un gobierno reformista en la línea del ayatollah Shariadtmadari. El Shah, que se sintió crecientemente traicionado por el gobierno Carter, pudo haber refrendado en parte sus temores al saber de estas aproximaciones.</p>
+         <p>En este punto, desde marzo hasta mediados de año de 1978, se cruzan así las dinámicas internas de la relación EE. UU.-Irán con las de las relaciones entre miembros de la oposición y con aquellas de la relación entre el Estado y los manifestantes. Cuando las manifestaciones crecen exponencialmente en radicalidad y tamaño en el segundo semestre del 78, EE. UU. se jugaba su plan A con un Shah avasallado por la escalada de la movilización y su plan B con unas fuerzas reformistas que ya habían perdido la partida ante Khomeini. Shariadtmadari, a estas alturas, se convierte en un actor secundario. Si bien, en Washington, asesores como Brzezinski buscaban un apoyo irrestricto al Shah, con lo que eso implicase de represión, Sullivan, en Irán, pretende mediar entre la oposición y el ejército, asumiendo la salida de escena del Shah, y sin un contacto directo con Khomeini. La salida represiva, al menos hasta octubre del 78, no estaba en el tope de la agenda: “el embajador británico y el americano le dijeron a los militares que ellos no apoyarían un golpe militar para solucionar la crisis” (Gil 2016:115). Más allá del intrincado desarrollo de esta fase del proceso, que exigiría una larga descripción, el punto es que el debilitamiento de la posición de los EE. UU. supone un efecto de coyuntura que, con muchas mediaciones más, desarrollos posteriores y varios fenómenos paralelos, contribuye al evento de la revolución (así fuese como una causa negativa). Los recursos epistemológicos aquí ilustrados no explican el conjunto de la RI, pero dan cuenta de varias de sus dimensiones y momentos desde una perspectiva que no renuncia a pensar en términos causales y, a la vez, a tomarse en serio la contingencia.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión</title>
+         <p>En un texto posterior a The unthinkable revolution, el autor habla de “la impredecible historia de la democratización” (Kurzman 2008:263) señalando cómo las ‘revoluciones democráticas’ no dependen, en últimas, de factores objetivos, sino de la autoreferencial ‘confianza’ de los actores colectivos en su propio éxito. El modelo de la anti-explicación es expandido acá a un grupo de casos más allá de Irán con el trasfondo común de incluir momentos de ‘desinstitucionalización’. Explicar los procesos de democratización no puede sino conducir a un objetivismo, determinismo y apriorismo que excluye la posibilidad de pensar experiencias colectivas genuinamente instituyentes y, por tanto, excluye, por principio, aquello mismo de lo que pretende dar cuenta. Las objeciones de Laclau, Badiou o Ranciére frente al marxismo como ‘ciencia’ van en una dirección análoga: la disruptividad de lo político, también asociada (en distintos sentidos) a la democratización, surge bajo condiciones imposibles de determinar por ninguna teoría de la sociedad y por ninguna descripción empírica del orden social. La práctica articulatoria que es la ‘hegemonía’, la manifestación de la ‘idea’ del comunismo o la ‘verificación’ de la igualdad, no se fundan en el conocimiento empírico de la sociedad. En el caso de los posmarxistas esto conduce, para decirlo con Toscano, a una “anti-sociología” fundada en una “ideología anti-explicativa de la contingencia” (Toscano 2011:230), mientras en el de Kurzman y Vahabzadeh conduce a una sociología reconstructiva/descriptiva de las experiencias de contingencia. En Kurzman y en los posmarxistas mencionados se encuentra, en todo caso, un gesto común: suprimir una forma del saber, el conocimiento basado en causas, para dejarle espacio a la sorprendente imprevisibilidad de los eventos emancipatorios.</p>
+         <p>En lugar de ello, y buscando defender la posibilidad de una ‘sociología evenencial’, se ha planteado acá la posibilidad de hacer uso de modelos causales abiertos a la contingencia y, en conformidad con las pretensiones de Kurzman, centrados en la experiencia de los agentes. El camino para confrontar la ‘anti-explicación’ no ha sido objetar uno a uno sus componentes, sino mostrar, sin desprenderse totalmente de sus presupuestos y sin abandonar el caso en el cual se mueve la argumentación de Kurzman, cómo funcionarían esos modelos en el caso iraní. El resultado rechaza la idea de convertir la sociología y la ciencia política en una suerte de restrictiva etnografía de los eventos y se aproxima, más bien, a la idea de Keddie de explicación sin predicción y de una teoría de las revoluciones sensible a sistemas con un funcionamiento no lineal. En ese marco se intercaló la exposición de conceptos como ‘causación descendente’, ‘causas precipitantes’, ‘efecto de coyuntura’ y ‘mecanismos causales’, con datos históricos referidos a la RI. Sin la pretensión de explicar con ello el conjunto de este caso, ni de hacer un aporte sustantivo a la literatura sobre su análisis, el propósito de este texto ha sido objetar la tesis de la ‘anti-explicación’ mediante un contraejemplo que ilustra algunos aspectos de una variante de ‘sociología evenencial’ y, en la medida en que algunos elementos de ella parezcan provechosos para explicar otros casos, se ofrece como modelo susceptible de ser replicado y profundizado.</p>
+         <p>El objetivo no ha sido elaborar un modelo explicativo acabado de eventos políticos disruptivos, sino desarrollar un contraargumento plausible que integre contingencia y causalidad y acoja, sin pretensiones de sistematicidad, algunos desarrollos teóricos no contemplados por Sewell. Aunque aquí se preserva el interés de Kurzman y los posmarxistas en los procesos de cambio y en una política emancipatoria, la consecuencia de esta exploración va en contravía a su gesto común. No se trata de pensar la creatividad histórica de la praxis a costa de renunciar a un componente central de ciertas formas de conocimiento científico-social, la categoría de causalidad, sino de repensar el sentido de esta última con miras a aproximarse a la intricada dinámica de esa creatividad colectiva. En lugar de la postura posmarxista de hacer de la ‘contingencia’ el asilo causalmente incognoscible de una expectativa normativa insatisfecha, se trata, para beneficio de la misma acción colectiva emancipadora, de investigar empíricamente su aparición histórica.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Bibiyan, M.,  (2010).
+               <italic>Secrets of the Iranian revolution</italic>
+               . : Xlibris Corporation
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bibiyan</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Secrets of the Iranian revolution</source>
+               <publisher-name>Xlibris Corporation</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Conte, R., Andrighetto, G., Campenní, M.,  (2014).
+               <italic>Minding norms. Mechanisms and dynamics of social order in agent societies</italic>
+               . : Oxford University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Conte</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Andrighetto</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Campenní</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>Minding norms. Mechanisms and dynamics of social order in agent societies</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Ermakoff, I.(2007). "The unthinkable revolution in Iran by Charles Kurzman".
+               <italic>American Journal of Sociology. 113</italic>
+               (3), 879-881. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/524788">https://doi.org/10.1086/524788</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ermakoff</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>The unthinkable revolution in Iran by Charles Kurzman</article-title>
+               <source>American Journal of Sociology</source>
+               <volume>113</volume>
+               <issue>3</issue>
+               <fpage>879</fpage>
+               <lpage>881</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/524788">https://doi.org/10.1086/524788"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Ermakoff, I.(2015). "The structure of contingency".
+               <italic>American Journal of Sociology. 121</italic>
+               (1), 64-125. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/682026">https://doi.org/10.1086/682026</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ermakoff</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>The structure of contingency</article-title>
+               <source>American Journal of Sociology</source>
+               <volume>121</volume>
+               <issue>1</issue>
+               <fpage>64</fpage>
+               <lpage>125</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/682026">https://doi.org/10.1086/682026"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Foran, J.(2005). "The unthinkable revolution in Iran by Charles Kurzman".
+               <italic>Social Forces. 83</italic>
+               (4), 1774-1776. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1353/sof.2005.0065">https://doi.org/10.1353/sof.2005.0065</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Foran</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>The unthinkable revolution in Iran by Charles Kurzman</article-title>
+               <source>Social Forces</source>
+               <volume>83</volume>
+               <issue>4</issue>
+               <fpage>1774</fpage>
+               <lpage>1776</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1353/sof.2005.0065">https://doi.org/10.1353/sof.2005.0065"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Gil, J.,  (2016).
+               <italic>The Carter administration and the fall of Iran's Pahlavi dynasty. US-Iran relations on the brink of the 1979 revolution</italic>
+               . : Palgrave Macmillan
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gil</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <source>The Carter administration and the fall of Iran's Pahlavi dynasty. US-Iran relations on the brink of the 1979 revolution</source>
+               <publisher-name>Palgrave Macmillan</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Volpi, F., Jasper, J.,  (2018).
+               <italic>Microfoundations of the Arab uprisings. Mapping interactions between regimes and protesters</italic>
+               . : Amsterdam University Press Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/j.ctt20krz3k">https://www.jstor.org/stable/j.ctt20krz3k</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Volpi</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jasper</surname>
+                     <given-names>J.M.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Microfoundations of the Arab uprisings. Mapping interactions between regimes and protesters</source>
+               <publisher-name>Amsterdam University Press</publisher-name>
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/j.ctt20krz3k">https://www.jstor.org/stable/j.ctt20krz3k"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Keddie, N.,  (1995).
+               <italic>Debating revolutions</italic>
+               . : NY University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Keddie</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>Debating revolutions</source>
+               <publisher-name>NY University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Kurzman, C.,  (2004a).
+               <italic>The unthinkable revolution in Iran</italic>
+               . : Harvard University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kurzman</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2004a</year>
+               <source>The unthinkable revolution in Iran</source>
+               <publisher-name>Harvard University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Kurzman, C.(2004b). "Can understanding undermine explanation? The confused experience of revolution".
+               <italic>Philosophy of the Social Sciences. 34</italic>
+               (3), 328-351. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0048393104266687">https://doi.org/10.1177/0048393104266687</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kurzman</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2004b</year>
+               <article-title>Can understanding undermine explanation? The confused experience of revolution</article-title>
+               <source>Philosophy of the Social Sciences</source>
+               <volume>34</volume>
+               <issue>3</issue>
+               <fpage>328</fpage>
+               <lpage>351</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0048393104266687">https://doi.org/10.1177/0048393104266687"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Kurzman, C.,  (2008).
+               <italic>Democracy denied, 1905–1915. Intellectuals and the fate of democracy</italic>
+               . : Harvard University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kurzman</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Democracy denied, 1905–1915. Intellectuals and the fate of democracy</source>
+               <publisher-name>Harvard University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Kurzman, C. (2018).
+               <italic>Unruly protest</italic>
+               . En Volpi, F., Jasper, J (autor.);Microfoundations of the Arab uprisings: mapping interactions between regimes and protesters.  (183-192).: Amsterdam University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kurzman</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Unruly protest</chapter-title>
+               <year>2018</year>
+               <source>Microfoundations of the Arab uprisings: mapping interactions between regimes and protesters</source>
+               <publisher-name>Amsterdam University Press</publisher-name>
+               <fpage>183</fpage>
+               <lpage>192</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Laclau, E.,  (1990).
+               <italic>Nuevas reflexiones sobre la revolución de nuestro tiempo</italic>
+               . : Ediciones Nueva Visión
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Laclau</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>Nuevas reflexiones sobre la revolución de nuestro tiempo</source>
+               <publisher-name>Ediciones Nueva Visión</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Lebow, R. (2011).
+               <italic>Counterfactuals, contingency, and causation</italic>
+               . En Birke, D., Butter, M., Tilmann, K (eds.);Counterfactual thinking - counterfactual writing.  (150-169).: De Gruyter
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lebow</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Counterfactuals, contingency, and causation</chapter-title>
+               <year>2011</year>
+               <source>Counterfactual thinking - counterfactual writing</source>
+               <publisher-name>De Gruyter</publisher-name>
+               <fpage>150</fpage>
+               <lpage>169</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Mahoney, J.(2000). "Path dependence in historical sociology".
+               <italic>Theory and Society.</italic>
+               (29), 507-548.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mahoney</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Path dependence in historical sociology</article-title>
+               <source>Theory and Society</source>
+               <volume />
+               <issue>29</issue>
+               <fpage>507</fpage>
+               <lpage>548</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Mathieu, J.(2021). "Is historical temporality “heterogeneous” and “contingent”? William H. Sewell’s cultural turn".
+               <italic>Histories. 1</italic>
+               (1), 12-21. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/histories1010005 ">https://doi.org/10.3390/histories1010005</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mathieu</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2021</year>
+               <article-title>Is historical temporality “heterogeneous” and “contingent”? William H. Sewell’s cultural turn</article-title>
+               <source>Histories</source>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>12</fpage>
+               <lpage>21</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3390/histories1010005 ">https://doi.org/10.3390/histories1010005 "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Pearlman, W. (2018).
+               <italic>Contingency and agency in a turning point event March 18, 2011, in Daraa, Syria</italic>
+               . En Volpi, F., Jasper, J (autor.);Microfoundations of the Arab uprisings. Mapping interactions between regimes and protesters.  (111-134).: Amsterdam University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pearlman</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Contingency and agency in a turning point event March 18, 2011, in Daraa, Syria</chapter-title>
+               <year>2018</year>
+               <source>Microfoundations of the Arab uprisings. Mapping interactions between regimes and protesters</source>
+               <publisher-name>Amsterdam University Press</publisher-name>
+               <fpage>111</fpage>
+               <lpage>134</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Ranciére, J.,  (2010).
+               <italic>Chronicles of consensual times</italic>
+               . : Continuum
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ranciére</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Chronicles of consensual times</source>
+               <publisher-name>Continuum</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Sewell, W.,  (2005).
+               <italic>Logics of history. Social theory and social transformation</italic>
+               . : The University of Chicago Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sewell</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source>Logics of history. Social theory and social transformation</source>
+               <publisher-name>The University of Chicago Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Snow, D., Moss, D.(2014). "Protest on the fly: toward a theory of spontaneity in the dynamics of protest and social movements".
+               <italic>American Sociological Review. 79</italic>
+               (6), 1122-1143. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0003122414554081">https://doi.org/10.1177/0003122414554081</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Snow</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Moss</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Protest on the fly: toward a theory of spontaneity in the dynamics of protest and social movements</article-title>
+               <source>American Sociological Review</source>
+               <volume>79</volume>
+               <issue>6</issue>
+               <fpage>1122</fpage>
+               <lpage>1143</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0003122414554081">https://doi.org/10.1177/0003122414554081"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Toscano, A. (2011).
+               <italic>Anti-sociology and its limits</italic>
+               . En Bowman, P., Stamp, R (autor.);Reading Rancière.  (217-237).: Continuum
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Toscano</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Anti-sociology and its limits</chapter-title>
+               <year>2011</year>
+               <source>Reading Rancière</source>
+               <publisher-name>Continuum</publisher-name>
+               <fpage>217</fpage>
+               <lpage>237</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Vahabzadeh, P.,  (2003).
+               <italic>Articulated experiences. Toward a radical phenomenology of contemporary social movements</italic>
+               . : State University of New York Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vahabzadeh</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <source>Articulated experiences. Toward a radical phenomenology of contemporary social movements</source>
+               <publisher-name>State University of New York Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>
+               Wright, C.(2008). "Resurrection and reaction in Alain Badiou: towards an evental historiography".
+               <italic>Culture, Theory &amp; Critique. 49</italic>
+               (1), 73-92. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/14735780802024265">https://doi.org/10.1080/14735780802024265</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wright</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>Resurrection and reaction in Alain Badiou: towards an evental historiography</article-title>
+               <source>Culture, Theory &amp; Critique</source>
+               <volume>49</volume>
+               <issue>1</issue>
+               <fpage>73</fpage>
+               <lpage>92</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/14735780802024265">https://doi.org/10.1080/14735780802024265"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

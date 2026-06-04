@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000200235</article-id>
+         <article-id pub-id-type="publisher-id">00008</article-id>          
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Cómo investigan las ciencias sociales temas de alta contingencia política. El caso del movimiento estudiantil chileno</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>How social sciences investigate issues of high political contingency. The case of the Chilean student movement</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0903-1789</contrib-id>
+               <name>
+                  <surname>Asún</surname>
+                  <given-names>Rodrigo A.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8561-7461</contrib-id>
+               <name>
+                  <surname>Yáñez-Lagos</surname>
+                  <given-names>Lidia</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1964-7213</contrib-id>
+               <name>
+                  <surname>Villalobos</surname>
+                  <given-names>Cristóbal</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1691-5742</contrib-id>
+               <name>
+                  <surname>Zúñiga-Rivas</surname>
+                  <given-names>Claudia</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad de Ciencias Sociales, Universidad de Chile (Santiago, Chile)</institution>
+            <institution content-type="normalized">Universidad de Chile</institution>
+            <institution content-type="orgname">Universidad de Chile</institution>
+            <country country="CL">Chile</country>
+            <email>rasun@uchile.cl</email>
+         </aff>
+         <aff id="aff2">
+            <label>1</label>
+            <institution content-type="original">Facultad de Ciencias Sociales, Universidad de Chile (Santiago, Chile)</institution>
+            <institution content-type="normalized">Universidad de Chile</institution>
+            <institution content-type="orgname">Universidad de Chile</institution>
+            <country country="CL">Chile</country>
+            <email>lidia.yl@ug.uchile.cl</email>
+         </aff>         
+         <aff id="aff3">
+            <label>1</label>
+            <institution content-type="original">Universidad de Chile.  Chile</institution>
+            <institution content-type="normalized">Universidad de Chile</institution>
+            <institution content-type="orgname">Universidad de Chile</institution>
+            <country country="CL">Chile</country>
+            <email>cczuniga@u.uchile.cl</email>
+         </aff>
+         <aff id="aff4">
+            <label>2</label>
+            <institution content-type="original">Pontificia Universidad Católica de Chile.  Chile</institution>
+            <institution content-type="normalized">Pontificia Universidad Católica de Chile</institution>
+            <institution content-type="orgname">Pontificia Universidad Católica de Chile</institution>
+            <country country="CL">Chile</country>
+            <email>clvillal@uc.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2019</year>
+         </pub-date>
+         <!--volume>0</volume-->
+         <issue>65</issue>
+         <fpage>235</fpage>
+         <lpage>253</lpage>
+         <history>
+            <date date-type="received">
+               <day>02</day>
+               <month>03</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El presente trabajo investiga la forma en que las ciencias sociales, principalmente chilenas, están respondiendo a las dispares demandas que reciben actualmente y que consisten en aportar a la comprensión crítica de fenómenos relevantes para la sociedad y adecuarse a las recientes transformaciones en la forma de producir y comunicar conocimiento científico incorporando mayores niveles de internacionalización, globalización, especialización y complejización. Para ello se realiza una revisión sistemática de la producción científica publicada sobre el movimiento estudiantil chileno, que constituye uno de los movimientos sociales más relevantes de la historia reciente de Chile. Se sistematizaron 149 publicaciones editadas entre el año 2000 y el 2016. Los resultados muestran que la capacidad de las ciencias sociales chilenas para abordar estas demandas contradictorias es parcial, pues sus análisis críticos tienden a ser uniformes y de alcance temporal limitado, mientras que sus estudios empíricos no siempre poseen los niveles de internacionalización y complejidad demandados actualmente para participar en los circuitos internacionales de publicación.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The present work investigates the way in which social sciences, mainly Chilean, are responding to different demands that they are currently receiving and that consist of contribute to the critical understanding of phenomena relevant to society and adapt to recent transformations in the way of producing and communicating scientific knowledge, incorporating higher levels of internationalization, globalization, specialization and complexity. To this end, a systematic review of the scientific production published on the Chilean student movement is made. This movement is one of the most relevant in Chile's recent history. 149 publications were systematized, published between 2000 and 2016. The results show that the capacity of the Chilean social sciences to deal with these contradictory demands is partial, since their critical analyzes tend to be uniforms and limited in time, while their empirical studies do not always have the levels of internationalization and complexity currently demanded in international publishing circuits.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>movimiento estudiantil chileno</kwd>
+            <kwd>revisión sistemática</kwd>
+            <kwd>publicaciones científicas</kwd>
+            <kwd>ciencias sociales chilenas</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>Chilean student movement</kwd>
+            <kwd>systematic review</kwd>
+            <kwd>scientific publications</kwd>
+            <kwd>social sciences</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="1" />
+            <table-count count="7" />
+            <equation-count count="0" />
+            <ref-count count="5" />
+            <page-count count="19" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>
+            Una constante de las ciencias sociales ha sido el objetivo de producir conocimiento que permita no solo la comprensión, sino también la modificación de las sociedades en que están inmersas (Greenwood.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1075/cat.7.2.02gre">Action research</ext-link>
+            ), lo cual es especialmente cierto en Latinoamérica (Garretón.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0539018405053292">Social sciences and society in Chile</ext-link>
+            ). Incluso se ha propuesto que las ciencias sociales deben asumir un rol de conciencia global crítica frente a la sociedad, constituyéndose en un espacio de discusión pública de la sociedad respecto de sí misma: “We have spent a century building professional knowledge, translating common sense into science, so that now, we are more than ready to embark on a systematic back-translation, taking knowledge back to those from whom it came, making public issues out of private troubles, and thus regenerating sociology’s moral fiber" (
+            <xref ref-type="bibr" rid="B1">Burawoy 2005</xref>
+            :5).
+         </p>
+         <p>
+            Sin embargo, el contexto actual de producción científica está experimentando transformaciones que reorientan las ciencias sociales. Procesos como la internacionalización del conocimiento (Frenken, Hardeman y Hoekman.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">La globalización de la colaboración en investigación</ext-link>
+            ), la generalización de sistemas de evaluación de la productividad científica (Hazelkorn.
+            <ext-link ext-link-type="uri" xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000181653">Impact of global rankings</ext-link>
+            ), la valoración de los procedimientos empíricos sistemáticos por sobre los ensayos reflexivos (Rockwell.
+            <ext-link ext-link-type="uri" xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000116325">Data and statistics</ext-link>
+            ) y la hegemonización de la producción de las ciencias sociales por parte de Estados Unidos y Europa (Ammon.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2167/cilp088.0">Language planning for international scientific communication</ext-link>
+            ), han generado un escenario donde la comprensión de la forma como las ciencias sociales latinoamericanas se están desarrollando, es un tema de especial interés.
+         </p>
+         <p>
+            El presente trabajo busca contribuir a comprender este desarrollo a través de un estudio de caso: sistematizar la producción académica sobre el movimiento estudiantil chileno desde inicios del siglo XXI. Este movimiento ha sido considerado el más importante del país en los últimos 30 años (Mayol y Azócar.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-65682011000300008">Politización del malestar</ext-link>
+            ) y ha evolucionado en un contexto socioeconómico reconocido como exitoso (Somma.
+            <ext-link ext-link-type="uri" xlink:href="http://www.interfacejournal.net/wordpress/wp-content/uploads/2012/11/Interface-4-2-Somma.pdf">The Chilean student movement of 2011-2012</ext-link>
+            ) y en el marco de un sistema educativo en creciente expansión (Brunner y Villalobos.
+            <ext-link ext-link-type="uri" xlink:href="http://ediciones.udp.cl/libro/politicas-de-educacion-superior-en-iberoamerica-2009-2013/">Políticas de educación superior en Iberoamérica 2009-2013</ext-link>
+            ), lo que ha provocado una importante demanda social por comprender el fenómeno, respondiendo los científicos sociales a través de investigaciones y publicaciones que serán el objeto de este estudio.
+         </p>
+      </sec>
+      <sec>
+         <title>Tendencias globales de desarrollo de las ciencias sociales</title>
+         <p>
+            Las ciencias sociales nacen en Europa y Estados Unidos a partir de un doble proceso de diferenciación: por una parte, deben distinguirse de las humanidades (especialmente de la filosofía y la historia) y, por otro lado, deben buscar su espacio en un mundo científico ya colonizado por las ciencias naturales (Wagner.
+            <ext-link ext-link-type="uri" xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000116325">The twentieth century–the century of the social sciences?</ext-link>
+            ).
+         </p>
+         <p>
+            Este proceso de diferenciación se enlaza con cuatro tendencias claves en el desarrollo de las ciencias sociales durante el siglo XX. En primer lugar, y ligado al logro de un estatus independiente de las humanidades, se produce una institucionalización creciente en universidades (Rothblatt y Wittrock.
+            <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/abs/10.1177/027046769401400429">The European and American University since 1800</ext-link>
+            ), donde se instalan procesos formales de enseñanza de las nuevas disciplinas y se reemplaza a los antiguos docentes amateurs, por profesionales portadores de acreditaciones específicas. En segundo lugar, las ciencias sociales imitan a las ciencias naturales en su segmentación interna en un conjunto de disciplinas especializadas que invierten importantes esfuerzos en diferenciarse entre sí (Dogan y Pahre.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/BF02687172">Fragmentation and recombination of the social sciences</ext-link>
+            ). En tercer lugar, la concentración en los problemas de cada una de las sociedades en que las ciencias sociales se desarrollan tiende a generar disciplinas con características “nacionales” que dificultan la aspiración a una ciencia social universal (Manicas.
+            <ext-link ext-link-type="uri" xlink:href="https://www.springer.com/gp/book/9780792310013">The social science disciplines</ext-link>
+            ). Finalmente, si bien desde su nacimiento las ciencias sociales se presentan como productoras de un conocimiento que facilita la comprensión de los procesos que vive la sociedad (Buroway.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/000312240507000102">For public sociology</ext-link>
+            ), hacia mediados del siglo XX emerge otra perspectiva donde la legitimidad de las ciencias sociales está puesta en su capacidad de dirigir intervenciones específicas, sostenidas en proyectos planificados (Greenwood.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1075/cat.7.2.02gre">Action research</ext-link>
+            ), lo que significó un importante desplazamiento en la autodefinición de los científicos sociales desde un rol como intelectuales críticos, a un papel como diseñadores de políticas e interventores sociales (Eyal y Buchholz.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev.soc.012809.102625">From the sociology of intellectuals to the sociology of interventions</ext-link>
+            ).
+         </p>
+         <p>Además de estas tendencias clásicas hacia la institucionalización, fragmentación disciplinaria, organización nacional y profesionalización de la intervención, actualmente es posible observar la aparición nuevos procesos que se suman a los anteriores, profundizándolos o transformándolos. A continuación, describimos dos de los más importantes.</p>
+         <p>
+            En primer lugar, recientemente se ha fortalecido una tendencia hacia la internacionalización de las ciencias sociales, que se traduce en un fuerte aumento de investigaciones y publicaciones conjuntas entre científicos de distintos países (Frenken, Hoekman y Hardeman.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">La globalización de la colaboración en investigación</ext-link>
+            ) y una tendencia a soslayar preocupaciones locales y privilegiar temas de investigación globales (Gingras y Mosbah-Natanson.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">¿Dónde se producen las ciencias sociales?</ext-link>
+            ). Aunque esta orientación debilita el carácter excesivamente nacional de algunas ciencias sociales, tiende a olvidar la relevancia del contexto donde se produce el conocimiento (Shapin.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.0020-2754.1998.00005.x">Placing the view from nowhere</ext-link>
+            ), buscando generalizaciones no siempre productivas y relegando problemáticas localmente cruciales: “la globalización e internacionalización de la investigación han favorecido esencialmente a Europa y América del Norte, regiones que ya eran dominantes. Más aún, la autonomía de las otras regiones ha disminuido y la dependencia de los actores centrales, medida por citas, ha aumentado en los últimos 20 años” (
+            <xref ref-type="bibr" rid="B4">Gingras y Mosbah-Natanson 2010</xref>
+            :158). Además, esta internacionalización se da en un contexto de hegemonía en la producción del conocimiento por parte de Europa y Estados Unidos, lo que conduce al dominio del idioma inglés y al abandono de metodologías o temáticas propias de otros territorios, lo que incrementa la marginalización de las ciencias sociales no anglosajonas (Ramos, Canales y Palestini.
+            <ext-link ext-link-type="uri" xlink:href="https://www.moebio.uchile.cl/33/ramos.html">El campo de las ciencias sociales en Chile</ext-link>
+            , Ammon.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2167/cilp088.0">Language planning for international scientific communication</ext-link>
+            ).
+         </p>
+         <p>
+            En segundo lugar, se ha fomentado la utilización de distintas herramientas sociotécnicas, cuyo objetivo es hacer más eficiente la asignación de recursos para la investigación social (Hazelkorn.
+            <ext-link ext-link-type="uri" xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000181653">Impact of global rankings)</ext-link>
+            , floreciendo rankings y sistemas de acreditación institucional, índices de productividad de los investigadores, sistemas formalizados de evaluación de proyectos y de indexación de revistas. Aunque estas herramientas han buscado potenciar la investigación multidisciplinaria y socialmente útil (Gibbons.
+            <ext-link ext-link-type="uri" xlink:href="http://www.schwartzman.org.br/simon/gibbons.pdf">The new production of knowledge</ext-link>
+            ), su implementación masiva ha generado efectos indeseados, como la orientación hacia una producción de conocimiento poco pertinente a su medio (Paasi.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1068/a3769">Globalisation, academic capitalism</ext-link>
+            ) o la desvalorización de los dispositivos de divulgación de conocimiento público (libros, notas de prensa, entre otros), frente a la producción de documentos para audiencias especializadas y restringidas: “They encourage a return to ‘ivory tower’ research conducted by elites in selected institutions at  a  time  when  complex  global  problems  and  policy  objectives  require  the  involvement  of interdisciplinary  teams  with  diverse  perspectives  and  experiences” (
+            <xref ref-type="bibr" rid="B5">Hazelkorn 2009</xref>
+            :11).
+         </p>
+         <p>
+            Varios autores (Burawoy.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/000312240507000102">For public sociology</ext-link>
+            , Garretón.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0539018405053292">Social sciences and society in Chile</ext-link>
+            , Mollis.
+            <ext-link ext-link-type="uri" xlink:href="http://biblioteca.clacso.edu.ar/clacso/gt/20101109010429/mollis.pdf">Un breve diagnóstico de las universidades argentinas</ext-link>
+            ) sostienen que esta internacionalización hegemónica y la orientación hacia la productividad, están transformando el rol que las ciencias sociales juegan en la sociedad y la forma en que responden a las demandas que ésta les hace, tema que será profundizado en la siguiente sección para el espacio latinoamericano.
+         </p>
+      </sec>
+      <sec>
+         <title>El rol de las ciencias sociales en Latinoamérica y Chile</title>
+         <p>
+            En América Latina, los esfuerzos de las ciencias sociales por producir conocimientos científicos sobre lo social que también sirvan para mejorar la sociedad que se estudia (Wagner.
+            <ext-link ext-link-type="uri" xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000116325">The twentieth century–the century of the social sciences?</ext-link>
+            ), no solo se tradujeron en la generación de proyectos que buscaban enfrentar los principales problemas de la región, sino también en la implicación de los científicos sociales en proyectos de intervención más generales que propugnaban la “modernización” de sus sociedades (Germani.
+            <ext-link ext-link-type="uri" xlink:href="https://books.google.cl/books/about/Sociolog%C3%ADa_de_la_modernizaci%C3%B3n.html?id=X85PAAAAMAAJ&amp;redir_esc=y">Sociología de la modernización</ext-link>
+            ). Sin embargo, este rol no agotó la voluntad de intervención de las ciencias sociales, pues ellas también han buscado transformarse en disciplinas públicas, generando un discurso de autocomprensión y crítica de la sociedad, dirigido a públicos más amplios que los profesionales especializados (Burawoy.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/000312240507000102">For public sociology</ext-link>
+            ).
+         </p>
+         <p>
+            A diferencia de los países desarrollados, en América Latina el enfoque de autoconciencia crítica se mantuvo como un eje central durante parte importante del siglo XX (Garretón.
+            <ext-link ext-link-type="uri" xlink:href="https://lom.cl/bf76bf42-f7dd-4637-bf83-857c8d5c28e1/Am%C3%A9rica-Latina-en-el-siglo-XXI.aspx">América Latina en el Siglo XXI</ext-link>
+            ). Por ello, los organismos regionales que establecieron la agenda dominante de investigación social en el continente, entre ellos la Comisión Económica para América Latina (CEPAL), la Facultad Latinoamericana de Ciencias Sociales (FLACSO), o el Consejo Latinoamericano de Ciencias Sociales (CLACSO), propiciaron estudios centrados en el modelo de desarrollo de América Latina y las interacciones entre estos países y las naciones desarrolladas (Vessuri y Sonsiré.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">Aspectos institucionales de las ciencias sociales en América Latina</ext-link>
+            ). La importancia del enfoque de autoconciencia crítica ha sido mostrada con claridad para el caso chileno por Garretón, quien plantea que, hasta la década de 1980, las ciencias sociales otorgaban alto grado de legitimidad a la reflexión global acerca de sociedades que se encontraban en medio de profundas transformaciones y que requerían de expertos capaces de proponer alternativas a los procesos en curso: “On the one hand, there was a social atmosphere that had to do with a society feeling it was undergoing a deep transformation and which recognized the necessity of calling on a kind of ‘expert’ understanding of the new things that were going on and proposing alternatives to what was happening. On the other hand, there was a high level of legitimacy of critical thought on society with an institution for its pursuit. Thus, the social sciences were recognized as the conscience of society and were aware of their different historical projects” (
+            <xref ref-type="bibr" rid="B3">Garretón 2005</xref>
+            :361).
+         </p>
+         <p>
+            Sin embargo, hacia fines del siglo XX e inicios del siglo XXI, las ciencias sociales latinoamericanas se suman a las tendencias mundiales en función de cuatro grandes procesos: en primer lugar, el nivel de institucionalización de la ciencia social latinoamericana ha ido consolidándose (Puga.
+            <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0188-25032009000500005">Ciencias sociales, un nuevo momento</ext-link>
+            ), lo que ha generado un aumento de la producción académica (Santa y Herrero-Solana.
+            <ext-link ext-link-type="uri" xlink:href="https://aprendeenlinea.udea.edu.co/revistas/index.php/RIB/article/view/7648">Producción científica de América Latina y el Caribe</ext-link>
+            , Hermes-Lima.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/15216540701258751">Whither Latin America?</ext-link>
+            ), especialmente en los dispositivos de producción de conocimiento más legitimados hoy en día: artículos especializados (Russell y Ainsworth.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">Investigación en ciencias sociales en América Latina</ext-link>
+            ).
+         </p>
+         <p>
+            En segundo lugar, el proceso de globalización ha significado que un creciente número de académicos latinoamericanos estudie en el extranjero (Vessuri y Sonsiré.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">Aspectos institucionales de las ciencias sociales en América Latina</ext-link>
+            ) y desarrolle investigaciones y publicaciones conjuntas con investigadores de otros países (Frenken, Hoekman y Hardeman.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">La globalización de la colaboración en investigación</ext-link>
+            ).
+         </p>
+         <p>
+            En tercer lugar, ha disminuido la valoración que se otorga a las reflexiones críticas globales sobre la sociedad (Bialakowsky.
+            <ext-link ext-link-type="uri" xlink:href="http://biblioteca.clacso.edu.ar/clacso/sur-sur/20120801013201/LatinAmericacriticalthought.pdf">Latin American critical thought</ext-link>
+            ), las que encuentran dificultades para expresarse en el sistema de evaluación de la productividad académica dominante: “this production is marked by a shift from more global and interpretative essays or studies on society to more monographic and sector-empirical studies” (Garretón 2005:398). Esta deriva hacia unas ciencias sociales más especializadas se explica, por una parte, por los procesos de financiamiento de la investigación científica, que han tendido a privilegiar proyectos de investigación en ámbitos específicos (Garretón, Cruz y Espinoza.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1517-45222010000200005">Ciencias sociales y políticas públicas en Chile</ext-link>
+            ) y, por otro lado, debido a los incentivos que otorgan los consejos estatales de ciencia y tecnología (como el CONICET de Argentina, el CNPQ de Brasil o el CONACYT de México), que tienden a privilegiar estudios que aporten a temas relacionados con la agenda social de sus respectivos países (Vessuri y Sonsiré.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">Aspectos institucionales de las ciencias sociales en América Latina</ext-link>
+            ).
+         </p>
+         <p>
+            Finalmente, es posible distinguir una creciente, aunque desigual complejización teórica y metodológica en la producción de algunos campos de la ciencia social latinoamericana, que facilitaría su acceso al circuito de producción especializada de las revistas indexadas internacionales, tal como ocurre en la investigación educativa (Bruner y Salazar.
+            <ext-link ext-link-type="uri" xlink:href="http://www.brunner.cl/?p=1303">La investigación educacional en Chile</ext-link>
+            , Villalobos.
+            <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/924/92447592002.pdf">Lógicas y modos de producción de conocimiento</ext-link>
+            ). Esto contrasta con la situación observada en otras áreas o disciplinas en que esta complejización parece menos desarrollada (Garretón, Cruz y Espinoza.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1517-45222010000200005">Ciencias sociales y políticas públicas en Chile</ext-link>
+            , Ramos, Canales y Palestini.
+            <ext-link ext-link-type="uri" xlink:href="https://www.moebio.uchile.cl/33/ramos.html">El campo de las ciencias sociales en Chile</ext-link>
+            , Ramos.
+            <ext-link ext-link-type="uri" xlink:href="http://repositorio.uahurtado.cl/handle/11242/4005">Cómo investigan los sociólogos chilenos</ext-link>
+            ).
+         </p>
+         <p>
+            Pese a este diagnóstico y más allá de algunos estudios bibliométricos que confirman el aumento de las publicaciones de autores latinoamericanos en revistas indexadas (Frenken, Hoekman y Hardeman.
+            <ext-link ext-link-type="uri" xlink:href="http://www.unesco.org/new/es/social-and-human-sciences/resources/reports/world-social-science-report-2010/">La globalización de la colaboración en investigación</ext-link>
+            ), aún hay poca evidencia del impacto que estos procesos de transformación estarían provocando en la producción de los distintos campos y subcampos de las ciencias sociales de los países de la región.
+         </p>
+         <p>
+            Además, las pocas revisiones de la producción académica latinoamericana y chilena en ciencias sociales se han realizado habitualmente sobre campos disciplinarios (sociología, ciencia política, periodismo, entre otros; e.g., Ramos.
+            <ext-link ext-link-type="uri" xlink:href="http://repositorio.uahurtado.cl/handle/11242/4005">Cómo investigan los sociólogos chilenos</ext-link>
+            , Ramos, Canales y Palestini.
+            <ext-link ext-link-type="uri" xlink:href="https://www.moebio.uchile.cl/33/ramos.html">El campo de las ciencias sociales en Chile</ext-link>
+            ) o sobre focos temáticos globales (educación, investigación gubernamental; e.g., Bruner y Salazar.
+            <ext-link ext-link-type="uri" xlink:href="http://www.brunner.cl/?p=1303">La investigación educacional en Chile</ext-link>
+            , Garretón, Cruz y Espinoza.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1517-45222010000200005">Ciencias sociales y políticas públicas en Chile</ext-link>
+            ), sin indagar en la producción sobre temáticas específicas e interdisciplinarias que traten sobre temas de alta contingencia política.
+         </p>
+         <p>Tratando de contribuir a llenar ese vacío, nuestro objetivo de investigación es describir la producción científica de las ciencias sociales sobre un objeto particular, que no solo ha tenido alta visibilidad e impacto sociopolítico, sino que además ha sido estudiado desde distintas disciplinas, lo que permite apreciar la forma en que las ciencias sociales actuales están respondiendo a la demanda por comprensión e interpretación de procesos sociales de alto impacto social, con independencia de las matrices disciplinarias.</p>
+         <p>
+            Para ello, se ha elegido como caso de estudio la producción académica respecto del movimiento estudiantil chileno publicada entre los años 2000 y 2016, un período marcado por fuertes movilizaciones que han tenido una importante presencia en los medios de comunicación y han incidido en el debate y realidad política chilena (Donoso.
+            <ext-link ext-link-type="uri" xlink:href="https://www.amazon.co.uk/Protest-Social-Movements-Global-Democracy/dp/1786350289">When social movements become a democratizing force</ext-link>
+            , Ivanova.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-23762015000200006">The topic of education in Chilean political discourse</ext-link>
+            ). Nuestra intención es determinar si los procesos de internacionalización, globalización, profesionalización y complejización teórico-metodológica están presentes en esta producción, para así contribuir a la discusión respecto de cómo están evolucionando las ciencias sociales chilenas en la actualidad y cómo están cumpliendo su rol de observadoras críticas de su sociedad.
+         </p>
+      </sec>
+      <sec>
+         <title>El movimiento estudiantil chileno del siglo XXI</title>
+         <p>
+            Pese a que el movimiento estudiantil chileno desarrolló numerosas protestas en la década de 1990, luego del fin de la dictadura de Pinochet (Figueroa.
+            <ext-link ext-link-type="uri" xlink:href="http://movimientoestudiantil.cl/wp-content/uploads/2015/12/22-El-movimiento-estudiantil-y-la-lucha-por-la-democracia-en-Chile-Vi%CC%81ctor-Manuel-Figueroa-Sepu%CC%81lveda.pdf">El movimiento estudiantil</ext-link>
+            ), en general ellas tuvieron convocatorias limitadas a excepción del año 1997 (Thielemann.
+            <ext-link ext-link-type="uri" xlink:href="http://www.alphilia.cl/shop/la-anomalia-social-la-transicion-luis-thielemann/">La anomalía social de la transición</ext-link>
+            ), reconociéndose usualmente al año 2001 como el punto de inflexión en el movimiento. Dicho año estuvo marcado por la aparición de nuevas organizaciones de estudiantes secundarios (Aguilera.
+            <ext-link ext-link-type="uri" xlink:href="http://biblioteca.clacso.edu.ar/gsdl/collect/clacso/index/assoc/D10059.dir/Donoso_Informe_Sep_2014.pdf">Movidas, movilizaciones y movimientos</ext-link>
+            ), que se coordinan en torno a algunas demandas específicas (el costo de la locomoción pública estudiantil), lo que se traduce en un ciclo de movilizaciones de amplia convocatoria (llamado el mochilazo, por el morral que utiliza la mayor parte de los estudiantes secundarios chilenos). El éxito de estas protestas significó que el gobierno cediera a una parte importante de las demandas estudiantiles (Donoso.
+            <ext-link ext-link-type="uri" xlink:href="http://biblioteca.clacso.edu.ar/gsdl/collect/clacso/index/assoc/D10059.dir/Donoso_Informe_Sep_2014.pdf">La reconstrucción de la acción colectiva</ext-link>
+            ).
+         </p>
+         <p>
+            Un segundo hito destacado por la literatura es el conjunto de protestas ocurrido el año 2006 (llamado movimiento pingüino, por los colores del uniforme de la mayoría de los colegios chilenos). Este proceso comienza cuando los estudiantes se organizan en torno a las mismas demandas económicas clásicas (costo de la locomoción pública estudiantil y de la educación en general), a las que se agregan cuestionamientos respecto de la institucionalidad educativa chilena (privatización del sistema, decadencia de la educación pública, desigualdad de calidad entre instituciones, entre otros problemas). La masividad del movimiento, las tácticas utilizadas, las formas de organización generadas y su impacto en la agenda pública son las principales características de este proceso de movilización (Torres.
+            <ext-link ext-link-type="uri" xlink:href="https://www.rileditores.com/catlogo-ril02/jfwzhwv035/Juventud-y-espacios-de-participaci%C3%B3n-en-Chile-y-Am%C3%A9rica-Latina">Juventud y participación</ext-link>
+            , Donoso.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0022216X12001228">Dynamics of change in Chile</ext-link>
+            ).
+         </p>
+         <p>
+            El tercer hito de este proceso lo protagonizan los estudiantes universitarios con el movimiento del año 2011 llamado internacionalmente Chilean winter, por haber alcanzado su apogeo en esa época del año. En esta oportunidad la masividad de las protestas alcanza las cotas más altas, con marchas en que participaron centenares de miles de personas, organizadas bajo consignas que apuntaban a criticar aspectos claves del sistema educativo y económico chileno (Bellei, Cabalín y Orellana.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/03075079.2014.896179">The 2011 Chilean student movement</ext-link>
+            , Salinas y Fraser.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5070/B83110044">Educational opportunity</ext-link>
+            , Fleet.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-65682011000300005">Movimiento estudiantil</ext-link>
+            ), expresando un malestar que contribuyó a producir cambios importantes en la coalición gobernante y su proyecto político: “the Student Movement created an opportunity for center-left political forces to reorient their political agenda. In doing so, the political focus shifted from one concerned with democratic consolidation and governability to one that put equity-enhancing and democratizing reforms on top of the policy agenda” (
+            <xref ref-type="bibr" rid="B2">Donoso 2016</xref>
+            :189).
+         </p>
+         <p>Luego del año 2011 el movimiento estudiantil no ha vuelto a tener el mismo impacto, aunque continúa activo y sus frecuentes movilizaciones siguen siendo políticamente relevantes.</p>
+      </sec>
+      <sec sec-type="methods">
+         <title>Metodología</title>
+         <p>
+            Se realizó una revisión sistemática de las publicaciones sobre el movimiento estudiantil chileno entre el 2000 y el 2016. La revisión sistemática busca identificar, evaluar y sintetizar investigaciones científicas, utilizando un método sistemático y explícito de recopilación de información (Higgins y Green.
+            <ext-link ext-link-type="uri" xlink:href="http://handbook-5-1.cochrane.org/">Cochrane hanbook</ext-link>
+            ), lo que permite describir y evaluar la producción de un campo de estudio con el mínimo posible de sesgos (Egger, Smith y Schneider.
+            <ext-link ext-link-type="uri" xlink:href="https://www.wiley.com/en-us/Systematic+Reviews+in+Health+Care%3A+Meta+Analysis+in+Context%2C+2nd+Edition-p-9780727914880">Systematic reviews</ext-link>
+            ). Los criterios seguidos en el presente estudio se describen a continuación.
+         </p>
+         <sec>
+            <title>Búsqueda y selección de documentos</title>
+            <p>
+               Para asegurar la identificación del mayor número posible de estudios y evitar los sesgos que implicaría concentrarse en un grupo limitado de publicaciones académicas, la búsqueda de estudios se realizó utilizando múltiples fuentes. Se revisaron bases de datos con altos niveles de selectividad como WOS, Scopus y SciELO, así como otras con menores requisitos de ingreso, como Redalyc, Latindex y Google Scholar. Finalmente, se revisó la bibliografía de cada artículo identificado y se incorporó cualquier trabajo citado que abordara el mismo objeto de estudio y no hubiese aparecido en esos buscadores, lo que es una forma estándar de incorporar la literatura gris a la revisión (Mahood, Van Eerd, Irvin.
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/jrsm.1106">Searching for grey literature</ext-link>
+               ).
+            </p>
+            <p>Las palabras clave de búsqueda se incluyeron en español e inglés y fueron las siguientes: movimiento estudiantil chileno, revolución pingüina chilena, mochilazo, movimiento por la educación chilena, invierno chileno. Se incluyeron trabajos publicados entre enero de 2000 y diciembre de 2016, encontrándose 268 documentos.</p>
+            <p>
+               Luego de una primera lectura de los documentos, se excluyó aquellos que resultaban poco pertinentes para los objetivos de la investigación (Higgins y Green.
+               <ext-link ext-link-type="uri" xlink:href="http://handbook-5-1.cochrane.org/">Cochrane hanbook</ext-link>
+               ). Los criterios de exclusión fueron: a) trabajos que solo utilizaran al movimiento estudiantil como contexto marginal para abordar otro problema; b) textos no académicos, como artículos periodísticos o de propaganda, excluyéndose por ello trabajos de revistas sin comité editorial o que publicaran solo columnas de opinión; c) textos académicos en estadios más tempranos de desarrollo, como ponencias en congresos o tesis no publicadas; y d) documentos estuvieran escritos en idiomas distintos al español o el inglés, por criterios prácticos asociados a la adecuada comprensión de su contenido por los investigadores.
+            </p>
+            <p>Dos de los investigadores revisaron los resúmenes de los trabajos seleccionados en primera instancia y se decidió excluir aquellos en los que ambos consideraban que se cumplía al menos uno de los criterios de exclusión. En los casos en que no hubo acuerdo, un tercer investigador revisó el texto completo y las diferencias se resolvieron por consenso. Esto produjo un cuerpo de 149 documentos seleccionados.</p>
+         </sec>
+         <sec>
+            <title>Codificación de los documentos</title>
+            <p>Tres integrantes del equipo de investigación revisaron una muestra de 10 textos y a partir de estos, se diseñó un sistema de categorías que permitió clasificar los documentos en función de tres dimensiones: a) características generales, b) propósito y c) método. Una vez consensuadas las dimensiones y categorías de análisis, los documentos fueron codificados por uno de los investigadores y revisados por otros dos por separado. Las diferencias se resolvieron por consenso. A continuación, se describen las categorías consideradas en cada una de las dimensiones.</p>
+         </sec>
+         <sec>
+            <title>Características generales</title>
+            <p>Año: año de publicación.</p>
+            <p>Formato: artículo de revista, capítulo de libro o libro.</p>
+            <p>Idioma de la publicación: español o inglés.</p>
+            <p>Indexación: base de datos donde está indexado el documento (WOS, Scopus, SciELO, Latindex, Redalyc, otra o ninguna).</p>
+            <p>Tipo de estudio: investigación empírica, ensayo o no clasificable. Se definió como investigación empírica a los trabajos que poseían un método sistemático de producción y análisis de datos. Se definió como ensayo a las publicaciones que no utilizaban evidencia empírica o ésta no era sistemáticamente producida o analizada. Entre los ensayos se distinguió entre teóricos o demostrativos, dependiendo de si el objetivo era aplicar determinados conceptos y teorías al estudio del movimiento estudiantil, o si lo que se buscaba era demostrar alguna tesis del autor. Se consideró no clasificable a los libros completos, que por su extensión y diversidad de contenidos no eran posibles de situar en estas categorías y a estudios provenientes de las humanidades, como análisis legislativos o relatos historiográficos, a los que tampoco aplicaban estas categorías.</p>
+            <p>Autoría: se registró si había uno o más autores y si la afiliación del o los autores era una institución chilena, hispana (Latinoamérica y España), anglosajona u otras.</p>
+            <p>Citas y autocitas: número de citas del documento en Google Scholar a septiembre de 2017. Se utilizó este sistema por ser el más inclusivo en la evaluación del impacto de publicaciones académicas. Se consideró autocita cuando al menos uno de los autores de los trabajos coincide.</p>
+         </sec>
+         <sec>
+            <title>Propósito</title>
+            <p>Objetivos: meta principal en el caso de los textos empíricos y argumento central en el caso de los ensayos. Responde a la pregunta: ¿qué le interesa al autor conocer o analizar sobre el movimiento estudiantil?</p>
+            <p>Periodo: se refiere al periodo de tiempo que analiza el estudio.</p>
+            <p>Teorías: se refiere a las teorías referenciadas por el autor. Se encontró que las investigaciones empíricas y los ensayos teóricos se apoyaban en un conjunto similar de teorías, mientras que los ensayos demostrativos requerían otras categorías, pues la adscripción explícita a un enfoque teórico estaba habitualmente ausente en estos documentos.</p>
+            <p>Centralidad: se refiere a si el trabajo tiene al movimiento estudiantil como único objeto de estudio, o si tiene más de un objeto.</p>
+            <p>Método (esta dimensión solo se aplicó a las investigaciones empíricas).</p>
+            <p>Enfoque: se distinguió entre cuantitativo, cualitativo y mixto.</p>
+            <p>Alcance: exploratorio, descriptivo o correlacional.</p>
+            <p>Diseño: no experimental, cuasi experimental, experimental.</p>
+            <p>Datos: primarios o secundarios.</p>
+            <p>Muestreo: se distinguió entre censo (donde se estudia a todas las unidades de análisis), muestreo probabilístico, muestreo por cuotas o criterios teóricos, muestreo por conveniencia, o no especificado (no indicándose el procedimiento de selección de los sujetos).</p>
+            <p>Tamaño muestral: número total de sujetos de estudio.</p>
+            <p>Técnica de producción de información: entrevista individual o grupal, etnografía, historia de vida, observación, revisión sistemática o no sistemática, encuesta, estadísticas sociales (datos secundarios), otra.</p>
+            <p>Técnica de análisis de datos: estadística descriptiva, bivariada, multivariada, análisis longitudinal, análisis de discurso, análisis de contenido, teoría fundada, otra.</p>
+            <p>Para codificar los objetivos y teorías, que eran las categorías más difíciles de objetivar, se transcribieron lo más literalmente posible esos contenidos y luego se los clasificó en categorías deducidas inductivamente por parte del conjunto de investigadores.</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Resultados</title>
+         <p>De los 149 documentos seleccionados, 131 corresponden a artículos o capítulos de libros, a los que se aplicaron las tres dimensiones de análisis (características generales, propósito y método). Del resto solo pudieron describirse sus características generales. En tres casos ello se debió a que no fue posible obtener los artículos completos y solo se pudo trabajar con los resúmenes; en 13 casos se trató de libros completos, por lo que no aplicaban los criterios utilizados para evaluar la segunda y tercera dimensión, lo mismo que ocurrió en los dos casos en que se encontró estudios jurídicos o historiográficos.</p>
+         <sec>
+            <title>Características generales</title>
+            <p>
+               En la
+               <xref ref-type="table" rid="gt1">tabla 1</xref>
+               se presentan los resultados respecto del formato del documento (artículo, capítulo de libro o libro) y el tipo de texto (investigación empírica, ensayo teórico, ensayo demostrativo, no clasificable o no encontrado). Puede observarse claramente que el formato predominante es el artículo de revista científica y que el tipo de texto dominante es el ensayo, aunque con una presencia importante de estudios empíricos. La mayoría de los estudios empíricos son cualitativos (39 estudios, casi el 83%), seguidos por los mixtos (9 estudios, 19.1%) y una muy pequeña proporción de estudios puramente cuantitativos (3 estudios, 6.4%).
+            </p>
+            <p>
+               En la
+               <xref ref-type="table" rid="gt2">tabla 2</xref>
+               se muestra la indexación más selectiva que posee cada artículo de revista (considerando el mayor nivel de selectividad WOS, luego Scopus y finalmente SciELO). Puede observarse que la mayoría de los artículos son publicados en revistas indexadas. Sin embargo, un porcentaje no menor (46%) está publicado en revistas no indexadas o indexadas en bases poco selectivas. Por otro lado, se observa una asociación entre el tipo de texto y su indexación, siendo mayor la proporción de estudios empíricos que se publican en bases selectivas.
+            </p>
+            <p>Con relación al idioma de las publicaciones, el 71.8% de ellas están escritas en español y el 28.2% en inglés, lo que habla de un nivel de internacionalización minoritario, pero no despreciable, y que se asocia principalmente a publicaciones de niveles más exigentes de indexación (el 68.2% de las publicaciones indexadas en WOS están escritas en inglés) y a las investigaciones empíricas más que a los ensayos (el 41.2% de los estudios empíricos están escritos en inglés, frente al 23.8% de los ensayos).</p>
+            <p>Respecto de las autorías, sorprende la alta tasa de textos escritos por solo un autor (alcanzando el 67.2%) y escritos solo por autores con afiliación institucional chilena (66.4%), frente a una minoría de artículos escritos solo por autores de afiliación anglosajona (15.3%) o proveniente de otros países latinoamericanos (11.7%). Finalmente, solo una pequeña cantidad de los documentos (6.6%) corresponde a lo que podríamos llamar cooperación internacional, por tener autores chilenos y de otros países (latinoamericanos o anglosajones).</p>
+            <p>
+               Por su parte, la
+               <xref ref-type="fig" rid="gf1">Figura 1</xref>
+               muestra el porcentaje de textos según año de publicación, evidenciándose un aumento importante de la producción asociado a los periodos álgidos de protestas estudiantiles: los años 2006 y 2011.
+            </p>
+            <p>En cuanto al impacto de las publicaciones, medido a través del número de citas que tienen en Google Scholar, encontramos un promedio de 15 citas por artículo, lo cual es bastante alto. Sin embargo, se observa un rango muy amplio, con un máximo de citas por artículo de 216 y un mínimo de cero, lo que indica que el impacto de las publicaciones es muy heterogéneo. Además, la distribución posee una muy alta asimetría (4.7), lo que indica que el grueso de los textos tiene muchas menos citas que el promedio (el 67% de los textos tienen menos de 10 citas y menos del 7% tienen más de 50). Respecto a las autocitas, estas son más bien escasas, con una media de 1.4, y un rango que va de un máximo de nueve autocitas por artículo, a un mínimo de cero.</p>
+            <p>
+               <fig id="gf1">
+                  <label>Figura 1</label>
+                  <caption>
+                     <title>Figura 1. Porcentaje de textos publicados por año.</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00235-fig1.png" />
+                  <attrib />
+               </fig>
+            </p>
+            <p>
+               <table-wrap id="gt1">
+                  <label>Tabla 1</label>
+                  <caption>
+                     <title>Tabla 1. Formato y tipo de textos (porcentaje sobre el total de textos)</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00235-tab1.png" />
+               </table-wrap>
+            </p>
+            <p>
+               <table-wrap id="gt2">
+                  <label>Tabla 2</label>
+                  <caption>
+                     <title>Tabla 2. Indexación de los artículos de revista (% sobre el total de artículos)</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00235-tab2.png" />
+               </table-wrap>
+            </p>
+         </sec>
+         <sec>
+            <title>Propósito</title>
+            <p>
+               Esta dimensión se aplicó a los artículos y capítulos de libros, excluyéndose los libros. En la
+               <xref ref-type="table" rid="gt3">tabla 3</xref>
+               se describen los objetivos de los trabajos analizados. El porcentaje por columnas supera el 100 por ciento debido a que algunos textos poseen más de un objetivo.
+            </p>
+            <p>Como puede observarse, si bien hay objetivos compartidos entre las investigaciones empíricas y los ensayos (como estudiar las formas de acción colectiva y de organización del movimiento), en general ambos tipos de estudios parecen tener orientaciones bastante diferentes. Igualmente se aprecian diferencias importantes entre los ensayos teóricos y los demostrativos, estando estos últimos más interesados en aspectos propiamente políticos, como las demandas, discurso e incidencia del movimiento.</p>
+            <p>
+               Respecto al período de tiempo que se analiza en el texto, la
+               <xref ref-type="table" rid="gt4">Tabla 4</xref>
+               muestra que la gran mayoría de los documentos se centran en los eventos ocurridos en los años 2006 y 2011, sus consecuencias y/o antecedentes (el 89.3% de los estudios caen en esta categoría gruesa). El año 2001 en cambio, que también es considerado un hito en el movimiento, es apenas abordado.
+            </p>
+            <p>
+               En cuanto a las teorías utilizadas por los autores, estas han sido categorizadas para las investigaciones empíricas y los ensayos teóricos, no resultando aplicables a los ensayos demostrativos. En la
+               <xref ref-type="table" rid="gt5">tabla 5</xref>
+               se presentan los resultados según tipo de texto. El porcentaje por columnas supera el 100 por ciento pues algunos textos refieren más de una teoría.
+            </p>
+            <p>
+               Como muestra la
+               <xref ref-type="table" rid="gt5">tabla 5</xref>
+               , se aprecia un predominio de teorías de nuevos movimientos sociales y teorías políticas o de la participación política, tanto en los ensayos teóricos como en las investigaciones empíricas. Sin embargo, las investigaciones empíricas tienden a ser un poco más diversas en sus enfoques teóricos que los ensayos teóricos.
+            </p>
+            <p>
+               Para los ensayos demostrativos, para los que no fue posible identificar con claridad una teoría a la que el autor se adscribiera, se categorizaron las tesis que se pretende demostrar. Estas se presentan en la
+               <xref ref-type="table" rid="gt6">tabla 6</xref>
+               . El porcentaje supera el 100% porque algunos textos sostienen más de una tesis.
+            </p>
+            <p>Aunque a primera vista esta tabla pareciera reflejar una alta heterogeneidad en las tesis sostenidas por los autores, una mirada más detenida muestra que estas tesis pueden agruparse en solo dos grandes ideas. Por una parte, que la sociedad chilena ha sufrido importantes transformaciones, experimentando profundos cambios en su sentir y expresión política (las categorías: “aumento de la politización de la sociedad chilena”, “crisis del modelo neoliberal en Chile” y “aumento del malestar en la sociedad chilena”, agrupan tesis desarrolladas por el 75% de los estudios); y por otra, que el movimiento estudiantil ha experimentado grandes cambios, tanto a nivel de sus demandas como de sus formas de organización (las categorías “ampliación de la demanda estudiantil a contenidos sistémicos” y “constitución del movimiento estudiantil como nuevo actor político” agrupan tesis desarrolladas por el 44,6% de los estudios).</p>
+            <p>Respecto a si el texto se centra en el movimiento estudiantil chileno o solo lo aborda como parte de otros fenómenos, la gran mayoría de los estudios los tratan como tema central (77.9%), lo que indicaría que no se están analizando textos con estudios marginales a nuestro foco de investigación, sino directamente motivados por éste.</p>
+            <p>
+               <table-wrap id="gt3">
+                  <label>Tabla 3</label>
+                  <caption>
+                     <title>Tabla 3. Objetivos según tipo de texto (% sobre el total de cada tipo de texto)</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00235-tab3.png" />
+               </table-wrap>
+            </p>
+            <p>
+               <table-wrap id="gt4">
+                  <label>Tabla 4</label>
+                  <caption>
+                     <title>Tabla 4. Período estudiado.</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00235-tab4.png" />
+               </table-wrap>
+            </p>
+            <p>
+               <table-wrap id="gt5">
+                  <label>Tabla 5</label>
+                  <caption>
+                     <title>Tabla 5. Teorías empleadas en investigaciones empíricas y los ensayos teóricos(% sobre el total de cada tipo de texto).</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00235-tab5.png" />
+               </table-wrap>
+            </p>
+            <p>
+               <table-wrap id="gt6">
+                  <label>Tabla 6</label>
+                  <caption>
+                     <title>Tabla 6. Tesis de los ensayos demostrativos.</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00235-tab6.png" />
+               </table-wrap>
+            </p>
+         </sec>
+         <sec>
+            <title>Método</title>
+            <p>
+               Esta dimensión solo se aplicó a las investigaciones empíricas. En la
+               <xref ref-type="table" rid="gt7">tabla 7</xref>
+               se describen los principales aspectos metodológicos considerados. En los casos en que el porcentaje total es mayor al 100% se debe a que algunos documentos incluyen más de un estudio o más de una técnica.
+            </p>
+            <p>
+               Destaca en la
+               <xref ref-type="table" rid="gt7">tabla 7</xref>
+               el fuerte predominio de los estudios cualitativos y descriptivos con muestreos no probabilísticos y tamaños muestrales más bien pequeños. Como técnica de producción de información sobresalen las entrevistas y las revisiones, y como técnica de análisis, en los estudios cualitativos el análisis de discurso y en los cuantitativos la estadística descriptiva. En general, se observan estudios de bajo nivel de complejidad, tanto respecto a la evidencia empírica de que disponen, como de las formas en que la analizan.
+            </p>
+            <p>
+               <table-wrap id="gt7">
+                  <label>Tabla 7</label>
+                  <caption>
+                     <title>Tabla 7. Aspectos metodológicos.</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00235-tab7.png" />
+               </table-wrap>
+            </p>
+         </sec>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión</title>
+         <sec>
+            <title>Síntesis interpretativa de los resultados</title>
+            <p>
+               Con relación a las características generales de los estudios, podemos señalar que el año de publicación de los documentos muestra una fuerte relación entre la producción académica y la contingencia social, al encontrarse el mayor número de textos en los años siguientes a los dos hitos más relevantes del movimiento estudiantil chileno, para luego decaer al disminuir las protestas estudiantiles. Esto parece indicar que la investigación en este campo está guiada más por la necesidad de responder a la coyuntura y las demandas sociales, que a una agenda de investigación autónoma. Esto se evidencia además en la falta de un crecimiento sostenido en las producciones, como ha ocurrido en el estudio internacional de movimientos sociales (Roggerband y Klandermans.
+               <ext-link ext-link-type="uri" xlink:href="https://www.springer.com/gp/book/9780387709598">Handbook of social movements</ext-link>
+               ).
+            </p>
+            <p>
+               Por otro lado, la gran mayoría de los textos corresponden a artículos, lo que podría indicar que los investigadores sociales están adoptando los estándares de la ciencia actual, que privilegia ese tipo de formato. Sin embargo, la alta presencia de ensayos y el que un porcentaje importante de trabajos esté publicado en revistas sin indexación, podría ser indicador más bien de lo contrario, es decir, un campo poco desarrollado, tal como se ha diagnosticado para otras disciplinas (Ramos, Canales y Palestini.
+               <ext-link ext-link-type="uri" xlink:href="https://www.moebio.uchile.cl/33/ramos.html">El campo de las ciencias sociales en Chile</ext-link>
+               ).
+            </p>
+            <p>En cuanto al idioma y autoría de los documentos, se observa un bajo nivel de globalización e internacionalización del campo, pues: a) solo una pequeña minoría de los textos están escritos en inglés (y estos además están asociados a un tipo particular de indexación); b) la gran mayoría de los textos solo tienen un autor, que en su mayor parte está afiliado a instituciones locales; y c) es muy pequeña la proporción de producción internacional o en colaboración local-internacional.</p>
+            <p>Respecto al número de citas en Google Scholar, la alta tasa de citas promedio parece señalar que se trata de una producción de adecuado impacto, aunque este sea desigual. En cuanto a las autocitas, el bajo número promedio podría estar indicando que nos encontramos en presencia de un conjunto de investigadores con poca trayectoria previa en el campo de estudio, por lo que no tendría producción propia que citar.</p>
+            <p>En segundo lugar, respecto al propósito de las investigaciones, la alta tasa de estudios que se focalizan exclusivamente en el movimiento estudiantil nos confirma que estamos en presencia de un campo de estudio con un objeto definido. Esto podría indicar la consolidación de objetos interdisciplinarios que congregan académicos de distintas disciplinas, cuyo núcleo es un sujeto o problema, rompiendo con la compartimentación de las ciencias sociales.</p>
+            <p>Con respecto a los objetivos de las investigaciones, destaca la diferencia de propósitos que tienen las investigaciones empíricas y los ensayos, centrándose las primeras en la caracterización del movimiento y sus actores, y los segundos en las relaciones entre el movimiento y otros sistemas sociales. También es importante señalar que los ensayos también son heterogéneos internamente, preocupándose más de temáticas políticas, los que llamamos “demostrativos”. Esta segmentación interna, y sobre todo el acento de los ensayos demostrativos en temas políticos con poca vinculación académica, podrían indicar una débil profesionalización del campo de investigación.</p>
+            <p>Respecto del período estudiado, se observa un claro predominio de estudios focalizados exclusivamente en los dos hitos más reconocidos del movimiento, en desmedro de investigaciones que aborden períodos más extensos o momentos distintos a los apogeos de movilización. Este dato también podría estar dando cuenta de una dependencia de la contingencia política y mediática en el campo de estudio.</p>
+            <p>
+               En cuanto a las teorías utilizadas en las investigaciones empíricas y los ensayos teóricos, pudieron identificarse tanto a un conjunto de conceptos, definiciones y proposiciones interrelacionados que presentan una perspectiva sistemática de los fenómenos, como a aquellas generalizaciones que establecen relaciones entre variables en base a hallazgos empíricos. Esto evidencia la heterogeneidad de lo que se puede considerar teoría en ciencias sociales (Abend.
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-9558.2008.00324.x">The meaning of theory</ext-link>
+               ).
+            </p>
+            <p>En los ensayos demostrativos no fue posible identificar teorías en las que se basaran los autores, por lo que se distinguieron las tesis que se ponen a prueba. Estas tesis pueden agruparse bajo dos grandes categorías: que se han producido importantes transformaciones en la sociedad chilena y que se han producido importantes transformaciones en el movimiento estudiantil. Esta homogeneidad podría indicar que se está intentando responder a la demanda social por comprender las particularidades, causas y consecuencias del movimiento estudiantil, pero con respuestas que se alejan de lo que se entiende tradicionalmente por producción académica, tendiendo a omitir la teoría y a hacer propuestas más bien políticas. Es posible que el fuerte impacto y repentina irrupción del movimiento estudiantil en el espacio político aumentaran la presión social por la rápida comprensión del fenómeno, abriendo oportunidades de investigación y publicación para parte de la comunidad académica que normalmente no realiza investigación empírica y cuyo compromiso con la construcción de conocimiento está vinculado a su compromiso político.</p>
+            <p>Finalmente, con relación al método de las investigaciones, estas también parecieran dar cuenta de un campo que no tendría la complejidad requerida para insertarse en los circuitos internacionales de producción científica dominantes. La mayor complejización se observa en estudios cualitativos en que se utilizan técnicas de análisis más complejas, como el análisis de discurso. Sin embargo, estos trabajos presentan otras debilidades, como no especificar y/o justificar el tamaño muestral, la técnica de muestreo o de producción de datos, entre otros. Creemos que esto podría indicar que una parte de la comunidad académica dispone solo parcialmente de las herramientas sistemáticas para realizar investigación empírica tal como se exige actualmente en los circuitos internacionales o que la premura por publicar incentivó la realización de investigaciones con menor nivel de complejidad.</p>
+         </sec>
+         <sec>
+            <title>Discusión general</title>
+            <p>En cuanto a la forma en que las ciencias sociales (especialmente chilenas) están cumpliendo su rol de conciencia crítica y al impacto que han tenido los procesos de internacionalización, globalización, profesionalización y complejización que experimentan estas disciplinas en América Latina, podemos señalar que los resultados de la presente investigación aportan evidencia contradictoria, pero que permite caracterizar de manera más clara estos fenómenos en un campo de investigación específico.</p>
+            <p>En primer lugar, la producción de los académicos en el estudio del movimiento estudiantil chileno es fragmentada, pues si bien un conjunto de las producciones parecen estar avanzando hacia mayores niveles de internacionalización, globalización, profesionalización y complejización, lo que es especialmente distinguible entre las investigaciones empíricas que se publican en revistas indexadas en bases selectivas, en idioma inglés, con más coautorías (incluso algunas internacionales) y apoyándose en técnicas de mayor nivel de complejidad, otro conjunto mayoritario de producciones parece anclada en responder al rol de crítica social, produciendo documentos de menor nivel de complejidad, posiblemente dirigidos a públicos más amplios y centrados en dar una respuesta rápida a preguntas sobre el significado de este movimiento social. Como hemos visto, este último grupo de publicaciones corresponde más bien a los ensayos, especialmente los que hemos denominado demostrativos.</p>
+            <p>Es posible que frente a las presiones y demandas que reciben actualmente las ciencias sociales, sea completamente natural la fragmentación que hemos encontrado, pues hay contradicciones entre las demandas por “modernización” y las demandas por conocimiento crítico. Por tanto, la fragmentación de este campo no es un problema en sí mismo. La crítica que se puede realizar tiene que ver con la calidad con que ambos grupos de publicaciones están respondiendo a sus respectivas demandas, y sobre ello creemos que se evidencian procesos de desarrollo insuficientes.</p>
+            <p>Por un lado, aquellos artículos que están respondiendo a la demanda por internacionalización, globalización, profesionalización y complejización lo hacen en forma insuficiente, pues su producción: a) no parece apuntar a los más altos niveles de indexación; b) no posee el nivel de colaboraciones y coautorías que permitirían integrarse a comunidades académicas internacionales; c) no posee en general un nivel de complejidad en técnicas de investigación (técnicas de análisis y muestreo especialmente), que les permita insertarse adecuadamente en el circuito de producción internacional.</p>
+            <p>Por otra parte, tampoco pareciera que aquellos artículos que intentan responder a la demanda por conocimiento crítico estén logrando cabalmente dicho objetivo, pues: a) los documentos estudiados contienen un diagnóstico muy homogéneo diagnosticando transformaciones sistémicas a partir de análisis temporalmente muy puntuales; b) existe una alta dependencia de la producción académica respecto de la coyuntura del evento estudiado (aumentando o disminuyendo el número de publicaciones al ritmo del movimiento), lo que si bien muestra una comunidad que responde rápidamente a una demanda social, también evidencia una baja capacidad de consolidar ese interés; c) la evidencia empírica en que se apoya este tipo de producción es de baja complejidad, pues se hace muy poca referencia a datos sistemáticos que permitieran mayor respaldo cuando se diagnostica transformaciones sistémicas; y d) poseen un relativamente bajo nivel de complejidad teórica, al centrarse sobre todo en diagnósticos políticos.</p>
+            <p>
+               En consecuencia, el campo como conjunto evidencia un nivel de desarrollo insuficiente que es similar al descrito para la sociología chilena de hace más de 10 años (Ramos.
+               <ext-link ext-link-type="uri" xlink:href="http://repositorio.uahurtado.cl/handle/11242/4005">Cómo investigan los sociólogos chilenos</ext-link>
+               ). Desde el punto de vista normativo creemos que esta situación pone un desafío a los investigadores: aumentar el nivel de complejidad de sus estudios para responder más adecuadamente a las demandas que recibe.
+            </p>
+            <p>
+               Los resultados de esta investigación contrastan con los procesos de profesionalización y complejización descritos para otros campos de estudio de las ciencias sociales chilenas (Bruner y Salazar.
+               <ext-link ext-link-type="uri" xlink:href="http://www.brunner.cl/?p=1303">La investigación educacional en Chile</ext-link>
+               , Villalobos.
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/924/92447592002.pdf">Lógicas y modos de producción de conocimiento</ext-link>
+               ), con lo que se confirma la dificultad de generalizar al respecto. No existe un solo proceso en marcha en las ciencias sociales, sino que, al interior de una misma disciplina, y en un mismo contexto, pueden coexistir distintos niveles de desarrollo. Una hipótesis que podemos desprender de estos datos es que podrían coexistir dos tipos de campos en las ciencias sociales: (a) aquellos políticamente y mediáticamente menos visibles y (b) aquellos con mayores niveles de impacto social y repercusiones políticas. Es posible que en los segundos sea mucho mayor el nivel de demanda que la sociedad hace a las ciencias sociales para comprender dichos fenómenos, lo que podría tender a generar una fragmentación entre quienes responden esa demanda crítica y quienes se intentan insertar en los circuitos académicos internacionales actuales.
+            </p>
+         </sec>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Burawoy, M.(2005). "For public sociology".
+               <italic>American Sociological Review . 70</italic>
+               (1), 4-28. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/000312240507000102">https://doi.org/10.1177/000312240507000102</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Burawoy</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>For public sociology</article-title>
+               <source>American Sociological Review</source>
+               <volume>70</volume>
+               <issue>1</issue>
+               <fpage>4</fpage>
+               <lpage>28</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/000312240507000102">https://doi.org/10.1177/000312240507000102"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Donoso, S. (2016).
+               <italic>When social movements become a democratizing force: the political impact of the student movement in Chile</italic>
+               . En Davies, T., Ryan, H., Milcíades, A (autor.);Protest, social movements and global democracy since 2011: new perspectives.  (167-196). London: Emerald
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Donoso</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>When social movements become a democratizing force: the political impact of the student movement in Chile</chapter-title>
+               <year>2016</year>
+               <source>Protest, social movements and global democracy since 2011: new perspectives</source>
+               <publisher-name>Emerald</publisher-name>
+               <fpage>167</fpage>
+               <lpage>196</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Garretón, M.(2005). "Social sciences and society in Chile: institutionalization, breakdown and rebirth".
+               <italic>Social Science Information. 44</italic>
+               (2-3), 359-409. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0539018405053292">https://doi.org/10.1177/0539018405053292</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Garretón</surname>
+                     <given-names>M.A</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Social sciences and society in Chile: institutionalization, breakdown and rebirth</article-title>
+               <source>Social Science Information</source>
+               <volume>44</volume>
+               <issue>2-3</issue>
+               <fpage>359</fpage>
+               <lpage>409</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0539018405053292">https://doi.org/10.1177/0539018405053292"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Gingras, Y., Mosbah-Natanson, S. (2010).
+               <italic>¿Dónde se producen las ciencias sociales?</italic>
+               . En Caillods, F (autor.);Informe sobre las ciencias sociales en el mundo. Las brechas del conocimiento.  (153-158). Ciudad de México: UNESCO
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gingras</surname>
+                     <given-names>Y</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mosbah-Natanson</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>¿Dónde se producen las ciencias sociales?</chapter-title>
+               <year>2010</year>
+               <source>Informe sobre las ciencias sociales en el mundo. Las brechas del conocimiento</source>
+               <publisher-name>UNESCO</publisher-name>
+               <fpage>153</fpage>
+               <lpage>158</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Hazelkorn, E.,  (2009).
+               <italic>Impact of global rankings on higher education research and the production of knowledge</italic>
+               .  Paris, UNESCO Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000181653">https://unesdoc.unesco.org/ark:/48223/pf0000181653</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hazelkorn</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Impact of global rankings on higher education research and the production of knowledge</source>
+               <publisher-loc>UNESCO</publisher-loc>
+               <publisher-name />
+               <ext-link ext-link-type="uri" xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000181653">https://unesdoc.unesco.org/ark:/48223/pf0000181653"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

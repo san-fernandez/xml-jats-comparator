@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000300339</article-id>
+			<article-id pub-id-type="publisher-id">00009</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Epistemología de las ciencias sociales en la filosofía de la liberación de Enrique Dussel</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Social science epistemology on Enrique Dussel philosophy of liberation</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Retamozo</surname>
+						<given-names>Martín</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">CONICET/UNLP (La Plata, Argentina) ORCID: 0000-0001-8778-7667.</institution>
+					<institution content-type="normalized">Consejo Nacional de Investigaciones Científicas y Técnicas</institution>
+					<institution content-type="orgname">CONICET</institution>
+					<addr-line>
+						<named-content content-type="city">La Plata</named-content>
+					</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Correspondencia: <email>martin.retamozo@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<month>12</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>60</issue>
+			<fpage>339</fpage>
+			<lpage>345</lpage>
+			<history>
+				<date date-type="received">
+					<day>23</day>
+					<month>04</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>14</day>
+					<month>06</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>La filosofía de la liberación de Enrique Dussel ha propuesto a la analéctica como su método de reflexión filosófica. Sin embargo, a la hora de pensar una epistemología para las ciencias sociales críticas (consistente con esta filosofía) se evidencian varios temas no estudiados. Este artículo propone observar tres de estos aspectos epistemológicos claves: la construcción de la objetividad, el criterio de demarcación y de verdad, y la lógica de la investigación. A partir de identificar alcances y limitaciones en el tratamiento del tema en la obra de Dussel, se espera contribuir a clarificar la agenda para una fundamentación de las ciencias sociales críticas en el paradigma de la filosofía de la liberación.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>The philosophy of liberation of Enrique Dussel has proposed analectic as its philosophical method. However, when thinking about an epistemology for critical social sciences (coherent with this philosophy) several unresolved topics are evident. This article aims to observe three of them: the construction of objectivity, the criteria of demarcation and truth, and the logic of research. This article analyses three of these key epistemological aspects: the construction of objectivity, the criterion of demarcation and truth, and the logic of research. In this way, it is expected to contribute to clarify the agenda for a foundation of critical social sciences in the paradigm of the philosophy of liberation.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>filosofía de la liberación</kwd>
+				<kwd>analéctica</kwd>
+				<kwd>epistemología</kwd>
+				<kwd>metodología</kwd>
+				<kwd>ciencias sociales.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>philosophy of liberation</kwd>
+				<kwd>analectic</kwd>
+				<kwd>epistemology</kwd>
+				<kwd>methodology</kwd>
+				<kwd>social sciences.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="7"/>
+				<page-count count="7"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>A principios de la década del setenta del siglo pasado, un conjunto de jóvenes filósofos comenzó a gestar un proyecto orientado a fundar una filosofía propia de América Latina. Una filosofía que asumiera como desafío central la elaboración de un pensamiento enfocado en las realidades latinoamericanas y no en meros saberes escolásticos. Esta búsqueda de autenticidad, sin embargo, no implicó un desconocimiento de la tradición del pensamiento filosófico occidental -presente en la formación académica de cada uno de ellos- por el contrario, les sirvió como un insumo para establecer un vínculo crítico con las principales corrientes teóricas del siglo XX como la fenomenología, el existencialismo y el marxismo. La Filosofía de la Liberación, como comenzó a conocerse, estableció, a su vez, un diálogo fructífero tanto con la Teología de la Liberación como con incipientes emergencias en el campo de las ciencias sociales latinoamericanas como la <italic>sociología de la liberación</italic> de Fals Borda, la <italic>pedagogía del oprimido</italic> de Paulo Freire y la <italic>teoría de la dependencia</italic>. Además, la nueva corriente se nutrió de una relectura de las experiencias periféricas y subalternas por fuera de los desarrollos historiográficos dominantes y una atención a los procesos histórico-políticos contemporáneos a su tiempo, materializados en movimientos de liberación nacional, descolonizadores, de género, raciales, obreros, estudiantiles, etc.</p>
+			<p>Uno de los aspectos cruciales para la nueva empresa fue la construcción de un método (en el sentido, incluso etimológico, de transitar un camino) acorde a sus propósitos: la analéctica como referencia al proceso positivo en la dialéctica negativa. En efecto, la cuestión del método de reflexión filosófica, pero también con pretensiones de metodología de las ciencias sociales, fue escenario privilegiado para las rupturas propuestas por la nueva corriente y origen de algunos de sus aportes más sugerentes. Prueba de esta centralidad son los textos fundacionales como <italic>El método analéctico y la filosofía latinoamericana</italic> (1972) y <italic>Método para una filosofía de la liberación: superación analéctica de la dialéctica hegeliana</italic> (1974) de Enrique Dussel, quien es, sin dudas, el mayor exponente de esta perspectiva. Ahora bien, podemos considerar que en el debate sobre el método en la obra de Dussel se han superpuesto dos cuestiones que es productivo distinguir analíticamente. En un sentido, la discusión sobre el método opera en el terreno teórico como una alternativa al punto de partida de la filosofía (y la metafísica) occidental y consistente con una ética y una ontología crítica. En otro sentido, aunque relacionado, predica de aspectos procedimentales coherentes con la ruptura teórica (ética y ontológica) y que, con base en los esbozos metodológicos de Marx, Dussel desarrolló hacia los años ochenta. Este segundo aspecto es lo que constituiría el aporte estrictamente metodológico de la Filosofía de la Liberación para fundar un programa de ciencias sociales críticas. En este horizonte, este artículo propone un estudio de tres aspectos epistemológicos clave -la construcción de la objetividad, el criterio de demarcación y de verdad, y la lógica de la investigación- cuyos desarrollos son tan claves para un programa crítico como insuficientemente desarrollado en la obra del filósofo latinoamericano.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>Metodología en la filosofía de la liberación</title>
+			<p>La gran ruptura de la Filosofía de la Liberación consiste en la concepción de una nueva ontología que pone en cuestión la relación entre Ser y Verdad establecida por la filosofía occidental. El punto de partida en el no-ser, en la negatividad, en la exterioridad corporizada en la víctima permite una crítica a la totalidad vigente. En este sentido: “el momento analéctico del método dialéctico parte de la categoría de ‘exterioridad’, categoría ética por excelencia y crítica por antonomasia” (<xref ref-type="bibr" rid="B1">Dussel 1983</xref>:36) para establecer un horizonte nuevo, que puede develar los mecanismos de producción del orden vigente, las negatividades producidas (como exclusión, subordinación y explotación) y lo potencial reprimido en la totalidad. El quiebre que se había dado en el campo filosófico se plasmó, hacia los años ochenta, en un intento de fundamentar una epistemología y una metodología de las ciencias sociales críticas acorde a la ruptura en el campo ontológico, ético y político que propone la Filosofía de la Liberación. Esto implicó dar respuestas a preguntas por la problematización y la objetividad; el criterio de demarcación y el criterio de verdad; y la metodología de la investigación, temas que abordaremos continuación.</p>
+		</sec>
+		<sec>
+			<title>Campo problemático y objetividad</title>
+			<p>Tomar como punto de partida al Otro (el excluido, el negado, la “víctima”) no es solo una opción ética, sino que constituye un punto de vista privilegiado en tanto construye un ángulo de mirada capaz de abordar la totalidad vigente pero también lo negado por ella. En este sentido, la concepción ontológica y ética sobredetermina a los problemas epistemológicos. Así, el criterio material de la “vida” constituye el posicionamiento ético y fundamenta la práctica política, pero también tiene una función epistémica heurística que permite visibilizar la positividad vigente, lo negativizado (como no ser) y lo potencial contenido en ese no ser. El punto de partida en el no-ser de la totalidad vigente (la víctima) propiciado por la decisión ético-política instala un campo de inteligibilidad diferente al horizonte posible si se asume una posición desde las figuras dominantes. La consecuencia de este movimiento es la ampliación del campo de objetos, el cual, como dice <xref ref-type="bibr" rid="B7">Hugo Zemelman, “no da por establecida ninguna clase de atributos o propiedades, sino que sirve para transformar una concepción ontológica en una función epistemológica” (1992</xref>:135).</p>
+			<p>Dice <xref ref-type="bibr" rid="B1">Dussel: &quot;las condiciones de la objetividad de un conocimiento posible se originan en la praxis, como la totalidad de las prácticas mundanas, ya que el mismo interés depende de las acciones. De otra manera, la condición de posibilidad de la constitución de la objetividad del objeto pende del proyecto fundamental práctico de una sociedad, de un grupo, del mismo individuo articulado en ellos. El interés abre el horizonte de la posible constitución de los objetos del conocimiento. Podríamos decir que más allá del horizonte actual de inteligibilidad o de constituibilidad objetiva no es posible real y concretamente” (1983</xref>:313).</p>
+			<p>En este tema es explícita la radicalización que el autor hace del Habermas de <italic>Conocimiento e interés</italic> y sus tesis sobre los intereses constitutivos del conocimiento. Sin embargo, luego del giro ontológico, el interés ya no se limita a un tipo de racionalidad (técnico, práctico, crítico), sino que tiene como referencia la comunidad de víctimas. En consecuencia: “Dado un sujeto cognoscente (s<sup>1</sup>) que efectúa una praxis de dominación (d) sobre otro sujeto cognoscente (S<sup>2</sup>), la constitución de la objetividad del objeto (O<sup>1</sup>) es diversa, porque la relación de fundamentalidad práctica (a) parte de otro horizonte de orientación interesada fundamental (I<sup>1</sup>), que en el caso del oprimido (S<sup>2</sup>) que conoce al objeto (O<sup>1</sup>) desde una utopía de liberación (l<sup>2</sup>) que objetualiza de otra manera al objeto conocido (b)” (<xref ref-type="bibr" rid="B1">Dussel 1983</xref>:316).</p>
+			<p>En este sentido, aunque la referencia última parezca común a las diferentes opciones en el campo de las ciencias sociales (el mundo de la vida), el posicionamiento ético y la intencionalidad de los agentes congnoscitivo-volitivos producirán una objetividad (como campo de objetos posibles) distinta, <italic>informada</italic> por la praxis que constituye la condición trascendental del conocimiento posible. Pensar desde la exterioridad, o negatividad del sistema vigente, y orientado por un interés emancipador hace que el conocimiento crítico instale horizontes de inteligibilidad superadores del situado en la práctica del dominador (y así se obtenga un status epistemológico privilegiado). De este modo es la subjetividad práctico-científica la que constituye la objetividad en tanto subjetividad portadora del conjunto de prácticas que hace posible el conocimiento. Ahora bien, esto sitúa dos problemas. El primero originado en que la instauración de un horizonte de objetos posibles para el pensamiento crítico no resuelve el problema metodológico de cómo producir conocimiento a partir de ese cambio de perspectiva. El segundo involucra tanto las condiciones de verdad del conocimiento producido como la rivalidad con otros conocimientos. Asumir el punto de partida desde la negatividad del ser (como constitutivo) es una condición necesaria del pensamiento crítico, pero no suficiente, se requiere, además, el tratamiento del criterio de verdad y el de demarcación tanto como de los aspectos estrictamente metodológicos.</p>
+		</sec>
+		<sec>
+			<title>Conocimiento y praxis. El problema de la demarcación y el criterio de verdad</title>
+			<p>Aunque la fundamentación del conocimiento crítico es un <italic>leitmotiv</italic> de la obra de Dussel, sus reflexiones escasamente se centraron en el nivel de la epistemología de las ciencias sociales. El trabajo <italic>El programa científico de K. Marx: ciencias social, funcional y crítica</italic> es una interesante excepción en la que se expone con claridad el criterio de demarcación propuesto por nuestro filósofo. Dussel plantea la necesidad de pensar criterios que operen sucesivamente en tres campos. El primero para distinguir entre ciencia y pseudociencia; el segundo entre ciencias de la naturaleza y ciencias humanas (o sociales); y el tercero entre ciencias humanas (o sociales) críticas y ciencias humanas (o sociales) estándar. </p>
+			<p>En lo que concierne al primer criterio no se ofrecen demasiados argumentos más que seguir el itinerario “clásico” en la filosofía de la ciencia contemporánea que recorre desde Popper hasta Lakatos pasando por Kuhn y Feyerabend, el cual indudablemente ha llevado “posiciones más complejas, empíricas, históricas, y menos ideológicas” (<xref ref-type="bibr" rid="B3">Dussel 2001</xref>:282). El segundo criterio es abordado también desde el debate tradicional entre explicación y comprensión hacia su superación. Inscripto en la tradición hermenéutica, Dussel hace referencias a Gadamer, Ricoeur, Von Wright y Apel en un intento por incluir tanto la lógica de la explicación como de la comprensión como constitutivas de las ciencias sociales. La breve sección dedicada a este criterio no se explaya en el tratamiento del tema, aunque podemos registrar que entre ambas ciencias hay un tipo de inferencia compartida (la explicativa) y una exclusiva de las ciencias humanas y sociales (la comprensiva). Sin embargo, Dussel no prosigue el debate, quizás, porque lo que le interesa es el tercer criterio. </p>
+			<p>La fundamentación de las ciencias sociales críticas y sus condiciones de posibilidad son tareas centrales de la Filosofía de la Liberación en el plano epistemológico. Este tercer criterio de demarcación, para nuestro autor: “se encuentra en el ámbito de la lógica del descubrimiento, más que en la lógica de la explicación. Se trata de las condiciones de posibilidad para poder desarrollar un programa de investigación que denominaremos <italic>crítico</italic>” (<xref ref-type="bibr" rid="B3">Dussel 2001</xref>:284). El status de cientificidad está en cuestión en los casos del marxismo, la pedagogía del oprimido y el psicoanálisis lo que -a juicio de Dussel- muestra su carácter disruptor frente a los patrones hegemónicos de la producción de saberes. El tercer criterio sigue la concepción abierta por la Escuela de Frankfurt sobre la necesidad de un conocimiento crítico que parta de la negatividad y la materialidad. Esto es coherente con el giro ontológico de la Filosofía de la Liberación, con los postulados ético-críticos y con el criterio de objetividad. Este criterio establece la posibilidad de fundar un conocimiento crítico y material. Ese punto de partida coincide con el giro ontológico porque será la negatividad de la vida de las víctimas del sistema el inicio de la reflexión, es decir, subsume el principio material ético-crítico. </p>
+			<p>Asimismo, agrega <xref ref-type="bibr" rid="B3">Dussel: “Pero<italic>crítica</italic>es una teoría científico-social no solo por la posición<italic>teórica</italic>de lo negativo-material, sino -y esto es constitutivo de la<italic>crítica</italic>(criterio de demarcación, entonces)- por el ‘ponerse de parte’ efectiva y<italic>prácticamente</italic>‘junto’ a la víctima, y no solo en posición observacional participativa -como el antropólogo descripto por Peter Winch- sino como el co-militante que entra en el horizonte práctico de la víctima (negatividad-material) al que se decide a servir por medio de un programa de investigación científico-<italic>crítico</italic>(‘explicativo’ de las ‘causas’ de su negatividad)” (2001</xref>:286).</p>
+			<p>La posibilidad de una ciencia crítica, entonces, no estará dada, inicialmente, por particularidades metodológicas, sino por un posicionamiento ético-político y una actitud (e incluso un sentimiento) de compasión. En efecto, el tercer criterio de demarcación radica en una decisión de ubicarse junto a las víctimas y asumir, dice Dussel, “la responsabilidad de los «intelectuales orgánicos” (…) que intenta[n] «explicar» las <italic>causas</italic> (como científico social) de la negatividad de dichas víctimas [y] está obligado en cierta manera a inventar <italic>nuevos</italic> paradigmas, <italic>nuevas</italic> explicaciones (y aun nuevas interpretaciones hermenéuticas en la posición de la «comprensión») al descubrir <italic>nuevos</italic> hechos antes inobservados (e inobservables) en el mundo en el que se interna por una decisión ético-práctica (frecuentemente política que le abre nuevos horizontes)” (<xref ref-type="bibr" rid="B2">Dussel 1998</xref>:445). Este criterio de demarcación generó encendidos debates. Algunos que disputaron la lectura correcta de Marx, otros como los enunciados por Ariel Petruccelli en un texto crítico titulado <italic>¿Ciencias sociales críticas? Notas en torno a un artículo de Dussel ¿un nuevo criterio epistemológico de demarcación?</italic>, que repararon en lo insuficiente de tomar la postura del lado de las víctimas como un criterio definitivo para juzgar el conocimiento crítico.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>Hacia una metodología de la filosofía de la liberación</title>
+			<p>La reflexión sobre el método para las ciencias sociales se desarrolló en la Filosofía de la Liberación a partir de la lectura sistemática de Marx, que redundó en una serie de obras de Dussel como <italic>La producción teórica de Marx</italic> de 1985, <italic>Hacia un Marx desconocido: un comentario de los manuscritos del 61-63</italic> de 1988 y <italic>El último Marx (1863-1882) y la liberación latinoamericana: un comentario a la tercera ya la cuarta redacción de El Capital</italic> de 1990, en las que además de ofrecer una apropiación “latinoamericana” de Marx se ocupó de trabajar estrictamente el método científico a través de un minucioso análisis de la sección clásica “El método en la economía política” recogido en los <italic>Grundrisse.</italic></p>
+			<p>En aquel célebre pasaje, <xref ref-type="bibr" rid="B6">Marx y Engels enuncian el método correcto como aquel que se inicia en <italic>Realen und Konkreten</italic> o como lo había enunciado en <italic>La ideología alemana</italic>: “La primera premisa de toda historia humana es, naturalmente, la existencia de individuos humanos vivientes” (1970</xref>:19) y que incluye el famoso “ascenso a lo concreto”. En la versión de Dussel, el punto de partida es la real y concreta situación de los oprimidos y negados por la totalidad vigente: el proletariado, las mujeres, los niños, las comunidades originarias, etc., es decir, todo aquel al que se le niega <italic>en mayor medida</italic> su vida. Ahora bien, el tránsito desde lo abstracto (e indeterminado) hacia lo concreto implica partir de una visión caótica, donde no se puede establecer -en este primer momento- el conjunto de determinaciones que producen esa realidad. </p>
+			<p>A partir de lo abstracto, como primera “impresión” fenoménica, e incluso como conjunto de información para construir datos, de lo que se trata es de proceder a la articulación de dimensiones en “la totalidad concreta que los comprende, abarca, funda: la esencia concreta de todos ellos” (<xref ref-type="bibr" rid="B1">Duseel 1983</xref>:320). Este proceder depende de la producción teórica, es decir, de la capacidad de elaborar conceptos y categorías que reconstruyan lo que Marx llamó la ley interna del desarrollo del objeto. Allí opera una necesidad de abstracción, no ya en el sentido de “indeterminación” como se predicaría ontológicamente, sino como mediación hacia lo concreto (lo que equivaldría a una función estrictamente metodológica de la abstracción), en palabras de <xref ref-type="bibr" rid="B1">Dussel: “La referencia del caos abstracto a la totalidad concreta esta mediado por la construcción de categorías, del paradigma, el que, por otra parte, se está reconstruyendo permanentemente” (1983</xref>:320).</p>
+			<p>Dice Dussel, siguiendo a Marx: “las <italic>determinaciones</italic> constitutivas de la esencia (<italic>Wesen</italic>) conforman el concepto, <italic>determinan su contenido</italic> (<italic>Inhalt</italic>). De otra manera: las ‘diferentes partes objetivas (<italic>gegenständlichen Bestandtheile</italic>)’ […] son abstraídas, o separadas como determinaciones abstractas con las que se desarrolla el concepto [mientras que] las categorías indican un momento del mismo concepto, constituidas por el entendimiento representativo (es el momento analítico; en cambio el conceptuar es dialéctico), como instrumento de interpretación y como parte de un sistema, como un momento del discurso dialéctico. Las determinaciones, por su parte, son el contenido singular representativo de las categorías, que constituyen el discurso sistemático, científico” (<xref ref-type="bibr" rid="B4">Dussel 2006</xref>:1). Esta distinción entre categoría y conceptos es central en el estudio de los procesos sociales como “descubrimiento” de sus determinaciones internas. Es decir, no se trata de nominar procesos sino de postular movimientos capaces de aprehender el devenir de lo histórico dándose, de lo positivo, lo negado y lo por venir. Conocer las determinaciones de un objeto (qua relaciones sociales objetivadas) no implica un determinismo monocausal, sino reconocer la complejidad de la “determinación determinante determinada” (1998:233) o “determinación determinada determinante” (<xref ref-type="bibr" rid="B5">2016</xref>:70). En este sentido, no existe una causa primera (incausada), sino que la realidad social es resultante de una serie de procesos interconectados de diversa manera y cuya dinámica es posible reconstruir. El procedimiento incluye esta mediación abstracta de la teoría para el regreso a lo concreto-referente: el proceso histórico. Sin embargo, ya no como un mero saber, sino como praxis. Marx refiere con “volver sobre nuestros pasos”, pero Dussel lo radicaliza a partir de la tesis II sobre Feuerbach del propio Marx: <italic>El problema de si al pensamiento humano se le puede atribuir una verdad objetiva, no es un problema teórico, sino un problema práctico. Es en la práctica donde el hombre tiene que demostrar la verdad, es decir, la realidad y el poderío, la terrenalidad de su pensamiento. El litigio sobre la realidad o irrealidad de un pensamiento que se aísla de la práctica, es un problema puramente escolástico</italic>.</p>
+			<p>Allí es donde nos encontramos con un problema epistemológico clásico y central: en torno al criterio de validación de un conocimiento producido bajo estas premisas en un escenario contemporáneo posempirista que, entre otras cosas, no reconoce un criterio correspondentista de verdad. El desafío es, entonces, elaborar criterios de demarcación y validez consistentes con la propuesta de la Filosofía de la Liberación que no pierdan su criticidad ni si rigurosidad y una metodología consistente con estos postulados.</p>
+		</sec>
+		<sec>
+			<title>Corolario. En busca de método(logía) para los estudios latinoamericanos</title>
+			<p>La ruptura de la Filosofía de la Liberación se constituye en asumir un punto de partida ético, ontológico, metafísico, político y metodológico en la negatividad. Ético porque parte de la asunción de la vida como principio ético que es negado por la positividad vigente. Ontológico porque reformula la relación entre el ser y el no-ser otorgando mayor verdad y realidad al no-ser (lo negado). Metafísico porque constituye una dialéctica positiva que puede ir más allá de la presencia al concebir lo negado y lo por-venir como entidades. Político porque la afirmación de lo negado (la vida) otorga materialidad a los futuros posibles. Finalmente, metodológico, porque asumir los puntos anteriores instaura condiciones de producción de conocimiento inédito. Desde sus comienzos, la Filosofía de la Liberación se preocupó por establecer una ruptura metodológica en lo que concierne al modo de hacer filosofía desde la periferia. Ahora bien, la pretensión inmanente de producir un conocimiento político alentó una serie de reflexiones para fundamentar un programa de ciencias sociales que produzca un conocimiento válido, legítimo y crítico. Válido por su pretensión de verdad, legítimo por su inserción en el campo académico y crítico por los efectos buscados sobre el orden hegemónico. </p>
+			<p>Este cambio de ángulo tiene efectos epistemológicos ya que hace inteligibles aspectos de la realidad social que no pueden ser visualizados desde la racionalidad dominante. A esto nos hemos referido como la ampliación del campo de objetos posibles en una expansión de la objetividad. Sin embargo, la apertura a una nueva constelación o configuración de la realidad (que incluye lo positivo, lo negado y lo todavía-no) no resuelve el problema estrictamente metodológico. </p>
+			<p>Dussel da un paso decisivo cuando incorpora las directrices epistémicas de Marx. El punto de partida de la investigación se sitúa en lo real y concreto, sin embargo, esto se muestra a la representación como algo caótico y abstracto (en el sentido de indeterminado). Allí comienza la intervención cognoscitiva que incluye la producción de mediaciones categoriales y conceptuales para dar cuenta del proceso de configuración de una realidad dada y a la vez en movimiento. Esta sugerencia avanza en el terreno epistemológico ya que nos brinda una lógica de investigación, pero no resuelve ni el problema metodológico ni otros como el criterio de verdad y demarcación. </p>
+			<p>El desarrollo metodológico de la propuesta de la Filosofía de la Liberación para las ciencias sociales críticas se presenta insuficientemente presentado en la propuesta dusseliana. Esto se debe, en parte, a la relativamente escasa influencia que ha tenido la propuesta de la Filosofía de la Liberación en el campo de las ciencias sociales, a pesar de las extensas prácticas investigativas con comunidades subalternas (poscoloniales, feministas, indigenistas, colaborativas, participativas) en América Latina. La relación entre filosofía, epistemología, teoría, metodología y técnicas de investigación es, sin dudas, un debate pendiente que incluye, también, los modos de comunicación y diálogo en el marco de lo que Boaventura de Sousa Santos llama ecología de saberes.</p>
+			<p>Las reflexiones en torno a la práctica investigativa convocan a un debate sobre todo al quehacer de las ciencias sociales, desde sus condiciones institucionales, comunicativas, sus lógicas epistémicas de producción y validación. En este punto es menester avanzar en la construcción de criterios de validación que no solo respondan a estándares del campo académico, sino también que no renuncien a la propia intencionalidad de la producción de un conocimiento político, con capacidad de intervenir en los procesos sociales, de lucha y de construcción de historia. El desafío no se resuelve simplemente situándose del lado de las víctimas, aunque este compromiso ético-político sea insoslayable. Se trata de un arduo trabajo de producción y de fundamentación de un conocimiento válido, capaz de aportar al estudio de los procesos de producción del orden social, pero también ubicado, en su politicidad, como parte de las luchas sociales por horizontes más justos.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>Agradezco los comentarios que Belén Morris, Olga Bracco y Magdalena Tóffoli vertieron sobre este texto, también las sugerencias de los árbitros de Cinta de Moebio y su director Francisco Osorio.</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Dussel, E. 1983. <italic>Praxis latinoamericana y filosofía de la liberación</italic>. Bogota: Nueva América.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dussel</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>1983</year>
+					<source>Praxis latinoamericana y filosofía de la liberación</source>
+					<publisher-loc>Bogota</publisher-loc>
+					<publisher-name>Nueva América</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Dussel, E. 1998. <italic>La ética de la liberación: ante el desafío de Apel, Taylor y Vattimo con respuesta crítica inédita de K.O. Apel</italic>. México: Universidad Autónoma del Estado de México.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dussel</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>La ética de la liberación: ante el desafío de Apel, Taylor y Vattimo con respuesta crítica inédita de K.O. Apel</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Universidad Autónoma del Estado de México</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Dussel, E. 2001. <italic>Hacia una filosofía política crítica</italic>. Bilbao: Desclée de Brouwer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dussel</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>Hacia una filosofía política crítica</source>
+					<publisher-loc>Bilbao</publisher-loc>
+					<publisher-name>Desclée de Brouwer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Dussel, E. 2006. <italic>Kategorie (el método dialéctico de Marx)</italic>. México: Universidad Autónoma de México.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dussel</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Kategorie (el método dialéctico de Marx)</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Universidad Autónoma de México</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Dussel, E. 2016. <italic>14 tesis de ética. Hacia la esencia del pensamiento crítico</italic>. Madrid: Trotta</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dussel</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>14 tesis de ética. Hacia la esencia del pensamiento crítico</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Trotta</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Marx, K. y Engels, F. 1970. <italic>La ideología alemana</italic>. Barcelona: Grijalbo.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Engels</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>1970</year>
+					<source>La ideología alemana</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Grijalbo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Zemelman, H. 1992. <italic>Los horizontes de la razón</italic>. Barcelona: Anthropos Editorial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zemelman</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>1992</year>
+					<source>Los horizontes de la razón</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Anthropos Editorial</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

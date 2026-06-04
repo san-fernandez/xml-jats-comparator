@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.6" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000200198</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Propuesta de análisis crítico del discurso en entrevistas clínicas en profundidad</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Proposal of discourse analysis in-depth clinical interviews</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Núñez-Delgado</surname>
+						<given-names>M. Pilar</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Santamarina-Sancho</surname>
+						<given-names>María</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original"> Facultad de Ciencias de la Educación, Universidad de Granada (Granada, España) ORCID: 0000-0003- 2837-8577. (ndelgado@ugr.es)</institution>
+				<institution content-type="normalized">Universidad de Granada</institution>
+				<institution content-type="orgdiv1">Facultad de Ciencias de la Educación</institution>
+				<institution content-type="orgname">Universidad de Granada</institution>
+				<addr-line>
+					<named-content content-type="city">Granada</named-content>
+				</addr-line>
+				<country country="ES">Spain</country>
+				<email>ndelgado@ugr.es</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original"> Universidad de Granada (Granada, España) ORCID: 0000-0002- 0835-6664. (mssancho@outlook.es)</institution>
+				<institution content-type="normalized">Universidad de Granada</institution>
+				<institution content-type="orgname">Universidad de Granada</institution>
+				<addr-line>
+					<named-content content-type="city">Granada</named-content>
+				</addr-line>
+				<country country="ES">Spain</country>
+				<email>mssancho@outlook.es</email>
+			</aff>
+			<pub-date pub-type="epub">
+				<season>Apr-Sep</season>
+				<year>2017</year>
+			</pub-date>
+			<issue>59</issue>
+			<fpage>198</fpage>
+			<lpage>210</lpage>
+			<history>
+				<date date-type="received">
+					<day>01</day>
+					<month>02</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>05</day>
+					<month>03</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>En este trabajo se presenta un modelo de análisis crítico del discurso indicado, sobre todo, en aquellas investigaciones educativas que utilizan la entrevista clínica en profundidad como instrumento de recogida de datos. El modelo que proponemos combina varios elementos que permiten realizar un estudio más exhaustivo de los discursos de los sujetos participantes en estudios de casos, aunque el modelo puede adaptarse y utilizarse en investigaciones de diversa índole. Los factores considerados en nuestra propuesta son: relación entre texto y contexto, marcadores discursivos, metacategorías y categorías derivadas del análisis de contenido y recursos gramaticales, a lo que se añaden las perspectivas <italic>etic</italic> y <italic>emic</italic> que otorgan la confrontación de las visiones del investigador y del sujeto o sujetos investigados.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>In this paper, we present a model critical analysis of discourse in educational research that uses a clinical interview as an instrument of data recollection. Our model combines several elements that allow a more exhaustive study of the discourses of the participants in case studies, although the model can be used in other types of research. The factors considered in our model are: relationship between text and context, discourse markers, meta-categories and categories from the analysis of content and grammatical resources. We also added <italic>etic</italic> and <italic>emic</italic> perspectives to compare the researcher's visions with the subject or subjects investigated.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>educational research</kwd>
+				<kwd>critical analysis discourse</kwd>
+				<kwd>case studies</kwd>
+				<kwd>etic</kwd>
+				<kwd>emic.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>investigación educativa</kwd>
+				<kwd>análisis crítico del discurso</kwd>
+				<kwd>estudios de casos</kwd>
+				<kwd>etic</kwd>
+				<kwd>emic.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="18"/>
+				<page-count count="13"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>La propuesta que se presenta en este trabajo tiene como finalidad primordial proporcionar un modelo de análisis del discurso para las investigaciones en las que el principal instrumento de recogida de datos sea la entrevista clínica en profundidad. Nuestra pretensión es, igualmente, evidenciar la importancia y utilidad que tiene la entrevista clínica en investigaciones sociales, sobre todo en aquellas que se lleven a cabo en el ámbito educativo. Asimismo, exponemos las ventajas que posee el estudio de caso o de casos en este tipo de investigaciones; permite al que lo realiza captar y reflejar los elementos de una situación que le dan significado.</p>
+			<p>La investigación en las diferentes etapas del sistema educativo es crucial, ya que las prácticas educativas han de mantenerse actualizadas y deben responder a las demandas actuales del mundo en el que nos desarrollamos. Estudiar e indagar en los fenómenos educativos se erigen como objetivos principales, además, permiten resolver dificultades e inconvenientes que se derivan de la práctica, al mismo tiempo que proporcionan nuevos instrumentos y herramientas para que los docentes y todos los agentes implicados en el ejercicio educativo garanticen un óptimo proceso de enseñanza y aprendizaje en el alumnado. En suma, la investigación educativa es fundamental para mejorar y enriquecer la realidad social en la que nos desarrollamos.</p>
+			<p>El modelo de análisis del discurso (AD) que se plantea, combina categorías y recursos lingüísticos/gramaticales tales como los modos verbales (indicativo, imperativo, subjuntivo), el uso de formas impersonales del verbo, o cambios en el tono de la voz, así como otros factores propios del análisis de la conversación. A lo que se ha sumado la visión antropológica de las perspectivas <italic>etic</italic> y <italic>emic</italic> que sirven, entre otros fines, para contrastar las opiniones de los investigados y la explicación del investigador como experto en el tema en cuestión. </p>
+		</sec>
+		<sec>
+			<title>La investigación educativa para mejorar la realidad social</title>
+			<p>De igual forma que sucede con numerosos conceptos, sobre todo en el ámbito social, no existe un consenso en cuanto a la definición de investigación educativa. Ponce y Pagán sostienen que la postura dominante la define como investigación en educación. Actualmente no se puede cuestionar la importancia que posee la investigación que, de la misma forma que sucede con el resto de las ciencias sociales, ocupa un papel fundamental en el campo educativo, y se constituye como una disciplina académica. Acerca de la definición del término, Latorre, Rincón y Arnal apuntan: “El concepto de investigación educativa ha ido cambiando y adoptando nuevos significados a la par que han aparecido nuevos enfoques y modos de entender el hecho educativo. En la actualidad son múltiples los significados que puede asumir la expresión investigación educativa, si se consideran la diversidad de objetivos y finalidades que se le asignan. De ahí que virtualmente sea imposible dar una definición de investigación aceptada por todos o que satisfaga las diversas concepciones existentes” (2012:36).</p>
+			<p>Si nos ceñimos a las finalidades que persigue, podemos concretar que la investigación educativa significa investigar en las prácticas educativas, en el efecto de estas en el proceso de enseñanza y aprendizaje e indagar en los problemas de la educación para solventarlos. Latorre, Rincón y Arnal proponen un acercamiento al concepto a través del análisis de la concepción que otorgan las diferentes perspectivas de investigación, estas son: “corriente empírico-analítica (positivista), la concepción interpretativa y la corriente crítica o sociocrítica” (2012:36). Estos mismos autores realizan una breve, pero completa descripción de cada una de las perspectivas. En la corriente empírico-analítica (positivista) la investigación educativa persigue, sobre todo, detallar y explicar las leyes que estructuran la eficacia docente. En el caso de la concepción interpretativa la investigación busca comprender la conducta humana partiendo de los conceptos y pretensiones de los agentes que intervienen en la comunidad educativa. En suma, la finalidad principal de la investigación educativa, abordada desde esta perspectiva, es interpretar y comprender los fenómenos educativos. Por su parte la corriente crítica o sociocrítica se caracteriza por el rechazo de la neutralidad del investigador. El objetivo de la investigación educativa desde este prisma es transformar la sociedad con base en una concepción democrática del conocimiento y, con ello, de los procesos que lo producen a través de la implicación de todas las personas que forman parte del escenario educativo.</p>
+			<p>Otros autores como García Domingo y Quintanal analizan los rasgos de la investigación educativa desde la perspectiva de las Ciencias de la Educación. Los atributos que la definen son, en palabras de los autores, “las propias de toda metodología investigadora” (2012:18); es objetiva, es precisa, pues utiliza un lenguaje técnico que permite evidenciar los resultados de forma exacta, se verifican todos los resultados para corroborar o contrastar las hipótesis de partida, es empírica, puesto que se orienta por la experiencia a través de un sentido crítico y que se fundamenta en la evidencia con interpretaciones objetivas, y admite la provisionalidad de los resultados, es decir, la aceptación de los datos obtenidos se realizará, sobre todo, con el tiempo y la posibilidad de contrastarlos con otras investigaciones.</p>
+			<p>De las diferentes definiciones que se pueden hallar en la literatura, Hernández Pina y Maquilón otorgan una de investigación educativa que puede contemplarse desde la perspectiva mencionada, es decir, desde las Ciencias de la Educación, y nos sirve para resumir lo descrito anteriormente: “Estudio de los métodos, los procedimientos y las técnicas que debemos utilizar para obtener conocimientos, para buscar explicaciones y para una comprensión científica de los fenómenos educativos, así como también para «solucionar» los problemas que la educación, en particular, y la sociedad, en general, plantea o demanda” (2010:32). </p>
+			<p>En suma, la investigación educativa posee unos fines muy delimitados que persiguen ante todo comprender, indagar e interpretar los fenómenos y las realidades educativas, elaborar y evidenciar un conocimiento general que mejore la práctica, y estructurar los métodos y actuaciones necesarias para la propia introspección y la autocrítica. Hoy en día, siguiendo las afirmaciones de los autores previamente mencionados, la investigación educativa no se centra únicamente en las cuestiones que conciernen a la educación, pues también abarca la relación existente entre la educación, la escolaridad y la educación universitaria con el desarrollo de la sociedad. La investigación en las diferentes etapas del sistema educativo es decisiva, ya que las prácticas educativas han de mantenerse actualizadas y deben responder a las demandas actuales del mundo en el que nos desarrollamos. La investigación educativa debe suscitar las políticas fundamentales para asegurar el éxito en la implantación del modelo educativo científico; es importante, en conclusión, porque la educación se erige como un elemento esencial para el desarrollo de un país. </p>
+		</sec>
+		<sec sec-type="cases">
+			<title>Los estudios de caso en las investigaciones educativas</title>
+			<p>El estudio de casos se erige como uno de los modelos-tipo generales de investigación en ciencias sociales y es, además, el enfoque tradicional de la mayoría de las investigaciones clínicas. Su finalidad es describir y analizar de forma detallada entidades educativas únicas o unidades sociales. Rob Walker señalaba que el estudio de casos es el examen de un ejemplo en acción; el estudio de unos incidentes y hechos específicos y la recogida selectiva de información de carácter biográfico, de personalidad, intenciones y valores, que permite al que lo realiza captar y reflejar los elementos de una situación que le dan significado. El estudio de caso, o de casos, es un terreno en el que un investigador se vincula y se encuentra con personas cuyas acciones y relaciones van a ser analizadas. La mayoría de los especialistas coinciden en que constituye una investigación procesual, sistemática y profunda de un caso en concreto. Aunque en el estudio de casos se suele poner más énfasis en su vertiente cualitativa, esto no implica que no se considere desde otras perspectivas de carácter más cuantitativo.</p>
+			<p>El psicólogo educativo Robert E. Stake es pionero en la aplicación del estudio de caso en la investigación educativa. Para este autor los casos pueden ser intrínsecos, instrumentales o colectivos. Los casos intrínsecos, informa el autor, son aquellos en los que “el caso viene dado por el objeto, la problemática o el ámbito de indagación” (2005:71). El interés se centra exclusivamente en lo se puede aprender del análisis de un caso sin que haya relación con otros casos o con otros problemas generales. Los instrumentales se “definen en razón del interés por conocer y comprender un problema más amplio a través de un caso particular”. El caso es la vía para la comprensión de algo que está más allá de él mismo. Por su parte, los colectivos comparten con los anteriores el grado de instrumentalidad, pero en lugar de seleccionar un solo caso, “se estudia una colectividad de entre los posibles”. Cada uno es el instrumento para aprender del problema que en conjunto representan.</p>
+			<p>No se trata de buscar el caso representativo, sino de estar atentos a lo que se puede aprender del estudio del caso concreto o del grupo de casos. Coincidimos con el autor en que el equilibrio y la variedad son importantes, pero la oportunidad para aprender resulta clave y esencial. En este sentido no debemos olvidar que el investigador ha de identificar tanto lo común como lo particular del caso estudiado, lo cual supone centrarse en ciertas cuestiones relacionadas con el caso y con cada caso: su naturaleza, su historia, el ambiente y el ámbito físico, otros contextos relacionados con el caso (económico, político, etc.) y los informantes a través de los cuales este puede ser conocido o estudiado. La meta principal del estudio de casos de corte cualitativo es el descubrimiento de nuevas relaciones y conceptos. Posee un carácter inductivo, y las categorías, patrones e interpretaciones se construyen a partir de la información obtenida y no a partir de teorías e hipótesis previas, e ideográficas, porque se orienta a comprender e interpretar lo singular de los fenómenos sociales dejando las explicaciones de las leyes generales para las ciencias nomotéticas. </p>
+			<p>Los estudios de caso o casos son una potentísima herramienta en investigación social y, más aún, en el ámbito educativo. Algunas de las ventajas que los autores citados hasta ahora constatan acerca del estudio de caso son: permite profundizar en un proceso de investigación a partir de una serie de datos previos ya analizados, es idóneo para investigaciones de escala reducida, es decir, en un marco limitado de tiempo, espacio y recursos, se constituye como un método abierto a reanudar otras situaciones personales o instituciones diferentes, es un método que resulta de gran utilidad para los docentes que participan en la investigación, es un método concreto, se vincula con nuestra propia experiencia, por tanto, es más “vivo”, concreto y sensorial, entre otras posibilidades que el investigador puede aprovechar para realizar su estudio de forma más exhaustiva y eficaz. Además de todo lo expuesto es crucial destacar que el estudio de casos permite estudiar los fenómenos desde múltiples perspectivas, y no ceñirse, únicamente, a una sola variable. Se erige, por tanto, con un método adecuado para investigar temas de investigación en los que las teorías son inexistente o inadecuadas.</p>
+			<p>Si bien es cierto que la utilización del estudio de casos posee numerosas ventajas en la investigación educativa, también hay que señalar que una de sus dificultades es su vulnerabilidad en cuanto a las fuentes de validación externa e interna, además de la dificultad que supone el generalizar los resultados obtenidos. Sin embargo, en este sentido cabe destacar que “en las concepciones postmodernas de las ciencias sociales, la meta de la generalización global se sustituye por una transferibilidad de conocimiento de una situación a otra, tomando en consideración la contextualidad y heterogeneidad del conocimiento social” (<xref ref-type="bibr" rid="B10">Kvale 2011</xref>:118). Por ello las técnicas utilizadas para demostrar la calidad en las investigaciones cualitativas sustituyen esa “generalización global” por la posibilidad de transferir el conocimiento que se deriva del estudio de un contexto a otro.</p>
+			<p>En definitiva, es algo más que evidente que todos los métodos empleados en investigación poseen ventajas e inconvenientes; la elección de uno u otro depende, en conclusión, de la valoración del investigador que, tras una revisión detallada y exhaustiva de la literatura al respecto, se decantará por el que estime más adecuado para abarcar el problema de investigación.</p>
+			<sec>
+				<title>La entrevista clínica para acceder a las concepciones y teorías implícitas</title>
+				<p>Aunque nuestro propósito en este trabajo es presentar un modelo de análisis del discurso, creemos que puede ser de gran utilidad evidenciar uno de los instrumentos de recogida de datos en los estudios de casos y que, asimismo, es adecuado para acceder a las concepciones y teorías implícitas de los participantes en investigaciones cualitativas.</p>
+				<p>El método clínico debe, en gran parte, su origen a Piaget quien trasformó un método destinado al diagnóstico individual en un procedimiento general para penetrar en los entresijos de la mente humana. Este método se caracteriza por su extraordinaria flexibilidad, lo que permite ajustarse a las conductas de las personas y así poder encontrar el sentido de lo que va haciendo y diciendo. Su capacidad para explorar los caminos que sigue una persona en sus explicaciones permite que se encuentren nuevas respuestas que no se planteaban al iniciar la investigación. Los seres humanos actuamos a partir de las representaciones que nos forjamos de la realidad, y el método clínico es un excelente instrumento para descubrir la construcción de esas representaciones. El principal problema que surge en este campo de investigación es cómo se puede acceder a las concepciones de las personas, los docentes por ejemplo en el caso de la investigación educativa, cuando se postula que en ellas no solo existe un nivel representacional y explícito, sino también teorías implícitas, concepciones, de las que el sujeto no es consciente y que, sin embargo, guían su acción. En este sentido creemos que la entrevista puede solucionar esta ardua tarea.</p>
+				<p>Una entrevista, en palabras de Kvale, “es literalmente una visión-entre, un intercambio de visiones entre dos personas que conversan sobre un tema de interés común” (2011:27). Los antropólogos y los sociólogos las han convertido en su instrumento principal para obtener conocimiento de sus informadores. Es importante destacar, siguiendo a Hernández Carrera, que: “El conocimiento se va a construir a partir de la interacción entre el entrevistador y el entrevistado. No se trata, únicamente, de hacer preguntas a una persona que posee el conocimiento para que nos lo transmita, sino que se le va a pedir, también, procesamiento y elaboración de las respuestas” (2014:204). En la actualidad, la entrevista es, posiblemente, el instrumento más utilizado en la investigación cualitativa y más aún en los estudios de caso. Es la herramienta fundamental del método clínico y, por tanto, una técnica de investigación científica. En la entrevista clínica no buscamos un dato, sino información, ya que esta “como conjunto de datos situados en un contexto resulta más enriquecedora” (<xref ref-type="bibr" rid="B12">Moore, Gómez y Kurtz 2011</xref>:361). Una de las principales ventajas es su apertura. Es decir, no existen normas estandarizadas para realizar una entrevista de investigación, pero podemos encontrar, como es en el caso de la entrevista clínica, una serie de indicaciones para crear un ambiente propicio a la hora de llevarla a cabo.</p>
+				<p>Si realizamos un breve recorrido por la literatura, hallamos algunas definiciones de entrevista clínica, como la elaborada por Borrell i Carrió, quien la presenta como una encrucijada de dos vertientes: relación humana y habilidades técnicas. Asimismo, se estructura como un medio donde se establece una relación comunicativa entre dos personas, a través de la cual el entrevistador obtiene información relevante acerca de la persona entrevistada mediante una serie de preguntas. Antonia Pades detalla sus principales características, las cuales son comunes a toda entrevista independientemente del enfoque que la defina: “Aún a pesar de la multiplicidad de definiciones y enfoques, parece existir un cierto acuerdo en la consideración de una serie de características generales y comunes a toda entrevista: su comunicación verbal y no verbal, cierto grado de estructuración, una finalidad específica, su situación asimétrica, el proceso bidireccional y la adopción de roles específicos por ambas partes. Este grado de estructuración puede ayudar a que el proceso de realización de la entrevista sea más ordenado: preparación del proceso, la fase inicial, el cuerpo o fase intermedia, cierre, posdata y análisis de la información recogida” (2006:1).</p>
+				<p>En suma y por todo lo expuesto previamente, creemos, y hemos comprobado en investigaciones realizadas, que la entrevista clínica es la herramienta más idónea para acceder a los entresijos de la mente humana, es decir, a las concepciones y teorías implícitas que las personas poseemos acerca de determinados temas y cuestiones.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>Una propuesta de análisis crítico del discurso: categorías conceptuales y lingüísticas/semióticas</title>
+			<p>El análisis principal que se realiza de forma general a las informaciones obtenidas en los estudios de caso suele ser el de contenido, concretamente a través de la codificación del texto. Dar sentido a los datos cualitativos implica reducir notas de campo, descripciones, explicaciones, justificaciones, y un largo etcétera, hasta llegar a una cantidad de unidades significativas y manejables. Asimismo, conlleva estructurar y exponer estos ítems y, por último, extraer y confirmar unas conclusiones más comprensivas.</p>
+			<p>Nuestra aportación consiste en proporcionar un nuevo modelo de análisis de los datos cualitativos que se obtienen en investigaciones cualitativas y, de forma específica, en estudios de casos donde la entrevista en profundidad se sitúa como el principal instrumento para recolectar la información. Claro está, el investigador podrá incorporar diversos análisis que le permitirán, sin duda, describir y adentrarse de forma más exhaustiva en el discurso de los sujetos que han participado en el estudio.</p>
+			<p>El análisis del discurso se engloba en el tipo de análisis centrados en el lenguaje. Romera Ciria sostiene que “es la disciplina que estudia el lenguaje como manifestación del acto de comunicación del individuo” (2011:43). Asimismo, esta autora apunta que la perspectiva discursiva permite realizar un análisis del lenguaje como una exteriorización social cuya finalidad principal es permitir la comunicación entre las personas. Para Sayago, el Análisis del Discurso (AD) puede abordarse desde dos concepciones: “El AD es, a la vez, un campo de estudio y una técnica de análisis. En tanto campo de estudio, se destaca por su multidisciplinariedad y por la heterogeneidad de corrientes y tradiciones que confluyen en él. No solo está constituido por la convergencia de diferentes ciencias […] sino que en el interior de cada una de esas ciencias pueden converger corrientes muy distintas entre sí” (2014:3).</p>
+			<p>Es una técnica eficaz, sostiene el autor, y potente que destaca, sobre todo, por su ductilidad. Puede ser utilizada por metodologías hipotético-deductivas, inductivas y abductivas, o formar parte de estrategias de corte cualitativo o cuantitativo. Fruto de las definiciones aportadas por diversos autores podemos concretar, siguiendo a Kvale, que el análisis del discurso se ocupa de “crear efectos de veracidad dentro de los discursos, que no son verdaderos ni falsos” (2011:147). </p>
+			<p>El AD se convierte, como consecuencia de lo descrito previamente, en una herramienta útil de análisis en las ciencias sociales y humanas. En este contexto Santander asevera que “las observaciones etnográficas, la revisión histórica de documentos, la investigación sociológica de la interacción, la sociología del conocimiento, la psicología social, etc., se enfrentan a diálogos, a textos escritos, a entrevistas, etc., es decir, a lenguaje” (2011:208). La concepción activa del lenguaje, surgida en el seno de la lingüística saussuriana, posee en la actualidad una profunda influencia en la psicología social y, en definitiva, en investigaciones de corte cualitativo.</p>
+			<p>En las investigaciones en las que las entrevistas clínicas son el instrumento de obtención de datos el lenguaje posee un rol central, y su uso a lo largo de los discursos es fundamental para comprender la realidad que se manifiesta en ellas. Nos parece muy acertada la afirmación de Santander, quien aglutina el fin del análisis del discurso al argüir que leer los discursos es imprescindible para leer la realidad social: “analizar el discurso que circula en la sociedad es analizar una forma de acción social” (2011:210).</p>
+			<p>Precisamente derivado de la revisión exhaustiva de investigaciones sociales y antropológicas encontramos las perspectivas <italic>etic</italic> y <italic>emic</italic> como una potente visión que añadir al análisis del discurso. Aplicar estas visiones al análisis del discurso evidencia si existe coherencia entre las respuestas de los participantes en el estudio. En definitiva, averiguar si el entrevistado da una descripción verdadera de la situación objetiva. Para ello se han de analizar algunas estructuras lingüísticas, por ejemplo, la autovaloración del entrevistado léxico-sintácticamente mediante el uso de la primera persona singular en oraciones con y sin sujeto elíptico.</p>
+			<p>El AD que presentamos sigue las líneas fijadas, aunque con algunas variaciones, en la Gramática Sistémico Funcional (GSF) de Fairclough, que se basa, a su vez, en la Gramática Sistémico Funcional de Halliday, que tiene por objeto de análisis la oración y el contexto situacional. Santander resume de forma concisa en qué consiste la GSF: “Fairclough […] agrega una dimensión adicional a las metafunciones del lenguaje -la función ideacional (afirmando que el discurso contribuye a la construcción de sistema de creencias)− y propone un modelo tridimensional que considera tres niveles de análisis: el análisis textual, el de la práctica discursiva y el de la práctica social; siendo el primero de carácter descriptivo, el segundo interpretativo y el tercero explicativo” (2011:216).</p>
+			<p>Insistimos en que no existe un modelo de análisis para los textos, es decir, el investigador puede seleccionar y combinar diferentes propuestas o, como sucede en nuestro caso, añadir otras perspectivas de carácter antropológico como <italic>etic</italic> y <italic>emic</italic>.</p>
+			<p>Para estructurar y llevar a cabo el análisis crítico del discurso de forma organizada hemos considerado dos categorías principales, en las que residen las variaciones mencionadas previamente:</p>
+			<sec>
+				<title>Categorías conceptuales</title>
+				<p>Se han utilizado los conceptos teóricos clave del análisis del contenido, es decir, las metacategorías y categorías que sirven para esclarecer teóricamente el objeto del estudio. En estas categorías se tienen en cuenta, asimismo, dos aspectos fundamentales, el texto y el contexto. Se introducirán las perspectivas <italic>etic</italic> y <italic>emic</italic>. Estas dependerán, en suma, de si la teoría que otorga el entrevistado puede o no refutarse.</p>
+				<p>La obtención de estas categorías conceptuales depende de un paso fundamental en el análisis del contenido, es decir, la codificación, categorización en nuestro caso, de la información. Kvale sostiene que codificar supone asignar una o más palabras clave a una sección o segmento del texto para acceder a la identificación posterior de una declaración. En esta misma línea queremos evidenciar por qué preferimos denominar el proceso como “categorizar” en lugar de “codificar”, de ahí, asimismo, el uso de las palabras metacategorías y categorías. En este sentido coincidimos con el investigador Ian Dey cuando ratifica que el término codificar es más inadecuado, nosotros apuntamos que más incompleto, para describir el procedimiento central del análisis cualitativo. Es por ello por lo que prefiere utilizar el término categorización, ya que este “describe un proceso que abre la puerta a una riqueza interpretativa” (<xref ref-type="bibr" rid="B2">Álvarez-Gayou 2003</xref>:95). La codificación conlleva un proceso menos flexible y más mecanizado, y con una riqueza léxica más pobre que la categorización de los datos; categorizar las entrevistas de una investigación aporta un panorama general de cantidades considerables de transcripciones y, además, puede facilitar las comparaciones y la comprobación de hipótesis. Para categorizar la información de un discurso y proceder posteriormente a su análisis, primero se han de transcribir literalmente los textos, las entrevistas, siguiendo la propuesta que recogemos. Una vez que se dispone del contenido por escrito se ha de partir de una estructura que organice la reducción de las evidencias conceptuales en forma de metacategorías y categorías que el propio texto contiene, para lo cual abogamos por abordar este análisis desde la Teoría Fundamentada. El modelo que proponemos implica dividir los textos en unidades de contenido a las que se aplican los códigos, procediendo inductivamente, es decir, primero se crean los códigos y se aplican según aparezca su necesidad en función de las unidades de contenido correspondientes. La Teoría Fundamentada es uno de los principales soportes para las investigaciones y estudios de índole cualitativa. Cuñat apunta que “la aportación más relevante de la Teoría Fundamentada hace referencia a su poder explicativo en relación a las diferentes conductas humanas dentro de un determinado campo de estudio. La emergencia de significados desde los datos, pero no de los datos en sí mismos, hace de esta teoría una metodología adecuada para el conocimiento de un determinado fenómeno social” (2007:2). En suma, el planteamiento básico de esta postura consiste en que la teoría surge y se elabora de los datos obtenidos en la investigación.</p>
+				<p>Para realizar el análisis del discurso incluyendo las categorías conceptuales desde los planteamientos básicos de la Teoría Fundamentada, es imprescindible partir de dos principios, denominados por Ávarez-Gayou como “estadios iniciales” (2003:94): (1) Identificar en los datos las categorías y sus propiedades (categorización de la información) y (2) Incorporar las categorías y los datos a través de un proceso de comparación constante. Este paso permite comprobar las similitudes y las diferencias existentes entre los discursos.</p>
+			</sec>
+			<sec>
+				<title>Categorías lingüísticas/semióticas</title>
+				<p>Estas categorías se erigen como propiedades de las categorías discursivas. Las categorías lingüísticas/semióticas contienen, a su vez, recursos gramaticales, aunque estos suelen ser lingüísticos antes que semióticos (<xref ref-type="bibr" rid="B16">Santander 2011</xref>). Se han considerado estas y, específicamente, recursos lingüísticos/gramaticales tales como los modos verbales (indicativo, imperativo, subjuntivo), el uso de formas impersonales del verbo, o cambios en el tono de la voz. Asimismo, se han tenido en cuenta, y por ello lo proponemos en el modelo que presentamos, la utilización de marcadores textuales (causales y consecutivos), muy frecuentes en las entrevistas, al igual que sucede con los apelativos. Puesto que la finalidad de los marcadores textuales es conectar las oraciones y/o ideas de un texto para mantener la coherencia del mismo, el hecho de considerarlos en el análisis del discurso nos ha permitido contrastar posteriormente y desde un estadio correspondiente a la cognición (nos referimos al acceso a las concepciones y teorías implícitas descritas en epígrafes anteriores) las visiones antropológicas, <italic>etic</italic> y <italic>emic</italic>. Suele ocurrir que, de forma general, las partes del texto que muestran mayor incoherencia son aquellas en las que el entrevistado desconoce el tema, se muestra más inseguro, no posee una idea bien definida, o considera que su respuesta puede ser criticada.</p>
+				<p>El modelo que aportamos incluye también aspectos propios del análisis de la conversación derivados de tres perspectivas procedentes de los etnometodólogos E. Schegloff y W. Edmonson, el de E. Roulet (escuela de Ginebra) y la propuesta de J. M. Sinclair y M. Stubbs de la escuela de Birmingham: “Todos ellos han propuesto un modelo de estructuración de la conversación en unidades, necesario para poder adentrarse en su objeto” (<xref ref-type="bibr" rid="B4">Fuentes Rodríguez 2000</xref>:76). Precisamente existe un modelo que conjuga aspectos de las tres perspectivas; es el propuesto por el grupo de investigación Valesco, surgido en el seno del Departamento de Filología Española de la Universitat de València (España) en 1990, y que, según se recoge en la página web oficial del mismo, su principal objeto de estudio fue, desde el principio, el español coloquial. Este modelo, en resumen, aglutina los siguientes aspectos de los citados anteriormente (Fuentes Rodríguez 2000:76):</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>- El análisis del discurso de la escuela de Birmingham en acto &lt; movimiento &lt; intercambio &lt; transacción &lt; lección.</p>
+						</list-item>
+						<list-item>
+							<p>- La pragmática dialógica de la escuela de Ginebra y de Lyon: historia conversacional &lt; episodio &lt; intercambio &lt; intervención &lt; acto.</p>
+						</list-item>
+						<list-item>
+							<p>- El análisis de la conversación de los etnometodólogos H. Sacks y E. Schegloff, que privilegian el análisis del turno y la secuencia.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>De estos aspectos hemos tenido en cuenta, sobre todo, dos de ellos. Por una parte, la <italic>intervención</italic>, entendida como unidad jerárquica que permite averiguar o conocer más la intención del sujeto investigado, del entrevistado, pues durante los discursos las interrupciones que estos puedan realizar demuestran, <italic>grosso modo</italic>, su actitud o conocimiento acerca del tema en cuestión. Así, por ejemplo, el hecho de que el entrevistado responda antes de que el entrevistador finalice la pregunta puede indicar, junto con otros factores del discurso, que desea responder porque sabe o cree saber bien la respuesta. Cabe reseñar al respecto que las intervenciones pueden interpretarse como las “emisiones informativas que rellenan los turnos […], esto es, un enunciado o conjunto de enunciados (actos o actos del habla) emitidos por un interlocutor de forma continua o discontinua” (<xref ref-type="bibr" rid="B4">Fuentes Rodríguez 2000</xref>:77). Por otra parte, hemos otorgado otro papel predominante al <italic>movimiento</italic>. Fruto de los trabajos e investigaciones realizadas por las escuelas anteriormente reseñadas, podemos concretar que el movimiento se entiende como el acto o conjunto de actos con un pronunciado valor interactivo entre el hablante y el oyente, y que, en el caso del análisis del discurso, puede jugar un rol crucial, pues concede una información valiosa que únicamente puede verse <italic>in situ</italic> por parte de los intervinientes en el diálogo, en la entrevista, considerando el caso que proponemos. La investigadora de Lingüística General, Beatriz Gallardo, aclara que el acto no se constituye como una unidad propiamente interactiva, asevera que la forma más apropiada para determinarlo se hace a través de las pausas y la entonación; dos matices cruciales en el modelo que presentamos. </p>
+				<p>Precisamente el análisis exhaustivo de este tipo de “regularidades”, como Íñiguez las denomina, “permite conocer la interacción social y cómo se organiza, se mantiene y se maneja. Lo que la gente dice se toma, no como una manifestación directa de un concepto simple o no ambiguo, sino más bien como un instrumento que puede mover la conversación y llevar a cabo ciertas tareas sociales, tanto ocultas como obvias” (2006:99). </p>
+				<p>En suma, nuestro modelo de análisis del discurso puede redefinirse como una propuesta de análisis crítico del discurso (ACD) que, en palabras de Íñiguez, “es una perspectiva diferente en la manera en que se encaran la teoría y el análisis. […] constituye una estrategia para aproximarse a los discursos mediante la cual […] la teoría se utiliza como una caja de herramientas que permite urdir y abrir nuevas miradas y nuevos enfoques, donde el/la [sic] analista se convierte en artífice a través de la implicación con aquello que estudia” (2006:99). Aquí reside, pues, una de las finalidades de las categorías conceptuales que presentamos en el modelo de análisis del discurso. Podemos concretar, en definitiva, que la conjunción de las categorías conceptuales, de la “teoría”, ha servido como la caja de herramientas que Íñiguez metaforiza y que permite adentrarse de una forma más exhaustiva en los discursos considerados.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title><bold>Las perspectivas</bold> 
+ <bold>
+ <italic>etic</italic>
+</bold> 
+ <bold>y</bold> 
+ <bold>
+ <italic>emic</italic>
+</bold> 
+ <bold>para contrastar las visiones del entrevistado y del investigador</bold></title>
+			<p>Derivado de la revisión de la bibliografía especializada acerca de las investigaciones en el campo de las ciencias sociales, hallamos una de las descripciones más utilizadas en antropología y en las ciencias del comportamiento: el enfoque o perspectivas <italic>etic</italic>/<italic>emic</italic>. Precisamente estos dos “aspectos de la cultura”, como los denomina Marvin Harris, autor que los popularizó en el seno de la antropología social, fueron introducidos por primera vez por el lingüista Kenneth Pike basándose en la dualidad de organización del lenguaje humano: “La universalidad semántica humana se logra por medio de un número notablemente pequeño de sonidos arbitrarios que se denominan fonemas. […] los elementos básicos en el lenguaje humano tienen dualidad de organización: los mismos sonidos contrastantes se combinan y recombinan para formar mensajes diferentes” (<xref ref-type="bibr" rid="B6">Harris 2011</xref>:192).</p>
+			<p>Esta distinción entre phon<italic>emic</italic>s (fonología) y phon<italic>etic</italic>s (fonética), en su origen, se basaba en la distinción entre la interpretación del sujeto (fonema) frente a la realidad acústica de un sonido (fonética) que, según Pike, debía trasladarse al análisis de la conducta social. Con el paso del tiempo, el antropólogo estadounidense Harris reutilizó ambas acepciones y pasaron a formar parte de determinadas ciencias como la etnolingüística. Hoy en día se pueden entender ambos conceptos como dos tipos diferentes de descripción vinculados con la conducta y la interpretación de los agentes participantes en el estudio o investigación. Siguiendo a Harris se puede resumir que: “En ambos casos, son posibles descripciones científicas y objetivas de los campos mental y conductual. En el primero, los observadores emplean conceptos y distinciones que son significativos y apropiados para los participantes; y en el segundo, conceptos y distinciones significativos y apropiados para los observadores. El primero de estos dos modos de estudiar la cultura se llama <italic>emic</italic> y el segundo <italic>etic</italic>” (2011:174).</p>
+			<p>Si bien en su concepción clásica y pura, Pike afirmaba que ambos enfoques son verdaderos, para Harris, y es la idea desde la que partimos para incluir esta visión en el modelo de análisis que proponemos, el enfoque <italic>etic</italic> es superior a la interpretación <italic>emic</italic>: “Es decir, existe un ámbito con un menor grado de subjetividad desde el que se puede valorar el grado realidad (consistencia entre lo que se hace, la razón por lo que se hace y lo que realmente se logra) de las acciones sociales. En esta percepción ordinal de dos enfoques, el concepto de alineación adquiere un significado pleno” (<xref ref-type="bibr" rid="B1">Alaminos y López 2009</xref>:14).</p>
+			<p>En esta cita se detalla el objetivo de la introducción de ambas visiones antropológicas como forma para contrastar la visión que aporta el investigador, procurando siempre otorgar un punto de vista objetivo y científico, y la explicación de la realidad social investigada por parte del entrevistado y sujeto participante en el estudio. La posición metodológica de Harris, en suma, nos traslada a un “concepto de desarrollo social dentro de los parámetros científicos conocidos” (<xref ref-type="bibr" rid="B1">Alaminos y López 2009</xref>:14). La explicación del investigador, y en este caso entrevistador, incluye en esta, criterios de precisión, simplicidad, fiabilidad, validez, especificidad, confiabilidad y alcance.</p>
+			<p>La introducción de estos dos aspectos en el análisis de la información proporciona la posibilidad de abordar, siguiendo lo apuntado anteriormente, los dos tipos de interpretaciones que, en términos generales, se encuentran siempre en una entrevista: la del entrevistado y la del entrevistador que suele ser el investigador. </p>
+			<p>Para aclarar más aún el modelo que presentamos y la inclusión de las visiones <italic>etic</italic> y <italic>emic</italic> en el análisis del discurso, se plasma, a continuación, parte del texto del análisis del discurso realizado en una investigación cualitativa, enmarcada como estudio de casos, que llevamos a cabo en un grupo de docentes de educación infantil sobre las concepciones que poseen acerca de la enseñanza de la lengua oral en esta etapa educativa: “En la segunda intervención introduce uno de los marcadores discursivos-conversacionales del que hará uso en el resto de la entrevista: «¿no?» Este demuestra principalmente la constante necesidad de reafirmación de las ideas que está transmitiendo y que precisa la entrevistada; espera, incluso, en algunos momentos a que la entrevistadora asienta si lo que está contando es o no correcto o adecuado. […] «No se hace en las aulas y en el colegio no se fomenta y no se trabajan cosas nuevas que hay, ni los decretos, órdenes…». Precisamente en esta afirmación se puede contrastar la perspectiva <italic>emic</italic> de la entrevistada al respecto, no mantiene actualizada su formación porque en el centro educativo no se fomentan ni se trabajan estos aspectos del currículo. Si bien es cierto que cada centro establece la formación permanente del profesorado, desde la perspectiva <italic>etic</italic>, como investigadores del tema en cuestión, podemos ratificar que la entrevistada puede buscar esa formación fuera del centro escolar. Las administraciones educativas, por ejemplo, ofertan diversos cursos de formación permanente para el profesorado” (<xref ref-type="bibr" rid="B15">Santamarina 2016</xref>:358).</p>
+			<p>Se constata en esta cita, pues, que el investigador explica la situación considerada desde una visión objetiva y científica, haciendo uso de los parámetros previamente expuestos, es decir, precisión, simplicidad, fiabilidad, validez, especificidad, confiabilidad y alcance; la realidad fundamentada a través de las administraciones educativas evidencia que la formación de la que adolece la docente entrevistada puede hallarse fuera del centro escolar en el que ejerce su labor profesional. </p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>Las investigaciones y estudios que se enmarcan en el ámbito educativo tienen una clara finalidad: mejorar la realidad educativa y los problemas que surjan en ella que, a su vez, ayudarán a renovar y a enriquecer la realidad social en la que nos desarrollamos. Precisamente si partimos del aspecto social de los estudios en educación, nos encontramos con la posibilidad de adentrarnos en las concepciones y teorías implícitas que poseen los agentes que forman parte de la comunidad educativa, los docentes, por ejemplo. Para acceder a estas concepciones, a los entresijos de la mente humana, la entrevista clínica en profundidad se erige como una potente herramienta, pues este método se caracteriza por su extraordinaria flexibilidad, lo que permite ajustarse a las conductas de la persona y así poder encontrar el sentido de lo que va haciendo y diciendo.</p>
+			<p>El principal análisis que se realiza en investigaciones que utilizan como instrumento de recolección de datos la entrevista clínica, más aún en estudios de caso o de casos, es el de contenido, es decir, examinar exhaustivamente lo que el discurso de los entrevistados manifiesta, sobre todo, de forma interna. En este sentido nuestra propuesta aboga por el uso de otro tipo de análisis, el cual puede ratificar, sin duda, el de contenido, o utilizarse de forma individual a este, en cualquier caso, y partiendo del rol principal que posee el discurso en este tipo de entrevistas que permite indagar exhaustivamente en el de cada uno de los sujetos investigados; este es el análisis crítico del discurso (ACD). Tal y como se indica en la revisión bibliográfica expuesta en el presente trabajo, no existen modelos únicos para llevar a cabo análisis del discurso, en suma, el investigador puede seleccionar y combinar diferentes propuestas.</p>
+			<p>El ACD que presentamos combina categorías y recursos lingüísticos/gramaticales tales como los modos verbales (indicativo, imperativo, subjuntivo), el uso de formas impersonales del verbo, o cambios en el tono de la voz. El modelo que aportamos incluye también aspectos propios del análisis de la conversación como son la <italic>intervención</italic> y el <italic>movimiento</italic>, lo que permite acceder a informaciones que contiene el discurso y que son tanto ocultas como obvias. El modelo que aquí presentamos se define como análisis crítico del discurso (ACD) porque se construye desde una perspectiva que conjuga la teoría y el análisis, permite, asimismo, “urdir y abrir nuevas miradas y nuevos enfoques, donde el/la [sic] analista se convierte en artífice a través de la implicación con aquello que estudia” (<xref ref-type="bibr" rid="B9">Íñiguez 2006</xref>:99).</p>
+			<p>El tipo de ACD proporcionado incluye, además, la visión antropológica de las perspectivas <italic>etic</italic> y <italic>emic</italic> que sirven, entre otros fines, para contrastar las opiniones de los investigados y la explicación del investigador como experto en el tema en cuestión. Este otorgará una explicación objetiva del por qué se producen algunas de las situaciones que atañen al objeto de la investigación teniendo en cuenta parámetros tales como, precisión, simplicidad, fiabilidad, validez, especificidad, confiabilidad y alcance.</p>
+			<p>En definitiva, con nuestra propuesta pretendemos dar a conocer una forma particular de analizar el discurso de entrevistas clínicas en profundidad para conseguir una descripción y un estudio más completo de la investigación que se pretenda llevar a cabo. Lógicamente, el modelo que se ha presentado puede ser adaptado y utilizado en investigaciones de cualquier índole que posea en su base las características propias de un estudio, de casos o no, pero en el que el uso de lenguaje y el análisis del mismo sirva para adentrarse en las concepciones que tenga una persona sobre cualquier tema o asunto en cuestión.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Alaminos, A. y López, B. 2009. La medición del desarrollo social. <italic>Obets. Revista de Ciencias Sociales</italic> 4: 11-24. doi: 10.14198/OBETS2009.4.02</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alaminos</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>López</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>La medición del desarrollo social</article-title>
+					<source>Obets. Revista de Ciencias Sociales</source>
+					<volume>4</volume>
+					<fpage>11</fpage>
+					<lpage>24</lpage>
+					<pub-id pub-id-type="doi">10.14198/OBETS2009.4.02</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Álvarez-Gayou, J. L. 2003. <italic>Cómo hacer investigación cualitativa: fundamentos y metodología</italic>. México: Paidos Ibérica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Álvarez-Gayou</surname>
+							<given-names>J. L.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>Cómo hacer investigación cualitativa: fundamentos y metodología</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Paidos Ibérica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Cuñat, R. 2007. Aplicación de la teoría fundamentada (grounded theory) al estudio del proceso de creación de empresas. <italic>XX</italic> 
+ <italic>Congreso Anual de AEDEM. Decisiones basadas en el conocimiento y en el papel social de la empresa</italic> Vol. 2: 1-13. <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/servlet/articulo?codigo=2499458">https://dialnet.unirioja.es/servlet/articulo?codigo=2499458</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="confproc">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cuñat</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Aplicación de la teoría fundamentada (grounded theory) al estudio del proceso de creación de empresas</source>
+					<conf-name>XXCongreso Anual de AEDEM. Decisiones basadas en el conocimiento y en el papel social de la empresa</conf-name>
+					<volume>2</volume>
+					<fpage>1</fpage>
+					<lpage>13</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/servlet/articulo?codigo=2499458">https://dialnet.unirioja.es/servlet/articulo?codigo=2499458</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Fuentes Rodríguez, C. 2000. <italic>Lingüística pragmática y análisis del discurso</italic>. Madrid: Arco/Libros.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuentes Rodríguez</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>Lingüística pragmática y análisis del discurso</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Arco/Libros</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>García Domingo, B. y Quintanal, J. 2012. <italic>Fundamentos básicos de metodología de investigación educativa</italic>. Madrid: CCS.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García Domingo</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Quintanal</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Fundamentos básicos de metodología de investigación educativa</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>CCS</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Harris, M. 2011. <italic>Antropología cultural</italic>. Madrid: Alianza.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Harris</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Antropología cultural</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Alianza</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Hernández Carrera, R. M. 2014. La investigación cualitativa a través de entrevistas: su análisis mediante la teoría fundamentada. <italic>Cuestiones Pedagógicas</italic> 23: 187-210. <ext-link ext-link-type="uri" xlink:href="http://institucional.us.es/revistas/cuestiones/23/Mis_5.pdf">http://institucional.us.es/revistas/cuestiones/23/Mis_5.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hernández Carrera</surname>
+							<given-names>R. M</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>La investigación cualitativa a través de entrevistas: su análisis mediante la teoría fundamentada</article-title>
+					<source>Cuestiones Pedagógicas</source>
+					<volume>23</volume>
+					<fpage>187</fpage>
+					<lpage>210</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://institucional.us.es/revistas/cuestiones/23/Mis_5.pdf">http://institucional.us.es/revistas/cuestiones/23/Mis_5.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Hernández Pina, M.F. y Maquilón, J. 2010. <italic>Competencias científicas para la realización de una tesis doctoral</italic>. La Coruña: Davinci Continental.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hernández Pina</surname>
+							<given-names>M.F</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maquilón</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Competencias científicas para la realización de una tesis doctoral</source>
+					<publisher-loc>La Coruña</publisher-loc>
+					<publisher-name>Davinci Continental</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Íñiguez, L. 2006. <italic>Análisis del discurso. Manual para las ciencias sociales</italic>. Barcelona: UOC.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Íñiguez</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Análisis del discurso. Manual para las ciencias sociales</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>UOC</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Kvale, S. 2011. <italic>Las entrevistas de investigación cualitativa</italic>. Madrid: Morata.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kvale</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Las entrevistas de investigación cualitativa</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Morata</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Latorre, A; Rincón, D. y Arnal, J. 2012. <italic>Bases metodológicas de la investigación educativa</italic>. Barcelona: Experiencia.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Latorre</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rincón</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arnal</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Bases metodológicas de la investigación educativa</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Experiencia</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Moore, P; Gómez, G. y Kurtz, S. 2011. Comunicación médico-paciente: una de las competencias básicas, pero diferente. <italic>Atención Primaria</italic> 44(6): 358-365. doi: 10.1016/j.aprim.2011.07.008</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moore</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gómez</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kurtz</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Comunicación médico-paciente: una de las competencias básicas, pero diferente</article-title>
+					<source>Atención Primaria</source>
+					<volume>44</volume>
+					<issue>6</issue>
+					<fpage>358</fpage>
+					<lpage>365</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.aprim.2011.07.008</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Pades, A. 2006. La entrevista clínica: herramienta para cuidar. <italic>Ágora de Enfermería</italic> 10(1): 1-8. <ext-link ext-link-type="uri" xlink:href="http://www.agoradenfermeria.eu/CAST/num005/inferm.html">http://www.agoradenfermeria.eu/CAST/num005/inferm.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pades</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>La entrevista clínica: herramienta para cuidar</article-title>
+					<source>Ágora de Enfermería</source>
+					<volume>10</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>8</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.agoradenfermeria.eu/CAST/num005/inferm.html">http://www.agoradenfermeria.eu/CAST/num005/inferm.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Romera Ciria, M. 2011. Discurso, texto y contexto, pp. 43-60. En: U. Ruiz Bikandi y A. Ambrós. <italic>Lengua castellana y literatura: complementos de formación interdisciplinar</italic>. Barcelona: Graó.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Romera Ciria</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<chapter-title>Discurso, texto y contexto</chapter-title>
+					<fpage>43</fpage>
+					<lpage>60</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ruiz Bikandi</surname>
+							<given-names>U</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ambrós</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source>Lengua castellana y literatura: complementos de formación interdisciplinar</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Graó</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Santamarina, M. 2016. <italic>Análisis de las concepciones del profesorado de Educación Infantil sobre la enseñanza de la lengua oral: un estudio de casos</italic> [Tesis doctoral]. Granada: Universidad de Granada.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santamarina</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Análisis de las concepciones del profesorado de Educación Infantil sobre la enseñanza de la lengua oral: un estudio de casos</source>
+					<comment content-type="degree">Tesis doctoral</comment>
+					<publisher-loc>Granada</publisher-loc>
+					<publisher-name>Universidad de Granada</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Santander, P. 2011. Por qué y cómo hacer análisis de discurso. <italic>Cinta moebio</italic> 41: 207-224. doi: 10.4067/S0717-554X2011000200006</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santander</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Por qué y cómo hacer análisis de discurso</article-title>
+					<source>Cinta moebio</source>
+					<volume>41</volume>
+					<fpage>207</fpage>
+					<lpage>224</lpage>
+					<pub-id pub-id-type="doi">10.4067/S0717-554X2011000200006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Sayago, S. 2014. El análisis del discurso como técnica de investigación cualitativa y cuantitativa en las ciencias sociales. <italic>Cinta moebio</italic> 49: 1-10. doi: 10.4067/S0717-554X2014000100001</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sayago</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>El análisis del discurso como técnica de investigación cualitativa y cuantitativa en las ciencias sociales</article-title>
+					<source>Cinta moebio</source>
+					<volume>49</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.4067/S0717-554X2014000100001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Stake, R. 2005. <italic>Investigación con estudios de caso</italic>. Madrid: Morata.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stake</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<source>Investigación con estudios de caso</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Morata</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

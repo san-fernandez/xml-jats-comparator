@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000300286</article-id>
+			<article-id pub-id-type="publisher-id">00004</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>El estudio y análisis de las intervenciones sociales consideradas como culturas políticas</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Research and analysis of social interventions considered as political cultures</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ortega-Senet</surname>
+						<given-names>María Belén</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Departamento de Ciencias Sociales, Universidad Católica de la Santísima Concepción y CIEDE-UCSC (Concepción, Chile) ORCID: 0000-0001-5457-6847.</institution>
+					<institution content-type="normalized">Universidad Católica de la Santísima Concepción</institution>
+					<institution content-type="orgdiv1">Departamento de Ciencias Sociales</institution>
+					<institution content-type="orgname">Universidad Católica de la Santísima Concepción</institution>
+					<addr-line>
+						<named-content content-type="city">Concepción</named-content>
+					</addr-line>
+					<country country="CL">Chile</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Correspondencia: email <email>belenmim@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<month>12</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>60</issue>
+			<fpage>286</fpage>
+			<lpage>294</lpage>
+			<history>
+				<date date-type="received">
+					<day>05</day>
+					<month>05</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>28</day>
+					<month>08</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>Tenemos ante nosotros un trabajo social con pretensiones de (trans) disciplina que se ve atrapado entre sus utopías y sus tecnologías integradas en dispositivos de poder y que, consideramos, podría tomar mayor control de sus propias posibilidades si se auto-observa como sistema que produce y reproduce culturas compartidas y relaciones socio-políticas. En el siguiente artículo, deseamos dirigirnos hacia la construcción de epistemologías para la aproximación analítica de las intervenciones y las acciones sociales del trabajo social desde parámetros socio-críticos y complejos, a través de la consideración de las intervenciones sociales como culturas políticas. El fin de esta reflexión es favorecer vías de comprensión de la práctica de intervención de forma integral, en interdependencia con lo macro social, para lograr cumplir con la necesaria tarea de nutrir reflexivamente las dimensiones del trabajo social.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>Social work as (trans) discipline is trapped between utopias and technologies integrated in devices of power and, we propose, could take more control of its own possibilities if it is self-observed as a system which produces and reproduces shared cultures and socio-political relations. In the following article, we focus on the construction of epistemologies for the analytical approximation of interventions and social actions of social work from socio-critical and complex parameters. We make this approach through the consideration of social interventions as political cultures. The purpose of this paper is proposing ways of understanding intervention as practice in an integral way, in interdependence with the macrosocial context, to achieve the necessary task of to feed, reflexively, the dimensions of social work.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>investigación crítica</kwd>
+				<kwd>intervención</kwd>
+				<kwd>trabajo social</kwd>
+				<kwd>cultura política.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>critical research</kwd>
+				<kwd>intervention</kwd>
+				<kwd>social work</kwd>
+				<kwd>political culture.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="14"/>
+				<page-count count="9"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>El trabajo social como disciplina de la reflexión/acción se ve en la tesitura de hacer investigación desde su particularidad transdisciplinar y sin perder su sentido crítico. Esta situación empuja a irnos conformando desde la complejidad, e ir resolviendo cómo escapamos del encasillamiento de la profesión como tecnología sin renunciar a nuestra trayectoria práctica. Es decir, cómo nos deshacemos de las etiquetas sin perder identidad, sin perder reconocimiento: esa identificación que, como señalaba Søren Kierkegaard, al nombrarnos nos niega.</p>
+			<p>Para ir contribuyendo a esta configuración, o “reconfiguración” que diría Vélez Restrepo, de la investigación en trabajo social, el siguiente artículo pretende centrarse en la intervención como foco u objeto de estudio, con la idea de aportar a la reflexión de una investigación crítica de la realidad interventiva, fundamentándose en una propuesta de las intervenciones sociales concebidas como culturas políticas. </p>
+			<p>Este lazo constitutivo entre lo cultural y lo político, comprende que las culturas, esos hábitats de significados compartidos como lo definiría Benedict Anderson, no pueden ser comprendidas adecuadamente sin las consideraciones de las relaciones de poder imbricadas y sin las intenciones de construcción práctica del ser y deber ser de las convivencias, las tomas de decisiones y el control de los recursos materiales y simbólicos. Por otro lado, “la comprensión de la configuración de esas relaciones de poder no es posible sin el reconocimiento de su carácter ‘cultural’ activo en la medida que expresan, producen y comunican significados” (<xref ref-type="bibr" rid="B1">Álvarez <italic>et al</italic> 2008</xref>:56). Esto es, lo cultural no se comprende sin lo político y viceversa y aceptar esta imbricación entre cultura y política es desafiarnos a buscar aproximaciones coherentes.</p>
+			<p>Nos tienta hacer una epistemología para el abordaje de la intervención en base a propuestas de investigación crítica, tal como lo han venido haciendo los estudios culturales latinoamericanos de García Canclini, Grossberg, Hoetmer, Ceceña, Briones y tantos otros. No obstante, en la tesitura en la que está el trabajo social no deja de ser un reto. Esta afirmación surge teniendo en cuenta la considerable importancia dada a los espacios anglosajones de producción académica en el ámbito de la investigación del trabajo social, donde afloran con protagonismo los estudios dirigidos a fundamentar la Intervención Basada en Evidencia (Evidence Based Practice-EBP): “Un significativo número de investigadores del trabajo social y educadores han reconocido la importancia de la EBP. Y lo que es más importante, el reciente aumento de interés en la EBP es aumentar la sensibilidad sobre la importancia de considerar la evidencia empírica en la selección de intervenciones entre los profesionales que tal vez no hayan considerado tal evidencia en el pasado” (<xref ref-type="bibr" rid="B9">Jenson 2014</xref>:566). Y se observa que, de alguna manera, la preferencia por la EBP se erige en desmedro de otras aproximaciones críticas de análisis de la intervención más cercanas a los procesos de reconceptualización del trabajo social latinoamericano.</p>
+			<p>No es nuestra intención deslegitimar a las EBP bajo la acusación de su fundación sobre las lógicas empiristas y positivistas de las áreas de salud y la medicina. Consideramos que estos modelos pueden ser una forma conveniente de relevar cierto conocimiento desde y para la práctica; pero requerimos también abrir caminos alternativos de investigación cualitativa que integren a los actores con sus complejas relaciones prácticas y simbólicas, así como permitirnos estudios críticos que nos faciliten tomar posiciones claras de nuestros papeles como investigadores y las consecuencias de nuestras investigaciones. Tal como señala Juan Saavedra en su artículo <italic>La paradoja de la negación de la intervención en trabajo social</italic> (Cinta de Moebio 59), requerimos de toda la diversidad de enfoques y complementariedad disciplinaria para el abordaje de los problemas sociales. Esta afirmación se fundamenta a la observación hecha por Gianinna Muñoz en su artículo <italic>Contrapuntos epistemológicos para intervenir lo social</italic> (Cinta de Moebio 40), de que requerimos una escritura más acorde a la complejidad de los fenómenos sociales en el trabajo social. </p>
+			<p>Así pues, deseamos acercarnos a formas de abordar el estudio y análisis de la intervención que no caigan en una postura aséptica, obviando que jugamos papeles políticos en cada acto social que hacemos: “Pasamos de una concepción representacionista del conocimiento a considerarlo una actividad política localizada que lleva a preguntarnos sobre el lugar desde el qué lo producimos, con quién lo producimos y las consecuencias que genera. Investigar es actuar políticamente a la vez que actuar supone generar conocimiento. La separación entre investigación y acción es una idealización y purificación de categorías afín a una forma de gobierno” (<xref ref-type="bibr" rid="B2">Balasch <italic>et al</italic> 2005</xref>:112). Una apuesta por un tipo de investigación concreta es, también, una apuesta por una forma de construcción del ordenamiento de la convivencia.</p>
+			<p>A raíz de lo anterior, abogamos por una investigación social crítica diferenciadamente de su hermana la Investigación Acción Participativa (IAP) y sus modalidades, puesto que consideramos que pertenecen a la investigación acción crítica y no una investigación crítica de la acción o la intervención. Independientemente de que la investigación crítica constituye actos y consecuencias y perfectamente puede conllevar metodologías participativas, tienen objetos y procesos distintos. </p>
+			<p>También consideramos a la sistematización de las experiencias, a pesar de las discusiones vigentes en cuanto a su legitimidad como método de investigación, como una modalidad más que válida de análisis de la intervención. Valoramos de ella su utilidad para la reflexión-acción, porque ha mostrado una capacidad orgánica de encontrarse con el día a día de los actores, sin perder el norte emancipatorio, consolidándose como herramienta para el repensar colectivo del reparto del poder en las áreas fundamentales de la vida social. Sin embargo, en respuesta a la procura por encontrar formas ambiciosas de análisis multidimensionales que incluya estructuras, prácticas y el mundo inaprensible de lo simbólico, queremos aportar a la discusión de una investigación que trascienda lo disciplinar y las desconfianzas sobre los logros de la sistematización de las experiencias. </p>
+			<p>El estudio desde y para disciplinas muy ligadas al hacer social profesional requieren, y de ahí el sentido de esta propuesta, arriesgar estrategias que nos permitan conectar con el obrar, sentir y pensar de las personas protagonistas y su cotidianidad, una cotidianidad de la intervención vinculada a dispositivos, pero también de creatividad; es decir, que podamos visibilizar la dimensión no oficial de los procesos de creación y recreación de formas sociales en sus aspectos culturales, entendiendo cultura en el sentido de medios significativos socialmente compartidos flexibles y cambiantes en toda su diversidad y formas particulares de vivirlo.</p>
+			<p>Consecuentemente, hacemos una reflexión alrededor de qué premisas epistemológicas podemos utilizar para hacer una investigación de la intervención desde un enfoque crítico, asumiéndola como espacio complejo de relaciones con connotaciones políticas, sociales y culturales: “La intervención es una productora de subjetividad y de realidad social: aporta construcciones discursivas, formas de comprender y explicar según una direccionalidad definida y organizada. Es decir, la intervención designa, nombra, califica, y de hecho, le da una forma definida a las cuestiones sobre las que actúa, dentro de un orden, una lógica precisa que se va construyendo a través de diferentes formas de relación” (<xref ref-type="bibr" rid="B5">Carballeda 2008</xref>:76). Para ello, contribuiremos a las ideas de comprensión compleja de la intervención de Carballeda, poniendo el acento en las relaciones mismas de poder y potencia con sus estructuras, prácticas y actos, discursos e imaginarios, asumiendo la intervención como cultura política y a las relaciones como procesos enactivos bajo las premisas de Francisco Varela: “Más que en la representación de un ‘mundo exterior’ por una ‘mente’ separada de éste, el enfoque enactivo hace énfasis en la acción o puesta en marcha de una relación entre cultural y política, en nuestro caso, entre mente, cuerpo y mundo en el de Varela” (<xref ref-type="bibr" rid="B7">Escobar 1999</xref>:155). </p>
+			<p>El fin de esta reflexión es favorecer caminos para la aprehensión de la complejidad de la práctica interventiva de forma integral en interdependencia con lo macro social, para lograr cumplir con la necesaria tarea de nutrir reflexivamente las dimensiones ontológicas, epistemológicas, metodológicas, políticas y éticas de la acción social planificada.</p>
+		</sec>
+		<sec>
+			<title>Cultura y política en recursividad</title>
+			<p>Desde que Almond y Verba, en 1965, propusieran el concepto de “political culture”, entendiéndolo como cúmulo de conocimientos, sentimientos y evaluaciones en relación con el sistema político determinado, ha sido diversamente traducido y desarrollado. Para autores referentes latinoamericanos de los estudios culturales como García-Canclini y Escobar se llamó “política cultural” y fue “cultura política” para la prolífica línea mexicana que tomaron Krotz, Varela, Tejera, Castro y Rodríguez, entre otros. Todos ellos tienen en común la introducción de lo simbólico y la recuperación del actor social como protagonista del estudio de la cultura política.</p>
+			<p>Vamos a partir por los análisis hechos por Scheneider y Avenburg, donde los principales conceptos asociados a cultura política en las últimas décadas la identifican como: “La matriz de significados encarnados en símbolos, prácticas y creencias colectivas (…) En esa matriz actúan las personas, disputando esos significados y luchando a veces incluso por expandir los mismos límites de lo que se considera o no posible, lo concebible y lo realizable” (<xref ref-type="bibr" rid="B13">Schneider y Avenburg 2015</xref>:19). Nos agrada esta definición porque esta matriz se puede pensar como <italic>universo simbólico</italic>, “donde los seres humanos mismos son los actores de papeles preestablecidos, pero también sus creadores” (<xref ref-type="bibr" rid="B10">Krotz 1985</xref>:125), en un juego de estabilidad y cambio que convierte a los sistemas sociales en tan interesantes como difíciles de aprehender.</p>
+			<p>Desde la antropología aplicada al desarrollo se han dado diversos esfuerzos en observar cómo se produce esta retroalimentación entre las culturas y lo político: “Con la expresión política cultural nos referimos al proceso por el cual lo cultural deviene en hechos políticos” (<xref ref-type="bibr" rid="B1">Álvarez <italic>et al</italic> 2008</xref>:56), donde cultura y política se vienen a constituir en una diada interrelacionada que se entrelazan de forma enactiva: “El enfoque enactivo en nuestro caso, finalmente, conlleva un acoplamiento entre cultura y política que enactúa (hace emerger) nuevos mundos o posibilidades de significación y práctica” (<xref ref-type="bibr" rid="B7">Escobar 1999</xref>:143).</p>
+			<p>Esta interacción enactuada debe ser entendida como “entramados en las redes cotidianas y como constructores y configuradores de nuevos vínculos interpersonales, inter-organizacionales y político-culturales” (<xref ref-type="bibr" rid="B7">Escobar 1999</xref>:143), que considera la diversidad de intereses de los actores en su heterogeneidad, en conexión con sus procesos históricos.</p>
+			<p>Poner la atención en los entramados enactivos requiere también sensibilidad en la diversidad de la dinámica interna de los universos simbólicos: que hablemos de culturas, no significa que hablemos de circuitos de prácticas y significación unívoca y acabada. De esta manera, integramos a los signos y símbolos que afectan las estructuras de poder como resultado de la combinación de actuar y pensar los eventos políticos que se ponen en juego, con el propósito de alcanzar ciertos objetivos o espacios sociales articulados como proyectos y utopías, incluidas las utopías ligadas a los cambios derivados de la intervención y a la transformación social.</p>
+			<p>Estas utopías del cambio están imbuidas de mitos, símbolos, idearios y aspiraciones, como parte de su “reelaboración simbólica”, como señalaba <xref ref-type="bibr" rid="B12">Muñoz (1998</xref>) con respecto a otra utopía: la democracia. Los análisis de Muñoz son perfectamente extrapolables a las intervenciones ya que estas, al igual que las democracias, son entramados de organización socio política, micro y macro social que requieren de agencia, consenso, racionalidad, organización, distribución, interacción, representaciones sociales, imaginarios, nombres y categorías que, a su vez, se autoconstruyen como legítimas y, también, generan resistencias. </p>
+			<p>Hay, entonces, en la intervención una construcción permanente de praxis política entre actores con todos los elementos que menciona Muñoz. Conllevan dominación y también estrategias personales y comunes, dentro y fuera de los canales normalizados, pudiendo conformar acciones de resistencias. </p>
+			<p>Lo político con sus resistencias, alianzas, reproducción y creación, se manifiestan tanto en espacios institucionalizados de la intervención como espacios no institucionales. Por ello, una visión totalizadora, reconoce estos ámbitos de la vida diaria interventiva que dejan de ser invisibles para ser asumidos como lugares políticos. Alberto Melucci, a lo largo de sus reflexiones de la acción social entendida como movimiento social, recupera estos espacios cotidianos supuestamente despolitizados para imbuirlos de construcción política. Bien pueden equipararse estos a los espacios denominados como “terreno” por los interventores: las poblaciones y sus calles, los domicilios, las sedes, generalmente lugares de vida cotidiana de los participantes de los programas sociales y (des) encuentro con los profesionales de la acción social. En “terreno” es especialmente cuando los actores en alianza o en contraposición desarrollan estrategias de resistencia en los espacios en los que sí tienen control.</p>
+			<p>Estas nuevas miradas de los espacios donde se produce la política, nos retroatrae a James Scott cuando desarrolla su tesis de “infrapolítica” como lugar de espacios de resistencia cotidiana donde se despliegan de modo <italic>oculto</italic>: “Por ejemplo: la caza furtiva, las tácticas dilatorias en el trabajo, el hurto, los engaños, las fugas. En conjunto, estas formas de insubordinación se pueden adecuadamente llamar la infra política de los desvalidos” (<xref ref-type="bibr" rid="B14">Scott 1985</xref>:22). Nancy Fraser también nos habla de un concepto muy relacionado: el de “contrapúblicos subalternos”. Ella utiliza esta denominación para referirse a los “espacios discursivos paralelos donde los miembros de los grupos sociales subordinados inventan y hacen circular contra-discursos, lo que a su vez les permite formular interpretaciones opuestas de sus identidades, intereses y necesidades” (<xref ref-type="bibr" rid="B8">Fraser 1997</xref>:115). </p>
+			<p>Con todo lo anterior, una visión amplia sobre las dinámicas del trabajo social acoge las prácticas y las relaciones simbólicas: las utopías, los imaginarios, las representaciones, dando lugar a los encuentros entre la enacción de los sujetos, las estructuras y dinámicas del entramado sociopolítico, público y privado, en todos sus sentidos, de la intervención social. En esta composición, las resistencias, las subalternidades, las infrapolíticas, las alianzas entre iguales y entre desiguales que terminan realizando pactos y negociaciones entre individuos y grupos son fundamentales y algunos se instauran como relaciones clientelares tan sutiles como comunes. Es por esto, que considerar la intervención como culturas políticas nos encamina a observar cómo emerge como un espacio de ordenamiento de relaciones de poder y cambio de estas mismas, atravesadas por valores, éticas y expectativas de futuro, que se mueven en circunscripciones determinadas desde los marcos y los dispositivos, pero a la vez pretende transformarlas, en un juego recursivo donde lo pensable como cambio social juega un papel relevante.</p>
+		</sec>
+		<sec>
+			<title>Las intervenciones sociales como culturas políticas</title>
+			<p>En la reflexión que nos ocupa, hemos estado aludiendo a una concepción de lo político como totalidad, lo cual hace referencia a concebir lo político en términos totalizantes, tal como Foucault comprende la “microfísica del poder”, la cual se cuela por los rincones más insospechados, los aspectos más privados y “apolíticos” de la vida, hasta alcanzar el propio cuerpo de los individuos. De este modo, en términos del autor, cuando el poder embebe la estructura, de una manera u otra siempre se conjuga con lo político, concibiéndose como un todo presente en cada una de las esferas de relación y construcción colectiva y subjetiva, donde las performatividades juegan papeles fundamentales en su reproducción. Lo anterior, integra aspectos no solo del disciplinamiento, sino también de resistencia simbólica y material que se despliegan en la vida cotidiana y en un nivel local.</p>
+			<p>Por otro lado, a la vez que observamos la “capilaridad del poder”, queremos también otorgar a los actores capacidad de cambio y cierto control en sus sistemas de forma distinta a las resistencias, pudiéndose dar concepciones alternativas, hetárquicas, copoderativas, o que se manifiestan dentro de lógicas adscritas a sistemas particulares donde las potencialidades, la “potentia” en términos de Dussel, se despliegan y donde el poder es incluyente, horizontal y participativo. </p>
+			<p>La forma de considerar la microfísica del poder tanto como la microfísica del empoderamiento, nos sitúa en una comprensión compleja de la intervención donde se desenvuelven diversas dimensiones o niveles que tienen que ver con las estabilidades operativas y la cotidianidad práctica y simbólica. </p>
+			<p>Con todo, señalamos que, a pesar de que podamos centrar nuestros esfuerzos de pesquisa en lo micro social de la acción cotidiana, la intervención no es algo que ocurre de forma aislada al margen de los sistemas en los que se sustenta, sino que nos fundimos en las dinámicas sociales que se integran en una red multidimensional y sistémica difícil de aislar, que opera como culturas políticas: “Los artefactos culturales, materiales y simbólicos son productos de complejos procesos políticos para la producción, apropiación y control de recursos significativos” (<xref ref-type="bibr" rid="B6">Castro y Rodríguez 2009</xref>:116). </p>
+			<p>En esta trama, las estructuras de intervención son claves. Entendemos como estructuras de intervención a ese nivel de los cuerpos sociales que se constituyen como dispositivos relativamente estables, que un sistema establece para su operatividad. Ejemplo de ello son las instituciones -estatales y civiles- ya que estas son pensadas como operativos sociopolíticos; pero también conforman estructura las legislaciones, las normativas, las regulaciones y las directrices.</p>
+			<p>Estas disposiciones son reconocidas por los actores como los marcos en los cuales pueden desarrollarse los procesos de trabajo para el cambio, lo que como diría J. Saavedra, no deja de ser una paradoja, tomando forma de programas, proyectos, bases técnicas, protocolos de acción y modelos estandarizados. No obstante, estas estabilidades no son inamovibles, sino que también son dinámicas, en parte porque lo político abarca espacios no previstos y se articula con la práctica social, los imaginarios y las representaciones del cambio.</p>
+			<p>Todo este conjunto nos acerca al mundo subjetivo e intersubjetivo de los sujetos de intervención, conformando posibilidades y probabilidades entretejidas con esperanzas de cambio, que se ven influidas, y en ocasiones forzadas, por las dinámicas estructurales. Como señala <xref ref-type="bibr" rid="B4">Carañana: “Se afirma la esperanza -principio clave del cambio social- y se señala adecuadamente que otro mundo es posible, pero se obvian los mundos que son más probables en las condiciones existentes y la estrategia y medios de que dispone cada parte para influir en el orden social (el cómo)” (2016</xref>:140).</p>
+			<p>Es por lo anterior, que un nivel de análisis de la intervención como cultura política integra representaciones sociales, imaginarios, ideologías, las utopías que se vehiculizan a través de símbolos: “El lenguaje, los símbolos instituidos, la imaginación de la sociedad y su propia imaginación acerca de qué es deseable y qué es posible constituyen un límite cultural para la acción pública” (<xref ref-type="bibr" rid="B11">Grimson 2011</xref>:9). Y tanto como los símbolos, son importantes los actos, las acciones humanas que, como señala Ricoeur, se muestran como “metáfora viva”, que articula ritualidades cotidianas y extraordinarias conformando sentidos compartidos de qué y cómo debe ser el mundo y nuestro papel en él como interventores y como intervenidos. </p>
+			<p>El acto performativo y los ritos los consideramos como ejes articuladores entre la reproducción y las representaciones, pero también entre la acción y la utopía. ¿Qué quiere decir esto? Por un lado, tal como lo entiende Austin, la performatividad constituye un hacer constante de relaciones institucionales e institucionalizadas a modo de doxas bourdianas que no se cuestionan, sino que simplemente son así, son las reglas del juego; y por otro, hay actos y nuevos ritos que buscan cambios de lo establecido hacia otras formas de relación social y transformaciones institucionales.</p>
+			<p>De ahí la importancia de describir y analizar los ordenamientos construidos socialmente en los cuales operan la organización social, es decir, determinar las denominaciones y el sustantivar, y cómo estás categorizan, incluyen, excluyen, estandarizan, normalizan y anormalizan; así como los desordenamientos, esto es, las nuevas formas de nombrar y actuar que persiguen cambios paradigmáticos y constitucionales de la práctica.</p>
+			<p>Definitivamente, todo lo que rodea a la intervención social es cultura y es política. No podemos olvidar que la distribución del poder afecta a la satisfacción de necesidades. Los satisfactores de necesidades y la garantía de los mismos, o no, son dependientes del contexto social e histórico y a todo el ideario construido alrededor del reparto inequitativo de los bienes y recursos materiales y simbólicos, de la forma de acceso a su uso y control y las exclusiones que se producen a partir de todo ello.</p>
+			<p>Cuando se establecen políticas sociales o intervenciones en determinadas poblaciones y no en otras, se justifica por la definición de quiénes son los carentes, pero no por la definición de cuáles son las dinámicas acumulativas. Lo que nos hace preguntarnos ¿en base a qué se justifican las intervenciones? ¿En base a qué se establece cuáles son los objetos y los sujetos de intervención? La respuesta es mucho más compleja que la remisión a las necesidades no satisfechas.</p>
+			<p>Considerar la intervención como cultura política en los términos en los que hemos estado mostrando nuestra argumentación, se conecta directamente a cómo las interacciones sociales constituyen sectores sociales, grupos de riesgo, vulnerabilidades, marginaciones, pobres y pobreza para las respuestas sociales correspondientes. Todo un juego político de reiteración y cambio de connotaciones vitales, cotidianas, constitutivas y enactivas enmarcadas en institucionalidades públicas y privadas.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Como conclusiones</title>
+			<p>Acercarnos cualitativamente para desenmarañar los entramados relacionales que subyacen en la vida interventiva, es aproximarnos a la realidad de lo que en el fondo es, o debería ser, un proyecto social que viene a ocupar un imaginario utópico como expectativas de conviviencias, donde la definición de la misma y sus posibilidades son fundamentales en el pensamiento de lo posible. Como vemos, este proyecto social está irremediablemente implicado en una articulación enrevesada de construcciones a la que Claudia Briones hace alusión remitiendo a la performatividad de Judith Butler: “La autora [Judith Butler] deriva que lo político no es un exterior constitutivo, sino que se aloja en las mismas prácticas de significación que establecen, regulan, desregulan y reconfiguran las identidades” (<xref ref-type="bibr" rid="B3">Briones 2007</xref>:66).</p>
+			<p>Desde este trabajo instamos a que, como trabajadores sociales, interventores, activistas sociales, o cualquiera de las disciplinas comprometidas con los problemas y la convivencia en todos sus órdenes, cuando investiguemos, tomemos un lugar fundamental de incidencia en la reflexión con los protagonistas de los sucesos y la transformación social, con vistas a construir una teoría y epistemología de la intervención. </p>
+			<p>El sentido de aventurarse en hacer análisis críticos de las intervenciones sociales, es que revele a estas en todas sus dimensiones y aristas, para lograr contribuir a nuevas prácticas empoderadas e imaginarios que permitan transformaciones efectivas y sostenibles de los sistemas sociales. Requerimos unos cambios que se resuelvan en la cotidianidad del trabajo social y la vida de los sujetos de intervención, que se abran a regenerados discursos y prácticas políticas y vitales. </p>
+			<p>Consideramos que la propuesta presentada nos posiciona en la cotidianidad de la intervención como cultura política en una investigación crítica que supera las limitaciones establecidas desde las hipótesis y las posiciones objetivistas, desde términos externos a los sujetos que la viven; particularmente, señala <xref ref-type="bibr" rid="B3">Briones: “cuando las dinámicas sociales no condicen con el funcionamiento identitario teóricamente previsto o deseable” (2007</xref>:73). Esta propuesta no es más que una alternativa plausible y complementaria que viene a aportar a los enfoques cualitativos de investigación que se dan bajo otras metodologías como la IAP y la Sistematización, en aras de construir un trabajo social, una acción social, reflexiva y comprometida con una progresiva vitalización de la garantía y protección del bienestar de las personas.</p>
+			<p>Finalmente encontramos diversos elementos que constituyen la intervención como cultura política que resumimos en una multidimensional de la intervención como objeto que abarca aspectos estructurales, prácticos y simbólicos; en una apertura a la visibilización tanto de dinámicas de poder como de empoderamiento; y en un acercamiento microsocial que no pierde de vista los contextos socio-históricos. El abordaje metodológico de tamaña empresa nos arrima a las metodologías etnográficas o etnometodologías y a alianzas interdisciplinares de envergadura. Cómo podemos resolverlo tendrá que ser objeto de otra reflexión operativa de la consideración de la intervención como cultura política.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Nota</title>
+			<p>Este artículo es producto de las reflexiones sobre la intervención derivadas de la investigación DIN 06/2015 denominada &quot;Trayectorias, sentidos y sentimientos: una reconstrucción desde quienes fueron NNA víctimas de explotación sexual comercial&quot;, financiada por la Universidad Católica de la Santísima Concepción.</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Álvarez, S. et. al. 2008. <italic>Culturas de américa latina y el Perú. Luchas, estudios críticos y experiencias</italic>. Lima: Programa Democracia y Transformación Social.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Álvarez</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<etal/>
+					</person-group>
+					<year>2008</year>
+					<source>Culturas de américa latina y el Perú. Luchas, estudios críticos y experiencias</source>
+					<publisher-loc>Lima</publisher-loc>
+					<publisher-name>Programa Democracia y Transformación Social</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Balasch, M. et. al. 2005. Investigación crítica: desafíos y posibilidades. <italic>Athenea Digital</italic> 8: 129-144. <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=53700807">http://www.redalyc.org/articulo.oa?id=53700807</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Balasch</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<etal/>
+					</person-group>
+					<year>2005</year>
+					<article-title>Investigación crítica: desafíos y posibilidades</article-title>
+					<source>Athenea Digital</source>
+					<volume>8</volume>
+					<fpage>129</fpage>
+					<lpage>144</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=53700807">http://www.redalyc.org/articulo.oa?id=53700807</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Briones, C. 2007. Teorías performativas de la identidad y performatividad de las teorías. <italic>Tabula Rasa</italic> 6: 55-83. <ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/bs7tr7">http://ref.scielo.org/bs7tr7</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Briones</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Teorías performativas de la identidad y performatividad de las teorías</article-title>
+					<source>Tabula Rasa</source>
+					<volume>6</volume>
+					<fpage>55</fpage>
+					<lpage>83</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/bs7tr7">http://ref.scielo.org/bs7tr7</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Carañana, P. 2016. Hacia un enfoque epistemológico pluralista en los estudios de comunicación y cambio: humanismo, ciencia y ecologismo. <italic>OBETS</italic> 11(1): 129-164. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.14198/OBETS2016.11.1.06">https://doi.org/10.14198/OBETS2016.11.1.06</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carañana</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Hacia un enfoque epistemológico pluralista en los estudios de comunicación y cambio: humanismo, ciencia y ecologismo</article-title>
+					<source>OBETS</source>
+					<volume>11</volume>
+					<issue>1</issue>
+					<fpage>129</fpage>
+					<lpage>164</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.14198/OBETS2016.11.1.06">https://doi.org/10.14198/OBETS2016.11.1.06</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Carballeda, A. 2008. <italic>Cuerpos fragmentados. La intervención en lo social en los escenarios de la exclusión y el desencanto</italic>. Buenos Aires: Paidós.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carballeda</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Cuerpos fragmentados. La intervención en lo social en los escenarios de la exclusión y el desencanto</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Paidós</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Castro, P. y Rodríguez, L. 2009. Antropología de los procesos políticos y del poder. <italic>Alteridades</italic> 19(38): 107-127. <ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/kf47xt">http://ref.scielo.org/kf47xt</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castro</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Antropología de los procesos políticos y del poder</article-title>
+					<source>Alteridades</source>
+					<volume>19</volume>
+					<issue>38</issue>
+					<fpage>107</fpage>
+					<lpage>127</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/kf47xt">http://ref.scielo.org/kf47xt</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Escobar, A. 1999. <italic>El final del salvaje. Naturaleza, cultura y política en la antropología contemporánea</italic>. Bogotá: ICAN</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Escobar</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>El final del salvaje. Naturaleza, cultura y política en la antropología contemporánea</source>
+					<publisher-loc>Bogotá</publisher-loc>
+					<publisher-name>ICAN</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Fraser, N. 1997. <italic>Iustitia interrupta: reflexiones críticas desde la posición “postsocialista”</italic>. Bogotá: Siglo del Hombre Editores. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fraser</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<source>Iustitia interrupta: reflexiones críticas desde la posición “postsocialista”</source>
+					<publisher-loc>Bogotá</publisher-loc>
+					<publisher-name>Siglo del Hombre Editores</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Jenson, J.M. 2014. Science, social work, and intervention research. <italic>Research on Social Work Practice</italic> 24(5): 564-570. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1049731513517144">https://doi.org/10.1177/1049731513517144</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jenson</surname>
+							<given-names>J.M.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Science, social work, and intervention research</article-title>
+					<source>Research on Social Work Practice</source>
+					<volume>24</volume>
+					<issue>5</issue>
+					<fpage>564</fpage>
+					<lpage>570</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1049731513517144">https://doi.org/10.1177/1049731513517144</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Krotz, E. 2005. Cultura política: en busca del concepto. Alteridades 15(29): 135-138. <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=74702914">http://www.redalyc.org/articulo.oa?id=74702914</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Krotz</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Cultura política: en busca del concepto</article-title>
+					<source>Alteridades</source>
+					<volume>15</volume>
+					<issue>29</issue>
+					<fpage>135</fpage>
+					<lpage>138</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=74702914">http://www.redalyc.org/articulo.oa?id=74702914</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Grimson, A. 2011. <italic>Los límites de la cultura. Crítica de las teorías de la identidad</italic>. Buenos Aires: Siglo XXI.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grimson</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Los límites de la cultura. Crítica de las teorías de la identidad</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Muñoz, B. 1998. La política social y participación ciudadana desde la óptica de la antropología social. <italic>Última Década</italic> 9: 2-29. <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=19500907">http://www.redalyc.org/articulo.oa?id=19500907</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muñoz</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<article-title>La política social y participación ciudadana desde la óptica de la antropología social</article-title>
+					<source>Última Década</source>
+					<volume>9</volume>
+					<fpage>2</fpage>
+					<lpage>29</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=19500907">http://www.redalyc.org/articulo.oa?id=19500907</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Schneider, C. y Avenburg, K. 2015. Cultura política: un concepto atravesado por dos enfoques. <italic>Postdata</italic> 20(1): 109-131. <ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/y5qy5t">http://ref.scielo.org/y5qy5t</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schneider</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Avenburg</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Cultura política: un concepto atravesado por dos enfoques</article-title>
+					<source>Postdata</source>
+					<volume>20</volume>
+					<issue>1</issue>
+					<fpage>109</fpage>
+					<lpage>131</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/y5qy5t">http://ref.scielo.org/y5qy5t</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Scott, J. 1985. <italic>Weapons of the weak: everyday forms of peasant resistance</italic>. New Haven: Yale University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Scott</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1985</year>
+					<source>Weapons of the weak: everyday forms of peasant resistance</source>
+					<publisher-loc>New Haven</publisher-loc>
+					<publisher-name>Yale University Press</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

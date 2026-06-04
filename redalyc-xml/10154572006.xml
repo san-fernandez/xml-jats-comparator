@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.6" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000200186</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Una arqueología hegeliana de las teorías de desarrollo</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>A Hegelian archaeology of development theories</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jiménez-Castillo</surname>
+						<given-names>Manuel A.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original"> Facultad de Ciencias Económicas y Administrativas, Universidad Católica de Pereira (Pereira, Colombia) ORCID: 0000-0002-4450-9779. (majimenezcastillo@gmail.com)</institution>
+					<institution content-type="normalized">Universidad Católica de Pereira</institution>
+					<institution content-type="orgdiv1">Facultad de Ciencias Económicas y Administrativas</institution>
+					<institution content-type="orgname">Universidad Católica de Pereira</institution>
+					<addr-line>
+						<named-content content-type="city">Pereira</named-content>
+					</addr-line>
+					<country country="CO">Colombia</country>
+					<email>majimenezcastillo@gmail.com</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<season>Apr-Sep</season>
+				<year>2017</year>
+			</pub-date>
+			<issue>59</issue>
+			<fpage>186</fpage>
+			<lpage>197</lpage>
+			<history>
+				<date date-type="received">
+					<day>15</day>
+					<month>12</month>
+					<year>2016</year>
+				</date>
+				<date date-type="accepted">
+					<day>06</day>
+					<month>03</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>La imposibilidad del desarrollo para conciliar normativamente imparcialidad con pluralidad responde a un sesgo de carácter ontológico. Esta ruptura, que constituye la esencia misma de los estudios del desarrollo, supone aceptar que cualquier teoría del desarrollo que se precie se encuentra sustancialmente inacabada. De tal imposibilidad emerge, sin embargo, un perfeccionamiento que transcurre dialécticamente en términos de <italic>doble negación</italic> hegeliana por el cual las distintas teorías van perfeccionándose a partir de un mayor grado de concienciación normativa. Este perfeccionamiento alcanza analíticamente un estado absoluto de desarrollo definido como libertad. Un concepto (no empírico) que perfecciona el presentado por Amartya Sen, facultado para reconciliar analíticamente el sesgo originario. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>The impossibility of development to gather normatively impartiality and plurality makes itself to be ontologically incomplete. Nevertheless, the analytical that emerges in the very essence of development discipline implies to accept that any development theory is and will always be unfulfilled. Nevertheless, and beyond that substantive impossibility, an improvement occurs dialectically in terms of Hegelian <italic>double negation</italic> by which each theory is overcome by a higher grade of normative awareness by the following one. This improvement reaches analytically an absolute dimension of development as freedom. A concept (no empiric) that goes beyond such introduced by Amartya Sen, which it is well able of including all human determinations that ultimately allow to meet analytically those edges of the gap. </p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>absolute development</kwd>
+				<kwd>impartiality</kwd>
+				<kwd>freedom</kwd>
+				<kwd>plurality</kwd>
+				<kwd>Hegel</kwd>
+				<kwd>Sen.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>desarrollo absoluto</kwd>
+				<kwd>imparcialidad</kwd>
+				<kwd>libertad</kwd>
+				<kwd>pluralidad</kwd>
+				<kwd>Hegel</kwd>
+				<kwd>Sen.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="12"/>
+				<page-count count="12"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Una aproximación introductoria al asunto</title>
+			<p>El desarrollo como categoría conceptual se instituye en una teoría de justicia social a partir de la reconciliación de dos fenómenos que en su estado formal se presentan antagónicamente; por un lado, qué cosa entendemos por desarrollo (<italic>teoría de</italic>), y por otro, cuáles son los determinantes que posibilitan su operatividad (<italic>cooperación para</italic>). Del resultado de esa correspondencia aplica toda una teoría normativa de justicia social que en su devenir histórico ha ido evolucionando -de la teoría de la utilidad al concepto de libertad postseniano- junto con aquellas políticas dadas a su implementación -del asistencialismo a la cooperación sostenible. Dos categorías cuya realidad está destinada a encontrarse de modo dialéctico en una teoría donde el encuentro entre lo imparcial y lo plural tenga como resultado un perfeccionamiento normativo y material en el bienestar real de los individuos. Lo dialéctico del asunto se establece a priori pues a toda teoría del desarrollo se le exige ser tan imparcial como para poder establecer normativamente qué es y qué no es desarrollo -libertades, necesidades, ingresos y/o utilidades- y plural como para reconocer las distintas sensibilidades de los actores participantes en ella.</p>
+			<p>Si bien esto ha sido así para cada una de las teorías del desarrollo -ya sean económicas o humanas- no todas han alcanzado con igual éxito ese grado de reconciliación entre lo uno y lo otro generando una extensa crisis de legitimación de los estudios del desarrollo (Escobar, <italic>El post-desarrollo como concepto y práctica social</italic>). Un conflicto que revela ser, a la vez, el verdadero mecanismo que lo funda conceptualmente, colocándonos frente a un primado <italic>nouménico</italic> excepcional: la realidad del desarrollo -aquello que hacia lo que el concepto se predispone- ya no sería un problema de corte epistemológico que enfrenta una realidad enteramente cognoscible pero inabarcable, sino otra más radical donde la imposibilidad no está en el sujeto mismo que conoce y sí en la realidad objeto de estudio. Tal interpretación no solo cuestiona la visión clásica de entender el desarrollo desde categorías a-históricas y cerradas, sino que lo proyecta como ejercicio cuya resolución debe ser pospuesta <italic>ad infinitum</italic> a un estado de perfecta reconciliación entre elementos; eso que daremos en llamar <italic>desarrollo absoluto</italic>.</p>
+			<p>La imposibilidad empírica de alcanzar este estado último no le arrebata relevancia, pues su facultad inmanente reside en iluminar acerca de su propio “hacerse”, es decir, el intento nunca conseguido de reconciliar el hiato entre imparcialismo y pluralismo es lo que, a fin de cuentas, estimula el perfeccionarse de una teoría del desarrollo frente a la otra. Así, por ejemplo, las teorías contemporáneas -modernidad, estructuralista, neo-marxista y neoclásica- giran alrededor del concepto normativo de utilidad que atiende la pluralidad -subjetivismo de las preferencias- relegando lo imparcial de la justicia (incomparabilidad interpersonal); y aunque en sí ello es correcto, el concepto de equidad en la teoría rawlsaniana de justicia primando lo imparcial frente a lo plural -bienes primarios- acaba siendo una teoría más perfeccionada que la anterior. Su mejoramiento no radica en el hecho de privilegiar un elemento frente al otro, sino en las implicaciones normativas que suponen mitigar la distancia entre ambos. </p>
+			<p>El objetivo general de este trabajo pretende explicar bajo qué razones se inscribe un progresivo perfeccionamiento normativo -estrechamiento del hiato imparcialismo versus pluralismo- desde las teorías contemporáneas de desarrollo surcando la teoría de justicia de John Rawls, la de necesidades básicas, hasta así alcanzar la teoría de Amartya Sen de capacidad. Aún si ninguna de ellas podrá reconciliar definitivamente la ruptura anterior, ello no debe inclinar el ánimo a la dejadez y el estupor de no hallar en su mejoramiento verdad. El proceso mismo de insatisfacción que estimula el desarrollo de una nueva teoría se asemeja al método dialéctico hegeliano utilizado en este trabajo -el motor de la dialéctica es que los términos se entiendan-, por el cual lo incompleto de una (tesis) inscribe en su negación (antítesis) el florecimiento de una nueva (síntesis), alcanzando así un perfeccionamiento normativo y material en el bienestar real. </p>
+			<p>Ahora bien, ¿cuáles son las razones que inclinan este estudio hacia una metodología hegeliana? Vayamos por partes. En primer lugar, nos topamos con el concepto de libertad como elemento vertebrador de toda la filosofía hegeliana y del momento más perfeccionado de la teoría del desarrollo. Si bien para el primero la libertad consiste en el desplegarse del espíritu de la razón universal como aquello que será; “yo soy el que seré como negación de lo finito y pasajero de lo presente” (<xref ref-type="bibr" rid="B6">Hegel 2012</xref>:89), en la teoría seniana primero y post-seniana después, acontece como el instante más perfeccionado del concepto de desarrollo. En segundo lugar, un estudio calidoscópico de las distintas teorías del desarrollo irradia una correspondencia muy directa con el principio evolutivo hegeliano de doble negación con el que cada teoría emerge del perfeccionado resultado ético de la anterior. Finalmente, los aspectos de imparcialidad y pluralidad pueden asemejarse tanto en su naturaleza ontológica como en su proceder al sistema de reconocimiento implícito en el concepto hegeliano de <italic>eticidad</italic>. El “yo” y “lo otro” hegeliano se identifican en lo plural e imparcial del concepto de desarrollo, y en ambos, su realidad se completa superando todo un proceso de desgarramiento “sentimiento indiferenciado” de extrañeza en el que “yo (plural) solo puedo conocerme en esa totalidad singular en la conciencia del otro (imparcialidad)” pues “al promover mi fin, promuevo lo universal, que promueve a su vez mi fin” (<xref ref-type="bibr" rid="B5">Hegel 2010</xref>:243). </p>
+			<p>Todo ello para, en definitiva, arrojar luz sobre el concepto de desarrollo como aquello que es esencial a sí mismo, entendido no como el estudio de lo contingente para cada momento histórico-social -una teoría frente a la otra-, sino en lo que se sostiene como aquello semejante a sí mismo: “el espíritu (del desarrollo) no fluctúa en el juego exterior de las contingencias, sino que es en sí lo absolutamente determinante” (<xref ref-type="bibr" rid="B6">Hegel 2012</xref>:128). El estudio de lo que es inmanente en el desarrollo procura analizar las teorías como simples momentos históricos de su realización, donde cada una de ellas se va completando como resultado de una contradicción interna que no es capaz de resolver sin destruir. El estudio de cada uno de estos conceptos y su resolución definitiva serán examinados en los apartados siguientes.</p>
+		</sec>
+		<sec>
+			<title><bold>Hegel en los estudios del desarrollo: la idea del</bold> 
+ <bold>
+ <italic>absoluto</italic>
+</bold> 
+ <bold>del desarrollo</bold></title>
+			<p>Más allá del entendimiento de enfrentar conceptos -desarrollo económico frente a desarrollo humano- destaca el poder “dialéctico” de la razón (hegeliana) que primero niega (antítesis) para afirmar después en un nivel de conciencia superior (síntesis). Si sometemos los estudios del desarrollo a este proceder metodológico, su realidad ya no se conformaría como resultado de distintos enfoques “competitivos” ideológicamente enfrentados, donde la escuela de la modernización se enfrenta a la estructuralista o la rawlsaniana a la de necesidades básicas. En lugar de ello, nos encontraríamos con una nueva manera de interpretar el desarrollo, esta vez como un proceso inmanente a su concepto que implica un principio de evolución dialéctica de cada una de las teorías como punto de inflexión a la ruptura <italic>nouménica</italic> entre imparcialidad y pluralidad. Ello con el fin de alcanzar un estado de perfeccionamiento que nos permita entender el desarrollo desde su fundamento primero: <italic>desarrollo absoluto</italic>, es decir, el desarrollo sustraído de toda contingencia -el desarrollo es esto o lo otro- para reconocerse como realidad autoconsciente: “lo que se sabe en sí y para sí mismo” (<xref ref-type="bibr" rid="B6">Hegel 2012</xref>:32).</p>
+			<p>Ahora bien, ¿qué es ese desarrollo absoluto y cómo se llega a él? Si partimos de la base de que las teorías del desarrollo solo captan la esencia misma del concepto a partir de lo transitorio del momento histórico en el que se subscriben, será necesario examinar lo que se sostiene igual a sí mismo en ese periplo. Un proceso que en su transitar de la una a la otra se atribuye dos propiedades. En primer lugar, la que establece cada teoría consigo a la hora de determinar qué cosa entiende por desarrollo y, por otro, la que ocurre entre una y otra en tanto que instantes que aspiran a la totalidad “desarrollo absoluto”. Con respecto a la primera, cada teoría resuelve momentáneamente el conflicto entre lo imparcial y lo plural como un instante preciso de la relación hegeliana el “yo” y “lo otro” que permanentemente se objetiva y exterioriza. El mecanismo seguido se muestra de la siguiente manera: mientras que el sujeto “plural” se atiene a la conciencia con capacidad de interiorización, “vuelta a sí mismo” se relaciona de forma natural con lo que es extraño a sí mismo “lo otro-imparcial” y, de ese encuentro, resulta lo real del valor de cada teoría -utilidad, equidad, necesidad o libertad. Cada valor cristaliza un instante de esa relación entre lo imparcial y lo plural que constituye el fundamento para cada teoría de justicia social: “Todo lo que existe está en relación <italic>Verhältnis</italic>. Y esta relación constituye lo verdadero de toda existencia. Así, lo que no es para sí de un modo abstracto, sino solamente en lo otro, y en este otro está en relación consigo mismo; y la relación es la unidad de la relación consigo mismo y de la relación con lo otro” (<xref ref-type="bibr" rid="B5">Hegel 2010</xref>:184).</p>
+			<p>El segundo de los momentos de la dialéctica tiene que ver con el tránsito de una teoría a la otra. Aquí, el propio “hacerse” dialéctico se despliega en un instante donde se niega (por ejemplo, la teoría de la modernización es negada por otras de corte más humano), lo que en un primer momento afirma el entendimiento para cada teoría específica -la utilidad como medida de bienestar-, para finalmente superar esa negación anterior a través de una síntesis perfeccionada de ambas posiciones -el concepto de equidad frente al de utilidad. Este saberse superior de la una frente a la otra, solo puede sostenerse apelando a un concepto del valor donde lo imparcial sea más plural y lo plural más imparcial que lo que ofrecía la teoría anterior. Ello exige no solo el reconocimiento de la existencia de ese estado último, sino también el del reconocimiento de su específica naturaleza, pues no solo sostenemos la existencia <italic>re-lacional</italic> de las teorías, sino también la existencia de un orden serial jerarquizado.</p>
+			<p>Es decir, si sostenemos que cada teoría del desarrollo representa una etapa más perfeccionada del camino hacia el desarrollo absoluto, se deduce que aquella teoría que tenga un mayor contenido de ese momento último se distinguirá como mejorada frente a la otra. Pero, ¿qué entendemos aquí por “mejorada”? o, en otras palabras, ¿qué llena de contenido, a fin de cuentas, el concepto absoluto de desarrollo? Siguiendo la directriz hegeliana según la cual “la verdad es totalidad” que reconcilia <italic>lo otro-diferente de sí (imparcialidad)</italic> y lo que es como sí mismo (<italic>pluralidad</italic>), el desarrollo absoluto contendrá ese momento definitivo donde lo imparcial y lo plural se encuentren mutuamente reconocidos y por tanto superados -allí donde hay reconciliación no hay conflicto, sostendrá Hegel. Una superación que implica la libertad misma en forma de auto-conciencia, en la que lo imparcial como lo que supera y simultáneamente incluye, permite “al individuo despojarse de su egoísmo y pensar en <italic>lo otro</italic> que lo abarca y lo excede” (<xref ref-type="bibr" rid="B5">Hegel 2010</xref>:123). </p>
+			<p>Por consiguiente, el concepto de desarrollo se resuelve en su estado definitivo a través de una <italic>efectiva</italic> 
+ <italic>expansión de las oportunidades reales de los individuos para vivir una vida digna</italic>, donde a la interpretación seniana de desarrollo como capacidad se le incorpora lo que de la libertad (en este caso <italic>de procesos o negativa</italic>) se encuentra ausente en su teoría -de ahí el matiz que incorporamos de efectiva a la definición seniana inicial de capacidad. Solo allí como plena conciencia de lo que el desarrollo es para sí, se muestra en su despliegue absoluto haciendo de la libertad la esencia real de su existencia: “La sustancia del espíritu es la libertad. Su fin en el proceso histórico queda indicado con esto: es la libertad del sujeto; es que éste tenga su conciencia moral y su moralidad, que se proponga fines universales y los haga valer; que el sujeto tenga un valor infinito y llegue a la conciencia de este extremo. Este fin sustantivo del espíritu universal se alcanza mediante la libertad de cada uno” (<xref ref-type="bibr" rid="B6">Hegel 2012</xref>:68).</p>
+		</sec>
+		<sec>
+			<title>Teorías contemporáneas del desarrollo (económico)</title>
+			<p>La primera de las fases que el entendimiento tiene que recorrer hasta alcanzar el absoluto del desarrollo, es el que comienza con la inauguración del desarrollo como escuela de pensamiento propio en el período de post-guerra. Identificadas como teorías contemporáneas del desarrollo -modernidad, estructuralista, neo-marxista y neoclásica- aquello que las une sin oposición es un idéntico estado de reconocimiento entre lo imparcial y lo plural. Un momento que se acredita en el principio utilitario de justicia “como bienestar general y elección social” (<xref ref-type="bibr" rid="B11">Sen 2003</xref>:65). En ella, la relación entre lo plural y lo imparcial queda sistematizada en una prolongación de la segunda sobre la primera. En esa relación, lo imparcial no lo es como conciencia que se reconoce en la mediación entre el <italic>yo</italic> y el <italic>yo mismo</italic> -conciencia inmediata de lo plural-, sino como resultado del propio interés. En este sentido, lo plural es reconocido como lo que soy para mí, es decir, “ser auto-interesado” a partir de su relación con lo otro -imparcial- desplegado en aquello que de la mercancía me genera satisfacción, es decir, lo útil de la cosa <italic>en sí</italic>.</p>
+			<p>Este aspecto supone ya en sí un perfeccionamiento frente a la teoría del valor-trabajo precedente. Mientras que en esta lo plural se configura como prolongación de la mercancía en términos de trabajo “abstracto”, en la teoría de la utilidad lo correcto adquiere una atribución de subjetividad reconocible desde el bienestar personal. Aunque como sostendrá <xref ref-type="bibr" rid="B10">Sen (1999</xref>), este modo de juzgar el bienestar es muy restringido, en cambio, logra poner el acento sobre lo que los bienes suponen para el individuo -primer reconocimiento de la pluralidad- frente al ideal abstracto del valor trabajo. Empero, tal y como veremos, el grado de reconciliación entre las partes se encuentra fuertemente restringido a lo útil de una relación consecuencial -lo importante es el fin, que es lo útil-, lo que hará inoperativo cualquier sistematización imparcial de los principios de justicia asociados a ella. Esta situación se observa claramente en el análisis de cada una de las teorías.</p>
+			<p>Con referencia a la teoría de la modernización, primera en origen de las teorías contemporáneas, nos topamos con una idea de desarrollo altamente especulativa, que agota todo su concepto al progreso social derivado de la reconciliación experimentada entre tradición y modernidad. La sensibilidad por la desigualdad y la distribución de riquezas -lo plural de la teoría- nunca supera la barrera óptima paretiana “maximización de la suma”, disolviendo toda diversidad a complejos macro-agregados -productividad, crecimiento económico y bienestar personal, tal como sostienen Myral en <italic>La pobreza de las naciones</italic> y Harrod en <italic>Hacia una economía dinámica</italic>. Recordemos que el grado de reconciliación entre lo imparcial y lo plural se encuentra fiscalizado por lo útil de la mercancía, haciendo que aquellos problemas sociales como la pobreza y la desigualdad se vean indefectiblemente desplazados. Ante este hecho, la teoría de la modernización, pero también el resto de las teorías contemporáneas, se ven en la tesitura de simplificar tales efectos a meras “compensaciones inter-temporales de bienestar” (<xref ref-type="bibr" rid="B10">Sen 1999</xref>:91) de tipo paretiano. Con los mismos problemas ontológicos se topa la teoría estructuralista y neo-marxista. Mientras que en el primero se aprecia algunos avances relativos a la introducción del contexto histórico y cultural a la hora de explicar las relaciones bipolares entre bloques (Furtado, <italic>Desarrollo y subdesarrollo</italic>), en la teoría neo-marxista, enfrascado en un utilitarismo de reglas, la evolución se distingue ligeramente en el mayor énfasis a las relaciones de producción del capital; pero en nada más.</p>
+			<p>En la tesis neoliberal y la neo-institucionalista apreciamos un retraimiento que, fijado a un utilitarismo de reglas, proyecta como destino la institucionalización de su teoría como <italic>nomos</italic> objetivo de la sociedad (Hinkelammert, <italic>Crítica de la razón utópica</italic>). En la neoliberal se somete la realidad a una razón precarizada a partir un agente gobernado por una estricta condición de auto-interés y elección racional. De este hecho, el reconocimiento de la pluralidad no supera nunca las fronteras del bienestar como satisfacción personal, disolviendo todo su discurso a un ciego individualismo metodológico <italic>homo-oeconomicus</italic>. En cambio, en la teoría neo-institucional lo propio florece como conjunto de normas y reglas que determinan el horizonte de acción económico. Pareciera vislumbrarse un cierto perfeccionamiento metodológico frente a las teorías precedentes al apostar por un cierto pluralismo que enriquece la falta de contenido del marco anterior. Y, sin embargo, a pesar de los esfuerzos tampoco traspasará el principio reduccionista de identificar lo imparcial como mera prolongación de la satisfacción particular: “las instituciones son las reglas de juego en una sociedad o, expresado más formalmente, las instituciones serían las limitaciones ideadas por las personas que dan forma a la interacción humana” (<xref ref-type="bibr" rid="B1">Alston, Eggertsson y North 1999</xref>:13).</p>
+		</sec>
+		<sec>
+			<title>Las teorías de desarrollo humano</title>
+			<p>Frente a la concepción de justicia como utilidad de las teorías contemporáneas, el perfeccionamiento normativo que se experimenta en los enfoques subsiguientes provocará que todo lo justo solo pueda ser reconocido como resultado de atender lo imparcial como requisito necesario de la pluralidad. En este punto, la relación entre ambos términos vuelve a reencontrarse en su periplo dialéctico para conformarse esta vez como reorganización de ambas categorías resultado de ese particular reconocerse no ya en forma de satisfacción individual subjetivada (teoría del valor-utilidad), sino conformando en un ideal de justicia igual para todos. Este perfeccionamiento es reacción superada del carácter consecuencial que afloraba en las teorías contemporáneas que, al revelarse como límite de su propia tesis -desarrollo como utilidad agregada-, constituye la fuerza que faculta el florecimiento de una idea de desarrollo ahora sí ya humano. El espacio que definitivamente deslinda el desarrollo económico del humano tiene que ver precisamente con que lo imparcial ya no es un ente abstracto (crecimiento económico), sino la exigencia misma que el concepto de desarrollo se auto-impone como requisito de ese perfeccionarse. </p>
+		</sec>
+		<sec>
+			<title>El enfoque de justicia como equidad</title>
+			<p>La primera de las teorías en cristalizar ese nuevo mejoramiento en la teoría general del desarrollo lo encontramos en el enfoque de equidad. Su exponente, el filósofo norteamericano John Rawls, cristaliza una teoría de justicia social donde lo plural es solo reconocible como prolongación de un principio imparcial de justicia social. Para ello pretende, a partir de una teoría contractualista de tradición kantiana, un sistema de contracto social donde “lo justo sea entendido como lo bueno y lo bueno como lo equitativo” (<xref ref-type="bibr" rid="B9">Rawls 2002</xref>:125). Es a partir de esa razón aritmética de equivalencia donde la teoría de Rawls revela su particular reencuentro de lo imparcial con lo plural. A fin de cuentas, para Rawls lo objetivo de la justicia viene dado a partir de la distribución de una serie de bienes “primarios” con los que fijar un criterio público y objetivo que supere el carácter agregado del sistema anterior. </p>
+			<p>En el intento de reconciliar ambos criterios, Rawls cae en la cuenta que, para poder establecer unos principios universales e imparciales de justicia, debe superar la <italic>sociedad de desiguales</italic> donde cada uno buscaría su propio beneficio. Con ese objeto no ve más razón que abstraerse, conformando un estado social desde una “posición original”, para que todos aquellos representantes de los distintos grupos que constituyen la sociedad elijan, bajo unas condiciones de ignorancia (“velo de ignorancia”) y por unanimidad unos principios que sean fundantes de las instituciones básicas que componen el meandro social (<xref ref-type="bibr" rid="B9">Rawls 2002</xref>:59). En relación a tales principios, Rawls presta atención prioritaria al de <italic>libertad</italic>, al que lo antepone por razones seriales y lexicográficas a otro de <italic>diferencia</italic>, en el que llega a distinguir entre la igualdad de oportunidades y de distribución. A partir de aquí, el filósofo norteamericano diseñará una lista de <italic>bienes primarios</italic> que le permita establecer un marco tan objetivo como imparcial de derechos, libertades políticas, ingresos y oportunidades.</p>
+			<p>A pesar de los importantes avances que Rawls realiza a propósito de diseñar una teoría de justicia tan imparcial como diversa, el grado de abstracción al que somete todo su andamiaje teórico le castigará con un fuerte irrealismo en sus supuestos. Tales circunstancias desvanecen cualquier intención en Rawls, cuyo empecinamiento en hallar una teoría de justicia que rescatara la objetividad perdida en las teorías contemporáneas, hace consumir toda pluralidad en una lista híbrida de bienes primarios. De esta circunstancia se harán eco autores como R. Nozick, M. Sandel y C. Massini, entre otros, quienes confirmarán la tesis aquí revelada, ya sea negando todo realismo a las figuras del “observador imparcial” y la más que controvertida “posición original”, o rescatando el riesgo fetichista que tal como le recordará Amartya Sen, le llevará a confundir derechos con esos mismos “bienes primarios”. Por consiguiente, la teoría rawlsaniana cristaliza como ese instante de la conciencia moral donde el principio de pluralidad se desvanece en un abstracto horizonte contractualista, que solo puede ver lo que hace diferente lo uno de lo otro en la mercancía asimétricamente distribuida. </p>
+		</sec>
+		<sec>
+			<title>El enfoque de las necesidades básicas</title>
+			<p>El enfoque de las necesidades básicas emerge como resultado de un perfeccionamiento normativo de la teoría rawlsaniana, al asumir como variable focal el concepto de necesidad. Ello implica un sustancial mejoramiento en términos de reconciliación entre elementos, pues ya no es lo plural mera prolongación de lo imparcial agotado en un conjunto fetichizado de “bienes primarios”, sino que trascendiéndolo, indica lo que esos bienes pueden hacer por el sujeto -reconocimiento de la diversidad. El asunto, por tanto, se sustrae del carácter distributivo asociado a una lista única de bienes primarios, para acreditarse en lo que esos bienes son o no capaces de hacer por el sujeto -para este caso satisfacer su necesidad. Este giro se revela esencial, pues ahora lo plural ya no es algo ajeno a lo imparcial del concepto de necesidad, pues se obliga a incorporar un cierto subjetivismo lógico ausente en el marco rawlsaniano. Solo así, la necesidad puede completar su función de ser realmente satisfecha. </p>
+			<p>Ahora bien, lejos está el concepto de necesidad de resolver todos los problemas que surgen de su interpretación de desarrollo. Probablemente el más acuciante radique en la pronunciada incapacidad que atesora para superar el fetichismo de la mercancía necesitada. Ello tiene su origen en la dificultad para hallar un conjunto de necesidades básicas universales, que no atente contra las singularidades de los territorios donde aquellas emergen. Ante las pronunciadas y oscuras aristas de tal empresa -una necesidad que sea tan objetiva como plural-, solo podrá resolverla como una serie de necesidades universales iguales para todos, si hace nuevamente abstracción de su enfoque vaciando de contenido cualquier tipo de diversidad asociada a ella. </p>
+			<p>Eso sí, lo que el enfoque hace mejor que sus predecesores se extiende en la facultad que atesora para adecuar la satisfacción subjetivada de carencias que quedaban ausentes en el marco rawlsaniano: la satisfacción solo resulta si resuelve una carencia y la carencia es reducción del sujeto y el entorno donde cohabita. Ya en el autor pakistaní M. Haq (<italic>La cortina de la pobreza</italic>: <italic>opciones para el tercer mundo</italic>) se aprecia la profundidad de estilo que lo caracteriza, pues distinguiendo en términos ontológicos preferencia de necesidad, alcanza a diseñar todo un principio distributivo <italic>umbral mínimo</italic> que reconozca lo imparcial que habita en la necesidad. El imparcialismo en Haq se muestra al radicalizar normativamente la necesidad como un compromiso ético ausente en la mera elección de preferencias del que, sin embargo, no podrá corresponderse en la exigencia también ética de pluralidad. Ahora la diversidad queda constreñida a su propia proyección imparcial en el formato de mercancía necesitada: no es lo que la mercancía hace en términos de reducir la carencia particular, sino en su formato hermético de lista universal de necesidades. Para hacer frente a esta circunstancia, M. Haq se dota del concepto de autosuficiencia para poder distinguir entre lo que sería su mínimo umbral de renta y de necesidades básicas satisfechas. Una ruptura que supone un verdadero perfeccionamiento y reencuentro con lo imparcial, que ya no es en tanto que algo ajeno a lo plural -ingresos mínimos o bienes primarios-, sino resultado de una exigencia ética -la necesidad solo es necesidad objetiva si con ella se satisfacen las necesidades particulares del sujeto. </p>
+			<p>El esfuerzo fundamental de P. Streeten (<italic>Lo primero es lo primero: satisfacer las necesidades básicas humanas en los países en desarrollo</italic>) viene dado en el intento por operativizar lo que en Haq es solo un alegato normativo. Para ello corrige y perfecciona algunas cuestiones que habían quedado desatendidas en el economista paquistaní. En primer lugar, normalizando un enfoque que lucha por hacer extensible la posibilidad de vivir una vida plena, Streeten intenta aún sin éxito ahuyentar los fantasmas fetichistas por medio de la identificación de una serie de necesidades universales. Una vez que la pluralidad del enfoque ha quedado aparentemente a salvo por la concepción compleja y conflictiva que alimenta el concepto de necesidad, lo imparcial de la misma queda circunscrito a la “imposibilidad de identificar unas necesidades básicas iguales para todos” (<xref ref-type="bibr" rid="B11">Sen 2003</xref>:45). Consciente de esta encrucijada, no ve más alternativas para superar el fetichismo de la mercancía necesitada que presentar estratégicamente en términos taxonómicos lo que en sí es un problema ontológico de fondo. Al definir cuál es la naturaleza de las necesidades básicas y en qué consisten, Streeten apunta a una interpretación fisiológica, subjetiva, intervencionista y autónoma. De este esfuerzo, el enfoque saldrá reforzado y facultado para identificar un conjunto no reduccionista de necesidades que permita distinguir entre lo objetivo de la mercancía en sí y su efecto sobre la satisfacción de las necesidades. </p>
+			<p>A este mismo cometido se enfrentará con fruición el último de los tres teóricos esenciales del enfoque de necesidad: Alfred Max-Neef. A través del concepto de <italic>auto-dependencia</italic> vuelve nuevamente a enfrentar el asunto del fetichismo que había quedado pendiente en P. Streeten. En palabras suyas: “En la medida en que las necesidades comprometen, motivan y movilizan a las personas, son también potencialidades y aún pueden llegar a ser recursos […] la necesidad de participar es potencial de participación, tal como la necesidad de afecto es potencial de afecto” (<xref ref-type="bibr" rid="B8">Max-Neef 1986</xref>:45). </p>
+			<p>De sus palabras se deduce un principio erróneo de inferencia, por el cual si la necesidad es el germen de la acción, la necesidad es por consiguiente acción. Confundiendo lo que es potencia de resultado, arregla momentáneamente el conflicto del fetichismo de la <italic>necesidad necesitada</italic> al convertir lo objetivo de esta en lo complejo de las razones concomitantes a cada acción. Sin embargo, este silogismo claramente yerra la naturaleza de los términos. Pues, si bien solo desde un cuerpo satisfecho es plausible hablar de una acción encaminada, no está en el contenido de la acción aquello que resulta ser solamente su condicionante. La satisfacción de una <italic>necesidad necesitada</italic> predispone para la acción, pero no la agota. Ese llenarse de contenido propio de la acción, requiere siempre de un algo más que de la mera <italic>ausencia de necesidad</italic> que el enfoque no puede atender<italic>.</italic> La reconciliación entre lo imparcial y lo plural no puede circunscribirse al concepto de necesidad, cuya extensión todavía no alcanza todo lo que el concepto de desarrollo tiene que decir de sí. </p>
+		</sec>
+		<sec>
+			<title>El enfoque de las capacidades en Amartya Sen</title>
+			<p>En la teoría que desarrolla el filósofo y economista indio Amartya Sen, se produce un desdoblamiento en lo que viene siendo la relación entre imparcialidad y pluralidad. Ahora, lo imparcial de la justicia ya no es reconocido como en la mercancía lograda, sino que se despliega abriéndose hacia los diversos estados personales del sujeto. Lo plural alcanza un grado de perfeccionamiento que tiene como correspondencia dialéctica un ensanchamiento simbólico de la imparcialidad y de sus implicaciones a la hora de trascender aquello que lo fijaba como fetiche -en forma de mercancía necesitada o bienes primarios. Para ello, el concepto de valor que funda el enfoque seniano ya no se somete a aquello que los bienes hacen por los individuos desde la estricta frontera de la satisfacción de sus necesidades básicas, sino que, sustrayéndose de esa relación, se inclina a lo que los individuos pueden hacer realmente con los bienes que atesoran: “el desarrollo como aquella expansión de las oportunidades reales para vivir una vida libremente deseada” (<xref ref-type="bibr" rid="B12">Sen 2009</xref>:43). </p>
+			<p>Este estado particular del desarrollo alcanza un grado de madurez normativa incomparable frente a las teorías precedentes. Su alcance estriba, por un lado, en la facultad para reconocer objetivos de “agencia” -políticos, culturales, morales, etcétera- superando así el reduccionismo que lo fijaba a la maximización del bienestar personal (utilidad personal), cristalizado en la mera satisfacción del deseo. La posibilidad de presentar un sujeto que lucha por objetivos que pueden llegar a ser incompatibles entre sí -logros de agencia-, le permite salvar el pluralismo de una corriente que enfatiza la diversidad de los individuos como agentes libres. Para ello, la tesis seniana interpreta el concepto de libertad “como capacidad” desde una doble dimensión. En primera instancia lo hace en términos teleológicos: “la libertad es un fin en sí mismo del desarrollo” (<xref ref-type="bibr" rid="B10">Sen 1999</xref>:24). Sin embargo, entiende ya desde un principio que abandonarla a ese último estado finalista le obligaría a pagar el peaje de “mala finitud”, en el que el liberalismo clásico y su variante neoliberal se encuentran atascados. Solo enalteciéndola también desde su dimensión instrumentalista -a la libertad se llega ya desde la libertad-, se salva el pluralismo de su enfoque, pues el sujeto deja de estar sometido a un bien de alcance mayor para participar como protagonista de su propia realización -su destino, “libertad real de oportunidades”, se halla en él.</p>
+			<p>Para ello Amartya Sen se ve obligado a introducir dos aspectos originales en su enfoque. En primer lugar, si la libertad es considerada instrumentalmente, será necesario reconocer una serie de “logros” que identifiquen su relevancia. Unos “logros” que, al mismo tiempo, consigan sustraer al concepto de libertad (como capacidad) del fetichismo de la mercancía reinante, pues reconoce que frente a los objetivos <italic>de bienestar</italic> existen otros tantos <italic>de agencia</italic>. En segundo lugar, es necesario que esos “logros” sean adquiridos en régimen de libertad, pues solo así adquiere ese sentido específico seniano. Un sentido que empapa una interpretación extensa de la pluralidad, al no quedar reducida como en otros enfoques al <italic>principio de adquisición</italic>, incluso si los logros -<italic>achievement</italic>- representan en sí un estado normativamente más perfeccionado que el de la mercancía. La pluralidad en el enfoque seniano se reconoce efectivamente exigiendo libertad en el logro mismo, de tal modo que el resultado de la acción suponga un acto de auto-realización, donde el deber moral sobre lo justo -imparcialidad- pueda reconciliarse con la autonomía de la voluntad de cada individuo -pluralidad.</p>
+			<p>Empero, es precisamente en este reconocerse de la pluralidad al estilo seniano donde adviene la limitación fundamental del enfoque. La libertad en Amartya Sen solo es real desde un plano especulativo, ya que metodológicamente nunca abandona la libertad su relación <italic>de oportunidad.</italic> Este hecho supone un importante reduccionismo analítico, al tomar como lo real de la libertad aquello que solo es <italic>oportunidad para</italic>. De hecho, el mismo Sen reconoce esta limitación cuando arguye que la libertad de corte republicano o neo-romano -<italic>libertad de procesos o negativa</italic>- es capaz de identificar estados sociales ajenos al concepto de libertad como oportunidad y que, sin embargo, condicionan la operatividad de la misma libertad como <italic>oportunidad.</italic> Esta circunstancia cuestiona la pluralidad del enfoque seniano, condenándolo en ocasiones a un reduccionismo de tipo libertario, donde la libertad del sujeto es configurada como un <italic>a priori</italic> que diluye toda realidad a un principio de “validez discursiva”. Disolviendo lo imparcial del enfoque a un mero resultado de la libre voluntad, se acaba negando aquellas dinámicas que la exceden y condicionan. El pluralismo ético de Sen no es suficiente para compensar el déficit metodológico individualista que, en última instancia, sostiene el marco de capacidades “individuales”: “Así, centrándose el enfoque (de capacidades) en aquello que el individuo es capaz de hacer, termina invariablemente dejando de lado aquellas dinámicas de poder (lo ‘otro’ como actor político) que forman parte del proceso histórico de consecución de bienestar social (para este caso de libertad absoluta)” (<xref ref-type="bibr" rid="B2">Cejudo 2007</xref>:18, lo incluido entre paréntesis es nuestro). </p>
+		</sec>
+		<sec>
+			<title>Hacia un enfoque post-seniano: dimensión social de la libertad</title>
+			<p>En el enfoque de las capacidades, la tensión entre imparcialismo y pluralismo está lejos de agotarse. Es la propia socióloga M. Nussbaum (<italic>Crear capacidades: propuesta para el desarrollo humano</italic>) quien interpela a A. Sen acerca de la imposibilidad para reconciliar lo imparcial y plural de la justicia desde su concepto de libertad como capacidad. Con el primero de esos límites nos topamos a la hora de enfrentar el asunto del imparcialismo normativo. Si la libertad termina siendo el fundamento de la teoría seniana, ¿cómo podemos establecer que dos individuos son igualmente libres? La imposibilidad de realizar <italic>comparaciones interpersonales</italic> en un enfoque que libra su batalla en lo que el sujeto puede hacer realmente (y no en cómo aquello afecta a la facultad para poder ser realizado por otro), condena a la teoría a limitaciones innegables. Frente a un hacer, lo que se quiere propio de la <italic>libertad de oportunidad</italic> (la superación normativa), pasa por un hacer lo que se debe, donde lo exigido -imparcialidad- y lo deseado -pluralidad- acaban coincidiendo. </p>
+			<p>Para ello, la libertad real ya no puede entenderse desde el concepto seniano -qué puedo hacer con los bienes disponibles- sino que, en una vuelta de tuerca, se ve obligado a incluir igualmente aquello que los bienes pueden hacer realmente por el sujeto a propósito de incrementar sus capacidades, es decir, incorporar a la libertad <italic>de oportunidad</italic> aquella otra <italic>de procesos</italic> o negativa. En este nuevo ámbito de la libertad (social), lo imparcial vuelve a tomar la relevancia que en Sen estaba ausente. El grado de autonomía del sujeto seniano, capaz de identificar entre objetivos que van más allá de su propio bienestar personal -<italic>objetivos de agencia</italic>-, se encuentra ahora inmerso en el poder facultativo de los propios objetos. De tal manera que los estados sociales y los recursos llegan a cumplir una función “empoderadora”, de tal modo que sin estos “el carácter de agencia quedaría agotado tanto técnica como normativamente” (<xref ref-type="bibr" rid="B7">Jiménez-Castillo 2016</xref>:3). La posibilidad para funcionar realmente (libertad real) se encuentra hipotecada no solo por la voluntad del sujeto que se dispone con ánimo sostenido a un fin determinado -libertad <italic>de oportunidad</italic>-, sino también “hacia aquellos estados sociales que la determinan” (<xref ref-type="bibr" rid="B3">Dinerstein y Deneulin 2012</xref>:595). </p>
+			<p>El perfeccionamiento normativo que supone incorporar la libertad <italic>de</italic> procesos al marco de capacidades propuesto por Amartya Sen permite superar algunas de sus dificultades epistémicas. Por un lado, supera la restricción a nivel operativo resultado de igualar los conceptos de funcionamiento y capacidades -libertad para poder funcionar efectivamente. Si la libertad en más que una opción <italic>de oportunidad</italic> (funcionamiento real), las capacidades de los individuos no pueden quedar sometidas a un mero conjunto de funcionamientos posibles. Funcionar no se consume en el mero acto positivo de “poder hacer”. Su realidad solo cobra sentido cuando ese “hacer” asume como propio todas aquellas otras determinaciones que lo inclinan hacia una u otra acción. Por otro lado, lo imparcial puede florecer a partir de una restricción de la libertad <italic>de oportunidad</italic> misma cuando, por ejemplo, la voluntad se encuentra sometida a barreras o limitaciones extrañas a ella que la condicionan y restringen. Este hecho, que queda desplazado en el individualismo ético seniano, apunta a la facultad para distinguir entre aquellas atribuciones cuya inclinación no se halla en la intencionalidad del sujeto y sí en las condiciones sociales del entorno. </p>
+			<p>Allí donde la libertad de oportunidad y de procesos se reconcilia, lo imparcial y lo plural del principio de justicia alcanza un perfeccionamiento que se hace último y definitivo: <italic>desarrollo absoluto</italic>. El sujeto postseniano es protagonista de ese perfeccionamiento normativo definitivo que, al determinarse hacia aquello que desea, termina inclinando toda preferencia hacia lo que realmente debe hacer: <italic>todo mi deseo es hacer lo que debo</italic>. Con ello se consigue arreglar el imparcialismo ausente en el marco seniano, desde su inserción en la autonomía del propio sujeto. </p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>A modo de conclusión</title>
+			<p>El desarrollo absoluto es el resultado de un largo recorrido de superación dialéctica de contradicciones inherentes, cuyo fin radica en reconocer lo que es esencial e igual a sí mismo. Este, en cambio, solo puede resolverse transitoriamente como el vano intento por reconciliar, a través de una teoría del valor, el conflicto inmanente entre lo imparcial y lo plural de toda teoría de justicia social. Planteado así el concepto de desarrollo, nos topamos con el mismo esquema hegeliano de conformación del espíritu absoluto (<italic>Geist)</italic> en ese proceso de auto-reconocimiento de lo que en un principio solo era pura diferencia: “El espíritu, ciertamente, no permanece nunca quieto, sino que se halla siempre en movimiento incesantemente progresivo” (<xref ref-type="bibr" rid="B4">Hegel 1999</xref>:23). A través de una visión dialéctica y hegeliana, hemos elaborado toda una interpretación del desarrollo como categoría conceptual que nos permitiera conocer no ya una u otra teoría, sino aquello que hace común a todas ellas.</p>
+			<p>A lo largo de este trabajo se ha ilustrado cómo las distintas teorías del desarrollo responden a un ir perfeccionándose la una frente a la anterior, a partir de una mayor extensión de lo plural en su íntima convergencia con lo que en ella hay de imparcialidad y viceversa. En primer lugar, las teorías contemporáneas negaban lo imparcial de la justicia, a condición de promocionar la diversidad de un enfoque consumido en lo agotado de la mercancía satisfecha. De esta limitación florecía la teoría de justicia rawlsaniana, estableciendo un régimen de bienes primarios con los que dotar de imparcialidad lo que en el enfoque anterior se disolvía en el subjetivismo de la preferencia. Sin embargo, esta necesidad por apaliar la falta de imparcialidad será castigada con un extremo fetichismo -suma simétrica de recursos- que el enfoque de necesidades básicas tampoco llegará a solventar. La dificultad de este enfoque radica en la imposibilidad última para formular una lista única de necesidades que fuera sensible a las particularidades de cada individuo. El fetichismo de la mercancía necesitada será solamente superado a través del concepto de capacidades individuales. El grado de autonomía alcanzado por un sujeto facultado en decidir, más allá de su propia satisfacción personal, suponía un grado de perfeccionamiento sobre lo diverso que se ahogaba ante la incapacidad para comparar la naturaleza “particular” de dos acciones libres.</p>
+			<p>Por consiguiente, lo que todo este progreso dialéctico del concepto de desarrollo nos lleva a concluir es que solo haciendo de la libertad un deber, es decir, reconociendo lo que de plural atesora lo imparcial y de objetivo la subjetividad, el desarrollo está facultado para desplegarse en su totalidad. Allí, este sostenerse lo uno en lo otro y lo otro en lo uno como categorías unívocas se cierra como si fuera la última pieza de un engranaje que está llamado a reconocerse en lo que otrora fue contradictorio</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Alston, L; Eggertsson, T; North, D. 1999. <italic>Empirical studies in institutional change</italic>. Cambridge: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alston</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Eggertsson</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>North</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>Empirical studies in institutional change</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Cejudo, R. 2007. Capacidades y libertad: una aproximación a la teoría de Amartya Sen. <italic>Revista Internacional de Sociología</italic> 65(47): 9-22. doi: 10.3989/ris.2007.i47.50</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cejudo</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Capacidades y libertad: una aproximación a la teoría de Amartya Sen</article-title>
+					<source>Revista Internacional de Sociología</source>
+					<volume>65</volume>
+					<issue>47</issue>
+					<fpage>9</fpage>
+					<lpage>22</lpage>
+					<pub-id pub-id-type="doi">10.3989/ris.2007.i47.50</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Dinerstein, A; Deneulin, S. 2012. Hope movements: naming mobilization in a post-development world. <italic>Development and Change</italic> 43(2): 585-602. doi: 10.1111/j.1467-7660.2012.01765.x</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dinerstein</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Deneulin</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Hope movements: naming mobilization in a post-development world</article-title>
+					<source>Development and Change</source>
+					<volume>43</volume>
+					<issue>2</issue>
+					<fpage>585</fpage>
+					<lpage>602</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1467-7660.2012.01765.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Hegel, G. 1999. <italic>Fenomenología del espíritu</italic>. Madrid: Fondo de cultura económica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hegel</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>Fenomenología del espíritu</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Fondo de cultura económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Hegel, G. 2010. <italic>Ciencia de la lógica</italic>. Madrid: Abada editores.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hegel</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Ciencia de la lógica</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Abada editores</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Hegel, G. 2012. <italic>Lecciones sobre la filosofía de la historia universal</italic>. Madrid: Alianza.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hegel</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Lecciones sobre la filosofía de la historia universal</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Alianza</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Jiménez-Castillo, M. 2016. Amartya Sen frente al espejo social de la libertad. <italic>Revista Internacional de Sociología</italic> 74(3): 1-10. doi: 10.3989/ris.2016.74.3.038</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jiménez-Castillo</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Amartya Sen frente al espejo social de la libertad</article-title>
+					<source>Revista Internacional de Sociología</source>
+					<volume>74</volume>
+					<issue>3</issue>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.3989/ris.2016.74.3.038</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Max-Neef, M. 1986. <italic>El desarrollo a escala humana: concepto, aplicaciones y algunas reflexiones</italic>. Barcelona: Icaria.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Max-Neef</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1986</year>
+					<source>El desarrollo a escala humana: concepto, aplicaciones y algunas reflexiones</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Icaria</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Rawls, J. 2002. <italic>La justicia como equidad</italic>. Madrid: Tecnos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rawls</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>La justicia como equidad</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Tecnos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Sen, A. 1999. <italic>Development as freedom</italic>. New York: Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sen</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>Development as freedom</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Sen, A. 2003. <italic>Sobre ética y economía</italic>. Madrid: Alianza.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sen</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>Sobre ética y economía</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Alianza</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Sen, A. 2009. <italic>The idea of justice</italic>. New York: Harvard University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sen</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>The idea of justice</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Harvard University Press</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

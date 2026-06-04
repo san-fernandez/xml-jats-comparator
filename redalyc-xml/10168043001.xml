@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000200096</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>La narración de la vida humana como reacción al etiquetamiento criminal</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The narration of human life as a reaction to criminal labelling</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8588-7795</contrib-id>
+               <name>
+                  <surname>Ruiz</surname>
+                  <given-names>Adriana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad de Derecho, Universidad Pontificia Bolivariana, Medellin. Colombia</institution>
+            <institution content-type="normalized">Universidad Pontificia Bolivariana</institution>
+            <institution content-type="orgname">Universidad Pontificia Bolivariana</institution>
+            <country country="CO">Colombia</country>
+            <email>adriana.ruiz@upb.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>68</issue>
+         <fpage>96</fpage>
+         <lpage>107</lpage>
+         <history>
+            <date date-type="received">
+               <day>27</day>
+               <month>01</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>18</day>
+               <month>05</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El etiquetamiento escinde la vida común entre aquellas dignas de ser vividas y las inmeritorias de cualquier consideración sensible, en tanto culpables y condenadas al eterno retorno del pronóstico y la repetición criminal. Este hecho exige repensar la vida humana, a través de otros marcos perceptuales (epistemológicos, afectivos y metodológicos), que desactiven progresivamente los efectos inmunizantes de la estigmatización de aquellas existencias “peligrosas” y, en consecuencia, “indeseables” e “intolerables” para la comunidad. Esta composición tiene como urdimbre teórica los planteamientos del paradigma inmunitario (Roberto Esposito), el etiquetamiento criminal (labelling approach) y la crítica como apropiación de la vida humana (Judith Butler). Entre las conclusiones que arroja esta reflexión se encuentra que la narración de la existencia constituye una reacción frente a la estigmatización, y, en consecuencia, una inversión del lenguaje inmunitario, en tanto libera al sujeto del devenir monstruoso contenido en la etiqueta criminal, revelando así una humanidad no vista, ni oída, todavía.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>Labelling separates the common life between those worthy of being lived and the others of any sensitive consideration, both guilty and condemned to the eternal return of the prognosis and criminal repetition. This fact requires rethinking the human, through other perceptual frameworks (epistemological, affective, and methodological) progressively deactivating the immunizing effects of stigmatization of those “dangerous” lives and, consequently, “undesirable” and “intolerable” for the community. This article is based on the immune paradigm (Roberto Esposito), criminal labelling (labelling approach), and criticism as appropriation of human life (Judith Butler). Among the conclusions that this reflection throws is that the narration of existence constitutes a reaction against stigmatization, and, consequently, an inversion of the immune language, while freeing the subject from the monstrous becoming contained in the criminal label, thus revealing a humanity not seen or heard yet.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>condena</kwd>
+            <kwd>culpa</kwd>
+            <kwd>estigmatización</kwd>
+            <kwd>paradigma inmunitario</kwd>
+            <kwd>sacrificio</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>condemnation</kwd>
+            <kwd>guilt</kwd>
+            <kwd>stigmatization</kwd>
+            <kwd>immune paradigm</kwd>
+            <kwd>sacrifice</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="24" />
+            <page-count count="12" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>La inmunización constituye el paradigma contemporáneo cada vez más extendido en todas las esferas de la vida social, que demandan un número mayor de barreras de protección defensivas y ofensivas respecto a los “sujetos peligrosos” para la comunidad, esto es, la división que separa a ciertas poblaciones “contagiosas” de aquellos que procuran la salud del organismo social, tal como acontecía con los leprosos y los locos y, actualmente, los migrantes, desempleados, pobres, toxicómanos, jóvenes marginales. De ahí el peligro mismo de los mecanismos de protección preventiva que, llevados más allá de cierto límite, acaban por destruir la existencia de todos. En efecto, los mecanismos de inmunización operan sobre la vida “encerrándola en una suerte de jaula en la que no solo se pierde nuestra libertad sino también el sentido mismo de nuestra existencia individual y colectiva” (Esposito 2009b:17). En este sentido, la inmunización no solo contrae aquellos “grupos sociales contagiosos”, sino también todo lo existente, lo real y lo posible.</p>
+         <p>He aquí la paradoja inmunitaria: “Aquello que salvaguarda el cuerpo -individual, colectivo, social- es también aquello que impide su desarrollo. Y aquello que también, sobrepasado cierto punto, amenaza con destruirlo” (Esposito 2009a:17). Porque no existe ningún organismo vivo que pueda sobrevivir sin el contacto y el contagio con el otro; la negación del exterior confina la vida a su irremediable desaparición. La protección defensiva y ofensiva destruye la capacidad conectiva y agregadora, así como la circulación social en nombre de la seguridad. El miedo a ser tocados, interpelados, escuchados se extiende por doquier bajo la demanda de dispositivos de control cada vez más numerosos y eficaces en el orden de la disociación. En este sentido, la protección de algunos mediante la negación de otros que, a su vez, tendrán que protegerse de los primeros, responde en síntesis a una potencia disolvente: “Conservar a los individuos mediante la aniquilación de todo vínculo entre ellos” (Esposito 2012:68).</p>
+         <p>En el caso del derecho, el etiquetamiento criminal (labelling approach) constituye el mejor ejemplo del dispositivo inmunitario que escinde la vida social entre las vidas meritorias de protección y las vidas indignas de cualquier consideración sensible debido a su estatus de “peligrosidad”. En palabras más precisas, “el individuo se convierte en delincuente según estas teorías [labelling approach] no porque haya realizado una conducta negativa, sino porque determinadas instituciones sociales le han etiquetado como tal” (García-Pablos 2001:342). La función inmunitaria de la estigmatización institucional resulta evidente, ya que la distribución de la etiqueta es tan selectiva como diferencial, criminalizando a ciertos sujetos debido a sus condiciones de precariedad y formas deficitarias de interacción social. De este modo, el desviado “no es sino la víctima de los procesos de definición y selección de acuerdo con los postulados del denominado paradigma de control” (García-Pablos 2001:353).</p>
+         <p>Ahora, la etiqueta condena al sujeto, con independencia de su conducta o merecimiento, a un devenir culpable. He aquí la cuestión: la obsesión por la seguridad exacerba la criminalización de ciertas poblaciones condenadas al pronóstico de peligrosidad, incluso de generaciones no nacidas todavía: “El desviado es aquel a quien se le ha aplicado con éxito la etiqueta; el comportamiento desviado es aquel que la gente define como desviado” (Larrauri 2009:29). De este modo, el sujeto “peligroso” se constituye en el objeto de las prácticas inmunitarias de señalamiento público y rechazo social, “la sociedad no lo acepta”, y, al mismo tiempo, en el modelo de la “nueva identidad” (Larrauri 2009:37), se reordena su comportamiento en virtud de la predicción criminal. La comunidad instituye, pues, el teatro de la representación criminal cuyos roles han sido previamente determinados, así como las reacciones sociales ante el sujeto peligroso: “El delincuente [es] utilizado a modo de chivo expiatorio para reafirmar la solidaridad social. Se [une] todo buen ciudadano en contra de él” (Larrauri 2009:32).</p>
+         <p>Ahora, si el derecho no es más que reparto, entonces, nunca podrá redimir la existencia de la perpetua culpabilidad, porque “la vida no es condenada por, sino a la culpa” (Esposito 2009b:50). En este punto, la etiqueta condena el devenir de algunos, independientemente de su merecimiento criminal, haciéndolos culpables para que luego puedan ser juzgados y condenados. La estigmatización resulta tan cruel como inhumana, pues “a la condena remite la reducción de la vida a pura materia, su sustracción a toda forma de vida justa” (Esposito 2009b:51). A este respecto, la agudeza de Roberto Esposito y Judith Butler -además de otros pensadores contemporáneos como Franz Kafka, Walter Benjamin, Giorgio Agamben, Michel Foucault, René Girard- consiste en descubrir el oscuro fondo del remedio inmunitario, esto es, el sacrificio preventivo de lo viviente, en tanto portador del “mal colectivo”. La etiqueta clausura, pues, el devenir de la vida como potencia disruptiva y creativa de nuevos sentidos sobre el mundo, instituyendo, sin interrupción, categorías de peligrosidad y medidas de segregación y neutralización respecto a la víctima designada. En síntesis, las consecuencias de la lógica inmunitaria son inmediatas: la existencia individual y colectiva, en tanto un modo de ser con otros, es degradada a un mero pronóstico de culpabilidad anticipada. Bajo estas condiciones: ¿qué filosofía debería pensarse bajo los excesos inmunitarios sobre la vida?, ¿qué tareas urgen para el pensamiento en orden a redimir la vida de las dinámicas de la inmunización, esto es, de la protección de unos mediante la segregación de los demás?</p>
+      </sec>
+      <sec>
+         <title>El derecho y su función inmunitaria</title>
+         <p>En el capítulo 1 de Inmunitas. Protección y negación de la vida, titulado “apropiación”, Roberto Esposito afirma que “la función inmunitaria que desempeña el derecho con relación a la comunidad resulta evidente de inmediato y como tal es reconocido universalmente incluso fuera de la literatura jurídica” (Esposito 2009a:35). Del mismo modo que el ámbito bio-médico se refiere a la condición refractaria de un organismo individual, el orden del derecho (distinto al ámbito de la justicia) está destinado a proteger el cuerpo social de su propia implosión mediante la negación de cualquier peligro real o eventual: “¿Qué otra cosa implica la inmunidad más que el aseguramiento contra un riesgo futuro pagado con su asunción preventiva en dosis soportables?” (Esposito 2009a:49). Sin embargo, la defensa y la prolongación de la comunidad exigen su propia escisión, haciéndola necesariamente “más propia” para unos y “menos común” para los demás. He aquí la negatividad del derecho que preserva el organismo social mediante su propia disolución, reforzando las barreras de apropiación y de conservación identitarias contra toda alteridad “peligrosa”.</p>
+         <p>De ahí tanto la necesidad como el riesgo implícito de todo campo inmunitario: “Cuando la inmunidad, aunque sea necesaria para nuestra vida, es llevada más allá de cierto umbral, acaba por negarla” (Esposito 2009b:17). De este modo, la inmunidad jurídica asume una forma “desviada” o, incluso, textualmente “perversa”, frente a su objetivo de salvaguardar la vida a través de la negación de lo común: “Para poder inmunizar a la comunidad de sus tendencias autodestructivas, el derecho necesita antes que nada protegerse de sí mismo. Pero solo puede hacerlo confiándose al mismo principio que pretende dominar, a la misma fuerza que debe controlar” (Esposito 2009a:42). La inmunización -extendida a todos los campos de la experiencia cada vez más obsesionados por la gestión de los riesgos- es, pues, una forma de protección negativa de toda existencia individual y colectiva.</p>
+         <p>Esta antinomia inmunitaria es tan reveladora como desconcertante: ¿qué significa que la conservación de la vida envuelva su propia negación?, ¿en qué sentido la prolongación de la existencia actual implica el sacrificio de lo común? La inmunización salva, asegura y preserva la vida de forma indirecta, prorrogada y subrepticia, en modo alguno, directa, inmediata y frontal, doblegándola “a una condición que a la vez niega, o reduce, su potencia expansiva” (Esposito 2012: 75). En palabras más exactas, y siguiendo el pensamiento de Walter Benjamin, Esposito afirma que “la inmunización a altas dosis es el sacrificio del viviente -esto es, de toda forma vida cualificada- a la simple supervivencia. La reducción de la vida a su desnuda base biológica” (Esposito 2009b:17). De este modo, la potencia de la vida se contrae a la mera conservación de su existencia física y psíquica, impidiendo y contradiciendo su crecimiento y su expansión.</p>
+         <p>Sin lugar a duda, toda exacerbación inmunitaria en nombre de la defensa y la salvaguarda social condena la expansión ilimitada de la vida, de toda vida, reduciéndola a un simple cálculo de peligrosidad. De modo que la vida común, esto es, el asomarse más allá de la propia existencia, admitiendo otros modos de ser más allá de sí mismo, capitula sin condición ante los confines de una pertenencia colectiva idéntica y coincidente consigo, cercando toda posibilidad de devenir algo distinto en el interior de los muros defensivos y ofensivos frente a todo contacto y contagio. De manera que el objeto inmunitario es la existencia y, más precisamente, la progresión de la potencia vital, clausurándola en los confines de la mera vida natural: “Al ir más allá de su horizonte natural de vida biológica, o como lo formula Benjamin, de ‘vida desnuda’ como podría ser una ‘vida justa’ o una ‘vida común’” (Esposito 2009a:49).</p>
+         <p>La vida inmunizada, pues, cede su desarrollo a la mera conservación, tan aislada como privativa del mundo social, o lo que es idéntico, la existencia protegida accede a la “jaula de hierro” en la que no solo pierde su libertad, sino, más particularmente, toda experiencia individual y colectiva (Esposito 2009b:17). La existencia humana es un suceso, un acontecimiento colmado de azares, accidentes y posibilidades indeterminadas, que, por supuesto, se resiste al cálculo y la predicción. Sin embargo, el derecho -que nunca podrá prescindir del reparto y la asignación mediante la fuerza- clasifica, divide y valora la vida a la manera de un bien comercial, limitando su impulso a superarse como mera vida desnuda. “Esta hendidura interior de la vida es la que debe colmar el derecho haciéndola volver dentro de sus límites biológicos. Solo de este modo -vetando toda autotrascendencia, todo desgarro de sí misma- puede tener bajo control todos sus infinitos casos” (Esposito 2009a:49).</p>
+         <p>Ahora, ¿cómo anticipar el qué de una vida, así como sus acciones y sus transformaciones?, ¿cómo calcular un hecho porvenir, cuyo agente no ha actuado en absoluto, o, incluso, no ha nacido todavía?, ¿qué pronóstico es aquel que encierra la existencia en un porvenir ya trazado, definido y anquilosado en los índices de peligrosidad? En palabras más precisas, la vida se torna culpable de devenir y, por lo tanto, amenazante para la comunidad inmunizada e inmunizante, que reclama su contención y neutralización, esto es, su predictibilidad mediante el derecho y sus mecanismos de inmunización. A diferencia de Franz Rosenzweig, quien concibe el nacimiento de un hombre como el principio del mundo, puesto que irrumpe novedosa y singularmente “como un pleno milagro, con la avasalladora fuerza de lo imprevisto e imprevisible” (Rosenzweig 1997:89), la inmunización jurídica condena la existencia a la eterna repetición sin ninguna posibilidad de redención. “La vida no es condenada por, sino a la culpa […] No se le juzgará por ser culpable, sino que se la hará culpable para que pueda ser juzgada y condenada” (Esposito 2009a:50). He aquí la función inmunitaria del derecho: “Condenar la vida a una perpetua culpabilidad” (Esposito 2009a:50).</p>
+      </sec>
+      <sec>
+         <title>La culpa y la condena</title>
+         <p>En palabras de Walter Benjamin, Níobe, la hija de Tántalo, representa el “mejor ejemplo” (Benjamin 1991:125) de una vida indefinidamente culpable, puesto que desafía al destino divino a una lucha sin tregua, ni posibilidad de salvación. En la versión homérica, Apolo y Atenea asesinan a los siete hijos y siete hijas de Níobe, quienes permanecen insepultos durante diez días hasta que fueron enterrados por los dioses. El orgullo de la heroína causó la ira de Leto y, finalmente, su transformación en una roca. La voluntad divina petrifica la existencia, haciendo de la madre “una cosa en el sentido más literal” (Weil 2005:15). Porque la violencia que no mata, es decir, la violencia que no destruye, definitivamente, “transforma la vida en piedra” (Weil 2005:15). La acción mítica aplasta la existencia de la heroína, dejándola “más culpable aún que antes, casi un eterno y mudo sostén de la culpa, mojón entre los hombres y los dioses” (Benjamin 1991:124).</p>
+         <p>Sin embargo, Simone Weil advierte que “del poder de transformar a un hombre en cosa procede otro poder, mucho más prodigioso, el de transformar en cosa a un hombre que está vivo” (Weil 2005:17). Níobe vive, tiene alma, y es, sin embargo, una piedra: “Extraño ser, una cosa que tiene un alma; extraño estado para el alma” (Weil 2005:18). La condena de Franz Kafka también representa un claro paradigma de la vida culpable, sacrificada en su mera desnudez. Georg, lo exhortó su padre en voz alta, escúchame bien: “Ahora ya sabes, pues, qué había además de ti mismo. Cierto es que eras un niño inocente, pero aún es más cierto que eres un ser diabólico. Te condeno a morir ahogado” (Kafka 2012:91). Así, dice Kafka, Georg se sintió expulsado de la habitación, y, entonces, “salió del portal de un salto, algo lo impelía a cruzar la calzada en dirección al agua. Ya estaba aferrado a la baranda, como un hambriento a su comida. [Y] Saltó por encima de ella” (Kafka 2012:91).</p>
+         <p>En la sentencia del padre, o lo que es igual, la voz simbólica de la ley, “el destino aparece, por lo tanto, cuando se considera una vida como condenada, y en realidad se trata de que primero ha sido condenada y solo a continuación se ha convertido en culpable” (Benjamin 2010:174). El hijo cumple la sentencia y se precipita a la condena: “«Queridos padres, os he querido siempre, pese a todo», y se dejó caer” (Kafka 2012:91). La autodestrucción constituye aquí una confesión de amor y aprobación para el padre y el destino culpable, a pesar de la sentencia de muerte. De este modo, “George muere no solo porque su brutal padre exige que muera, sino porque la demanda paterna se ha convertido en el alimento perverso de la vida” (Butler 2006:71). La condena para morir ahogado constituye, pues, el destino insalvable de la vida condenada a la autoaniquilación.</p>
+         <p>En este orden de ideas, el vínculo entre la mitología griega y la literatura kafkiana resulta evidente: “El destino aparece, por lo tanto, cuando se considera a una vida como condenada […] El destino no condena al castigo, sino a la culpa. El destino es el contexto culpable de lo que vive” (Esposito 2009a: 50). Esto significa que el destino es, esencialmente, constante y predecible en virtud del carácter “diabólico” de George, tal como lo afirma el padre, así como de cualquier hombre: “La dicha que se concede a una persona nunca se entiende como confirmación de la inocencia de su vida, sino en calidad de tentación para la mayor culpa, la hybris. Así, pues, el destino no se relaciona con la inocencia” (Benjamin 2010:178). Ahora, ¿en qué sentido la vida de uno y otro personaje se hace culpable en nombre de la voluntad divina y la voz del padre?, ¿en qué consiste la condena?</p>
+         <p>La vida culpable da cuenta de sí ante la ley del destino, implacable e inflexible, que condena la existencia a la desnudez de la palabra y a la autoagresión irreflexiva, esto es, a la transformación de una madre viva en una cosa y de un hijo solícito en un fiel suicida. La culpa, que califica los actos antes de su comisión y juzgamiento, arruina en ambos casos, preventivamente, aquello que se quiere cualificar: la vida, toda vida. En palabras de Esposito, tan sugerentes como inquietantes: “A tal condena remite la reducción de la vida a pura materia, su sustracción a toda forma de vida justa o común” (Esposito 2009a:50). He aquí la trágica condena: la vida sobrevive indefinidamente a la sentencia, suprimiendo todo devenir afirmativo y, por lo tanto, disruptivo y creador de una existencia autónoma y reflexiva sobre sí misma: “Esta posibilidad formal es justamente la que se sacrifica a la perpetuación de la simple supervivencia” (Esposito 2009a:52).</p>
+         <p>En palabras más exactas, el sacrificio de la vida humana constituye el objeto de los procedimientos inmunitarios, que buscan proteger la vida mediante su reducción a “vida desnuda”, “pura materia viva”, despojada de toda forma de vida justa o común, y tan culpable como imaginable: “Esto significa que para conservarla, es necesario introducir en ella algo que por lo menos en un punto la niegue hasta suprimirla” (Esposito 2009a:52). Los mecanismos inmunitarios operan sobre la separación entre “la vida desnuda” y lo “viviente”, es decir, la “vida humana” o “vida común”, sacrificada en nombre de la seguridad y la defensa de la comunidad. Ahora, ¿qué significa tal escisión y, por lo tanto, negación de la vida común?, ¿qué implica tal paradoja entre protección y negación, prolongación y supresión de la vida común?, ¿qué comporta la vida humana? Al igual que Benjamin y Esposito, Giorgio Agamben indica que el término forma de vida alude a una “vida que no puede separarse nunca de su forma, una vida en la que no es nunca posible aislar algo como una nuda vida” (Agamben 2001:13). Una vida inescindible de su forma es una vida que, en su modo de vivir, se juega el vivir mismo, su modo de vivir singular y espontáneo (Agamben 2001:13).</p>
+      </sec>
+      <sec>
+         <title>La etiqueta y el sacrificio inmunitario</title>
+         <p>“Un orden cuyos únicos conceptos constitutivos son la desdicha y la culpa y dentro de la cual no hay camino pensable de liberación, no puede ser religioso, por más que el malentendido concepto de culpa lo haga parecer” (Benjamin 2010:178). De este modo, Benjamin desplaza las nociones desdicha y culpa a otro reino en el que la desdicha, la inocencia y la bienaventuranza son tan extrañas como inconcebibles. Y ese campo es el derecho, que “eleva las leyes del destino -la culpa y la desdicha- como criterios de la persona. Toda culpa jurídica no es más que una desgracia” (Benjamin 2010:178). El orden jurídico aparece, entonces, cuando concibe a una vida como condenada, haciéndola culpable. Goethe, dice Benjamin, “resume ambas fases en las palabras siguientes: «Hacéis que los pobres devengan culpables». El derecho no condena, por lo tanto, al castigo, sino a la culpa” (Benjamin 2010:179). Al igual que Apolo y Artemisa ante Níobe, el padre ante George, el juez condena la vida a un destino: “Te condeno a la culpa y la desdicha”.</p>
+         <p>Análogamente a la medicina que inyecta una dosis preventiva y controlada del virus para inocular el cuerpo, el derecho condena anticipadamente la vida, prejuzgándola culpable de los actos porvenir. Los dispositivos inmunitarios -tanto lingüísticos como no lingüísticos: discursos, instituciones, edificios, leyes, medidas de policía, proposiciones filosóficas, que operan bajo una red de relaciones de poder con funciones estratégicas sobre la población-, se propagaban y difunden sobre la vida, conteniendo y neutralizando todo hecho y comportamiento “desviado” y, por lo tanto, “amenazante”. La vida condenada y culpable se califica, seguidamente, aunque diferencialmente, de peligrosa para los demás. En efecto, “la víctima sacrificial atrae sobre sí toda la violencia [además de la desdicha] dirigida en un principio al conjunto de la comunidad” (Esposito 2009a:58). El cuerpo social se sustrae, entonces, al contacto y el contagio de la parte contaminada: “Un cambio de lugar de la violencia, de lo propio a lo otro. De todos a uno: todos menos uno. Uno en lugar de todos” (Esposito 2009a:59).</p>
+         <p>Pero ¿quiénes, o más literalmente, qué representan aquellos proscritos y separados de la comunidad?, ¿cómo operan los mecanismos inmunitarios, es decir, la protección de algunos en virtud de su propia negación? Más claramente: ¿por qué unos son elegidos como peligrosos y otros no?, ¿quién es, qué ha hecho y qué se espera de la “víctima expiatoria” de la comunidad? En el ámbito jurídico, por lo tanto, el procedimiento inmunitario se explica notoriamente a través del dispositivo del etiquetamiento (labelling approach), que cumple funciones específicas de protección mediante la negación de la vida común, tales como el reforzamiento de la seguridad y la cohesión social: “El delincuente era utilizado a modo de «chivo expiatorio» para reafirmar la solidaridad social. Se unía todo buen ciudadano en contra del delincuente. En efecto, no hay nada más [útil] que estar en contra de (alguien)” (Larrauri 2009:32).</p>
+         <p>Desde esta perspectiva, la comunidad difiere y multiplica la violencia, “cerrándose como una tenaza en torno a la víctima asignada” (Esposito 2009a:59). El chivo expiatorio constituye aquí el objeto de la prevención inmunitaria, que, en modo alguno, elimina la violencia implícita en la comunidad; tan solo la enmascara en la víctima ofrecida a la penalidad judicial. En consecuencia, la protección inmunitaria mediante la negación de la vida expiatoria continúa siendo sacrificial, a pesar de que se crea no-violencia, tanto en sus fundamentos como en sus operaciones lógicas. En realidad, René Girard señala que la fuerza del derecho, “es cada vez más violenta; […] más activa, menos virulenta, y anuncia siempre una violencia todavía peor, una violencia desmesurada” (Girard 2012:31). En este sentido, el etiquetamiento permite, como ningún otro procedimiento inmunitario, la activación simultánea de los tres vectores neutralizantes de la vida, a saber: polarización, desviación y diferenciación.</p>
+         <p>El chivo expiatorio es identificado como un posible criminal debido a sus “procesos deficitarios” de interacción con las instituciones, a diferencia del resto de individuos pertenecientes a la comunidad: “Si bien las «chances» son mayores en el caso de los miembros de las clases sociales bajas por una serie de carencias que concurren en el mismo, también los individuos de la clase media y alta pueden convertirse en criminales” (García-Pablos 2001:341). De este modo, la etiqueta polariza el cuerpo social, modelando un sujeto confiado al destino culpable y desventurado en virtud de un pronóstico de certeza criminal: “En el sentido del destino este viviente puede ser acoplado tanto a las cartas como a los planetas, y la adivina apela a la simple técnica de insertarlo, con las más inmediatamente ciertas y calculables, en el contexto de la culpabilidad” (Benjamin 1991:134). Esto significa que el individuo se convierte en delincuente, con independencia de la comisión de un acto negativo, porque el resto de la comunidad lo ha “etiquetado como tal” (García-Pablos 2001:342).</p>
+         <p>No obstante, la clasificación de delincuente resulta tan selectiva como diferencial en sus efectos y procedimientos. El dispositivo inmunitario identifica el comportamiento desviado como aquella actuación intolerable e indeseable definida por la comunidad. De ahí que sea la reacción social sobre el “ofensor”, la que, en suma, confiera su tacha como criminal: “Delincuente no es «el que delinque», sino aquel al cual le ha sido atribuida la etiqueta de delincuente” (Larrauri 2009:32). La vida condenada desvía la imputación sobre los demás, quienes se mantienen a salvo del sacrificio victimal, por lo menos, temporalmente. Finalmente, los miembros de la sociedad y sus instituciones hacen converger la totalidad del “mal” en el chivo expiatorio, expuesto a los mecanismos defensivos y ofensivos de defensa social, tan indefinidos como imprevisibles.</p>
+         <p>En efecto, la etiqueta o, lo que es igual, la estigmatización de algunos en favor de los demás, se estira a lo largo de toda una vida condenada a una determinada actuación. Las instancias de control social, entonces, “terminarán por hacer que el estigmatizado asuma por sí mismo, como parte de su historia vital, ese papel impuesto y acuñado desde fuera” (Hassemer, Muñoz 2001:156). Las consecuencias de la etiqueta criminal respecto al sujeto resultan evidentes: la potencia del devenir sucumbe ante la sentencia de la repetición. El interés ya no reside sobre la acción, sino, en cambio, sobre la vida culpable y condenada a la fidelidad suicida de la vida. El chivo expiatorio es un cualquiera, abstracto y general, un “desviado”, cuya identidad “criminal” contempla una serie de hechos, acontecimientos y comportamientos determinados. En consecuencia, dice Elena Larrauri, “esta absorbe el resto: a la persona que se le conoce como «ladrón» ignorando las otras cosas que también es” (Larrauri 2009:36).</p>
+         <p>La etiqueta actúa, pues, a la manera de la condena kafkiana, puesto que la víctima concluye aceptando la sentencia del juez: “Te condeno a ser un peligro para la sociedad”. De este modo, la estigmatización cumple con su rol inmunitario, puesto que el sujeto ajusta su vida y su actuación en el mundo a la “nueva identidad criminal” atribuida por el derecho y la comunidad.</p>
+      </sec>
+      <sec>
+         <title>La narración como apropiación de la vida</title>
+         <p>¿La presuposición de la ley aferra en su pliegue retroactivo todo el horizonte, o existe un punto de fuga, un resorte que permita interrumpir el circuito? En palabras más inquietantes, Esposito pregunta: “¿Todavía se puede sustraer la comunidad a aquel paradigma sacrificial al que parece destinada, o tal posibilidad ya resulta perjudicada?” (Esposito 2009a:55). La desactivación progresiva de los mecanismos inmunitarios, cada vez más diferidos y penetrantes en todos los campos de la vida social, constituye una tarea inaplazable para el pensamiento social. “Qué es, qué puede ser una política que ya no piense la vida como objeto, sino como sujeto de la política? (Esposito 2009b:23). Esta cuestión exige pensar la vida humana como un fenómeno pluridimensional, que se resiste a la adecuación literal de un pronóstico de peligrosidad -todo hombre nace para comenzar y transformar el mundo, y con cada muerte caduca y expira el mundo. En consecuencia: “Nacer a una vida no es solo biología, sino biografía” (Bárcena 2002:113).</p>
+         <p>Si la vida es concebida en su profundidad, riqueza y discontinuidad, esto es, en la multiplicidad de sus infinitas posibilidades y manifestaciones, inciertas e imprevisibles, entonces “el escenario puede cambiar” (Esposito 2009b:23). He aquí el esfuerzo de la crítica. La pregunta moderna ¿qué es el hombre? es complementada por la cuestión radical de la crítica: “¿Quién cuenta y quién no cuenta como humano?” (Butler 2006:122). En oposición a los marcos éticos y morales que definen lo humano en virtud de su universalidad, la estigmatización criminal escinde el mundo social entre las vidas dignas de tutela jurídica y social, y aquellas inmeritorias de cualquier consideración sensible, ya que han sido ofrecidas al ritual del sacrificio “salvífico” para el todo y “destructivo” para la parte.</p>
+         <p>Esto explica el deber de examinar los marcos epistemológicos que definen lo humano y lo inhumano -como resulta obvio respecto al paradigma inmunitario-, además del compromiso ético por subvertir el presente de la exposición victimal en nombre de la seguridad comunitaria, y, por supuesto, de cuestionar el futuro sobre dicha lógica divisoria. Esta potencia del pensamiento será posible solo si descubre la vida donde se espera encontrarla, esto es, en la narración de la vida que revela algo distinto a lo pronosticado. Si la existencia es comienzo, entonces, está sujetada “inseparablemente del anhelo y realización de la libertad” (Brower 2019:236). Al respecto, Judith Butler afirma que “si las instituciones políticas y universitarias tienen algún futuro es, sin duda, la de interrogar la emergencia y la desaparición de lo humano en el límite de lo que podemos pensar, lo que podemos escuchar, lo que podemos ver, lo que podemos sentir” (Butler 2006:187).</p>
+         <p>Este imperativo científico y ético conduce a “revigorizar”, afectivamente, el proyecto de la filosofía crítica, entendiendo los efectos de los mecanismos inmunitarios, y creando un sentido público donde las vidas de unos no sean degradadas o despreciadas en favor de otros, sino valoradas como impulsoras de una comunidad más sensible, en definitiva, más humana. La crítica, en suma, “trata de pensar entonces una forma de compromiso y de crítica afirmativa y transformadora a partir de lo alterable del sujeto y de las relaciones con los otros y con el mundo” (Quintana 2018:435). Esta “postura” crítica supone, entonces, una práctica de libertad consigo y los otros, abriéndose a nuevas perspectivas y, a su vez, sometiéndose a la prueba del contacto y del contagio con otros: captar los pliegues, las fisuras, las hendiduras, es decir, la humanidad de la vida. Según Esposito: “Porque la inmunización en cuanto forma de protección negativa no es la forma de sujeción violenta que el poder ejercita en el exterior sobre la vida”, sino, más puntualmente, “el modo contradictorio en que la vida intenta defenderse, cerrándose a aquello que la circunda, a la otra vida” (Esposito 2009b:14).</p>
+         <p>He aquí la razón sustantiva del pensamiento crítico que pretende agujerear las etiquetas de peligrosidad, motivando transformaciones infinitesimales y, por lo tanto, más auténticas. Una subjetividad “no está compuesta de lo que uno es, sino también de una lucha por lo que no se es, ya que toda identidad, más que la revelación de una esencia inmutable y siempre única, es un relato, una narrativa” (Bárcena 2006:186). Y, en este sentido, “la crítica tendría esencialmente por función la desujeción en el juego de lo que podríamos llamar, en una palabra, la política de la verdad” (Foucault 2018:52). En suma, el ejercicio crítico implica el coraje de dar cuenta de sí más allá de la obediencia fiel y la disposición suicida ante la culpa y la condena de una etiqueta establecida. Por lo tanto, la vida está en juego cuando el sujeto atribuye el derecho de interrogar la verdad aparente de la etiqueta criminal, esto es, cuando emerge la desujeción del sujeto al interior de los regímenes del saber y del poder (criminalización), reapropiándose de la propia existencia: “La crítica será el arte de la inservidumbre voluntaria, el de la indocilidad reflexiva” (Foucault 2018:52).</p>
+         <p>La crítica acontece, en suma, bajo la pregunta: “¿Qué soy yo, entonces, que pertenezco a esta humanidad, quizás a este margen, a este momento, a este instante de humanidad que está sujeto al poder de la verdad en general y de las verdades en particular?” En los mismos términos: “¿qué, dado el orden contemporáneo de ser, puedo ser?” (Butler 2001:23). De manera que una política que ya no piense la vida como objeto, sino como sujeto, implica necesariamente el compromiso sobre la propia existencia, a pesar, o mejor aún, más allá de la estigmatización social e institucional.</p>
+         <p>La pregunta humana ¿quién eres tú?, a diferencia de la cuestión jurídica ¿qué hiciste? -propia del interrogatorio judicial capaz de adecuar la conducta con la sanción penal-, constituye el presupuesto de la narración, que induce al otro, al “sujeto peligroso”, a contar su propio relato: quien desee dar cuenta de sí mismo debe comenzar por narrar y escuchar su propia historia. “El narrador toma lo narrado en la historia y la transforma a partir de aquellos que escuchan su narración” (Barrio 2016: 122). De este modo, la biografía resulta ineludible en el procedimiento crítico de comprensión y reinvención de sí, a diferencia de la metafísica, incluyendo el derecho, que teme a las palabras humanas, “porque busca una objetividad que escape al nombre propio, a la alteridad, a lo otro, a la diferencia, a la visión singular” (Mèlich 2016:26). En este sentido, puede afirmarse que la tarea de la filosofía crítica consiste en volver a concebir lo humano: “Si las humanidades tienen algún futuro como crítica cultural y si la crítica cultural tiene hoy alguna tarea, es sin duda la de devolvernos a lo humano” (Butler 2006:187).</p>
+         <p>La narración de la vida del otro incluye la propia vida, debido a la sociabilidad y la interdependencia que la constituye. Permite pensar lo humano, cómo funciona, qué reprime, esto es, quién cuenta y quién no cuenta como humano, falseando su pretendida universalidad. La narración constituye, pues, una reacción frente a la estigmatización criminal, y, en consecuencia, una inversión del lenguaje inmunitario, es decir, inhumano, en tanto condena la vida a la imitación de la etiqueta criminal. “El quién, [a diferencia del qué] es un sujeto reflexivo, crítico y portador de las narraciones que conforman y otorgan un sentido a la acción” (Barrio 2015:124). Las “palabras humanas” descubren lo singular, lo azaroso y lo epifánico de la existencia, siempre inasible en la semántica de la criminalización, tal cruel como inhumana: “La violencia se comente siempre sobre un singular en cuanto singular, mientras que la crueldad tiene lugar sobre un singular pero porque pertenece a un universal, a una categoría, a un sistema” (Mèlich 2014:33). No obstante, la etiqueta de peligrosidad esconde algo más que demanda ser reconocido: la reducción de lo humano a un mero dato, cuyo devenir monstruoso es tan cierto como esperado por la comunidad.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión</title>
+         <p>La inmunización a altas dosis opera bajo la lógica de la crueldad, cuya aparente justificación en nombre de la defensa social termina por convertirse en algo perverso: “Para esterilizarse de su propio poder contaminante, la comunidad está obligada a «operarse» o separarse de sí. A separar de sí un punto de su interior sobre el cual hace converger el mal colectivo” (Esposito 2009a:58). La consecuencia es inmediata: la parte contagiosa es alejada del resto del organismo social. La etiqueta criminal -al igual que los prejuicios y los estereotipos-, propios de las dinámicas inmunitarias, aumentan con los reclamos de seguridad, instituyendo cada vez más nociones de peligrosidad y medidas de segregación y neutralización que no solo devoran el nombre propio, la singularidad, sino también la pluralidad encerrada en una jaula de hierro. En síntesis, pregunta Esposito: ¿Qué otra cosa es la inmunización sino una forma de progresiva interiorización de la exterioridad? Y, seguidamente, responde: “Si la comunidad es nuestro afuera, el afuera -de- nosotros, la inmunización es aquello que nos retrotrae al interior de nosotros mismos, rompiendo todo contacto con el exterior” (Esposito 2009b:58).</p>
+         <p>De modo que la vida común, esto es, el asomarse más allá de la propia existencia, admitiendo otros modos de ser más allá de sí mismo, capitula sin condición ante los confines de una pertenencia colectiva idéntica y coincidente consigo, cercando toda posibilidad de devenir algo distinto al pronóstico social e institucional de peligrosidad. Sin lugar a duda, ni vacilaciones, el objeto inmunitario es la vida biográfica y, más precisamente, la potencia vital, clausurándola en los confines del encierro, la peligrosidad y la segregación comunitaria. ¿Qué otra cosa es la etiqueta criminal, o cualquier forma de estigmatización social, sino una forma de progresiva crueldad? Bajo estas condiciones: ¿Qué marcos perceptuales -epistemológicos, afectivos y metodológicos- deben concebirse para redimir la vida de los excesos de la inmunización? Sin embargo, estas preguntas y otras tantas sobre el papel de las humanidades en relación con la vida, “no pueden responderse en una investigación individual, sino que reclaman un esfuerzo colectivo al que todos estamos convocados” (Esposito 2009a:23).</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Esta composición se realizó en el marco del proyecto de investigación “Modelo actual de reintegración: giros y continuidades del discurso securitario, atendiendo a las condiciones de vulnerabilidad de las personas en proceso de reintegración del grupo territorial Paz y Reconciliación de Medellín” (radicado 108C-05/18-77), suscrito y financiado por las Universidades Pontificia Bolivariana, Murcia y Navarra. Un agradecimiento especial a Henry Solano Vélez, penalista y humanista que inspiró esta composición.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Agamben, G.,  (2001).
+               <italic>Medios sin fin</italic>
+               . : Pre-textos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Medios sin fin</source>
+               <publisher-name>Pre-textos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Bárcena, F.,  (2006).
+               <italic>Hannah Arendt: una filosofía de la natalidad</italic>
+               . : Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bárcena</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Hannah Arendt: una filosofía de la natalidad</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Bárcena, F.(2002). "Hannah Arendt: una política de la natalidad".
+               <italic>Daimon. Revista de filosofía . 26</italic>
+               , 107-123.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bárcena</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <article-title>Hannah Arendt: una política de la natalidad</article-title>
+               <source>Daimon. Revista de filosofía</source>
+               <volume>26</volume>
+               <issue />
+               <fpage>107</fpage>
+               <lpage>123</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Barrio, C.(2015). "La función del pensamiento y el discurso en Hannah Arendt. De los juicios reflexivos a los juicios políticos".
+               <italic>Ideas y Valores . 64</italic>
+               (159), 109-130. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15446/ideasyvalores.v64n159.41567">https://doi.org/10.15446/ideasyvalores.v64n159.41567</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barrio</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>La función del pensamiento y el discurso en Hannah Arendt. De los juicios reflexivos a los juicios políticos</article-title>
+               <source>Ideas y Valores</source>
+               <volume>64</volume>
+               <issue>159</issue>
+               <fpage>109</fpage>
+               <lpage>130</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15446/ideasyvalores.v64n159.41567">https://doi.org/10.15446/ideasyvalores.v64n159.41567"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Barrio, C.(2016). "El quién de la acción política en Hannah Arendt: la figura del espectador narrador y los juicios reflexivos".
+               <italic>ARETÉ Revista de Filosofía . 28</italic>
+               (1), 105-125. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://revistas.pucp.edu.pe/index.php/arete/article/view/15068">http://revistas.pucp.edu.pe/index.php/arete/article/view/15068</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barrio</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>El quién de la acción política en Hannah Arendt: la figura del espectador narrador y los juicios reflexivos</article-title>
+               <source>ARETÉ Revista de Filosofía</source>
+               <volume>28</volume>
+               <issue>1</issue>
+               <fpage>105</fpage>
+               <lpage>125</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://revistas.pucp.edu.pe/index.php/arete/article/view/15068">http://revistas.pucp.edu.pe/index.php/arete/article/view/15068"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Benjamin, W.,  (1991).
+               <italic>Para una crítica de la violencia</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Benjamin</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <year>1991</year>
+               <source>Para una crítica de la violencia</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Benjamin, W. (2010).
+               <italic>Destino y carácter</italic>
+               . En Tiedemann, R., Schweppenhäuser , H (eds.);Obras completas.  (178-206).: Abada editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Benjamin</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Destino y carácter</chapter-title>
+               <year>2010</year>
+               <source>Obras completas</source>
+               <publisher-name>Abada editores</publisher-name>
+               <fpage>178</fpage>
+               <lpage>206</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Brower, J.(2019). "El sentido de la "natalidad" en la fenomenología de la acción política de H. Arendt".
+               <italic>Res Publica: revista de historia de las ideas políticas . 22</italic>
+               (1), 233-245. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/RPUB.63894">https://doi.org/10.5209/RPUB.63894</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brower</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>El sentido de la "natalidad" en la fenomenología de la acción política de H. Arendt</article-title>
+               <source>Res Publica: revista de historia de las ideas políticas</source>
+               <volume>22</volume>
+               <issue>1</issue>
+               <fpage>233</fpage>
+               <lpage>245</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/RPUB.63894">https://doi.org/10.5209/RPUB.63894"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Butler, J.,  (2001).
+               <italic>¿Qué es la crítica? Un ensayo sobre la virtud de Foucault</italic>
+               . : Transform
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Butler</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>¿Qué es la crítica? Un ensayo sobre la virtud de Foucault</source>
+               <publisher-name>Transform</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Butler, J.,  (2006).
+               <italic>Vida precaria. El poder del duelo y la violencia</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Butler</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Vida precaria. El poder del duelo y la violencia</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Esposito, R.,  (2009a).
+               <italic>Immunitas. Protección y negación de la vida</italic>
+               . : Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Esposito</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2009a</year>
+               <source>Immunitas. Protección y negación de la vida</source>
+               <publisher-name>Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Esposito, R.,  (2009b).
+               <italic>Comunidad, inmunidad, biopolítica</italic>
+               . : Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Esposito</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2009b</year>
+               <source>Comunidad, inmunidad, biopolítica</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Esposito, R.,  (2012).
+               <italic>Communitas. Origen y destino de la comunidad</italic>
+               . : Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Esposito</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Communitas. Origen y destino de la comunidad</source>
+               <publisher-name>Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Foucault, M.,  (2018).
+               <italic>¿Qué es la crítica?</italic>
+               . : Siglo XXI editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Foucault</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>¿Qué es la crítica?</source>
+               <publisher-name>Siglo XXI editores</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               García-Pablos, A.,  (2001).
+               <italic>Criminología. Una introducción a sus fundamentos teóricos</italic>
+               . : Tirant Lo Blanch
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>García-Pablos</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Criminología. Una introducción a sus fundamentos teóricos</source>
+               <publisher-name>Tirant Lo Blanch</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Girard, R.,  (2012).
+               <italic>La violencia y lo sagrado</italic>
+               . : Anagrama
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Girard</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>La violencia y lo sagrado</source>
+               <publisher-name>Anagrama</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Hassemer, E., Muñoz, F.,  (2001).
+               <italic>Introducción a la criminología</italic>
+               . : Tirant Lo Blanch
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hassemer</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Muñoz</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Introducción a la criminología</source>
+               <publisher-name>Tirant Lo Blanch</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Kafka, F.,  (2012).
+               <italic>Ante la Ley. Escritos publicados en vida</italic>
+               . : DeBolsillo
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kafka</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Ante la Ley. Escritos publicados en vida</source>
+               <publisher-name>DeBolsillo</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Larrauri, E.,  (2009).
+               <italic>La herencia de la criminología crítica</italic>
+               . : Siglo XXI Editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Larrauri</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>La herencia de la criminología crítica</source>
+               <publisher-name>Siglo XXI Editores</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Mèlich, J.,  (2014).
+               <italic>Lógica de la crueldad</italic>
+               . : Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mèlich</surname>
+                     <given-names>J-C.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>Lógica de la crueldad</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Mèlich, J.,  (2016).
+               <italic>La prosa de la vida. Fragmentos filosóficos II</italic>
+               . : Fragmenta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mèlich</surname>
+                     <given-names>J-C.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <source>La prosa de la vida. Fragmentos filosóficos II</source>
+               <publisher-name>Fragmenta</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Quintana, I.(2018). "Práctica del intelectual más allá del saber: Lyotard, Foucault, Blanchot".
+               <italic>Isegoría. Revista de filosofía moral y política . 59</italic>
+               , 425-446. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3989/isegoria.2018.059.04">https://doi.org/10.3989/isegoria.2018.059.04</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Quintana</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Práctica del intelectual más allá del saber: Lyotard, Foucault, Blanchot</article-title>
+               <source>Isegoría. Revista de filosofía moral y política</source>
+               <volume>59</volume>
+               <issue />
+               <fpage>425</fpage>
+               <lpage>446</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3989/isegoria.2018.059.04">https://doi.org/10.3989/isegoria.2018.059.04"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>
+               Rosenzweig, F.,  (1997).
+               <italic>La estrella de la redención</italic>
+               . : Sígueme
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rosenzweig</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>La estrella de la redención</source>
+               <publisher-name>Sígueme</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>
+               Weil, S.,  (2005).
+               <italic>La fuente griega</italic>
+               . : Trotta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weil</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source>La fuente griega</source>
+               <publisher-name>Trotta</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

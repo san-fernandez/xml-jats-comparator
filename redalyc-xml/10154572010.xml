@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.6" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000200235</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La sociología clásica y el destierro del ser humano</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Classical sociology and the displacement of the human being</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Alvear</surname>
+						<given-names>Rafael</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original"> Institut für Soziologie, Universität Flensburg (Flensburg, Deutschland) ORCID: 0000-0002-3959-9781. (rafael.alvear.m@gmail.com)</institution>
+					<institution content-type="orgdiv1">Institut für Soziologie</institution>
+					<institution content-type="orgname">Universität Flensburg</institution>
+					<addr-line>
+						<named-content content-type="city">Flensburg</named-content>
+					</addr-line>
+					<country country="DE">Deutschland</country>
+					<email>rafael.alvear.m@gmail.com</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<season>Apr-Sep</season>
+				<year>2017</year>
+			</pub-date>
+			<issue>59</issue>
+			<fpage>235</fpage>
+			<lpage>253</lpage>
+			<history>
+				<date date-type="received">
+					<day>23</day>
+					<month>03</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>27</day>
+					<month>04</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>En un contexto en que la pregunta por lo humano parece divagar entre su desaparición bajo las críticas anti y post-humanistas y su reactivación justamente como respuesta a un entorno de alta incertidumbre y complejidad, la interrogante por los inicios de aquella relación entre sociología y ser humano se torna del todo importante. A partir de un análisis del núcleo fundamental de algunos de los más importantes clásicos de la sociología, se persigue a continuación desentrañar la postura original que la sociología tomó con respecto a éste, así como dilucidar los motivos que la explican. En ese marco, se sostiene la tesis de que la sociología clásica habría desarrollado un intento de <italic>destierro del ser humano</italic>; un destierro que a pesar de estar afincado en su desarrollo teórico-conceptual (<italic>epistémico</italic>), se ve complementado por su raigambre socio-institucional (<italic>disciplinar</italic>). La lectura es ya en ese entonces clara: inmersa en una incipiente lucha por reconocimiento científico, el cariz filosófico de la pregunta por lo humano se erige como un obstáculo para una cientificidad que solo puede terminar de alcanzarse a través de su exclusión.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>In a context where the question about the human being seems to move between its disappearance under anti- and posthumanist critiques, and its reactivation as an answer to an environment of high uncertainty and complexity, the question about the origins of the relations between sociology and the human being becomes especially relevant. Based on a revision of the fundamental core of some of the more important classics of sociology, this article tries to reconstruct sociology’s original position regarding the human being, as well as elucidating the reasons that explain it. Within this framework, it is argued that classical sociology developed an attempt to <italic>displace the human being</italic>; a displacement that despite relying on its theoretical-conceptual development (<italic>epistemic</italic>), it is complemented by its socio-institutional roots (<italic>disciplinary</italic>). This interpretation was already clear at that time: immersed in an incipient struggle for its scientific recognition, the philosophical tenor of the question about the human erects as an obstacle against the scientificity that can only be reached through its exclusion.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>classical sociology</kwd>
+				<kwd>objectives of knowledge</kwd>
+				<kwd>forms of knowledge</kwd>
+				<kwd>human being</kwd>
+				<kwd>philosophy.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>sociología clásica</kwd>
+				<kwd>objetivos del conocimiento</kwd>
+				<kwd>formas del conocimiento</kwd>
+				<kwd>ser humano</kwd>
+				<kwd>filosofía.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="37"/>
+				<page-count count="19"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Como bien se sabe, la ocupación intelectual con el problema de lo humano representa una empresa de pensamiento que tiene lugar desde tiempos immemoriales y sobrepasa por lo mismo las competencias de una disciplina en particular. Desde que existe razonamiento reflexivo, el ser humano ha sido ininterrumpidamente objeto de pensamiento por parte de diferentes pensadores -expertos y legos- y desde los más variados campos y puntos de vista. La autoobservación no resulta ser privilegio de ninguna ciencia o espacio intelectual. A un nivel de abstracción mayor, desde una perspectiva de segundo orden, si se quiere, el correlato es claro. El ser humano en cuanto tal ha provocado siempre algún tipo de reacción al interior de la diversidad de las especialidades intelectuales. Sin importar si éste es incorporado o rechazado, la toma de posición parece asegurada -desde las humanidades hasta las ciencias naturales.</p>
+			<p>Visto de esta manera -resulta casi una obviedad- la sociología no puede eludir aquel diagnóstico. Ella tiene hoy una posición que, si bien es posible de constatar en los sociólogos contemporáneos, encuentra sus orígenes en figuras como Auguste Comte, Karl Marx, Emile Durkheim y Max Weber, entre otros. Al interior del proceso de surgimiento de la sociología, aproximadamente en el cambio del siglo XIX al siglo XX, aquellos pensadores, como veremos, entraron rápidamente en contacto con el problema de lo humano, jugando un rol fundamental en lo que se refiere a la determinación de dicha posición al respecto. En ese marco, cabe plantear una de las interrogantes que orientan este artículo, a saber: ¿cuáles son los rasgos que ostenta la temprana posición de la sociología con relación al ser humano? ¿Cómo debe ser además interpretada? Es la constatación de la situación y características de aquella problemática la que nos permitirá escudriñar en sus motivos y desarrollo posterior. Al mismo tiempo, vale la pena preguntarnos: ¿qué tan importante es esta toma de posición para el desarrollo teórico de la sociología clásica y contemporánea? </p>
+			<p>En un contexto actual en que la pregunta por lo humano parece divagar entre su <italic>desaparición</italic> bajo las críticas anti y post-humanistas y su <italic>re-ontologización</italic>, justamente como respuesta a un entorno de alta incertidumbre y complejidad, el retorno a los inicios de la relación entre sociología y ser humano cobra un especial valor. Enmarcado en la búsqueda general por auscultar el puesto que tiene éste en el pensamiento sociológico, se persigue a continuación desentrañar tanto la posición original de la sociología con respecto al ser humano, como los motivos principales que explican esta última. Será dicha revisión o vuelta a algunos de los más importantes clásicos de la sociología lo que nos permitirá comprender la postura de la sociología referente al ser humano, que se configuró en ese tiempo, pero que perdura hasta hoy como una suerte de consenso teórico mínimo. La tesis que se sostiene a través de este artículo es que la sociología clásica habría desarrollado un intento de <italic>destierro</italic> del ser humano; un destierro que aparecería como resultado de una operación cognitiva (<italic>epistémica</italic>) y de un complemento socio-institucional (<italic>disciplinar</italic>). Factores conceptuales y sociales serán entonces considerados a continuación. </p>
+			<p>Mientras que la sociología establece su campo <italic>epistémico</italic> con relación a lo <italic>social</italic> y la <italic>sociedad moderna</italic>, dentro de lo cual el ser humano, como veremos, queda desterrado, la estructura organizacional de la misma -su forma <italic>disciplinar</italic>- aparece como sustento clave a dicho movimiento teórico, en la medida en que la lucha por el reconocimiento científico se pone en juego. La inclusión de aquella dimensión socio-institucional en nuestro análisis da cuenta con ello del problema que está detrás del escenario general y que dice relación con el vínculo de la sociología con sus raíces filosóficas. Si el ser humano es visto por los clásicos de la sociología como aquel campo objetual al cual, como afirmaba Kant en su <italic>Lógica</italic>, los diferentes terrenos filosóficos hacen referencia, no puede sino ser problemático para ella aceptarlo como elemento de su discurso, toda vez que la sociología de entonces no solo se encuentra en un período de desarrollo de su raigambre <italic>epistémica</italic>, sino también de surgimiento -aunque aún apenas perceptible- de su dimensión <italic>disciplinar</italic>. La visible reticencia respecto del ser humano aparecería entonces no solo como resultado de su desarrollo conceptual (<italic>epistémico</italic>), que apunta a la comprensión de la realidad social en general, sino además en concordancia con una suerte de distancia institucional (<italic>disciplinar</italic>) original frente a todo aquello que aparece con forma filosófica o “a-científica”.</p>
+			<p>Buscando desplegar y esclarecer dicho argumento, se estructura el artículo de la siguiente manera: cimentado en la idea de <italic>institucionalización cognitiva</italic> de una ciencia (Whitley), se persigue exponer en el primer y segundo apartado una observación del problema de lo humano en los orígenes de la sociología, para lo cual se describen brevemente los denominados <italic>objetivos</italic> [I] y <italic>formas del conocimiento</italic> [II] sociológico temprano. Es justamente en razón de dicho campo epistémico que la sociología afirma su posición respecto del ser humano. A partir de lo anterior, en la tercera sección se pretende sostener la tesis del <italic>destierro del ser humano</italic> al interior de la sociología, que se encarna por cierto desde Comte a Weber y se manifiesta tanto en la dimensión de los <italic>objetivos</italic> como de las <italic>formas del conocimiento</italic> [III]. En la cuarta seccion intentaré desarrollar una reflexión acerca de los motivos ya no epistémicos, sino más bien <italic>disciplinares</italic> que explican aquella suerte de destierro del campo sociológico cognitivo. Al respecto será la idea de <italic>institucionalización social</italic> de una ciencia (Whitley) la que nos permitirá acceder a dicho enfoque disciplinar. En ello se destaca el rol que la filosofía habría jugado, en la medida en que la sociología habría entendido ya en aquél entonces, que una preocupación teórica por el problema de lo humano tendría por resultado una conexión interna con la filosofía que, dado su pretensión de cientificidad, no sería tolerable [IV]. Hacia el final se postula la tesis de que la sociología clásica habría buscado deshacerse epistémicamente del ser humano, para con ello tomar distancia de la filosofía y poder <italic>ser ciencia</italic> en estricto rigor. </p>
+		</sec>
+		<sec>
+			<title>Institucionalización cognitiva y social de la ciencia</title>
+			<p>En el libro compilatorio <italic>Social Processes of Scientific Development</italic> Richard Whitley despliega una distinción entre un tipo de <italic>institucionalización cognitiva</italic> y <italic>social</italic> de la ciencia que, si bien no puede ser leída de manera totalizante -en tanto lo cognitivo supone lo social y viceversa-, resulta atractiva al menos en su dimensión cognitiva como mecanismo para el análisis del surgimiento de la estructura intelectual de las ciencias. No es sino al interior de lo que Whitley entiende por institucionalización cognitiva que es posible distinguir algunos de los factores internos básicos en la formación de las disciplinas científicas en general. A mi parecer, son dos los que resaltan de manera más particular. Intenciones o perspectivas comunes en torno a los que pueden denominarse como <italic>objetivos</italic> y <italic>formas</italic> (métodos) <italic>del conocimiento</italic> de un ámbito de pensamiento específico darían cuenta de que diferentes expertos “perciben <italic>un mismo problema</italic> de <italic>una forma similar</italic>” (<xref ref-type="bibr" rid="B27">Stölting 1986</xref>:27), generando así un consenso cognitivo mínimo entre ellos. En contraposición a una institucionalización de tipo social que, por su parte, “se refiere a la creación y mantenimiento de las estructuras formales que demarcan a los miembros de la estructura cognitiva” (<xref ref-type="bibr" rid="B36">Whitley 1974</xref>:75) -como se observa, por ejemplo, en la formación disciplinar de curriculums, journals, pero también en la lucha general por reconocimiento científico-, esta dimensión cognitiva apunta a la raigambre intelectual de una ciencia. En ella se estaría entonces frente a aquellos elementos racionales, semánticos, idearios o, como Peter <xref ref-type="bibr" rid="B35">Weingart (2013</xref>) ha resumido estos últimos en su libro <italic>Wissenschaftssoziologie</italic>, <italic>epistémicos</italic> que constituyen el germen intelectual de un nuevo esquema de pensamiento científico. </p>
+			<p>El surgimiento de la sociología puede por cierto ser visto bajo este prisma. En la medida en que algunos pensadores desarrollan <italic>una forma propia de observar</italic> un <italic>objeto de estudio</italic> igualmente común, éstos contribuirían con el proceso de génesis cognitivo de la sociología y con el curso de diferenciación que con ello comienza. Ya sea consciente o inconscientemente, de manera conjunta o separada, es posible constatar cómo diferentes intelectuales, provenientes de diversos campos de pensamiento, acoplan sus proyectos inicialmente personales a un motivo epistémico general que se expresa en este proceso cognitivo de institucionalización sociológica. Si, como asume Weingart, el desarrollo de las estructuras epistémicas de una ciencia no solo puede estar disociado de su contraparte social institucional, sino que además suele anteponerse a la misma, se pretende retornar entonces a sus inicios para observarla así en su estructura interna. Es por tanto esta dimensión idearia, que en sus orígenes carece de un claro correlato material institucional, la que a continuación queremos someter a estudio mediante un examen general de los proyectos teóricos de aquellos pensadores “clásicos” que contribuyeron más principalmente al desarrollo cognitivo de la sociología. A través de una revisión correspondiente de los <italic>objetivos</italic> y <italic>formas del conocimiento</italic> que esta novel sociología pone en marcha, será posible luego diagnosticar el rol que el ser humano ostenta en términos originales. Dado que los denominados “clásicos” representan la memoria cultural interna y crean “continuidad identitaria” (<xref ref-type="bibr" rid="B28">Stölting 2002</xref>:13), una observacion como esta podría posibilitar no solo el registro del inicio de la relación que se da entre sociología y ser humano, sino además constatar algunos de los pilares sobre los cuales se erige en general la teoría sociológica hasta nuestros días. </p>
+			<sec>
+				<title>I. Objetivos del conocimiento sociológico clásico</title>
+				<p>Si se observa el núcleo teórico de la idea de los <italic>objetivos del conocimiento</italic>, es posible destacar aquellos conceptos que en el marco de la lógica de la investigación científica son identificados como <italic>objeto</italic> o <italic>campo de estudio</italic> de una ciencia. Éstos se entienden como aquel objetivo cognoscitivo de una dirección científica -como determinación epistémica interna- que sería resultado ya sea de un <italic>descubrimiento</italic> específico o de una nueva <italic>forma de observar</italic>. El debate al respecto es tan infinito como secundario en lo concerniente a nuestro problema. Lo que nos interesa más bien es destacar la unicidad que, como veremos, propicia la sola <italic>finalidad</italic> u <italic>objetivo</italic> de una investigación científica. A partir de lo mismo, cabe preguntarse: ¿qué forma adquieren los objetivos del conocimiento sociológico en este período de surgimiento intelectual? Influenciada por los sistemas filosóficos que la preceden y ponen el acento en elementos de carácter individual, el pensamiento sociológico aparece con una perspectiva que, epistémicamente, puede ser concebida como revolucionaria. En aquellos inicios, la sociología erigió un campo objetual propio que, como veremos, se separa de figuras como el ser humano y se manifiesta en dos niveles diferentes, pero internamente vinculados, a saber: lo <italic>social</italic> y la <italic>sociedad moderna</italic>; dos formas que han sido distinguidas por Juan Miguel Chávez y Gesa Lindemann en las ideas de teoría social [<italic>Sozialtheorie</italic>] y teoría de la sociedad [<italic>Gesellschaftstheorie</italic>], y que pueden ser resumidas grosso modo en una idea más general de <italic>realidad social</italic>. </p>
+			</sec>
+			<sec>
+				<title>Auguste Comte</title>
+				<p>La aparición de dicho interés de investigación, que nace con aquella forma de observación sociológica, ya se encuentra en el clásico que le da su nombre a la sociología. El análisis de Comte acerca de la llegada de la fase positiva del espíritu o conocimiento humano -como momento posterior a las fases teológicas y metafísicas- resulta expresivo por sí mismo. Contrario a sus estadios anteriores, bajo los cuales el ser humano individual juega un rol fundamental, el espíritu positivo -y con éste el proyecto de Comte- defiende un interés particular por el estudio de la realidad social, cuyo núcleo se manifiesta tanto al nivel de lo social, como de la sociedad moderna. Según Comte la sociología tendría que dedicarse por una parte al estudio de los procesos sociales que se expresan en condiciones atemporales de convivencia -en la forma de “leyes naturales” (<xref ref-type="bibr" rid="B12">Institut für Sozialforschung 1956</xref>:11)- y que, por otra parte, encuentran su corolario en una figura societaria de <italic>humanidad</italic>. El estudio de los procesos o fenónemos sociales es secundada, así, por un análisis cuya esencia se configura en relación a las “condiciones generales del orden social” (<xref ref-type="bibr" rid="B2">Bock 2002</xref>:48) y es comprendida -en la fase positiva del espíritu- como un sinónimo del concepto de sociedad moderna. Como señala <xref ref-type="bibr" rid="B9">Elias, el término “especie humana<italic>”</italic> o “humanidad<italic>”</italic> (1986</xref>:46), a pesar de tener hoy un resabio biologista, ha sido concebido de forma equivalente al concepto de sociedad. </p>
+				<p>A partir de lo mismo se entiende la diferenciación fundante que Comte traza respecto del objeto de estudio de la sociología y su vinculación inherente al estado positivo del espíritu. Para el francés el espíritu positivo es -en oposición a los estadios teológico y metafísico- “eminentemente social. Para éste el ser humano verdadero no existe; solo puede existir la humanidad, dado que todo nuestro desarrollo está en deuda con la sociedad” (<xref ref-type="bibr" rid="B4">Comte 1915</xref>:88). Esta forma bidimensional de observar la realidad social que se expresa en el nivel de lo social y de la sociedad moderna -a pesar de que en Comte la segunda parece adquirir mayor claridad- se encuentra también en otros de los clásicos de la sociología de mediados del siglo XIX.</p>
+			</sec>
+			<sec>
+				<title>Karl Marx</title>
+				<p>En la comprensión materialista de la realidad social que Marx funda en su análisis económico-político, destaca igualmente la dualidad social/sociedad moderna como objeto de estudio de sus observaciones, las que ahora, sin embargo, ganan en nitidez semántica. El objeto principal de investigación reside en Marx en la esfera de lo social, cuya dinámica central es definida a través del concepto de <italic>trabajo</italic>. Lo social se entiende, en abstracto, como una suerte de relación de diversos individuos, dentro de la cual la forma de producción juega un rol esencial. Lo social, como nos recuerda Karel Kosik, “no es una substancia petrificada o dinámica, tampoco una entidad transcendente independiente de la praxis objetiva, sino que un proceso de producción y reproducción de la realidad social” (1973:193) que emerge entonces en conexión interna con las relaciones materiales existentes.</p>
+				<p>Dicha comprensión está a la base de su forma más general de entender a la sociedad moderna -la segunda dimensión de análisis. La “sociedad humana” o, lo que nos conecta con Comte, la “humanidad socializada”, como Marx escribe en <italic>Las tesis sobre Feuerbach</italic>, constituye, en el marco del sistema de producción capitalista, el objetivo de conocimiento general del nuevo materialismo. En éste, la sociedad moderna es entendida como “el producto del actuar mutuo de los seres humanos” (<xref ref-type="bibr" rid="B21">Marx 1971</xref>:548) y se conforma a partir del esquema base-superestructura [<italic>Basis-Überbau</italic>] en dos niveles. La base de la sociedad se remite, por una parte, a la totalidad de las relaciones de producción que, independientes de las voluntades de los seres humanos participantes, se corresponden con una etapa particular del desarrollo de las fuerzas productivas y forman entonces, de manera más o menos emergente, la estructura económica de la sociedad. No es sino esta condición espontánea la que será vivenciada por los seres humanos como alienación [<italic>Entfremdung</italic>] y descrita luego por el mismo Marx a partir de su imagen de la fetichización de la mercancía [<italic>Warenfetichismus</italic>]. Por otra parte, Marx caracteriza la superestructura como aquel reflejo de la vida material, que se encarna en diferentes formas de conciencia social [<italic>gesellschaftliche Bewusstseinsformen</italic>], a saber: la política, la moral, la religión, la metafísica, etc. </p>
+				<p>Como se ha descrito, lo social y la sociedad moderna se erigen, por tanto, como en Comte -aunque con diferencias-, en el objetivo cognoscitivo de la sociología de Marx, dentro de la cual el ser humano parece no tener lugar de relevancia. En contraste, por ejemplo, a los que Marx define como <italic>profetas del siglo XVIII</italic> (Smith y Ricardo), para los cuales el hombre era considerado como el punto de partida de la historia, éste queda desplazado del centro de la teoría marxista. Aun cuando la dimensión de lo social ostenta a través de la categoría de <italic>trabajo</italic> una suerte de primacía, ésta constituye junto a la dimensión societal -a través del mencionado modelo base-superestructura y el análisis de la forma de producción capitalista contenido en éste- el objetivo de conocimiento de la observación sociológica de Marx. Por cierto que en su teoría pueden encontrarse elementos o problemáticas disonantes con lo anterior. El <italic>Manifiesto del Partido Comunista</italic> es un ejemplo de aquello. Sin embargo, éstos no alcanzan a dañar la unidad o cohesión de una perspectiva sociológica que, si bien no del todo, comienza a ganar paso a paso en autoconsciencia.</p>
+			</sec>
+			<sec>
+				<title>Emile Durkheim</title>
+				<p>En este momento de institucionalización cognitiva de la sociología es Durkheim quien consolida aquel proceso de autoconsciencia sociológica. En la teoría de Durkheim alcanzan explicitud una serie de preceptos e ideas que, a pesar de haber sido objeto de reflexión por parte de otros <italic>clásicos</italic>, aparecían todavía muy difusamente. Uno de estos elementos, que de paso le permitirán a Durkheim delimitar de mejor forma su objeto de estudio, es su concepción sobre los fenómenos <italic>sui generis</italic>; una categoría que ya se encontraba presente -si bien no siempre con la misma claridad- en Comte y en Marx. En la medida en que la realidad social en general es comprendida como una realidad <italic>sui generis</italic> que, por tanto, traza una diferencia entre <italic>el</italic> 
+ <italic>todo</italic> y <italic>sus partes</italic> constituyentes, Durkheim puede estar en condiciones de postular adecuadamente sus objetivos de conocimiento sobre la base de los niveles de lo social y la sociedad moderna. </p>
+				<p>Según Durkheim, la sociología tiene como finalidad investigar los fenómenos sociales. Éstos últimos dan cuenta del campo propio de la sociología, que es entendido sobre la base de la categoría de <italic>hecho social</italic> y junto al concepto de <italic>institución</italic>. En este marco, la sociología debe ser entendida como “la ciencia de las instituciones, su génesis y su funcionamiento“ (<xref ref-type="bibr" rid="B8">Durkheim 2001</xref>:31), a partir de lo cual el concepto de <italic>institución</italic> se dilata de forma tal, que prácticamente todos los fenómenos sociales caerían bajo su manto: esto es, “todos los hechos sociales, en la medida en que son exteriores al individuo, ejercen presión social sobre éste, tienen lugar en la sociedad y ostentan una vida independiente a los individuos” que los hacen posible (<xref ref-type="bibr" rid="B26">Müller 2002</xref>:154). La esfera de lo social, que trasciende el campo de acción del ser humano, da cuenta entonces de “una realidad específica que tiene caracteres propios” (<xref ref-type="bibr" rid="B8">Durkheim 2001</xref>:156) y que encuentra su correlato societal tanto en el concepto de <italic>conciencia colectiva</italic> como en la distinción entre <italic>sociedades arcaicas</italic> -con un tipo de solidaridad mecánica- y <italic>modernas</italic> -con una solidaridad de tipo orgánica. En este sentido, la sociología no es solo una ciencia de las <italic>instituciones</italic>, sino además “de la sociedad [moderna]” (<xref ref-type="bibr" rid="B7">Durkheim 1981</xref>:368). </p>
+			</sec>
+			<sec>
+				<title>Max Weber</title>
+				<p>A pesar de que en la teoría sociológica de Weber es posible encontrar un diagnóstico referente a un proceso general de <italic>racionalización</italic> que tendría lugar en la modernidad, aquella dimensión parece perder tanto peso relativo, que su sociología ha sido incluso denominada como una suerte de <italic>sociología sin sociedad</italic> [<italic>Soziologie ohne Gesellschaft</italic>]. En ella el objeto de estudio permanece en una relación estrecha con el plano de lo social, cuyo núcleo es comprendido en términos de teoría de la acción. Al inicio de su obra <italic>Economía y sociedad</italic> Weber define de manera resoluta su campo de observación sociológica. El punto de partida es identificado junto al concepto de <italic>acción social</italic>. La <italic>acción social</italic> es entendida como un tipo de acción compleja, en la que un actor orienta un <italic>sentido subjetivo de acción</italic> con respecto al comportamiento de otros. En palabras del mismo Weber, “[n]o cualquier tipo de contacto entre seres humanos es de carácter social, sino solo un comportamiento con sentido que se orienta hacia el comportamiento del otro” (1922:11). Por cierto que la sociología no solo se ocupa de la <italic>acción social</italic>. Sin embargo, no es sino <italic>ésta</italic> la que constituye “su objeto central” (<xref ref-type="bibr" rid="B32">Weber 1922</xref>:12), a través de la cual se fundan los elementos teóricos aledaños. </p>
+				<p>A partir de lo anterior, se vuelve comprensible la definición que Weber hace de la sociología. Para Weber, la sociología debe ser entendida como una ciencia que “persigue comprender a la acción social de manera interpretativa y, a través de lo mismo, [intenta] explicarla causalmente en su desarrollo y sus efectos” (1922:1, paréntesis cuadrado añadido). Sobre la base de este concepto de <italic>acción social</italic> se configura la denominada <italic>sociología comprensiva</italic>; un marco teórico que aspira entonces a comprender ya sea las acciones con sentido de los individuos involucrados o, dicho de otra forma, los contextos de sentido [<italic>Sinnzusammenhänge</italic>] que engloban tales tipos de acción. Ni el individuo, ni el ser humano, se elevan como campo de estudio directo de su sociología. Es más bien la dimensión de lo social, que es canalizada a través del concepto de <italic>acción social</italic>, la que encuentra una posición de privilegio. Si bien, como veremos más adelante, Weber desarrolla una sociología de orientación más o menos individualista, aquello no significa que la realidad social pierda su posición epistémica como objeto de estudio, ni mucho menos que ésta deba compartir dicha función con el individuo o el ser humano. Una cosa es lo que se pretende investigar (el objetivo del conocimiento) y otra muy distinta es el cómo aquello es investigado (la forma del conocimiento) -que en Weber tampoco abandona, como veremos, los marcos del pensar sociológico. </p>
+			</sec>
+		</sec>
+		<sec>
+			<title>II. Formas del conocimiento sociológico clásico</title>
+			<p>Al nivel de las formas del conocimiento se postula una dimensión que apunta sobre todo a “la pertinencia de las técnicas e instrumentos utilizados” (<xref ref-type="bibr" rid="B36">Whitley 1974</xref>:72) por dicha ciencia emergente. En el contexto de la institucionalización cognitiva de la sociología, cabe destacar a nuestro juicio tanto el <italic>acceso teórico-explicativo</italic> -cercano a la vieja dualidad individuo/sociedad-, como la incorporación de la <italic>observación empírica</italic>. Por una parte, como se desprende del concepto como tal, el problema del <italic>acceso teórico-explicativo</italic> remite a la <italic>forma</italic> en que se despliega la investigación sociológica cuando se trata de dar cuenta de sus objetivos cognoscitivos, a saber, lo social y la sociedad moderna. La interrogante por el tipo de explicación que se lleva a cabo -si es que, por ejemplo, la explicación se sustenta en una descripción del ser humano o de la realidad social misma- gana en importancia. Por otra parte, al margen del diagnóstico del tipo de método concreto que ha sido usado por los clásicos de la sociología, hay un principio que parece regir en todos y cada uno de ellos, a saber: la necesidad de generar teoría apoyado en la realidad factual.</p>
+			<p>El acceso teórico-explicativo, así como el desarrollo de una dimensión empírica, serían entonces dos caras de una misma moneda, esto es, dos dimensiones complementarias que conforman en definitiva las denominadas formas del conocimiento de la sociología. Sin embargo, cabe preguntarse: ¿cuál es la contextura que toma la forma del conocimiento sociológico en este período de formación cognitiva? ¿Cuál es la particularidad de esta forma de proceder metodológica? A diferencia de los esquemas filosóficos que la preceden, es posible constatar en este proceso de institucionalización idearia una suerte de tendencia al desarrollo de formas explicativas de la realidad social que intentan asir su objeto directamente -sin pasar necesariamente por el antiguo colador epistémico que suponía el ser humano- y con el solo apoyo de la facticidad. Esta perspectiva, que ha sido conservada hasta hoy por los sociólogos contemporáneos, puede ser advertida en cada uno de los denominados clásicos de la sociología.</p>
+			<sec>
+				<title>Auguste Comte</title>
+				<p>La sociología de Comte, cuyo objeto de estudio se asienta tanto en los procesos sociales como en la <italic>humanidad</italic> visible en el estadio positivo, asume ya desde un inicio esta diferenciación de la realidad social con respecto al ser humano. En ella se defiende la posición de que el mundo social debe ser explicado según sus propias reglas y, como máximo, con el apoyo de la observación de tipo empírica. En este marco, el estudio del ser humano -en contraposición a los estadios teológicos y metafísicos- no tiene valor alguno al interior de la denominada fase positiva del espíritu -no por nada representada por el sociólogo francés. Comte mismo lo afirma enfáticamente: “[s]ería imposible derivar el estudio colectivo del género del estudio del individuo, pues las condiciones de la vida social, que modifican los efectos de las leyes fisiológicas, merecen aquí atención central. La sociología, con la mayor consideración de su relación necesaria con la fisiología, debe estar edificada sobre un fundamento de observación directa que le sea propia” (<xref ref-type="bibr" rid="B5">Comte 1934</xref>:52).</p>
+				<p>La sociología debe, según Comte, intentar captar la realidad social en su condición interna, lo que solo sería posible de alcanzar a través de un acercamiento a la realidad empírica. Sobre la base de un deseado traspaso de las formas investigativas de las ciencias naturales y de una correspondiente renuncia a la aspiración de asir lo absoluto, la sociología positiva de Comte limita sus esfuerzos al campo de la observación de lo <italic>real</italic>, que se erige como “fundamento del conocimiento como tal” (<xref ref-type="bibr" rid="B4">Comte 1915</xref>:16). A partir de ello, el espíritu positivista se levanta con plena fuerza. Este “reconoce desde ahora como regla fundamental que toda afirmación que carezca de correlación con un hecho factual -sea particular o general-, no puede ofrecer ningún sentido real” (<xref ref-type="bibr" rid="B4">Comte 1915</xref>:16). Desde la teoría de Comte se enraíza ya esta forma de conocimiento específicamente sociológica. Los procesos sociales -junto a sus leyes- y la sociedad moderna, en tanto que estadio positivo de la <italic>humanidad</italic>, se investigan teóricamente a través de una observación de su propia constitución, cuyo complemento se encuentra, siguiendo el modelo de las ciencias naturales, en el contacto con lo empírico. </p>
+			</sec>
+			<sec>
+				<title>Karl Marx</title>
+				<p>Esta suerte de forma de conocimiento se consolida también, aunque con otros contornos, en la teoría de Marx, cuyo objeto de estudio queda definido por el <italic>trabajo</italic> y la <italic>sociedad humana</italic> -esta última sometida a la dinámica de producción capitalista. En contraposición a una parte importante de los pensadores del siglo XVIII y XIX, que apoyaban sus análisis en observaciones sobre la <italic>naturaleza humana</italic>, Marx se entrega a la tarea de dar cuenta de la realidad social en su propia dimensión, esto es, sin tener que incluir al ser humano en su estructura epistémica. En la medida en que los fenómenos sociales como el <italic>trabajo</italic> o el <italic>capitalismo</italic> en general se apoyan en leyes de producción que se imponen de manera independiente del querer y pensar de los individuos, el análisis de los mismos no puede sostenerse en mecanismos subjetivos, psicológicos o fisiológicos, sino solo “en factores socioeconómicos objetivos” (<xref ref-type="bibr" rid="B6">Dahrendorf y Henning 2012</xref>:76). La lógica es clara. Para explicar el funcionamiento de la realidad social no se debe partir por un análisis del ser humano, sino más bien afianzar la descripción de la dinámica social misma, cuyo estudio empírico debe ser llevado a cabo mediante una “economía política” (<xref ref-type="bibr" rid="B22">Marx 1974a</xref>:8). </p>
+				<p>Es este análisis económico-político el que le da sustento científico al materialismo histórico, en la medida en que toda evaluación de los fenómenos sociales se realiza con un ojo puesto en la correlación material que les secunda. A través de aquello Marx habría logrado densificar una forma general “de estudio histórico y teórico de la sociedad en una investigación materialista de sus fundamentos económicos” (<xref ref-type="bibr" rid="B17">Korsch 1967</xref>:118) que terminaría por marcar distancia respecto de la tradición. Bajo este prisma todo diagnóstico debe estar destinado a partir con una revisión de lo concreto, como puede ser “el trabajo, la división del trabajo, las necesidades, el valor de cambio”, etc. y terminar con lo abstracto, “como el Estado, el intercambio de las naciones y el mercado mundial” (<xref ref-type="bibr" rid="B23">Marx 1974b</xref>:632). Esta preocupación por lo real, por la vida material, supone el inicio de la “verdadera ciencia positiva” (<xref ref-type="bibr" rid="B24">Marx y Engels 1978</xref>:27) y el término además de la pervivencia de los restos de una tradición filosófica que, como en el sistema hegeliano, permanecía puramente en el reino de la conciencia y el espíritu. Acceso teórico-explicativo y método empírico se unen, entonces, bajo este enfoque económico-político que se acopla a la tendencia general de la sociología clásica.</p>
+			</sec>
+			<sec>
+				<title>Emile Durkheim</title>
+				<p>En contraposición a las direcciones filosóficas que fundan sus observaciones en conceptualizaciones previas sobre la naturaleza humana, Durkheim entiende que la sociología debe, como se ha mencionado, limitarse en su observación y explicación al campo social. El precepto es explícito: “la causa determinante de un hecho social debe ser buscada entre los hechos sociales antecedentes, y no entre los estados de la conciencia individual” (<xref ref-type="bibr" rid="B8">Durkheim 2001</xref>:164). Aquella máxima no debe, sin embargo, ser interpretada como una mera declaración de <italic>intenciones metodológicas</italic>. Ésta puede ser encontrada más bien de manera operativa a lo largo de su obra. En vez de remitirse a la naturaleza humana para intentar dar cuenta del problema de las formas de solidaridad social, Durkheim realiza en <italic>La división del trabajo social</italic> una clasificación del derecho, toda vez que éste expresa el núcleo de dicho fenómeno. En lugar de dedicarse a observar la condición psíquica del individuo para dar explicación al suicidio, Durkheim analiza, como también lo hiciera Marx, el entorno social, lo que lo lleva finalmente a preguntarse por el grado de cohesión existente en los grupos sociales. En vez de investigar las necesidades y tendencias de los sujetos para esclarecer el fenómeno de la religión, Durkheim examina la <italic>infraestructura</italic> de la religión, esto es, las representaciones y acciones rituales, que confirman de paso, que detrás de aquello no hay nada más que “<italic>pura sociedad”</italic> (<xref ref-type="bibr" rid="B13">Jonas 1981</xref>:55).</p>
+				<p>De esta forma, <xref ref-type="bibr" rid="B13">Durkheim separa “los fenómenos colectivos de los individuales” (Jonas 1981</xref>:38), para concentrarse en los primeros y liberarse de los segundos. Este movimiento teórico es tan claro como lleno de consecuencias, sobre todo en lo concerniente a su forma de proceder. La definición general que Durkheim hace de la sociología está en conexión con la tónica más amplia de recepción del funcionamiento interno de las ciencias naturales. Según Durkheim, la sociología podría ser comprendida en términos naturalistas, toda vez que ella “considera los hechos sociales como explicables naturalmente y (...) que el sociólogo elabora una ciencia y no es un místico” (<xref ref-type="bibr" rid="B8">Durkheim 2001</xref>:199). La dimensión empírica se vuelve entonces indispensable. La sociología persigue bajo esta perspectiva apoyarse en hechos y fenómenos visibles, a partir de lo cual todo lo restante debe ser desterrado del horizonte científico social. Si lo social y la sociedad moderna no son una mera hipótesis, sino que se corresponden con la realidad, y, no está de más decir, con una realidad emergente, entonces ésta debe ser estudiada efectivamente en su propio mérito, lo que significa: mediante investigación empírica. En la medida en que su sociología “abandona las afirmaciones de carácter a priori” (<xref ref-type="bibr" rid="B20">Luhmann 1996</xref>:31) y entra en estrecho contacto con el detalle de los hechos, Durkheim habría encontrado suelo firme para pisar. Con ello se clarifica además su perspectiva en general. Si la realidad social solo puede ser entendida a partir del registro o la observación de la realidad social misma, esta dimensión empírica se erige entonces como esencial, permitiendo asegurar la cientificidad del acercamiento al orden de lo factual. </p>
+			</sec>
+			<sec>
+				<title>Max Weber</title>
+				<p>A pesar de que la teoría sociológica de Weber ha sido catalogada como individualista, dado que tiende a definir lo social a partir del concepto de <italic>acción social</italic>, parece oportuno realizar una advertencia teórico-epistemológica. Del hecho que la <italic>acción social</italic> sirva como vehículo para comprender la esfera de lo social, no puede desprenderse que la sociología deba recurrir al ser humano para poder explicarla. Para entender esto no solo basta con remitirse a la definición de <italic>acción social</italic> como tal -que sobrepasa cualquier antropologismo-, sino además con reparar en la teoría de Weber en general. El punto es más o menos lógico. Puesto que lo social es comprendido en términos de teoría de la acción, no es el ser humano o el individuo el que se erige como acceso o forma de conocimiento, sino más bien las <italic>orientaciones de la acción</italic> [<italic>Handlungsorientierungen</italic>] de los individuos involucrados que, como lo afirman Jens Greve y Wolfgang Schluchter, no dejan de tener características emergentes. Una reconducción a las acciones de los sujetos, para así dar cuenta de dicha realidad social, no supone en principio relación alguna ni con propiedades fisiológicas, psicológicas o antropológicas en general, ni con una supuesta naturaleza humana. Un análisis de tal tipo carecería de sentido, en tanto Weber mismo habría defendido la idea de que “las interpretaciones metafísicas y homocéntricas, con sus colores grandiosos, contribuyen tan poco al conocimiento como las interpretaciones teocéntricas del pasado” (<xref ref-type="bibr" rid="B13">Jonas 1981</xref>:190). Todo lo que rodea al ser humano, que no implique una relación de sentido subjetivo -piénsese en los procesos de selección de tipo antropológico o de hechos psicológicos, entre otros-, quedan fuera del campo de explicaciones o “investigaciones sociológicas” (<xref ref-type="bibr" rid="B34">Weber 1985b</xref>:431). </p>
+				<p>Para decirlo con la máxima de Durkheim: lo social sigue siendo explicado a través de factores sociales. El punto reside, justamente, en que esta realidad es comprendida en términos de teoría de la acción, de manera que las <italic>acciones de los individuos</italic> -que suponen “lo real, con lo cual la explicación sociológica debe conectar” (<xref ref-type="bibr" rid="B13">Jonas 1981</xref>:184)- han de ser empíricamente estudiadas a través de la generación de <italic>tipos ideales</italic>. Esta construcción conceptual es la que, según Weber, configura la forma metodológica para acceder a las <italic>acciones sociales</italic> y así poder interpretar los fenómenos socioculturales y buscar las reglas generales que allí se repiten. Los tipos ideales, que sirven como “medio heurístico para la dirección de la investigación empírica” (<xref ref-type="bibr" rid="B14">Käsler 1979</xref>:182), son referidos por Weber justamente como un intento para “llevar orden al caos de aquellos hechos que hemos incluido en nuestro círculo de interés” (<xref ref-type="bibr" rid="B33">Weber 1985a</xref>:207). Éstos son concebidos como instrumentos que tienen por objetivo el conocimiento, esto es, la <italic>comprensión</italic> y <italic>explicación</italic> de la realidad social o, dicho concretamente, de los “fenómenos culturales en su contexto, en su condición causal y su sentido” (<xref ref-type="bibr" rid="B33">Weber 1985a</xref>:193). No es sino este enfoque el que cierra el círculo investigativo de la sociología de Weber, toda vez que éste permite una confrontación empírica que, a fin de cuentas, le otorga su apelativo de <italic>científico</italic>. </p>
+			</sec>
+		</sec>
+		<sec>
+			<title>III. El destierro del ser humano en la sociología clásica</title>
+			<p>La reflexión acerca de los objetivos y formas del conocimiento de los <italic>clásicos</italic> nos ha permitido tematizar los pilares epistémicos sobre los cuales la sociología asienta su estructura científica. Desde inicios o mediados del siglo XIX se puede observar, de manera más o menos clara, cómo es que diferentes pensadores -provenientes originalmente de diversos campos de pensamiento- coinciden en un estilo de observación común que, para decirlo con Theodor Geiger en <italic>Arbeiten zur Soziologie</italic>, contribuye con la determinación tanto de un objeto de estudio abstracto, como de una forma explicativa en particular. Este proceso de institucionalización cognitiva que hemos revisado brevemente comporta una suerte de determinación de aquello que es sustancialmente sociológico y que, por lo mismo, implica no solo indicaciones respecto de un proceder adecuado, sino además de lo que escapa a éste; de lo que debe ser dejado más allá de sus fronteras cognoscitivas.</p>
+			<p>Como todo en la vida en sociedad, respecto del período de formación de una ciencia es posible constatar dinámicas de diferenciación y delimitación. Si la sociedad tiende a la diferenciación (Luhmann) y distinción (Bourdieu), ¿por qué la sociología, como parte de la misma, podría eludir dicho escenario? Ya lo afirmaba Spencer-Brown en <italic>Law of Form</italic>: tan pronto como algo se elige o se observa, otros elementos se marginan simultáneamente, sin importar si aquello ocurre consciente o inconscientemente. En la medida en que, para volver a nuestro problema, se distinguen primero lo social y/o la sociedad moderna como objetivos cognoscitivos y se asientan, en segundo lugar, las formas del conocimiento en dicha realidad social general -sobre la base de observaciones empíricas-, otras innumerables figuras quedan automáticamente apartadas del foco de atención epistémico; figuras dentro de las cuales hemos destacado al <italic>ser humano</italic>. Si se observa con abstracción aquel proceso de institucionalización cognitiva de la sociología, es posible entonces constatar una toma de posición general de la sociología respecto del ser humano. Ésta puede ser descrita como una suerte de alejamiento o incluso -con lo cual acentuamos su cariz volitivo- de <italic>destierro</italic>, que se pone en marcha tanto al nivel de los objetivos como también de las formas del conocimiento de la sociología. </p>
+			<sec>
+				<title>El destierro del ser humano al nivel de los objetivos del conocimiento sociológico</title>
+				<p>Como es posible deslindar de lo anterior, en el marco de los objetivos del conocimiento este movimiento teórico atañe a la finalidad investigativa de la sociología. Ya sea a través de la primacía de las investigaciones en torno a lo social (Weber), a la dimensión global de la sociedad moderna (Comte) o mediante una suerte de preponderancia más o menos equivalente entre ambos planos (Marx y Durkheim) es, en cualquier caso, la <italic>realidad social</italic> la que se erige como objetivo motor del conocimiento sociológico clásico; una realidad (de carácter sui generis) al interior de la cual el ser humano carece de lugar. Al margen de la forma en que se conciben lo social y la sociedad moderna, parece evidente que con tal desarrollo conceptual el ser humano quede excluido desde un inicio. Si, por una parte, lo social toma la forma de <italic>procesos sociales</italic> (Comte), del <italic>trabajo</italic> (Marx), de <italic>hechos</italic> (Durkheim) o <italic>acciones sociales</italic> (Weber); y por otra parte la sociedad moderna adquiere la forma del estadio positivo de la <italic>humanidad</italic> (Comte), del <italic>capitalismo</italic> (Marx), de una <italic>solidaridad orgánica</italic> (Durkheim) o de procesos de <italic>racionalización</italic> (Weber), resulta en términos abstractos baladí, toda vez que la supremacía de la realidad social conlleva una demarcación clara respecto de la esfera de lo humano en cuanto tal. </p>
+				<p>El ser humano permanece en el exterior de este ámbito social, cuya descripción se entiende como aquella tarea principal y distintiva en dicho proceso de institucionalización sociológica cognitiva. Desde que Comte declaró la entrada en la fase positiva del espíritu -como estadio final del conocimiento-, el ser humano ha sido desterrado del foco de estudio, que desde entonces solo tiene comprensión para aquello que concierne a la vida en sociedad. A partir de aquel momento, se ha recorrido, en palabras de Luhmann, un camino general de “desintegramiento y recombinación: del ser humano al rol, del ser humano a la acción, del ser humano (...) a los sistemas sociales” (1996:37). En lugar de seguir investigando al ser humano -como otros esquemas de pensamiento de la época-, cuya falta de relevancia se habría transformado en un “pilar fundamental de la sociología” (<xref ref-type="bibr" rid="B11">Gumplowicz 1928</xref>:208), los <italic>clásicos</italic> aspiraron a registrar aquella realidad social autónoma que, por lo mismo, carece de intermediarios metodológicos.</p>
+			</sec>
+			<sec>
+				<title>El destierro del ser humano al nivel de las formas del conocimiento sociológico</title>
+				<p>Esta suerte de destierro del ser humano se deja entrever también en el plano del proceder investigativo. Cada uno de los clásicos de la sociología entendió en su propio estilo que, primero, lo social y/o la sociedad moderna deben ser comprendidos teóricamente en su propia particularidad y, segundo, que aquello exige el despliegue de observaciones de carácter empírico. Al nivel del <italic>acceso teórico-explicativo</italic> se destaca la máxima que Durkheim pronuncia conscientemente, pero que -por supuesto con matices- puede ser encontrada en cada una de las teorías sociológicas mencionadas, esto es, la convicción de que <italic>lo social debe ser explicado a través de argumentos de tipo social</italic>. Si la sociología se hace cargo en estricto rigor de la realidad social, ésta a su vez ha de ser dilucidada mediante representaciones teóricas que se correspondan con ella. El análisis sociológico no puede entonces basarse en propiedades de carácter psicológico, fisiológico o antropológico en general. Al margen de su forma de concretización, la sociología clásica insistió en “explicar los hechos sociales a través de factores sociales” (<xref ref-type="bibr" rid="B25">Mayntz 2001</xref>:6). El ya frecuentemente mencionado precepto durkheimiano de que para <italic>explicar lo social se requieren argumentos de tipo social</italic> resume esta tendencia general que marca “el inicio de toda sociología en tanto que ciencia autónoma” (<xref ref-type="bibr" rid="B16">König 1970</xref>:21) y se encuentra entre tanto por doquier en la disciplina. </p>
+				<p>Dado que el ser humano no puede entenderse como instrumento de acceso científico válido para la explicación de la realidad social, cuya condición debe ser estudiada en su propia dimensión, cobra especial relevancia la relación particular que pueda establecer la sociología con la facticidad. No en vano la sociología ha sido valorada como hija del positivismo. Ya desde un inicio se asume que las afirmaciones que no se apoyan en la observación empírica carecen de cualquier valor. Sin perjuicio de la forma metodológica específica, se constata esta aspiración general -proveniente sobre todo de las ciencias naturales- por intentar acercarse a lo factual y así respaldar científicamente la formación conceptual. Aquello se observa por cierto en el registro de los fenómenos sociales y sus leyes (Comte), en la descripción de la estructura económica de la sociedad (Marx), en la clasificación del derecho, del entorno social y de las representaciones y acciones rituales (Durkheim) o, finalmente, en la comprensión de las orientaciones de la acción a través de la construcción de tipos ideales (Weber). El camino hacia una comprensión científica de la realidad social está entonces pavimentado -desde Comte hasta Weber- por observaciones empíricas. El rol que éstas han jugado ha sido fundamental -al menos en lo que respecta a su dimensión científica y, como veremos más adelante, al campo de lucha por el reconocimiento <italic>disciplinar</italic> en general. </p>
+			</sec>
+			<sec>
+				<title>El destierro del ser humano del campo sociológico</title>
+				<p>A partir de lo anterior, es posible constatar dicha suerte de movimiento teórico general que surge en el período de formación cognitiva de la sociología. Este mencionado <italic>destierro del ser humano</italic> que tiene lugar epistémicamente al nivel de los objetivos y de las formas del conocimiento, da cuenta de la toma de posición original de la sociología clásica respecto del ser humano -una posición que abriga consecuencias para la sociología contemporánea y que, sin embargo, por motivos de espacio no puedo tratar aquí. Dado que la sociología se ocupa de lo social y la sociedad moderna, figuras como el ser humano no tendrían rol alguno que jugar. Bajo dicha cosmovisión -marcada por la pretensión de dar cuenta <italic>científicamente</italic> de la realidad social- el ser humano, como lo ha visto Friedrich Tenbruck con cierto pesar, desaparece: la sociología “excluye cualquier rendición de cuenta, constatación o presunción antropológica. Esta renuncia representa el reverso de la vocación por ´los hechos sociales´ -para orgullo de la sociología-, que busca encumbrarse a través de lo mismo por sobre la disputa de opiniones hacia el reino de la objetividad científica” (<xref ref-type="bibr" rid="B29">Tenbruck 1984</xref>:185). </p>
+				<p>Con el surgimiento de la semántica de la realidad social se sumerge al mismo tiempo el ser humano en la oscuridad, para de a poco volverse invisible. La famosa tesis de Michel Foucault de que “el hombre se borraría, como en los límites del mar un rostro de arena” (<xref ref-type="bibr" rid="B10">Foucault 1968</xref>:375), se revela “operante” ya desde la sociología clásica. No hace falta esperar la aparición de la filosofía del lenguaje o incluso de la teoría de sistemas, para que el ser humano o sujeto sea declarado muerto o desaparezca en el entorno de la sociedad. La discusión acerca de lo social y la sociedad moderna ya habría mostrado que éste “ya había sido declarado muerto antes o al menos que había sido empujado hacia el margen” (<xref ref-type="bibr" rid="B1">Bertschi 2010</xref>:71). Tan pronto como la sociología comenzó por desarrollar su propia problemática alrededor de las dimensiones de lo social y la sociedad moderna, el ser humano no solo sería desplazado de su horizonte, sino incluso abolido como tal. La necesidad existente por desarrollar nuevos conceptos y estructuras teóricas habría contribuido a la puesta en marcha de la semántica de lo social con detrimento de la semántica de lo humano. Por cierto que los clásicos de la sociología se han manifestado en sus escritos sobre el ser humano -sobre el <italic>porvenir</italic> del ser humano-, sin embargo, éste no tendría lugar alguno cuando se trata ya no de elementos normativos aledaños, sino de la estructura teórico-epistémica misma. </p>
+				<p>En este contexto, el ser humano pierde todo peso. La nueva formación o interpretación de conceptos consolidaron esta suerte de distanciamiento respecto de las representaciones teóricas tradicionales y sus términos semánticos, dentro de los cuales, por cierto, el concepto de ser humano había gozado de una posición central. Este último, desterrado del foco de interés sociológico, aparece por lo mismo -à la Parsons- como una mera <italic>categoría residual</italic>. La plena apropiación de la realidad social de los objetivos y formas del conocimiento sociológico explica esta condición en la que se encuentra el terreno de lo humano en tanto campo de investigación. Dado que el esquema conceptual, de manera símil a las dinámicas de distinción (Luhmann), solo puede concentrarse en una cantidad limitada de hechos empíricos, que de alguna manera son <italic>iluminados</italic> por la observación, hay otros elementos -como en este caso el ser humano- que quedan dejados de lado. Éstos últimos permanecerían, para utilizar el lenguaje de Spencer-Brown, en el lado <italic>no marcado</italic> de la distinción.</p>
+				<p>Sin embargo, esta dinámica de distinción es -como veremos a continuación- resultado de una decisión consciente respecto de lo excluido. Y de ahí la idea de <italic>destierro</italic>. La disolución del ser humano a través de la apuesta por la apropiación de la realidad social habría sido llevada a cabo, como Michael Bock afirma en relación a Comte, con una implacabilidad doctrinaria y “apertura tal respecto de sus consecuencias totalitarias, que hoy en día solo se puede reír o aterrarse” (<xref ref-type="bibr" rid="B2">Bock 2002</xref>:53). Y es esto último lo que se refleja paradigmáticamente en la idea de Tenbruck de que este distanciamiento o abolición del ser humano supondría una suerte de “vaciamiento del ser” [<italic>Entleerung des Daseins</italic>] (1984:22). Visto en términos abstractos, sin importar la forma en que se expresa este movimiento de distancia respecto del ser humano -pensemos en las ideas de <italic>desaparición</italic>, <italic>declaración de muerte</italic> o de <italic>abolición</italic>, entre otros-, lo que queda claro con todos estos conceptos es la toma de posición general que la sociología ha desplegado desde sus inicios. En la medida en que el ser humano es <italic>desterrado</italic> de los objetivos y luego de las formas del conocimiento de la sociología, el mundo de lo social se revela todopoderoso. El ser humano, que durante siglos se entendía como uno de los objetivos principales del pensar, como medida de todas las cosas (Protágoras), se <italic>cae</italic> con ello o, para decirlo correctamente, es <italic>derribado de su pedestal</italic>. </p>
+			</sec>
+		</sec>
+		<sec>
+			<title>IV. Hacia los fundamentos disciplinares del destierro del ser humano</title>
+			<p>La interrogante por los motivos que ayudan a explicar una posición teórica general como la señalada obliga a abrir el campo de análisis desarrollado hasta el momento. Esta suerte de observación epistémica que hemos llevado a cabo sobre el proceso de surgimiento de la sociología, resulta aún insuficiente para dar razones respecto al intento de expulsión del ser humano del campo sociológico. A nuestro entender, existen otros motivos que resultan clave para comprender por qué, por ejemplo, este destierro teórico-epistémico ha sido implementado y mantenido hasta la actualidad. Para ello vale la pena adoptar una perspectiva más abstracta, en correspondencia con aquello que Whitley identifica como <italic>institucionalización</italic> 
+ <italic>social</italic> de la ciencia y que se expresa, como hemos señalado, en la formación disciplinar de curriculums, journals -todos los cuales demarcan materialmente la estructura cognitiva del campo científico emergente-, así como en la lucha general por reconocimiento científico. Por cierto que una comprensión parcelada de lo cognitivo y lo social sería errada, en la medida en que ambas permanecen interna e incluso ontológicamente vinculadas. Lo epistémico solo es posible en sociedad. Sin embargo, una consideración (al menos analítica) de la dimensión social nos permite atender aquellos factores, digamos, <italic>disciplinares</italic>, que serían centrales para dar cuenta del cariz organizacional general. </p>
+			<p>A partir de esta comprensión, que se concentra entonces en la dimensión social <italic>disciplinar</italic> del desarrollo de la ciencia -en su esfera identitaria material-, cabe realizar en el marco de nuestra problemática primero que todo una observación de carácter histórico-teórica. Para caer de un pedestal o ser derribado del mismo, aquello que <italic>cae</italic> o se <italic>derriba</italic> tiene necesariamente que haber disfrutado <italic>previamente</italic> de dicha posición de privilegio. Para que entonces el ser humano <italic>desaparezca</italic>, sea <italic>declarado muerto</italic>, sea <italic>abolido</italic>o, como proponemos en términos generales, sea <italic>desterrado</italic>, debe cumplirse lógicamente el requerimiento de haber existido con antelación, esto es, de haber <italic>estado presente</italic>, de haber sido <italic>declarado o entendido como vivo</italic>, de haber sido <italic>instituido</italic> o <italic>incluido</italic> con anterioridad. Éste tiene que haber estado en alguna parte. Visto en términos histórico-<italic>disciplinares</italic>, el mencionado destierro del ser humano solo podría tener lugar a condición de que este último, dado que la sociología clásica carece de ascendencia propiamente sociológica, haya sido parte de alguna otra tradición de pensamiento -precedente a la sociología-, con la cual esta novel ciencia comparta <italic>algo</italic>. Los clásicos de la sociología, por cierto, no están en condiciones de ignorar esta circunstancia, toda vez que aquello los conecta con sus raíces teóricas. Si el ser humano en rigor puede ser desplazado en este proceso de formación cognitiva de la sociología, es entonces porque éste ya había sido objeto central de discusión al interior de otra disciplina con la cual ella comparte sus raíces, a saber: -¡y qué duda cabe!- de la tradición filosófica. </p>
+			<p>Ya desde Comte se puede encontrar esta suerte de asociación entre el ser humano y la filosofía. Los estadios teológicos y metafísicos se distinguen como aquellas fases del espíritu o conocimiento, en los cuales se intenta captar la naturaleza interna de las cosas y por tanto se da rienda suelta a las especulaciones filosóficas. La tarea de responder preguntas sobre lo humano tales como <italic>¿de dónde?</italic> o <italic>¿hacia dónde?</italic> marcan ambos momentos precientíficos, resumidos usualmente en la forma general de la filosofía. El ser humano, que para Simmel constituye por sobre todo en el siglo XVIII el centro de interés histórico-filosófico, se habría hecho entonces de una posición primordial, como finalidad de la observación espiritual. Si dicha tradición filosófica hubiese incluso querido tener por objeto de estudio a otras figuras -como, por ejemplo, a la sociedad o al Estado-, éstas habrían sido igualmente “derivadas del concepto de ser humano, de la imagen de ser humano, de la esencia del ser humano, del ser humano como tal (...) Esto hizo la filosofía especulativa”, según <xref ref-type="bibr" rid="B24">Marx y Engels (1978</xref>:48). Para los representantes de dicha tradición filosófica, la vida social solo podría ser comprendida “en la medida en que puede ser deducida de la naturaleza individual” (<xref ref-type="bibr" rid="B8">Durkheim 2001</xref>:179). La más alta y refinada explicación de la realidad social consistiría “en hacer ver cómo [ella] procede de la naturaleza humana en general, bien se la deduzca directamente y sin observación previa, o bien que se la religue después de haberla observado” (<xref ref-type="bibr" rid="B8">Durkheim 2001</xref>:150, paréntesis cuadrado añadido).</p>
+			<p>El diagnóstico de los clásicos de la sociología es unívoco: ya sea como <italic>objetivo o forma del conocimiento</italic>, el ser humano tendría asegurada una presencia <italic>epistémica</italic> fundamental al interior de la filosofía -en cualquiera de sus formas semánticas. Y no solo eso. La lectura en medio de este proceso de formación sociológica es aún más aguda: para los clásicos de la sociología la <italic>pregunta</italic> por el ser humano representaría <italic>en sí misma</italic> -¡y por tanto siempre!- una pregunta de índole filosófica respecto a la cual, como resume Leopold von <xref ref-type="bibr" rid="B37">Wiese, “el sentido profundo de la especulación persigue acercarse” (1933</xref>:134). Tan vieja es la dedicación de la filosofía a la pregunta por el ser humano, tan profunda y patente aparece la identidad existente entre ambas. Más allá de las distinciones, formas y matices semánticos, resulta más o menos evidente -desde los clásicos de la sociología hasta hoy- que la pregunta por el ser humano, por <italic>¿qué es el ser humano?</italic>, caería en el campo de acción de la filosofía. Y esto último nos ofrece pistas importantes respecto de las razones <italic>disciplinares</italic> que explicarían el destierro del ser humano de la sociología clásica y su descendencia posterior.</p>
+			<sec>
+				<title>La asunción de una ciencia a través del ocaso del ser humano</title>
+				<p>La problemática se torna cada vez más clara. Si, para los <italic>clásicos</italic>, la magnitud con que la filosofía ha tematizado desde tiempos inmemoriales el problema de lo humano ha sido tal, que este último resulta prácticamente inseparable de aquella tradición, no puede sino aparecer como problemático para la sociología tomarlo como elemento central de su discurso, toda vez que ésta se encuentra en un proceso de institucionalización científica; ya no solo cognitiva, sino además social. La semántica de la cientificidad, la lucha por el reconocimiento científico -puesto en duda por la mayoría de las asignaturas académicas afines- toma paso a paso un lugar de preponderancia al interior de la sociología y sus diferentes proyectos teóricos. Es precisamente aquello lo que abre las puertas para comprender <italic>disciplinarmente</italic> el destierro del ser humano de la sociología. La perceptible aversión contra el terreno de lo humano no es para nada en vano. Éste encuentra más bien su correlato en un intento de diferenciación y defensa casi originario frente a todo lo que aparece como filosófico o metafísico.</p>
+				<p>Ya desde Comte es clara esta pretensión sociológica de <italic>distancia</italic> frente a la filosofía. Según Comte, los estadios teológicos y metafísicos del conocimiento humano serían, en el fondo, fases filosóficas que, en la medida en que proceden de manera especulativa y, por ejemplo, se cuestionan “acerca del origen de todas las cosas (...) acerca de los conocimientos absolutos” (<xref ref-type="bibr" rid="B4">Comte 1915</xref>:5), son percibidos como una suerte de “enfermedad crónica” (<xref ref-type="bibr" rid="B4">Comte 1915</xref>:14) que bloquea el despliegue del espíritu positivo. El estadio positivo del conocimiento, dentro de lo cual “deben ser eliminados los restos de los métodos de pensamiento metafísicos” (<xref ref-type="bibr" rid="B2">Bock 2002</xref>:46), se cimienta entonces en esta delimitación inspirada en la perspectiva científico-natural -presente también fuertemente en Durkheim- posible de alcanzar a través de la exclusión del ser humano y la sola preocupación empírica por los fenómenos sociales.</p>
+				<p>En el caso de Marx, la interpretación materialista de la realidad social se entiende como consecuencia directa de la “demolición de la metafísica del desarrollo burguesa” (<xref ref-type="bibr" rid="B17">Korsch 1967</xref>:31). La crítica alemana, a pesar de alcanzar objeciones agudas, no habría nunca abandonado según Marx y Engels “el piso de la filosofía. Lejos de examinar sus presuposiciones filosóficas generales, sus preguntas han crecido incluso sobre el fundamento de un sistema filosófico determinado, a saber, del hegeliano” (1978:18). La observación materialista de Marx que, enraizada en una crítica global de la filosofía hegeliana y en el estudio de la economía política, “<italic>escamotea</italic> al ser humano” (<xref ref-type="bibr" rid="B30">Ulrich 2002</xref>:53), habría entonces -o esa es al menos su pretensión- conseguido romper con tal corriente especulativa, para luego encarnar un método científico propio. </p>
+				<p>La semántica de la cientificidad, que se expande cada vez con mayor rapidez y profundidad, se apodera del primado interpretativo sobre todo desde Durkheim. A pesar de que Durkheim admite que la sociología ha nacido como consecuencia de “las grandes doctrinas filosóficas” (<xref ref-type="bibr" rid="B8">Durkheim 2001</xref>:199), lo que en su caso se percibe en la influencia kantiana, ella no estaría por esto condenada eternamente a ser parte de la misma. Sobre la base del desplazamiento del ser humano y la consecuente cercanía al ámbito de lo factual, las hipótesis de carácter especulativo perderían simultáneamente su lugar en sus teorías. Éstas serían desterradas de sus marcos teóricos y contribuirían así con una diferenciación que no solo resulta deseable para la sociología, sino también según Duhrkeim para la filosofía misma. </p>
+				<p>En aquel terreno de lucha por reconocimiento científico permanece también Weber, cuyo proyecto de “instaurar a la sociología como disciplina autónoma estaba dirigido contra una mezcla de especulaciones filosófico-sociales con interrogantes científicas, a partir de lo cual se debió definitivamente abandonar la aspiración de poder cumplir los intereses de conocimiento pertenecientes a la tradición filosófica por medio de la investigación científico moderna” (<xref ref-type="bibr" rid="B19">Lichtblau 2001</xref>:21). A partir de la formación conceptual -de los <italic>tipos ideales</italic>-, Weber estaría en condiciones de excluir las observaciones metafísicas. Ello respondió al hecho de que el sociólogo alemán medía la validez “de las afirmaciones científicas en relación a (...) hechos comprobables empíricamente” (<xref ref-type="bibr" rid="B13">Jonas 1981</xref>:183). En la medida en que su <italic>sociología comprensiva</italic>, entendida siempre como <italic>ciencia de la realidad</italic> [<italic>Wirklichkeitswissenschaft</italic>], se circunscribe al estudio de la <italic>acción social</italic> lograría entonces diferenciarse de las “interpretaciones metafísicas” (<xref ref-type="bibr" rid="B15">Käsler 2002</xref>:196) o, dicho de otro modo, de los “logros diletantes de los filósofos ingeniosos [para así] finalmente tratar a la ´sociología´ de manera estrictamente científica” (<xref ref-type="bibr" rid="B31">Weber 1919</xref>, paréntesis cuadrado añadido). </p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusión</title>
+			<p>Si se observa el escenario completo, no resulta difícil entender que la sociología puso en juego la consecución de sus pretensiones de cientificidad exactamente allí donde comenzó a materializar su proceso de diferenciación, sobre todo, respecto de la filosofía. Visto desde esta perspectiva, se vuelve posible comprender el destierro del ser humano -más allá de la observación epistémica que hemos desplegado en un inicio- en términos <italic>disciplinares</italic> justamente como <italic>un instrumento para la diferenciación de la sociología frente a la tradición filosófica</italic>. En la medida en que la sociología clásica intenta expulsar epistémicamente al ser humano de sus teorías, para tender así hacia descripciones y explicaciones empíricas circunscritas a la realidad social, ésta habría logrado con ello distanciarse de los estadios teológicos y metafísicos que la preceden (Comte), del idealismo filosófico (Marx), de la teoría social utilitarista (Durkheim) o de los rendimientos de los filósofos ingeniosos (Weber), <italic>para así lograr ser ciencia en estricto rigor</italic>. Y no es sino esto último lo que explica por qué la sociología no da paso atrás. </p>
+			<p>La ruta hacia la cientificidad prometida estaría pavimentada de esta manera con la sangre de quien recorre tal camino. Ya lo advertía en 1891 Ludwig Gumplowicz -otro clásico de la sociología que, sin embargo, carece de resonancia. Para lograr ingresar al reino de las ciencias, “debe hacerse un sacrificio, que ha sido resistido por todas las demás ciencias; un sacrificio de peso, al menos en los ojos de todos los historiadores, historiadores culturales y filósofos del derecho. <italic>¡En el altar de su conocimiento la sociología sacrifica al ser humano!</italic> 
+ <italic>Él</italic>, el señor de la creación, el autor de los acontecimientos históricos según la opinión de los historiadores, que como monarca o ministro guía los destinos de los pueblos según su voluntad, que frente al tribunal de la historia debe asumir la plena responsabilidad de sus acciones y a quien los historiadores enaltecen o culpan según sean las circunstancias -<italic>él se transforma</italic> 
+ <italic>en la sociología en un insignificante cero</italic>” (<xref ref-type="bibr" rid="B11">Gumplowicz 1928</xref>:192; destacado mío). </p>
+			<p>Si para los clásicos de la sociología la filosofía representa en general aquella “teoría de nosotros los seres humanos de acuerdo a nuestras esencias” (Plenge, citado en: von <xref ref-type="bibr" rid="B37">Wiese 1933</xref>:61), la reacción de esta disciplina emergente solo puede ser una. La sociología, que como tal se entrega a la tarea del “estudio de las ´relaciones interhumanas´, de los grupos, clases e instituciones sociales” (<xref ref-type="bibr" rid="B12">Institut für Sozialforschung 1956</xref>:40) y que, tan importante como lo anterior, <italic>aspira a ser ciencia</italic>, no ha sino de ceder entonces, como afirma Gumplowicz, el análisis de lo humano “con gusto a la teología y la filosofía de la historia; ellas pueden hablar sobre esta materia (...) lo que quieran” (1928:187). La pregunta por el ser humano habría sido valorada en sí misma como una pregunta de tipo filosófica y, por tanto, a-científica, que en el contexto de formación <italic>disciplinar</italic> de una empresa teórica como la sociología -sin perjuicio de sus propias raíces filosóficas- aparece como peligrosa. El ser humano, por consiguiente, habría sido ya considerado -mucho antes que la filosofía del lenguaje o la teoría de sistemas- por los <italic>clásicos</italic> como una suerte de <italic>obstáculo para el conocimiento sociológico</italic> que coarta entonces “el camino a la ciencia” (<xref ref-type="bibr" rid="B8">Durkheim 2001</xref>:32). </p>
+			<p>La problematización acerca del despliegue y motivos del destierro del ser humano de la sociología clásica parece ganar en claridad y forma. Por cierto que un intento por estudiar al ser humano al interior de la sociología solo puede ser visto como un <italic>imposible</italic>, en tanto que una tarea como esa superaría las facultades y posibilidades de la misma, esto es, del hacerse cargo de la realidad social. Sin embargo, su destierro del campo sociológico está relacionado, visto en términos <italic>disciplinares</italic>, más bien con esta necesidad de andar libremente dentro de caminos científicos que desde un inicio aspiran a dirigirse a destinos lejanos a la especulación filosófica. En la medida en que la pregunta por lo humano se desplaza hacia el exterior, la sociología habría logrado descargarse de aquellos restos filosóficos, para así aspirar a captar el reino de lo empírico -en la forma de lo social y la sociedad moderna- y así honrar su espíritu científico tan pretendido. A pesar de que este destierro general puede ser luego discutido con respecto a sus <italic>presupuestos</italic> epistémico-antropológicos e incluso “antropológico-normativos” (<xref ref-type="bibr" rid="B3">Chernilo 2017</xref>) no declarados, no puede hacerse caso omiso de la importancia que, al menos disciplinarmente, supuso esta exclusión de lo humano. Es precisamente aquello, lo que nos da información respecto de los orígenes, devenir y posibilidades sociológicas para el futuro. Desde sus luchas iniciales, la sociología destaca como aquel campo de conocimiento que intentó abrazar una realidad que parece serle propia, a saber, la <italic>realidad social</italic>. </p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>El texto que se presenta se basa en mi próxima publicación <italic>Die Stellung des Menschen in der zeitgenössischen Soziologie. Umrisse zu einer soziologischen Anthropologie.</italic> Agradezco muy especialmente a Hauke Brunkhorst y Christoph Haker por sus comentarios al escrito original, así como a Joaquín Herrera, por sus comentarios a esta versión en español. La traducción de las citas en alemán es propia.</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Bertschi, S. 2010. Individuum, pp. 55-81. En: S. Bertschi. <italic>Im Dazwischen von Individuum und Gesellschaft</italic>. Bielefeld: Transcript. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bertschi</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<chapter-title>Individuum</chapter-title>
+					<fpage>55</fpage>
+					<lpage>81</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bertschi</surname>
+							<given-names>S.</given-names>
+						</name> 
+					</person-group>
+					<source>Im Dazwischen von Individuum und Gesellschaft</source>
+					<publisher-loc>Bielefeld</publisher-loc>
+					<publisher-name>Transcript</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Bock, M. 2002. Auguste Comte, pp. 39-57. En: D. Käsler (ed.). <italic>Klassiker der Soziologie</italic>, Vol 1. München: Verlag C.H. Beck.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bock</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<chapter-title>Auguste Comte</chapter-title>
+					<fpage>39</fpage>
+					<lpage>57</lpage>
+					<person-group person-group-type="editor"> 
+						<name>
+							<surname>Käsler</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>	
+					<source>Klassiker der Soziologie</source>
+					<volume>1</volume>
+					<publisher-loc>München</publisher-loc>
+					<publisher-name>Verlag C.H. Beck</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Chernilo, D. 2017. <italic>Debating humanity. Towards a philosophical sociology</italic>. Cambridge: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chernilo</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>Debating humanity. Towards a philosophical sociology</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Comte, A. 1915. <italic>Abhandlung über den Geist des Positivismus</italic>. Leipzig: Verlag von Felix Meiner.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Comte</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>1915</year>
+					<source>Abhandlung über den Geist des Positivismus</source>
+					<publisher-loc>Leipzig</publisher-loc>
+					<publisher-name>Verlag von Felix Meiner</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Comte, A. 1934. <italic>Course de Philosophie Positive</italic>, Vol. 1. Paris: Alfred Costes.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Comte</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>1934</year>
+					<source>Course de Philosophie Positive</source>
+					<volume>1</volume>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>Alfred Costes</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Dahrendorf, R. y Christoph H. 2012. Karl Marx, pp. 58-91. En: <italic>Klassiker der Soziologie</italic>, Vol 1. München: Verlag C.H. Beck.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dahrendorf</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Christoph</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<chapter-title>Karl Marx</chapter-title>
+					<fpage>58</fpage>
+					<lpage>91</lpage>
+					<source>Klassiker der Soziologie</source>
+					<volume>1</volume>
+					<publisher-loc>München</publisher-loc>
+					<publisher-name>Verlag C.H. Beck</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Durkheim, E. 1981. Der Dualismus der menschlichen Natur und seine sozialen Bedingungen, pp.368-380. En: F. Jonas. <italic>Geschichte der Soziologie</italic>. Opladen: Westdeutscher Verlag. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Durkheim</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>1981</year>
+					<chapter-title>Der Dualismus der menschlichen Natur und seine sozialen Bedingungen</chapter-title>
+					<fpage>368</fpage>
+					<lpage>380</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jonas</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<source>Geschichte der Soziologie</source>
+					<publisher-loc>Opladen</publisher-loc>
+					<publisher-name>Westdeutscher Verlag</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Durkheim, E. 2001. <italic>Las reglas del método sociológico</italic>. México: Fondo de Cultura Económica. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Durkheim</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>Las reglas del método sociológico</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Elias, N. 1986. <italic>Was ist Soziologie?</italic> München: Juventa Verlag.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Elias</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>1986</year>
+					<source>Was ist Soziologie?</source>
+					<publisher-loc>München</publisher-loc>
+					<publisher-name>Juventa Verlag</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Foucault, M. 1968. <italic>Las palabras y las cosas. Una arqueología de las ciencias humanas</italic>. Buenos Aires: Siglo XXI Editores.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Foucault</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1968</year>
+					<source>Las palabras y las cosas. Una arqueología de las ciencias humanas</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Siglo XXI Editores</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Gumplowicz, L. 1928. <italic>Ausgewählte Werke</italic>. Innsbruck: Universitäts-Verlag Wagner.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gumplowicz</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>1928</year>
+					<source>Ausgewählte Werke</source>
+					<publisher-loc>Innsbruck</publisher-loc>
+					<publisher-name>Universitäts-Verlag Wagner</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Institut für Sozialforschung. 1956. <italic>Soziologische Exkurse</italic>. Frankfurt am Main: Europäische Verlaganstalt. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Institut für Sozialforschung</collab>
+					</person-group>
+					<year>1956</year>
+					<source>Soziologische Exkurse</source>
+					<publisher-loc>Frankfurt am Main</publisher-loc>
+					<publisher-name>Europäische Verlaganstalt</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Jonas, F. 1981. <italic>Geschichte der Soziologie</italic>. Vol. 1. Opladen: Westdeutscher Verlag. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jonas</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>1981</year>
+					<source>Geschichte der Soziologie</source>
+					<volume>1</volume>
+					<publisher-loc>Opladen</publisher-loc>
+					<publisher-name>Westdeutscher Verlag</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Käsler, D. 1979. <italic>Einführung in das Studium Max Webers</italic>. München: Beck´sche Elementarbücher.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Käsler</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>1979</year>
+					<source>Einführung in das Studium Max Webers</source>
+					<publisher-loc>München</publisher-loc>
+					<publisher-name>Beck´sche Elementarbücher</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Käsler, D. 2002. Max Weber, pp. 190-212. En: D. Käsler (ed.). <italic>Klassiker der Soziologie</italic>, Vol 1. München: Verlag C.H. Beck.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Käsler</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<chapter-title>Max Weber</chapter-title>
+					<fpage>190</fpage>
+					<lpage>212</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Käsler</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<source>Klassiker der Soziologie</source>
+					<volume>1</volume>
+					<publisher-loc>München</publisher-loc>
+					<publisher-name>Verlag C.H. Beck</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>König, R. 1970. Einleitung, pp. 21-82. En: E. Durkheim. <italic>Regeln der Soziologischen Methode</italic>. Berlin: Luchterhand.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>König</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>1970</year>
+					<chapter-title>Einleitung</chapter-title>
+					<fpage>21</fpage>
+					<lpage>82</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Durkheim</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<source>Regeln der Soziologischen Methode</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Luchterhand</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Korsch, K. 1967. <italic>Karl Marx</italic>. Frankfurt am Main: Europa Verlag Wien. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Korsch</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1967</year>
+					<source>Karl Marx</source>
+					<publisher-loc>Frankfurt am Main</publisher-loc>
+					<publisher-name>Europa Verlag Wien</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Kosik, K. 1973. <italic>Dialektik des Konkreten</italic>. Frankfurt am Main: Suhrkamp. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kosik</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1973</year>
+					<source>Dialektik des Konkreten</source>
+					<publisher-loc>Frankfurt am Main</publisher-loc>
+					<publisher-name>Suhrkamp</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Lichtblau, K. 2001. Soziologie und Anti-Soziologie um 1900, pp. 17-35. En: M. Benz, P. Ulrich y G. Wagner (ed.). <italic>Soziologie und Anti-Soziologie</italic>. Konstanz: UVK Universitätsverlag Konstanz.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lichtblau</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<chapter-title>Soziologie und Anti-Soziologie um 1900</chapter-title>
+					<fpage>17</fpage>
+					<lpage>35</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Benz</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Ulrich</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Wagner</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<source>Soziologie und Anti-Soziologie</source>
+					<publisher-loc>Konstanz</publisher-loc>
+					<publisher-name>UVK Universitätsverlag Konstanz</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Luhmann, N. 1996. Arbeitsteilung und Moral Durkheims Theorie, 19-38. En: E. Durkheim. <italic>Über die soziale Arbeitsteilung</italic>. Frankfurt am Main: Suhrkamp.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Luhmann</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<chapter-title>Arbeitsteilung und Moral Durkheims Theorie</chapter-title>
+					<fpage>19</fpage>
+					<lpage>38</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Durkheim</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<source>Über die soziale Arbeitsteilung</source>
+					<publisher-loc>Frankfurt am Main</publisher-loc>
+					<publisher-name>Suhrkamp</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Marx, K. 1971. <italic>Brief an Annenkow</italic>. En: K. Marx y F. Engels. <italic>Werke</italic> 4. Berlin: Dietz Verlag.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1971</year>
+					<chapter-title>Brief an Annenkow</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Engels</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<source>Werke 4</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Dietz Verlag</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Marx, K. 1974a. <italic>Vorwort zur Kritik der Politischen Ökonomie</italic>. En: K. Marx y F. Engels. <italic>Werke 13</italic>. Berlin: Dietz Verlag.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1974</year>
+					<chapter-title>Vorwort zur Kritik der Politischen Ökonomie</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Engels</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<source>Werke 13</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Dietz Verlag</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Marx, K. 1974b. <italic>Einleitung</italic> [zur Kritik der Politischen Ökonomie]. En: K. Marx y F. Engels. <italic>Werke 13</italic>. Berlin: Dietz Verlag. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1974</year>
+					<chapter-title>Einleitung [zur Kritik der Politischen Ökonomie]</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Engels</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<source>Werke 13</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Dietz Verlag</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Marx, K. y Engels, F. 1978. <italic>Die deutsche Ideologie</italic>. En: K. Marx y F. Engels. <italic>Werke 3</italic>. Berlin: Dietz Verlag.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Engels</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>1978</year>
+					<chapter-title>Die deutsche Ideologie</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Engels</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<source>Werke 3</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Dietz Verlag</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Mayntz, R. 2001. <italic>Das Menschenbild in der Soziologie</italic>. Münster: Rhema. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mayntz</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>Das Menschenbild in der Soziologie</source>
+					<publisher-loc>Münster</publisher-loc>
+					<publisher-name>Rhema</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Müller, H. 2002. Emile Durkheim, pp. 150-170. En: D. Käsler (ed.). <italic>Klassiker der Soziologie</italic>, Vol 1. München: Verlag C.H. Beck. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Müller</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<chapter-title>Emile Durkheim</chapter-title>
+					<fpage>150</fpage>
+					<lpage>170</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Käsler</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<source>Klassiker der Soziologie</source>
+					<volume>1</volume>
+					<publisher-loc>München</publisher-loc>
+					<publisher-name>Verlag C.H. Beck</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Stölting, E. 1986. <italic>Akademische Soziologie in der Weimarer Republik</italic>. Berlin: Duncker &amp; Humblot. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Stölting</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>1986</year>
+					<source>Akademische Soziologie in der Weimarer Republik</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Duncker &amp; Humblot</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Stölting, E. 2002. Das Klassische an den soziologischen Klassikern, pp. 9-22. En: Institut für Soziologie und Sozialforschung der Carl von Ossietzky-Universität Oldenburg (ed.). <italic>Der soziologische Blick</italic>. Opladen: Leske+Budrich. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Stölting</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<chapter-title>Das Klassische an den soziologischen Klassikern</chapter-title>
+					<fpage>9</fpage>
+					<lpage>22</lpage>
+					<person-group person-group-type="editor">
+						<collab>Institut für Soziologie und Sozialforschung der Carl von Ossietzky-Universität Oldenburg</collab>
+					</person-group>
+					<source>Der soziologische Blick</source>
+					<publisher-loc>Opladen</publisher-loc>
+					<publisher-name>Leske+Budrich</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Tenbruck, F. 1984. <italic>Die unbewältigten Sozialwissenschaften oder Die Abschaffung des Menschen</italic>. Graz, Wien und Köln: Verlag Styria. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Tenbruck</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>1984</year>
+					<source>Die unbewältigten Sozialwissenschaften oder Die Abschaffung des Menschen</source>
+					<publisher-loc>Graz, Wien und Köln</publisher-loc>
+					<publisher-name>Verlag Styria</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Ulrich, G. 2002. Der Grund der Gesellschaft, pp. 43-62. En: Institut für Soziologie und Sozialforschung der Carl von Ossietzky-Universität Oldenburg (ed.). <italic>Der soziologische Blick</italic>. Opladen: Leske+Budrich. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Ulrich</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<chapter-title>Der Grund der Gesellschaft</chapter-title>
+					<fpage>43</fpage>
+					<lpage>62</lpage>
+					<person-group person-group-type="editor">
+						<collab>Institut für Soziologie und Sozialforschung der Carl von Ossietzky-Universität Oldenburg</collab>
+					</person-group>
+					<source>Der soziologische Blick</source>
+					<publisher-loc>Opladen</publisher-loc>
+					<publisher-name>Leske+Budrich</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Weber, M. 1919. <italic>Brief an Paul Siebeck</italic>. Deponat BSB, Ana 446. München: Verlagsarchiv Mohr-Siebeck.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Weber</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1919</year>
+					<source>Brief an Paul Siebeck</source>
+					<publisher-loc>Deponat BSB, Ana 446. München</publisher-loc>
+					<publisher-name>Verlagsarchiv Mohr-Siebeck</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Weber, M. 1922. <italic>Wirtschaft und Gesellschaft [Grundriss der Sozialökonomik]</italic>. Tübingen: J.C.B. Mohr. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Weber</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1922</year>
+					<source>Wirtschaft und Gesellschaft [Grundriss der Sozialökonomik]</source>
+					<publisher-loc>Tübingen</publisher-loc>
+					<publisher-name>J.C.B. Mohr</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Weber, M. 1985a. Die »Objektivität« sozialwissenschaftlicher und sozialpolitischer Erkenntnis, pp. 146-214. En: J. Winckelmann (ed.). <italic>Gesammelte Aufsätze zur Wissenschaftslehre</italic>. Tübingen: J.C.B. Mohr.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Weber</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1985</year>
+					<chapter-title>Die »Objektivität« sozialwissenschaftlicher und sozialpolitischer Erkenntnis</chapter-title>
+					<fpage>146</fpage>
+					<lpage>214</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Winckelmann</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<source>Gesammelte Aufsätze zur Wissenschaftslehre</source>
+					<publisher-loc>Tübingen</publisher-loc>
+					<publisher-name>J.C.B. Mohr</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Weber, M. 1985b. Über einige Kategorien der verstehenden Soziologie, pp. 426-474. En: J. Winckelmann (ed.). <italic>Gesammelte Aufsätze zur Wissenschaftslehre</italic>. Tübingen: J.C.B. Mohr.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Weber</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1985</year>
+					<chapter-title>Über einige Kategorien der verstehenden Soziologie</chapter-title>
+					<fpage>426</fpage>
+					<lpage>474</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Winckelmann</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<source>Gesammelte Aufsätze zur Wissenschaftslehre</source>
+					<publisher-loc>Tübingen</publisher-loc>
+					<publisher-name>J.C.B. Mohr</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Weingart, P. 2013. <italic>Wissenschaftssoziologie</italic>. Bielefeld: Transcript. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Weingart</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>Wissenschaftssoziologie</source>
+					<publisher-loc>Bielefeld</publisher-loc>
+					<publisher-name>Transcript</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Whitley, R. 1974. Cognitive and social institutionalization of scientific specialties and research areas, pp. 69-95. En: R. Whitley (ed.). <italic>Social processes of scientific development</italic>. London and Boston: Routledge and Kegal Paul. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Whitley</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>1974</year>
+					<chapter-title>Cognitive and social institutionalization of scientific specialties and research areas</chapter-title>
+					<fpage>69</fpage>
+					<lpage>95</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Whitley</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<source>Social processes of scientific development</source>
+					<publisher-loc>London and Boston</publisher-loc>
+					<publisher-name>Routledge and Kegal Paul</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Wiese, Leopold von. 1933. <italic>System der Allgemeinen Soziologie als Lehre von den sozialen Prozessen und den sozialen Gebilden den Menschen (Beziehungslehre)</italic>. München und Leipzig: Duncker &amp; Humboldt.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Wiese</surname>
+							<given-names>Leopold von</given-names>
+						</name>
+					</person-group>
+					<year>1933</year>
+					<source>System der Allgemeinen Soziologie als Lehre von den sozialen Prozessen und den sozialen Gebilden den Menschen (Beziehungslehre)</source>
+					<publisher-loc>München und Leipzig</publisher-loc>
+					<publisher-name>Duncker &amp; Humboldt</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

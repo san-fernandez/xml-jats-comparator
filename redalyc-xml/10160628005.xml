@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000200194</article-id>
+         <article-id pub-id-type="publisher-id">00005</article-id>          
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Lo que callar y discurso quieren decir para la sociología empírica</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>What silence and discourse mean for empirical sociology</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0856-5642</contrib-id>
+               <name>
+                  <surname>Callejo</surname>
+                  <given-names>Javier</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Nacional de Educación a Distancia. España</institution>
+            <institution content-type="normalized">Universidad Nacional de Educación a Distancia</institution>
+            <institution content-type="orgname">Universidad Nacional de Educación a Distancia</institution>
+            <country country="ES">España</country>
+            <email>mcallejo@poli.uned.es</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2019</year>
+         </pub-date>
+         <!--volume>0</volume-->
+         <issue>65</issue>
+         <fpage>194</fpage>
+         <lpage>208</lpage>
+         <history>
+            <date date-type="received">
+               <day>11</day>
+               <month>03</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>26</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Especialmente la investigación sociológica empírica realizada desde la perspectiva cualitativa se encuentra con frecuencia con la sorpresa de que los sujetos observados no hablan sobre el fenómeno estudiado. El artículo que se presenta se hace la pregunta sobre hasta qué punto este callar puede considerarse una prueba sociológica y, sobre todo, una prueba de qué. Para ello, primero parte de una experiencia concreta de investigación, un estudio que inquiriendo sobre el próximo futuro a una muestra de distintas categorías de la sociedad española se encuentra con una elevada preocupación sobre el cambio climático en la perspectiva cuantitativa, pero un silencio casi absoluto sobre el fenómeno en la perspectiva cualitativa. Después de avanzar algunas interpretaciones sobre el hallazgo, se ve la necesidad de conceptualizar qué es un discurso para la sociología empírica, haciendo especialmente referencia a Foucault y Boltanski, y cuáles son sus elementos básicos e imprescindibles. Así y con base en la obra de Schutz sobre la relevancia, se alcanza la tesis de que una de las explicaciones por las que un fenómeno tan relevante como el cambio climático no llegue a la palabra de los sujetos es porque se trata de un fenómeno socialmente sedimentado y sin discurso.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>Sometimes results from qualitative perspective in empirical sociological research shows that observed subjects do not talk about the phenomenon studied. This paper asks about the extent to which this silence can be considered a sociological evidence. If so, then an evidence of what. First it is presented a study that inquiries about the near future to Spanish society about climate change in a qualitative perspective, but an almost absolute silence about the subject by the qualitative perspective. After some interpretations about these results, it becomes necessary to redefine the concept of discourse for the sociological research, with special references to Foucault and Boltanski, in order to point out its basic and essential elements. In this way, we proposed that a phenomenon as relevant as climate change does not reach to daily conversation because it is socially sedimented (following Schutz's work on relevance) and it has not got a discourse.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>silencio</kwd>
+            <kwd>discurso</kwd>
+            <kwd>relevancia</kwd>
+            <kwd>cambio climático</kwd>
+            <kwd>prueba empírica</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>silence</kwd>
+            <kwd>discourse</kwd>
+            <kwd>relevance</kwd>
+            <kwd>climate change</kwd>
+            <kwd>empirical evidence</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="21" />
+            <page-count count="15" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>1. Introducción</title>
+         <p>En el conjunto de conferencias y lecciones titulado La verdad y las formas jurídicas, Michel Foucault establece un lazo genealógico entre los procedimientos de indagación, en el contexto de disputas y litigios, y técnicas de investigación social, en cuanto procedimientos de indagación que constituyen pruebas. Nos centramos aquí en un tipo de prueba muy especial. Tan peculiar que podría llegar a ser considerada una no-prueba, como es el hecho de que nuestros informantes, en la observación empírica, no hablen de algo de lo que se espera que debieran haber hablado. En concreto, se parte de una investigación empírica en la que se observa la ausencia de la referencia a un fenómeno, de la importancia del cambio climático, cuando se cuestiona a los informantes sobre el futuro y las preocupaciones que lo pueblan. Por lo tanto, cuando existen fundadas expectativas sobre la producción de tales referencias, la pregunta desde el nivel metodológico es qué es lo que señala este silencio. Para ello, se requiere: a) definir qué es callar desde el punto de vista de la sociología empírica, qué significa decir que los informantes callan sobre un fenómeno social y b) establecer las posibilidades de observación de este tipo de acontecimiento empírico -el silencio- y sus rendimientos para el análisis de la relación de la sociedad con fenómenos sociales.</p>
+         <p>Si hay algo común a las múltiples investigaciones que abordan los discursos de los legos o no expertos sobre el cambio climático, es la certificación de la existencia de un discurso. Mientras que en aquellos realizados mediante encuesta, con cuestionario estandarizado, se muestra una notable preocupación por el fenómeno, en los realizados desde la perspectiva cualitativa se destaca la poca implicación de la población en el cambio climático o, incluso, se habla de escepticismo cuando los distintos informantes observados son expuestos a los acuerdos de las grandes conferencias políticas sobre el tema o ante potenciales medidas a tomar para afrontar el fenómeno. En ambos casos, se da por hecho la presencia de un discurso. Cuando las prácticas de observación son suficientemente abiertas, lo que se recoge es un eco de incertidumbre y dudas. Destaquemos aquí, ya entrando en la materia, esa articulación de preocupación por el fenómeno y, a la vez, cierta distancia.</p>
+         <p>
+            Desde la reflexión metodológica, los sociólogos han tendido a concebir negativamente el silencio cuando aparece en sus investigaciones: como una limitación de sus prácticas de investigación para registrar adecuadamente las opiniones o representaciones de los individuos, especialmente cuando ocupan un lugar subordinado o minoritario. Puede incluirse en esta lógica de la lamentación metodológica el seminal trabajo de Elizabeth Noelle-Neuman sobre el silencio en la encuesta con cuestionario estandarizado; aunque hay que reconocer el valor de su interpretación de la espiral de silencio como un síntoma para diagnosticar las reacciones ante los cambios en el clima de opinión. El silencio se describe como producto de la evitación de la discusión, frente al compañero de tren con una opinión distinta, frente al encuestador, cuando la espiral de silencio se ha desarrollado plenamente, en un enfrentamiento larvado: “solo cuando una espiral de silencio se ha desarrollado plenamente y una facción posee toda la visibilidad pública mientras que la otra se ha ocultado completamente en su concha, solo cuando la tendencia a hablar o a permanecer en silencio se ha estabilizado, las personas participan o se callan independientemente de que las otras personas sea o no amigos o enemigos explícitos” (
+            <xref ref-type="bibr" rid="B12">Noelle-Neumann 1995</xref>
+            :51).
+         </p>
+         <p>Desde tal concepción negativa, el silencio se entiende como producto de la resistencia de los observados a la observación, como una de las concreciones de la reactividad y la reflexividad de los informantes en la situación de observación; como cuando Ibáñez (Más allá de la sociología) describe al grupo de discusión como práctica productora de discursos que han de fundirse en el silencio y como elemento que atraviesa la observación en toda disciplina. El silencio aparece relacionado con el ejercicio de una ocultación, como práctica de resistencia de los dominados a la observación que las técnicas de la disciplina han de vencer. Si se produce silencio, es un rasgo de la incapacidad de unas técnicas inquisitoriales para hacer hablar y, en definitiva, confesar a los sujetos.</p>
+         <p>Más allá de la reflexión metodológica, distintas perspectivas sociológicas se han ocupado del papel que tiene el silencio en diferentes ámbitos. El catálogo es relativamente extenso, superponiéndose unas con otras. Destacamos aquellas en las que tal ocupación ha tenido un lugar preferente.</p>
+         <p>
+            Por su carácter seminal, destacan los trabajos de Simmel sobre el secreto, en los que el silencio es la materia prima con que se teje la conspiración social para producir secreto. Así, el arte del silencio es la competencia que hay que demostrar para ser admitido en las sociedades secretas, para la que se exige una: “sistemática instrucción del novicio en el arte del silencio” (
+            <xref ref-type="bibr" rid="B15">Simmel 1950</xref>
+            :349). El silencio es como un puente entre dos mundos, con un carácter transicional que también se observa en otras perspectivas sociológicas del silencio. En la sociología de la religión se ha subrayado el papel que hace el uso del silencio en ritos, ceremonias o incluso en la elaboración de la identidad de grupos, órdenes o sectas, o de posiciones de dominio y autoridad dentro de tales colectivos como el silencio monacal, de los ermitaños, de los místicos. En la religión en general, en las monoteístas en particular y en la cristiana más específicamente, el silencio se asume inicialmente como un homenaje a la divinidad: “el silencio es un homenaje que la palabra rinde al espíritu” (
+            <xref ref-type="bibr" rid="B9">Le Breton 1997</xref>
+            :177), como la forma de comunicación con los entes con los que no hay nada en común y, por lo tanto, no cabe la comunicación.
+         </p>
+         <p>
+            Pasando de la separación entre lo sagrado y lo profano, a la separación de mundos terrenales, hay que destacar los trabajos que, desde una sociología histórica o una historia social de las costumbres, indagan en las distintas funciones del silencio al hilo de las cambiantes tensiones en la estructura social a lo largo de las sucesivas épocas de la sociedad occidental. El silencio como marcador de clase, en especial en los procesos de transición, ya sea cuando “se deja de hablar a otro”, por considerarlo de otra posición en la estructura social; ya sea en transiciones hacia otra clase de estado, como ocurre con el silencio alrededor de la muerte, como nos dice Ariès, “aquellos que rodean al moribundo tienden a evitarlo y ocultar la gravedad de su condición” (
+            <xref ref-type="bibr" rid="B1">Ariès 1976</xref>
+            :86), generando un silencio envolvente que intenta negar y, así afirman, el estado del moribundo. El silencio también aquí se manifiesta como distancia. Distancia con esos mundos que son envueltos en silencio, ordenando la realidad social en un básico eje entre nuestra realidad y la realidad ajena, distante. Es interesante recoger cómo, desde la perspectiva de la interacción social, el silencio evidencia el orden social en contextos específicos, siendo necesaria la mención a los experimentos etnometodológicos de Garfinkel (Studies in ethnomethology), así como las investigaciones que se adentran en el análisis sobre el uso del silencio en distintas culturas.
+         </p>
+         <p>
+            Más recientemente, destaca la corriente que articula una sociología y una antropología social de la ignorancia, en la que el silencio del no saber, del no querer conocer, del no decir y del decir que no se sabe, ocupan un lugar protagonista en la denominada agnotología. La cara antropológica se ha centrado principalmente en la respuesta a la pregunta sobre qué significa desconocer algo, por parte de una cultura, subrayando que las demarcaciones entre lo que se conoce y lo que se ignora están lejos de ser evidentes. Es más, hay quienes sitúan el paso hacia la nueva antropología cuando Malinowski observa que los trobiandeses “desconocen” el proceso fisiológico de la reproducción humana. Especialmente próximos a los intereses de nuestra investigación se encuentran los estudios que se proponen responder a la pregunta sobre por qué la gente dice que no sabe nada, cuando hay ingente cantidad de información sobre el tema cuestionado, al que son persistentemente expuestos por la labor de difusión de los expertos y los medios de comunicación. Esta corriente tiende a responder en clave de sistemas de opresión. Unas veces como opresión de género: “Y porque la ignorancia es frecuentemente construida y activamente preservada, y está vinculada con cuestiones de autoridad cognitiva, duda, confianza, silenciamiento e incertidumbre, se cruza con sistema de opresión” (
+            <xref ref-type="bibr" rid="B20">Tuana 2004</xref>
+            :114). En otras partes del mismo texto en el que está incluida esta frase, la opresión toma otros criterios, como la discriminación racial.
+         </p>
+         <p>
+            Por último, las notas que deja Luhmann sobre el silencio: un problema en el sistema sociedad. En cada uno de los sistemas sociales específicos, el silencio no constituye un problema fundamental, debido a que puede suponerse que se hablará de lo callado en otros sistemas diferenciados para abordar tal tema desde su especialidad. Por ejemplo, que no hable el sistema político del cambio climático puede admitirse porque se tiene que quien ha de hablar sobre el tema es el sistema ciencia. Ahora bien, si no se habla en el sistema sociedad, puede ser un problema. Sobre todo, si, en los intentos de enfrentarse a los desarreglos medioambientales, se requiere la activa implicación de los individuos. Por ello, Luhmann (Ecological communication) es pesimista sobre el devenir ecológico. Esta última forma de silencio -el de la sociedad- se configura en un punto relevante en una perspectiva centralmente funcional, sobresaliendo con especial interés para nuestro estudio la paradójica identificación de un tipo de silencio “que no quiere ser entendido como comunicación” (
+            <xref ref-type="bibr" rid="B10">Luhmann 1994" </xref>
+            :27) y que apunta a las posibilidades de comunicar de la sociedad. Hay que advertir, sin poder profundizar aquí en ello, que Luhmann relaciona el silencio con uno de sus conceptos fundamentales, el de autopoiesis. La sociedad habla de lo que puede hablar y no habla de lo que no puede hablar, de aquí que no siempre, como nos apunta el autor alemán, quepa entender el silencio como comunicación, como un no querer decir. Es un no decir, cuya interpretación está más del lado del no poder decir de la sociedad. Emancipa así al silencio de esa violencia tan presente y relacional, de unos (los que saben o los poderosos) sobre los otros (los ignorantes o los oprimidos) en las concepciones apuntadas antes.
+         </p>
+         <p>
+            Evidentemente, no hay equidistancia entre todas estas perspectivas sociológicas sobre el silencio. Y ello se verá de manera especial cuando se entienda de qué tipo de silencio ocupa el centro de nuestro análisis. Por otro lado, habría que diferenciar entre silencio y no hablar de algo. No hablar de algo, lo silencia; pero el contexto inmediato de interacción social puede estar atravesado de una densa circulación de palabras. Es más, Foucault extiende esta idea, de manera que su concepción del discurso manifiesto es como discurso que impide -reprime- los otros discursos. El discurso manifiesto es un no decir: “El discurso manifiesto no sería a fin de cuentas más que la presencia represiva de lo que no dice, y ese ‘no dicho’ sería un vaciado que mina desde el interior todo lo que se dice” (
+            <xref ref-type="bibr" rid="B6">Foucault 1984</xref>
+            :40).
+         </p>
+      </sec>
+      <sec>
+         <title>2. La empírica aparición del silencio</title>
+         <p>
+            Durante los últimos años se han multiplicado los resultados de encuestas con cuestionario estandarizado que nos muestran una extendida preocupación de la sociedad con respecto al cambio climático. En el estudio empírico Riesgo, vulnerabilidad e incertidumbre desarrollado durante los años 2012 a 2014 (
+            <xref ref-type="bibr" rid="B4">Callejo 2016</xref>
+            ,
+            <xref ref-type="bibr" rid="B13">Ramos y Callejos 2018</xref>
+            ), se llevó a cabo una encuesta telefónica con cuestionario estandarizado, realizada a una muestra de 2.400 individuos, y nueve grupos de discusión entre sectores medios de la sociedad, teniendo como criterio principal su posición con respecto a un mayor (trabajadores sector químico, pequeños empresarios autónomos) o menor (amas de casa, empleados públicos) cúmulo de riesgos (económicos, sociales, técnico-industriales, de hábitat). Teniendo en cuenta los resultados de la encuesta con cuestionario estandarizado, la preocupación de los españoles por el cambio climático es alta, con una media de 7,87, entre 0 y 10. Cabría esperar lo mismo de la perspectiva cualitativa.
+         </p>
+         <p>La dinámica de los grupos de discusión tiene como motor de arranque la visión del futuro del mundo, los próximos 10-20 años, y las principales representaciones con respecto al mismo. No se hacía referencia explícita al cambio climático, ni a ningún otro problema. Pues bien, no aparece mención al mismo, ni a asuntos que puedan considerarse temáticamente adyacentes (medio ambiente, contaminación, calentamiento global, efecto invernadero, etc.), en una fase de la dinámica grupal de muy baja directividad que se alarga más allá de la hora de duración. Lo que aquí nos interesa realzar es que, en un contexto situacional y discursivo favorable para hablar del cambio climático, este no había merecido una sola palabra.</p>
+         <p>Lo inicialmente reseñable es la constatación de la aparente despreocupación desde la perspectiva cualitativa y la elevada preocupación cuantitativa. Un resultado que ya habría sido apuntado por estudios anteriores sobre el cambio climático, siendo especialmente emblemático el de Noorgard (Living in Denial: climate change, emotions, and evey life). Pero ¿qué nos dice la creciente literatura sobre las estrategias de combinación de métodos (mixed methods, en su dominante denominación), aquella que combina las aproximaciones cualitativa y cuantitativa de la investigación social? Lo primero que llama la atención es la denominación de este acontecimiento empírico: divergencia, inconsistencia, disonancia. Términos que indican que algo funciona mal. En todo caso, la divergencia se constata; pero no aparece como un reto. Surge como una deficiencia, como un déficit de competencias de los investigadores, de recursos, de credibilidad en la estrategia. Hay que tener en cuenta que se pone el énfasis en la integración de datos, de manera que la divergencia entre los mismos no es uno de los temas centrales en el debate metodológico de las estrategias de combinación de métodos.</p>
+         <p>La estrategia de combinación de métodos se rige por la máxima: observa si los datos de ambos tipos de prácticas de investigación social convergen y cómo; y no por su opuesta: partir de la divergencia como palanca sobre la que profundizar en la observación. Como el objetivo es legitimar la propuesta de los diseños de estrategia combinada, se da prioridad a la convergencia, a lo que ofrece la propia combinación. Incluso se utiliza el término “correlación” entre cuantitativo y cualitativo entre comillas, para lo que la aproximación cualitativa se subordina a la cuantitativa por medio de una codificación de las respuestas a las entrevistas ya bastante estructuradas y cerradas, aunque presentadas como cualitativas. Se empobrece la aproximación cualitativa para cuantificarla. El espíritu de la estrategia de combinación de métodos se dirige hacia la convergencia y la divergencia hace ruido. El consejo es más descriptivo que una base para la explicación: exponer las convergencias y las divergencias y, en tal caso, dar prioridad a los temas en los que hay más convergencia que divergencia. Es decir, poner la divergencia debajo de la alfombra.</p>
+         <p>La divergencia aparece como un error de investigación: error en la teoría, en el diseño de la operacionalización de los conceptos. Si no hay convergencia es que algo se ha hecho mal en la investigación y hay que volver a hacerla. Ninguna reflexión sobre el hecho de que la producción de los registros que realizan una u otra de las expresiones de los sujetos es muy distinta.</p>
+         <p>La idea que se tiene es la de un “puzle” y, si no encajan las piezas, es que el observador empírico es torpe. Es una visión que, como los propios puzles, parte de un claro dibujo del objeto de investigación, del que ya se supiera su dibujo y al que, para investigarlo, se divide en partes. Es entender, como ya se ha dicho, la investigación como un concurso en el que hay que acertar. En todo el recorrido de más de un cuarto de siglo de reflexión metodológica sobre las estrategias de combinación de métodos, si no se ajustan los resultados (las piezas), es porque el jugador no sabe jugar.</p>
+         <p>Dejemos las estrategias de combinación de métodos para centrarnos en la operación de observación donde se encuentra el silencio: en la práctica del grupo de discusión. Tras la ausencia de referencia al cambio climático, se cuestiona a los participantes por el fenómeno social, lo que conlleva una objeción por el acontecimiento que supone no haber hablado antes de ello. En la respuesta, se erigen dos categorías de justificaciones, muy entrelazadas. En un primer momento, unas de lo inmediato, de la reacción a la interpelación. En esta primera categoría se diferencian tres tipos de respuesta, que suponen tres rasgos de la representación que los participantes en los grupos tienen del cambio climático: a) como realidad débil, b) como preocupación latente y c) como fenómeno distanciado en el tiempo (futuro).</p>
+         <p>La principal línea que se traza es la que distribuye lo prioritario, “lo que se te viene encima”, de lo que no lo es, donde se encuentra el cambio climático. No es la línea que separa lo importante o preocupante de lo que no es ni importante, ni preocupante. Cuando parece que las justificaciones se van a elevar a discurso, se detienen en la línea trazada: se bloquea su posibilidad de discurso, fundiéndose nuevamente con el silencio. Los grupos de discusión no hablan del cambio climático, ni el cambio climático hace hablar a los grupos. Las justificaciones dadas se consideran suficientes.</p>
+         <p>Anotar que, en estas justificaciones, no hay demanda, no hay lesiones, no hay víctimas, no hay daños, lo que permite, por un lado, clasificarlo como sin prioridad. Por otro lado, y esto es parte de nuestra tesis, impide que el cambio climático genere discurso. Como se dice en el grupo de pequeños empresarios autónomos: “Mira eso nos puede preocupar más que la contaminación, las centrales nucleares…. Por ejemplo, que le pase algo a tus hijos, ser víctima, ya no de una enfermedad… de un atraco, de una violación de algún degenerado…” (Empresarios, Madrid).</p>
+         <p>Si el problema del cambio climático se asoma, con muy débiles rasgos, como demanda, lo hace como demanda, que, procedente de los agentes del sistema político (políticos, gestores de la administración, partidos políticos, movimientos ecologistas) se dirigiese hacia los ciudadanos. El extraño caso de que no entren referencias a la política, siendo esto lo común, se convierte en síntoma de la ausencia de discurso en la sociedad. La justificación deriva entonces hacia la concepción de una demanda inventada, especialmente con objetivos fiscales, de manera que las autoridades no buscarían tanto proteger a los ciudadanos, como proteger las cuentas públicas.</p>
+         <p>Es relevante la elusión de nombrar a un sujeto o inexistencia de un sujeto en relación con el cambio climático, lo que queda recalcado tanto con el “vamos” (¿quién es este vamos? ¿en nombre de quién o qué categoría habla el participante?) o, en su inversa fiscal, “no se está incentivando”. Parece que cuesta identificar un sujeto al que solicitar mediación en este fenómeno y, sobre todo, parece inabordable la figura de un sujeto de la acción. Una ausencia condensada en la interpelación más directa a tal mediación que, mostrando los problemas para señalar un sujeto, utiliza el hipercorrecto término de gestor (Labov. Modelos sociolingüísticos), al que ni siquiera se le hace una demanda específica: “No, tú tienes que contribuir con la causa, y ya el de al lado que haga lo que quiera. Y el gestor que haga lo que tenga que hacer” (Mujeres profesionales, Toledo).</p>
+         <p>Recapitulando, se tienen unas justificaciones inmediatas a la interpelación bastante comunes. Y cuando se enfila una racionalización en la que podría observarse el germen de un discurso, lo que se observa es su imposibilidad. Son justificaciones (y no excusas) puesto que los participantes asumen cierta responsabilidad por el propio hecho de no aparecer el cambio climático entre las primeras preocupaciones. Las excusas están restringidas a desplegarse en forma de acontecimientos sobrevenidos, accidentes, fallos de la lógica práctica normalizada. La rápida aparición de la justificación, sin titubeo o demora tras la interpelación, nos impide explicar su ausencia inicial, en el habla espontánea, como fruto de la represión para hablar del tema, por si hubiera alguna duda. Justificaciones que se aceptan, que no se discuten; pero que no hacen grupo, no hacen un nosotros, salvo en los fragmentos en los que se sitúan como sujetos demandados fiscalmente. Mejor dejar el problema ahí, quieto, en silencio. No es que se quiera comunicar silencio, sino que no se puede comunicar.</p>
+      </sec>
+      <sec>
+         <title>3. Hacia la interpretación del no hablar</title>
+         <p>El callar constatado no es atribuible a la presencia de censuras o conjuras. No es del tipo de silencio directamente impuesto por la política o la religión en sus ceremoniales. Y aun cuando el esfuerzo de información por parte de instituciones y medios de comunicación difícilmente puede calificarse de exitoso, se multiplican las referencias a la catástrofe climática que se avecina en los medios de comunicación. Difícilmente puede señalarse una violencia que impida hablar del cambio climático.</p>
+         <p>
+            Desde esta compleja relación cognitiva y afectiva con el fenómeno, la mala fe de los informantes se encuentra ahora en la perspectiva cualitativa. Así, el silencio, se puede explicar por obra de la práctica de denegación, como hace el referido trabajo de Noorgard con relación a la comunidad rural estudiada. Hay una responsabilidad-culpa que se resiste a ser reconocida en público, ya que hacerlo exige renunciar a posiciones de privilegio o condiciones de bienestar. En definitiva, a asumir responsabilidades. Con la invisibilización del problema, borrando el tema de las conversaciones, se borra el sujeto-culpable. En esta idea de denegación y desde la antropología social de la ignorancia, Janne Flora, estudiando etnográficamente la alta tasa de suicidios en una isla de Groenlandia, describe que cuando se aborda de manera general el acontecimiento (no casos concretos de suicidio) la respuesta es I don’t know. Ahora bien, también subraya que el silencio, como denegación, es también una forma de preocupación: “their relative silence about the topic could in fact be interpreted as a marker of concerns, bewilderment, and grief. Their ambigously evasive answers to my question sugest as much” (
+            <xref ref-type="bibr" rid="B5">Flora 2012</xref>
+            :146). Ignorar el suicidio es evitar (estrategia del habla) entrar en las causas del mismo, es una forma de impedir seguir indagando, generar conocimiento. De esta manera, la ignorancia no es solo algo que precede al conocimiento, sino resultado de la expansión (amenazante a veces, para algunas categorías sociales) del conocimiento.
+         </p>
+         <p>Sin embargo, no parece que el silencio registrado en esta investigación derive de una activa evitación. ¿Qué tienen que tapar nuestros grupos?, ¿el incumplimiento? Denegación ¿por qué? Cuando se repasa la explicación que nos aporta el estudio de Noorgard (Living in denial) y el peso que otorga a la situación de privilegio de los noruegos, ocultando con su silencio que se benefician de la desigualdad, es difícil establecer parangón entre tales resultados y los aquí obtenidos.</p>
+         <p>La tesis que aquí se mantiene es la inexistencia de un discurso en la sociedad -entre los legos o no expertos- sobre el cambio climático. Tesis que se sostiene a partir de dos asunciones que se encuentran entrelazadas: a) no hay discurso porque no hay demanda y b) no hay discurso porque no se perciben sujetos presentes en el cambio climático: no hay sujetos.</p>
+         <p>
+            En toda demanda social se encuentra lo que Boltanski denomina gramática de la acusación, resultante de una experiencia vivida o representada como injusta, que genera violencia. La propia acusación es una forma de violencia: “Ahora, una acusación no solo genera violencia. Ella misma es ya una forma de violencia” (
+            <xref ref-type="bibr" rid="B2">Boltanski 2014</xref>
+            :97). En las justificaciones, no se registra exigencia alguna, más allá de las insinuaciones sobre las resistencias a cargar con el peso fiscal que se vincula a las potenciales medidas de lucha contra el fenómeno. El cambio climático aparece ahí como fatalmente instalado. Los interpelados, por supuesto, no se sienten víctimas de una injusticia; pero tampoco señalan a otros como víctimas. Intentan defenderse de la violencia de la acusación. No hay demanda porque no existe la concepción del cambio climático como generador de daños, lesiones, desigualdad e injusticia. No existe la representación social de unas categorías de la sociedad española como más vulnerables que otras ante el fenómeno.
+         </p>
+         <p>La otra causa de la inexistencia del discurso tiene que ver con el sujeto. No puede decirse que los observados se sientan sujetos con relación al cambio climático. Las huellas sostenidas en las transcripciones muestran, al contrario, que no se representan como víctimas. Pero, tampoco como causantes, a pesar de las leves discusiones producidas sobre el carácter antrópico del cambio climático.</p>
+         <p>
+            Habitualmente, los sujetos se presentan como tipificaciones de colectivos sociales relativamente concretos, tales como “el Estado, el pueblo, la economía, las clases sociales, etc.” (
+            <xref ref-type="bibr" rid="B18">Schutz 1974b</xref>
+            :59) o pronombres (ellos, nosotros, el “tú” de derechos y obligaciones), que, como tales pronombres, dejan en una indefinición previa las categorías sociales. Tipificaciones o pronombres que no solamente se incrustan en las narraciones que hacemos como necesarios protagonistas, sino que implican un desarrollo de la acción y constituyen el discurso social. En la observación empírica realizada, no hay sujetos como víctimas o causantes, ni tampoco como mediadores. La ausencia de sujeto (al que demandar, al que exigir mediación) es una de las razones por las que se tiene que el discurso del cambio climático tiene una forma post-política, sin acusaciones, sin exigencia de responsabilidades. El sujeto es un no sujeto, una apolítica “humanidad” universal. De esta manera: “si todos contribuimos al problema, no se le puede reclamar a nadie” (
+            <xref ref-type="bibr" rid="B11">Maniates 2001</xref>
+            :43).
+         </p>
+      </sec>
+      <sec>
+         <title>4. Sobre las condiciones de los discursos de la sociedad para la sociología</title>
+         <p>En el esfuerzo por ofrecer una mínima explicación de la inexistencia de referencias al cambio climático, se ha deslizado una concepción del discurso para la observación sociológica empírica que conviene completar, como paso previo al enfoque de la naturaleza del silencio en tal observación. El punto de partida es simple y negativo: no todo habla es discurso para la sociología, aunque todo habla (desde su contexto a su sentido) sea social.</p>
+         <p>Buena parte de los ejercicios de presentación del análisis del discurso, reforzando su sentido pragmático, consisten en aplicaciones del mismo en variados contextos y soportes (las instituciones, el poder, la novela, la conversación, los medios de comunicación, las organizaciones, etc.), con la finalidad de desvelar el uso del lenguaje como instrumento de dominación, cuando se trata del análisis crítico del discurso (ACD). Sin menoscabo alguno de la notable contribución, actitudes y horizonte que se encuentran tras la gran mayoría de estos trabajos, recogen materiales que definen como discurso para integrarlo en lo que sí es un discurso, presente en numerosas y amplias líneas de investigación lingüística, que demandan a sus ejercientes que desvelen cómo se implementa la dominación a través del lenguaje, donde el concepto de discurso es asumido, pero no definido, más allá que como concreción lingüística.</p>
+         <p>Pero no todo lo que entra en la conversación o el texto puede considerarse discurso. Debido al ascendente de Foucault sobre las disciplinas sociales en general y sobre las lingüísticas en particular, abriendo la puerta enormemente de las mismas hacia una concepción política y social de las prácticas expresivas, se ha extendido el uso del término discurso, haciendo de todo habla un discurso. Es más, sin riesgo a la exageración, podría decirse que el silencio se configura como, al menos, efecto del discurso. Incluso, siguiendo a Foucault, hay discursos que no hablan, a los que denomina discursos sin cuerpo: “todo discurso manifiesto reposaría secretamente sobre un ‘ya dicho’, y ese ‘ya dicho’ no sería simplemente una frase ya pronunciada, un texto ya escrito, sino un ‘jamás dicho’, un discurso sin cuerpo, una voz tan silenciosa como un soplo” (Foucault 1984:40). Para Foucault, siempre hay discurso. Manifiesto, silenciado o reprimido. Más allá de la violencia de los discursos manifiestos, no hay apenas sitio para explicar esos discursos que están ahí, según la concepción foucaultiana, pero que no hablan.</p>
+         <p>Con el propósito de superar el obstáculo que supone definir toda expresión -incluyendo la no expresión del silencio- como discurso, que es dejar de definir el concepto de discurso social, se propone partir de una distinción hecha por Zizek (El espinoso sujeto) entre habla en sí y habla para sí, emplazando el discurso en esta segunda categoría. Esta distinción asume que todo discurso coloca al hablante frente a un objeto tematizado. Puede darse, por ejemplo, una descripción; pero solo en la medida que sitúe al hablante con relación al objeto/tema y, por lo tanto, sea un habla para sí, puede hablarse de discurso. El propio hecho del para sí abre el camino para la acción, a lo que se volverá en unos instantes.</p>
+         <p>
+            En todo discurso social hay lo que Boltanski denomina gramática de la acusación (demanda, según los términos ya utilizados aquí), en oposición a una gramática de la justificación (defensa de la demanda, respuesta a la demanda, contrademanda): “La gramática de la acusación ha de venir a atenuar la tensión existente entre la puesta en práctica de una violencia y la correspondiente petición de justicia, la gramática de la justificación tratará de compatibilizar las exigencias de común humanidad de los actores (que presupone su igualdad) y la ordenación jerárquica de los mismos” (
+            <xref ref-type="bibr" rid="B2">Boltanski 2014</xref>
+            :180).
+         </p>
+         <p>
+            Para que un tema pueda convertirse en discurso, es preciso que involucre la base de la existencia del grupo hablante, del sujeto hablante. “Para que un tema, cualquiera que sea el nivel de la realidad a que pertenezca, forme parte del horizonte social de un grupo y suscite una reacción semiótica-ideológica, es necesario que dicho tema esté relacionado con los presupuestos socioeconómicos más importantes del grupo mencionado; es preciso que involucre siquiera parcialmente las bases de la existencia material del grupo señalado […] Por supuesto, aquí no puede tener importancia alguna una arbitrariedad individual. Puesto que el signo se crea entre individuos, en un medio social, es indispensable que el tema posea una significación interindividual: solo entonces podrá ser objeto de una formalización semiótica” (
+            <xref ref-type="bibr" rid="B21">Voloshinov 1993</xref>
+            :47). Requisito necesario para la selección de un tema; aunque insuficiente para alcanzar el estatus de discurso, de habla para sí, pues se requiere tomar conciencia de las condiciones socioeconómicas. Por ello, la demanda surge de un padecimiento, de una injusticia, en términos de Boltanski.
+         </p>
+         <p>
+            Sin abandonar completamente las acepciones en los otros campos, se propone que el discurso para la sociología requiere de unas exigencias semejantes a las presentes en la acción de las instituciones jurídicas. Como nos apunta Ricoeur: “Las transiciones entre las proposiciones del lenguaje ordinario sin un tinte moral o jurídico y las decisiones jurídicas, está asegurada por proposiciones del lenguaje que reivindican, confieren, transfieren, reconocen, atribuyen derechos y que tienen la forma ‘esto es tuyo, vuestro, mío’” (
+            <xref ref-type="bibr" rid="B14">Ricoeur 1988</xref>
+            :63). El discurso para la sociología conlleva un juicio. No solo entonado como opinión o valoración sobre algo, sino como demanda de justicia, como un juicio inserto en un litigio, en una disputa, en un conflicto. Esta estructura judicial del discurso puede convertirse en un eficaz instrumento para el análisis sociológico empírico, invitando a la observación de partes -una que exige protección de derechos; otra, institucional, a la que se exige detener la acción apropiadora de derechos ajenos y, en muchos casos, restitución- con solicitud de mediación a otros sujetos, que son puestos en la tensión de dirimir entre las pruebas de verdad -presentadas por los dominados, los demandantes- y las pruebas de realidad o de experiencia, originadas en la vivencia de lo denunciado; y, por último, la parte de los sujetos acusados, que presentará contrademandas o justificaciones. Desde esta perspectiva, los discursos para la sociología reclaman acción o contra-acción (parar la acción reclamada por otros), por lo que reafirman su carácter estratégico.
+         </p>
+         <p>En la medida que se reclama (demanda) la acción, el mundo no es un “hecho consumado”, no es una realidad pétrea. Aparece la inmovilidad como contrademanda, como respuesta a una demanda. Se imputa una responsabilidad de acción en el caso de la demanda, y una realidad inamovible y un rechazo de la responsabilidad en el caso de la justificación. En términos dialógicos, la justificación es un rechazo de la responsabilidad y de anulación de las pretensiones de la demanda. Una demanda de algo y de mediación, de actuación (o no actuación) apelando a la responsabilidad.</p>
+         <p>
+            Pongamos un ejemplo, tomado de Ricoeur, en el que se evidencia que la ausencia de demanda en una comunicación imposibilita a esta para ser considerada como discurso social: “una baja presión atmosférica en tal punto del globo es responsable de una tempestad” (
+            <xref ref-type="bibr" rid="B14">Ricoeur 1988</xref>
+            :68). En esta frase, podría admitirse la presencia de sujetos, incluso atribución de responsabilidad, entendida de manera laxa como causalidad, pero no hay demanda. No se pide la restitución o el mantenimiento de un derecho, como tampoco se solicita protección, intervención o mediación. En definitiva, la frase no pone en juego relaciones sociales, de poder o institucionales.
+         </p>
+         <p>En cuanto demanda frente a otro y dadas sus características judiciales, todo discurso viene y lleva al enfrentamiento y no al consenso. Para que haya consenso, primero tiene que haber discurso. Para que haya discurso, hay enfrentamiento. El consenso es un discurso, con pretensión de discurso final, que acerca los discursos existentes surgidos del conflicto. Los convence o los vence.</p>
+         <p>La reflexión sobre los sujetos del discurso exigiría más espacio y tiempo de lo aquí disponible. Resaltar que, cuando se haba de sujeto, es un sujeto político. El sujeto se constituye en relación con otros sujetos o como respuesta a otros que le han preconstituido como sujeto, como apelado. Un sujeto que se hace soporte/portavoz de un valor, de un grandeur (Boltanski y Thévenot. De la justification), convirtiéndose en sujeto al tomar el riesgo de la expresión de la demanda.</p>
+         <p>Valga aquí, a modo de síntesis acelerada, el que para que un habla cumpla las condiciones de discurso para la sociología, ha de tenerse en cuenta que se establece sobre una demanda y unos sujetos, que los sujetos se constituyen a partir de discursos que demandan, y que las demandas sociales se expresan en discursos que sitúan sujetos, de manera que estos devienen tales a partir de las mismas. Los sujetos no solo forman los objetos; también forman los sujetos, incluyendo los hablantes.</p>
+         <p>Teniendo en cuenta el desarrollo realizado hasta aquí, el silencio en la observación sociológica de las relaciones de la sociedad con fenómenos o tópicos de investigación puede ser definido como ausencia de un discurso, teniendo en cuenta las coordenadas ofrecidas. El silencio como acontecimiento discursivo que señala la ausencia de un discurso. Esto excluye, obviamente, otros silencios: ya sea el integrado en una cultura para regular las interacciones en la misma; ya el de la lingüística o el de las expresiones dramáticas, como el teatro, centrándose en las funciones acústicas del silencio, o el de los divertidos malentendidos de la sociolingüística; ya el de las representaciones históricas de la dominación, como generador de distinción entre categorías o grupos sociales. Incluso tras este mínimo descarte, aún queda una amplia variedad de silencios y, por lo tanto, de margen de interpretación para cuando, algo esperado en el habla (preocupación por el medio ambiente), no se presenta a la convocatoria. Se ha afirmado que la falta de discurso sobre el cambio climático está relacionada con la ausencia de una demanda sobre este fenómeno y de sujetos implicados en el mismo, en la representación que tienen los hablantes del fenómeno. Así, la sucesión de preguntas ha de pasar al siguiente nivel: ¿qué explica la ausencia de sujetos y demanda, y, por lo tanto, de discurso?, ¿la imposibilidad de nombrar el tema y sus sujetos?, ¿una gran distancia con el problema?, ¿las dificultades cognitivas para atribuir un fenómeno a un sujeto? Al trazar las distintas alternativas de explicación, se dibuja una tipología de los distintos silencios posibles para la sociología. Por un lado, el silencio que comunica un conflicto presente. Es el silencio impuesto, al que podemos denominar como comunicativamente pleno, pues dice una dominación. En segundo lugar, el silencio derivado de la irrelevancia del fenómeno o la realidad, pues no se habla de todo; ni, mucho menos, todo lo que nos rodea protagoniza discursos sociales. Un tercer tipo vendría dado por cuestiones que se sabe que están ahí, que incluso pueden considerarse importantes, pero que carecen del potencial para considerarse discurso, incluso para acceder a la comunicación, como consecuencia de la ausencia de alguno o varios de los elementos que hemos señalado como básicos para la consideración de discurso social por la sociología.</p>
+         <p>El silencio por conflicto latente es seguramente el que antes acude a nuestro pensamiento cuando se señala algo como callado. Es el producto de la censura, ya sea fruto de la explícita prohibición, ya de la implícita conjura en la denegación, como se observa en Noorstrag (Living in denial) y Zerubavel (The elephant in the room), ya porque no es socialmente aceptable, pues se puede encender el conflicto entre los hablantes.</p>
+         <p>El silencio derivado del conflicto puede calificarse de pleno, puesto que, a diferencia de lo visto en la experiencia empírica aquí expuesta, no es que no haya discurso, sino que hay un discurso que no puede, ni debe, circular. Al haber discurso, hay sujetos -especialmente víctimas de una injusticia- y demandas o padecimientos. Tal vez en el silencio pleno, del conflicto presente, se tenga un sujeto que se sabe sujeto, pero que no quiere ser sujeto, que hace explícita su renuncia a la demanda con el silencio. Puede decirse también que es el silencio del discurso, con la existencia de un discurso silenciado, de aquí la calificación de pleno, o, siguiendo los términos de Foucault, cuya concepción del discurso entronca con este tipo de silencio, cuando apunta el silencio-en-el-discurso como fruto del: “deseo, inconsciente quizá, de no ver y de no decir” (Foucault 1984:78).</p>
+         <p>
+            El silencio pleno tiende a tomar la forma de evitación, de denegación, ya sea por represión, ya sea por negar la demanda, por no contestar a la demanda de otros. Cuando se trata de un silencio fruto de la represión, el discurso, lo dicho, se elabora como si eso, lo reprimido, no existiese, de aquí el término de denegación. En su plenitud, lo que hace es proyectarse sobre buena parte de lo que se dice, en un más allá: “En el origen, para que la represión sea posible, es preciso que exista un más allá de la represión, algo último, ya constituido primitivamente, un primer nódulo de lo reprimido, que no solo no se reconoce, sino que, por no formularse, literalmente es como si no existiese, sigo aquí a Freud. Sin embargo, es cierto sentido, se halla en alguna parte puesto que -Freud nos lo dice constantemente- es el centro de atracción que atrae hacia sí todas las represiones ulteriores […] Diré que es la esencia misma del descubrimiento freudiano” (
+            <xref ref-type="bibr" rid="B8">Lacan 1983</xref>
+            :75). El silencio pleno suele ser elocuente, paradójicamente evidente. En muchos casos, hace ostentación de su estrategia de evitación: “de esto no se puede hablar”. En un contexto de silencio pleno, la situación concreta de observación sociológica empírica se llena de síntomas: miradas, extrema precaución en la producción oral, largas pausas entre turnos de palabra. Cuando el silencio parece producto de la presencia de conflictos, la representación del observador, del que escucha, es más densa. Late un: ¡cuidado con lo que se dice! No ocurre lo mismo con el silencio producto de la irrelevancia. El silencio irrelevante es el grado cero del silencio derivado del grado cero del discurso de, a su vez, grado cero de realidad. En el silencio irrelevante, no se reconoce el objeto/tema porque no existe tema. Irrelevante es lo que no capta nuestra atención.
+         </p>
+         <p>
+            Seguimos el concepto de irrelevante en el sentido apuntado por Schutz, en el proyecto inacabado sobre este concepto. Lo irrelevante como lo que no pone en tensión la conciencia y, por lo tanto, no accede al habla. Lo irrelevante es producto de la invisibilización e invisibiliza, incluyendo, a través del silencio: “la invisibilización de grupos sociales marginados” (
+            <xref ref-type="bibr" rid="B7">Herzog 2017</xref>
+            :13). Es lo incuestionado, permanente, de continuidad infinita, incluso en su potencial fugacidad, como el agua que corre. Es el blacknoise del que habla Zerubavel (The elephant in the room). Teniendo en cuenta que lo irrelevante tiende al infinito, la gama de los tipos de irrelevancia es amplia. Nos ceñimos aquí a la tipología presentada por Schutz. Es irrelevante lo que está fuera de nuestro alcance, lo que es percibido fuera de las posibilidades de la acción. También es irrelevante lo muy confiable, un aspecto que ha sido especialmente subrayado por la perspectiva fenomenológica de “lo familiar” o, tal vez con mayor precisión, lo muy familiar o absolutamente familiar. Agrupa el conjunto de aspectos de la vida de lo “absolutamente confiables, indiscutiblemente realizables” (
+            <xref ref-type="bibr" rid="B19">Schutz y Luckmann 1973</xref>
+            :117). Y, por último, es irrelevante lo que no se discute. Lo que no accede al habla. Lo no problemático, frente a lo significativo. Lo irrelevante como lo temáticamente insignificante.
+         </p>
+         <p>
+            De los tres tipos de silencio sociológico, el tercero es el analíticamente más complejo, pues cuestiona los procesos por los que se tematiza, dejando de ser irrelevante, y, al revés, por los que se destematiza. Para ello, nos apoyamos en el concepto de relevancia tópica de Schutz (Reflections on the problem of relevance): algo que, de lo aproblemático familiar, surge como problema, saliendo directamente y convirtiéndose en tema. Asoma como objeto/tema. Algo incuestionado, pasa a ser cuestionado. Se segrega de lo incuestionable, imponiéndose como tema. Por ello habla Schutz de relevancia impuesta: “imposed topical relevance” (
+            <xref ref-type="bibr" rid="B16">1970</xref>
+            :28). Cuando pasa a lo familiar, es porque se considera resuelto, un proceso que denomina sedimentación. Por lo tanto, lo relevante en silencio queda como relevante sedimentado. Lo sedimentado es algo que está ahí, pero que no concita nuestra atención, que no está presente en la attention à la vie, a la que Schutz (siguiendo a Bergson) da el estatuto de principio regulador básico de nuestra vida consciente y que “nos hace vivir -en nuestro lenguaje- nuestras experiencias presentes, dirigidas hacia sus objetos” (
+            <xref ref-type="bibr" rid="B17">Schutz 1974a</xref>
+            :201). El cambio climático no está en la attention à la vie. En lo sedimentado, se encuentran esas “zonas que, por el momento, no tienen tal vínculo con los intereses a mano. Las llamaremos zonas relativamente no significativas, indicando así que podemos seguir presuponiéndolas mientras no tengan lugar, dentro de ellas, cambios que puedan inferir en los sectores significativos mediante nuevas e inesperadas probabilidades de riesgos” (
+            <xref ref-type="bibr" rid="B18">Schutz 1974b</xref>
+            :124).
+         </p>
+         <p>El cambio climático y lo medioambiental pasa de la relevancia intrínseca, sedimentada, a relevancia impuesta a través de accidentes y catástrofes. Pero tal capacidad de imponerse deriva de su intrínseca relevancia o, como las denomina Schutz, de ser relevancias de segundo orden. Con la ayuda de este autor, se puede reconstruir la representación de la relación de la sociedad con el cambio climático como poseyendo este una relevancia intrínseca, de segundo orden. Como algo sobre lo que merece la pena preocuparse, aunque tienda a quedar latente habitualmente.</p>
+         <p>A partir del proceso de sedimentación, se constata cómo un tema relevante puede desaparecer como típico: a) porque no es percibido como un problema o b) porque ha dejado de existir. Y, también, como ese proceso de sedimentación puede ser interrumpido. Cuando el tema relevante está sedimentado produce silencio; pero eso no quiere decir que no sea relevante.</p>
+         <p>Este concepto de relevancia de segundo orden nos sepulta el tema bajo el silencio, aunque se reconozca importante, y he aquí el interés, ya que, sedimentado, familiarizado, domesticado, no está en las expectativas inmediatas de la acción. Fuera de la acción, no se está interesado en los detalles. Se trata de una relevancia que se experimenta como naturaleza, como algo que “está ahí”, ineludible como entorno. Siguiendo la metáfora geológica utilizada por Schutz de los isohypses, hay una relevancia “valle”, profunda y latente en su condición habitual, y, otra, de picos. La relevancia valle se encuentra como relevancia latente y dormida, mientras no se la despierta, transformada en fondo, en conocimiento rutinario, de manera que tiende a no pasar de manera consciente al campo temático, quedando así en silencio temático.</p>
+         <p>A partir de estas consideraciones, el silencio sobre el cambio climático, registrado en la observación empírica, cobra sentido como silencio vacío. Silencio sobre un fenómeno que se concibe como relevante, como se ha puesto de manifiesto en los resultados de encuesta con cuestionario estandarizado y en la experiencia de las justificaciones en los grupos de discusión, donde genera cierta tensión.</p>
+      </sec>
+      <sec>
+         <title>Conclusiones</title>
+         <p>El silencio temático se convierte en indicador o síntoma del sentido social de un acontecimiento o tema. A la manera del “velo de la ignorancia”, se puede hablar del “velo del silencio” sobre los acontecimientos. Como analizante de acontecimientos o fenómenos y, sobre todo, de las relaciones de la sociedad con tales fenómenos. Para ello, ha sido necesaria una redefinición del propio concepto de discurso, diferenciando entre un silencio que deriva de la violencia inscrita en todo discurso, en cuanto demanda a partir de una denuncia de injusticia; y, por otro lado, un silencio que resulta de la ausencia de discurso, queriendo señalar con esto la dificultad que puede tener un fenómeno social para acceder al habla de la gente, por la falta de sujetos e instituciones que se constituyan a partir del discurso: acusadores, víctimas, acusados que se justifican.</p>
+         <p>Algo no se comunica, abandonándose en el valle de lo latentemente relevante, porque la sociedad carece de los elementos y posibilidades de comunicarlo. Haciéndonos eco de la propuesta de Luhmann, el cambio climático se perfila como algo que la sociedad no puede comunicar. Ahora bien, de forma similar a como el discurso genera hablas, el silencio produce silencio en una economía política del silencio, esto tiene proyecciones prácticas.</p>
+         <p>En relación con el propio fenómeno, si no se habla del mismo difícilmente saldrá de esa situación de sedimentación, de relevancia latente, de estar fuera de la posibilidad de constituirse en discurso. El silencio, como el discurso, es performativo. Veíamos como, desde distintas perspectivas y corrientes sociológicas, el silencio adquiere un carácter transicional y, sobre todo, de marcador de distancia social. Es observado como instrumento que separa mundos sociales. Por lo tanto, el silencio hace y lo primero que hace es silencio. También en el contexto de la observación empírica el silencio es performativo. Solo las técnicas de investigación social que asumen el silencio propio -el del observador en la situación de observación- pueden recoger o producir el silencio de los observados, de la sociedad observada. La producción empírica se realiza entonces a partir de asumir las posibilidades de un ámbito prediscursivo. Ejercicio de docta ignorancia, como propone Bourdieu (Le sens pratique) para captar la lógica prediscursiva de las prácticas. Producción a partir del callar del observador, aunque pretenda saber o intuya, permite una aproximación ajustada a la situación del fenómeno observado, que rehúsa imponer su situación y, por lo tanto, se niega a objetivar antes de que haya objeto. Solo poniéndose el observador en una situación pre-discursiva, con respecto al fenómeno, puede apreciarse la existencia de discurso sobre tal fenómeno. Una situación prediscursiva en la que el silencio inicial sobre el fenómeno es el procedimiento fundamental. Además, la producción de silencio a partir de unas técnicas de investigación social nos permite enmarcar lo que se dice y recoge desde las otras técnicas de investigación.</p>
+         <p>
+            En las encuestas con cuestionario estandarizado apenas es posible producir y guardar silencio. A lo sumo se encuentra el silencio de las minorías opináticas, como pone de relieve Noelle-Neumann, especialmente ante preguntas del cariz de la preocupación sobre el cambio climático. Preguntas como la que plantea Luhmann: “¿me amas? No se puede contestar esta pregunta con silencio” (
+            <xref ref-type="bibr" rid="B10">Luhmann 1994</xref>
+            :31). Pocos contestarán que no tienen preocupación ante un asunto tan moralizado. El marco mediático en el que aparece la preocupación sobre el cambio climático difícilmente soporta la no respuesta en la inquisición mediante cuestionario. La observación participante, la entrevista o el grupo de discusión: “pueden producir situaciones sociales para la observación del silencio” (
+            <xref ref-type="bibr" rid="B3">Callejo 2002</xref>
+            :421).
+         </p>
+         <p>¿Hasta qué extremo las justificaciones ofrecidas por los observados sobre el silencio sirven para explicar el silencio? Es una especificación de la pregunta sobre hasta qué punto las justificaciones sirven para atribuir motivos a los individuos. Al menos y es la conclusión aquí derivada, sirven para reconocerlo. El silencio, mucho más allá del acotado enfoque realizado aquí, centrado en las posibilidades y limitaciones de nuestra práctica de investigación, tiene una consistencia como objeto de estudio. De hecho, en otro ámbito, el de la comunicación mediada, el silencio adquiere notoriedad con las tecnologías digitales, especialmente en los medios relacionales. No se puede no contestar, no se puede quedar en silencio, tras un mensaje por email o a través de WhatsApp.</p>
+         <p>Por último, se ha propuesto una eventual tipología de silencios para la sociología empírica: a) pleno, en cuanto lleno de lo indecible, b) irrelevante, con sus categorías y c) vacío, sobre fenómenos sin discurso. Una tipología que completar con más investigación empírica específica.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Ariès, P.,  (1976).
+               <italic>Western attitudes toward death</italic>
+               .  London: Marion Boyars
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ariès</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>1976</year>
+               <source>Western attitudes toward death</source>
+               <publisher-name>Marion Boyars</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Boltanski, L.,  (2014).
+               <italic>De la crítica</italic>
+               .  Madrid: Akal
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Boltanski</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>De la crítica</source>
+               <publisher-name>Akal</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Callejo, J.(2002). "Observación, entrevista y grupo de discusión: el silencio de tres prácticas de investigación".
+               <italic>Revista Española de Salud Pública. 76</italic>
+               (5), 409-422. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://scielo.isciii.es/scielo.php?script=sci_abstract&amp;pid=S1135-57272002000500004">http://scielo.isciii.es/scielo.php?script=sci_abstract&amp;pid=S1135-57272002000500004</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Callejo</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <article-title>Observación, entrevista y grupo de discusión: el silencio de tres prácticas de investigación</article-title>
+               <source>Revista Española de Salud Pública</source>
+               <volume>76</volume>
+               <issue>5</issue>
+               <fpage>409</fpage>
+               <lpage>422</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://scielo.isciii.es/scielo.php?script=sci_abstract&amp;pid=S1135-57272002000500004">http://scielo.isciii.es/scielo.php?script=sci_abstract&amp;pid=S1135-57272002000500004"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Callejo, J.(2016). "Buscando determinantes de la seguridad ontológica en la España de la crisis.".
+               <italic>Política y Sociedad. 53</italic>
+               (2), 381-412. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/rev_POSO.2016.v53.n2.49367">https://doi.org/10.5209/rev_POSO.2016.v53.n2.49367</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Callejo</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Buscando determinantes de la seguridad ontológica en la España de la crisis.</article-title>
+               <source>Política y Sociedad</source>
+               <volume>53</volume>
+               <issue>2</issue>
+               <fpage>381</fpage>
+               <lpage>412</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/rev_POSO.2016.v53.n2.49367">https://doi.org/10.5209/rev_POSO.2016.v53.n2.49367"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Flora, J. (2012).
+               <italic>We don’t know why he did it. It happened by itself. Casuality and suicide in Northwest Greenland</italic>
+               . En Hight, C (autor.);The anthropology of ignorance.  (137-161). New York: Palgrave Mcmillan
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Flora</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>We don’t know why he did it. It happened by itself. Casuality and suicide in Northwest Greenland</chapter-title>
+               <year>2012</year>
+               <source>The anthropology of ignorance</source>
+               <publisher-name>Palgrave Mcmillan</publisher-name>
+               <fpage>137</fpage>
+               <lpage>161</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Foucault, M.,  (1984).
+               <italic>La arqueología del saber</italic>
+               .  Madrid: Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Foucault</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>1984</year>
+               <source>La arqueología del saber</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Herzog, B.(2017). "Invisibilization and silencing as an ethical and sociological challenge".
+               <italic>Social Epistemology. 32</italic>
+               (1), 13-23. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02691728.2017.1383529">https://doi.org/10.1080/02691728.2017.1383529</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Herzog</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Invisibilization and silencing as an ethical and sociological challenge</article-title>
+               <source>Social Epistemology</source>
+               <volume>32</volume>
+               <issue>1</issue>
+               <fpage>13</fpage>
+               <lpage>23</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02691728.2017.1383529">https://doi.org/10.1080/02691728.2017.1383529"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Lacan, J.,  (1983).
+               <italic>Seminarios. Los escritos técnicos de Freud</italic>
+               .  Barcelona: Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lacan</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>1983</year>
+               <source>Seminarios. Los escritos técnicos de Freud</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Le Breton, D.,  (1997).
+               <italic>Du silence</italic>
+               .  Paris: Metaille
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Le Breton</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>Du silence</source>
+               <publisher-name>Metaille</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Luhmann, N.(1994). "Speaking and silence".
+               <italic>New German Critique. 61</italic>
+               , 25-37. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/488619">https://doi.org/10.2307/488619</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Luhmann</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <article-title>Speaking and silence</article-title>
+               <source>New German Critique</source>
+               <volume>61</volume>
+               <issue />
+               <fpage>25</fpage>
+               <lpage>37</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/488619">https://doi.org/10.2307/488619"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Maniates, M.(2001). "_plant a tree, buy a bike, save the world".
+               <italic>Global Environmental Politics. 1</italic>
+               (3), 31-52. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1162/152638001316881395">https://doi.org/10.1162/152638001316881395</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Maniates</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>_plant a tree, buy a bike, save the world</article-title>
+               <source>Global Environmental Politics</source>
+               <volume>1</volume>
+               <issue>3</issue>
+               <fpage>31</fpage>
+               <lpage>52</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1162/152638001316881395">https://doi.org/10.1162/152638001316881395"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Noelle-Neuman, E.,  (1995).
+               <italic>La espiral del silencio</italic>
+               .  Barcelona: Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Noelle-Neuman</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>La espiral del silencio</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Ramos, R., Callejo, J.(2018). "Semántica social del riesgo: una aproximación cualitativa".
+               <italic>Política y Sociedad. 55</italic>
+               (1), 235--256. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/POSO.54062">https://doi.org/10.5209/POSO.54062</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ramos</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Callejo</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Semántica social del riesgo: una aproximación cualitativa</article-title>
+               <source>Política y Sociedad</source>
+               <volume>55</volume>
+               <issue>1</issue>
+               <fpage>235-</fpage>
+               <lpage>256</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/POSO.54062">https://doi.org/10.5209/POSO.54062"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Ricoeur, P.,  (1988).
+               <italic>El discurso de la acción</italic>
+               .  Madrid: Cátedra
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ricoeur</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>1988</year>
+               <source>El discurso de la acción</source>
+               <publisher-name>Cátedra</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Simmel, G.,  (1950).
+               <italic>The sociology of Georg Simmel</italic>
+               .  Glencoe: The Free Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Simmel</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>1950</year>
+               <source>The sociology of Georg Simmel</source>
+               <publisher-name>The Free Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Schutz, A.,  (1970).
+               <italic>Reflections on the problem of relevance</italic>
+               .  New Haven: Yale University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schutz</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>1970</year>
+               <source>Reflections on the problem of relevance</source>
+               <publisher-name>Yale University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Schutz, A.,  (1974).
+               <italic>El problema de la realidad social</italic>
+               .  Buenos Aires: Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schutz</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>1974</year>
+               <source>El problema de la realidad social</source>
+               <publisher-name>Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Schutz, A.,  (1974).
+               <italic>Estudios sobre teoría social</italic>
+               .  Buenos Aires: Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schutz</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>1974</year>
+               <source>Estudios sobre teoría social</source>
+               <publisher-name>Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Schutz, A., Luckmann, T.,  (1973).
+               <italic>Las estructuras del mundo de la vida</italic>
+               .  Buenos Aires: Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schutz</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Luckmann</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year>1973</year>
+               <source>Las estructuras del mundo de la vida</source>
+               <publisher-name>Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Tuana, N.(2004). "Coming to understand: orgasm and the epistemology of ignorance".
+               <italic>Hypatia. 19</italic>
+               (1), 194-232. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1527-2001.2004.tb01275.x">https://doi.org/10.1111/j.1527-2001.2004.tb01275.x</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tuana</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <article-title>Coming to understand: orgasm and the epistemology of ignorance</article-title>
+               <source>Hypatia</source>
+               <volume>19</volume>
+               <issue>1</issue>
+               <fpage>194</fpage>
+               <lpage>232</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1527-2001.2004.tb01275.x">https://doi.org/10.1111/j.1527-2001.2004.tb01275.x"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Voloshinov, V.,  (1993).
+               <italic>El marxismo y la filosofía del lenguaje</italic>
+               .  Madrid: Alianza
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Voloshinov</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <source>El marxismo y la filosofía del lenguaje</source>
+               <publisher-name>Alianza</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

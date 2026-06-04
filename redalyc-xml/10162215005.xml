@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000300333</article-id>
+         <article-id pub-id-type="publisher-id">00005</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>La teoría de Axel Honneth sobre justicia social, reconocimiento y experiencias del sujeto en las sociedades contemporáneas</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Axel Honneth theory on social justice, recognition and experiences of the subject in contemporary societies</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1550-4960</contrib-id>
+               <name>
+                  <surname>Revuelta</surname>
+                  <given-names>Beatriz</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8205-0081</contrib-id>
+               <name>
+                  <surname>Hernández-Arencibia</surname>
+                  <given-names>Raynier</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Alberto Hurtado. Chile</institution>
+            <institution content-type="normalized">Universidad Alberto Hurtado</institution>
+            <institution content-type="orgname">Universidad Alberto Hurtado</institution>
+            <country country="CL">Chile</country>
+            <email>brevuelta@uahurtado.cl</email>
+         </aff>
+         <aff id="aff2">
+            <label>2</label>
+            <institution content-type="original">Universidad de las Américas. Chile</institution>
+            <institution content-type="normalized">Universidad de las Américas</institution>
+            <institution content-type="orgname">Universidad de las Américas</institution>
+            <country country="CL">Chile</country>
+            <email>rhernandeza@udla.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Oct-Dec</season>
+            <year>2019</year>
+         </pub-date>
+         <!--<volume>0</volume>-->
+         <issue>66</issue>
+         <fpage>333</fpage>
+         <lpage>346</lpage>
+         <history>
+            <date date-type="received">
+               <day>05</day>
+               <month>08</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>24</day>
+               <month>11</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El presente artículo explora los rendimientos de la teoría de la justicia de Axel Honneth para comprender las experiencias del sujeto en las sociedades contemporáneas. Para esto primeramente define la teoría de la justicia a través de las esferas del reconocimiento y posteriormente construye un modelo analítico posible considerando la justicia social a través de grados. Se proponen tres grados de justicia (grado máximo, grado medio y grado mínimo), que no son camisas de fuerza a lo social, sino puntos de partida para pensar la constitución y las prácticas de los sujetos. Se concluye que las esferas del reconocimiento, pensadas a través de grados de justicia social permiten analizar las disímiles experiencias de los sujetos, pero comprendiendo las esferas y finalmente la justicia, a la luz de relaciones de poder y dominación que configuran ciertos contenidos morales de la justicia, pero no necesariamente contenidos que favorecen un mayor progreso moral en los órdenes sociales que prevalecen. El modelo analítico presentado permite considerar cómo se institucionalizan órdenes morales que definen formas de justicia que coactan la crítica, la lucha y el cambio.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This article explores the performances of Axel Honneth’s theory of justice to understand the subject’s experiences in contemporary societies. For this, it first defines the theory of justice through the spheres of recognition and then builds a possible analytical model considering social justice through degrees. Three degrees of justice are proposed (maximum grade, average grade and minimum grade), which are not social straitjackets, but starting points for thinking about the constitution and practices of the subjects. It is concluded that the spheres of recognition, thought through degrees of social justice, allow to analyze the different experiences of the subjects, but understanding the spheres and finally justice in the light of relations of power and domination that configure certain moral contents of the justice, but not necessarily content that will favor greater moral progress in the prevailing social orders. The analytical model allows us to consider how institutionalized moral orders, which define forms of justice that coerce criticism, struggle and change.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>justicia social</kwd>
+            <kwd>reconocimiento</kwd>
+            <kwd>experiencias del sujeto</kwd>
+            <kwd>poder</kwd>
+            <kwd>dominación</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>social justice</kwd>
+            <kwd>recognition</kwd>
+            <kwd>subject experiences</kwd>
+            <kwd>power</kwd>
+            <kwd>domination</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="1" />
+            <equation-count count="0" />
+            <ref-count count="18" />
+            <page-count count="14" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>Es significativa la centralidad del concepto de reconocimiento en la producción de las ciencias sociales contemporáneas. Diversos teóricos como Charles Taylor, Nancy Fraser, Paul Ricoeur, John Rawls, Jacques Rancière y Axel Honneth entre otros, han encontrado en el reconocimiento una clave para interpretar las demandas políticas actuales y una nueva forma de comprender la justicia social.</p>
+         <p>En los últimos años, Axel Honneth se ha convertido en la figura principal de la tercera generación de la Escuela de Frankfurt. A fines de la década de 1970, Honneth comenzó a desarrollar su trabajo en una teoría del reconocimiento, como un nuevo marco para la teoría crítica en la tradición de Frankfurt. Su propuesta descansa en la idea de “poder generar una teoría que permita construir un puente entre subjetividad y orden político, que brinde una explicación a las diferentes formas de sufrimiento y no justificaciones normativas” (<xref ref-type="bibr" rid="B11">Honneth, Rancière y Genel 2016</xref>:121).</p>
+         <p>Desde la publicación de las Luchas por el reconocimiento: por una gramática moral de los conflictos sociales en 1992, Honneth ha dedicado la mayoría de sus reflexiones posteriores al desarrollo de esta teoría social. El presente artículo pretende analizar la teoría de la justicia del autor encontrando sus rendimientos para pensar las experiencias de los sujetos en las sociedades modernas. Para esto, aborda las tres esferas de reconocimiento como el ámbito en donde se materializa la justicia, y luego propone un modelo analítico posible donde se muestra el comportamiento de las esferas a través de grados. Los tres grados propuestos en el modelo pueden ser interpretados en términos de calidad de las relaciones intersubjetivas en las experiencias del sujeto y también como grados de justicia social. Cada grado agrupa las tres esferas en comportamientos de más a menos, o sea, de situaciones que propician la autorrealización de los sujetos a situaciones de agravio moral. El modelo permite pensar cómo las esferas del reconocimiento en conjunto afectan la experiencia de los sujetos y limitan las posibilidades de crítica, de lucha y de cambio. Hacer referencia a grados de justicia como calidad de las relaciones intersubjetivas en un horizonte normativo concreto “implica proponer instrumentos posibles desde donde interrogar la realidad” (<xref ref-type="bibr" rid="B1">Amalric 2007</xref>:139).</p>
+         <p>Es importante también en esta propuesta analítica la consideración de los grados a la luz del poder y la dominación. Ello permite comprender que las experiencias del sujeto no pueden ser abstraídas de las discusiones sobre el poder y la dominación, y por ende ninguna de las esferas normativamente legítimas queda fuera de esos ámbitos, porque es desde ahí desde donde se construye e interpreta el sujeto. El horizonte normativo moral nunca es neutral, está atravesado por saberes dominantes que reproducen un reconocimiento erróneo para ciertos grupos o un daño moral en diferentes circunstancias y contextos.</p>
+         <p>
+            La lectura que se realiza de Honneth agrupa sus aportaciones iniciales que fundaron la teoría como aquellas más actuales donde se evidencia un giro institucional del reconocimiento. Este giro es posible evidenciarlo en su obra Freedom’s Right. The social foundations of democratic life de 2014, donde centra su trabajo en los órdenes institucionales de la sociedad y la forma en que los principios de reconocimiento institucionalizados no se cumplen de manera adecuada. Sin embargo, el hilo conductor entre los primeros trabajos y los más recientes, a consideración de
+            <xref ref-type="bibr" rid="B5">Deranty (2016</xref>
+            ), es el papel epistémico desempeñado por la experiencia social e histórica de los sujetos. Ya sea que el reconocimiento tenga un carácter más antropológico (contemplar las estructuras sociales desde el punto de vista de los sujetos) o institucional (cómo la estructura normativa no se corresponde con las expectativas normativas de los individuos), las experiencias sociales de los sujetos modernos tienen un valor insustituible en la construcción de su teoría. “Las expectativas normativas que se expresan y conceptualizan desde el punto de vista de los sujetos, apuntan a normas que tienen una significativa representación en la realidad. Estas normas forman el pegamento que ayuda a explicar la reproducción social y son la base de experiencias negativas que explican las luchas por el reconocimiento” (<xref ref-type="bibr" rid="B5">Deranty (2016</xref>:46). Desde esta perspectiva, la justicia es el resultado de la transformación de los órdenes de reconocimiento y de las tensiones entre los principios institucionalizados y los reclamos insatisfechos de reconocimiento por los individuos en su experiencia de vida.
+         </p>
+         <p>En este sentido, el modelo analítico propuesto pretende reflejar ambas líneas argumentales, considerando el rol de las instituciones modernas en la constitución de los sujetos a través de complejos procesos de socialización e incorporar las discusiones sobre el poder y cómo influye en la configuración de diferentes horizontes normativos que no necesariamente propiciarán progreso moral.</p>
+      </sec>
+      <sec>
+         <title>Las tres esferas del reconocimiento como bases de la justicia social</title>
+         <p>El enfoque sobre el reconocimiento de Axel Honneth tiene como fundamento final realizar una propuesta diferente sobre lo que define la justicia en las sociedades modernas. En su obra Reconocimiento y menosprecio: sobre la fundamentación normativa de una teoría social de 2009, Honneth critica la conceptualización sobre la justicia que había sido predominante hasta los años 90 del siglo XX, una justicia con base en la redistribución equitativa de bienes materiales, como garantía para la libertad de los seres humanos.</p>
+         <p>A consideración del autor, el enfoque sobre la distribución como ideal de justicia, donde el sujeto autónomo alcanza su libertad en un proceso que debe tender a igualar las posibilidades es limitado porque no da cuenta en toda su magnitud de las injusticias sociales: “fue necesario solo un pequeño paso para llegar a la opinión generalizada de que la cualidad moral de las relaciones sociales no puede medirse solamente por la distribución equitativa o justa de los bienes materiales, sino más bien que nuestra representación de la justicia debe estar relacionada esencialmente con aquellas concepciones acerca de cómo y cómo qué se reconocen recíprocamente los sujetos” (<xref ref-type="bibr" rid="B6">Honneth 1996</xref>:174).</p>
+         <p>El giro provocado por la teoría del reconocimiento en la conceptualización de la justicia lleva a entender la justicia social de una forma diferente, como garantía de las condiciones sociales para el reconocimiento mutuo. En el debate sostenido con Nancy Fraser sobre si la redistribución debe ser considerada dentro de la teoría del reconocimiento (Honneth) o si la misma debe verse de modo separado y como complemento del reconocimiento (Nancy Fraser), Honneth explica “creo que si las cosas se entienden como […] el planteamiento de Fraser -la concepción de reconocimiento sirve para resaltar lo que significa tratar a una persona con igualdad, mientras que la justicia distributiva concibe de alguna forma adecuada, la distribución del derecho y del bien- entonces se pierde a mi juicio la agudeza en el giro provocado por la teoría del reconocimiento en la teoría de la justicia […] uno debe tener claro primero la naturaleza práctica de las distintas esferas de vida en una sociedad y cómo se deben constituir estas esferas de las prácticas sociales para que se dé algo como una justicia social, es decir la garantía de condiciones que ofrece a todos la posibilidad de experimentarse como iguales y libres, estas son preguntas que se excluyen en su totalidad de una teoría distributiva de la justicia” (<xref ref-type="bibr" rid="B3">Cortés 2005</xref>:19).</p>
+         <p>De este modo, el reconocimiento recíproco, verdadera esencia de la justicia para el autor, constituye un proceso de identidad y autoformación, uno que considera una identidad práctica para el sujeto a lo largo del tiempo. Es este proceso central de formación de identidad el que tiene gran parte del peso descriptivo y normativo de la teoría, ya que apunta a que el reconocimiento es un mecanismo tanto formativo como evaluativo. Es el medio por el cual formamos nuestro sentido del “yo” a través de los demás y nos autodefinimos. Se sostiene así que los individuos articulan una identidad y un sentido de autoestima a partir de las relaciones sociales que los constituyen, relaciones sociales reconocibles a través de las que reciben aprobación y reconocimiento por sus acciones.</p>
+         <p>La crítica a las teorías distributivas es justamente que ponen en peligro el sentido del “yo”. El énfasis de la teoría del reconocimiento está en reconocer el sentido de identidad moral de las personas y la importancia para la autorrealización que tienen las relaciones intersubjetivas de reconocimiento. Estas relaciones se materializan en tres esferas: amor o afectiva, jurídica o de derechos y solidaridad o de aprecio social. La esfera de reconocimiento afectivo (amor) se asocia a las relaciones primarias (amistad, relaciones padres-hijos) que generan fuertes lazos afectivos. Por la propia condición de posibilidad, básicamente en un marco estrecho, Honneth caracteriza esta esfera con un particularismo moral. En el caso de la segunda, da cuenta de que es dueña de un universalismo en la medida en que “el reconocimiento jurídico, a diferencia del ámbito primario, permite una generalización del medio de reconocimiento que le es propio en las dos direcciones de ampliación material y social de los derechos, por un lado se tienen en cuenta las diferencias en las posibilidades individuales de realización de las libertades garantizadas intersubjetivamente, y por otro, un círculo creciente de personas que habían sido excluidas o discriminadas le son concedidos los mismos derechos que a todos los demás miembros de la comunidad” (Honneth 1997:159). Por último, la tercera esfera remite al aprecio social, que es básicamente la valoración del aporte del sí mismo a una comunidad. En esta tercera esfera es fundamental el trabajo, vía por la cual se concreta el aprecio social del desempeño y las capacidades individuales. En Crítica del agravio moral, patologías de la sociedad contemporánea, el autor da cuenta que “la valoración social en las sociedades contemporáneas se mide en gran parte por la aportación que esa persona realiza a la sociedad en forma de un trabajo formalmente organizado” (<xref ref-type="bibr" rid="B8">Honneth 2009</xref>:267). Una aportación que es reconocida por los otros, y en ese mismo proceso de reconocimiento se forja el autoaprecio del sujeto.</p>
+         <p>De este modo, conceptualizar la sociedad como un orden de reconocimiento es considerarla como “un orden normativo que institucionaliza la distribución del respeto y la estima social y, por lo tanto, expresa las valoraciones sociales que la mayoría de las personas considera legítimas” (<xref ref-type="bibr" rid="B13">Jütten 2017</xref>:5). En consecuencia, se postula una noción de justicia que requiere necesariamente ser pensada desde la época histórica concreta en donde cobra sentido y se articula, es decir, requiere ser elaborada desde las bases ético-morales de una determinada sociedad. El reconocimiento así, como contenido de la justicia social, es un concepto abierto que remite a las posibilidades ilimitadas de las interacciones sociales situadas, por lo que es histórico y socialmente relativo.</p>
+         <p>Finalmente, el estar reconocido en estas esferas, implica estar integrado a la sociedad. “Con estos tres patrones de reconocimiento quedan establecidos aquellos requisitos formales de las relaciones de interacción en cuyo contexto pueden los seres humanos sentirse seguros de su «dignidad» o integridad. […] aquí «integridad» también es capaz de significar que un sujeto puede saberse apoyado por la sociedad en todo el espectro de sus relaciones prácticas consigo mismo; si participa en un mundo de vida social en el que quepa encontrar escalonados esos tres patrones de reconocimiento, sea cual sea su forma de concreción, puede referirse a sí mismo mediante la autoconfianza, la autoestima y el autoaprecio” (<xref ref-type="bibr" rid="B12">Honneth 1992</xref>:87).</p>
+         <p>Reconocerse mutuamente en estas tres dimensiones es lo moralmente correcto, porque son valiosas en sí mismas y porque son las condiciones intersubjetivas de la autorrealización sin distorsión o daño. La autorrealización constituye de esta manera un proceso de realización espontánea de los objetivos existenciales elegidos por cada sujeto. “Sin la suposición de un cierto grado de autoconfianza, de una autonomía garantizada por ley y de seguridad sobre el valor de las propias capacidades, no es posible el alcance de la autorrealización. La reproducción de la vida social se cumple bajo el imperativo de un reconocimiento recíproco, ya que los sujetos solo pueden acceder a una autorrealización práctica si aprenden a concebirse a partir de una perspectiva normativa con sus compañeros de interacción” (<xref ref-type="bibr" rid="B7">Honneth 1997</xref>:158).</p>
+         <p>Es importante destacar que la justicia en la obra de Honneth es una idea reguladora más que algo que puede lograrse de una vez. Es en las luchas por el reconocimiento donde se juegan los cambios normativos, por lo cual el logro de la justicia, que implica sobreponerse a una situación de desprecio o agravio moral, implica conflictos que posibilitan el progreso social. Honneth se refiere a la lucha por la comunidad y por estar integrado en ella. En consecuencia, pone como principios de las luchas sociales los sentimientos morales de indignación devenidos por el no reconocimiento y la no autorrealización y, por ende, el no alcance de autonomía. A criterio del autor, “las confrontaciones y las luchas se entienden mejor si se toma también en consideración la gramática moral que se articula en el trasfondo. Entender el conflicto y la contraposición a partir de disposiciones morales y normativas, y no solo utilitarias” (Honneth 2010:49). Esto reafirma su criterio respecto de las teorías distributivas de la justicia y da cuenta de su enfoque inicial del reconocimiento abocado a explicar las estructuras sociales a través de las relaciones intersubjetivas que sostienen los sujetos. La insistencia en la dimensión moral de las luchas sociales pone el foco, tanto teórico como práctico, en el sentido normativo de las experiencias de injusticia.</p>
+         <p>
+            Para referirse a las motivaciones de las luchas sociales,
+            <xref ref-type="bibr" rid="B6">Honneth (1996</xref>
+            ) identifica un polo opuesto al reconocimiento positivo en formas de menosprecio que implican un reconocimiento erróneo o dañado. Reconoce así tres tipos de heridas morales: a) heridas morales elementales, aquellas que le quitan a una persona la seguridad de poder disponer de su bienestar físico; b) heridas morales cuya particularidad consiste en el irrespeto de la autoconciencia moral de las personas, y c) heridas morales en las cuales a una o a más personas se les demuestra mediante humillación o falta de respeto que sus capacidades no merecen ningún reconocimiento. Es importante resaltar que este polo negativo es el que, a su consideración, permite una entrada preliminar al orden normativo de la sociedad en forma de estructuras ausentes o dañadas. En la teoría del reconocimiento, los seres humanos necesitan la afirmación de los demás para verse a sí mismos como dignos de afirmación. La autoconfianza y la autoestima son también aspectos vitales de la relación positiva con el sí mismo que los sujetos deben tener para poder llevar bien la propia vida.
+         </p>
+         <p>En este sentido, la integridad psíquica del “yo” depende de que estas “auto-relaciones” prácticas estén al menos mínimamente en su lugar. Los seres humanos no nacen con estas auto-relaciones, las aprenden a través de procesos exitosos de socialización e interacción social. Las auto-relaciones se adquieren a través de la internalización de las actitudes afirmativas (amor, respeto y aprecio) de los demás. “Esta dependencia del reconocimiento explica la vulnerabilidad misma de cada individuo a las experiencias de falta de reconocimiento” (<xref ref-type="bibr" rid="B14">O’Neill y Smith 2012</xref>:6). Más adelante veremos cómo en las aportaciones actuales de Honneth el reconocimiento recíproco como fundamental en la constitución psíquica del “yo” y del “nosotros”, va a cambiar por una donde las experiencias de agravio moral se van a corresponder con expectativas morales insatisfechas en relación con las instituciones sociales, y menos en relación con otros sujetos.</p>
+         <p>De este modo, una conciencia moral de falta de respeto está arraigada en el sentido intrínseco del “yo”, que está formado por las relaciones intersubjetivas reconocibles con otros en las diversas etapas de la socialización. La idea central de este enfoque es que los recursos para la reflexión crítica son inherentes a las prácticas de socialización reconocibles. “Lo que motiva a los individuos a poner en tela de juicio el orden moral prevaleciente y participar en una resistencia, es la convicción moral de que con respecto a sus propias situaciones, los principios del reconocimiento considerados legítimos, se aplican de manera incorrecta o inadecuada” (<xref ref-type="bibr" rid="B15">Schmitz 2018</xref>:110). Las expectativas de reconocimiento así “contienen un potencial crítico que puede comprometer una dinámica de transformación social” (<xref ref-type="bibr" rid="B5">Deranty 2016</xref>:16). Es importante considerar que la moral representa aquí “la esencia de los criterios que los sujetos están obligados a asumir recíprocamente para asegurar en común las condiciones para una integridad personal” (<xref ref-type="bibr" rid="B6">Honneth 1996</xref>:182). Por ende, si una persona es excluida sistemáticamente de las relaciones de reconocimiento, es altamente improbable que pueda desarrollar y mantener una autorrelación positiva e identificar y perseguir sus propios objetivos en la vida.</p>
+         <p>Para el autor la lucha no es de los individuos entre sí o contra las fuerzas coactivas de la sociedad, la lucha por el reconocimiento sería más bien una lucha a favor de una sociedad que posibilite la autorrealización, entendida esta como experiencias positivas en las tres esferas que permiten la justicia social.</p>
+      </sec>
+      <sec>
+         <title>Las experiencias del sujeto en las sociedades contemporáneas: un modelo analítico posible considerando grados de justicia social</title>
+         <p>En este apartado se propone un modelo analítico que permite pensar las experiencias del sujeto moderno agrupando las esferas propuestas por Honneth en grados. Los grados dan cuenta de la manera en que un individuo va a estar más o menos integrado a la sociedad y, en consecuencia, también permite evidenciar esquemáticamente cuando hay una mayor proliferación de formas de menosprecio y agravio moral que impiden que ciertos individuos y grupos gocen de relaciones sustentadas en principios morales de justicia reconocibles.</p>
+         <p>El modelo presentado, si bien toma las aportaciones más hermenéuticas de Honneth, no desconoce sus trabajos recientes que dan cuenta de un giro en el reconocimiento hacia la comprensión de un marco normativo institucional que no satisface las expectativas del sujeto. Su propuesta más actual es que “los individuos no recogen adecuadamente el contenido normativo de instituciones verdaderamente modernas que se basan en procesos reconocibles” (<xref ref-type="bibr" rid="B18">Thompson 2019</xref>:11), o sea, que los individuos no captan de una forma adecuada los patrones de reconocimiento institucionalizados respecto de los cuales se produce su interacción social. Este cambio ha sido objeto de varias críticas. Por un lado, Honneth se distancia de sus primeros escritos donde brindaba un peso psicológico significativo del reconocimiento en la constitución del sujeto, y por otro, esta nueva comprensión institucional hace que el sujeto pierda su capacidad de agencia y con ello la teoría se despoja de su posible potencial para la emancipación y la comprensión del conflicto como clave para el cambio social. Más allá de este giro, el modelo de los grados presentado sirve para potenciar la observación crítica de las diferentes experiencias sociales que constituyen a los sujetos y que configuran su acceso a la justicia social, y se sustenta tanto en los aportes iniciales como en los más actuales del autor.</p>
+         <p>El modelo analítico se basa en la visión más hermenéutica, sin dejar de reconocer el rol de las instituciones modernas en el comportamiento de las esferas. “Porque los mecanismos de reconocimiento modernos generalmente configuran las relaciones sociales a partir de las estructuras y funciones de las instituciones existentes” (<xref ref-type="bibr" rid="B18">Thompson 2019</xref>:21). En este sentido, se parte de la consideración de que las esferas se encuentran coactadas por un horizonte moral dominante que requiere autoafirmarse y, en esa autoafirmación, produce los contenidos morales que necesita y que sustentan finalmente un tipo de justicia social. Producir los contenidos morales que permiten la legitimación de ciertos tipos de relaciones sociales, implica que cada sociedad produce la forma en que se reconocerá a cada individuo o grupo, dado que las normas morales no son neutrales. Son el resultado de la “capacidad de los grupos dominantes para articularlas en un lenguaje universal y lógicamente coherente que les permite justificar su dominación social” (<xref ref-type="bibr" rid="B4">Deranty 2004</xref>:306). Si bien para Honneth leer críticamente a Carl Marx, Pierre Bourdieu y Michael Foucault fue fundamental como antecedente para proponer las bases del conflicto y la lucha, en su obra no brinda suficiente peso a cómo el poder, las jerarquías y la dominación son centrales en el reconocimiento y lo corrompen, en la medida en que las formas de reconocimiento responden a contenidos normativos que no necesariamente conducen a un mayor progreso moral para todos los individuos como él consideraba.</p>
+         <p>Una de las críticas centrales al autor es la de tener una “versión idealizada de la modernidad” (<xref ref-type="bibr" rid="B4">Deranty 2004</xref>:317) y de las instituciones que pautan los valores morales reconocibles. Sin embargo, Honneth tampoco se muestra ajeno a las controversias morales de las sociedades capitalistas. En su artículo Brutalization of the social conflicts: struggles for recognition in the early 21st century expresa su preocupación respecto de la gramática moral de las sociedades capitalistas actuales: “Durkheim habría llamado a ese estado social, en el que los principios morales institucionalizados pierden cada vez más su función de ofrecer a los miembros de la sociedad oportunidades legítimas de reconocimiento recíproco, “anomia”. Hoy también podríamos hablar de una patología social: para aquellos que no tienen acceso a las esferas establecidas de reconocimiento, tal situación significa ya no tener un camino por el cual ganar el respeto propio al participar en la vida de la sociedad. Una parte de la lucha por el reconocimiento, es decir, la realizada desde abajo […] ahora tiene lugar en la forma brutal de simplemente luchar por la visibilidad pública o el respeto compensatorio: porque uno ya no está incluido en las arenas oficiales, sancionadas socialmente, donde se puede adquirir respeto. [Y agrega] Lo que queda es solo una defensa obstinadamente recalcitrante de los propios intereses sin tener un medio legítimo de reconfigurarlos como reclamos que son procesables públicamente. […] la lucha por el reconocimiento en las últimas décadas ha perdido […] su base moral (Honneth 2012:17-18).</p>
+         <p>En consecuencia, es posible encontrar en el autor una crítica a su propia teoría del reconocimiento, dado que sin las consideraciones sobre cómo se produce lo social en las sociedades capitalistas contemporáneas, la teoría de la justicia a partir de las esferas del reconocimiento queda inoperante, porque el logro del reconocimiento ya no está basado en principios morales reconocibles y compartidos por todos, y perfectibles en la medida que la sociedad se autorregula en el propia tensión de los conflictos sociales, sino en principios utilitarios e individuales. A lo que se refiere Honneth es cómo en las sociedades capitalistas neoliberales, ciertos sujetos se encuentran completamente fuera de los principios morales reconocibles, ello hace que su lucha no traiga consigo una discusión pública sobre principios morales erróneos a transformar, sino más bien que el hacer valer ciertos principios, que se ubican en la periferia del horizonte moral dominante, implica procesos de lucha que pueden llegar a formas muy violentas. En contraste, a consideración de Thompson: “el proceso de socialización produce una deformación de las relaciones sociales reconocibles, por lo que es más probable que dichas relaciones conduzcan al consenso con el orden prevaleciente que a su crítica” (2019:23). De este modo, resulta fundamental que el modelo se comprenda pensando que el horizonte moral está coactado, y que, en principio, todos los sujetos pueden sentirse reconocidos de alguna manera en él porque las formas de reconocimiento son producidas por el horizonte moral en el que participan y, por otro lado, que las luchas por el reconocimiento se gestan en relación con dicho horizonte moral.</p>
+         <p>El modelo de grados de justicia social que se propone en la <xref ref-type="table" rid="t1">Tabla 1</xref> remite a la calidad de las relaciones intersubjetivas que son resultado de principios de reconocimiento institucionalizados en cada sociedad. La tabla se refiere a grados de justicia social que se materializan a través del comportamiento de las esferas.</p>
+         <p>Se propone un grado máximo, un grado medio y un grado mínimo de justicia social. Se debe partir diciendo que puede haber múltiples combinaciones de las esferas de reconocimiento en las diversas situaciones sociales y experiencias en las que los sujetos participan y, por ende, cada individuo puede ser partícipe de relaciones que propician o no un reconocimiento justo. La forma esquemática de presentar el modelo a la manera de tabla es inversa a las dinámicas sociales que él puede representar. En este sentido, no es rígido, se basa en contenidos morales que pueden ser variables. Esto implica variabilidad en la propia trayectoria del sujeto (impacto de las relaciones de reconocimiento reconocibles), variabilidad en el tiempo respecto de los contenidos morales dominantes en una misma sociedad y variabilidad entre horizontes normativos pertenecientes a diferentes sociedades. Se puede analizar también que dentro de cada grado puede haber matices diversos que permiten considerar cuán disímiles pueden ser las experiencias de los sujetos, o sea, puede haber cuántos subgrados permita el comportamiento de cada una de las esferas.</p>
+         <p>Sin embargo, si bien la variabilidad en la experiencia del sujeto es evidente, ello no necesariamente va a implicar variabilidad en el grado de justicia o en el acceso a formas de reconocimiento más positivas, o sea, ello no va a implicar que el balance final de su experiencia en cada momento sea cada vez más positivo. En el proceso de socialización es probable que los intercambios se produzcan entre sujetos que se han socializado y han conformado su autocomprensión a partir de principios morales similares. En la trayectoria del sujeto hay variabilidad en la misma medida en que la identidad nunca es un proceso acabado, sin embargo, no se podría afirmar lo mismo entre grados, porque las relaciones sociales reconocibles se encuentran enquistadas y se sustentan en patrones que hacen reproducir los mismos códigos de reconocimiento para ciertos grupos y, en consecuencia, los mismos principios morales de una sociedad en donde se ven reflejados.</p>
+         <p>Se podría decir que la mayoría de los individuos ostentan un grado medio de justicia, y se juega en sus prácticas cotidianas la posibilidad de generar un cambio en ciertos principios reconocibles, sin que puedan aspirar a un grado máximo de justicia, sin menosprecio en algún aspecto de su experiencia de vida. Es importante considerar que las esferas del reconocimiento en esta propuesta no se encuentran escalonadas, sino que todas están interactuando a la vez en la continua configuración del sujeto en las relaciones reconocibles. Si se analizan los grados de este modo podríamos observar que un sujeto puede hacer valer sus derechos y se le aprecia por el trabajo realizado, sin embargo, tiene relaciones afectivas completamente dañadas o las relaciones intersubjetivas de reconocimiento pueden ser erróneas en la esfera del aprecio social por el aporte que realiza a la comunidad en términos de trabajo, sin embargo, tiene un reconocimiento afectivo fuerte y se siente medianamente reconocido jurídicamente.</p>
+         <p>
+            <table-wrap id="t1">
+               <label>Tabla 1</label>
+               <caption>
+                  <title>Grados de justicia social y experiencia de los sujetos en las sociedades modernas</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-66-00333-tab1.png" />
+            </table-wrap>
+         </p>
+         <p>Este ejemplo permite comprender también que cada esfera tiene igual importancia en la experiencia del sujeto. En el apartado anterior, cuando se hizo alusión a las esferas, quedó claro que para Honneth la esfera afectiva posee un particularismo moral en la medida en que se produce en un marco estrecho, sin embargo, esta esfera que se materializa básicamente en relaciones íntimas familiares o afectivas propiamente tal, es crucial en los procesos continuos de socialización del sujeto, y también es central para fomentar la autoestima necesaria para enfrentar las experiencias sociales devenidas del comportamiento de las otras esferas. Igualmente es una esfera donde el horizonte moral normativo ya ha pautado los contenidos socializables, por lo cual, al igual que la esfera jurídica o la referida al aprecio social, su contenido moral es moldeable, a la que vez que continuamente reproducible.</p>
+         <p>Por otro lado, la consideración de un acceso medio a la justicia resulta muy significativa y potente, en la medida en que las formas de reconocimiento no alcanzan su potencial suficiente si se observan desde polos opuestos (reconocimiento positivo-reconocimiento dañado). La variedad de experiencias que implica el término medio da cuenta de que las valoraciones positivas generalmente estarán relacionadas con las negativas en la constitución y experiencias de los sujetos y grupos.</p>
+         <p>Con relación al primer grado de justicia, el que da cuenta de un reconocimiento máximo (extremo positivo), podría decirse entonces que no existe. No se pueden encontrar experiencias positivas de reconocimiento puro (extremo positivo) tal cual se exponen en el modelo que aparece en la tabla, porque el reconocimiento erróneo se envuelve de diferentes maneras en las practicas cotidianas de los sujetos que están atravesadas por contenidos morales dominantes. En este sentido, y de acuerdo con Sebrechts, Tonkens y Da Roit: “el reconocimiento dañado a menudo forma parte del reconocimiento” (2019:4). Esto implica que el reconocer puede incluir formas de menosprecio o que la afirmación implica valerse de un desprecio explícito. Bajo este criterio sería cuestionable el ideal de la teoría que da cuenta de que, a mayor reconocimiento, más justicia social, y con ello el que las sociedades modernas van a tender a un progreso moral y evolución social.</p>
+         <p>Ahora, si se comprenden los grados de justicia desde las aportaciones más actuales de Honneth, o sea pensando cómo la estructura normativa juega un rol fundamental en la construcción del sujeto en relación con otros, tendríamos que partir considerando cómo los grados de justicia social responden a construcciones sociales dominantes que condicionan las prácticas de los sujetos y los reconocimientos mutuos. Estaríamos confirmando que las experiencias del sujeto se construyen en las relaciones intersubjetivas de un reconocimiento, que están coactadas por intereses específicos de grupos dominantes, por lo cual los grados de justicia, y el contenido de la justicia en sí mismo, depende de verdades específicas que circulan, se legitiman y se instalan en la conciencia de los sujetos. Lo que pasa con el sujeto, entonces, es que queda complemente supeditado a una estructura que moldea y atrofia sus posibilidades de lucha, desde el mismo instante en que genera las formas en que se reconoce a sí mismo dentro de la sociedad. A consideración de Thompson: “las fuerzas que generan patologías sociales, específicamente las consecuencias alienantes y anómicas de las relaciones sociales modernas gobernadas por el capitalismo, socavan los requisitos de socialización para el reconocimiento. Los fuertes poderes de integración de las instituciones modernas son capaces de ‘capturar’ el proceso de reconocimiento y colonizarlo para sus propios fines y propósitos” (<xref ref-type="bibr" rid="B18">Thompson 2019</xref>:12).</p>
+         <p>Por otro lado, si observamos el grado mínimo de justicia, se comprende que, si una persona está privada de contactos sociales duraderos, no tiene un trabajo con un salario digno o no tiene acceso a la prestación de asistencia social, entonces vive sufriendo privación de reconocimiento. La construcción subjetiva del sujeto en estos casos pasa por procesos de reificación. El concepto de reificación se refiere a una situación en que se ha producido un olvido del reconocimiento existencial. “Bajo ciertas circunstancias, conducentes a dicho olvido, es concebible, por tanto, que resulte imposible el ejercicio de cualidades consustanciales a nuestra existencia que sí se manifiestan bajo otras circunstancias no patológicas. La reificación tiende a la destrucción o deformación de las posibilidades de manifestación de la cualidad humana del reconocimiento existencial, de una relación de implicación respecto de sí mismo y de su entorno” (<xref ref-type="bibr" rid="B2">Basaure 2011</xref>:82).</p>
+         <p>El reconocimiento que ostentan estas personas es un reconocimiento dañado, se sustenta y reproduce en el daño moral. Tiene su base en relaciones de poder jerarquizadas que se incrustan en las configuraciones del sujeto y son capaces de rutinar ciertos tipos de normas u orientaciones de valor respecto de las prácticas propias de los diferentes individuos en una sociedad. En consecuencia, las relaciones de poder son constitutivas de la red de relaciones intersubjetivas en las que actúan los individuos, se articulan en sus experiencias y lo constituyen. Para Seglow: “el reconocimiento erróneo es generalizado, porque afecta a los miembros de grupos desfavorecidos en prácticamente todos los aspectos de sus vidas. Es sistemático porque es producido por instituciones estructuralmente arraigadas. Y debido a que es generalizado y sistemático, el reconocimiento también es sustancial, suficiente para impedir que sus víctimas logren una relación adecuada consigo mismos” (Seglow 2012:139). En consecuencia, las esferas del reconocimiento no pueden ser consideradas fuera de relaciones de poder que configuran y definen las prácticas y las auto-relaciones de los sujetos consigo mismos.</p>
+         <p>En general, se podría afirmar que el acoplamiento del sujeto al sistema hace que se perpetúen reconocimientos dañados, que impiden y limitan la propia lucha por la reivindicación de derechos. Con esto se distorsiona el propio sentido moral de la lucha hacia la integración para la autorrealización planteado por Honneth: la autorrealización nunca será posible. “Cuanto más la reificación de la conciencia y de las relaciones grupales sea fruto de procesos de socialización de las instituciones jerárquicas tanto más el reconocimiento no estará sujeto a fines emancipatorios. El resultado no es una creciente conciencia moral crítica de los males sociales o morales, sino una aceptación pasiva cada vez mayor del orden social predominante y una eficacia creciente de la dominación de las relaciones sociales muchas por unos pocos” (<xref ref-type="bibr" rid="B18">Thompson 2019</xref>:19).</p>
+         <p>Por otro lado, del modelo deriva un análisis relativo a la variabilidad de los horizontes morales para cada sociedad. Esta variabilidad implica pensar que la presencia de los grados (y cómo los sujetos los ostentan o no) es variable en cada contexto, porque se mueven justamente los contenidos que sustentan las relaciones recíprocas reconocibles. De este modo, es probable que en una sociedad hipotética la mayoría de los individuos puedan encontrarse en el grado medio de justicia social, mientras que en otra sociedad se visualice un número mayor de individuos, que por sus relaciones intersubjetivas de reconocimiento, se ubican en el grado mínimo de justicia y así podrían ocurrir variaciones diversas que aluden a sociedades donde las patologías sociales o injusticias son más evidentes y permanentes para ciertos grupos, mientras que en otras el horizonte moral ha resuelto conflictos que permiten situar a los individuos en un grado medio.</p>
+         <p>Por último, la propuesta analítica presentada en este epígrafe solo es aplicable en la medida en que se construye el horizonte normativo en una sociedad específica (considerando esas tres esferas para la autorrealización que definen la justicia y las relaciones de poder que lo atraviesan) y se identifican aquellos individuos y grupos que se encuentran en conflicto respecto del orden institucional de reconocimiento.</p>
+      </sec>
+      <sec>
+         <title>Conclusiones</title>
+         <p>El presente artículo explora los rendimientos de la teoría de la justicia de Axel Honneth para comprender las experiencias del sujeto en las sociedades contemporáneas. Para esto primeramente define la teoría de la justicia a través de las esferas del reconocimiento y posteriormente construye un modelo analítico posible considerando la justicia social a través de grados. De este modo se proponen tres grados de justicia, que no son camisas de fuerza a lo social, sino puntos de partida para pensar la constitución y las prácticas de los sujetos en diferentes sociedades. En la definición de cada grado es central el comportamiento de las esferas del reconocimiento (afectiva, jurídica y aprecio social). Las esferas en el modelo no se consideran escalonadas, sino que se piensan con igual valor y la misma capacidad de interacción en la constitución de los sujetos.</p>
+         <p>Si bien es posible concluir que la teoría del reconocimiento tiene un gran potencial para pensar el grado de justicia social que ostentan los sujetos a través de sus experiencias, es importante acotar que para la elaboración del modelo analítico fue fundamental revisitar las principales críticas realizadas a Honneth: el giro institucional del reconocimiento en sus últimos trabajos y la ausencia en sus análisis del poder, las jerarquías y la dominación como bases para fundar una teoría crítica. Esta revisión permitió incorporar en el análisis de la justicia componentes que Honneth no desarrolló con toda la fuerza en su teoría. Por un lado, posibilitó una lectura integrada de las aportaciones iniciales (hermenéuticas) y más actuales (institucionales), y por otro, el comprender las esferas del reconocimiento a la luz del poder que configura ciertos contenidos morales de la justicia, pero no necesariamente contenidos que favorecen un mayor progreso moral en los órdenes sociales que prevalecen.</p>
+         <p>La teoría del reconocimiento sin estas consideraciones pierde por completo su potencial crítico justamente para pensar las experiencias de sufrimiento social. Honneth espera que el horizonte normativo sea capaz de regularse de forma tal que pueda proveer las condiciones necesarias y esperables para la autorrealización de los individuos en sus interacciones sociales. Sin embargo, deja de lado cómo las instituciones sociales coactan el proceso de socialización, interfieren de forma permanente en la conciencia de los sujetos e imponen contenidos morales dominantes que no necesariamente responden a las expectativas de los sujetos o no se corresponden de ninguna manera con ellos. El giro institucional del reconocimiento que presenta el autor en sus trabajos más actuales permite, sin duda, la imbricación y potenciación de las esferas del reconocimiento como espacios que están coactados por verdades dominantes que circulan y configuran de forma permanente las relaciones y las prácticas.</p>
+         <p>En sus últimos trabajos, Honneth se refiere a las complejidades del orden moral en las sociedades capitalistas neoliberales y cómo es posible pensar que las esferas del reconocimiento ya no son el campo de la lucha y el conflicto, porque los individuos luchan por principios que no participan del horizonte moral dominante. No se busca en este escenario el reconocimiento que permite estar integrado a la sociedad bajo ciertas normas “justas”, sino que se lucha por la visibilización o el respeto compensatorio. Este proceso, denominado de patologización de las sociedades contemporáneas y de reificación de la conciencia del sujeto, hace que sea necesario considerar a las esferas del reconocimiento como campos atravesados por estructuras de poder y no como un horizonte normativo moral neutral del que todos participan, sintiéndose recíprocamente reconocidos. Esto permite pensar, además, que efectivamente las esferas del reconocimiento son válidas siempre y cuando se considere que los contenidos morales que componen las esferas para la justicia son relativos, responden generalmente a intereses de grupos dominantes. Así, las experiencias de sufrimiento social del sujeto son previsibles por el horizonte moral normativo, y, por otro lado, existirá un grupo de individuos cuyo sufrimiento moral los conducirá a reconocerse cada vez menos dentro de los parámetros morales dominantes y sus luchas tendrán otros fines.</p>
+         <p>En consecuencia, las esferas del reconocimiento, pensadas a través de grados de justicia, permiten comprender las disímiles experiencias de los sujetos en la vida social. Estas experiencias solo se producen en relaciones intersubjetivas que pueden ser más o menos justas y propiciar una relación consigo mismo que permita al sujeto una forma relativamente apropiada de reconocimiento, pero su adecuación a cada sujeto será producida por un horizonte moral dominante. Como se mostró en este trabajo, el grado máximo de justicia social en principio no existe, si se considera que son escasas sus condiciones de posibilidad en sociedades cada vez más patológicas, en la misma medida en que ciertos tipos de reconocimiento se incrustan y cristalizan en la conciencia de los sujetos. La mayoría de las personas ostentan el grado medio de justicia social, pues pueden sufrir desprecio moral en cualquiera de las esferas a lo largo de su trayectoria de vida y existirá un grupo de individuos que se ubicarán en el grado mínimo de justicia social, donde el daño moral es permanente y sostenido en todas las esferas.</p>
+         <p>Es interesante también resaltar la potencialidad que tiene pensar el reconocimiento a partir de grados de justicia social para comprender procesos colectivos de reconocimiento, o sea, la experiencia de grupos sociales en los que ocurre un aprendizaje moral específico. Por último, el presentar grados de justicia social potencia realizar una entrada más aplicada de la teoría para analizar sociedades diversas como órdenes institucionalizados de ciertas formas de justicia social.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Amalric, F.(2007). "Societal transformation: growth, poverty and recognition".
+               <italic>Development . 50</italic>
+               (1), 136-147. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1057/palgrave.development.1100390 ">https://doi.org/10.1057/palgrave.development.1100390</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Amalric</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Societal transformation: growth, poverty and recognition</article-title>
+               <source>Development</source>
+               <volume>50</volume>
+               <issue>1</issue>
+               <fpage>136</fpage>
+               <lpage>147</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1057/palgrave.development.1100390 ">https://doi.org/10.1057/palgrave.development.1100390 "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Basaure, M.(2011). "Reificación y crítica de las patologías sociales en el marco del proyecto de teoría crítica de Axel Honneth".
+               <italic>Enrahonar. 46</italic>
+               , 75-91. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/enrahonar.193">https://doi.org/10.5565/rev/enrahonar.193</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Basaure</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Reificación y crítica de las patologías sociales en el marco del proyecto de teoría crítica de Axel Honneth</article-title>
+               <source>Enrahonar</source>
+               <volume>46</volume>
+               <issue />
+               <fpage>75</fpage>
+               <lpage>91</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/enrahonar.193">https://doi.org/10.5565/rev/enrahonar.193"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Cortés, F.(2005). "Reconocimiento y justicia. Entrevista con Axel Honneth".
+               <italic>Arreté. Revista de Filosofía. 17</italic>
+               (2), 273-294. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://revistas.pucp.edu.pe/index.php/arete/article/view/2181">http://revistas.pucp.edu.pe/index.php/arete/article/view/2181</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cortés</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Reconocimiento y justicia. Entrevista con Axel Honneth</article-title>
+               <source>Arreté. Revista de Filosofía</source>
+               <volume>17</volume>
+               <issue>2</issue>
+               <fpage>273</fpage>
+               <lpage>294</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://revistas.pucp.edu.pe/index.php/arete/article/view/2181">http://revistas.pucp.edu.pe/index.php/arete/article/view/2181"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Deranty, . , J.(2004). "Injustice, violence and social struggle. The critical potential of Axel Honneth’s theory of recognition".
+               <italic>Critical Horizons. 5</italic>
+               (1), 297-322. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1163/1568516042653549">https://doi.org/10.1163/1568516042653549</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Deranty, .</surname>
+                     <given-names>J-P</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <article-title>Injustice, violence and social struggle. The critical potential of Axel Honneth’s theory of recognition</article-title>
+               <source>Critical Horizons</source>
+               <volume>5</volume>
+               <issue>1</issue>
+               <fpage>297</fpage>
+               <lpage>322</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1163/1568516042653549">https://doi.org/10.1163/1568516042653549"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Deranty, J. (2016).
+               <italic>Between Honneth and Rancière: problems and potentials of a contemporary critical theory of society</italic>
+               . En Honneth, A., Rancière, J., Genel, K (autor.);Recognition or disagreement: a critical encounter on the politics of freedom, equality, and identity.  (33-82).: Columbia University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Deranty</surname>
+                     <given-names>J-P</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Between Honneth and Rancière: problems and potentials of a contemporary critical theory of society</chapter-title>
+               <year>2016</year>
+               <source>Recognition or disagreement: a critical encounter on the politics of freedom, equality, and identity</source>
+               <publisher-name>Columbia University Press</publisher-name>
+               <fpage>33</fpage>
+               <lpage>82</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Honneth, A.(1996). "Reconocimiento y obligaciones morales".
+               <italic>Estudios Políticos.</italic>
+               (14), 173-187. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://e-spacio.uned.es/fez/eserv.php?pid=bibliuned:filopoli-1996-8-6443431F-2BE8-F544-3A97-47F0DA074DF8&amp;dsID=reconocimiento_obligaciones.pdf">http://e-spacio.uned.es/fez/eserv.php?pid=bibliuned:filopoli-1996-8-6443431F-2BE8-F544-3A97-47F0DA074DF8&amp;dsID=reconocimiento_obligaciones.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Honneth</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <article-title>Reconocimiento y obligaciones morales</article-title>
+               <source>Estudios Políticos</source>
+               <volume />
+               <issue>14</issue>
+               <fpage>173</fpage>
+               <lpage>187</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://e-spacio.uned.es/fez/eserv.php?pid=bibliuned:filopoli-1996-8-6443431F-2BE8-F544-3A97-47F0DA074DF8&amp;dsID=reconocimiento_obligaciones.pdf">http://e-spacio.uned.es/fez/eserv.php?pid=bibliuned:filopoli-1996-8-6443431F-2BE8-F544-3A97-47F0DA074DF8&amp;dsID=reconocimiento_obligaciones.pdf"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Honneth, A.,  (1997).
+               <italic>La lucha por el reconocimiento: una gramática moral de los conflictos sociales</italic>
+               . : Crítica Grijalbo Mondadori
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Honneth</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>La lucha por el reconocimiento: una gramática moral de los conflictos sociales</source>
+               <publisher-name>Crítica Grijalbo Mondadori</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Honneth, A.,  (2009).
+               <italic>Crítica del agravio moral: patologías de la sociedad contemporánea</italic>
+               . : Universidad Autónoma Metropolitana
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Honneth</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Crítica del agravio moral: patologías de la sociedad contemporánea</source>
+               <publisher-name>Universidad Autónoma Metropolitana</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Honneth, A.,  (2010).
+               <italic>Reconocimiento y menosprecio. Sobre la fundamentación normativa de una teoría social</italic>
+               . : Katz Editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Honneth</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Reconocimiento y menosprecio. Sobre la fundamentación normativa de una teoría social</source>
+               <publisher-name>Katz Editores</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Honneth, A.(2012). "Brutalization of the social conflict: struggles for recognition in the early 21st century".
+               <italic>Distinktion: Journal of Social Theory . 13</italic>
+               (1), 5-19. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/1600910X.2012.648736">https://doi.org/10.1080/1600910X.2012.648736</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Honneth</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Brutalization of the social conflict: struggles for recognition in the early 21st century</article-title>
+               <source>Distinktion: Journal of Social Theory</source>
+               <volume>13</volume>
+               <issue>1</issue>
+               <fpage>5</fpage>
+               <lpage>19</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/1600910X.2012.648736">https://doi.org/10.1080/1600910X.2012.648736"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Honneth, A., Rancière, J., Genel, K.,  (2016).
+               <italic>Recognition or disagreement: a critical encounter on the politics of freedom, equality, and identity</italic>
+               . : Columbia University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Honneth</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rancière</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Genel</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <source>Recognition or disagreement: a critical encounter on the politics of freedom, equality, and identity</source>
+               <publisher-name>Columbia University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Honneth, A.(1992). "Integridad y desprecio. Motivos básicos de una concepción de la moral desde la teoría del reconocimiento".
+               <italic>Isegoría. 5</italic>
+               , 78-92. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3989/isegoria.1992.i5.339">https://doi.org/10.3989/isegoria.1992.i5.339</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Honneth</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>1992</year>
+               <article-title>Integridad y desprecio. Motivos básicos de una concepción de la moral desde la teoría del reconocimiento</article-title>
+               <source>Isegoría</source>
+               <volume>5</volume>
+               <issue />
+               <fpage>78</fpage>
+               <lpage>92</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3989/isegoria.1992.i5.339">https://doi.org/10.3989/isegoria.1992.i5.339"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Jütten, T.(2017). "Dignity, esteem, and social contribution: a recognition-theoretical view".
+               <italic>Journal of Political Philosophy. 25</italic>
+               (3), 259-280. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jopp.12115">https://doi.org/10.1111/jopp.12115</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jütten</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Dignity, esteem, and social contribution: a recognition-theoretical view</article-title>
+               <source>Journal of Political Philosophy</source>
+               <volume>25</volume>
+               <issue>3</issue>
+               <fpage>259</fpage>
+               <lpage>280</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jopp.12115">https://doi.org/10.1111/jopp.12115"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               O’Neill, S., Smith, N.,  (2012).
+               <italic>Recognition theory as social research</italic>
+               . , UK: Palgrave Macmillan
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>O’Neill</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>N.H</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Recognition theory as social research</source>
+               <publisher-loc>UK</publisher-loc>
+               <publisher-name>Palgrave Macmillan</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Schmitz, V.,  (2018).
+               <italic>Axel Honneth and the critical theory of recognition</italic>
+               .  Berlin: Springer
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schmitz</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Axel Honneth and the critical theory of recognition</source>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Sebrechts, M., Tonkens, E., Da Roit, B.(2019). "Unfolding recognition: an empirical-theoretical contribution to the concept".
+               <italic>Distinktion: Journal of Social Theory. 20</italic>
+               (2), 173-189. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/1600910X.2019.1586741">https://doi.org/10.1080/1600910X.2019.1586741</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sebrechts</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tonkens</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Da Roit</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Unfolding recognition: an empirical-theoretical contribution to the concept</article-title>
+               <source>Distinktion: Journal of Social Theory</source>
+               <volume>20</volume>
+               <issue>2</issue>
+               <fpage>173</fpage>
+               <lpage>189</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/1600910X.2019.1586741">https://doi.org/10.1080/1600910X.2019.1586741"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Seglow, J. (2012).
+               <italic>Recognition and religious diversity: the case of legal exemptions</italic>
+               . En O’Neill , S., Smith, N (autor.);Recognition theory as social research.  (127-148).: Palgrave Macmillan UK
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Seglow</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Recognition and religious diversity: the case of legal exemptions</chapter-title>
+               <year>2012</year>
+               <source>Recognition theory as social research</source>
+               <publisher-name>Palgrave Macmillan UK</publisher-name>
+               <fpage>127</fpage>
+               <lpage>148</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Thompson, M.(2019). "Hierarchy, social pathology and the failure of recognition theory".
+               <italic>European Journal of Social Theory. 22</italic>
+               (1), 10-26. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1368431018768625">https://doi.org/10.1177/1368431018768625</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thompson</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Hierarchy, social pathology and the failure of recognition theory</article-title>
+               <source>European Journal of Social Theory</source>
+               <volume>22</volume>
+               <issue>1</issue>
+               <fpage>10</fpage>
+               <lpage>26</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1368431018768625">https://doi.org/10.1177/1368431018768625"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

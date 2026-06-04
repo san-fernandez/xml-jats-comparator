@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2018000100001</article-id>
+			<article-id pub-id-type="publisher-id">00001</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Boaventura de Sousa Santos y Paul Feyerabend sobre la proliferación de alternativas</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Boaventura de Sousa Santos and Paul Feyerabend about the proliferation of alternatives</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Aguirre-García</surname>
+						<given-names>Juan Carlos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">(jcaguirre@unicauca.edu.co) Departamento de Filosofía, Universidad del Cauca (Popayán, Colombia) ORCID: 0000-0003-0938-2730</institution>
+					<institution content-type="normalized">Universidad del Cauca</institution>
+					<institution content-type="orgdiv1">Departamento de Filosofía</institution>
+					<institution content-type="orgname">Universidad del Cauca</institution>
+					<addr-line>
+						<named-content content-type="city">Popayán</named-content>
+					</addr-line>
+					<country country="CO">Colombia</country>
+					<email>jcaguirre@unicauca.edu.co</email>
+				</aff>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2018</year>
+			</pub-date>
+			<!--<volume>00</volume>-->
+			<issue>61</issue>
+			<fpage>1</fpage>
+			<lpage>11</lpage>
+			<history>
+				<date date-type="received">
+					<day>25</day>
+					<month>10</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>03</day>
+					<month>12</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>Este trabajo se propone revisar la tesis de la proliferación de alternativas, expuesta por Boaventura de Sousa Santos, a la luz de algunas críticas a la tesis de la proliferación de teorías, expuesta por Paul Feyerabend. Se defiende que, aunque no de modo explícito, hay una afinidad entre ambas tesis y, en consecuencia, las debilidades de la segunda afectan a la primera. No obstante, el objetivo básico consiste en mostrar cómo propuestas emergentes, como la ecología de los saberes, antes que insistir en su carácter contraepistemológico, podrían beneficiarse de una discusión epistemológica amplia.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>In this paper I review the thesis about the proliferation of alternatives by Boaventura de Sousa Santos, from some criticisms to the thesis of the proliferation of theories by Paul Feyerabend. I claim that, though not in explicit way, there is an affinity between them, therefore the weakness from the second one affects the first one. However, the point is to show how some emergent proposals, as the ecology of knowledges, could benefit from a full epistemological discussion, instead of insisting on its counter-epistemological nature.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>Santos</kwd>
+				<kwd>epistemología</kwd>
+				<kwd>Feyerabend</kwd>
+				<kwd>proliferación</kwd>
+				<kwd>razón</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Keywords</bold>:</title>
+				<kwd>Santos</kwd>
+				<kwd>epistemology</kwd>
+				<kwd>Feyerabend</kwd>
+				<kwd>proliferation</kwd>
+				<kwd>reason</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="13"/>
+				<page-count count="11"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Como confrontación con la epistemología ‘clásica’, el pensador Boaventura de Sousa Santos, uno de los líderes de las llamadas Epistemologías del Sur, ha propuesto su tesis del “pensamiento abismal como ecología de los saberes”, de la cual afirma que es una “contraepistemología”. Entre los factores a los que atribuye su origen está “la proliferación sin precedente de alternativas que, sin embargo, no se ofrecen conjuntamente bajo el paraguas de una única alternativa global” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:43). Aunque no hay referencias explícitas, la tesis de Santos recuerda los planteamientos del filósofo de la ciencia Paul K. Feyerabend acerca de la proliferación de alternativas al punto de vista aceptado, de las cuales afirma que son deseables ya que promueven el pleno florecimiento de las facultades humanas; en su famoso tratado <italic>Against Method</italic> afirma Feyerabend: “Aquí, como en cualquier otra parte, el conocimiento se obtiene por una multiplicidad de perspectivas en vez de la aplicación determinada de una ideología preferida. Y nos damos cuenta de que la proliferación (proliferation) tiene que reforzarse con agentes no científicos cuyo poder es suficiente para superar las instituciones científicas más poderosas” (<xref ref-type="bibr" rid="B8">Feyerabend 1993</xref>:37). Tal vez porque las propuestas de las Epistemologías del Sur son consideradas en contextos académicos regularmente ajenos a la filosofía, no ha recibido la suficiente atención por parte de la epistemología ‘clásica’.</p>
+			<p>No obstante, si las tesis de Santos y Feyerabend coinciden en cuanto al asunto de la proliferación de alternativas, es preciso preguntar si las réplicas hechas a Feyerabend en el ámbito de la filosofía de la ciencia tienen el mismo efecto en la propuesta de la ecología de los saberes de Santos, esto es, si las críticas que debilitan los argumentos feyerabendianos, también permiten cuestionar aquellos que sustentan la contraepistemología de Santos. En este texto me propongo responder a tal cuestión.</p>
+			<p>Para ello, comenzaré reconstruyendo la tesis central de Santos acerca de la ecología de los saberes, haciendo especial énfasis en la tesis de la proliferación de alternativas; posteriormente, compararé dicha tesis con la propuesta de Feyerabend, mostrando sus coincidencias y especificidades. En un segundo momento, expondré algunos argumentos que confrontan las tesis de Feyerabend; de manera especial, revisaré la crítica que hace Peter Achinstein en <italic>Proliferation: is it a good thing?</italic> Finalmente, examinaré si los argumentos contra la tesis de Feyerabend pueden aplicarse a la tesis de la proliferación propuesta por las Epistemologías del Sur. Concluyo que, de aplicarse, habría fuertes indicios para suponer que la propuesta de la ecología de los saberes requiere un sustento mayor del que hasta ahora parece respaldarla.</p>
+			<p>La importancia de este trabajo radica en que, si bien los epistemólogos del sur permiten otear nuevos horizontes para aclarar asuntos propios del conocimiento, no toda propuesta es válida por sí misma, esto es, requiere superar el rigor que exige la discusión razonada.</p>
+		</sec>
+		<sec>
+			<title>La proliferación en el contexto de la ecología de los saberes</title>
+			<p>Boaventura de Sousa Santos presenta la ecología de los saberes como una alternativa tanto a lo que él denomina “la crisis del paradigma dominante” (<xref ref-type="bibr" rid="B4">Santos 2009</xref>:31) -esto es, a la imagen de ciencia que surge en la modernidad y va, aproximadamente, hasta mediados del siglo pasado-, como a la respuesta posmoderna a tal crisis. Respecto a la crisis, Santos llega a conclusiones similares a las expuestas por filósofos como Husserl, en especial lo concerniente con la matematización de la naturaleza, o Heidegger, en lo que tiene que ver con la escisión entre la naturaleza y lo humano; no obstante, sus análisis se respaldan no tanto en la filosofía, sino en posturas científicas que se dan dentro del paradigma dominante mismo, especialmente en el ámbito de la física y la matemática. Según Santos, “la identificación de los límites, de las insuficiencias estructurales del paradigma científico moderno es el resultado del gran avance en el conocimiento que él propició” (<xref ref-type="bibr" rid="B4">Santos 2009</xref>:31). Como dato relevante, el autor señala que “la reflexión es llevada a cabo predominantemente por los propios científicos, por científicos que adquirieron una competencia y un interés filosóficos para problematizar su práctica científica” (<xref ref-type="bibr" rid="B9">Santos 2009</xref>:35); ejemplos de estos son Einstein, Heisenberg y Bohr, Gödel o Ilya Prigogine.</p>
+			<p>Respecto a la respuesta posmoderna, pese a que Santos recoge todas las ideas de este movimiento, se distancia en tanto según su tesis del “pensamiento abismal”, que traza una línea divisoria entre “este lado de la línea” y “el otro lado de la línea” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:21), tal respuesta aún estaría anclada en “este lado de la línea”. Por su parte, la ecología de los saberes, que se plantea como un pensamiento posabismal, “no es un pensamiento derivado: implica una ruptura radical con los modos occidentales modernos de pensar y actuar” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:40). De acuerdo con esto, la ecología de los saberes se convierte en un “paradigma emergente” para responder a la crisis del pensamiento abismal y para superar la respuesta posmoderna.</p>
+			<p>En la presentación que Santos hace del pensamiento ecológico, destaca siete “fundamentos”: “copresencia”, “la diversidad inagotable de la experiencia del mundo”, “saberes e ignorancias”, “la ciencia moderna como parte de una ecología de saberes”, “la ecología de saberes, jerarquías y pragmática”, “inconmensurabilidad y traducción” y “mythos y clinamen”. Como el objetivo de este texto no es presentar la propuesta de la ecología de los saberes, sino lo concerniente a la proliferación de las teorías, es preciso indicar que ella se encuentra mencionada en el apartado: “Saberes e ignorancias”. Este apartado se dedica a exponer una dualidad entre la “diversidad sociocultural del mundo” y la creencia en la ciencia “como la única forma válida y exacta de conocimiento”; no obstante, para el autor, el que se reconozca lo primero parece no afectar lo segundo, esto es, no se da “necesariamente el reconocimiento de la diversidad epistemológica en el mundo” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:43). En tal sentido, el pensamiento ecológico radicalizaría lo primero: “la nueva emergencia política de gentes y visiones del mundo al otro lado de la línea como compañeros de la resistencia global al capitalismo” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:43) y atacaría lo segundo a través de “la proliferación sin precedentes de alternativas que, sin embargo, no se ofrecen conjuntamente bajo el paraguas de una única alternativa global. La globalización contrahegemónica sobresale en la ausencia de una tal alternativa no singular. La ecología de los saberes persigue proveer una consistencia epistemológica para un pensamiento propositivo y pluralista” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:43). Lo que antes se presentaba como una contraepistemología, parece asumir ahora un rol de fundamentación, es decir, de dar “consistencia epistemológica” desde el pluralismo: contra la monocultura de la ciencia, se propone la proliferación de alternativas.</p>
+			<p>Por lo menos en los textos analizados, no se hace una exposición detallada de lo que el autor entiende por proliferación de alternativas, más allá de la utilización del nombre; sin embargo, cita un ejemplo bastante recurrente cuando se discute este asunto. Por la importancia del mismo para la comprensión del problema, me permito citarlo en extenso, con la advertencia de que pertenece a otro apartado (al de <italic>jerarquía y pragmática</italic>): “Un ejemplo ilustrará los peligros de reemplazar un tipo de conocimiento por otro basado en jerarquías abstractas. En la década del sesenta, los sistemas de irrigación de los campos de arroz de Bali, de mil años de antigüedad, fueron reemplazados por sistemas científicos de irrigación promovidos por los partidarios de la Revolución Verde. Los sistemas de irrigación tradicionales estaban basados en conocimientos ancestrales y religiosos, y fueron utilizados por los sacerdotes de un templo hindú-budista dedicado a Dewi Danu, la divinidad del lago. Estos sistemas fueron reemplazados precisamente porque se consideraban basados en la magia y la superstición, el «culto del arroz», como fueron despectivamente llamados. Sucedió que su reemplazo tuvo resultados desastrosos en los campos de arroz, las cosechas declinaron más de un 50%; fueron tan terriblemente malos, que los sistemas científicos de irrigación tuvieron que ser abandonados para restablecer el sistema tradicional” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:47).</p>
+			<p>Para Santos, el problema fue abordado a partir de dos “sistemas de conocimiento -el religioso y el científico-, ambos concernientes a la misma intervención -irrigar los campos de arroz” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:48). El problema radica, según el autor, en que hubo una incompatibilidad entre tales sistemas, fruto de una evaluación incorrecta prejuiciada por la “superioridad abstracta del conocimiento científico” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:48). De hecho, la evaluación del conocimiento, por lo menos en este caso, debía guiarse por una especie de criterio pragmático. Concluye así: “Treinta años después de la desastrosa intervención técnico científica, modelada por ordenadores -un área de las nuevas ciencias- mostró que las secuencias del mantenimiento del agua usadas por los sacerdotes de la divinidad Dewi Danu eran <italic>más eficientes</italic> que cualquier otro sistema concebible, ya fuera científico o de otro tipo” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:48, énfasis mío). La aplicación de la proliferación de alternativas y la contrahegemonía del discurso científico moderno (que Santos homologa con la ciencia natural) obligará a la reordenación de los saberes, siendo ahora las Ciencias Sociales, de la línea de las Humanidades, el punto de confluencia en el que se absolverán las distinciones que han marcado al discurso científico durante siglos. Uno de los frutos de tal fusión queda ilustrado en la siguiente conjetura del autor: “Dado que la aproximación entre ciencias naturales y ciencias sociales se hará en el sentido de estas últimas, cabrá especular si es posible, por ejemplo, hacer el análisis filológico de un trazado urbano, entrevistar a un pájaro, o hacer observación participante entre computadoras” (<xref ref-type="bibr" rid="B4">Santos 2009</xref>:50).</p>
+			<p>¿En qué consistiría, entonces, la proliferación de alternativas que propone Santos? A partir de lo mencionado, específicamente respecto a la confrontación con la “monocultura de la ciencia”, ilustrado con el ejemplo de los sistemas de irrigación, sería un principio que promueve el pluralismo epistémico o, en sus términos, “la pluralidad de conocimientos heterogéneos” (<xref ref-type="bibr" rid="B4">Santos 2014</xref>:41). Su propósito es forzar la “credibilidad para un conocimiento no científico” (<xref ref-type="bibr" rid="B4">Santos 2014</xref>:44), sin que esto implique desacreditar o abandonar el conocimiento científico, sino tomarlo como un conocimiento más entre otros (Santos habla de interacción, interconexión o interdependencia), toda vez que se parte del principio de incompletitud. No habría, en consecuencia, un conocimiento privilegiado. La única razón para elegir un conocimiento sobre otro sería pragmática: “la preferencia debe darse a la forma de conocimiento que garantice el mayor nivel de participación a los grupos sociales involucrados en su diseño, ejecución y control, y en los beneficios de la intervención” (<xref ref-type="bibr" rid="B4">Santos 2014</xref>:47). A esto denominaré más abajo: “criterio pragmático”.</p>
+		</sec>
+		<sec>
+			<title>Feyerabend sobre la proliferación de alternativas</title>
+			<p>Lo dicho por Santos parece hacer eco de lo expuesto por Feyerabend en la década del sesenta del siglo pasado; en efecto, Feyerabend habla de proliferación de teorías, critica el carácter monolítico de la ciencia moderna y clama por reconocer la implicación entre política y conocimiento. Expondré brevemente las ideas de este autor.</p>
+			<p>En primera instancia, Feyerabend resume su principio de proliferación de esta manera: “Inventar y elaborar teorías que sean inconsistentes con el punto de vista aceptado, incluso si este ha sido altamente confirmado y generalmente aceptado” (<xref ref-type="bibr" rid="B6">Feyerabend 1981</xref>:105). A esta formulación del principio se denominará más abajo como “Proliferación I”. Una metodología que siga este principio será llamada: “metodología pluralista” (<xref ref-type="bibr" rid="B6">Feyerabend 1981</xref>:106). Las razones que sustentarían el principio de proliferación son, según el autor, las siguientes: en primer lugar, que “ninguna teoría está de acuerdo […] con la evidencia disponible” (<xref ref-type="bibr" rid="B6">Feyerabend 1981</xref>:106); en segundo lugar, que “las teorías están de acuerdo con los hechos (como opuestos a las observaciones) solo en cierta medida” (<xref ref-type="bibr" rid="B6">Feyerabend 1981</xref>:106). Finalmente, que “no se necesitan mencionar las ventajas psicológicas que surgen del uso de alternativas, esto es, el que una mente esté inmersa en la contemplación de una teoría singular ni siquiera puede darse cuenta de sus sorprendentes debilidades” (<xref ref-type="bibr" rid="B6">Feyerabend 1981</xref>:106). Ahora bien, el principio no solo promueve la invención y elaboración de alternativas sino, además, “prohíbe la eliminación de teorías antiguas que hayan sido refutadas” (<xref ref-type="bibr" rid="B6">Feyerabend 1981</xref>:107). Según Feyerabend, “tales teorías contribuyen al contenido de sus rivales victoriosas” (<xref ref-type="bibr" rid="B6">Feyerabend 1981</xref>:107).</p>
+			<p>Esta síntesis esbozada por Feyerabend acerca del principio de proliferación será posteriormente ampliada en su famoso tratado <italic>Against Method</italic>, especialmente en los capítulos 2 y 3, en el contexto de lo que él denominó “contrainducción”. Respecto a la proliferación, hay un conocido párrafo en el que Feyerabend sugiere “introducir otros puntos de vista”, homologando esto a la adopción de una “metodología pluralista”: “[el científico] debe comparar sus ideas con otras ideas más bien que con la ‘experiencia’, y debe intentar mejorar, en lugar de excluir, los puntos de vista que hayan sucumbido en esta competición. Procediendo de esta forma, estará dispuesto a retener teorías acerca del hombre y del cosmos que se encuentran en el Génesis, o en el Pimander, estará dispuesto a elaborarlas y a usarlas para medir el éxito de la evolución y de otras concepciones ‘modernas’. Quizás descubra entonces que la teoría de la evolución no es tan buena como generalmente se supone y que debe completarse, o sustituirse enteramente, por una versión corregida y mejorada del Génesis” (<xref ref-type="bibr" rid="B8">Feyerabend 1993</xref>:21).</p>
+			<p>El pluralismo que expone aquí Feyerabend respalda una concepción de conocimiento incompleto y que se escapa de los márgenes en los que la ciencia moderna pretende limitarlo: “el conocimiento es un océano, siempre en aumento, de alternativas incompatibles entre sí (y tal vez inconmensurables); toda teoría particular, todo cuento de hadas, todo mito, forman parte del conjunto que obliga al resto a una articulación mayor, y todos ellos contribuyen, por medio de este proceso competitivo, al desarrollo de nuestro conocimiento” (<xref ref-type="bibr" rid="B8">Feyerabend 1993</xref>:21). No obstante, Feyerabend es consciente de la tozudez del científico quien, basado en la “condición de consistencia”, que le permite blindar una teoría, limitándola solo a la esfera de los hechos, no es capaz de someterla a los más cruentos riesgos en que podría verse implicada a través de un pensamiento no condicionado por un sistema teórico, sino desafiado por las posibilidades más amplias de la mente humana (que es no solo lógica sino también fantasiosa e imaginativa). Es, justamente, esta tozudez, legitimada en la condición de consistencia, la que exige que haya un compromiso político en la instauración del pluralismo metodológico; para Feyerabend, “ocurre con frecuencia que los miembros de la comunidad científica se endurecen y se hacen intolerantes, de modo que la proliferación ha de exigirse desde fuera, por medios políticos” (<xref ref-type="bibr" rid="B8">Feyerabend 1993</xref>:37). Como ejemplo de estas mediaciones no científicas que deben sojuzgar a la institución científica, el autor menciona a la Iglesia, el Estado, el partido, el descontento público, o el dinero.</p>
+			<p>Finalmente, aunque sin la capacidad especulativa de Santos, Feyerabend también plantea escenarios por lo menos sugestivos: “las doctrinas antiguas y los mitos ‘primitivos’ parecen extraños y absurdos solo porque no se conoce su contenido científico o porque está distorsionado por filósofos o antropólogos no familiarizados con el conocimiento astronómico, médico o físico más elemental. El vudú […] constituye uno de estos casos. Nadie lo conoce, pero todo el mundo lo utiliza como paradigma de atraso y confusión. Sin embargo, el vudú posee una base material firme aunque esta todavía no ha sido comprendida de modo suficiente; el estudio de sus manifestaciones podría emplearse para enriquecer, y tal vez incluso para revisar, nuestros conocimientos de fisiología” (<xref ref-type="bibr" rid="B8">Feyerabend 1993</xref>:35).</p>
+			<p>Aunque Feyerabend se distingue de Santos por exponer detalladamente su principio de proliferación, puede verse cómo ambos autores comparten ideas: ambos rechazan la idea de una ciencia monolítica, regulada por las leyes de la lógica; ambos coinciden en que el conocimiento no se agota en la aproximación del científico natural a la naturaleza; ambos promueven la búsqueda de alternativas por fuera del sistema teórico vigente, incluso, por fuera del ámbito científico; ambos ponen en igualdad de estatus las explicaciones científicas con las míticas o religiosas; finalmente, ambos reconocen la importancia que juega lo político tanto en la consolidación del paradigma científico como en la búsqueda de un pluralismo epistémico. Podría decirse, entonces, que lo que Santos expone hoy como vino nuevo ha estado conservado en odres que datan de antaño.</p>
+		</sec>
+		<sec>
+			<title>Críticas a la perspectiva de Feyerabend y su posible impacto en la tesis de Santos</title>
+			<p>El atractivo de las tesis de Feyerabend sobre la proliferación de las teorías encontró muy pronto una réplica por parte del filósofo Peter <xref ref-type="bibr" rid="B1">Achinstein, que ha sido consistente a través de los años. Ya en 1967</xref>, Achinstein publicó un comentario crítico a Feyerabend, bajo el título de “Acute Proliferitis”. Posteriormente este filósofo en una compilación de ensayos en memoria de Feyerabend, reunidos bajo el título <italic>The worst enemy of science?</italic> refina sus críticas en el texto <italic>Proliferation: is it a good thing?</italic>, el cual será la base para este apartado. </p>
+			<p>Según Achinstein, no parece claro lo que Feyerabend tenía en mente cuando formuló el principio de proliferación o, por lo menos, no se tiene claridad respecto a su impacto. Si se toma el principio tal y como lo formuló Feyerabend (Proliferación I), este carece de dientes, pues: “Supongamos que quiero defender las ventajas de cierta teoría aduciendo que explica los hechos de alguna manera. El hacerlo podría involucrar que yo invente una teoría diferente y que entre en conflicto con otra teoría que también explique los hechos pero, demuestro, que es incompatible con otros principios que son ‘altamente confirmados y generalmente aceptados’, mientras que mi teoría no lo es. Una teoría preferida frecuentemente se defiende ‘inventando y elaborando’ teorías alternativas, de modo que se satisfaría el principio de proliferación de Feyerabend” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:38).</p>
+			<p>En síntesis, lo que reclama Achinstein es que no habría ningún carácter disruptivo en la propuesta de Feyerabend pues esto sería, de hecho, lo que hace el científico en algunas ocasiones. Debido a ello, Achinstein se esfuerza por hacer más fuerte el punto de Feyerabend, reformulando de dos maneras el principio:</p>
+			<disp-quote>
+				<p>“Proliferación II: Creer o aceptar como verdadera, o probable, o como un buena para predecir, o como buena en algún sentido una teoría ‘inventada y elaborada’, si es inconsistente con el punto de vista aceptado, incluso si este resulta ser altamente confirmado. […] Proliferación III: Supongamos que deseamos comprobar una teoría T determinando si hay evidencia para o contra ella (de modo que podamos obtener ‘conocimiento objetivo’). La única manera de comprobar T -la única manera de obtener evidencia para o contra ella- es inventar y elaborar una teoría T’ que entre en conflicto con T, incluso si T’ es inconsistente con un punto de vista aceptado y altamente confirmado” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:38).</p>
+			</disp-quote>
+			<p>En tanto se cae por su propio peso, no consideraré la segunda reformulación del principio, sino solo la tercera; en efecto, esta parece captar la fuerza de la formulación original pues T’ nos permitiría desenterrar nueva evidencia para comprobar T; además, T’ podría integrar fenómenos que deberían estar cubiertos por T pero que no fueron pensados o a los que no se apeló para defender T; estos fenómenos podrían refutar T y, de no haber sido por la invención de T’, los científicos nunca hubieran pensado en la posibilidad de refutar dichos fenómenos. </p>
+			<p>Si bien Achinstein confronta a Feyerabend en el mismo terreno en el que este ubica la discusión, a saber, en las reglas de Newton, no recurriré a ello sino a las consecuencias que de ahí se derivan, específicamente a la que, a mi modo de ver, también pretende derivar Santos. La primera consecuencia es que: “Imaginar una hipótesis contraria nos permitirá desafiar la proposición inferida al otorgar los medios para desafiar los ‘hechos observados’ sobre los cuales se basa la proposición inferida” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:40). La segunda consecuencia es que: “Imaginar una hipótesis contraria nos permitirá desafiar el modo de razonamiento empleado para defender la hipótesis original” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:41). Finalmente, la tercera consecuencia es que: “Imaginar una hipótesis contraria pondrá en duda tanto la hipótesis inferida, incluso sin poner en duda los hechos desde los cuales se infiere, como el modo de inferencia, o la idea que la hipótesis se sigue de los hechos de acuerdo con el modo de razonamiento” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:45).</p>
+			<p>El punto de la segunda consecuencia es que, si una teoría T fue establecida a partir de un modo de razonamiento, digamos hipotético-deductivamente, y una teoría contraria T’ (si T’ otorga evidencia contra T) ponga en duda el modo de razonamiento que da garantías a T (si se da T’, en caso de T haber sido garantizada mediante el razonamiento hipotético-deductivo), entonces este tipo de razonamiento queda puesto en duda. Ahora bien, si en la época de Feyerabend el razonamiento hipotético-deductivo era uno de los mejores modos posibles de garantizar las teorías científicas, una aparente conclusión podría ser que el razonamiento científico, en general, quedaría puesto en duda.</p>
+			<p>No obstante, como lo expone Achinstein, esta crítica aplicaría solo en el caso en que se defienda hipotético-deductivamente una hipótesis solo con referencia a las consecuencias: “Si afirmas que tu hipótesis es verdadera o probable solo porque implica un rango de fenómenos que son observados, puedo desafiar tu afirmación produciendo una hipótesis en contrario que haga la misma cosa” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:41). La pregunta que habría que hacerse es si el solo hecho de imaginar hipótesis contrarias pone en duda las reglas de inferencia; más aún, si un científico, al considerar el principio de proliferación planteado por Feyerabend, vería en riesgo el razonamiento científico y abriría el horizonte a toda clase de explicación (por ejemplo, el Vudú), lo que a la larga conduciría al escepticismo. Para Achinstein, el caso de Newton es radical: “Newton enfáticamente negaría esto […] Newton explícitamente reconoce que las proposiciones que infiere usando las reglas de inferencia pueden ser imprecisas, sujetas a excepciones y, por tanto, falsas tal y como se presentan. Lo que él está afirmando es que esto puede darse solo si se dan nuevos fenómenos y no por imaginar hipótesis contrarias. Hacer esto último solo muestra que las proposiciones originales que se infirieron usando razonamiento causal o inductivo, o ambos, podrían volverse falsas. Pero ese ‘podrían’ es solo una posibilidad lógica y no pone en duda todos los modos de razonamiento (o las proposiciones inferidas)” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:42).</p>
+			<p>Ahora bien, contrario a lo que pudiera pensarse, el anarquismo epistemológico de Feyerabend parece distinguirse del escepticismo; al menos así podría inferirse de la siguiente cita: “La única cosa a la que se opone positiva y absolutamente [el anarquista epistemológico] es a los criterios universales, a las leyes universales, a las ideas universales tales como ‘Verdad’, ‘Razón’, ‘Justicia’, ‘Amor’, y al comportamiento que provocan, aunque no niega que a menudo es una buena política actuar como si existieran tales leyes (criterios, ideas), y como si él creyera en ellas” (<xref ref-type="bibr" rid="B7">Feyerabend 1986</xref>:177). Antes que escéptico, Feyerabend coincidiría con Newton en tanto no podrían seguirse esas ideas universalmente, esto es, habría casos en los que se requeriría violarlas; no obstante, es una “buena política” seguirlas en la mayoría de los casos.</p>
+			<p>De acuerdo con lo anterior, <xref ref-type="bibr" rid="B2">Achinstein establece una diferencia entre “burlarse, violar o ignorar una regla” (Achinstein 2000</xref>:43) y “conocer cuándo se supone que se aplica y cuándo no” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:43). Un ejemplo del segundo caso es que “podría rehusarme a usar la generalización inductiva cuando tengo pocas instancias o cuando todas pertenecen a un conjunto muy reducido, o cuando hay instancias negativas o que no encajen muy bien en la generalización” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:43). Respecto al primer caso es claro que en la ciencia, como en la vida cotidiana, hay momentos en los cuales hay que violar o ignorar una regla en razón de una mejor causa (por ejemplo: un conductor de una ambulancia que excede los límites de velocidad para salvar la vida de un herido). Parece que la fuerza del principio de proliferación radica justamente en este caso. ¿Cuál sería la mejor causa? Tal vez Feyerabend proponga que violar una regla promueva la ampliación de los límites del conocimiento: “La única respuesta que podría encontrar es que podríamos descubrir que lo que se infiere […] no existe, y que algo más es responsable de los efectos. Podríamos descubrir el error” (<xref ref-type="bibr" rid="B2">Achinstein 2000</xref>:44). El punto es que esta argumentación está apelando a la posibilidad lógica, pero esto no podría respaldar la mejor causa. No obstante, la dificultad mayor radica en que Feyerabend parece estar estableciendo una relación necesaria entre ambos casos, esto es, del rehusarse legítimamente a usar una regla en ciertas circunstancias infiere que el burlarse, violar o ignorar una regla debe hacerse en todas las circunstancias. Esto, sin duda, suena a exageración.</p>
+			<p>Como había dicho, Achinstein se mantuvo estable en su crítica al principio de proliferación de Feyerabend. En el texto de 1967 ya había llegado a una conclusión pesimista respecto si tal principio es razonable: “¿Es razonable inventar y elaborar teorías que sean inconsistentes con el punto de vista aceptado, incluso si este fuera altamente confirmado? La respuesta depende de lo que signifique inventar y elaborar tales teorías. Según Feyerabend, es criticar y reformar el status quo. Fantástico. Es bueno mientras los científicos y las demás personas estén alertas; sin embargo, ¿se puede lograr esto siguiendo el Principio de Proliferación de Feyerabend? En general, no; no se puede lograr. Se está gastando tiempo, por ejemplo, si se inventa y elabora, como una alternativa a la teoría atómica, la hipótesis que son duendecillos de radio quienes producen las huellas visibles en una cámara de nubes. Lo relevante es que la alternativa no puede ser solo cualquier sugerencia salvaje que pudiera soñarse para encantar a los inquietos nativos; debe tener alguna plausibilidad para que sirva a los propósitos de criticar y reformar” (<xref ref-type="bibr" rid="B1">Achinstein 1967</xref>:422).</p>
+			<p>El trabajo de Achinstein ha permitido reducir, a sus justas proporciones, las aparentes exageraciones de la proliferación, tal y como la expuso Feyerabend. ¿Qué implicaciones tendría esta discusión a la hora de evaluar la propuesta de Santos? En primer lugar, la promoción del pluralismo epistémico, o de la “pluralidad de conocimientos heterogéneos”, en aras de “forzar la credibilidad para un conocimiento no científico”, y así establecer una horizontalidad de los saberes, en los que la ciencia no ocupe un lugar privilegiado, puede ser viable en un sentido, mas no en otro. Respecto a lo primero, la propuesta de Santos implicaría (1) que la defensa de la pluralidad epistémica conduce al relativismo; de hecho, explícitamente lo afirma: “la validez de una verdad científica es obviamente siempre muy relativa, dado que puede ser comprobada solamente en lo referente a ciertas clases de objetos bajo determinadas circunstancias y establecida por ciertos métodos” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:23); (2) la insalvable dicotomía entre ciencia y sentido común, para Santos, más que dicotomía debería llevar a que el conocimiento científico se constituya en sentido común. </p>
+			<p>Según Boaventura de Sousa Santos: “El sentido común hace coincidir causa e intención, le subyace una visión de mundo basada en la acción y en el principio de la creatividad y de la responsabilidad individuales. El sentido común es práctico y pragmático; se reproduce filtrado por las trayectorias y las experiencias de vida de un grupo social dado y en esa correspondencia se afirma viable y seguro. El sentido común es transparente y evidente; desconfía de la opacidad de los objetivos tecnológicos y del esoterismo del conocimiento en nombre del principio de igualdad de acceso al discurso, a la competencia cognitiva y a la competencia lingüística. El sentido común es superficial porque desdeña las estructuras que están más allá de la conciencia, pero, por eso mismo, es eximio en captar la profundidad horizontal de las relaciones conscientes entre personas y entre personas y cosas. El sentido común es indisciplinario y ametódico; no resulta de una práctica específicamente orientada a producir; se reproduce espontáneamente en el suceder cotidiano de la vida. El sentido común acepta lo que existe tal como existe; privilegia la acción que no produzca rupturas significativas en lo real. Por último, el sentido común es retórico y metafórico; no enseña, persuade” (<xref ref-type="bibr" rid="B4">Santos 2009</xref>:55).</p>
+			<p>Respecto a (1), es posible, y tal vez deseable, la promoción del pluralismo epistémico; quizás tal pluralismo conduzca a renovar la racionalidad y a ampliar sus horizontes de modos insospechados (aunque cabría preguntarse si no ha sido justamente esta apertura la que ha permitido el desarrollo de la ciencia). Respecto a (2) ha sido un prejuicio de los teóricos de la ciencia establecer una distinción tajante entre esta y el sentido común. Ahora bien, que se dé (1), no implica adoptar el relativismo; de igual modo, que se dé (2) no implica una concepción de sentido común hostil a la ciencia o un privilegio especial como conocimiento.</p>
+			<p>Un ejemplo de filósofos que respaldan el pluralismo epistémico sin incurrir en relativismo es Howard Sankey. Para el caso específico del pluralismo metodológico, una versión del pluralismo epistemológico, Sankey sostiene: “Mientras asumo un punto de vista tradicional acerca de la relación entre método y justificación racional, no asumo un punto de vista tradicional acerca de la naturaleza del método mismo. El punto de vista tradicional es monista; de acuerdo con este, hay un único método, históricamente invariante y su uso es la característica principal que distingue la ciencia de lo que no es ciencia. A diferencia de la perspectiva monista tradicional, adopto un pluralismo metodológico, según el cual hay un conjunto de reglas metodológicas que emplean los científicos en la evaluación de teorías alternativas y en la aceptación de los resultados. Estas reglas son susceptibles de variación en la historia de la ciencia, y pueden emplearse diferentes reglas en diferentes campos de la ciencia. Dada la pluralidad de reglas, los científicos pueden divergir en las reglas que emplean, con el resultado que puede haber desacuerdo racional entre los científicos sobre cuestiones de hecho y elección de teorías. En tal visión pluralista de la ciencia, en tanto ningún método único es característico de la misma, las ciencias se caracterizan generalmente por la posesión de un conjunto de reglas metodológicas que dan cuenta de las decisiones prácticas y teóricas de los científicos” (<xref ref-type="bibr" rid="B13">Sankey 2015</xref>:87).</p>
+			<p>Ahora bien, aunque Santos y Sankey se relacionan en tanto adoptan un pluralismo epistémico / metodológico, se distancian en las consecuencias que de esta postura se desprende: el relativismo en Santos y el realismo en Sankey. Si bien no es posible reconstruir todas las críticas de Sankey a un pluralismo ligado con el relativismo, basta citar una de sus conclusiones: “es un error suponer que el desacuerdo racional debido a la variación de reglas metodológicas conduzca necesariamente al relativismo, pues eso sería suponer que la mera diferencia en las reglas que emplean los científicos implica relativismo; eso, a su vez, sería suponer que la mera conformidad con las reglas operativas sea suficiente para la justificación racional. El último presupuesto es, sin duda, erróneo; pasa por alto la distinción crucial entre reglas que otorgan justificación racional y aquellas que no lo hacen. No todas las reglas metodológicas que se proponen o emplean pueden otorgar justificación racional. Algunas no otorgan ninguna justificación. Dada la distinción entre reglas que otorgan justificación y aquellas que no pueden hacerlo, el relativismo no está implicado en el pluralismo, ya que la mera satisfacción de una regla metodológica no es suficiente para la justificación racional” (<xref ref-type="bibr" rid="B13">Sankey 2000</xref>:213).</p>
+			<p>Mínimamente, los análisis de Sankey nos llevarían a poner en duda la implicación que establece Santos en (1), es decir, la aceptación del pluralismo metodológico no nos arroja, necesariamente, al océano del relativismo. Respecto a (2), la crítica de Santos es enteramente válida, pues la pretendida ruptura entre la ciencia y el sentido común no es defendible en la actualidad. Sobre este punto argumentan, entre otros, Sankey, quien propone que “el sentido común sea tratado como una base tanto epistémica como ontológica para el realismo científico” (<xref ref-type="bibr" rid="B12">Sankey 2010</xref>:56) y <xref ref-type="bibr" rid="B9">Haack, quien defiende una idea por ella denominada: “sensismo común crítico” (Haack 2007</xref>), postura con la que confronta el “viejo deferencialismo”, también criticado por Santos, pero, a la vez, sirve de contención al “nuevo cinismo”, que parece desprenderse de posturas como la de Santos. Igualmente, Haack comparte algunas de las ideas que defiende Santos, especialmente confronta aquellas ideas que promueven un insostenible cientismo, aunque sin la radicalización que este insinúa. Una aproximación a estas ideas se encuentra en <xref ref-type="bibr" rid="B3">Aguirre y Jaramillo (2010</xref>); no obstante, el que haya relación no implica que la ciencia quede subsumida en el sentido común (para Santos “todo conocimiento científico busca constituirse en sentido común” <xref ref-type="bibr" rid="B4">Santos 2009</xref>:54); asimismo, la definición de sentido común que propone Santos recurre a ciertos presupuestos que no son obvios por sí mismos y, por consiguiente, requiere mayor justificación.</p>
+			<p>Ahora bien, queda por analizar el criterio pragmático que establece Santos como única razón para elegir un conocimiento sobre otro. Si lo que propone Santos es que la elección de teorías se realiza con base en (1) la participación de los grupos sociales y (2) los beneficios de la intervención, parece que: o bien queda por fuera la discusión de la verdad, o bien que esta se reduce a consenso y utilidad. Si ocurre lo primero, la alternativa epistemológica que propone Santos deja de lado uno de los problemas fundamentales de toda epistemología y, de acuerdo con esto, el título de epistemología no sería sino un adorno en dicha propuesta; si ocurre lo segundo, la propuesta está expuesta a los mismos peligros de una teoría pragmática de la verdad, entre los cuales “parece que lo que es útil creer no siempre es verdadero, y lo que es verdadero no siempre es útil de creer” (<xref ref-type="bibr" rid="B10">Lemos 2007</xref>:12).</p>
+			<p>Para finalizar, podría decirse algo acerca de los templos balineses. Es cierto que, como lo afirma Santos, es preciso la “prudencia” a la hora de elegir modelos de conocimiento, pero también es cierto que del fracaso del modelo computacional no puede colegirse su fracaso en todas las ocasiones, como tampoco la superioridad explicativa de los sacerdotes del templo hindú-budista sobre la ciencia, ni siquiera su homogeneidad. Si bien los sistemas de irrigación son exitosos, no están blindados a la búsqueda científica para determinar qué contribuye a tal éxito y de qué manera lo hallado a través de observación e intervención en el plano del sentido común en un contexto específico puede beneficiar a otras personas en otros contextos. En los términos en los que Achinstein plantea la cuestión, es preciso que los científicos sopesen en cuáles contextos deben usarse las leyes y los métodos y en cuáles es preferible abstenerse; sin embargo, esto no justifica la entronización de un saber como alternativa al conocimiento científico, ni que la ciencia no pueda autocorregirse y ampliar su potencial comprensivo de un fenómeno que en un principio pareció superar sus marcos interpretativos.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusión</title>
+			<p>De esta discusión puede extraerse la siguiente conclusión: en su sentido restringido, esto es, en lo que tiene que ver con la constante búsqueda de alternativas a un punto aceptado e, incluso, confirmado, la proliferación de teorías es un principio que motiva el avance de la ciencia y, de ninguna manera, puede verse como ajeno a ella; en su sentido amplio, donde cualquier alternativa es bienvenida, incluso si no cuenta con estatus de racionalidad, parece ser una exageración que conduce a establecer implicaciones que no necesariamente tienen que darse. Ahora bien, esto no significa que la propuesta de la ecología de los saberes deba desecharse <italic>in toto</italic>; más bien invita a aplicar la prudencia que el propio autor promueve, así como la humildad para reconocer que este es un proyecto en construcción. Según Santos, “la construcción epistemológica de una ecología de los saberes no es tarea fácil” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:51); después de enumerar una serie de preguntas que constituirían su programa de investigación, este autor afirma: “Ninguna de estas cuestiones tiene respuestas definitivas” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:52). Esta humildad parece ser puesta a un lado por el cada vez más amplio número de seguidores de Santos quienes, en vez de enfatizar en el carácter provisional de su propuesta, toman las conjeturas como dogmas establecidos, adoptando acríticamente posturas irracionales, anticientíficas o escépticas. Lo que parece ser muy promisorio en su ecología de los saberes es, a mi modo de ver, la denuncia de la “injusticia cognitiva global” (<xref ref-type="bibr" rid="B5">Santos 2014</xref>:29), en la que enraíza la “injusticia social global”; este asunto desborda las intenciones de este trabajo; no obstante, a modo insumo para la discusión, considero que la búsqueda de una justicia cognitiva global no puede hacerse, necesariamente, dando la espalda a la epistemología y yendo contra ella; tal vez estas posturas, antes que promover la justicia social global legitimen más acciones de injusticia de las que pretenden subvertir.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Achinstein, P. 1967. Comments: Acute Proliferitis, pp. 416-424. En: R. Cohen, M. Wartofsky. <italic>Boston studies in the philosophy of science</italic>, Volume III. Dordrecht: D. Reidel Publishing Company.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Achinstein</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1967</year>
+					<chapter-title>Comments: Acute Proliferitis</chapter-title>
+					<fpage>416</fpage>
+					<lpage>424</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohen</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+						<person-group person-group-type="author">
+						<name>
+							<surname>Wartofsky</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<source>Boston studies in the philosophy of science</source>
+					<issue-part>III</issue-part>
+					<publisher-loc>Dordrecht</publisher-loc>
+					<publisher-name>D. Reidel Publishing Company</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Achinstein, P. 2000. Proliferation: is it a good thing?, pp. 37-46. En: J. Preston, G. Munévar, D. Lamb. <italic>The worst enemy of science? Essays in memory of Paul Feyerabend</italic>. Oxford: Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Achinstein</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<chapter-title>Proliferation: is it a good thing?</chapter-title>
+					<fpage>37</fpage>
+					<lpage>46</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Preston</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Munévar</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lamb</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<source>The worst enemy of science? Essays in memory of Paul Feyerabend</source>
+					<publisher-loc>Oxford</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Aguirre, J. y Jaramillo, L. 2010. La ciencia y el sentido común: por la enseñanza de un sentido común crítico. <italic>Educación y Educadores</italic> 13(3): 477-494. doi: 10.5294/edu.2010.13.3.8</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aguirre</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jaramillo</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>La ciencia y el sentido común: por la enseñanza de un sentido común crítico</article-title>
+					<source>Educación y Educadores</source>
+					<volume>13</volume>
+					<issue>3</issue>
+					<fpage>477</fpage>
+					<lpage>494</lpage>
+					<comment>doi: 10.5294/edu.2010.13.3.8</comment>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Santos, B. 2009. Un discurso sobre las ciencias, pp. 17-59. En: J.G. Gandarilla. <italic>Una epistemología del sur: la reinvención del conocimiento y la emancipación social</italic>. México: Siglo XXI. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santos</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<chapter-title>Un discurso sobre las ciencias</chapter-title>
+					<fpage>17</fpage>
+					<lpage>59</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gandarilla</surname>
+							<given-names>J.G.</given-names>
+						</name>
+					</person-group>
+					<source>Una epistemología del sur: la reinvención del conocimiento y la emancipación social</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Santos, B. 2014. Más allá del pensamiento abismal: de las líneas globales a una ecología de los saberes, pp. 21-61. En: B. De Sousa Santos y M. Meneses. <italic>Epistemologías del Sur (Perspectivas)</italic>. Madrid: Akal.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santos</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<chapter-title>Más allá del pensamiento abismal: de las líneas globales a una ecología de los saberes</chapter-title>
+					<fpage>21</fpage>
+					<lpage>61</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Sousa Santos</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Meneses</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<source>Epistemologías del Sur (Perspectivas)</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Akal</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Feyerabend, P. 1981. <italic>Realism, rationalism &amp; scientific method</italic>. Cambridge: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Feyerabend</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1981</year>
+					<source>Realism, rationalism &amp; scientific method</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Feyerabend, P. 1986. <italic>Tratado contra el método. Esquema de una teoría anarquista del conocimiento</italic>. Madrid: Tecnos. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Feyerabend</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1986</year>
+					<source>Tratado contra el método. Esquema de una teoría anarquista del conocimiento</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Tecnos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Feyerabend, P. 1993. <italic>Against method</italic>. London: Verso.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Feyerabend</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<source>Against method</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Verso</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Haack, S. 2007. <italic>Defending science -within reason</italic>. New York: Prometheus Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Haack</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Defending science -within reason</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Prometheus Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Lemos, N. 2007. <italic>An introduction to the theory of knowledge</italic>. Cambridge: Cambridge University Press .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lemos</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>An introduction to the theory of knowledge</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Sankey, H. 2000. Methodological pluralism, normative naturalism and the realist aim of science, pp. 211-229. En: R. Nola, H. Sankey. <italic>After Popper, Kuhn and Feyerabend</italic>. Dordrecht: Springer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sankey</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<chapter-title>Methodological pluralism, normative naturalism and the realist aim of science</chapter-title>
+					<fpage>211</fpage>
+					<lpage>229</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nola</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sankey</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<source>After Popper, Kuhn and Feyerabend</source>
+					<publisher-loc>Dordrecht</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Sankey, H. 2010. Ciencia, sentido común y realidad. <italic>Discusiones filosóficas</italic> 11(16): 41-58. <ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/r9x7vp">http://ref.scielo.org/r9x7vp</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sankey</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Ciencia, sentido común y realidad</article-title>
+					<source>Discusiones filosóficas</source>
+					<volume>11</volume>
+					<issue>16</issue>
+					<fpage>41</fpage>
+					<lpage>58</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/r9x7vp">http://ref.scielo.org/r9x7vp</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Sankey, H. 2015. <italic>Ciencia, realidad y racionalidad</italic>. Popayán: Universidad del Cauca.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sankey</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Ciencia, realidad y racionalidad</source>
+					<publisher-loc>Popayán</publisher-loc>
+					<publisher-name>Universidad del Cauca</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.4" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000100013</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Ventajas del análisis sistémico aplicado a los espacios locales</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Advantages of system analysis applied to local spaces</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-7013-4133</contrib-id>
+					<name>
+						<surname>Ortega</surname>
+						<given-names>Manuela</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-0469-8560</contrib-id>
+					<name>
+						<surname>Segovia</surname>
+						<given-names>M. Concepción</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original"> (manuela.ortega@uca.es) Facultad de Ciencias Económicas y Empresariales, Universidad de Cádiz (Cádiz, España) </institution>
+				<institution content-type="normalized">Universidad de Cádiz</institution>
+				<institution content-type="orgdiv1">Facultad de Ciencias Económicas y Empresariales</institution>
+				<institution content-type="orgname">Universidad de Cádiz</institution>
+				<addr-line>
+					<named-content content-type="city">Cádiz</named-content>
+				</addr-line>
+				<country country="ES">Spain</country>
+				<email>manuela.ortega@uca.es</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original"> (concepción.segovia@uca.es) Facultad de Ciencias Económicas y Empresariales, Universidad de Cádiz (Cádiz, España) </institution>
+				<institution content-type="normalized">Universidad de Cádiz</institution>
+				<institution content-type="orgdiv1">Facultad de Ciencias Económicas y Empresariales</institution>
+				<institution content-type="orgname">Universidad de Cádiz</institution>
+				<addr-line>
+					<named-content content-type="city">Cádiz</named-content>
+				</addr-line>
+				<country country="ES">Spain</country>
+				<email>concepción.segovia@uca.es</email>
+			</aff>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>58</issue>
+			<fpage>13</fpage>
+			<lpage>25</lpage>
+			<history>
+				<date date-type="received">
+					<day>21</day>
+					<month>10</month>
+					<year>2016</year>
+				</date>
+				<date date-type="accepted">
+					<day>14</day>
+					<month>12</month>
+					<year>2016</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>Este trabajo tiene como objetivo mostrar que el análisis sistémico aplicado a los espacios locales facilita la generación de propuestas para su desarrollo integral en el ámbito de la sostenibilidad. Los territorios están compuestos por elementos físicos y sociales que se interrelacionan y generan productos que los benefician o perjudican. Estos recursos pueden ser explotados o encontrarse ociosos por falta de actores que los desarrollen. Reaccionan ante las acciones internas y externas tanto humanas como naturales, entre las que se encuentran las políticas para el desarrollo local. Para que estas políticas sean eficientes, necesitan estudios integrales que contengan una información que muestre las deficiencias estructurales, relacionales y funcionales del territorio y, con esta información, adoptar las medidas que las corrijan. Este estudio muestra que el análisis sistémico es una herramienta útil para la elaboración de estas políticas.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>This paper shows how system analysis applied to local spaces facilitate the generation of proposals for integral development in the field of sustainability. Regions are composed of physical and social components generating products that benefit or harm themselves. These resources can be exploited or remained idle for lack of actors to develop them. They react to internal and external actions, both human and natural. Among these actions are the policies for local development. For these policies to be efficient, they need comprehensive studies that contain information that shows the structural, relational and functional deficiencies of the territory and, with this information, adopt the necessary political actions to correct them. This study supports system analysis as an information tool for policy-making.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>espacio local</kwd>
+				<kwd>sistema</kwd>
+				<kwd>análisis sistémico</kwd>
+				<kwd>sostenibilidad</kwd>
+				<kwd>desarrollo</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>local space</kwd>
+				<kwd>system</kwd>
+				<kwd>system analysis</kwd>
+				<kwd>sustainability</kwd>
+				<kwd>development</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="11"/>
+				<page-count count="13"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>El presente artículo muestra las ventajas que aporta el análisis sistémico al estudio de los espacios locales. La primera cuestión a abordar es qué se entiende por espacios locales y si estos son sistemas en sí mismos, para posteriormente profundizar en el estudio de los sistemas y, específicamente, en aquellos sistemas complejos que se desarrollan y evolucionan en el ámbito de la sostenibilidad. </p>
+			<p>Según <xref ref-type="bibr" rid="B3">Di Prieto, &quot;lo local es un concepto relativo a un espacio más amplio. No puede analizarse lo local sin hacer referencia al espacio más abarcador en el cual se inserta (municipio, departamento, provincia, región, nación)&quot; (2001:23</xref>). Asimismo, para <xref ref-type="bibr" rid="B4">García no puede hablarse de sistema sin determinar el límite del mismo: &quot;Un sistema no está definido, pero es definible. Una definición adecuada solo puede surgir en el transcurso de la propia investigación y para cada caso particular&quot; (2006:39</xref>). </p>
+			<p>Por ello, para este trabajo la dimensión local seleccionada ha sido la comarca. Esta, en España, es un área funcional que se encuentra en un nivel intermedio entre la región y municipio y, según el artículo 97 del Título III del Estatuto de Autonomía para Andalucía de 2007, es una agrupación voluntaria de municipios limítrofes con una realidad histórica, social, económica y geográfica común. Esa realidad afín es la que establece el límite del sistema, ya que estudiar un territorio como un sistema es identificarlo como una unidad territorial formada por elementos activos físico-territoriales, económicos, culturales, sociales e institucionales en la que se encuentran componentes estratégicos (elementos y actores) que se relacionan y potencian el desarrollo de ese territorio. Por tanto, una comarca es un sistema complejo, abierto y dinámico.</p>
+			<p>Todo sistema complejo depende de su variabilidad y de la riqueza de información que contenga. Los sistemas, para perdurar, deben autoproducirse, es decir, ser autopoiéticos. Asimismo, para no caer en la entropía, necesitan retroalimentarse y, además, su continuidad depende de su viabilidad. Por ello, deben ser sistemas abiertos y dinámicos. En el caso de los sistemas sociales su desarrollo va unido a la comunicación y al sentido, pues la creación de la sociedad depende de la comunicación. Esto hace que los estudios territoriales requieran, tal como plantea <xref ref-type="bibr" rid="B2">Bosier, de &quot;enfoques holísticos, sistémicos complejos y recursivos&quot; (2003:14</xref>).</p>
+			<p>Este trabajo se articula en cinco apartados. El primero se centra en el estudio de los espacios locales como sistemas complejos. El segundo profundiza en el concepto de autopoiesis y en su aplicación a los sistemas sociales, concretamente a las comarcas. El tercero analiza teóricamente las interrelaciones entre los componentes de los sistemas territoriales. El cuarto estudia los sistemas funcionalmente viables y el quinto desarrolla y analiza las ventajas de la aplicación de la metodología de análisis sistémico a los espacios locales y, en concreto, a las comarcas. Por último, se presentan las conclusiones de este estudio.</p>
+		</sec>
+		<sec>
+			<title>Los espacios locales como sistemas complejos</title>
+			<p>Antes de considerar si los espacios locales son sistemas complejos, habría que plantearse si son sistemas. Un sistema es un objeto (material o conceptual) formado por componentes que se relacionan y que cuentan con una composición, estructura y entorno, aunque solo los sistemas materiales tienen mecanismos y poseen propiedades emergentes y, algunos de ellos, tienen figura o forma. Por ello, es inseparable de su límite.</p>
+			<p>Por tanto, para determinar un espacio local como un sistema es necesario establecer los límites o demarcaciones territoriales objetos de estudio. El estudio de un espacio territorial como un sistema necesita conocer el límite de ese espacio, sus componentes y sus relaciones desde tres enfoques, el estructural, el relacional y el funcional. En consecuencia, un espacio local puede ser un sistema si cuenta con composición, estructura y entorno. </p>
+			<p>En la demarcación comarcal se dan estas tres características, por ello, las comarcas pueden ser consideradas sistemas y su estudio y análisis deben realizarse de forma individual en cada caso. Según <xref ref-type="bibr" rid="B2">García: &quot;Un sistema complejo es una representación de un recorte de esa realidad, conceptualizado como una totalidad organizada (de ahí la denominación de sistema), en la cual los elementos no son 'separables' y, por tanto, no pueden ser estudiados aisladamente&quot; (2006:21</xref>). Este tipo de sistemas está integrado por elementos heterogéneos en continua interacción interna y externa; son sistemas abiertos, es decir, están en interacción con su entorno -del que adquieren materia, energía, recursos e información- o en la acción de ciertas políticas. </p>
+			<p>Estas interacciones (internas y externas) crean propiedades emergentes que hacen que el sistema evolucione y se desarrolle. Todo sistema complejo se sustenta en la variabilidad y en la riqueza de su información. Entre estos sistemas se encuentran los sistemas vivos con procesos de autorregulación como la homeostasis, de autoorganización como las bandadas de aves, de sincronización como las ondas natatorias, y con niveles emergentes como los ecosistemas y las redes neuronales. Estos sistemas se caracterizan por su robustez, estabilidad y resistencia y se sitúan en un espacio territorial. Por tanto, se puede afirmar que los espacios locales, entre ellos las comarcas, contienen otros sistemas complejos que se interrelacionan.</p>
+			<p>Existen cuatros aspectos en la complejidad: a) la jerarquía y estructura, señalando que los sistemas complejos están compuestos de subsistemas y estos, a su vez, tienen sus propios subsistemas; b) la evolución de los sistemas jerárquicos; c) las propiedades dinámicas de las estructuras organizadas de los sistemas y su descomposición en subsistemas; y d) la relación entre los sistemas complejos y su descripción. </p>
+			<p>Por tanto, el estudio de las comarcas, al estar compuestas por sistemas (subsistemas), es más complejo debido a las relaciones existentes dentro de los subsistemas y entre los subsistemas que lo forman, aunque la existencia de subsistemas facilita el estudio del sistema global y ayuda a entender su comportamiento. </p>
+			<p>Para <xref ref-type="bibr" rid="B7">Luhmann, en los sistemas complejos la &quot;selección es, podría decirse, la dinámica de la complejidad. Cada sistema complejo debe adaptarse al tiempo&quot; (1991:63</xref>) y los sistemas dinámicos necesitan un flujo constante de materia, energía e información que debe aumentar con su variabilidad. Un espacio local como la comarca es un sistema abierto y complejo, ya que está compuesto por subsistemas de diferentes tipos: físico-territorial, económico, social, institucional y cultural, los cuales están compuestos de otros subsistemas (por ejemplo, el sistema económico del territorio incluye subsistemas como el productivo, el financiero, etc.). </p>
+			<p>Además, sus componentes (elementos y actores), incluidos en cada subsistema, se relacionan entre sí y con los de otros sistemas territoriales de orden superior, del mismo orden o de orden inferior. Por tanto, se podría afirmar que la comarca como sistema presenta una estructura heteráquica, ya que sus subsistemas, elementos y actores tienen autonomía, es decir, el control y el poder se encuentran distribuidos y, para el crecimiento y desarrollo de esos territorios, es necesario y fundamental que los componentes (actores y elementos), así como los subsistemas cooperen para alcanzar sus objetivos globales. También es un sistema dinámico, en el que sus interrelaciones internas y externas están en permanente cambio, aunque sin perder su identidad territorial.</p>
+		</sec>
+		<sec>
+			<title>La autopoiesis y su aplicación a los sistemas sociales</title>
+			<p>
+				<xref ref-type="bibr" rid="B11">Pfeilstetter considera que el territorio es un sistema y lo plantea como un sistema social autopoiético. Para él: &quot;La ventaja de la perspectiva sistémica, por ende, es que puede incorporar bajo un mismo criterio, tanto las descripciones formales de un territorio desde su entorno, la sociedad moderna diferenciada funcionalmente, como las autodescripciones emitidas por las propias instituciones integrantes de un territorio&quot; (2011:13</xref>).</p>
+			<p>El concepto de autopoiesis nace para explicar los organismos vivos, es decir, la capacidad que tiene un sistema para crear sus propios elementos e interrelaciones. Los seres vivos son una unidad cuya identidad queda definida por su organización autopoiética. Estos sistemas presentan una red de procesos u operaciones y pueden crear o destruir sus propios elementos para adaptarse a los cambios del entorno sin perder su identidad. Los seres vivos se clasifican centrándose en su organización y no en sus componentes ni relaciones. En un sistema, su estructura puede cambiar, pero su organización es invariable y es autopoiética. Los aspectos centrales de la autopoiesis son la autoorganización y el &quot;orden&quot;. Para <xref ref-type="bibr" rid="B5">Hodson: &quot;Un aspecto crucial de los sistemas autopoiéticos o de la autoorganización es el surgimiento de un orden a partir de un caos aparente en un estado lejano de equilibrio&quot; (1995:255</xref>). </p>
+			<p>Estos sistemas se apoyan en la clausura operacional, entendida como el límite del sistema que lo hace operativamente cerrado, es decir, el sistema se compone de una red de procesos dinámicos cuyos efectos no salen de esa red. Los seres vivos viven mientras estén en autopoiesis y, como resultado de la dinámica interna y de su interrelación dinámica con el medio, se da el cambio estructural; los cambios estructurales se producen desde el interior del sistema y no como efecto externo. Los sistemas autopoiéticos, para subsistir y desarrollarse, necesitan reaccionar y adaptarse a los cambios. Varela señala tres criterios para que un sistema sea autopoético: a) debe tener un borde semipermeable, que diferencie el interior del exterior; b) una vez verificado el primer criterio, el sistema debe ser producto de una red de reacciones; y c) si se cumple lo anterior, el sistema debe ser interdependiente. </p>
+			<p>Luhmann traslada esta teoría a los sistemas sociales y los considera autopoiéticos mediante la autorreferencia. Estos sistemas son sistemas de sentido y pueden representarse como algo autónomo sobre una organización operativamente cerrada y de reproducción autorreferencial, dependiente de su entorno y acoplado a él. Los sistemas de sentido están cerrados y su límite es distinto al de otros sistemas -como el sistema nervioso- ya que pueden operar internamente la diferencia sistema-entorno y la construcción autorreferencial. </p>
+			<p>Los sistemas autorreferenciales son sistemas que tienen la capacidad de relacionarse consigo mismos y diferenciar estas relaciones de sus relaciones con el entorno. Para ello, se vuelve fundamental la diferenciación sistema-entorno y el papel del observador. La base de la organización es la comunicación y la reproducción de los sistemas comunicativos. La comunicación se reproduce autopoieticamente y solo la comunicación puede comunicar. Esta, para asegurar su capacidad de conexión, exige acciones continuas. En los sistemas sociales, cada contacto social será aprehendido como sistema hasta alcanzar a la sociedad como el conjunto de todos los contactos sociales posibles. Por ello, los sistemas sociales evolucionan mediante la comunicación.</p>
+			<p>Según Wiener, la función básica de la comunicación es controlar el entorno y evitar la entropía del sistema y, para ello, necesita información. La función de la información en un sistema es mantener su organización y estructura dentro del entorno. Morín hace inseparable la información de la organización, centrándose en el concepto de autoorganización. Solo los sistemas capaces de organizarse por medio de la autoorganización, pueden seguir evolucionando.</p>
+			<p>Estos criterios se trasladan a los territorios y se comienzan a estudiar como sistemas autopoiéticos. La introducción de este enfoque a los sistemas territoriales y el conocimiento de ellos en otras disciplinas ayudan a comprender la evolución de los sistemas locales y a construir estructuras que contribuyan a su supervivencia (sostenibilidad). </p>
+			<p>Para Luhmann, la sociedad es un sistema autopoiético de tercer orden, que se autoorganiza y autorregula cuya operación es la comunicación. Es un sistema de sentido y comunicativamente cerrada que se determina de forma autorreferente e incluye a todos los demás sistemas sociales y, por tanto, &quot;como sistema de comunicación, la sociedad solo puede comunicar dentro de sí misma, aunque no consigo misma ni con su entorno&quot; (<xref ref-type="bibr" rid="B8">2006</xref>:69) y es el resultado de la evolución &quot;mediante el medio de difusión -escritura- y mediante el reforzamiento tanto de la capacidad de conflicto como de la tolerancia al conflicto; en otras palabras: renunciando a la externalización de todos los conflictos -característica de las sociedades segmentarias&quot; (<xref ref-type="bibr" rid="B8">2006</xref>:366). </p>
+			<p>Los sistemas que evolucionan son sistemas estructuralmente determinados y que pueden presentar irritaciones. Por tanto, cuando aumenta la velocidad evolutiva aumenta la clausura operacional y la autoorganización, con un aumento también de la irritabilidad del sistema. Esa irritabilidad es la que, a su vez, proporciona la estabilidad necesaria para su evolución.</p>
+		</sec>
+		<sec>
+			<title>Las comarcas</title>
+			<p>Las comarcas son espacios locales que tienen límites definidos y/o definibles que permiten identificar a sus componentes y sus relaciones. Además, cuentan con una sociedad que se identifica con el territorio del que forman parte y se componen de sistemas autopoiéticos de primer orden (células), segundo orden (organismos) y tercer orden (ecosistema, sociedad). Por ello, la introducción de estos conocimientos en el ámbito local contribuye a su evolución de forma sostenible. </p>
+			<p>En el enfoque de la comarca como sistema social autopoiético, de sentido y que se autoproduce, este territorio presenta las características de un sistema abierto y complejo con capacidad para autoorganizarse y adaptarse a las irritaciones. Pero al contrario que en los sistemas biológicos, esta capacidad de autoorganización no viene determinada estructuralmente, sino que es un constructo, en continuo cambio, de su sociedad. </p>
+			<p>En este espacio local, la comunicación, la información, el conocimiento y la acción aportan los inputs necesarios para evitar su entropía (desorden), pero son la organización, la estructura y las interrelaciones de la comarca las que aportan la plasticidad y adaptabilidad del sistema territorial. Según <xref ref-type="bibr" rid="B6">Johansen, la información provoca que se aplique la ley de los incrementos: &quot;la cantidad de información que permanece en el sistema no es igual a la diferencia entre lo que entra y lo que sale, sino que es igual a la información que existe más la que entra, es decir, hay una agregación neta en la entrada, y la salida no elimina información del sistema&quot; (1993:72</xref>). </p>
+			<p>Pero no siempre la información evita la entropía. <xref ref-type="bibr" rid="B10">Ospina, Grajales y Manrique mantienen que: &quot;la información es la regularidad observada en un fenómeno que se puede medir mediante bites; cuando un conjunto de bites de información se interrelacionan en una estructura que tiene lógica racional y se aplican en un contexto se produce conocimiento; cuando este conocimiento se utiliza en una realidad que afecta la producción de bienes o servicios dentro de una organización se convierte en tecnología&quot; (2011:99</xref>). Por tanto, no toda la información cumple la ley de los incrementos en un sistema, sino que, por un lado, existe la que solo aporta ruido y fomenta la entropía y, por otro, la que se interrelaciona, amplifica y se transforma en conocimiento y produce neguentropía. </p>
+			<p>Actualmente el cambio tecnológico, con la introducción de Internet y el aumento de las redes de comunicación, provoca un aumento en el flujo de la información, tanto de ruido como de conocimiento, que se retroalimenta y requiere cambios estructurales internos debido a que aportan irritaciones (el ruido) o las palía (conocimiento) en relación al sistema local. Este último ayuda al sistema a evolucionar y no caer en la entropía. Para ello, el conocimiento de los componentes del sistema local y sus interrelaciones son fundamentales para detectar los fallos del sistema y corregirlos, potenciando con ello su evolución y desarrollo de forma sostenible. </p>
+		</sec>
+		<sec>
+			<title>Las interrelaciones entre los componentes de los sistemas territoriales</title>
+			<p>Anteriormente se ha expuesto que los sistemas territoriales están compuestos de elementos (activos territoriales) y actores que se interrelacionan. Esos activos territoriales pueden ser físicos, sociales, económicos, culturales e institucionales y, para que se desarrollen, el papel de la población es fundamental. Estos elementos y actores se interrelacionan y esas interrelaciones pueden ser físicas o sociales o una mezcla de ambas. Además, estos componentes territoriales son pequeños mundos dentro del sistema y su evolución y desarrollo depende de su estructura, sus relaciones y sus funciones. Algunos de estos componentes tienen carácter estratégico. </p>
+			<p>Asimismo, la capacidad de la sociedad para crear asociaciones ayuda a la creación de actores que la representan y de estructuras que potencian el desarrollo de ese territorio. Por tanto, el territorio como sistema social está compuesto por elementos, unos sociales y otros materiales, que presentan distintas características, estructuras y funciones y que actúan de forma independiente, pero mantienen una dependencia externa.</p>
+			<p>Los actores estratégicos surgen de las relaciones entre grupos, asociaciones, organizaciones, etc., que buscan un fin común y sirven para dinamizar el territorio, optimizar el uso de los recursos existentes y fomentar las relaciones internas y externas entre componentes territoriales. Además, la dinámica económica depende también del desarrollo de las redes entre las empresas, principalmente, por sus acuerdos y alianzas. Por ello, en el caso de la comarca, la existencia de actores que fomenten estas alianzas en sus distintos subsistemas ayuda a que esa dinámica no sea solo económica, sino que englobe de forma integral a todo este sistema territorial y cree un desarrollo sostenible.</p>
+			<p>Los elementos estratégicos son los que aportan un valor relevante para el territorio y los actores estratégicos son asociaciones de asociaciones o pertenecen a ellas. Estos actores fomentan el desarrollo y aprovechan los recursos del territorio para que crezca y evolucione. Además, es necesario para el desarrollo sostenible del territorio que el crecimiento de los cinco subsistemas o ámbitos (el físico-territorial, el económico, el cultural, el social y el institucional) sea equilibrado. Para ello, deben existir actores y elementos estratégicos que se relacionen en todos ellos.</p>
+			<p>El estudio de las interrelaciones (redes) y la práctica en el mundo de la informática han demostrado que las estructuras de redes más dinámicas y que mejor se adaptan a los cambios son las distribuidas. En ellas, todos los nodos se comunican y no existe un nodo central. Entre estos tipos de redes se encuentran las redes libres de escala (Scale-Free) y las de pequeños mundos (Small World). Las redes libres de escala presentan, entre sus características, muchos nodos con pocos enlaces y algunos nodos con muchos enlaces (hubs), una alta robustez y vulnerabilidad a la desaparición de otros nodos, un crecimiento rápido, pocos grados de separación entre los nodos y un umbral de contagio cero ante los ataques.</p>
+			<p>Por otro lado, las redes formadas por pequeños mundos también cuentan con propiedades dinámicas, ya que la difusión de información en este tipo de redes es muy rápida y extremadamente eficaz. Ello hace que lo deseable sea una combinación de redes de pequeños mundos (navegación rápida) y redes libres de escala (existencia de <italic>hubs</italic> ) ya que los mecanismos de propagación asociados a las redes de pequeños mundos se amplifican. <xref ref-type="bibr" rid="B9">Miramontes y Volke afirman que es muy deseable en los sistemas &quot;diseñar una red subyacente que posea ambas cualidades&quot; (2013:246</xref>). Por ello, si se trasladan estos conocimientos a la comarca como sistema territorial, los elementos y actores estratégicos actuarían de <italic>hubs</italic> estratégicos para el resto de los componentes y serían pequeños mundos para el conjunto del sistema y sus relaciones con los otros <italic>hubs</italic> .</p>
+			<p>No todos los territorios presentan las mismas redes de relaciones internas y/o externas, ni la misma capacidad de innovación y transmisión de conocimiento, ni cuentan con los mismos recursos humanos. Por ello, no todas las comarcas presentan la misma capacidad para un desarrollo sostenible. Ello hace que sea importante analizar las relaciones existentes entre los componentes estratégicos (elementos y actores) de una comarca, ya que este análisis informa sobre el aprovechamiento de los recursos endógenos por sus actores y establece los recursos que se encuentran ociosos y cuales están sobreexplotados. </p>
+			<p>Asimismo, el análisis interno de los subsistemas de la comarca y de cada componente muestra la capacidad de desarrollo interno, las potencialidades de su evolución y sus fortalezas y vulnerabilidades. Cuanto mayor sea la densidad de las redes en un territorio, más eficientemente utiliza sus recursos y su competitividad es mayor. Por ello, potenciar la creación de redes entre los recursos y actores de la comarca de forma sostenible, fomenta su desarrollo. Pero, tan importante como la creación de redes comarcales es la funcionalidad de los elementos y actores, pues un sistema debe ser funcionalmente viable para que sobreviva y evolucione.</p>
+		</sec>
+		<sec>
+			<title>Sistemas territoriales funcionalmente viables</title>
+			<p>La estructura de un sistema territorial y las relaciones entre sus componentes son fundamentales para el buen funcionamiento del mismo, tanto de forma conjunta como para cada una de sus partes. También debe contar con una organización eficaz y eficiente y ser capaz de autoorganizarse para seguir evolucionando.</p>
+			<p>Los sistemas abiertos y sus componentes necesitan unas entradas (<italic>inputs</italic> ) que se procesan dando lugar a unas salidas (<italic>outputs</italic> ). Estas entradas pueden ser de materia, energía e información. En la transformación se generan residuos de la materia y energía y ruido de la información que normalmente con el transcurso del tiempo dan lugar a desorden y fallos en el sistema (entropía). </p>
+			<p>Los sistemas territoriales captan <italic>inputs</italic> , los procesan y extraen <italic>outputs</italic> . En ellos, la información y el conocimiento son fundamentales para su desarrollo ya que provocan que los sistemas evolucionen desde su interior (evolución endógena) y, además, el conocimiento crea sinergias que aumentan el valor del producto elaborado. Este permanece en el sistema, se retroalimenta y se acumula, quedándose como un factor interno de desarrollo. Para <xref ref-type="bibr" rid="B2">Boisier </xref>uno de los cuatro planos del desarrollo endógeno es la capacidad interna del sistema para crear sus impulsos tecnológicos de cambio; igualmente, la acumulación del conocimientoy del progreso técnico son factores determinantes del crecimiento económico y, en su mayor parte, son exógenos a los territorios.</p>
+			<p>La información necesita retroalimentarse y autorregularse constantemente y, por ello, sin un sistema social, la información no fluye adecuadamente y el sistema cae en la entropía. Un sistema, para ser viable, debe tener una parte de administración y otra de proceso. La primera debe contar con las funciones de coordinación, control, planificación y política y, la segunda, una función de implementación (proceso). La coordinación crea los mecanismos que facilitan la acción en busca de la eficiencia. El control se encarga de que las funciones se realicen correctamente. La planificación o inteligencia estudia los cambios externos y lleva a cabo diagnósticos de las situaciones. La función política realiza la evaluación de los conflictos organizativos. Por último, la implementación ejecuta y desarrolla las actividades.</p>
+			<p>Estos sistemas deben ser recursivos, adaptados a los territorios y contener canales de comunicación (redes) tanto internos como con el entorno por donde fluirían la materia, la energía, la información y el conocimiento y, con ellos, en el subsistema de implementación se elaborarían los productos y residuos. En el ámbito territorial, se encontrarían las siguientes unidades de administración (subsistemas): identidad (cultural), desarrollo y planificación (evolución), decisión (dirección), comunicación, control y coordinación; además, deben existir unidades de implementación (producción). Para el buen funcionamiento de todo el sistema, todas estas unidades deben ser recursivas y, por ello, sus componentes deben contenerlas, sobre todo sus componentes estratégicos y, especialmente, sus actores.</p>
+			<p>Por tanto, las comarcas, para ser viables, sostenibles y evolucionar, deben contener los subsistemas anteriores y crear productos. Aunque tan importante como los productos que se elaboran, son los residuos que se crean en el proceso, ya que para que un sistema sea sostenible y no caiga en la entropía, debe ser capaz de reciclarlos y volver a utilizarlos o convertirlos en productos para otras partes del sistema. A su vez, estos subsistemas funcionales que se encuentran en todos los componentes, crean los productos que desarrollan los subsistemas estructurales de la comarca (físico-territorial, económico, social, cultural e institucional).</p>
+			<p>Una nación sería un sistema de ámbito superior que estaría compuesto por entidades de ámbitos inferiores (por ejemplo, regionales y locales), entre ellas, las comarcas. Estas deberían ser sistemas funcionalmente viables y sostenibles capaces de evolucionar, creando así valores (productos) que desarrollen de forma sostenible sus regiones y estas, a su vez, sus naciones. </p>
+			<p>Funcionalmente, las comarcas serían unidades de implementación para su región. Pero estas regiones, además, deberían contener las unidades de administración y las redes necesarias para su propia viabilidad como sistema. Para que un sistema territorial (local, regional, nacional) no caiga en la entropía debe ser sostenible. Esa sostenibilidad parte del interior de estos sistemas, en los que sus sistemas de control, comunicación y coordinación y su propia retroalimentación juegan un papel fundamental y, a su vez, necesita unidades de decisión y planificación y una identidad cultural que marque sus principios y valores. </p>
+			<p>Por tanto, los sistemas territoriales superiores dependen de los inferiores para su viabilidad, es decir, debería producirse un desarrollo endógeno que parte de lo local (municipio, comarca, provincia), pasa por lo regional y llega a lo global (país, mundo).</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>Desarrollo y análisis de las ventajas de la metodología sistémica para su aplicación a los espacios locales</title>
+			<p>Lo anterior muestra la importancia de la autoproducción, la autoorganización y la autorregulación, así como refleja la relevancia de la comunicación y la información para el desarrollo de los sistemas sociales. Las comarcas son sistemas sociales compuestos de elementos y actores que se interrelacionan que, a su vez, estructuralmente presentan cinco dimensiones (físico-territorial, económica, social, cultural e institucional) que se encuentran presentes en sus componentes en menor o mayor medida. Funcionalmente, las comarcas son sistemas abiertos y unidades de implementación de los sistemas territoriales de ámbito superior al que pertenecen y para ser viables deben contener las funciones establecidas por <xref ref-type="bibr" rid="B1">Beer (1982</xref>). </p>
+			<p>Como sistemas abiertos necesitan inputs que procesan y que pueden ser de materia, energía (entre ellas el capital humano), capital, información y conocimiento. Asimismo, dentro del sistema también se producen parte de estos inputs que se procesan a su vez para obtener productos que se extraen y se venden para el desarrollo de otros sistemas. En todo ese proceso se extraen residuos que el sistema debe tratar para que su desarrollo sea sostenible. El funcionamiento de una comarca como un sistema marca su desarrollo y sostenibilidad y, para que sea viable, un sistema debe contener los subsistemas funcionales de procesos y administrativos, pero además debe contener las redes de circulación, entre ellas, las de materiales, de energía, de comunicación, de control y de coordinación. Por tanto, para estudiar la comarca como un sistema es necesario aplicar una metodología de análisis sistémico que permita poder analizarla estructuralmente, relacionalmente y funcionalmente. </p>
+			<p>El análisis sistémico de un espacio local debe partir de la consideración de ese territorio como un sistema. Para ello, es necesario establecer el límite del sistema territorial objeto de estudio. Ese límite se fortalece y estabiliza cuando es marcado por la identidad cultural, ello hace que la aplicación del análisis sistémico al ámbito comarcal sea muy positiva ya que, en Andalucía, la demarcación basada en la identidad cultural se encuentra en el nivel comarcal y se compone de aquellos términos municipales completos y limítrofes en los cuales existe una realidad cultural, social y económica común y que los distinguen de otras. En total, en Andalucía se establecieron 62 comarcas. Cada comarca es diferente, tiene sus propios recursos y actores, así como sus propias deficiencias y oportunidades. Por lo tanto, conocerlas es esencial para su desarrollo sostenible y para el desarrollo sostenible de Andalucía. </p>
+			<p>La metodología para la aplicación del análisis sistémico a los espacios territoriales, entre ellos las comarcas, consta de dos fases muy diferenciadas: un diagnóstico y un análisis sistémico. La primera fase consiste en la realización de un diagnóstico integral de la comarca objeto de estudio, que muestre sus recursos físicos, humanos, económicos, culturales e institucionales con el fin de detectar sus componentes estratégicos (elementos, actores y sus variables). Este diagnóstico se apoya principalmente en fuentes secundarias (estadísticas, informes, documentos, etc.) para la obtención de la información. </p>
+			<p>Una vez detectados los componentes estratégicos de la comarca se inicia la segunda fase, que consiste en efectuar un análisis sistémico que contiene un análisis estructural, un análisis funcional, un análisis relacional interno y un análisis relacional externo. Estos análisis aportan un conocimiento sistémico integral del territorio objeto de estudio. </p>
+			<p>Los datos para estos análisis se obtienen por medio de entrevistas a los representantes de los actores estratégicos (presidentes, vicepresidentes o directores) y a expertos en los elementos. Los representantes de los actores estratégicos hablan en nombre de su organización, pero, en el caso de los elementos se debe recurrir a expertos, los cuales no solo deben ser expertos en los elementos y sus variables sino en estos en ese territorio. Ello hace que el número de entrevistas a realizar dependerá del número de actores estratégicos que tenga el territorio y del número de expertos por cada elemento que se decida utilizar; cuanto mayor sea el consenso de las repuestas de los expertos más representativos serán los resultados. </p>
+			<p>Para obtener un consenso suficientemente representativo se puede utilizar el método Delphi y entrevistar a un número de expertos que oscile entre siete y quince por cada elemento dependiendo del presupuesto del estudio y de sus objetivos. El número de vueltas con retroalimentación controlada de las entrevistas depende del nivel de consenso de las respuestas. Para evaluarlo se debe realizar un análisis estadístico y, en función de sus resultados, ampliar el número de vueltas o el número de expertos. Aunque es difícil obtener el 100% en todas las respuestas, es posible conseguir una mayoría suficiente. </p>
+			<p>Antes de las entrevistas se elaboran los cuestionarios a utilizar para obtener la información necesaria para los análisis. Para el análisis estructural, se parte de que la comarca está compuesta por cinco subsistemas (físico-territorial, económico, social, cultural e institucional). En el cuestionario se le debe preguntar a los representantes de los actores y a los expertos de los elementos si los componentes de esa comarca pertenecen, intervienen y afectan o no a los anteriores subsistemas. Se considera que un componente estratégico forma parte de un subsistema, si pertenece, interviene o afecta a ese subsistema. Un subsistema estará más desarrollado cuanto más elementos y actores estratégicos tenga. </p>
+			<p>Los actores son los que dinamizan el subsistema y hacen que los elementos no se encuentren ociosos. Para que un sistema se desarrolle de forma sostenible, la dimensión de sus subsistemas debe ser homogénea y cada subsistema debe contener elementos y actores estratégicos. Este análisis aporta información sobre los subsistemas y detecta sus carencias y potencialidades. Por ejemplo, una comarca puede contener muchos recursos culturales, pero no actores que lo desarrollen y su población puede incluso no ser consciente de la existencia de estos recursos; ello hace que este subsistema se encuentre subdesarrollado y el desarrollo de la comarca estudiada esté condicionado por las carencias en estos subsistemas. Profundizando en el estudio sistémico de este subsistema, se detectarán sus fallos y se pueden adoptar las políticas adecuadas para corregirlos.</p>
+			<p>Para el análisis funcional, por un lado, se comprueba si existen o no en ese territorio las unidades funcionales establecidas por Beer y, por otro lado, se estudian sus elementos, actores y variables estratégicas como <italic>inputs</italic> de sus subsistemas. Se consideran como <italic>inputs</italic> de un subsistema a aquellos componentes estratégicos que intervienen en él. La información que se recoge mediante esta metodología aporta la información sobre las unidades funcionales de la comarca que permiten considerarla como un sistema viable. </p>
+			<p>Los fallos se pueden encontrar en el sistema de implementación, en los sistemas de administración (coordinación, control, planificación y política), en la carencia de <italic>inputs</italic> , en el tipo de <italic>outputs</italic> que se crea o en las redes tanto físicas como de información, comunicación y conocimiento. Una vez detectados los fallos funcionales de la comarca objeto de estudio, se pueden elaborar y llevar a cabo políticas que los corrijan y hagan viable y sostenible al sistema local estudiado.</p>
+			<p>Para el análisis relacional interno se pregunta la relación existente entre los componentes (elementos, actores y sus variables). A partir de esta información se construyen matrices y se calcula la moda, frecuencia y frecuencia relativa de las respuestas. Además, se realiza un análisis de motricidad y dependencia mediante la matriz Vester utilizando los valores 0 (no existe relación), 1 (relación débil), 2 (relación media), 3 (relación alta) y un análisis de redes para conocer la estructura de la red, el tipo de red y sus características, la centralidad de sus componentes (grado de centralidad, cercanía, intermediación y fragmentación), la reciprocidad de sus relaciones, así como, los agujeros estructurales. Para el análisis de redes se transforman las matrices anteriores en matrices booleanas, asignando un valor 0 a las relaciones no significativas (valores 0 y 1) y un valor 1 a las relaciones significativas (valores 2 y 3).</p>
+			<p>La información obtenida a partir de estos análisis detecta, entre otros, fallos en las redes, recursos ociosos, actores pasivos, actores motores del desarrollo y nichos de trabajo y mercado por explotar. Por ejemplo, el hecho que las variables culturales no se relacionen con ningún actor estratégico ni con las variables de la población indica que los recursos culturales de ese territorio no están siendo aprovechados para el desarrollo del mismo. Por otro lado, si un actor o elemento se encuentra muy interrelacionado, esto indica que ese componente es un motor del desarrollo de esa comarca.</p>
+			<p>Por último, para el análisis relacional externo se pregunta por las relaciones externas y la fuerza de la relación de las variables estratégicas con otros niveles territoriales. La información obtenida ayuda a detectar las deficiencias en las relaciones entre distintos niveles territoriales y con otras regiones limítrofes. Por ejemplo, el hecho que los componentes estratégicos de una comarca mantengan una relación baja con su provincia y una relación alta con otros niveles territoriales está indicando que hay un problema entre esa comarca y las instituciones provinciales y se debe profundizar en su estudio para obtener las causas del mismo y poder solucionarlo.</p>
+			<p>Consecuentemente, entre otras, esta metodología para analizar los sistemas territoriales aporta las siguientes ventajas:</p>
+			<p>
+				<list list-type="bullet">
+					<list-item>
+						<p>Da una visión global de la situación actual de la comarca objeto de estudio.</p>
+					</list-item>
+					<list-item>
+						<p>Aporta información cuantitativa y cualitativa sobre la situación comarcal.</p>
+					</list-item>
+					<list-item>
+						<p>Introduce la visión de los actores estratégicos y de los expertos sobre las relaciones internas y externas de la comarca.</p>
+					</list-item>
+					<list-item>
+						<p>Muestra los subsistemas más desarrollados y los menos desarrollados, pero, además, permite localizar el problema, por ejemplo, si se encuentra en la inexistencia de recursos estratégicos o en existencia de recursos ociosos debido a la falta de actores estratégicos que lo desarrollen.</p>
+					</list-item>
+					<list-item>
+						<p>Detecta la inexistencia de organizaciones que realicen las funciones necesarias para que el sistema comarcal sea viable. </p>
+					</list-item>
+					<list-item>
+						<p>Detecta la falta de <italic>inputs</italic> en los procesos del sistema.</p>
+					</list-item>
+				</list>
+			</p>
+			<p>Con este método de análisis sistémico se detectan si los problemas son estructurales, funcionales, relacionales internos, relacionales externos o en sus componentes. Con este conocimiento se puede focalizar el estudio y aplicar el análisis sistémico a ese nivel, sacando sus propios componentes estratégicos y así, recursivamente, hasta el nivel concreto del problema.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>Este trabajo parte de la consideración de las comarcas como un sistema social, complejo y dinámico que están formadas por componentes autopoiéticos y autorreferentes y que, autoorganizándose y creando estructuras adecuadas, se pueden convertir en sistemas viables y sostenibles. </p>
+			<p>El desarrollo de la teoría sistémica en las organizaciones empresariales, apoyado por el avance de la cibernética, la informática, la robótica y la teoría de la comunicación e información, y su incorporación a su estructura organizacional ha llevado a la creación de organizaciones viables más eficaces y eficientes, que cuentan con herramientas para adaptarse a las turbulencias y cambios en su entorno. Por ello, la incorporación del enfoque sistémico a los estudios territoriales, en concreto, a las comarcas ayudaría a la creación de estructuras y redes más viables, plásticas y flexibles, con una mayor capacidad para adaptarse y evolucionar ante los cambios. </p>
+			<p>Según este enfoque, una comarca es un sistema que está compuesto de elementos y actores, es decir, recursos endógenos tanto naturales como elaborados por el hombre y organizaciones que ponen en valor los recursos territoriales. Estos se relacionan y forma parte de otros sistemas territoriales de orden superior (provincia, región) que, a su vez, se encuentran dentro de un sistema nacional. Además, contienen cinco dimensiones o subsistemas (físico-territorial, económico, social, cultural e institucional) que se superponen creando valor en los componentes. </p>
+			<p>Estas características hacen que el estudio sistémico de las comarcas, a partir de sus componentes estratégicos y su posterior análisis sistémico, aporte una información adicional a los estudios territoriales tradicionales.</p>
+			<p>La información obtenida de los análisis ayuda a la elaboración de políticas con medidas eficientes que solucionan los problemas de desarrollo y sostenibilidad que ese territorio presenta, ya que identifica si sus deficiencias son estructurales, relacionales o funcionales. También detecta los componentes del territorio que no son eficientes, la falta de recursos y sus recursos ociosos, la falta de actores que desarrollen sus activos, sus componentes más influyentes y los actores y elementos motores de su desarrollo actual.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Beer, S. 1982. Decisión y control. El significado de la investigación de operaciones y la administración cibernética . México: Fondo de Cultura Económica. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Beer</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>1982</year>
+					<source>Decisión y control. El significado de la investigación de operaciones y la administración cibernética</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Boisier, S. 2003. ¿Y si el desarrollo fuese una emergencia sistémica? Ciudad y Territorio. Estudios Territoriales 138: 565-588. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boisier</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>¿Y si el desarrollo fuese una emergencia sistémica?</article-title>
+					<source>Ciudad y Territorio. Estudios Territoriales</source> 
+					<issue>138</issue>
+					<fpage>565</fpage>
+					<lpage>588</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Di Prieto, L. J. 2001. Hacia un desarrollo integrador y equitativo: una introducción al desarrollo local, pp. 13-50. En: D. Brin y A. Heras. Desarrollo local: una respuesta a escala humana a la globalización . Buenos Aires: Ediciones CICCUS.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Di Prieto</surname>
+							<given-names>L. J</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<chapter-title>Hacia un desarrollo integrador y equitativo: una introducción al desarrollo local</chapter-title>
+					<fpage>13</fpage>
+					<lpage>50</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Brin</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Heras</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source>Desarrollo local: una respuesta a escala humana a la globalización</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Ediciones CICCUS</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>García, R. 2006. Sistemas complejos. Conceptos, método y fundamentación epistemológica de la investigación interdisciplinaria . Barcelona: Gedisa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Sistemas complejos. Conceptos, método y fundamentación epistemológica de la investigación interdisciplinaria</source> 
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Gedisa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Hodson, G.M. 1995. Economía y evolución. Revitalizando la economía . Madrid: Celestes.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hodson</surname>
+							<given-names>G.M</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<source>Economía y evolución. Revitalizando la economía</source> 
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Celestes</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Johansen, O. 1993. Introducción a la teoría general de sistemas . México: Limusa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Johansen</surname>
+							<given-names>O</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<source>Introducción a la teoría general de sistemas</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Limusa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Luhmann, N. 1991. Sistemas sociales. Lineamientos para una teoría general México: Universidad Iberoamericana/Alianza.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Luhmann</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<source>Sistemas sociales. Lineamientos para una teoría general</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Universidad Iberoamericana/Alianza</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Luhmann, N. 2006. La sociedad de la sociedad . México: Herder.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Luhmann</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>La sociedad de la sociedad</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Herder</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Miramontes, O. y Volke, K. 2013. Fronteras de la física en el siglo XXI . Mexico: Copit-arXives</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Miramontes</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Volke</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>Fronteras de la física en el siglo XXI</source> 
+					<publisher-loc>Mexico</publisher-loc>
+					<publisher-name>Copit-arXives</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Ospina, O; Grajales, H. y Manrique, C. 2011. Gestión del conocimiento: mayor producción y competitividad: Perspectivas para los sistemas de producción ovino-caprinos. Revista de Medicina Veterinaria 22: 95-113. <ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/dv5f8v">http://ref.scielo.org/dv5f8v</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ospina</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Grajales</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Manrique</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Gestión del conocimiento: mayor producción y competitividad: Perspectivas para los sistemas de producción ovino-caprinos</article-title>
+					<source>Revista de Medicina Veterinaria</source> 
+					<issue>22</issue>
+					<fpage>95</fpage>
+					<lpage>113</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/dv5f8v">http://ref.scielo.org/dv5f8v</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Pfeilstetter, R. 2011. El territorio como sistema autopoiético. Pensando en alternativas teóricas al &quot;espacio administrativo&quot; y a la &quot;comunidad local&quot;. Perifèria 14: 1-17. <ext-link ext-link-type="uri" xlink:href="http://revistes.uab.cat/periferia/article/viewFile/vol14-n1-pfeilstetter/562-pdf-es">http://revistes.uab.cat/periferia/article/viewFile/vol14-n1-pfeilstetter/562-pdf-es</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pfeilstetter</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>El territorio como sistema autopoiético. Pensando en alternativas teóricas al &quot;espacio administrativo&quot; y a la &quot;comunidad local&quot;</article-title>
+					<source>Perifèria</source> 
+					<issue>14</issue>
+					<fpage>1</fpage>
+					<lpage>17</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://revistes.uab.cat/periferia/article/viewFile/vol14-n1-pfeilstetter/562-pdf-es">http://revistes.uab.cat/periferia/article/viewFile/vol14-n1-pfeilstetter/562-pdf-es</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

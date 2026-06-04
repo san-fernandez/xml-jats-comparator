@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000100051</article-id>
+         <article-id pub-id-type="publisher-id">00005</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Epistemología implícita en el código de ética profesional del colegio de psicólogos de Chile</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Implicit epistemology in charter of professional ethics for psychologists in Chile</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1767-5517</contrib-id>
+               <name>
+                  <surname>Cifuentes-Muñoz</surname>
+                  <given-names>Alejandro</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad de Talca, Chile</institution>
+            <institution content-type="normalized">Universidad de Talca</institution>
+            <institution content-type="orgname">Universidad de Talca</institution>
+            <country country="CL">Chile</country>
+            <email>acifuentes@utalca.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>64</issue>
+         <fpage>51</fpage>
+         <lpage>67</lpage>
+         <history>
+            <date date-type="received">
+               <day>02</day>
+               <month>11</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>16</day>
+               <month>01</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Este artículo pretende develar los supuestos epistemológicos que se encuentran implícitos en el código deontológico del Colegio de Psicólogos de Chile. Para resolver tal problema se realiza un análisis de discurso que abarca la interpretación del contenido del documento, del contexto en el que se inserta y de los actores involucrados. El análisis sugiere que el código de ética se sustenta implícita y sustancialmente en el paradigma positivista de la ciencia, al alero de la modernidad como contexto. Finalmente, se señalan algunas implicancias y reflexiones en torno a tales hallazgos.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This paper has like objective to reveal the epistemological assumptions implicit into of ethics code of the psychologists' school of Chile. To solve this problem was used an analysis of discourse on the content of the code, the context and the actors involved. The results of the analysis show that positivism is the paradigm that supports epistemologically the code, next to modernity like context. Finally, some implications and reflexions are pointed out around the findings.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>psicología</kwd>
+            <kwd>código</kwd>
+            <kwd>ética</kwd>
+            <kwd>análisis</kwd>
+            <kwd>discurso</kwd>
+            <kwd>positivismo</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>psychology</kwd>
+            <kwd>code</kwd>
+            <kwd>ethics</kwd>
+            <kwd>discourse</kwd>
+            <kwd>analysis</kwd>
+            <kwd>positivism</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="1" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="25" />
+            <page-count count="17" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>Introducción</title>
+         <p>Tanto epistemología como ética se configuran como campos de estudio de la filosofía. El primero, conocido también como teoría del conocimiento, tiene como objeto de estudio “la determinación de la naturaleza, alcance y validez del conocimiento humano” (Otero y Gibert 2016:89) y el segundo, la ética, es “la rama de la filosofía que tiene por objeto de estudio la naturaleza moral de los actos humanos y sus consecuencias en la vida social” (Raluy 1990:13).</p>
+         <p>Ambos campos del saber no se encuentran aislados, sino por el contrario, son mutuamente permeables y están intrínsecamente relacionados. Sin embargo, esta relación, al menos en primera instancia, se presenta fundamentalmente en una sola dirección: desde la ética hacia la epistemología, o más precisamente, desde los fundamentos éticos -ya sea implícitos o explícitos- presentes en el acto de conocer. Existe una importante preocupación por el estudio de las diversas implicancias éticas presentes en la producción del conocimiento, particularmente el de tipo científico. Cerrillo señala que “en la ciencia toda elección metodológica y epistemológica es también una elección moral” (2009:187). Del mismo modo, la relación entre ética y epistemología se configura como un requisito para el proceso y desarrollo de la investigación científica en la actualidad, particularmente en lo que respecta a la condición de validez o invalidez del conocimiento. Frente a ello, Romero refiere que “la ética y epistemología en la investigación científica es una necesidad básica y fundamental para la ciencia debido a su dimensión filosófica” (2016:43). Por consecuencia, existiría una especie de guía o “reglas metodológico-morales que gobiernan la conducta de la investigación científica” (Bunge y Ardila 2002:29) para que esta sea considerada correcta, donde los principios filosóficos de tipo ético-morales están presentes, generalmente de modo tácito.</p>
+         <p>Especialmente, es posible dar cuenta de la unidireccionalidad de la ética, fundamentalmente implícita, presente en la epistemología o proceso de construcción del conocimiento. Sin embargo, la tesis de este ensayo se desarrolla y fundamenta en la dirección opuesta: la epistemología implícita de la ética. Particularmente respecto a un tipo de ética particular (la ética profesional), concretamente en una profesión (la psicología), y específicamente, en un discurso textual (el código deontológico del psicólogo en Chile).</p>
+      </sec>
+      <sec>
+         <title>Ética profesional y códigos deontológicos</title>
+         <p>La ética posee un amplio campo de desarrollo y aplicación, sin embargo, el foco de este artículo converge en la ética profesional. Esta se relaciona con el conjunto de normas, valores y principios que rigen las actividades de una profesión. Yurén establece que la ética profesional “incluye el conjunto de saberes, creencias, valores y esquemas de acción que orientan las prácticas en el campo profesional” (2013:6). Sin duda estas consideraciones éticas han sido una preocupación constante para diversos campos y profesiones de las ciencias naturales, humanas y sociales. La psicología, por ende, tampoco está exenta de tales preocupaciones. Sin embargo, la ética profesional es un discurso aspiracional que da cuenta de lo que será considerado como una “buena actuación profesional”. Vale preguntarse entonces de qué manera se norma éticamente una profesión estableciendo cuáles son sus deberes específicos. Esto se logra a través de un código deontológico.</p>
+         <p>Ibarra establece que: “Los códigos deontológicos son generalmente resultado de los colegios o las asociaciones de profesionistas que se agrupan como colectivo para realizar acciones conjuntas, debatir y definir o también en ocasiones reglamentar aspectos sustantivos de la profesión, así como ejercer el control y el monopolio del ejercicio profesional. Estas agrupaciones se dotan a sí mismas de un conjunto de normas y deberes éticos que se proponen regular la conducta y el ejercicio profesional que representan” (2007:44).</p>
+         <p>Por lo tanto, un código deontológico representa la convergencia de los aspectos normativos de la ética profesional plasmando las obligaciones y deberes de los profesionales, avalados y establecidos por un gremio particular. García y Cerón profundizan en esta diferencia a veces no considerada entre deontología y ética profesional: “el discurso de la ética profesional se centra en decir en qué consiste una buena actuación, mientras que el de la deontología formula los deberes y las obligaciones del profesional que se inscriben en un código que avala el gremio” (2005:3). Existen diversos códigos deontológicos en el mundo, los cuales son desarrollados por diversas profesiones, agrupaciones y/o países, sin embargo, y como se ha dejado entrever con anterioridad, el foco de interés y de análisis de este artículo se centra en el código de ética profesional del colegio de psicólogos de Chile del año 1999.</p>
+      </sec>
+      <sec>
+         <title>Código deontológico del colegio de psicólogos de Chile</title>
+         <p>Respecto a los antecedentes históricos asociados a la elaboración del código de ética del colegio de psicólogos de Chile, dice Alvear et al: “la primera comisión de Ética, integrada por un pequeño grupo de asociados, elaboró los primeros documentos normativos. Posteriormente, a mediados de los años 70 se aprobó el primer Código de Ética Profesional del Colegio de Psicólogos de Chile (1975); a fines de 1976 se elaboró las Normas Éticas en una traducción casi textual de las normas de la APA (American Psychological Association); y en 1981 se sancionó una reformulación del Código de Ética (Acta 22 de enero 1981). Ulteriormente, en 1997 se redactó un documento más actualizado, complejo y extenso, sancionado en forma definitiva el año 1999 y que corresponde al Código de Ética Profesional vigente hasta hoy” (2008:217).</p>
+         <p>El actual código de ética no ha sufrido modificaciones, tanto en lo que respecta a su contenido como a su estructura desde el año 1999. Su elaboración se basó (así como para muchos países latinoamericanos) en el Protocolo de acuerdo marco de principios éticos para el ejercicio profesional de los psicólogos en el Mercosur y países asociados aprobado en Santiago de Chile en el año 1997, por lo que se convierte en un documento relevante para ser analizado. Continúa íntegro respecto a su versión original y representa, en cierta medida, a otros códigos deontológicos latinoamericanos que también basaron su confección en los principios éticos del acuerdo del Mercosur.</p>
+         <p>Respecto a su estructura, el código de ética del colegio de psicólogos de Chile se divide en tres capítulos principales: 1) principios éticos generales que no tienen un carácter normativo y constituyen un marco ético general basado en el protocolo del Mercosur, es decir, son principios y aspiraciones; 2) normas éticas generales que informan sobre los límites de acción del código, teniendo un carácter normativo general; y 3) normas éticas específicas que abarcan de manera precisa y concreta diversos aspectos relativos a la profesión, es decir, enfatiza en los aspectos deontológicos propiamente tales.</p>
+         <p>El código de ética del colegio de psicólogos de Chile tiene como objetivo general regular el quehacer profesional, poniendo acento en la propuesta de criterios de acción y conducta. Sin embargo, estos criterios presentes en el contenido del código no hacen referencia explícita a cuáles serían las aproximaciones epistemológicas consideradas como “mejores” o más “beneficiosas” para el ejercicio y desarrollo de la profesión. A priori, es esperable que esto fuera así, ya que promover una forma particular de entender y abordar el conocimiento de los fenómenos psicológicos (una especie de deber ser epistemológico) conllevaría una serie de preguntas complejas a las que habría que responder: ¿por qué promover una aproximación epistemológica y no otra? ¿bajo qué criterios? ¿cómo y para qué hacerlo? Como es posible apreciar, tal pronunciamiento vendría asociado a una serie de problemas que el gremio debiera asumir en la elaboración de sus códigos deontológicos, para evitar incurrir (paradójicamente) en una falta ética per se.</p>
+         <p>No obstante, se considera que el código de ética presenta una posición ideológica implícita que converge en ciertas epistemologías preferentes o dominantes. Estas, vale hacer hincapié, no son declaradas de forma explícita en su contenido, pero sí en su discurso. Por lo tanto, el código deontológico en cuestión no sería neutral, epistemológicamente hablando. De tal manera, la hipótesis de trabajo de este artículo se basa en que el código de ética del colegio de psicólogos de Chile presenta orientaciones epistemológicas implícitas en torno al ejercicio óptimo de la profesión. El norte de este escrito será corroborar tal hipótesis.</p>
+      </sec>
+      <sec>
+         <title>Paradigmas epistemológicos</title>
+         <p>Existen diversas definiciones de qué es un paradigma. Thomas Kuhn considera que un paradigma implica un tipo de consenso en la comunidad científica. Tomando esta noción, Ortiz refiere que un paradigma es utilizado para caracterizar “el marco conceptual y metodológico en el cual son planteados y sucesivamente resueltos los problemas de las investigaciones” (Ortiz 2015:38). Es decir, un paradigma bajo la mirada kuhniana representa el consenso respecto a cuáles son los problemas que se van a generar y cuáles serán las respuestas válidas y aceptadas para tal problema en una determinada comunidad científica. Sin embargo, para los fines de este artículo, y en congruencia con sus raíces etimológicas, paradigma será entendido como perspectiva. Es decir, paradigma implicará -en términos generales y previo a la reformulación del concepto propuesto por Kuhn- una manera de percibir, organizar o interpretar la realidad, o en palabras de Barrera: “una manera particular de ver, juzgar y actuar” (2008:106).</p>
+         <p>Dada la heterogeneidad de paradigmas (o perspectivas) existentes en la literatura en torno a la epistemología, precisar cuáles serán considerados en este artículo para el posterior análisis del código de ética del psicólogo es sumamente necesario. De tal manera, y basándose en la obra de Alexander Ortiz (Epistemología y ciencias humanas), se consideran nueve paradigmas epistemológicos: racionalismo, empirismo, pragmatismo, positivismo, positivismo lógico, fenomenología, hermenéutica, teoría crítica y teoría de la configuración. Estos paradigmas se convertirán posteriormente en las categorías deductivas en las que se fundamentará el análisis del código de ética, por ende, su definición, por breve y general que sea, es relevante. Por consecuencia, se presenta una sucinta descripción de los paradigmas (perspectivas) epistemológicas que son consideradas en este artículo.</p>
+         <p>Racionalismo. El conocimiento verdadero tiene un origen racional, debe ser lógico y tener validez universal. La esencia de todo conocimiento es la razón, el pensamiento y la reflexión. La razón permite llegar deductivamente a verdades universales sin recurrir a la experiencia.</p>
+         <p>Empirismo. El conocimiento se adquiere y funda en la experiencia. El sujeto es una tabula rasa en quien se inscriben las impresiones del mundo externo. Se basa en el principio de verificación, donde toda proposición o enunciado solo es verdadero si es verificable en la experiencia y observación. La experiencia valida el conocimiento inductivamente.</p>
+         <p>Pragmatismo. Toma como criterio de verdad el valor práctico del conocimiento, es decir, lo concibe como un instrumento de adaptación y control de la realidad. El sentido de una idea, creencia o proposición radica en las consecuencias prácticas que resultan de su uso o aplicación. Las ideas son vistas como instrumentos y planes de acción.</p>
+         <p>Positivismo. La ciencia debe tener un fin social y político con miras al progreso de la sociedad. El estadio más avanzado de una sociedad es el conocimiento científico, por lo que la ciencia es lo más importante para los asuntos sociales. Todo conocimiento científico se basa en la observación y experimentación de hechos reales con el fin de descubrir las regularidades y constantes de los fenómenos. Estas convergen en leyes universales, absolutas, objetivas, verdaderas y definitivas de la realidad. La ciencia debe ser un corpus unificado por un solo método científico (monismo metodológico) que vaya desde los datos a la ley general (inductivismo), con el fin de explicar, predecir y controlar los fenómenos naturales y sociales.</p>
+         <p>Positivismo lógico. Es una forma de empirismo y, al igual que el positivismo, plantea que la ciencia es la forma de conocimiento por excelencia. Se diferencia al centrarse en la filosofía del lenguaje científico realizando un análisis de los enunciados y proposiciones de las teorías (lógica). Realiza un análisis de las conexiones lógicas que llevan desde la experiencia a los enunciados universales. La estructura lógica del conocimiento es inductiva, de los datos a la teoría, al igual que el positivismo. Se basa en la teoría de verificación donde un enunciado solo tiene significado si posee condiciones de verificación empírica, lo que dará cuenta de su validez y verdad. Por lo tanto, el lenguaje de la ciencia es el único lenguaje que tiene significado.</p>
+         <p>Fenomenología. Se configura como una doctrina y como un método científico. Su ejercicio fundamental es la descripción, dejando de lado toda especulación, supuesto o creencia previa al momento de conocer. Pretende el estudio de los fenómenos, tal como se presentan en la conciencia. Para ello busca la esencia del fenómeno mediante la intuición, que es la vía para acceder al conocimiento de las esencias de la realidad. Las esencias no son reales, pero son objetivas. Busca ser una ciencia estricta, otorgando conocimiento universalmente válido.</p>
+         <p>Hermenéutica. Como paradigma epistemológico se desarrolla al alero de la crítica historicista de la ciencia. La hermenéutica se configura como el medio de comprensión (verstehen) de los fenómenos. Dilthey busca diferenciar las ciencias naturales de las ciencias humanas (o del espíritu), estableciendo que las primeras buscan leyes universales y explicaciones causales de los hechos y las segundas buscan comprender las interacciones humanas mediante la interpretación o hermenéutica de los significados.</p>
+         <p>Teoría crítica. Se configura como una crítica social en contra del positivismo, ya que considera que este estaría orientado a favorecer a la sociedad burguesa. Por lo tanto, rechaza el monismo metodológico en ciencias sociales. La propia realidad social (objeto) y el observador (sujeto) presentan contradicciones naturales, donde las leyes no tienen cabida. El científico social tiene valores, un posicionamiento ético y no es neutro al conocer la realidad (razón normativa). Habermas plantea que la ciencia está sujeta a intereses específicos: interés técnico, que busca conocer las causas de los fenómenos, manipulándolos con un fin instrumental; interés práctico, que busca comprender las acciones que los sujetos realizan considerando la historia y el lenguaje; e interés emancipatorio, centrado en la comprensión de las estructuras organizacionales para producir transformaciones.</p>
+         <p>Teoría de la configuración. Se fundamenta en el constructivismo, por lo que considera que las teorías científicas no pueden facilitar una descripción completa y definitiva de la realidad. Estas siempre serán aproximaciones a la naturaleza verdadera de las cosas. El configuracionismo sostiene que el conocimiento se configura, no se devela ante el investigador por ningún tipo de acción metodológica y siempre estará mediado por la subjetividad del ser humano. Es un modelo holístico, sistémico, dialéctico y complejo, por cuanto las ideas, teorías y conocimientos científicos obtenidos se interconectan lógicamente entre sí, para formar una totalidad configurada de manera armónica y coherente.</p>
+         <p>En base a los antecedentes presentados, se desarrolla la siguiente pregunta de investigación: ¿Cuál es la epistemología implícita presente en el código de ética del colegio de psicólogos de Chile? Para dar respuesta a esta interrogante se realiza un análisis de discurso del mismo documento mediante categorías conceptuales deductivas. Se considera también un análisis del contexto de surgimiento y mantención del código, así como de sus actores implicados.</p>
+      </sec>
+      <sec>
+         <title>Análisis de discurso</title>
+         <p>La herramienta para llevar a cabo el análisis y por consecuencia, para dar respuesta a la pregunta de investigación, será el análisis de discurso (AD). Van Dijk señala que el AD no es un método, “sino antes bien una esfera de la práctica académica, un cruce de disciplinas distribuido a través de todas las humanidades y las ciencias sociales” (2009:21). Asimismo, Sayago agrega que el AD “en tanto campo de estudio, se destaca por su multidisciplinariedad y por la heterogeneidad de corrientes y tradiciones que confluyen en él” (2014:3).</p>
+         <p>El discurso, particularmente, puede entenderse como una forma específica del uso del lenguaje, así como una forma específica de interacción social. Por lo tanto, es posible interpretarlo como un evento comunicativo completo en una situación social. Cynthia Meersohn plantea que el discurso (y su análisis) se diferencian de la gramática de la oración ya que el AD se concentra específicamente en los fenómenos que están detrás de la oración. Agrega que “las palabras y oraciones declaradas son una parte integral del discurso, pero el discurso no se encuentra en sí mismo solo en el conjunto de palabras y oraciones expresadas en el texto y el habla” (Meersohn 2005:291).</p>
+         <p>Por lo tanto, el AD se configura como una herramienta cualitativa necesaria y útil para los fines de este artículo. El lenguaje no siempre es transparente y mucho menos inocente o neutral. Esta característica ha sido llamada opacidad de los signos: “El lenguaje muestra pero también oculta y distorsiona […] las palabras significan mucho más que lo que dicen” (Santander 2011:208). El análisis del discurso, en consecuencia, sería un instrumento metodológico que permitiría dar cuenta de esta ideología implícita que acompaña al texto o, dicho de otro modo, permitiría iluminar aquella opacidad del signo.</p>
+         <p>Van Dijk y Mendizábal refieren que el fin último del AD es “ver qué es lo que traduce realmente un relato como parte de una representación social del enunciador” (1999:128), es decir, dar cuenta de aquella ideología subyacente al texto. Sin embargo, no existe la técnica de análisis de discurso. Se carece en la actualidad de un acuerdo teórico-metodológico que permita la sistematización respecto a cómo llevarlo a cabo con precisión, o una unificación conceptual en torno a qué es y qué no es el AD en las diversas disciplinas de las ciencias humanas y sociales, o respecto a cuál es el límite que lo diferencia de otras herramientas de análisis similares, como el análisis cualitativo de contenido. Frente a estas dos aproximaciones, Cáceres refiere que “ambos pueden abordar un mismo problema, pero las modalidades de trabajo y los hallazgos, si bien similares, determinarán énfasis diferentes para los resultados obtenidos” (2003:56). Sumándose a esta consideración acerca de los límites permeables del AD, Sayago señala que “estamos ante una caja de herramientas lo suficientemente vasta como para experimentar tanto desazón como entusiasmo” (2014:3). Sin embargo, es el mismo Sayago quien refiere que existe cierto acuerdo en torno a considerar al AD como una herramienta potente y precisa, pero también flexible a los requerimientos de la investigación. Claro está, esto tendrá cabida siempre y cuando el problema (y por consiguiente la pregunta de investigación) sean de naturaleza discursiva.</p>
+      </sec>
+      <sec>
+         <title>Procedimiento de análisis</title>
+         <p>
+            ¿Cómo llevar a cabo un análisis de discurso que permita dar cuenta de la epistemología implícita del código de ética del colegio de psicólogos de Chile? Como se ha referido, no existe un único procedimiento de AD, por lo tanto, es de suma relevancia escoger, elaborar y/o adaptar uno que otorgue coherencia y rigurosidad analítica. Para tal fin, el presente análisis se llevará a cabo mediante una aproximación hipotético-deductiva, adaptando a los fines de este estudio, una propuesta de AD realizada por el Dr. Pedro Santander. En la
+            <xref ref-type="fig" rid="f1">figura 1</xref>
+            es posible apreciar el procedimiento de AD que se llevará a cabo.
+         </p>
+         <p>Para realizar un análisis de discurso hipotético-deductivo, es decir, donde la construcción teórica precede a la instancia de trabajo empírico, se debe definir, en primer lugar, un objeto de estudio con representación discursiva. El objeto de estudio de este artículo corresponde a la epistemología implícita presente en el código de ética del colegio de psicólogos de Chile, por lo tanto, cumple con tal criterio de discursividad.</p>
+         <p>En segundo lugar, se da cuenta de las categorías conceptuales que corresponden a la dimensión operativa de los conceptos teóricos clave para el análisis. Estos son previa y racionalmente definidos, por lo tanto, configuran las categorías de análisis deductivas (ya que emergen previamente de la teoría) que se buscarán en el corpus del texto. Estas categorías conceptuales corresponderán a los paradigmas epistemológicos definidos con anterioridad: racionalismo, empirismo, pragmatismo, positivismo, positivismo lógico, fenomenología, hermenéutica, teoría crítica y teoría de la configuración. Es decir, se buscará la expresión de tales categorías conceptuales deductivas en el corpus del objeto de análisis.</p>
+         <p>En tercer lugar, se define el objeto de análisis el que corresponde al código de ética profesional (en cuanto documento textual) del colegio de psicólogos de Chile. Luego, se definen las categorías lingüístico-gramaticales que corresponden a las unidades específicas de análisis dentro del corpus textual. Para este estudio, estas categorías corresponderán a oraciones, frases, palabras y/o verbos en modo imperativo que se interpreten relacionados con las categorías conceptuales previamente definidas, es decir, con los paradigmas epistemológicos.</p>
+         <p>Finalmente, se aborda también, como parte del procedimiento de AD, el contexto en el cual el código ha estado y está inserto, considerando una interpretación de algunos antecedentes históricos y científicos que podrían haber configurado la epistemología implícita que le subyace, desde su elaboración hasta la actualidad. Del mismo modo, se analiza a los actores o participantes involucrados en el discurso del código, es decir, se consideran e interpretan algunas implicancias asociadas a los autores y lectores del código deontológico.</p>
+         <p>
+            <fig id="f1">
+               <label>fig1</label>
+               <caption>
+                  <title>Figura 1. Procedimiento de análisis de discurso.</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-64-00051-fig1.png" />
+               <attrib>
+                  Fuente: Adaptado de
+                  <xref ref-type="bibr" rid="B19">Santander (2011</xref>
+                  )
+               </attrib>
+            </fig>
+         </p>
+      </sec>
+      <sec>
+         <title>La epistemología implícita</title>
+         <p>En el análisis del código de ética fue posible identificar 21 categorías lingüístico-gramaticales relacionadas con la epistemología. Como se refirió anteriormente, estas categorías gramaticales (segmentos del corpus textual del código deontológico) se interpretaron mediante las categorías conceptuales establecidas a priori (paradigmas epistemológicos). En términos generales y descriptivos es posible adelantar al lector que la epistemología implícita presente en las categorías lingüístico-gramaticales identificadas en el código convergen en dos focos epistemológicos: uno principal, el paradigma positivista (que representa más del 80% de los segmentos de texto analizados) y otro secundario, conformado por el paradigma hermenéutico, la teoría crítica y la teoría de la configuración (donde confluyen cerca de un 20% de los segmentos de texto analizados).</p>
+         <p>A continuación, se fundamentarán tales afirmaciones mediante un análisis más exhaustivo de las categorías lingüístico-gramaticales identificadas, interpretadas al alero de los paradigmas epistemológicos implícitos en ellas.</p>
+         <p>El foco epistemológico principal que se encuentra tácitamente en casi la totalidad de los segmentos textuales analizados del código está conformado esencialmente por el paradigma positivista. Al situar el análisis desde esta perspectiva epistemológica, es posible referir que el código deontológico tiene una posición bastante clara en torno a la relación que debe tener la psicología con: 1) el método científico, 2) el progreso social, 3) la objetividad y 4) la medición de los fenómenos; todos elementos clave del paradigma positivista que se profundizarán a continuación.</p>
+         <p>La psicología como ciencia debe fundamentarse en el método científico. En el discurso del código existen diferentes referencias a la psicología como ciencia y a la relación de la psicología con la ciencia: “así como también el compromiso de promover la psicología en cuanto saber científico” (p.7), “los juicios y acciones científicas y profesionales del psicólogo/a” (p.9), “en la construcción de tests, los psicólogos/as deberán utilizar métodos científicos a fin de que el uso y resultados de los mismos cumplan con las normas propias de la construcción de instrumentos, estandarización, validez y confiabilidad” (p.14), “en el diseño y realización de las investigaciones, el psicólogo/a debe considerar las normas y criterios aceptados por la comunidad científica, con el fin de preservar el desarrollo de la psicología como ciencia” (p.16), “que su participación [pública] tenga fundamento científico”(p.16).</p>
+         <p>Sin embargo, de todas las posibilidades de concebir la ciencia, el discurso del código deontológico opta por una: aquella que se desprende del método científico, dejando fuera otras formas de conocer la realidad. De tal manera, los saberes que emanen de la psicología; los juicios, opiniones u acciones del profesional psicólogo; las estrategias de construcción y validación de instrumentos que utilice; y el diseño de sus investigaciones, deben fundamentarse en el método científico. Por consecuencia, se promueve implícitamente un monismo metodológico que tiene el fin de explicar, predecir y controlar la conducta humana. Estos elementos son característicos del paradigma positivista.</p>
+         <p>La psicología debe ser un medio para el progreso de la sociedad. El código busca promover que la psicología sea un medio de desarrollo y transformación para la sociedad, orientada hacia su progreso: “su compromiso social [del psicólogo] implicará aportar al conocimiento, estudio y transformación de su sociedad […] a crear condiciones que contribuyan al bienestar y desarrollo de la comunidad” (p.8), “en su actuar profesional [el psicólogo] debe ser coherente [con el] desarrollo de la sociedad y elevar el nivel científico del área en la cual se desempeña” (p.16). Estos segmentos analizados denotan la importancia de la ciencia en el desarrollo y progreso de la sociedad. La psicología (como saber científico) no está ajena a este rol y debe ser un medio para el progreso de la sociedad, por lo tanto, debe tener un fin social y político como establece el paradigma positivista.</p>
+         <p>La psicología debe promover la objetividad. En diversos segmentos del código analizado se aprecia la relación que debe tener la psicología y los profesionales que la ejercen con la objetividad, por ejemplo: “si las relaciones preexistentes pudieran interferir en la objetividad de su juicio profesional” (p.8), “el psicólogo/a debe evitar que factores personales, sociales, políticos, religiosos, institucionales u otros puedan sesgar su ejercicio profesional” (p.10), “el psicólogo/a debe tener en cuenta que su ejercicio profesional puede verse interferido por sus problemas y conflictos personales” (p.10), “objetividad hacia los clientes […] no permitiendo que intereses o prejuicios externos afecten sus decisiones profesionales” (p. 11). Si bien en algunas citas se reconoce la presencia de subjetividad, esta se presentaría como indeseable para la promoción de la psicología como ciencia. Por el contrario, el juicio objetivo es posible y deseable en el conocimiento de los fenómenos que estudia la psicología. La objetividad es clave para el positivismo ya que, gracias a ella es posible acceder a los hechos reales con el fin de descubrir sus regularidades y constantes, permitiendo la emergencia de leyes generales.</p>
+         <p>La psicología debe y puede medir los fenómenos que estudia a través de instrumentos y experimentación. El positivismo plantea que todo conocimiento científico se basa en la observación y experimentación de los hechos a fin de descubrir sus regularidades. El código deontológico analizado se alinea con estos procedimientos, situando a la manipulación controlada de variables (experimentación) como un medio válido para conocer los fenómenos de la realidad y particularmente de la conducta humana. Diversos pasajes textuales hacen mención implícita a esto: “prevenir a las personas con quienes trabaja del carácter experimental de los instrumentos o intervenciones” (p.7), “[el psicólogo] deberá informar expresamente al cliente la naturaleza experimental del procedimiento” (p.15). Por otro lado, se aprecia en el código que humanos y animales no humanos serían objetos de estudio frente a los cuales es posible generalizar resultados. El código plantea implícitamente que es factible conocer al ser humano mediante la investigación animal y generar leyes desde las ciencias naturales hacia las ciencias sociales o humanas, tal como aspira el paradigma positivista. Por ejemplo: “cuando en una investigación sea indispensable el uso de animales, el psicólogo/a procurará el pleno respeto” (p.16).</p>
+         <p>Respecto a los instrumentos de los que la psicología se ciñe, el código deja entrever implícitamente que es posible conocer la realidad mediante el uso de pruebas estandarizadas. Estos instrumentos serían válidos y confiables si se basan en el método científico: “sólo el psicólogo/a se halla facultado y es competente para la aplicación, corrección e interpretación de instrumentos y/o procedimientos técnicos de diagnóstico” (p.14), “se considera una transgresión […] la alteración de los criterios de validación de los instrumentos psicológicos” (p.15). Si bien en algunas citas se reconoce la realidad cultural de un sujeto, esta no es determinante al momento de conocer mediante una prueba estandarizada, ya que solo debe ser tomada en consideración: “los psicólogos/as deberán tener en consideración la inserción cultural de los aplicando [de pruebas y procedimientos técnicos]” (p.14).</p>
+         <p>Los cuatro ejes de análisis revisados (método científico, progreso social, objetividad y medición de los fenómenos) se enmarcan en el foco epistemológico principal identificado en el código deontológico, es decir, dentro del paradigma positivista.</p>
+         <p>El foco epistemológico secundario del código está conformado por el paradigma hermenéutico, la teoría crítica y la teoría de la configuración. Se enmarcan estos tres paradigmas en un solo foco secundario dado que teóricamente presentan varios elementos epistemológicos transversales, lo que es confirmado en la práctica mediante el análisis de los segmentos textuales del código. Desde estas perspectivas epistemológicas se aprecian algunos indicios aparentemente contradictorios en el texto respecto a lo referido desde el paradigma positivista (se profundizará posteriormente en tales contradicciones). Por ejemplo, en algunos pasajes textuales del código se aprecia un reconocimiento implícito a la condición dinámica del conocimiento. El conocimiento psicológico sería “actualizable”, por lo tanto, no habría un carácter absoluto ni definitivo de la realidad: “es también su responsabilidad [del psicólogo] la actualización permanente de sus conocimientos e información científica y profesional relevante a los servicios que brinda” (p.7), “el esfuerzo continuo en la actualización de sus conocimientos” (p.9).</p>
+         <p>Fue posible identificar un segmento textual en el que se reconoce la importancia de la subjetividad, dando atisbos de una noción activa por parte del psicólogo en el acto de conocer: “el psicólogo/a tendrá en cuenta sus propios sistemas de creencias, valores, necesidades y límites y del efecto que estos tienen en su trabajo” (p.7). Por otro lado, también hay algunas señales del código en las que se da cuenta que no es posible conocer un fenómeno psicológico únicamente con una prueba estandarizada: “los instrumentos y/o procedimientos técnicos empleados son una herramienta fundamental de su [del psicólogo] trabajo profesional, no bastan por sí solos” (p.15).</p>
+         <p>Hasta el momento se ha presentado un análisis del discurso epistemológico implícito del código de ética en torno a un foco epistemológico principal y otro secundario. Sin embargo, cabe preguntarse más allá de la descripción: ¿cómo es posible entender la aparente contradicción entre dos focos epistemológicos fundamentalmente opuestos en un mismo documento? O, considerando que el paradigma implícito dominante es el positivismo, ¿bajo qué contexto este emerge y se mantiene en el código deontológico? O, ¿cuál es el rol e implicancia de los autores y lectores del código en la epistemología implícita del documento? Con el fin de abordar cada una de estas preguntas surgen al menos tres vertientes de análisis en torno a la epistemología implícita presente en el código de ética del colegio de psicólogos de Chile: 1) el positivismo como paradigma implícito, 2) la modernidad como contexto y 3) la implicancia de los actores, es decir, del “nosotros y ustedes” del código.</p>
+      </sec>
+      <sec>
+         <title>El positivismo como paradigma epistemológico implícito</title>
+         <p>En primer lugar, y probablemente configurando la respuesta más evidente al objetivo de este estudio, es importante recalcar cuáles son los supuestos epistemológicos implícitos en el discurso del código deontológico analizado. Dar con tal respuesta ya no es una novedad: el paradigma epistemológico más evidente en los segmentos textuales analizados del código corresponde al positivismo. Sin embargo, la cuantificación de interpretaciones sobre un paradigma epistemológico particular no es el foco de un AD, como tampoco lo es para los fines de este artículo. Por el contrario, el AD es mucho más que la suma total de los análisis individuales de segmentos de texto o porcentajes presentados al inicio del apartado. El AD busca develar la ideología subyacente de un texto, no la cuantificación del contenido inmerso en él. Por consecuencia, los segmentos de texto analizados fueron presentados solo con fines ilustrativos, ya que el objeto de análisis es el documento íntegro. Por lo tanto, es posible referir que todo el código deontológico tributa implícitamente a una epistemología particular y el análisis de las partes o segmentos de texto es siempre en diálogo con el discurso total del documento. De no ser así, el AD pierde su riqueza interpretativa al realizar análisis aislados.</p>
+         <p>Habiendo dado cuenta de aquella importante aclaración, es importante considerar el foco epistemológico secundario presente en el documento en relación con el foco epistemológico principal. Como se ilustró anteriormente, existen algunos atisbos textuales en el código que aluden a la teoría crítica, a la hermenéutica y a la teoría de la configuración. Como se mencionó, estas referencias convergen principalmente en el reconocimiento de la subjetividad del psicólogo al momento de abordar los fenómenos psicológicos, en el papel que pudieran jugar el sistema de creencias y significados del investigador al momento de conocer, y en considerar el conocimiento de la realidad como un proceso dinámico y no absoluto. Sin embargo, la consideración y reconocimiento de estas “excepciones epistemológicas” en el código, se interpretan como una estrategia (probablemente no consciente) de prevención, no de promoción. Es decir, serían elementos relevantes de considerar y reconocer, pero con el fin de que no influyan o alteren el juicio neutral y objetivo del investigador o psicólogo al momento de conocer la realidad.</p>
+         <p>La epistemología que se promueve implícitamente en el código es aquella en la que la realidad puede y debe ser conocida mediante un método riguroso, sistemático y científico que sea garante de objetividad y neutralidad; una epistemología donde la experimentación (o manipulación deliberada de variables) es considerada una forma válida y confiable de conocer; una epistemología donde es posible conocer los fenómenos de la realidad mediante pruebas o instrumentos estandarizados; una epistemología que da cabida y pretende la constitución de principios o leyes generales que rijan la conducta humana; una epistemología que considera al conocimiento científico como el motor de desarrollo para la sociedad. Una epistemología sustancialmente positivista. Esto convierte a los otros paradigmas epistemológicos referidos en el párrafo anterior en anécdotas situadas al alero (y servicio) de una ideología epistemológica dominante en el código.</p>
+      </sec>
+      <sec>
+         <title>La modernidad como contexto</title>
+         <p>La epistemología implícita del código deontológico analizado ya no es un misterio, sin embargo, conocerla no es suficiente. Desde el AD, el análisis del contexto del texto es fundamental. El contexto forma parte importante de la etiología y mantenimiento de la ideología que subyace al texto, permitiendo una mirada comprensiva más que una meramente descriptiva. Particularmente, y para los fines de este artículo, un análisis del contexto histórico-epistémico se torna relevante. Este permitiría un examen epistemológico del momento histórico en el que el código deontológico fue creado, así como una interpretación del contexto actual en el que se lee, interpreta y mantiene junto al paradigma epistemológico que profesa.</p>
+         <p>El código de ética del colegio de psicólogos de Chile fue creado en 1999, sin embargo, su gestación comenzó en los años 70. En tal momento histórico, tanto en el mundo como en Latinoamérica, priman ciertas aspiraciones sociales y científicas (y por ende epistémicas) más que otras, incluso hasta la actualidad. Estas aspiraciones se desarrollan bajo el manto de la denominada modernidad, la que se sitúa como un eje fundamental de análisis contextual en este estudio. Por consecuencia, la modernidad forma parte importante del contexto de surgimiento y mantención del código de ética del colegio de psicólogos de Chile y, por ende, de la epistemología positivista que subyace en él. En las próximas líneas se desarrollará y justificará tal afirmación.</p>
+         <p>¿Qué es la modernidad? No es tarea fácil definir la modernidad, no obstante, es posible entenderla desde al menos tres perspectivas complementarias: un concepto, un discurso y un proyecto. Como concepto implicaría una ruptura con el pasado, con el conocimiento precedente, con la tradición. Al respecto, Szurmuk y Mckee refieren que “ser moderno y representar la modernidad, aparece repetidamente como haber trascendido la tradición, como una ruptura con lo que existió antes” (2009:177). Como discurso, la modernidad se configuraría como uno de tipo intelectual europeo basado en los ideales de la ilustración, convergiendo en que el único medio para dejar la ignorancia y avanzar hacia una sociedad mejor es la razón y, por ende, la ciencia. Como diría Kant, la modernidad como discurso permitiría “la salida del hombre de su condición de menor de edad de la cual él mismo es culpable” (1994:7). Finalmente, la modernidad también se entiende como un proyecto de sociedad en el que se acuna y promueve un cambio radical en la forma de vivir. El proyecto está orientado hacia el progreso de la sociedad en múltiples ámbitos. Brunner refiere que tal proyecto moderno “incluiría, al menos, la industrialización, la urbanización, la movilidad social, la diferenciación, la secularización, la expansión de los medios de comunicación, un incremento de la alfabetización y de la escolarización y una ampliación de la participación política” (2001:247).</p>
+         <p>La modernidad como concepto, discurso y proyecto de sociedad, se convierte en una aspiración que gran parte del mundo quiere alcanzar, adentrándose en múltiples campos de conocimiento, como la filosofía. Esto permite comprender la relación entre modernidad y positivismo: el positivismo, desarrollado por el filósofo francés Augusto Comte, es totalmente congruente con los ideales de la modernidad en tanto que pone al conocimiento científico como el principal motor de desarrollo para una sociedad mejor, orientada al progreso, donde un único método –el científico– permitirá el develamiento de las leyes generales que rigen los hechos sociales y naturales. El positivismo, por lo tanto, se desarrolla en el contexto de la época moderna y en consecuencia a ella, presenta una simbiótica relación. Podría considerarse, con la debida cautela, que el positivismo es un medio de la modernidad, es decir, conocer y abordar la realidad mediante un paradigma positivista configuraría uno de los caminos o maneras en que la modernidad concreta sus aspiraciones y principios en torno a la sociedad y al rol de la ciencia en esta.</p>
+         <p>La psicología no está ajena a tales aspiraciones modernas. Es posible situar el nacimiento de la psicología moderna en el momento en que se comenzó a utilizar el método científico en la investigación psicológica. Según lo describe Hothersall en su obra sobre Historia de la Psicología, esto ocurrió particularmente en 1879, cuando Wilhelm Wundt estableció oficialmente el primer laboratorio psicológico en Leipzig, Alemania. Este período fue consecuente con la separación disciplinar de la psicología de la filosofía, debido a la especulación y dificultades de validación empírica que supondría esta última para la primera. Szasz señala: “La psicología -y la psiquiatría, como rama de ésta- mantuvo una estrecha relación con la filosofía, al menos hasta las postrimerías del siglo XIX. Desde entonces, los psicólogos se han considerado científicos empíricos, y se supone que sus métodos y teorías no difieren de las del físico o el biólogo” (1994:21).</p>
+         <p>Habiendo pasado más de un siglo desde el establecimiento de la psicología moderna, la psicología chilena en la década de los 70 (década de gestación del que después sería el código deontológico chileno vigente) se desarrollaba al alero de un escenario moderno. La modernidad y el positivismo, como forma prioritaria de entender y acercase a los fenómenos de la realidad psicológica, continúan vigentes. Ledezma señala que el positivismo: “fue el metaparadigma a seguir por toda aquella disciplina que quería alcanzar el status de ‘científica’. Es por esta razón que las ciencias sociales (incluyendo la psicología) construyen sus cimientos teóricos sobre tales bases paradigmáticas” (2005:5). Por consecuencia, no es extraña la emergencia de un código de ética que norme la conducta profesional del psicólogo en función de responder a tales intereses.</p>
+         <p>Pero ¿cómo es que un código deontológico elaborado hace casi 20 años siga vigente sin haberse modificado? Quizás la respuesta más evidente es que el contexto (moderno) no ha cambiado, no obstante, esto no sería del todo preciso. Para muchos la modernidad está en crisis, ya que no estaría respondiendo de forma adecuada a los problemas sociales actuales. Para otros, incluso, la propia modernidad sería la causante de aquellos problemas. Autores como Gianni Vattimo, Jean-François Lyotard o Michel Foucault representan una postura crítica, dando cuenta de las falencias de la propuesta moderna en la sociedad, situándose en un escenario posmoderno. Sin embargo, y a pesar de estas críticas que cada vez ganan más adeptos, se considera que la modernidad y por consecuencia, una visión positivista de la ciencia, siguen reinando en la psicología actual. Basta una breve revisión cienciométrica de la Web of Science para notar que la mayor cantidad de artículos publicados en revistas de corriente principal son consecuentes con el paradigma epistemológico positivista y, por ende, con la modernidad.</p>
+         <p>El debate de si la psicología es o no una ciencia también sigue vigente. Garzón señala que “los planteamientos que propone la ciencia no se corresponden en su totalidad con los que propone la psicología, poniendo, en este sentido, una ambigüedad con relación a si la psicología es ciencia” (2017:133). No obstante, hay una aspiración científica bastante clara a ser una ciencia por parte de la psicología. En este escenario, la modernidad y el paradigma positivista se presentan congruentes y necesarios para alcanzar dicho estatus. Entonces, este es el contexto de surgimiento y mantención del código de ética del colegio de psicólogos de Chile y, por consecuencia, de la epistemología implícita en él.</p>
+      </sec>
+      <sec>
+         <title>La implicancia del “nosotros” y “ustedes” del texto</title>
+         <p>En tercer lugar, es relevante realizar un breve análisis de los actores del texto analizado, es decir, los autores y lectores del código. Para los fines de este artículo se ha optado por utilizar los pronombres nosotros y ustedes, respectivamente, para referirse a tales actores. Si bien el código deontológico está escrito en tercera persona, existen pronombres implícitos que darían cuenta de quiénes lo elaboran y a quiénes se dirige. Benveniste, en relación con la naturaleza de los pronombres, señala que “poco importa que estas formas [el yo y el tú] deban figurar explícitamente en el discurso o puedan permanecerle implícitas” (1997:174). Escapa a los objetivos de este artículo realizar un análisis lingüístico de los pronombres presentes en el código deontológico (como bien lo haría Émile Benveniste), sin embargo, es posible establecer algunas consideraciones respecto al nosotros y ustedes implícitos en él.</p>
+         <p>Respecto al nosotros del código, el análisis es sucinto. Se puede establecer que este corresponde a sus autores, es decir, a la(s) comisión(es) ética(s) del colegio de psicólogos de Chile que trabajó(aron) en la elaboración del código desde los años 70 hasta el 1999. Sin embargo, no es posible conocer, por ejemplo, la intención epistemológica de los autores del código ni tampoco saber si estos fueron conscientes del paradigma positivista implícito que subyace al documento que elaboraron. Tal como establece Santander, la intención del autor es algo que no se sabrá con certeza en el análisis de discurso de un texto, ya que no es posible acceder a ella, sino solo a la acción que se realiza con el lenguaje. Probablemente existe un nivel de conciencia o lucidez del nosotros del código respecto al paradigma positivista implícito en él (por el contexto moderno en el que se gesta el código), sin embargo, esta posible intención del nosotros no es susceptible de ser interpretada con certeza solo con el análisis del documento.</p>
+         <p>Por otro lado, el ustedes del código representaría a quienes va dirigido el documento, a sus lectores, es decir, de quienes el nosotros espera adscripción ética. Sin embargo, adscribir al código no es una obligación, sino solo una aspiración axiológica en torno a los valores de la profesión. Una falta ética no es necesariamente una falta legal o constitutiva de delito, por ende, los psicólogos chilenos no están obligados a adscribir al código. En esta misma línea, el código de ética del colegio de psicólogos de Chile, respecto a la aplicabilidad de este, establece: “las normas del código de ética son aplicables a los psicólogos/as colegiados y a los colegas que acepten la jurisdicción del Colegio de la Orden” (p. 8).</p>
+         <p>
+            Los psicólogos chilenos no colegiados presentan una menor adscripción al código de ética que los colegiados. En un estudio realizado en Chile a una muestra de 170 psicólogos de 20 universidades del país, se concluyó que existe una valoración más positiva del código de ética en los psicólogos afiliados al colegio de psicólogos de Chile. Además, señalan los autores de este, “más de la mitad de los encuestados [60.4%] se declara contrario a los códigos de ética profesionales, reportando que prefieren utilizar otros recursos [personales] para la resolución de problemas éticos” (
+            <xref ref-type="bibr" rid="B1">Alvear et al. 2008</xref>:227). Al parecer, la audiencia o ustedes de este código, es limitada, al menos explícitamente.
+         </p>
+         <p>Si bien no todos los psicólogos adscriben consiente o explícitamente al código de ética, este es frecuentemente considerado para la enseñanza ética en la formación de pregrado del psicólogo en Chile. El código de ética del psicólogo es un documento de uso referencial en la mayoría de los planes de estudio de psicología en las universidades chilenas. De tal manera la epistemología positivista implícita en el código se socializa desde la formación profesional del psicólogo (llega al ustedes) independiente de la opinión o utilidad que posteriormente se pueda explicitar del código por parte de los profesionales.</p>
+      </sec>
+      <sec>
+         <title>Conclusiones</title>
+         <p>A modo de cierre, en base a la bibliografía revisada y a los análisis efectuados en este artículo en torno al discurso del código deontológico, es posible concluir lo siguiente.</p>
+         <p>Primero. El código de ética del colegio de psicólogos de Chile alberga normas epistemológicas implícitas, en esencia, positivistas. Valdría a estas alturas preguntarse lo siguiente: ¿existe un documento en Chile que contenga orientaciones epistemológicas para el psicólogo respecto a la mejor forma de conocer la realidad? Probablemente, la respuesta a priori sería no. Sin embargo, en este artículo se ha demostrado que el código de ética, en cuanto documento oficial del colegio de psicólogos de Chile, no es neutral (epistemológicamente hablando), es decir, contiene implícitamente en su discurso recomendaciones epistemológicas sustancialmente positivistas como fundamento del conocer. Por lo tanto, y respondiendo a la pregunta planteada, lo más cercano a tal documento con normas epistemológicas (al menos de forma implícita) es el código de ética del colegio de psicólogos de Chile.</p>
+         <p>Segundo. El código de ética necesita y debe actualizarse de manera tal que responda a los nuevos contextos epistemológicos de la psicología contemporánea. Son casi dos décadas en las que el código actual no ha tenido modificaciones, aun cuando el propio documento establece la necesidad de una revisión cada dos años. Lamentablemente estas revisiones no se han llevado a cabo. Como se ha referido, el contexto moderno y positivista de la ciencia prima en la psicología actual, permitiendo el mantenimiento del código deontológico intacto. Sin embargo, la primacía de la modernidad no es sinónimo de la inexistencia de otras aproximaciones (epistemológicas si se quiere) relevantes en la psicología. Existen valiosos aportes, por ejemplo, desde el constructivismo y/o socio construccionismo a la psicología, que convergen en una aproximación epistemológica de la realidad que el positivismo no representa, y por consecuencia, tampoco el código de ética actual. Acercamientos posmodernos en psicología como la Terapia Narrativa de White y Epston; la Terapia Sistémica de Realidades Consensuales del Instituto de Terapia Familiar de Santiago de Chile; la Terapia Dialógica, la Terapia Colaborativa o la Terapia Sistémica Centrada en Narrativas de Zlachevsky encuentran escasa representatividad en el código deontológico actual, tanto ética como epistemológicamente.</p>
+         <p>Tercero. Es posible que la baja adscripción al código de ética señalada en el desarrollo de este artículo se deba precisamente a que los profesionales psicólogos no se ven representados en un instrumento ético desactualizado. El código de ética actual no considera en sus contenidos aspectos relacionados a la formación académica del psicólogo; no incluye aspectos concernientes a la perspectiva de género; tampoco incorpora orientaciones sobre dilemas bioéticos; y desplaza a un lugar secundario la subjetividad y creencias personales del psicólogo, que contra intuitivamente son las que priorizan los psicólogos chilenos para la resolución de sus dificultades éticas, según refiere el estudio de Alvear (2008).</p>
+         <p>Cuarto. Sería factible (hipotéticamente) extender el discurso epistemológico positivista develado en este estudio a los códigos deontológicos de otros países latinoamericanos. Esto, principalmente a los asociados al Mercosur, ya que sus códigos deontológicos se elaboraron esencialmente bajo el Protocolo de acuerdo marco de principios éticos para el ejercicio profesional de los psicólogos en el Mercosur y países asociados. Al respecto, Ferrero refiere que “algunos estudios han señalado la existencia de notables puntos de contacto entre los diversos códigos de ética de los países sudamericanos, especialmente en lo referido a los valores en juego, las normas básicas desarrolladas y la importancia que las asociaciones profesionales adquieren en su desarrollo y consolidación” (2014:5). Por ende, los principios éticos generales de tales códigos de ética latinoamericanos son similares, y en la mayoría de los casos, idénticos a los planteados en el protocolo. Asimismo, la modernidad como contexto de surgimiento y mantención del código deontológico chileno, fue y es transversal para el resto de la región latinoamericana. No obstante, corroborar tales hipótesis requiere un análisis en detalle del discurso de tales códigos, siendo una tarea pendiente y necesaria.</p>
+         <p>Quinto. Es posible mencionar que el análisis de discurso fue una estrategia útil y rigurosa analíticamente para el objetivo de este artículo. Como ya debe ser evidente para el lector, un texto no es inocente ni neutral, por el contrario, viene acompañado de una ideología que en muchos casos se hace necesario develar. En el presente artículo, esta tarea estuvo de la mano del análisis de discurso, estrategia que permitió un análisis fructífero para dar cuenta de la epistemología positivista implícita que subyace al código de ética del colegio de psicólogos de Chile.</p>
+         <p>Finalmente, es relevante aclarar que este artículo no pretendió situarse como una crítica al positivismo, sino que buscó ser un instrumento de transparencia mediante la develación de aquello que a simple vista no parece evidente, pero que, sin embargo, existe: el paradigma epistemológico positivista que un documento oficial promueve implícitamente para un campo profesional específico. El análisis de las implicancias (positivas y/o negativas) de este paradigma en torno al conocimiento y abordaje de los fenómenos psicológicos excede los límites de este artículo.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Alvear, K., Pasmanik V., D., Winkler M., M., Olivares E., B.(2008). "¿Códigos en la posmodernidad? Opiniones de psicólogos/as acerca del código de ética profesional del colegio de psicólogos de Chile (A.G.)".
+               <italic>Terapia psicológica. 26</italic>
+               (2), 215-228. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-48082008000200008">https://doi.org/10.4067/S0718-48082008000200008</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alvear</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pasmanik V.</surname>
+                     <given-names>Diana</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Winkler M.</surname>
+                     <given-names>María Inés</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Olivares E.</surname>
+                     <given-names>Bárbara</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>¿Códigos en la posmodernidad? Opiniones de psicólogos/as acerca del código de ética profesional del colegio de psicólogos de Chile (A.G.)</article-title>
+               <source>Terapia psicológica</source>
+               <volume>26</volume>
+               <issue>2</issue>
+               <fpage>215</fpage>
+               <lpage>228</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-48082008000200008">https://doi.org/10.4067/S0718-48082008000200008"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Barrera, M.,  (2008).
+               <italic>Modelos epistémicos en investigación y educación</italic>
+               .  Caracas: Quirón
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barrera</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Modelos epistémicos en investigación y educación</source>
+               <publisher-name>Quirón</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Benveniste, E.,  (1997).
+               <italic>Problemas de lingüística general</italic>
+               . , México: Siglo XXI editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Benveniste</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>Problemas de lingüística general</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Siglo XXI editores</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Brunner, J.(2001). "Modernidad: centro y periferia. Claves de lectura".
+               <italic>Estudios públicos.</italic>
+               (83), 241-263.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brunner</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Modernidad: centro y periferia. Claves de lectura</article-title>
+               <source>Estudios públicos</source>
+               <volume />
+               <issue>83</issue>
+               <fpage>241</fpage>
+               <lpage>263</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Bunge, M., Ardila, R.,  (2002).
+               <italic>Filosofía de la psicología</italic>
+               .  Buenos Aires: Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bunge</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ardila</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Filosofía de la psicología</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Cáceres, P.(2003). "Análisis cualitativo de contenido: una alternativa metodológica alcanzable".
+               <italic>Psicoperspectivas. 2</italic>
+               (1), 53-81. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.psicoperspectivas.cl/index.php/psicoperspectivas/article/viewFile/3/3">http://www.psicoperspectivas.cl/index.php/psicoperspectivas/article/viewFile/3/3</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cáceres</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Análisis cualitativo de contenido: una alternativa metodológica alcanzable</article-title>
+               <source>Psicoperspectivas</source>
+               <volume>2</volume>
+               <issue>1</issue>
+               <fpage>53</fpage>
+               <lpage>81</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.psicoperspectivas.cl/index.php/psicoperspectivas/article/viewFile/3/3">http://www.psicoperspectivas.cl/index.php/psicoperspectivas/article/viewFile/3/3"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Cerrillo, J.(2009). "El intermediario imposible. Algunas reflexiones en torno a epistemología y ética en la investigación cualitativa".
+               <italic>Nómadas. Critical Journal of Social and Juridical Sciences. 24</italic>
+               (4), 187-201. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=18112178013">http://www.redalyc.org/articulo.oa?id=18112178013</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cerrillo</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>El intermediario imposible. Algunas reflexiones en torno a epistemología y ética en la investigación cualitativa</article-title>
+               <source>Nómadas. Critical Journal of Social and Juridical Sciences</source>
+               <volume>24</volume>
+               <issue>4</issue>
+               <fpage>187</fpage>
+               <lpage>201</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=18112178013">http://www.redalyc.org/articulo.oa?id=18112178013"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Ferrero, A.(201). "Impacto de la declaración universal de principios éticos para psicólogas y psicólogos".
+               <italic>Psykhe. 23</italic>
+               (1), 1-11. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7764/psykhe.23.1.530">https://doi.org/10.7764/psykhe.23.1.530</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ferrero</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Impacto de la declaración universal de principios éticos para psicólogas y psicólogos</article-title>
+               <source>Psykhe</source>
+               <volume>23</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>11</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7764/psykhe.23.1.530">https://doi.org/10.7764/psykhe.23.1.530"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               García, C., Cerón, A.(2005). "Entre la ética y deontología profesionales. Reflexión sobre el campo periodístico".
+               <italic>Rencuentro.</italic>
+               (43), 1-13. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=34004306">http://www.redalyc.org/articulo.oa?id=34004306</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>García</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cerón</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Entre la ética y deontología profesionales. Reflexión sobre el campo periodístico</article-title>
+               <source>Rencuentro</source>
+               <volume />
+               <issue>43</issue>
+               <fpage>1</fpage>
+               <lpage>13</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=34004306">http://www.redalyc.org/articulo.oa?id=34004306"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Garzón, C.(2017). "¿Es la psicología una ciencia?".
+               <italic>Poiésis.</italic>
+               (33), 133-138. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21501/16920945.2503">https://doi.org/10.21501/16920945.2503</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Garzón</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>¿Es la psicología una ciencia?</article-title>
+               <source>Poiésis</source>
+               <volume />
+               <issue>33</issue>
+               <fpage>133</fpage>
+               <lpage>138</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21501/16920945.2503">https://doi.org/10.21501/16920945.2503"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Ibarra, G.(2007). "Ética y valores profesionales".
+               <italic>Reencuentro.</italic>
+               (49), 43-50. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=34004907">https://www.redalyc.org/articulo.oa?id=34004907</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ibarra</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Ética y valores profesionales</article-title>
+               <source>Reencuentro</source>
+               <volume />
+               <issue>49</issue>
+               <fpage>43</fpage>
+               <lpage>50</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=34004907">https://www.redalyc.org/articulo.oa?id=34004907"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Kant, I.(1994). "Respuesta a la pregunta: ¿Qué es la Ilustración? ".
+               <italic>Revista Colombiana de Psicología.</italic>
+               (3), 7-10.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kant</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <article-title>Respuesta a la pregunta: ¿Qué es la Ilustración?</article-title>
+               <source>Revista Colombiana de Psicología</source>
+               <volume />
+               <issue>3</issue>
+               <fpage>7</fpage>
+               <lpage>10</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Ledezma, N.(2005). "Modernidad y psicología: una disyuntiva y una paradoja".
+               <italic>Athenea Digital.</italic>
+               (8), 1-17. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://atheneadigital.net/article/view/n8-ledezma/229-pdf-es">https://atheneadigital.net/article/view/n8-ledezma/229-pdf-es</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ledezma</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Modernidad y psicología: una disyuntiva y una paradoja</article-title>
+               <source>Athenea Digital</source>
+               <volume />
+               <issue>8</issue>
+               <fpage>1</fpage>
+               <lpage>17</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://atheneadigital.net/article/view/n8-ledezma/229-pdf-es">https://atheneadigital.net/article/view/n8-ledezma/229-pdf-es"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Meersohn, C.(2005). "Introducción a Teun Van Dijk: Análisis de Discurso".
+               <italic>Cinta moebio.</italic>
+               (24), 288-302. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=10102406">http://www.redalyc.org/articulo.oa?id=10102406</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Meersohn</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Introducción a Teun Van Dijk: Análisis de Discurso</article-title>
+               <source>Cinta moebio</source>
+               <volume />
+               <issue>24</issue>
+               <fpage>288</fpage>
+               <lpage>302</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=10102406">http://www.redalyc.org/articulo.oa?id=10102406"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Ortiz, O.,  (2015).
+               <italic>Epistemología y ciencias humanas</italic>
+               .  Bogotá: Ediciones de la U.
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortiz</surname>
+                     <given-names>O.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Epistemología y ciencias humanas</source>
+               <publisher-name>Ediciones de la U.</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Otero, E., Gibert, J.,  (2016).
+               <italic>Diccionario de epistemología</italic>
+               .  Santiago: Ril editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Otero</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gibert</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <source>Diccionario de epistemología</source>
+               <publisher-name>Ril editores</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Raluy, A.,  (1990).
+               <italic>Ética</italic>
+               . , México: Publicaciones Cultural
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Raluy</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>Ética</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Publicaciones Cultural</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Romero, R.(2016). "Ética y epistemología en la investigación científica. Tendencias y perspectivas".
+               <italic>Quipukamayoc. 24</italic>
+               (46), 139-150. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15381/quipu.v24i46.13208">https://doi.org/10.15381/quipu.v24i46.13208</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Romero</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Ética y epistemología en la investigación científica. Tendencias y perspectivas</article-title>
+               <source>Quipukamayoc</source>
+               <volume>24</volume>
+               <issue>46</issue>
+               <fpage>139</fpage>
+               <lpage>150</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15381/quipu.v24i46.13208">https://doi.org/10.15381/quipu.v24i46.13208"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Santander, P.(2011). "Por qué y cómo hacer análisis de discurso".
+               <italic>Cinta moebio.</italic>
+               (41), 207-224. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=10119954006">https://www.redalyc.org/articulo.oa?id=10119954006</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Santander</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Por qué y cómo hacer análisis de discurso</article-title>
+               <source>Cinta moebio</source>
+               <volume />
+               <issue>41</issue>
+               <fpage>207</fpage>
+               <lpage>224</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=10119954006">https://www.redalyc.org/articulo.oa?id=10119954006"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Sayago, S.(2014). "El análisis del discurso como técnica de investigación cualitativa y cuantitativa en las ciencias sociales".
+               <italic>Cinta moebio.</italic>
+               (49), 1-10. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=10131417001">http://www.redalyc.org/articulo.oa?id=10131417001</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sayago</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>El análisis del discurso como técnica de investigación cualitativa y cuantitativa en las ciencias sociales</article-title>
+               <source>Cinta moebio</source>
+               <volume />
+               <issue>49</issue>
+               <fpage>1</fpage>
+               <lpage>10</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=10131417001">http://www.redalyc.org/articulo.oa?id=10131417001"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Szasz, T.,  (1994).
+               <italic>El mito de la enfermedad mental. Bases para una teoría de la conducta personal</italic>
+               .  Buenos Aires: Editorial Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Szasz</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <source>El mito de la enfermedad mental. Bases para una teoría de la conducta personal</source>
+               <publisher-name>Editorial Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Szurmuk, M., Mckee, R.,  (2009).
+               <italic>Diccionario de estudios culturales latinoamericanos</italic>
+               .  México DF: Editorial Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Szurmuk</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mckee</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Diccionario de estudios culturales latinoamericanos</source>
+               <publisher-name>Editorial Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>
+               Van Dijk, T.,  (2009).
+               <italic>Discurso y poder</italic>
+               .  Barcelona: Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Dijk</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Discurso y poder</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>
+               Van Dijk, T., Mendizábal, I.,  (1999).
+               <italic>Análisis del discurso social y político</italic>
+               .  Quito: Editorial Abya Yala
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Dijk</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mendizábal</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <source>Análisis del discurso social y político</source>
+               <publisher-name>Editorial Abya Yala</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>
+               Yurén, T.(2013). "Ética profesional y praxis. Una revisión desde el concepto de “agencia”".
+               <italic>Perfiles Educativos. 35</italic>
+               (142), 6-14. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0185-26982013000400016">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0185-26982013000400016</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yurén</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Ética profesional y praxis. Una revisión desde el concepto de “agencia”</article-title>
+               <source>Perfiles Educativos</source>
+               <volume>35</volume>
+               <issue>142</issue>
+               <fpage>6</fpage>
+               <lpage>14</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0185-26982013000400016">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0185-26982013000400016"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

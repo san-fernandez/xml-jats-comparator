@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model type="application/xml-dtd" href="http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1d3" specific-use="Marcalyc 1.2" article-type="research-article" xml:lang="es">
+<front>
+<journal-meta>
+<journal-id journal-id-type="redalyc">101</journal-id>
+<journal-title-group>
+<journal-title specific-use="original" xml:lang="es">Cinta de Moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="es">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile</publisher-name>
+<publisher-loc>
+<country>Chile</country>
+<email>fosorio@uchile.cl</email>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="art-access-id" specific-use="redalyc">10148922001</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Sin sección</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="es">Un análisis filosófico de las técnicas de construcción de escenarios</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="no">
+<name name-style="western">
+<surname>Maureira</surname>
+<given-names>Marco</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+<email>maureira.marco@gmail.com</email>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<institution content-type="original">Barcelona Science and Technology Studies Group (STS-b) </institution>
+<institution content-type="orgname">Universidad Autónoma de Barcelona </institution>
+<country country="es">España - ES</country>
+</aff>
+<pub-date pub-type="epub-ppub">
+<season>Octubre-Diciembre</season>
+<year>2016</year>
+</pub-date>
+<issue>57</issue>
+<fpage>243</fpage>
+<lpage>256</lpage>
+<permissions>
+<copyright-year>2016</copyright-year>
+<copyright-holder>Autor</copyright-holder>
+<ali:free_to_read/>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<ali:license_ref>https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+<license-p>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</license-p>
+</license>
+</permissions>
+<abstract xml:lang="es">
+<title>Resumen</title>
+<p> Uno de los dispositivos más utilizados en  la gestión y control de nuestras actuales sociedades globales son las técnicas  de construcción de escenarios. En este sentido, el  presente artículo analiza el impacto que la utilización masiva de estos  dispositivos entraña para nuestra sociedad. Específicamente, se utilizará como  enfoque analítico el concepto de diferencia de Deleuze, la différance de Derrida  y lo destituyente en Agamben. Dichas  propuestas teóricas, que permanentemente han sido consideradas como dimensiones  de resistencia, subversión y liberación, se muestran paradójicamente  pertinentes para comprender el funcionamiento de las técnicas de construcción  de escenarios ficcionales. Por ende, el presente art&amp;iacut e la  necesidad de ensayar nuevas formas-de-pensamiento que nos permitan sortear el peligro de fagocitación de nuestra mejor filosofía  por parte de nuevas  maquinarias de control.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract</title>
+<p> One of the most important devices in the management  and control of our global societies is the scenario-planning. In this regard, this  paper analyses the impact that the massive use of these devices implies to our  society. Specifically, it is used as an analytical approach the concepts of  difference (Deleuze), différance (Derrida) and destituent power (Agamben). These  theoretical proposals, which have been regarded as important dimensions of  resistance and liberation, paradoxically are relevant to understanding the  operation of the scenario-planning. Therefore, this paper warns of the need to  try new forms-of-thought that allow  us to overcome the danger of our best philosophy captured by new machines of  control.</p>
+</trans-abstract>
+<kwd-group xml:lang="en">
+<title>Keywords</title>
+<kwd>scenario-planning</kwd>
+<kwd>  difference</kwd>
+<kwd> state of exception</kwd>
+<kwd> différance</kwd>
+<kwd> destituent power</kwd>
+</kwd-group>
+<kwd-group xml:lang="es">
+<title>Palabras clave</title>
+<kwd>escenarios</kwd>
+<kwd> diferencia</kwd>
+<kwd> estado de excepción</kwd>
+<kwd> différance</kwd>
+<kwd> poder  destituyente</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="14"/>
+</counts>
+</article-meta>
+</front>
+<body>
+		
+		<sec>
+            <title>I. Introducción</title>
+			<p>
+                Identificar los dispositivos mediante los cuales una sociedad despliega sus dinámicas de gestión, organización y control se ha constituido en una dimensión prioritaria para la filosofía y las ciencias sociales. La lógica de las prisiones, fábricas o escuelas que definen a una sociedad disciplinar centrada en cuestiones referidas al encierro, dan paso a la emergencia de sociedades de control ejercida en espacios abiertos mediante psicofármacos, el consumo, el marketing y/o el endeudamiento. De esta forma, nos desplazamos desde el uso prioritario de conceptos como institución a la aparición de extituciones; desde la articulación de individuos a la emergencia de cyborgs, posthumanos o dividuos. En definitiva, nuevas formas para lo social en que se reemplazan los límites asignables del encierro por zonas de probabilidades; en que los límites dejan de ser límites fijos y trascendentes siendo reemplazados por zonas de frecuencia e intensidades. Nuevas formas para dar cuenta de la atmósfera de nuestro tiempo caracterizada por la necesidad de concebir alternativas al pensamiento metafísico centrado en la idea de representación, identidad y lo mismo.En este sentido, podemos colegir la existencia de un dispositivo que, si bien silencioso, de apariencia secundaria y tono desapercibo (al menos, en relación a los conceptos anteriormente reseñados), desempeña en nuestras sociedades un papel cada vez más protagónico. Nos referimos a las técnicas de construcción de escenarios ficcionales (también llamadas “scenario-based / scenario-planning”). Estas, que son concebidas como historias y/o descripciones vívidas de un futuro posible, se constituyen en dispositivos fundamentales para el funcionamiento del campo económico y la teoría de decisiones, jugando un papel privilegiado en temas referidos al impacto climático y estudios de la biodiversidad, en el mundo del management y los nuevos modelos de “virtual human resource development”, así como en cuestiones referidas a la biomedicina, la bioseguridad, el bioterrorismo y la inteligencia militar.Por lo tanto, el análisis de los escenarios se constituye en una tarea urgente. Comprender su funcionamiento deviene un imperativo insoslayable. Para tal fin, comenzaremos por describir detalladamente las principales definiciones y usos con que la literatura especializada define a estos dispositivos. Posteriormente, analizaremos los escenarios a partir de tres de las más importantes propuestas filosóficas de la segunda mitad del siglo XX: la Diferencia de Gilles Deleuze, la Différance de Jacques Derrida y los Estados de Excepción de Giorgio Agamben. Como dijimos al inicio, la atmósfera de nuestro tiempo se caracteriza por la necesidad de superar las nociones de representación e identidad, razón por la cual debemos atender, desde estas coordenadas, a la emergencia de nuevos dispositivos y formas para lo social. Y, como argumentaremos, el despliegue de los escenarios puede ser concebido como un dispositivo clave en la articulación de nuestras actuales sociedades post-metafísicas.
+			</p>
+		</sec>
+	<sec>
+<title>II. ¿Qué es un escenario?</title>
+<p>Imaginar escenarios futuros para gestionar el presente dista de ser un fenómeno novedoso. La utilización de escenarios bélicos e hipótesis de guerra, por ejemplo, se han utilizado profusamente desde hace siglos en la planificación de estrategias militares. Su sistematización y proliferación, no obstante, presenta un claro incremento y protagonismo a partir de la segunda mitad del siglo XX, con un énfasis especial en dos grandes áreas: a) inteligencia y estrategia militar; y b) temáticas económicas y de gestión empresarial. Respecto al primer punto, se tiende a considerar el trabajo de Herman Kahn y la “RAND Corporation” (think tank estadounidense fundada después de la Segunda Guerra Mundial con un fuerte énfasis en temáticas referidas a la “seguridad nacional”) durante la Guerra Fría como aspectos fundamentales para comprender la tradición moderna de los escenarios. En este sentido, dichos dispositivos (bautizados, por aquel entonces, con el nombre de “future-now thinking”) fueron utilizados para analizar los efectos que una posible guerra nuclear tendría para el mundo, en un trabajo de estrecha colaboración con el gobierno de los Estados Unidos. Posteriormente, Kahn amplió el alcance de los escenarios a otras áreas, fundando el Instituto Hudson (en la década de 1960) y promoviendo una serie de estudios en que se defendía la idea de utilizar los escenarios como forma de “pensar lo impensable” desde un enfoque interdisciplinar (ya no solo centrado en la seguridad y la defensa) abriéndose a temas como la economía, la salud, la cultura y las relaciones internacionales.De esta forma, nos insertamos directamente en nuestra segunda área; a saber, el desarrollo de los escenarios en la economía y la gestión empresarial. En este campo, se conceptualizará a los escenarios como una visión internamente consistente de lo que el futuro podría llegar a ser; una herramienta para ordenar las propias percepciones sobre los entornos futuros alternativos en los que se deben tomar decisiones; como una parte de la planificación estratégica que se refiere a las herramientas y tecnologías para la gestión de las incertidumbres del futuro; o bien, como un método riguroso para imaginar futuros posibles en que las decisiones organizacionales puedan desplegarse. A pesar de la existencia de una amplia variedad de definiciones, se puede colegir la emergencia de un núcleo común: los escenarios son descripciones vívidas de futuros posibles que no deben ser confundidos con los pronósticos/previsiones o con las visiones de mundo.Mientras que un escenario hace referencia a la imaginación de un futuro posible/plausible (mediante un enfoque mixto), una previsión se centra en un futuro probable (generalmente mediante un enfoque cuantitativo) y una visión gravita en torno un futuro deseado (de forma eminentemente cualitativa); si los escenarios se basan explícitamente en la incertidumbre, las previsiones se centran en relaciones estables y las visiones en valores; si para la construcción de un escenario resulta fundamental la gestión de riesgos, las previsiones y las visiones tienden a esconderlos y/o invisibilizarlos. En definitiva, los escenarios se definen como estrategias de gestión que se utilizan en procesos de planificación a mediano y largo plazo con un nivel de incertidumbre alto, mientras que las previsiones se utilizan para perspectivas a corto plazo con bajo grado de incertidumbre y las visiones como factor desencadenante de cambios voluntarios.Ahora bien, como plantea enfáticamente Ringland (1998), no se trata sólo de imaginar futuros posibles mediante una metodología concreta y sistemática (identificación de temas significativos / entrevistas y focus group / escritura de los escenarios / creación simultánea de datos estadísticos sobre dichos escenarios / re-escritura de los escenarios a partir de espacios de feed-back como “scenario workshops”, etc.), sino de hacer que sucedan; es decir, en el caso del desarrollo organizacional, asegurarse de que los escenarios, por ejemplo, formen parte integral del plan de negocios y de la estrategia corporativa. Por ende, un escenario no concluye con su realización y planificación escrita, sino que contempla, también, los estados finales del proceso y el trabajo estratégico, poniendo especial énfasis en asegurar las capacidades requeridas y las acciones necesarias para llevarlos a cabo de forma efectiva. Por ejemplo, en un escenario utilizado en 1994 por British Airways, se contemplaba específicamente una dimensión referida a “política y valores” en la cual se mencionaba la necesaria ampliación de los países miembros de la Unión Europea (que por aquel entonces era 13, actualmente 28 y que, dicho escenario, situaba en torno a los 24), además de la posibilidad de contar con “partidos divididos y coaliciones extrañas”. Si bien resulta arriesgado y poco serio atribuir directamente la ocurrencia concreta de dichos cambios a la planeación de un escenario por parte de una compañía aérea, no se debe olvidar que: a) no se trata de un caso aislado, siendo los escenarios una práctica importante dentro del mundo de los negocios (la Shell Corporation, en este sentido, ha jugado un papel protagónico como líder en la materia); b) que dicha práctica, en su esencia, contempla como medida estratégica asegurar las acciones y capacidades requeridas para llevar a cabo concretamente el escenario; y c) que la industria del lobby, tan potente en Bruselas, se encuentra permitida, regulada y resguardada dentro de la legislación europea.Por lo demás, hoy en día, la construcción de escenarios ha alcanzado una escala planetaria. Ya no solo contamos con instituciones vinculadas a temas de seguridad e inteligencia (como la mencionada RAND Corporation) y empresariales (como el Institute for the Future de Palo Alto o el Kairos Future de Estocolmo), sino también, y cada vez con mayor fuerza, surgen instituciones cuya preocupación central es la investigación del futuro de la humanidad en su conjunto (por ejemplo, se puede mencionar al Future of Humanity Institute de la Universidad de Oxford o el Tellus Institute de Boston). De hecho, este último (junto al Stockholm Environment Institute, y con el apoyo de la Rockefeller Foundation, la Nippon Foundation, además de United Nations Environment Programme) han llevado adelante un proyecto denominado “Great Transition”, el cual se propone, mediante la creación de escenarios, imaginar un cambio integral y global para nuestra civilización mediante la identificación de estrategias, agentes de cambio y sistemas de valores.Si bien se explicita que el objetivo es imaginar profundas transformaciones históricas de los valores fundamentales y los principios de organización de la sociedad desde una perspectiva plural, y que los nuevos valores y paradigmas de desarrollo enfaticen la calidad de vida, la suficiencia material, la solidaridad humana, la sostenibilidad del medio ambiente y la equidad mundial, su propuesta de gran transición apuesta directamente por un escenario (denominado New Sustainability Paradigm, el cual tiene un marcado acento global en que juegan un papel protagónico las instituciones supranacionales, las empresas transnacionales y las ONG’s), en desmedro del otro potencial escenario de futuro (denominado “Eco-comunitarism”, que tiene un carácter bio-regional, de economía autárquica y democracia cara-a-cara). Más allá de la estrategia de dicotomización extrema –que llega a afirmar que es “difícil imaginar un eco-comunitarismo que no pase por una forma de barbarización” (Raskin et. al. 2002:15)– lo que interesa recalcar es que, como vimos anteriormente, parte fundamental de un escenario es asegurar las acciones y condiciones para que este pueda ser efectivamente llevado a cabo (lo cual, en este caso, demuestra el despliegue de una estrategia perfectamente calibrada en la medida que se defiende una gran transición de futuro en que las empresas transnacionales y las organizaciones supranacionales juegan un papel protagónico y se cuenta, simultáneamente, con el patrocinio de la Fundación Rockefeller y las Naciones Un/p particular ensamblaje de actores, no obstante, dista de constituir una excepción o una feliz coincidencia. Si analizamos, por ejemplo, un documento sobre Futuro Global confeccionado por el National Intelligence Council de los Estados Unidos (en el que cada capítulo finaliza con un “escenario ficcional” extrapolado a partir de tendencias claves en temáticas que van desde las “contradicciones de la globalización” a la instauración de una “cultura de la inseguridad” y la emergencia de “reconfiguraciones geopolíticas”), podremos constatar que dicho informe fue realizado con la participación especial de tres importante miembros: Ted Gordon, de la UN’s Millennium Project; Jim Dewar, Director de la RAND Corporation’s Center for Longer Range Global Policy and the Future of the Human Condition; y Ged Davis, de la Shell International’s scenarios project. La vinculación establecida por los escenarios entre la dimensión militar y de seguridad con la económica-empresarial desde un enfoque supranacional parece mostrarse de forma clara y evidente.Por lo tanto, para finalizar este apartado, centrémonos en un caso que, a primera vista, resulta ajeno a la lógica de articulación que hemos estado tratando. Nos referimos al campo de la salud. En un ámbito médico, en que prima claramente un enfoque de tipo científico, la utilización de la imaginación mediante escenarios ficcionales pareciese no tener importancia ni mucho menos cabida. Sin embargo, no es el caso. Durante el reciente brote de gripe A/H1N1 del año 2009, la Organización Mundial de la Salud decretó la alerta pandémica basándose en un posible escenario de mutación del virus (y no, como se solía hacer hasta ese momento, mediante criterios de mortalidad y morbilidad). Como corrobora Lakoff (2015), es el uso de escenarios lo que guío la respuesta de la OMS en ausencia de estadísticas oficiales que, en el caso de la mutación de un virus, se vuelven obsoletas e inoperativas (ya que, precisamente, la mutación nos hace enfrentarnos a un escenario nuevo que ya no se encuentra definido por las antiguas coordenadas estadísticas que proveían sentido al sistema). No es casual, en esta línea, que el proyecto “Great Transition” defina a los escenarios como el arte del equilibrio entre ciencia e imaginación (Raskin et. al. 2002). Pero, ¿cómo llegan los escenarios a convertirse en un dispositivo transversal y protagónico que subvierte a la mismísima ciencia como fuente de verdad? Indaguemos en ello a continuación.</p>
+</sec>
+<sec>
+<title>III. Escenarios: entre diferencia y repetición</title>
+<p>La mutación es a la diferencia lo que las estadísticas de la ciencia son a la repetición. Esta podría ser una fórmula, si bien simplista (aunque no incorrecta), de parafrasear el núcleo central de la controversia biomédica anteriormente mencionada sobre las epidemias. En este sentido, podríamos atender al hecho de que los escenarios no son espacios de representación (en el sentido metafísico tradicional), ya que, en estos lo que prima no es la preservación de una identidad determinada (por ejemplo, del historial de investigación científica de un determinado virus), sino las mutaciones y cambios (es decir, la diferencia) que se constituye en su línea de fuga y vector dinámico.No debemos olvidar que, precisamente, la crítica que Gilles Deleuze dirige a la filosofía occidental se podría sintetizar de la manera siguiente: “representa conceptos en vez de dramatizar Ideas” (Deleuze 2012:34), y la dramatización requerida no guarda relación con el actor que representa y repite, sino con el teatro en tanto que repetición. Por ende, desde esta perspectiva, cobra importancia la idea de un espacio escénico impersonal poblado por signos y máscaras que comprenden en sí la diferencia. “El mundo es un huevo, pero el huevo es él mismo un teatro: teatro de puesta en escena dónde los papeles tienen más importancia que los actores, los espacios que los papeles, las Ideas que los espacios” (Deleuze 2012:326). Y en la construcción de escenarios, precisamente, opera esta inversión de coordenadas. Si recordamos, por ejemplo, el escenario de la Gran Transición, podremos constatar que no se habla, en ningún momento, de actores específicos involucrados en el escenario, sino de papeles que deben ser desempeñados. De igual forma, una vez definidos estos papeles, la primacía dinámica del escenario, más que descansar en ellos, adquiere importancia en la medida que articula espacios (en este caso, un espacio global en que juegan un papel protagónico las instituciones supranacionales, las empresas transnacionales y las ONG’s). Pero, por último, todo este andamiaje de roles, espacios y relaciones adquiere dinamismo en función de una Idea (el denominado New Sustainability Paradigm) con sus sistemas de valores y paradigmas de desarrollo que propician la emergencia de una forma particular de conceptualizar la calidad de vida, la suficiencia material, la solidaridad humana y la vinculación con el medio ambiente.Una Idea que dista de ser un documento escrito o una mera declaración de principios. Como hemos visto, de lo que se trata es de hacer que suceda. En este sentido, habría que recordar junto a Deleuze que las Ideas, siendo virtuales, no por ello carecen de realidad. “Lo virtual no se opone a lo real, sino tan solo a lo actual. Lo virtual posee una realidad plena, en tanto es virtual (…) Reales sin ser actuales, ideales sin ser abstractos; y simbólicos sin ser ficticios” (Deleuze 2012:314). Los escenarios ficcionales, en este sentido, se constituyen en una dimensión que no es ni real ni ficticia (ni científica ni puramente imaginativa) en tanto que diferencial que expresa la naturaleza de lo problemático. Es decir, que expresa la Idea; escenarios que devienen acontecimientos y simulacros. Escenarios que, abriéndose paso mediante un espacio que desdibuja las fronteras entre realidad y ficción, entre ciencia e imaginación, no por ello deben ser conceptualizados como pura indeterminación. De hecho, “lejos de ser indeterminado, lo virtual está completamente determinado” (Deleuze 2012:315) en la medida que la lógica del hacer que suceda (asegurando las acciones y condiciones para que el escenario pueda ser efectivamente llevado a cabo), se inscribe en este como una dimensión en sí.Es por ello, tal vez, que los teóricos de los escenarios insisten tan vehementemente en diferenciar a estos de las visiones y las predicciones. Estas últimas, por ejemplo, inscriben la diferencia en el concepto y no en sí; es decir, son dispositivos representativos que carecen de virtualidad siendo solo una mecánica (y no maquínica) posibilidad. Las predicciones, por lo demás, no llevan en sí sus propias coordenadas de actualización (el andamiaje del hacer que suceda, diríamos), por lo cual únicamente podrían ser realizados, pero no actualizados. Y de lo que se trata, en un escenario, es de actualización. La lógica del hacer que suceda no debe ser entendida como la búsqueda de un momento específico y concreto de realización (algo así como un final del camino), sino como un proceso constante de actualización de esa Idea (y no de otra). He ahí su virtualidad y poder performativo.Pero, ¿cómo se produce la actualización de algo virtual? “Los procesos dinámicos son los que determinan la actualización de la Idea. ¿Pero en qué relación están con ella? Son exactamente dramas, dramatizan la Idea” (Deleuze 2012:325). Los escenarios, en este sentido, se constituyen en dispositivos de dramatización de su propia escena. Y, como bien apunta Deleuze, “la dramatización es la diferenciación de la diferenciación, simultáneamente cualitativa y cuantitativa” (2012:327).Como mencionamos anteriormente, precisamente los escenarios se caracterizan por este tipo mixto de ensamblaje metodológico, a diferencia del acercamiento eminentemente cuantitativo de las predicciones y esencialmente cualitativo de las visiones de mundo. En tanto que simultáneamente cuantitativo y cualitativo, científico e imaginativo, real y ficticio, un escenario se constituye en un dispositivo que se expresa mediante dos dimensiones que, no obstante, son dichas a la vez. Esta, de hecho, es la estrategia mediante la cual el pensamiento deleuziano evita la metafísica representativa de una dialéctica negativa.En Lógica del sentido se expresa este asunto con claridad y contundencia: “es preciso decir dos veces, ya que es siempre a la vez” (2011:63). Las dos veces, en este sentido, son conceptualizadas como una disimetría constitutiva (real-ficticio; científico-imaginativo; cuantitativo-cualitativo) que es fundamental para la emergencia del escenario; mientras que, el a la vez, tiene que ver con la univocidad de la diferencia en sí (es decir, la emergencia de un tiempo vacío –Aión–, que es el tiempo del devenir, el tiempo de los simulacros y el acontecimiento en que se produce la actualización). “Porque el acontecimiento no se inscribe bien en la carne, en los cuerpos, con la voluntad y la libertad que convienen al paciente pensador, sino en virtud de la parte incorporal que contiene su secreto, es decir, el principio, la verdad y la finalidad, la casi-causa” (Deleuze 2011:260). Es por ello que el escenario, en tanto que simulacro/acontecimiento, puede ser comprendido como lo que acaba de pasar y lo que va a pasar, pero nunca como lo que pasa. En esto radica su virtualidad y su originalidad en tanto que dispositivo post-metafísico (es decir, en la capacidad de constituirse en una maquinaria capaz de devenir casi-causa inmanente).El escenario es, en definitiva, una tirada de dados entre dos mesas (por utilizar la metáfora de Nietzsche): jugada que se despliega entre la mesa del cielo-ciencia y de la tierra-imaginación. O, por decirlo en términos deleuzianos, una tirada de dados entre un plano de organización trascendente y un plano de consistencia inmanente. De esta forma, la fisura-bisagra entre las dos mesas involucradas en el juego es el escenario en tanto que acontecimiento. “La fisura, la bisagra es la forma del tiempo vacío, el Aión, por donde pasan las jugadas de los dados”. En otros términos, el tiempo vacío del acontecimiento virtual es lo que articula las dos mesas; es la diferencia en sí que articula diferencias. En este sentido, Deleuze vuelve constantemente a la idea del teatro, en la medida que una puesta en escena de la diferencia “plantea el más agudo problema teatral, el problema de un movimiento que llegaría directamente al alma y que sería el del alma” (Deleuze 2012:32).Se trata, por tanto, de pensar “espacios de movimiento”, espacios en donde se produce el movimiento real. Incluso Deleuze puntualiza que “el teatro extrae el movimiento”. ¿Y qué hacen, si no, los escenarios en el despliegue de una Idea que lleva inscrita en sí las actualizaciones para que suceda (es decir, para que el dinamismo de una máquina no-representativa emerja y se mueva)? Por ejemplo, en el caso de la Gran Transición, la utilización de un escenario como el New Sustainability Paradigm no solo inserta movimiento y dinamismo a una serie científica, sino también en una serie imaginativa; no solo en una serie económica (transnacionales y mercado global en vez de eco-comunitarismo regional), sino también en una serie política (participación ciudadana mediante ONG’s y no mediante democracia cara-a-cara). El escenario, en esta línea, es la diferencia que conecta mediante diferencias; es decir, el acontecimiento-simulacro que hace vibrar series heterogéneas. “Los simulacros son esos sistemas donde lo diferente se relaciona con lo diferente por medio de la misma diferencia” (Deleuze 2012:440), asegurando de esta manera “la convergencia de las dos series que recorre, pero con la condición precisamente de hacerlas divergir sin cesar” (Deleuze 2011:70). Se trata, así, de una especie de “circulación de la casilla vacía en las series de la estructura (lugar del muerto, lugar del rey, mancha ciega, significante flotante, valor cero, bastidor o causa ausente)” (Deleuze 2011:102) que, desde esta perspectiva, denominaríamos como escenario.Ahora bien, desde una perspectiva deleuziana, una objeción irrumpe con urgencia y premura: el tiempo vacío del Aión (es decir, el devenir ilimitado del eterno retorno) es conceptualizado como una instancia liberadora; es decir, como una dimensión afirmativa y no constrictiva de la cual un dispositivo sería incapaz de hacerse cargo. No se puede, para Deleuze, capturar u operativizar el devenir en tanto que devenir, ya que este, precisamente, se caracteriza por hacer estallar cualquier tipo de engranaje mecánico y/o determinación. Es precisamente por este motivo que el devenir es una fuente de liberación en relación a todo sistema de control. Pero, ¿qué pasaría si se logran concebir dispositivos de control de tipo no-representativo y afirmativo? ¿Qué pasaría si se construyen máquinas que, sin capturar el devenir, devienen ilimitados simultáneamente como un eco de aión? Desde nuestra perspectiva, consideramos que atravesamos un momento histórico en que el despliegue técnico de nuevos dispositivos apunta precisamente en esta dirección (y los escenarios no serían más que un ejemplo decidor). Tal vez (y solo tal vez) en esta línea debamos leer la siguiente afirmación: “pues solo en la técnica hay imaginación” (Deleuze y Guattari 2015:348). La aplicación técnica de nuestra mejor filosofía, en este sentido, es sin lugar a dudas motivo de alago y terror. Interpelación a pensar nuevamente un irrenunciable pero pasajero conjuro del horror.</p>
+</sec>
+<sec>
+<title>IV. El escenario y la Différance</title>
+<p>En Márgenes de la Filosofía, Derrida conceptualiza a la Différance como “un espacio extraño: movimiento entre dos diferencias” (2013:41). En este sentido, la différance no se presenta nunca como tal, ya que esta es (un “es” tachado), ya que “nunca se hace presente. A nadie”, constituyéndose en lo más irreductible de nuestra época. Podríamos decir, por ende, que la différance puede ser entendida como una virtualidad; es decir, como lo que acaba de pasar y lo que va a pasar, pero nunca como lo que pasa. La propuesta derridiana, en este sentido, puede ser leída como una alternativa a la metafísica de la presencia de la misma forma que el pensamiento deleuziano se erige en una alternativa a la metafísica representacionista. De hecho, ambas dimensiones son constitutivas de un mismo fenómeno (solo que articuladas con un acento o ritmo característico): una línea de fuga y una huella de ausencia. “La différance es lo que hace que el movimiento de la significación no sea posible más que si cada elemento llamado «presente», que aparece en la escena de la presencia, se relaciona con otra cosa, guardando en sí la marca del elemento pasado y dejándose ya hundir por la marca de su relación con el elemento futuro” (Derrida 2013:48). Tenemos, por tanto, la emergencia de un espacio extraño que hace emerger el movimiento sin ser presente en su presencia (es decir, sin “ser”). Lo que tenemos, desde nuestra perspectiva, es un escenario.Por ejemplo, si recordamos el caso de la alerta pandémica decretada por la OMS en 2009, podremos corroborar que la actuación de dicha agencia se basó en una différance; es decir, en un escenario de mutación de un virus ausente (pensado desde el pasado y proyectado hacia el futuro) que insufla movimiento y dinamismo desde una ausencia presente. Lo interesante de este caso es que, sin embargo, dicha alerta pandémica produjo una efectuación concreta del escenario. ¿No contradice este punto lo que hemos venido argumentando? ¿No se podría conjeturar que, al efectuarse dicho escenario, este deja de ser virtual y se hace presente en su presencia? La prerrogativa del hacer que suceda, en este caso, se concretó en una serie de medidas de salud pública adoptadas por diferentes Estados-Nación alrededor del planeta (siendo, probablemente, la más bullada y controvertida, la referida a la compra masiva y millonaria -y, a la postre, revelada como innecesaria- de vacunas y tratamientos antivirales). Sin entrar en la controversia referida a los conflictos de interés presentes en el Comité Técnico de la OMS que recomendó la adopción de una medida que favorecía los intereses económicos de la industria farmacéutica a la que muchos de sus miembros pertenecieron y/o pertenecían, lo que nos interesa es recalcar dos importantes cuestiones: a) comprender que la efectuación concreta de un escenario no implica necesariamente su presencia; y b) que un escenario es plural (y nunca singular); es decir, que todo escenario se encuentra en relación con otros escenarios, constituyendo una verdadera red y forma de pensamiento.Respecto al primer punto, cabe destacar que la escenificación del escenario de mutación del virus no implica necesariamente el despliegue de una presencia debido a que este, a pesar de provocar la adopción de medidas prescritas en su propio despliegue, para los espacios en que es ejecutado continúa siendo un acontecimiento fantasmático (es decir, un simulacro). En otras palabras: las medidas de salud pública son adoptadas por los Ministerios de Salud de los territorios gestionados y gobernados por un determinado Estado-Nación; sin embargo, el interdicto proviene de una institución supranacional. De igual manera, su ejecución en el espacio político-jurídico del Estado es desencadenada a partir de un interdicto de tipo biomédico (razón por la cual se desdibuja la relación entre ciencia y política; entre paradigma político-jurídico y tecno-científico). En este sentido, se puede decir que “su presencia (es) una cierta ausencia” (Derrida 1989:123), en la medida que la ejecución del escenario, para el espacio involucrado, deviene inmediatamente marca o huella. O bien, dicho en otros términos, el escenario opera como una diferencia que permite conectar órdenes autónomos y heterogéneos debido a una cierta irregionalidad del noema (por decirlo en términos fenomenológicos); es decir, debido a que una “abertura al «como tal» del ser y a la determinación de la totalidad de las regiones en general, no puede describirse, stricto sensu y simplemente, a partir de una estructura regional determinada” (Derrida 1989:224). Esto quiere decir que es a partir de una diferencia (es decir, del escenario como huella y no del ser del escenario), que esta pre-abertura de la diferencia óntico-ontológica se constituye en el vector dinámico (y ausente) de nuestra escena (es decir, en su différance).Esto nos conecta directamente con nuestro segundo punto, a saber, la necesaria conceptualización plural de los escenarios. Como hemos podido apreciar, un escenario jamás emerge de forma aislada. En la Gran Transición, por ejemplo, si bien los autores se decantaban explícitamente por uno de ellos, se manejaban simultáneamente al menos 6 escenarios de futuro. Por otra parte, cabe destacar que un escenario, en modo alguno, se caracteriza por ser un dispositivo estático. Antes bien, todo lo contrario. Como hemos mencionado, el proceso de construcción de un escenario implica una serie de pasos en que este se va continuamente modificando mediante el feed-back de los diferentes actores involucrados. Por último, se debe tener en consideración que, incluso si asumiésemos un escenario como el de la Gran Transición de forma aislada (es decir, apuntando únicamente al escenario que el grupo de expertos propone como el más idóneo), no nos quedaría más remedio que aceptar que este se inserta en una atmósfera social que se articula (cada vez con mayor fuerza) mediante la producción de escenarios. En este sentido, un escenario siempre está en relación con otros escenarios.Por todo lo anterior (y volviendo a nuestro escenario de la gripe A/H1N1), debemos constatar que su efectuación material concreta en los Estados-Nación involucrados no implica su presencia, sino la actualización de la différance como mecanismo de intelección y conectividad. O bien, dicho en términos derridianos: “el encuentro es separación (…) aparece como lo que es en la diferencia, es decir, como la diferencia y en la simulación” (Derrida 1989:101). De esta manera, mediante el escenario -arte del encuentro entre ciencia e imaginación- opera el encuentro entre una escala global y una escala regional (Global Health con Salud Pública y Agencias Supranacionales con Organismos Estatales), así como el encuentro entre ciencia y política (mediante un interdicto biomédico que se despliega a partir del andamiaje político-jurídico del Estado-Nación). En definitiva, el escenario es una diferencial que articula y conecta. Al igual que en la propuesta deleuziana, no podemos hablar aquí de conexión-comunicación de tipo informativo. “No hay traducción, sistema de traducción, más que si un código permanente permite sustituir o transformar los significantes”. Y, en nuestro caso, “la diferencia es la articulación del espacio y del tiempo” (Derrida 1989:289 y 301).Porque se trata precisamente de eso: de la emergencia de un espaciamiento sin mediadores (razón por la cual es, también, una apuesta no-representacionista). Como enfatiza Derrida “una escena que lo único que hace es ilustrar un discurso no es ya realmente una escena”, razón por la cual la producción de un espacio no-teológico se corresponde con el “triunfo de la puesta en escena pura”. Mientras que un espacio teológico está dominado por la palabra, con el espacio no-teológico se logra una libertad creadora e instauradora liberada del texto. En este sentido, podríamos plantear que la lógica de los protocolos (aún muy presente en nuestros días), no es más que una derivada de la producción de escenarios ficcionales. Como hemos insistido, la escritura de los escenarios es solo un primer paso que, en modo alguno, agota la potencia de estos dispositivos. Con estos, antes bien, se produce un “espaciamiento, es decir, producción de un espacio que ninguna palabra podría resumir o comprender” (Derrida 1989:325).No es casualidad, en este sentido, que Derrida (al igual que Deleuze) insista en la importancia del teatro (especialmente analizando las aportaciones de Artaud). Como dijimos recientemente, “la primera urgencia de un teatro in-orgánico es la emancipación con respecto al texto” (Derrida 1989:259). Es decir, un teatro que deviene baile; teatro de la crueldad que será el arte de la vida misma (entendiendo a la vida como aquello que no se presta al comentario, a la metafísica de las dualidades). Un teatro que, por ende, deja de ser espectáculo para espectadores (siendo estos, de forma activa, incorporados). Los escenarios, en este sentido, involucran actualmente la vida y las formas-de-vida de toda la humanidad y el Planeta (como se puede apreciar en el escenario de la Gran Transición o en despliegue de una alerta pandémica). Por lo demás, las actualizaciones de la virtualidad del escenario son reales y se inscriben en los cuerpos, no solo de forma circunstancial, sino como parte constitutiva y explícita de su cometido propuesto. Como expresa Ringland (1998), la utilización de videos, titulares de periódicos u obras de teatro se presenta como un objetivo fundamental en la construcción de un escenario, en la medida que, precisamente, el objetivo a conseguir es que estos se conviertan en parte de la consciencia de la gente; es decir, que se convierten en mundos en los que la gente pueda sumergirse. En este contexto, la restauración de la escena de la crueldad de Artaud que brillantemente ejecuta Derrida, lejos de devenir fiesta de liberación y transgresión, se ha constituido en un cruento dispositivo de gestión y control. Efectivamente (como prescribía Artaud), “la fiesta debe ser un acto político. Y el acto de revolución política es teatral” (Derrida 1989:336). No obstante, ¿cuál es el escenario sobre el que desplegamos nuestro teatro político y revolucionario? ¿Qué instancias dirigen la escena de nuestro aparente baile libertario?</p>
+</sec>
+<sec>
+<title>V. Escenarios como estados de excepción</title>
+<p>“Restaurar el Peligro despertando la Escena de la Crueldad” (Derrida 1989:242). He aquí el objetivo de Artaud. La emergencia de una “cultura pública del peligro” (Caduff), sin embargo, es a lo que nos enfrentamos hoy. Una verdadera “cultura de la inseguridad especulativa”, de la crisis permanente y del riesgo omnipresente que, en tanto que inminente, obliga a tomar medidas excepcionales para hacerle frente. Pero, ¿qué tipo de medidas? Por ejemplo, aprobar proyectos de ley que permitan extender (de doce días a tres meses) la aplicación de un estado de excepción debido a la inminencia de un nuevo ataque terrorista. El Ministro de Interior francés, en este sentido, arguyó ante la Asamblea Nacional que la “imaginación macabra e ilimitada” de los terroristas les hacía “saber y tener en cuenta que existe el riesgo de utilización de armas químicas y bacteriológicas”. De esta forma, “cuando el estado de excepción es querido, inaugura un nuevo paradigma jurídico-político, en el que la norma se hace indiscernible de la excepción” (Agamben 1998:216). Tal vez, en este sentido, no nos debiese sorprender la imaginación ilimitada del presidente Hollande al proponer la proclamación en Francia de “un estado de excepción económico y social” con miras a combatir el desempleo. Pero, ¿qué tiene esto que ver con los escenarios?Si recordamos la alerta pandémica de la OMS respecto a la gripe A/H1N1 veremos que mucho. Ante el peligro de una mutación (es decir, ante una incertidumbre cierta que amenaza con reconfigurar nuestros conocimientos en una determinada materia), la utilización de herramientas clásicas de la ciencia (como el cálculo estadístico) se tornan obsoletas. En estas circunstancias, por ende, se debe aplicar una racionalidad que permita anticipar los riesgos potenciales (los cuales, por tanto, deben ser imaginados). A partir de una base científica (evidentemente), pero imaginados y no meramente proyectados. Es decir que, ante una situación de estas características, en que la norma se hace indiscernible de la excepción en la medida que la inminencia del peligro nos acecha, un dispositivo adecuado será la construcción de escenarios. En otros términos: no sólo los escenarios se vuelven una herramienta eficaz y pertinente en casos en que prima la excepcionalidad como norma, sino que, estos mismos, operan como estados de excepción. Expliquemos este punto.Como plantea Agamben (1998, 2004), un estado de excepción debe ser entendido más como una figura topológica compleja que abre una región de indistinción entre el dentro y el afuera, que como una simple suspensión espacio-temporal de la regla. Una región de indistinción que, en la terminología que venimos utilizando, puede recordarnos al espacio escénico impersonal de Deleuze o al espacio extraño de la différance del que nos alertaba Derrida. Un espaciamiento que conecta y articula mediante la diferencia; mediante una excepción, diríamos, que opera como diferencia. Ahora bien, como nos recuerda Agamben, el vector fundamental de esta indistinción entre el dentro y el afuera es un proceso simultáneo de excluir incluyendo e incluir excluyendo. Si bien Agamben centra su análisis prioritariamente en un solo campo (el derecho) y en cómo la vida entra en esta din&amp;aacu/p;mica de inclusión-exclusión respecto al mismo, nosotros podemos aplicar su razonamiento a la articulación de más de un campo (por ejemplo, al biomédico y al político-jurídico).Volvamos, por ende, nuevamente sobre las pandemias y sus escenarios. Decíamos que, al decretarse una alerta pandémica basada en escenarios por parte de un organismo supranacional, estos dispositivos “excluyen incluyendo” a los Estado-Nación, a la par que “incluyen excluyendo” a la ciencia. La exclusión inclusiva del Estado, en esta línea, se despliega en la operación mediante la cual el interdicto es biomédico y supranacional, pero siendo ejecutado por el aparataje burocrático-administrativo de los respectivos estados nacionales. Por su parte, la inclusión exclusiva de la ciencia se manifiesta en el protagonismo y autoridad del saber biomédico, pero que, en situaciones de preparación de alertas pandémicas, utiliza “el método científico” como herramienta subsidiaria en relación a la imaginación desplegada en la creación de escenarios. Como decía Raskin, los escenarios son el arte del equilibrio entre ciencia e imaginación. O bien, dicho en nuestros términos, los escenarios operan como estados de excepción. Un encuentro en y mediante la diferencia que es separación.Si recordamos, en este sentido, la propuesta de Deleuze, podremos constatar que la diferencia opera precisamente mediante una “existencia doble” en una lógica de el uno dentro del otro. “Ese punto extremo que separa nuestro saber y nuestra ignorancia, y que hace pasar el uno dentro de la otra” (Deleuze 2012:18). Además, Deleuze insiste en que la repetición “está contra la ley: contra la forma semejante y el contenido equivalente de la ley”, razón por la cual esta debe ser invertida y transgredida (mediante el humor y la ironía, por ejemplo), ya que esta “es, por naturaleza, transgresión, excepción” (2012: 23 y 27). Por otra parte, no debemos olvidar que el estado de excepción se define como un espacio anómico en el que se pone en juego una fuerza-de-ley sin ley; es decir, una fuerza-de-ley, en la medida que esta está vigente sin ser aplicada, en una extraña actuación que aplica des-aplicando (Agamben 2004). En este sentido, recordando a Derrida, diríamos que el estado de excepción es, al igual que la ley, un vector tachado en la medida que no está presente (y en ello radica, precisamente, su paradójica potencia). Además, el estado de excepción (en palabras de Agamben), se vale de una fictio a través de la cual el derecho busca anexarse la propia anomia (y, por ende, su presencia como huella); de la misma manera que los escenarios se valen de la ficción para incorporar un efecto de indistinción en el corazón mismo de la política y de la ciencia.Si analizamos, por ejemplo, el “ejercicio nacional” de simulación de un brote de ébola llevado a cabo el 11 de octubre de 2014 por parte del Departamento de Salud de Reino Unido, podremos constatar claramente cómo los escenarios instauran zonas de indistinción en que, implicándose y excluyéndose entre sí, la política y la ciencia se constituyen recíprocamente. Dicho ejercicio tuvo una duración de ocho horas, contando con la participación de ministros, departamentos gubernamentales, expertos del ámbito médico, así como la utilización de la red de infraestructura de salud pública (hospitales, funcionarios, ambulancias, etc.). En este sentido, el objetivo explícito de esta actividad era “asegurar que la población se encontraba protegida” ante el riesgo potencial del ébola, razón por la cual “el ejercicio puso a prueba escenarios” en la materia (DH, 2014a). Una vez concluido el ejercicio, diferentes personeros de gobierno emitieron declaraciones públicas enfatizando “el aprendizaje obtenido de la experiencia”, así como “la importancia de prepararse de esta manera para hacer frente a este tipo de incidentes” (DH, 2014b). En otras palabras: se asume explícitamente al escenario como fuente de generación de conocimiento y, de paso, se naturaliza la lógica de la excepción como algo inherente a la norma. En este sentido, recordemos que “cuando el estado de excepción es querido, inaugura un nuevo paradigma jurídico-político, en el que la norma se hace indiscernible de la excepción”. Pero, esto es solo el comienzo, ya que la lógica de indistinción inmediatamente trasciende el umbral definido por el Estado-Nación que, simultáneamente, realizaba todo este despliegue debido a un peligro de tipo global que, en su territorio, se encontraba ausente. En esta línea, analicemos el siguiente fragmento:“The UK will also send 750 Ministry of Defence personnel to help with the establishment of Ebola treatment centres and an Ebola training academy. This will include the deployment of RFA Argus to take and support three Merlin helicopters, more than 200 military staff deployed to run and staff World Health Organization-led Ebola training facilities and additional personnel to help deliver support to the Sierra Leone government” (DH, 2014b).Como se puede apreciar, nos encontramos frente a la emergencia de múltiples escalas (local, nacional, continental, global) y múltiples dimensiones (médica, política, militar, económica) articuladas mediante un escenario en tanto que excepción-diferencia. En tanto que teatro como acto político en que, implicándose y excluyéndose entre sí, la política y la ciencia se constituyen recíprocamente. Porque, este último campo (la ciencia), después de tan solo un mes de ejecutado el ejercicio, recibió más de un millón de libras de presupuesto por parte del Gobierno Británico y Welcome Trust (fundación global de caridad) para desarrollar nuevos proyectos sobre el ébola, entre los que se encuentra el “EbolaCheck” (dispositivo portátil que pone a prueba los fluidos corporales), así como el desarrollo de modelos predictivos de la propagación del virus en África Occidental (DH, 2014c). Es decir: proyectos que, formando parte sustancial de la normatividad científica tradicional, emergen y/o son impulsados a partir de escenarios en que el método de la ciencia es subvertido por el arte de imaginar escenarios.Ahora bien, en la última entrega de Homo sacer, Agamben (2014a) nos alerta e instruye sobre una dimensión que nos permitiría escapar a esta lógica de indistinción con que nuestra vida es políticamente descualificada (es decir, convertida en nuda vida) por parte de estos procesos de excepción. La respuesta, en este sentido, estaría dada por la adopción de formas-de-vida (es decir, hacer que una vida se vincule tan estrechamente con su forma que esta se haga inseparable e indiscernible de ella) que permitan evitar que esta sea reconducida y/o capturada por la moral o el derecho. Es decir, hacer que las reglas se vuelvan indiscernibles en relación a la vida (mediante el uso), en vez de que estas se vuelvan indiscernibles en relación al derecho (mediante la excepción). Dicho en otros términos (Agamben 2014b), de lo que se trata es de desplegar, mediante el uso (es decir, mediante una suerte de operación inoperativa, ni activa ni pasiva), un poder destituyente que escape de la lógica tradicional del poder constituyente que, desde su perspectiva, nos reconduciría nuevamente a la lógica del derecho. En definitiva: formas-de-vida como poder destituyente que se erigen en el desafío político del futuro (sería, en síntesis, la propuesta de Agamben). Pero, ¿qué diríamos si, actualmente, constatamos la existencia de dispositivos que, operando desde la lógica de la excepción, son capaces, simultáneamente, de generar y propiciar indistinciones como formas-de-vida? ¿Y si el poder destituyente, en su operatividad inoperativa, no es prerrogativa solo de una vida? Porque ¿qué es, si no, el teatro de la crueldad que despliegan los escenarios al hacer uso de la ciencia y de la política? Tal vez, antes incluso de aceptar el desafío de Agamben, debamos constatar que nos encontramos inmersos en una atmósfera en que remozados dispositivos se articulan maquínicamente a partir de lo destituyente. Problematizar este asunto, por ende, se vuelve una tarea urgente.</p>
+</sec>
+<sec>
+<title>VI. Conclusiones</title>
+<p>Si bien resulta poco probable (a la par que irrelevante) que los teóricos de los escenarios hayan tenido en consideración las propuestas filosóficas aquí discutidas, no es menos cierto que, mediante estas, podemos comprender de un modo sistemático y particularmente intenso su paradójico funcionamiento. Y, de ser así, debemos inmediatamente comenzar a ensayar nuevas formas de pensamiento. Al parecer, lo más irreductible de nuestra época ya no lo es tanto. Los escenarios, en tanto que espacio escénico impersonal, devienen juego de lo ilimitado; en tanto que espacio extraño, se constituyen en una suerte de ausencia presente; y, en tanto que espacio de indistinción, articulan un juego en que se excluye incluyendo y se incluye excluyendo. Porque, en la medida que los escenarios se definen como el arte de mezclar ciencia e imaginación se insertan en un devenir lúdico. El juego, por ende, ya no nos inmuniza ante el horror. La escena de la crueldad restaura un peligro aterrador: el de nuestra mejor filosofía puesta al servicio de nuevas maquinarias de control. Maquinarias que, en definitiva, van más allá del control abierto y continuo adentrándose en la producción de sentido, allanando una dimensión de superficie (la dimensión de los acontecimiento, de los simulacros y del tiempo vacío) que, ingenuamente, creímos que sería de forma inalienable nuestro inveterado reducto de liberación. Pues parece ser que no. Pero, no por ello, hay que dejar de fugarse. Lo que se debe es, simultáneamente, empezar a pensar de otro modo. No solamente nuevas formas-de-vida, sino también nuevas formas-de-pensamiento.Debemos ir más allá de la diferencia como esencia única de la vida y del pensamiento. Esta, en tanto que alternativa a la metafísica occidental, fue el más hermoso destello del siglo XX, pero su fuerza se está agotando. Ya no podemos conformarnos con prescripciones del tipo: “hay que pensar la vida como huella antes de determinar el ser como presencia (…) Es el no-origen lo que es originario” (Derrida 1989:280). Ya no podemos aceptar que la diferencia (y solo la diferencia) es la única pauta que conecta entidades heterogéneas en tanto que disimetría originaria o disparidad constituyente (Deleuze 2011). Esta abertura, entendida como superficie de ensamblaje entre la idealidad de altura y el caos de profundidad (es decir, como acontecimiento y simulacro), debe ser nuevamente problematizada (ya que, incluso desde su propio plano de pensamiento, se puede apreciar que la superficie presenta una influencia unilateral que debe hacernos repensar todo el proceso). Por ejemplo, cuando se defiende que esta posee un carácter que no es activo ni pasivo, ni esencial ni teológico (como sostiene Derrida y Agamben utilizando la expresión voz media), esto no impide que inmediatamente se acepte una primacía de lo destituyente por sobre lo constituyente (como vimos en Agamben), debido a que la oposición a la lógica de las dicotomías metafísicas implica “la necesidad tal que uno de los términos aparezca como la diferencia del otro, como el otro diferido en la economía del mismo” (Derrida 2013:53). En el caso de Deleuze, si bien se insiste continuamente en que existe una doble articulación del agenciamiento en que, no obstante, “no hay dos multiplicidades o dos máquinas, sino un solo y mismo agenciamiento maquínico que produce y distribuye todo” (Deleuze y Guattari 2015), no es menos cierto que siempre se termina por reconocer una primacía de lo inmanente, de la cara del agenciamiento orientada hacia el plano de composición (hacia cuerpo sin órganos) en que siempre hay algo que se está fugando. Poder destituyente, différance y fuga-inmanencia, de esta manera, se constituyen en una forma particular de concebir la superficie y la voz media que deberíamos someter a cuestionamiento. La lógica de los escenarios, al menos, nos invita a ello.Cuando hemos analizado las conexiones que mediante estos dispositivos se produce al articular ciencia y política (por ejemplo, en el caso de un brote pandémico), hemos podido constatar que no necesariamente uno de los términos aparece como la différance del otro. Antes bien, lo que tenemos, es una descodificación conjunta a partir de un escenario que, en sí, es un arte de la indistinción. Se podrá decir (como, por lo demás, nosotros mismos hemos hecho), que el escenario es en sí la diferencia, pero esto implicaría nuevamente asumir que en la articulación de ciencia y política que define al escenario, es la imaginación (inmanente y destituyente), la que se impone a la ciencia (trascendente y constituyente). Esto habría que decir, al menos, si seguimos pensando desde la filosofía de la diferencia. Pero, ¿es que acaso no hay imaginación en la ciencia ni método en los escenarios? Y, lo que es realmente importante, ¿cómo es posible que la diferencia, el devenir, pueda constituirse en un dispositivo? La forma-de-vida que proscribe Agamben, en tanto que poder destituyente, se nos presenta como una alternativa necesaria pero insuficiente para la atmósfera propia de las máquinas de nuestro tiempo. Tal vez, a lo destituyente del uso se le deba añadir la creación de nuevas formas-de-pensamiento (en que, precisamente, lo destituyente y lo constituyente sean vivibles y pensables desde un nuevo plano que vaya más allá –y más acá– de la insistencia metafísica de lo inmanente y lo trascendente). Un nuevo plano de pensamiento, en definitiva, que destituya creativamente al último y soterrado reducto de la vieja metafísica de occidente.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>Referencias</title>
+<ref id="redalyc_10148922001_ref1">
+<mixed-citation>Agamben, G.  2014a. Altísima pobreza. Reglas  monásticas y formas de vida (Homo sacer IV). Valencia: Pre-Textos.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Agamben</surname>
+<given-names> G</given-names>
+</name>
+</person-group>
+<source>Altísima pobreza. Reglas monásticas y formas de vida (Homo sacer IV)</source>
+<year>2014</year>
+<publisher-loc>Valencia</publisher-loc>
+<publisher-name>Pre-Textos</publisher-name>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref2">
+<mixed-citation>Agamben, G. 2014b. What is a  destituent power? Environment and  Planning D: Society and Space, Volume 32(1): 65–74. doi: 10.1068/d3201tra</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Agamben</surname>
+<given-names> G</given-names>
+</name>
+</person-group>
+<article-title>What is a  destituent power?</article-title>
+<source>Environment and Planning D: Society and Space</source>
+<year>2014</year>
+<volume>32</volume>
+<issue>1</issue>
+<fpage>65</fpage>
+<lpage>74</lpage>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref3">
+<mixed-citation>Agamben, G.  2004. Estado de excepción. Homo sacer II.  Valencia: Editorial Pre-Textos.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Agamben</surname>
+<given-names> G</given-names>
+</name>
+</person-group>
+<source>Estado de excepción. Homo sacer II</source>
+<year>2014</year>
+<publisher-loc>Valencia</publisher-loc>
+<publisher-name>Editorial Pre-Textos</publisher-name>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref4">
+<mixed-citation>Agamben, G.  1998. Homo sacer. El poder soberano y la nuda vida. Valencia: Editorial  Pre-Textos.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Agamben</surname>
+<given-names> G</given-names>
+</name>
+</person-group>
+<source>Homo sacer. El poder soberano y la nuda vida</source>
+<year>1998</year>
+<publisher-loc>Valencia</publisher-loc>
+<publisher-name>Editorial Pre-Textos</publisher-name>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref5">
+<mixed-citation>Deleuze, G. y Guattari, F. 2015. Mil mesetas. Capitalismo y esquizofrenia.  Valencia: Pre-Textos.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Deleuze</surname>
+<given-names> G</given-names>
+</name>
+<name>
+<surname>Guattari</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<source>Mil mesetas. Capitalismo y esquizofrenia</source>
+<year>2015</year>
+<publisher-loc>Valencia</publisher-loc>
+<publisher-name>Pre-Textos</publisher-name>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref6">
+<mixed-citation>Deleuze, G. 2012. Diferencia y repetición. Buenos Aires: Amorrortu. </mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Deleuze</surname>
+<given-names> G</given-names>
+</name>
+</person-group>
+<source>Diferencia y repetición</source>
+<year>2012</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref7">
+<mixed-citation>Deleuze, G. 2011. Lógica del sentido. Barcelona: Paidós.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Deleuze</surname>
+<given-names> G</given-names>
+</name>
+</person-group>
+<source>Lógica del sentido</source>
+<year>2011</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref8">
+<mixed-citation>Derrida, J.  2013. Márgenes de la filosofía.  Madrid: Cátedra</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Derrida</surname>
+<given-names> J</given-names>
+</name>
+</person-group>
+<source>Márgenes de la filosofía</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref9">
+<mixed-citation>Derrida, J.  1989. La escritura y la diferencia. Barcelona: Anthropos.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Derrida</surname>
+<given-names> J</given-names>
+</name>
+</person-group>
+<source>La escritura y la diferencia</source>
+<year>1989</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref10">
+<mixed-citation>DH (Department  of Health, UK). 2014a. National exercise takes place to test preparedness for Ebola in the UK  as part of contingency planning.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>of Health, UK</surname>
+<given-names>Department</given-names>
+</name>
+</person-group>
+<source>National exercise takes place to test preparedness for Ebola in the UK as part of contingency planning</source>
+<year>2014</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref11">
+<mixed-citation>DH (Department  of Health, UK). 2014b. National Ebola exercise concludes</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>of Health, UK</surname>
+<given-names>Department</given-names>
+</name>
+</person-group>
+<source>National Ebola exercise concludes</source>
+<year>2014</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref12">
+<mixed-citation>DH (Department  of Health, UK). 2014c. New research funding to strengthen Ebola  response</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>of Health, UK</surname>
+<given-names>Department</given-names>
+</name>
+</person-group>
+<source>New research funding to strengthen Ebola response</source>
+<year>2014</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref13">
+<mixed-citation>Lakoff, A. 2015. Real-time  biopolitics: the actuary and the sentinel in global public  health. Economy and Society 44(1):  40–59</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lakoff</surname>
+<given-names> A</given-names>
+</name>
+</person-group>
+<source>Real-time biopolitics: the actuary and the sentinel in global public health. Economy and Society 44(1): 40–59</source>
+<year>2015</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922001_ref14">
+<mixed-citation>Ringland, G. 1998. Scenario planning. Managing for the future.  West Sussex: John Wiley &amp; Sons.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Ringland</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<source>Scenario planning. Managing for the future</source>
+<year>1998</year>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

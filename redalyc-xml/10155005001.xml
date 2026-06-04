@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000300254</article-id>
+			<article-id pub-id-type="publisher-id">00001</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Subjetividad y trabajo viviente en la fenomenología de la vida de Michel Henry</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Subjectivity and Living Work in Michel Henry’s Phenomenology of Life</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Díaz Erbetta</surname>
+						<given-names>Myriam</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Escuela de Trabajo Social, Pontificia Universidad Católica de Valparaíso (Valparaíso, Chile) ORCID: 0000-0001-7819-3154</institution>
+					<institution content-type="normalized">Pontificia Universidad Católica de Valparaíso</institution>
+					<institution content-type="orgdiv1">Escuela de Trabajo Social</institution>
+					<institution content-type="orgname">Pontificia Universidad Católica de Valparaíso</institution>
+					<addr-line>
+						<named-content content-type="city">Valparaíso</named-content>
+					</addr-line>
+					<country country="CL">Chile</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Correspondencia: email <email>myriam.diaz.e@pucv.cl</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<month>12</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>60</issue>
+			<fpage>254</fpage>
+			<lpage>267</lpage>
+			<history>
+				<date date-type="received">
+					<day>21</day>
+					<month>03</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>15</day>
+					<month>07</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>A partir de sus análisis en torno a la realidad económica y social en el pensamiento de Marx, el filósofo francés Michel Henry propone que el fundamento de la economía es la subjetividad, o más bien la vida, pues es el trabajo, en cuanto “praxis viviente”, lo que define la realidad. El trabajo viviente produce y mantiene en el ser a los otros elementos de la economía, es el único que produce valor. El trabajo de cada sujeto, bajo esta concepción de la fenomenología de la vida, ya no es un agregado más, un elemento contingente, sino que constituye al sujeto en tanto tal. Por último, el descubrimiento del trabajo viviente como fundamento de la posibilidad de la economía lleva a Henry a proponer que una tarea fundamental de la filosofía puede ser la elucidación de la génesis trascendental de los conceptos de la ciencia y de allí su importancia epistemológica.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>From his analysis of Marx’s thinking on economic and social reality, the French philosopher Michel Henry establishes that subjectivity, or more precisely life, is the ground of economy because work as “living praxis” defines reality. Living work produces and keeps in being; it is the only one that produces value. This conception of phenomenology of life considers work as a constitutive and necessary element of the subject itself, and not only a contingent and expendable one. Finally, showing living work as grounding the possibility of economics permits Henry to propose as a fundamental aim of philosophy the elucidation of the transcendental genesis of science’s concepts, and from this, its epistemological relevance.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>subjetividad</kwd>
+				<kwd>trabajo viviente</kwd>
+				<kwd>fenomenología</kwd>
+				<kwd>Henry</kwd>
+				<kwd>Marx.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>subjectivity</kwd>
+				<kwd>living work</kwd>
+				<kwd>phenomenology</kwd>
+				<kwd>Henry</kwd>
+				<kwd>Marx.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="12"/>
+				<page-count count="14"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Michel Henry, quien es más bien conocido por sus trabajos en torno a la filosofía de la religión, el cuerpo y la afectividad, también ha desarrollado un interesante estudio sobre la realidad social y económica basada en una interpretación provocadora, novedosa y divergente del pensamiento de Marx. Este trabajo puede verse en continuidad con el gran tema que atraviesa la filosofía de Henry: la subjetividad, y finalmente, la Vida, que identifica como fundamento ontológico de toda realidad. La subjetividad para Henry se expresa en tres elementos fundamentales: el cuerpo, la afectividad y el trabajo viviente, siendo estos tres elementos constituyentes de la subjetividad e idénticos a ella.</p>
+			<p>En el presente artículo profundizaremos en el trabajo viviente, tema que Henry desarrolla en diversos textos de su producción filosófica. Henry propone que el fundamento de la economía es la subjetividad, la vida, pues el trabajo en cuanto “praxis viviente” es lo que define la realidad. De este modo, Henry descubre que la economía ha debido sustituir el trabajo viviente subjetivo (imposible de generalizar y objetivar) por el trabajo objetivo o el tiempo de trabajo, que sí puede venderse como mercancía y puede ser objeto para la ciencia en tanto es medible, cuantificable y comparable. La economía solo es posible si el trabajo deviene “otro”, diferente de sí mismo, si se substituye el trabajo viviente por el trabajo objetivo “enajenado”.</p>
+			<p>En su libro <italic>Marx</italic>, Henry aborda el problema de la conceptualización del trabajo, desde los escritos tempranos de Marx, influidos por Hegel, hasta las obras económicas posteriores. Para efectos de este ensayo abordaremos el concepto de trabajo a partir de cuatro aspectos: la concepción del trabajo genérico, los conceptos de trabajo real y trabajo abstracto, la división del trabajo y, finalmente, el trabajo viviente como expresión de la vida subjetiva misma.</p>
+		</sec>
+		<sec>
+			<title>El trabajo genérico</title>
+			<p>El análisis de Henry se inicia con el concepto de “trabajo de lo negativo” planteado por Hegel en la <italic>Fenomenología del Espíritu</italic>, que Henry comprende como “un proceso de negatividad, como proceso de objetivación” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:110). El trabajo así entendido no designa todavía la actividad humana específica por la cual los hombres producen los objetos necesarios para su subsistencia. Lo que Hegel estaría proponiendo sería la estructura interna del ser tal como la entiende la metafísica alemana, es decir, como proceso de objetivación, como auto-diferenciación interna, como la naturaleza de la conciencia misma. Respecto a esta concepción del trabajo, Henry cita los manuscritos de 1844: “La grandeza de la <italic>Fenomenología</italic> de Hegel -la dialéctica de la negatividad como principio motor y creador- consiste entonces, por un lado, en que Hegel aprehende la producción del hombre por el hombre mismo como un proceso, la objetivación como desobjetivación, como alienación y supresión de esa alienación; por lo tanto en que aprehende la esencia del trabajo y concibe al hombre objetivo, verdadero ya que real, como resultado de su propio trabajo…[Hegel] aprehende el trabajo como la esencia, como la esencia revelada del hombre” (<xref ref-type="bibr" rid="B12">Marx 2006</xref>:193). Lo que Marx destacaría en la concepción hegeliana del trabajo es la relación real y activa del hombre consigo mismo en tanto ser genérico, es decir, como ser humano que exterioriza a través de la creación todas sus fuerzas genéricas, confiriendo al objeto la forma misma de la conciencia que se objetiva en él. La conciencia percibe y piensa la forma del objeto como su propia forma: “El pensamiento es así la verdad del trabajo, es la contemplación de sí mismo en el otro -y eso gracias al trabajo, el cual, en la objetivación, puso justamente al otro como el sí de la conciencia. La conciencia como conciencia de sí: tal es el producto del trabajo y lo que le confiere su significación propiamente espiritual” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:111). </p>
+			<p>Marx señala en el mismo texto de los <italic>Manuscritos</italic> que, mientras el animal se confunde con su actividad y la lleva a cabo en una suerte de inmediación, la actividad humana, por el contrario, es una actividad consciente que otorga el carácter genérico al hombre: “El animal se identifica directamente con su actividad vital. No se distingue de ella. Es esa actividad. El hombre hace de su actividad vital el objeto de su voluntad y de su conciencia. Tiene una actividad vital consciente. No es una actividad vital con la cual se confunde directamente” (<xref ref-type="bibr" rid="B12">Marx 2006</xref>:112). Esta oposición entre conciencia y vida determina el primer concepto de alienación que interviene en los <italic>Manuscritos del 44</italic> y pone de manifiesto su marcado carácter hegeliano. Esto se expresa en que, para el hombre, la actividad genérica es la actividad consciente a la cual debe subordinarse la actividad vital, de modo que la alienación consiste justamente en la inversión de esa relación, en la sumisión de la actividad genérica a la actividad vital. Según Henry, por ejemplo, es la situación del obrero que trabaja para comer y no para liberar en él el ser del trabajo, de modo que la vida genérica deviene para él un “medio”, no una expresión de sus capacidades.</p>
+			<p>Nos preguntamos entonces ¿en qué consiste el trabajo genérico? La respuesta nos lleva a la concepción genérica del hombre, a su ser genérico, que implica la apertura a lo universal, y es esta apertura lo que define el trabajo genérico: “Mientras la actividad animal se lleva a cabo bajo la presión de la necesidad, como una actividad parcial, unilateral, individual, y mientras que de este modo su resultado solo tiene significación para el animal mismo, y no es más que una satisfacción sensible, individual, que todavía forma parte de su cuerpo, el trabajo humano, por el contrario, se modela sobre el género de las cosas, toma por lo tanto como ley de construcción las leyes universales, crea objetos conformes a esas leyes, objetos que valen por sí mismos, que tienen una finalidad interna y propia, objetos universales” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:113).</p>
+			<p>En esta concepción del trabajo sobre la que reflexiona Henry, el hombre crea objetos en conformidad con las leyes de la naturaleza, objetos de la naturaleza misma, reproduce la naturaleza, y su acción tiene una significación objetiva y universal. El animal construye a la medida y según las necesidades de la especie a la que pertenece, mientras que el ser humano sabe producir a la medida de cualquier especie, incluso puede construir según las leyes de la belleza. Por ejemplo, puede producir obras de arte que no son necesarias para su subsistencia y no solo utensilios prácticos para mantener la vida. De este modo el hombre realiza su propia esencia, se abre a lo universal por medio de la producción de un mundo objetivo, da prueba de sí como ser genérico consciente. El hombre se contempla a sí mismo en el mundo que ha creado, en el objeto de su trabajo, en la naturaleza reproducida, por tanto, lo que se quita al hombre cuando se le quita el objeto de su trabajo es su propia esencia, la esencia de su vida genérica.</p>
+			<p>Esta interpretación del trabajo, a la luz de la metafísica de la conciencia de sí alimenta, según el análisis de Henry, el segundo concepto de alienación de los <italic>Manuscritos del 44</italic>. Alienación designa en este contexto lo que adviene al quitar al hombre el objeto de su trabajo, pues se le quita en un mismo movimiento su propio sí, su vida verdadera, en tanto esta vida verdadera no existe para sí más que como objeto, como vida genérica objetiva. En el trabajo alienado, al arrancar al hombre el objeto de su trabajo, se le arranca su vida genérica, su verdadera objetividad, su naturaleza misma, de modo que privada de ésta, está más desposeído que el propio animal. Esta situación de alienación está ligada a una situación contingente, es decir, la situación en que el trabajador trabaja para otro, para el industrial que le sustrae el producto de su trabajo y se lo apropia. Esta visión de Marx en los <italic>Manuscritos</italic> se movería aún en la metafísica hegeliana, pues según Henry, aunque Marx habría descubierto con mayor precisión las condiciones en las cuales la objetivación es positiva, aún toma secretamente de Hegel las condiciones y contenido de esa positividad.</p>
+			<p>En la concepción del trabajo genérico, decimos que el hombre se produce a sí mismo no solo porque crea el objeto necesario para su subsistencia, sino precisamente porque ese objeto es la realización de su esencia, la objetivación y la realización de su capacidad de crear según la ley del género. Pero en la alienación, ese objeto es ofrecido a otro, ya sea para que ese otro lo contemple o lo consuma. En el segundo caso, el hombre produce con su trabajo la existencia de otro hombre y asegura la conservación de la vida en él. En este origen residiría la naturaleza humana y social del objeto, viene de un individuo viviente a otro para mantener la vida en él: “el objeto social lleva en sí la relación entre los individuos y la expresa” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:118). El objeto puede darse a otro precisamente porque es objeto, está ahí delante, pertenece a la extensión, a la exterioridad. Es precisamente porque el trabajo es objetivación que puede ser social. En los <italic>Manuscritos del 44</italic> los conceptos de social, sociedad y humano no expresan otra cosa que este acontecimiento ontológico, lo universal que aparece y se da a sentir, de modo que el individuo no es más que el lugar de ese acontecimiento de lo universal. El hombre es a la vez individuo particular y en la misma medida es totalidad, es la “existencia subjetiva de lo universal” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:119). Con ello se muestra que, si bien el tema de la sociedad cumplió un papel decisivo en estos trabajos de Marx, no se desconoce el rol del individuo, que es donde se realiza lo genérico y universal. El error del marxismo, según Henry, sería el intento de comprender lo social únicamente a partir de la metafísica de lo universal, ignorando al individuo.</p>
+			<p>En el segundo volumen de su libro <italic>Marx</italic>, donde Henry estudia el pensamiento de Marx como una filosofía de la economía, el trabajo ya no será visto como trabajo genérico, sino que será visto desde una nueva interpretación, considerando los elementos económicos involucrados en el proceso del trabajo, ampliando la comprensión del trabajo como fenómeno subjetivo y aproximándose a la idea de <italic>praxis</italic> como <italic>trabajo viviente</italic> o <italic>actividad de la vida</italic> que se recrea a sí misma, es decir, como “actividad productiva concreta” (<xref ref-type="bibr" rid="B1">Dufour-Kowalska 1980</xref>:137). </p>
+		</sec>
+		<sec>
+			<title>Trabajo real versus trabajo abstracto</title>
+			<p>La distinción entre trabajo real y trabajo abstracto, que hace el propio Marx, es fundamental en la filosofía de Henry para comprender la primacía del trabajo como actividad subjetiva fundadora de la realidad, frente a otros elementos económicos que dependen de ella. Como sabemos, para Marx, la teoría y toda posibilidad de saber reposa sobre la realidad, no sobre la idea o la razón, y con ello el interés de análisis se trasladada desde la economía política (como ciencia general) hacia la economía, cuyo objeto es la realidad entendida en relación a la praxis y a los modos fundamentales de su cumplimiento efectivo. En este sentido Henry se pregunta, siguiendo su análisis de los textos de Marx, ¿qué hace posible la economía?, ¿qué hace que pueda producirse un intercambio en la sociedad? La Economía Política dará una respuesta respecto de qué es lo que determina el “valor” en la economía: “el origen del valor reside en el trabajo” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:616). La cantidad de trabajo necesaria para su producción es lo que determina el valor de una mercancía. Es decir, la definición ontológica de la sustancialidad del valor económico que la mercancía contiene, el valor de cambio de una mercancía, se define por el trabajo “gastado” en su producción. La utilización de la fuerza de trabajo que ha exigido su fabricación, se traduce bajo la forma de una cualidad material de la mercancía. La magnitud de este valor se mide por la magnitud del tiempo requerido en producirlo. Henry critica esta relación entre trabajo y valor en la economía como ciencia objetiva: “Porque es el trabajo como tal el que crea valor, poco importan las circunstancias en las que ese trabajo se produce, la condición social de quienes lo realizan, se trate del trabajo de un artesano o de un obrero en una fábrica, del trabajo de un hombre libre o el de un esclavo, si se trata de trabajo o de sobre-trabajo, es el trabajo en sí mismo el que crea el valor de aquello que produce” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:617). Desde el punto de vista del mero valor, entonces, la mercancía fabricada por el capitalista no se distingue de la mercancía fabricada por el trabajo independiente o el de comunidades de obreros o esclavos. Agreguemos que, para que esta producción del valor de cambio por parte del trabajo se realice efectivamente, es necesario que el producto devenga mercancía, es decir, que entre al sistema de intercambio. Para aclarar esto Henry recurre al texto de Marx de 1859 titulado <italic>Crítica de la Economía Política</italic>: “el tiempo de trabajo no existe más que en estado latente en esas mercancías y no se revela más que en su proceso de intercambio” (<xref ref-type="bibr" rid="B11">Marx 1969</xref>:297). Si el proceso de intercambio no se produce, no deviene mercancía y el producto que resulta del trabajo no tiene valor.</p>
+			<p>En esta nueva concepción del trabajo y la actividad económica, “el” trabajo no existe (en tanto genérico, abstracto), porque la esencia de la <italic>praxis</italic> es una subjetividad viviente individual, por tanto, la exploración del universo del trabajo conduce necesariamente a trabajos “concretos, subjetivos, individuales, determinados, cualitativamente diferentes” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:618). No es posible reducir a una unidad la pluralidad de trabajos que producen una diversidad de mercancías: “[…] buscar oro en la tierra, sacar el hierro de las minas, cultivar el cereal y tejer la seda son géneros de trabajo que se distinguen cualitativamente unos de otros” (<xref ref-type="bibr" rid="B11">Marx 1969</xref>:279).</p>
+			<p>Este problema se complejiza más aún pues, incluso un mismo trabajo (un género de trabajo o un tipo de actividad) deviene efectivamente en la realidad en una praxis individual, realizada por individuos diferentes, de modo que deja de ser “el mismo”. Henry plantea como ejemplo que, para cargar un camión, se requiere del esfuerzo de un obrero, de su actividad subjetivamente vivida que difiere fundamental, sustancial y existencialmente de la de otro. Entonces, aquello que para un ser humano puede ser un peso insoportable, puede ser experimentado por otro como el despliegue positivo de sus poderes corporales y como expresión de su vitalidad, lo que para un individuo resulta aburrido para otra será indiferente o agradable. Todo esto pone en evidencia que el tiempo de actividad no es el mismo, las existencias no son intercambiables, y eso sería precisamente lo que distingue el trabajo abstracto del trabajo real. El trabajo real, su temporalidad subjetiva, el modo cada vez particular de una efectuación singular no se intercambia nunca. Al reconocer la irreductibilidad de cada individuo y por consiguiente de cada una de las modalidades de su praxis, se excluye toda posibilidad de una unidad de medida objetiva, se excluye la posibilidad de hacer aparecer entre diferentes individuos y sus trabajos cualquier aparente “igualdad”. Según Henry, entonces, no hay medida de la subjetividad y ella misma no puede servir de medida, pues midiendo toda praxis individual a la luz de una norma común, se desconoce su diferencia principal.</p>
+			<p>En este tema resulta controversial el análisis de Marx pues, si bien reconoce la inexistencia de una distinción de clase porque todo hombre no es más que un trabajador como los otros, se reconoce tácitamente como un privilegio de la naturaleza el talento desigual de los trabajadores y, por tanto, la desigualdad de su capacidad productiva. Henry va más allá de una manera crítica y más elocuente: no es solamente la praxis efectiva de un individuo lo que escapa a la definición de el “trabajo”, es la totalidad de su vida no profesional que se encuentra puesta fuera de juego cuando se le reduce a la condición de trabajador. El trabajo no puede ser una mediación entre su necesidad y el bien susceptible de satisfacerla, no solo porque el establecimiento de una equivalencia socialmente definida sea imposible, sino porque como momento de la subjetividad, el trabajo en sí mismo no sería una mediación: “El [trabajo] se convierte no solo en un medio para vivir, sino que en la primera necesidad de la vida” (<xref ref-type="bibr" rid="B11">Marx 1969</xref>:1420).</p>
+			<p>A pesar de todas estas consideraciones, para que la cuestión del intercambio se resuelva, es necesario concebir el trabajo como objetivación, de modo de hacer posible la comparación de productos y el trabajo que hay inscrito en ellos. Pero el valor, según las palabras de Henry, nunca lleva inscrito en su frente lo que es, porque la praxis es subjetiva, porque la subjetividad es comprendida por Marx en su inmanencia radical, donde el trabajo no se muestra en su producto, no se objetiva. Por esta razón afirma: “el trabajo abstracto no existe, porque no existe bajo la forma de producto, no es jamás una realidad única, objetiva y la misma para todos” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:626).</p>
+			<p>Según Henry, esta cuestión es abordada por Marx en los <italic>Grundrisse</italic>, donde confirmaría tres cosas fundamentales al respecto. En primer lugar, reconocería el carácter radicalmente subjetivo de la praxis, del trabajo y del tiempo de trabajo. En segundo lugar, como consecuencia del estatuto subjetivo del trabajo, se reconocería la imposibilidad de intercambiar un trabajo particular, individual y subjetivo por otro. Y en tercer lugar establecería la construcción de la posibilidad del intercambio a partir de su imposibilidad misma, es decir, la substitución del trabajo real, que no se puede intercambiar, por una unidad distinta que permite representarlo e intercambiarlo en su lugar.</p>
+			<p>Para participar del intercambio, entonces, el trabajo debe tomar otra forma, devenir otro, alienarse: convertirse en un trabajo abstracto, una representación. La condición de posibilidad del intercambio de trabajo y, por consiguiente, de las mercancías, es la alienación del trabajo como concepto fundamental de la economía de mercado (en sociedades capitalistas y comunistas). Como el trabajo es incapaz de objetivarse y tomarse como medida, se hace necesario substituirlo por un equivalente diferente de sí, objetivo, ideal, cuantificable, que jugaría ese rol y haría posible este “cuasi-intercambio”. Esta definición de alienación refiere a otro sentido diferente al que habíamos visto a propósito del trabajo genérico (cuando el objeto producido es ofrecido a otro para la mantención de su vida). En esta nueva concepción de alienación, el trabajo devendría substancialmente otro, cambiaría su realidad misma, es decir, se substituiría el trabajo real por una idealidad o más bien, se trataría de una alienación en que se substituye una realidad por una idealidad: “la alienación, como idéntica a la abstracción, es el acto proto-fundador de la economía y precisamente su génesis trascendental” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:628). De este modo, finalmente, podemos decir que lo que hace posible la economía es la abstracción del trabajo real, que lo convierte en una medida comparable o “valor de medida”. Para reafirmar este análisis, Henry cita nuevamente un texto de la <italic>Crítica de la Economía Política</italic>, donde Marx señala que para medir los valores de cambio de las mercancías a partir del tiempo de trabajo que ellas contienen, es necesario reducir diferentes trabajos a “un trabajo indiferenciado, homogéneo y simple, es decir, un trabajo de la misma calidad y que no se distinga más que por la cantidad” (<xref ref-type="bibr" rid="B11">Marx 1969</xref>:280). </p>
+			<p>La realidad a partir de la cual se produce la abstracción no es la realidad objetiva de las mercancías, sino la realidad subjetiva de la praxis y lo que se extrae en esta abstracción son “las características particulares de la subjetividad misma” (<xref ref-type="bibr" rid="B10">Jean 2011</xref>:175). Lo que es abolido en el proceso de abstracción de trabajos reales, cualitativamente determinados por individuos diferentes, son los caracteres de la praxis subjetiva, la diferenciación, la individualidad, que es esencial, y con ello dicha <italic>praxis</italic> se convierte en trabajo abstracto, donde los caracteres son la uniformidad, la homogeneidad, la indiferencia: “el trabajo individual, particular, encerrado en la mercancía debe primero manifestarse en el proceso de alienación como su contrario, trabajo general, abstracto, impersonal y solamente bajo esta forma social” (<xref ref-type="bibr" rid="B11">Marx 1969</xref>:323). Así, el efecto social del trabajo en la economía de mercado es la determinación del valor de la mercancía producida, y esta determinación es totalmente independiente del hecho de que el trabajo sea realizado por tal individuo o tal otro, en tal o cual condición.</p>
+			<p>Esto se traduce finalmente en un “trabajo medio” adaptado a un individuo “medio”, una norma ideal en función de un concepto también ideal. Es lo que representan, por ejemplo, los índices y cifras de empleo o de condiciones laborales que refieren las disciplinas científicas, las políticas públicas o los medios de comunicación. En esta abstracción del trabajo humano general existe, por lo tanto, un trabajo medio que cualquier individuo medio de una sociedad dada puede cumplir, aunque el carácter de ese trabajo medio pueda variar en diferentes países o en diferentes épocas de la civilización. Esta abstracción lleva también a establecer una equivalencia estricta entre el trabajo que todo el mundo puede hacer o “trabajo simple” y el trabajo cualificado o “trabajo complejo”, haciendo necesario el establecimiento de leyes que regulen esta equivalencia. El trabajo social es entonces, el trabajo igual, que ha perdido todas sus propiedades reales, particulares. El trabajo de cada individuo por tanto se manifiesta en valor de cambio y posee un “carácter social como tiempo de trabajo” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:634).</p>
+			<p>El trabajo social, que es asunto de la economía y que se intercambia en el intercambio de las mercancías, es una determinación ideal, extraña a la realidad, es precisamente “trabajo abstracto”. El trabajo real deviene trabajo abstracto cuando es medido y la medida del trabajo real es el tiempo que dura, de modo que puede ser comparado con otro. Sin embargo, los trabajos reales son cualitativamente diferentes y la identidad de su duración real no los vuelve homogéneos, por eso la medida del tiempo de trabajo y la reducción de los diferentes trabajos a un tipo de trabajo opera solo en el trabajo abstracto y hace posible la economía: “La génesis del trabajo abstracto a partir del trabajo real y en oposición a él, es dado por Marx como su gran descubrimiento y al mismo tiempo, como el fundamento de la economía política” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:646). La tesis según la cual el trabajo forma el valor, era la tesis de la Economía Clásica, pero no se había establecido “qué trabajo” es el que forma el valor. El trabajo que es susceptible de producir y determinar el valor de la mercancía es el “trabajo medido” convertido en trabajo abstracto, aunque el único trabajo real sea, según este análisis, el trabajo que realiza el individuo conforme a sus capacidades y según su propio ritmo. </p>
+			<p>Con esta distinción, Henry ha analizado desde una nueva perspectiva el trabajo, incorporando los elementos económicos al análisis y encontrando en el propio Marx los argumentos para reconocer el trabajo como trabajo individual y subjetivo, como trabajo real.</p>
+		</sec>
+		<sec>
+			<title>La división del trabajo</title>
+			<p>La crítica a la división del trabajo se presenta como un tema central en la reflexión filosófica de Marx. Según Henry, desde un principio Marx habría situado en la división del trabajo el origen de las clases sociales, no en el sentido histórico, sino como su esencia y fundamento.</p>
+			<p>La división del trabajo se va extendiendo poco a poco y correlativamente aparecen múltiples diferenciaciones y oposiciones sociales. Una primera institución de la división del trabajo estaría dada por la división entre trabajo material y trabajo intelectual. En el texto <italic>La sagrada familia</italic>, Marx afirma que la diferencia entre el trabajo del campo y la ciudad es la que funda la primera diferenciación social. Esta diferenciación entre trabajo material y espiritual genera la división de la población en dos grandes clases, sobre la que descansa posteriormente la división del trabajo. Una extensión de esa primera diferenciación, es la separación entre la producción y el comercio, que genera una clase particular de comerciantes y que lleva a una creciente especialización de la producción y a una división del trabajo cada vez más profunda. La división del trabajo se desarrolla igualmente al interior de cada rama de la producción y define la organización de la actividad primero en el taller, luego en la manufactura y, por último, en la industria. El conjunto de estructuras sociales descansa precisamente en esta división, es decir, según el análisis de Henry, las estructuras no existen para determinar una división del trabajo, sino por el contrario, es la división del trabajo la que produce estas estructuras. La descomposición del régimen feudal y la evolución de la división del trabajo permiten el surgimiento de un nuevo tipo de sociedad o formación social: la burguesía. Siguiendo el análisis de los textos de Marx, Henry afirma que la división del trabajo constituye el origen de todas las formaciones sociales, sus diferenciaciones y sus determinaciones. El problema radica en que, aunque estén fundadas en la actividad de los individuos y en su trabajo, finalmente, las formaciones sociales se perciben como externas a éste, como una determinación extrínseca que se le impone. </p>
+			<p>Es necesario, sin embargo, hacer una distinción entre la división genérica del trabajo, como se ha analizado hasta ahora, y la división manufacturera del trabajo. En la división del trabajo en el contexto de la manufactura opera una diferencia respecto al taller. En el taller se reunía, en un mismo ámbito, una gran cantidad de trabajadores de oficios diferentes, por tanto, esa división del trabajo en el taller solo reproducía aquella que precedía la organización corporativa, es decir, la actividad de cada individuo permanecía como la actividad que correspondía al ejercicio de un oficio determinado. Es por tanto la naturaleza de la actividad subjetiva la que definía la naturaleza de la división del trabajo en el taller. Esta actividad se modifica cuando el taller deviene manufactura y es lo que Marx distingue como “división manufacturera del trabajo”, a diferencia de la “división genérica” (entre trabajo material e intelectual, o entre la producción y el comercio). La diferencia consiste en que hasta ese momento el trabajador individual realizaba, en el ejercicio de su oficio, una serie de actividades sucesivas, diversas y coherentes, y llegaba a un resultado mentado por él. En la manufactura en cambio, su tarea personal se ve limitada a una sola de esas actividades, mientras que la realización de las otras queda a cargo de otros individuos, cada uno especializado en la efectuación de un solo y mismo gesto monótono indefinidamente reproducido. Esto es, según Henry, lo que caracteriza la división manufacturera del trabajo, que se opone a la división social o genérica del mismo, en la que se produce la repartición de la producción en diferentes oficios.</p>
+			<p>En la división manufacturera, la actividad global de un oficio, de una producción particular, está ella misma dividida, descompuesta en una pluralidad de actividades parciales: “dividido, trozado, quebrado, de suerte que en lugar de ese trabajo sintético, se tiene a partir de ahora un trabajo ‘en migajas’” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:261). ¿Qué significación y qué sentido tendría esto? Ninguna, responde Henry. El trabajo necesario para producir un determinado objeto implica siempre una pluralidad de actividades diferentes que concurren en un resultado esperado. La división manufacturera del trabajo consiste en el hecho de que las actividades en que está compuesto un trabajo sintético ya no son realizadas por el mismo individuo, sino por individuos diferentes de modo que un individuo no ejerce más que una sola de las actividades parciales: “Esa realidad [el trabajo] se agota en la realidad de actividades parciales de las cuales se compone, en la realidad de las subjetividades individuales cuyas determinaciones concretas son esas actividades mismas… lo que aparece entonces es que la realidad de la división del trabajo no es otra que la división de esa subjetividad, la división del individuo mismo” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:262).</p>
+			<p>La repetición de una “operación exclusiva”, por tanto, presupone la división de esa subjetividad, de ese individuo: “No solo es el trabajo lo que es dividido y repartido entre diversos individuos, es el individuo mismo el que es segmentado y metamorfoseado en resorte automático de una operación exclusiva” (<xref ref-type="bibr" rid="B11">Marx 1969</xref>:903). Esta concepción del trabajo como vida subjetiva, vida individual, Henry la ve reflejada en el mismo texto de <italic>El Capital</italic> donde Marx refiere la existencia humana como el “libre juego de las fuerzas del cuerpo y el espíritu” (Marx 1969:903), es decir, como la unidad de las potencias, también subjetivas, que pertenecen a la vida individual, que la definen en su ser original y que corresponden finalmente a sus necesidades. Vivir entonces, es querer desarrollar esas potencialidades y posibilidades.</p>
+			<p>En la manufactura, la fuerza de trabajo se transforma en un mecanismo exterior, donde los obreros son elementos determinados por éste como piezas de un engranaje (como se observa por ejemplo en la película Tiempos Modernos de Charles Chaplin). En este proceso mecánico de la gran industria de producción, se separa también el trabajo manual y las potencias intelectuales de la producción, de modo que la habilidad del obrero parece minúscula frente a la prodigiosa ciencia, las fuerzas naturales o el trabajo incorporado al sistema mecánico que constituye la potencia del amo según Marx. De este modo, el trabajo queda subordinado al capital, a la objetividad de las fuerzas sociales que se sitúan fuera de la subjetividad individual del trabajador, a pesar de que las fuerzas sociales del trabajo no dejan nunca de ser individuales.</p>
+			<p>La división del trabajo no significa en todo caso la proyección de las actividades en el medio inerte de la objetividad, donde ninguna actividad puede producirse, sino su inserción en otras esferas individuales “monádicas” (<xref ref-type="bibr" rid="B2">Henry 1976</xref>:268). Las potencialidades que no tienen su actualización en un individuo se realizan en otro individuo, es decir, el lugar de esa realización es siempre una subjetividad. De este modo, incluso en la producción mecanizada del trabajo dividido, el trabajo sigue siendo una cuestión subjetiva. No es la máquina la que trabaja, sino el individuo que la opera. Así, Henry encuentra otra argumentación en el análisis de Marx para identificar el trabajo con el sujeto y con la vida subjetiva.</p>
+		</sec>
+		<sec>
+			<title>Trabajo viviente como praxis y expresión de la vida subjetiva</title>
+			<p>En el desarrollo de su filosofía, Henry identifica inicialmente la subjetividad con el cuerpo, con la afectividad y finalmente con la vida, que se expresa y es el fundamento de toda experiencia y existencia, tal como expresa en <italic>L’essence de la manifestation</italic>. Sin embargo, podemos afirmar también que identifica la subjetividad con el <italic>trabajo viviente</italic>, con la praxis de la vida individual que busca satisfacer sus necesidades, en otras palabras, se trata de la vida que busca vivir y esto es una afirmación que atraviesa toda la filosofía henryana.</p>
+			<p>En su texto <italic>Philosophie et phénoménologie du corps</italic>, Henry señala que no es sobre el plano de las ideas abstractas donde acontece nuestra existencia. Por ello, la satisfacción o no de nuestras necesidades, y más fundamentalmente, la manera en que se logra o no esta satisfacción, tiene una importancia decisiva sobre la historia de cada individuo y sobre los diferentes grupos humanos. Las necesidades del cuerpo son determinadas como “necesidades materiales” para destacar, con esta terminología, una diferenciación y oposición respecto a las necesidades del alma o el espíritu, en el contexto de múltiples filosofías intelectualistas. Sin embargo, no hay que olvidar que la fenomenología del cuerpo que Henry propone rechaza la distinción entre cuerpo y espíritu. El trabajo, en tanto actividad subjetiva, busca entonces la satisfacción de nuestras necesidades considerando esta concepción del yo como cuerpo viviente-uno, y no como una unión de cuerpo y espíritu.</p>
+			<p>En <italic>Incarnation</italic>, Henry afirma que nuestro propio cuerpo no puede colocarse en el fuera de sí del mundo, a pesar de ser extenso, pues lo que se pone fuera es solo una representación y no el cuerpo viviente mismo. De manera análoga, en el plano económico, donde reina la alienación, donde el trabajador vende y alquila su trabajo (convirtiéndolo en mercancía), es él mismo, no su cuerpo objetivo, sino su actividad, su trabajo real, subjetivo, individual, lo que se vende o alquila. La carne se identifica en estos textos con el conjunto de poderes de la vida en el viviente. La vida que hace posible la carne como carne viviente en el “yo puedo”, es la praxis cotidiana y elemental. Así mismo, la actividad de los hombres en el mundo, descubre el inmenso dominio de la praxis social (economía). De este modo, todos los objetos económicos que componen la pluralidad del contenido objetivo remiten, a pesar de su objetividad o idealidad, al trabajo de los hombres. En el mismo texto de <italic>Incarnation</italic>, Henry recuerda el descubrimiento de Marx que define el trabajo como un trabajo que es real, subjetivo, individual y vivo. Señala: “Ese ‘yo puedo carnal’ que se esfuerza y sufre, cuya voz no puede apagar ninguna teoría, ninguna ideología, ningún pensamiento. <italic>Por tanto, en su praxis cotidiana, la vida no le pide al pensamiento que supere su olvido: de eso se encarga ella misma en su propio pathos</italic>” (<xref ref-type="bibr" rid="B4">Henry 2000</xref>:269).</p>
+			<p>Para Henry el trabajo no expresa una realidad abstracta, desconectada de la vida, se trata de la vida concreta de individuos vivientes que fundan la realidad social: “La realidad está definida por la praxis individual, por las determinaciones concretas y efectivas de la vida fenomenológica, y la realidad de una clase no puede ser sino la de estas determinaciones fenomenológicas en tanto se hallan en un gran número de individuos que viven y actúan de manera semejante” (<xref ref-type="bibr" rid="B5">Henry 2004a</xref>:113).</p>
+			<p>Como ya hemos analizado en el texto de Henry sobre Marx, el valor, la valoración, el capital, se explican exclusivamente por la actividad individual del trabajador: “Es más bien a la vida que conviene regresar para comprender los fenómenos aparentes de la economía y sus variaciones: la plusvalía, incomprensible en el plano económico mismo, no se explica más que por esta propiedad de la vida en cada individuo de producir más de los valores de uso que le son necesarios durante esa producción, y así más valores de cambio que los que ella cuesta” (<xref ref-type="bibr" rid="B9">Henry 2008</xref>:49). Así mismo, Henry nos recuerda que para Marx el trabajo es personal y subjetivo, pues lo denomina “actividad subjetiva”, “pura fuerza de trabajo viviente”, “trabajo en movimiento”, “trabajo bajo forma subjetiva” y “trabajo viviente” en los <italic>Grundrisse</italic> y “factor subjetivo de las fuerzas de trabajo” en <italic>El Capital</italic>, entre muchas otras expresiones.</p>
+			<p>El análisis henryano de los textos de Marx ha permitido identificar que el capital pertenece a la dimensión irreal de lo económico, el trabajo en cambio, en tanto es praxis viviente, define la realidad. El capital es valor de cambio, el trabajo valor de uso. Dentro de la totalidad de los valores de uso que componen lo real, el trabajo es aquel que produce y mantiene en el ser a todos los otros, el elemento subjetivo sin el cual toda objetividad (materias e instrumentos de trabajo) se desvanecería en la nada. Existe una disimetría entonces entre capital y trabajo, pues es el trabajo viviente y subjetivo el único que produce valor. La realidad está definida por el trabajo subjetivo: “la realidad de la clase obrera es la realidad misma, la praxis subjetiva de los individuos vivientes” (<xref ref-type="bibr" rid="B5">Henry 2004a</xref>:118). El trabajador, entonces, cede su fuerza de trabajo al burgués y éste produce con ella una ganancia. Por su parte, el trabajador, habiendo gastado su salario, no puede hacer otra cosa que renovar su transacción con el burgués para generar nuevas ganancias: “El capital solo puede aumentar si se intercambia por trabajo viviente, es decir, engendrando trabajo asalariado que, por su parte, debe intercambiarse por el capital, a fin de adquirir los medios de subsistencia necesarios para su mantenimiento, y solo puede realizar este intercambio aumentando al mismo tiempo el capital, reforzando así su potencia” (<xref ref-type="bibr" rid="B5">Henry 2004a</xref>:121).</p>
+			<p>Por otra parte, y dejando de lado el análisis de la dimensión económica, en la filosofía de Henry el trabajo se encuentra íntima y profundamente ligado a la cultura y la vida. Henry define la cultura como “una acción que la vida ejerce sobre sí misma y por la que se transforma a sí misma, en cuanto que es ella misma la que transforma y lo transformado” (<xref ref-type="bibr" rid="B3">Henry 1987</xref>:14). La vida entonces, corresponde a la cultura misma, por eso Henry habla de una “cultura de la vida”. El saber de la vida se identifica con el saber del cuerpo, que a su vez se confunde con un “poder”. Se trata de la experiencia que el cuerpo hace de sí, la unidad de poderes que constituye la subjetividad radical. Solamente en la inmanencia de la subjetividad radical es posible el poder del cuerpo viviente, el poder de mover las manos o las extremidades, y el saber de esta subjetividad inmanente, que es finalmente el saber de la vida misma.</p>
+			<p>Una segunda dimensión del saber de la vida es el sentirse a sí misma y su experimentarse a sí misma como afectividad. En la afectividad, la vida se revela a sí misma como algo que no es extraño ni ajeno, como algo con lo que no hay distancia ni separación, a la que solo se tiene acceso desde el interior de ella misma. El saber que considera estas dimensiones de la vida y de la cultura es denominado por Henry “praxis”: “Al saber de la vida, como saber en el que la vida constituye a la vez el poder que conoce y lo que es conocido por él, procurándole de manera exclusiva su contenido, lo llamo praxis” (<xref ref-type="bibr" rid="B3">Henry 1987</xref>:37). La cultura, como cultura de la vida que descansa sobre el propio saber de ésta es, entonces, esencialmente “práctica”. La <italic>praxis</italic> es entendida de este modo, como la actividad de individuos vivientes para conservar su vida y acrecentarla.</p>
+			<p>Caracterizada como práctica, la cultura reviste diferentes formas a través de las cuáles se expresa, primero con formas elementales asociadas al vivir inmediato: “Así, cada cultura se caracteriza por un hacer específico concerniente a la producción activa de bienes útiles para la vida y a su consumo -alimentación, ropa, hábitat, etc.-, como al juego espontáneo de la vida misma, a la celebración de su destino, al erotismo, a la relación con la muerte. Semejante hacer se expresa en ritos diversos que confieren a cada sociedad su propia fisonomía” (<xref ref-type="bibr" rid="B3">Henry 1987</xref>:38-39).</p>
+			<p>La organización social, bajo esta concepción, es la representación exterior, teórica y objetivada de la <italic>praxis</italic> que se encuentra solo en la “subjetividad absoluta”. Solamente esta <italic>praxis</italic> subjetiva, es el lugar, el principio y el desarrollo de la organización social, de modo que se constituye también, en origen de sus propias “leyes”. Es decir, las “leyes” que rigen esta organización social tienen su origen en la subjetividad y actúan bajo el nombre de “necesidades”. Las necesidades, entonces, constituyen la esencia de la vida, generan la <italic>praxis</italic> subjetiva o más bien el trabajo: “De esta manera, necesidad y trabajo son dos modalidades elementales de la praxis que se prolongan una en la otra, pues el trabajo, o mejor dicho, la actividad en su forma espontánea, no es otra cosa que el incremento de la necesidad, su cumplimiento” (<xref ref-type="bibr" rid="B3">Henry 1987</xref>:39).</p>
+			<p>Para Henry el trabajo se identifica directamente con la subjetividad y con la vida misma, por tanto, con el cuerpo (esencialmente individual y subjetivo) y con la afectividad como <italic>pathos</italic> fundamental, es decir, como esfuerzo y sufrimiento: “El trabajo es una modalidad de la vida, la que ésta reviste cuando el deseo sufriente se transforma en un esfuerzo para satisfacerse; es ejecución de la Cuerpo-apropiación [<italic>Corpspropriation</italic>] de la naturaleza. Solamente el trabajo vivo de ese cuerpo vivo y apropiante no es susceptible de medida, al no ser sino la experiencia muda que él hace de sí en el <italic>pathos</italic> de su sufrir -una modalidad de la auto-afección en la que nunca se propone nada como objeto posible de medida, en la que tampoco ninguna mirada se desliza para tomar o dar esta medida” (<xref ref-type="bibr" rid="B3">Henry 1987</xref>:154).</p>
+			<p>El fundamento y la condición de posibilidad de toda realidad y organización social es la actividad subjetiva, esta actividad subjetiva que Henry define como <italic>praxis</italic>, la actividad de la vida misma que se expresa en las necesidades de cada sujeto, en su <italic>pathos</italic> y en esfuerzo corporal para satisfacerlas, en el trabajo viviente como actividad, como saber y como expresión de la vida que quiere vivir y acrecentarse. Las ciencias sociales, herederas en gran parte de la objetividad positivista, tienden a convertir en “cosa” lo social: instituciones, estructuras, sistemas y a darle con ello una cierta autonomía e independencia de los sujetos que las constituyen. Henry nos recuerda: “Son pues, las propiedades de esta subjetividad, las leyes de la vida, las que dan cuenta de las leyes de la economía, y es ante todo a partir de esta subjetividad viviente, que se construyen las realidades económicas que les sirven de equivalentes objetivos, sin que esta equivalencia y la racionalidad que la funda, puedan dejar de ser ilusorias” (<xref ref-type="bibr" rid="B8">Henry 2007</xref>:57).</p>
+			<p>Las determinaciones sociales pueden afectar al individuo solo porque éstas son subjetivas, porque están fundadas esencialmente en la subjetividad. Esto significa que estas condiciones sociales son condiciones de la vida, no condiciones objetivas de una situación objetiva, abstracta y externa, sino condiciones que forman el tejido mismo y la sustancia de la vida, la sucesión de experiencias vividas y de sus vivencias. El principal aporte de Henry es entender el trabajo como trabajo viviente, como constituyente de la subjetividad, en identidad con el esfuerzo del propio cuerpo vivo y afectivo, que busca satisfacer las necesidades de la vida y a su vez a éste como el fundamento de la vida económica y social.</p>
+			<p>La comprensión de la praxis como eminentemente subjetiva, produce una explicación del mundo que no se refiere a una conciencia trascendental, a un sujeto cualquiera, sino a la vida, a una vida singular, concreta, corporal, in-objetivable e in-calificable, fuera de la cual el conjunto de fenómenos objetivos, económicos y técnicos escapan totalmente a toda inteligibilidad posible. La vida de la gente coincidiría con la producción, con el esfuerzo hecho para alimentarse, vestirse, calentarse y, por eso para Henry, vivir alienado sería vivir solamente para no morir. Cuando un obrero vende su trabajo, el obrero no se separa de él, no queda fuera, frente a la fábrica dejando su trabajo entrar solo al taller y esperando que vuelva al finalizar la jornada. Esto es precisamente, según Henry, lo que diferencia al trabajo de una mercancía cualquiera, el hecho de que el vendedor no se separa de aquello que vende, el hecho de que el trabajo es subjetivo. El trabajo constituiría la subjetividad en tanto es expresión de la vida misma, y a la vez, es el fundamento de la realidad que llamamos organización social: “La cultura, en tanto que auto-desarrollo de la vida, reviste diferentes formas: una forma inmediata, a saber, la organización social que es el sistema de las necesidades y del trabajo tendiente a satisfacerlas. Necesidades y trabajo que son dos modos elementales de la praxis, situados el uno en la prolongación del otro, el trabajo, o más bien la actividad original no es más que el acrecentamiento de la necesidad” (<xref ref-type="bibr" rid="B6">Henry 2004b</xref>:21-22).</p>
+			<p>De este modo, todo el sistema de la economía no puede comprenderse, entonces, más que a partir de una vida sufriente que para satisfacer su necesidad, transforma la naturaleza. Henry considera que Marx precisamente, es uno de los pocos pensadores que ha definido al hombre por la vida, y por eso lo admira como uno de los grandes pensadores de todos los tiempos, incluso aunque se declare abiertamente crítico del marxismo, por considerarlo un contrasentido con el pensamiento original de Marx: “Esta transformación incesante del universo por la praxis subjetiva de los individuos vivientes, que es el fundamento de la historia y de la sociedad, Marx la llama el proceso real de producción de valores de uso, proceso que no es en sí mismo nada económico” (<xref ref-type="bibr" rid="B7">Henry 2004c</xref>:172).</p>
+			<p>Henry busca elaborar así una concepción ontológica del trabajo, arraigándolo al ser del sujeto vivo particular, que trabaja desplegando su subjetividad en el cuerpo afectivo y su vitalidad. El problema radica entonces en que la economía sustituye el trabajo viviente individual, por algo objetivo que sería sostenido como equivalente del trabajo real, pero que deja de lado el carácter radicalmente singular y subjetivo del trabajo viviente. Por esta razón, Henry aborda el problema del intercambio y la valoración de la mercancía, cuyo valor precisamente se basa en la cantidad de trabajo que implica producirla. Así, el intercambio de mercancía es, en realidad, un intercambio de trabajo, y para hacer este cálculo, la economía política se ha basado en la idea de un trabajo objetivo y medible, una cantidad de trabajo que se mide en tiempo. Pero el trabajo es <italic>real, viviente, subjetivo e individual</italic>. Y agrega, es invisible, no medible, incalificable e incuantificable. Entonces, ¿cómo pueden recibir el mismo salario trabajadores que no hacen lo mismo, porque no pueden hacer lo mismo? Algunos trabajadores son más fuertes y otros más débiles, para algunos es placentero y para otros un sufrimiento. Esta singularidad hace completamente imposible, en realidad, comparar los trabajos vivientes. Por ello, porque se desconoce qué es ese trabajo real y viviente, se habría creado una noción objetivable, el “trabajo objetivo” que se cuantifica en tiempo, pero que no existe en la realidad.</p>
+			<p>Ahora bien, si es verdad que el trabajo es primero individual, encerrado en la subjetividad, en la experiencia del esfuerzo viviente, en su temporalidad propia, éste no puede ser intercambiado. La economía tendría su génesis a partir de la realidad individual que es, al mismo tiempo, anterior y heterogénea. La economía solo es posible si el trabajo deviene otro, diferente de sí mismo, si se substituye el trabajo viviente por el trabajo objetivo, solo si el tiempo de trabajo abstracto toma el lugar del trabajo viviente, del sujeto viviente. El trabajo real queda entonces enterrado en la noche abisal y se le opone un trabajo que es posible representar, cuantificar y objetivar, asociado a una temporalidad abstracta. Se trata de una “representación” del trabajo, el trabajo del mundo y de “los relojes”: “En esta representación, en esta posición fuera de sí en el mundo, el trabajo está sin embargo, vacío de su sustancia fenomenológica subjetiva que constituiría su realidad viviente, irreductiblemente singular -deviniendo irreal, general, social, abstracto, ideal, calificado, cuantificado. Es el trabajo del que hablan los economistas” (<xref ref-type="bibr" rid="B7">Henry 2004</xref>c:173).</p>
+			<p>En esta objetivación de la <italic>praxis</italic> humana como trabajo cuantificable, la subjetividad viviente del trabajo original real pierde todas las propiedades propias de su subjetividad: sufrimiento, pena, intensidad del esfuerzo, en resumen, todo aquello que es viviente queda fuera de juego. Y más aún, el “trabajo social”, tal como es expresado por Durkheim, es decir como categoría sociológica y económica, sería la representación del trabajo abstracto-objetivo, es decir en palabras de <xref ref-type="bibr" rid="B7">Henry “la representación de una representación” (Henry 2004</xref>c:175).</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusión</title>
+			<p>El principal aporte de Henry en este ámbito consiste en incorporar el trabajo a la esencia de la subjetividad, como expresión misma de la vida, en el esfuerzo del cuerpo sufriente (afectivo) por vivir y acrecentar la vida. Esto es un elemento que escapa a la tradicional concepción de la subjetividad, entendida como actividad fundamentalmente racional. La subjetividad ha sido comprendida en filosofía y ciencias sociales desde una dimensión cognitivo-racional, relacional, deliberativa (capacidad de elegir) o cultural, entre otras, pero no desde la praxis corporal, afectiva y material que implica el trabajo viviente como actividad fundamental del sujeto.</p>
+			<p>Desde una reflexión antropológica y ética, esta concepción del trabajo humano, enraizado en la subjetividad misma, permite preguntarse por la forma en que se concibe el trabajo en las sociedades modernas y en las ciencias sociales contemporáneas. Si el trabajo viviente es idéntico a la subjetividad, ¿qué significa fijar cifras como el salario mínimo o la tasa de desempleo?, ¿qué implicancias para la vida tiene la capacitación laboral para un oficio?, ¿qué significa el estudio de las “condiciones laborales” de los trabajadores que realizan diversas disciplinas de las ciencias sociales? Estos son algunos aspectos que ameritarían una reflexión profunda a partir de los aportes de la filosofía henryana.</p>
+			<p>En el ámbito epistemológico los aportes de Henry en torno al trabajo viviente tienen también implicancias significativas. Como hemos explicado, la vida del sujeto coincide con su trabajo, con su actividad corporal y no es más que el saber de la vida que se expande para acrecentarse. Henry encuentra en el concepto de <italic>praxis</italic> una manera de entender el trabajo. La <italic>praxis</italic>, comprendida como actividad corporal, subjetiva, individual y viviente, no es otra cosa que el trabajo o más bien la fuerza de trabajo que Marx pondría en el fundamento de su análisis económico y que aparece como naturante de todo el sistema social en sus últimos manuscritos. En este caso, la tarea de la filosofía consistiría en buscar de antemano los objetos sobre los que la ciencia reflexiona, convirtiéndose así en una disciplina que analice y descubra la génesis trascendental de estos objetos, que es desconocida para las ciencias. Si esto no queda explicitado, la ciencia no sabría en realidad de qué trata su propia actividad. En la economía política esta génesis trascendental sería el trabajo viviente, olvidado por el marxismo y las ciencias humanas influidas por éste, pues para que exista una sociedad, es necesario que existan individuos encarnados, vivientes y concretos que la funden con su praxis. Esta reflexión podría transformarse también en una especie de “vigilancia epistemológica” o “cautela epistemológica”, que ayude a tener una mirada lúcida frente a las ciencias que quieren dar cuenta de la vida de los sujetos y la vida social, evitando hipostasiarla o sustituirla por objetos de los cuáles se desconoce su génesis trascendental. Esta cautela puede ser vista también como una contribución en la tarea de evitar la “naturalización de lo social”, que es uno de los cometidos que se han propuesto las ciencias sociales contemporáneas, es decir, como plantea Lechner, evitar la transfiguración del orden social en orden natural, proceso que impide visibilizar cambios sociales y nos hace olvidar que es el sujeto quien produce este orden social, a partir de su actividad subjetiva e intersubjetiva, y es por tanto quien puede modificarlo.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Dufour-Kowalska, G. 1980. <italic>Michel Henry: une philosophie de la vie et de la praxis</italic>. Paris: Librairie Philosophique J. Vrin.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dufour-Kowalska</surname>
+							<given-names>G. </given-names>
+						</name>
+						</person-group>
+					<year>1980</year>
+					<source>Michel Henry: une philosophie de la vie et de la praxis</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>Librairie Philosophique J. Vrin</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Henry, M. 1976. <italic>Marx</italic>. Paris: Gallimard.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henry</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>1976</year>
+					<source>Marx</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>Gallimard</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Henry, M. 1987. <italic>La Barbarie</italic>. Paris: PUF.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henry</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>1987</year>
+					<source>La Barbarie</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>PUF</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Henry, M. 2000. <italic>Incarnation. Une philosophie de la chair</italic>. Paris: Seuil.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henry</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>Incarnation. Une philosophie de la chair</source>
+					<publisher-name>Paris: Seuil</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Henry, M. 2004a. L’évolution du concept de la lutte de classes dans la pensée du Marx. <italic>Phénoménologie de la vie, tome III de l’art et du politique</italic>. Paris: PUF.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henry</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<chapter-title>L’évolution du concept de la lutte de classes dans la pensée du Marx</chapter-title>
+					<source>Phénoménologie de la vie, tome III de l’art et du politique</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>PUF</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Henry, M. 2004b. La question de la vie et de la culture dans la perspective d’une phénoménologie radicale. <italic>Phénoménologie de la vie, tome IV sur l’éthique et la religion</italic>. Paris: PUF .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henry</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<chapter-title>La question de la vie et de la culture dans la perspective d’une phénoménologie radicale</chapter-title>
+					<source>Phénoménologie de la vie, tome IV sur l’éthique et la religion</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>PUF</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Henry, M. 2004c. <italic>Autodonation: Entretiens et conférences</italic>. Paris: Beauchesne.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henry</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<source>Autodonation: Entretiens et conférences</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>Beauchesne</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Henry, M. 2007. <italic>Entretiens</italic>. Arles: Sulliver.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henry</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Entretiens</source>
+					<publisher-loc>Arles</publisher-loc>
+					<publisher-name>Sulliver</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Henry, M. 2008. <italic>Le socialisme selon Marx</italic>. Cabris: Sulliver. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henry</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Le socialisme selon Marx</source>
+					<publisher-loc>Cabris</publisher-loc>
+					<publisher-name>Sulliver</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Jean, G. 2011. Vie et plus-value: Michel Henry et les fondements métaphysiques de la économie. <italic>Les cahiers philosophiques de Strasbourg</italic> 30: 171-196. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jean</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Vie et plus-value: Michel Henry et les fondements métaphysiques de la économie</article-title>
+					<source>Les cahiers philosophiques de Strasbourg</source>
+					<volume>30</volume>
+					<fpage>171</fpage>
+					<lpage>196</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Marx, K. 1969. <italic>Ouvres</italic> I. Paris: Bibliothèque de la Pléiade.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>1969</year>
+					<source>Ouvres</source>
+					<issue-part>I</issue-part>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>Bibliothèque de la Pléiade</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Marx, K. 2006. <italic>Manuscritos económico-filosóficos</italic>. Buenos Aires: Colihue.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Manuscritos económico-filosóficos</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Colihue</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

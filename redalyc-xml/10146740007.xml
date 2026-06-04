@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model type="application/xml-dtd" href="http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1d3" specific-use="Marcalyc 1.2" article-type="research-article" xml:lang="es">
+<front>
+<journal-meta>
+<journal-id journal-id-type="redalyc">101</journal-id>
+<journal-title-group>
+<journal-title specific-use="original" xml:lang="es">Cinta de Moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="es">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile</publisher-name>
+<publisher-loc>
+<country>Chile</country>
+<email>cintamoebio@gmail.com</email>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="art-access-id" specific-use="redalyc">10146740007</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Sumário</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="es">La constitución de la identidad a través de la relación con el fantasma</article-title>
+<trans-title-group>
+<trans-title xml:lang="en">The constitution of the identity through the relationship with ghosts</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="no">
+<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6547-9436</contrib-id>
+<name name-style="western">
+<surname>López</surname>
+<given-names>Alma</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+<email>almalopez@bec.uned.es</email>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<institution content-type="original">Departamento de Filosofía, Universidad Nacional de Educación a Distancia (Madrid, España).</institution>
+<institution content-type="orgname">Universidad Nacional de Educación a Distancia</institution>
+<country country="ES">España</country>
+</aff>
+<pub-date pub-type="epub-ppub">
+<year>2016</year>
+</pub-date>
+<issue>56</issue>
+<fpage>197</fpage>
+<lpage>213</lpage>
+<history>
+<date date-type="received" publication-format="dd mes yyyy">
+<day>23</day>
+<month>05</month>
+<year>2016</year>
+</date>
+<date date-type="accepted" publication-format="dd mes yyyy">
+<day>17</day>
+<month>07</month>
+<year>2016</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2017</copyright-year>
+<copyright-holder>Cinta de Moebio</copyright-holder>
+<ali:free_to_read/>
+<license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">
+<ali:license_ref>https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+<license-p>Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial 4.0 Internacional.</license-p>
+</license>
+</permissions>
+<abstract xml:lang="es">
+<title>Resumen</title>
+<p>El problema de la identidad constituye uno de los hitos fundamentales de pensamiento filosófico. Es una cuestión compleja, un prisma con múltiples vértices. El presente artículo se centrará en dos hitos fundamentales relacionados con la identidad, a saber: muerte y comunidad. La muerte se sitúa como fin de la vida, pero como posibilidad de la misma. “Aparece”, entonces, el fantasma en una posición privilegiada para el diálogo y la comprensión de este fenómeno. Además, en tanto seres sociales los individuos no pueden ser separados de la comunidad en la que se inscriben. Tampoco es posible distanciar a los fantasmas y las funciones cumplidas históricamente en este aspecto. A lo largo del texto se examinarán cuáles han sido y pueden ser estas funciones a cumplir por los fantasmas entendidos como referente dialógico y terapéutico de la constitución de la identidad.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract</title>
+<p>The problem of identity is one of the milestones of philosophical thinking. It is a complex question, a prism with multiple vertices. In this paper I will focus on two key-concepts related to identity, namely, death and community. Death stands as end of life, but as a possibility of it. The ghost "appears", then, in a privileged position for the dialogue and the understanding of this phenomenon. Moreover, as social beings, neither individuals can be separated from the community in which they are registered; nor it is possible to distance the ghosts and functions historically fulfilled in this respect. Throughout the text I will discuss the functions that have been and those that would be of ghosts; understanding ghosts as a referring dialogic and therapeutic constitution of identity.</p>
+</trans-abstract>
+<kwd-group xml:lang="en">
+<title>Keywords</title>
+<kwd>identity</kwd>
+<kwd>ghost</kwd>
+<kwd>death</kwd>
+<kwd>community</kwd>
+<kwd>function</kwd>
+</kwd-group>
+<kwd-group xml:lang="es">
+<title>Palabras clave</title>
+<kwd>identidad</kwd>
+<kwd>fantasma</kwd>
+<kwd>muerte</kwd>
+<kwd>comunidad</kwd>
+<kwd>función</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="17"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>
+<bold>Introducción</bold>
+</title>
+<p>La cuestión de la identidad ha sido uno de los problemas fundamentales de la filosofía en sus diferentes áreas (lógica, ontología, moral, política, metafísica), así como de la antropología, la psicología, la sociología, la neurología, entre otras. Los psiquiatras, por ejemplo, se han enfrentado a trastornos de personalidad múltiple que distorsionan la imagen del yo como identidad única. También se ha investigado cómo se constituye la identidad a través del grupo y en qué medida el yo media la constitución de la realidad, tanto individual, como comunitaria e intersubjetivamente, entre otros enfoques.</p>
+<p>La respuesta a esta cuestión compleja lleva a posicionamientos muy diferentes: la identidad puede ser considerada previa a la constitución social, simultánea o consecuencia de la misma, pero siempre desde la consideración del humano como social. El debate abierto se ha centrado tanto en las varias implicaciones de cada una de las concepciones como en su validez. La polémica no ceja, pero lo que sí puede afirmarse es que, <italic>de facto</italic>, vivimos socialmente.</p>
+<p>Partiendo de este hecho fundamental del sujeto como social, resulta especialmente pertinente referir a otro de los polos constitutivos de la identidad humana: la muerte. En tanto que ser vivo, el ser humano apoya su existencia en el futuro de no-existencia. Vida y muerte se vuelven elementos cardinales con unas implicaciones identitarias substanciales. Tal como el poeta y pensador de origen chino F. Cheng ha puesto de manifiesto: “en el seno de un mundo aleatorio, lleno de imprevistos, no poseemos más que una certeza absoluta: cada uno de nosotros ha de morir un día. Sin embargo, ¿no tendríamos ya nada más que decir ante este absoluto? No lo creo, por la simple razón de que a causa de la vida, la muerte en modo alguno nos parece un hecho absoluto. En realidad, si la vida no existiera, no habría muerte. […] No podemos pensar la vida sin pensar la muerte, como tampoco podemos pensar la muerte sin pensar la vida. Pero en este binomio indivisible, la vida es quien tiene la preeminencia” (<xref ref-type="bibr" rid="redalyc_10146740007_ref3">Cheng 2015</xref>:31).</p>
+<p>En cuanto a la identidad, este autor nos muestra un punto primordial: su carácter comunitario. No solo nos realizamos, no solo “somos” a través de la dialéctica con la muerte, sino, y sobre todo, por nuestro carácter social, de unión con los demás. No se trata de una unión mística ni espiritual, sino de un carácter social, tanto a nivel físico, podríamos decir de dependencia biológica, como a nivel psicológico, que se da efectivamente en la humanidad: “Lo absoluto de la vida significa que, al ofrecerse como don a cada uno, es también una exigencia. Implica un cierto número de leyes fundamentales que garantizan una vida abierta y, por consiguiente, la verdadera libertad. Vivir no se limita al hecho de existir corporalmente. […] Cada uno de nosotros está unido a los otros” (<xref ref-type="bibr" rid="redalyc_10146740007_ref3">Cheng 2015</xref>:31).</p>
+<p>La muerte se sitúa como polo de diferencia con la vida que, por ser complementaria, la conforma y define. A partir de este choque con la muerte y por los más diversos –y complejos– motivos, el ser humano ha establecido el más allá como punto de inflexión trascendental a través de diferentes concreciones del hecho religioso. Nótese que estamos hablando de “hecho religioso” y no religión, pues con ello se pretende hacer alusión a cualquier conjunto de creencias basadas en la fe como hecho fundamental, trascendental y de creencia “ciega”, no fundada. Es en este sentido en el que hablamos de fantasmas como hecho religioso –como profesión de fe en que existe un más allá con el que, además, podemos comunicarnos y que, por tanto, la muerte no supone el fin, por lo que esta creencia se vuelve trascendental.</p>
+<p>Una de estas concepciones del hecho religioso, pensemos, es la representación a través del fantasma, es decir, el espíritu o aparición de una persona muerta. Con ello, independientemente de sus intenciones u objetivos, el ser humano logra superar uno de los miedos más atroces: la nada. El presente estudio investiga cómo se constituye la identidad a partir de la noción de fantasma. Ésta se manifiesta en los episodios de duelo, en la responsabilidad moral, así como en la enfermedad mental o el sufrimiento grave. Pueden establecerse dos niveles de análisis: aquel que atiende a los motivos intrínsecos de aparición de los fantasmas; y un segundo nivel en el que se estudian las consecuencias tanto individuales como sociales de las visiones de fantasmas. El primer grupo estudia los motivos que llevan a los fantasmas a existir, mientras que la segunda vía se centra en qué suponen esas proyecciones de una necesidad o idea en algo etéreo y extraño como un fantasma. En cuanto resolución de un problema puede considerarse una relación terapéutica. Terapia ha de ser entendido en un sentido amplio, según la tendencia reciente de la OMS, en la que la terapia estaría encaminada a la consecución de la salud en todos sus niveles y estadios, incluyendo tanto la prevención como la curación.</p>
+<p>Manteniéndonos en el filo de ambas cuestiones, en el presente artículo se estudiarán los modos de constitución de la identidad definida a partir del fenómeno espectral como terapia. Hablamos de modos en plural, puesto que esta relación está compuesta de diversos vértices de acercamiento, estableciéndose una simbiosis compleja. Compleja, puesto que atiende aspectos múltiples y, no obstante, fundamentales para la identidad de cada individuo, así como para el buen funcionamiento social. Simbiosis en tanto que ambos polos se vuelven necesarios para la existencia y supervivencia del otro: la identidad para los sujetos que requieren –si bien subliminalmente– la presencia de fantasmas no se constituye sin ese enfrentamiento u oposición al fantasma y éste no aparece a menos que su presencia sea requerida. Iremos desentrañando este fenómeno en los apartados siguientes.</p>
+<p>Para ello comenzaremos introduciendo la noción de ser humano como ser social, necesaria para comprender cómo se constituye la identidad. A continuación, tras dirimir brevemente qué es un fantasma, expondremos los límites planteados por este fenómeno; límites que han de ser entendidos como puntos de anclaje y referencia para esa constitución identitaria. Finalmente apuntaremos en qué sentido podemos entender el fantasma como terapia, antes de pasar a un apartado de conclusiones en el que se recogerán las principales ideas vertidas en el texto y se abrirán nuevos caminos de estudio.</p>
+</sec>
+<sec>
+<title>
+<bold>Ser humano como ser social</bold>
+</title>
+<p>Ser humano es, por definición, ser social. Desde los inicios de la filosofía se ha destacado este aspecto para los más diversos fines. En la historia de nuestro pensamiento también se han construido alegorías de cómo sería no pertenecer a una comunidad. Estas narraciones tienen su culmen en la Modernidad, siendo especialmente célebres los casos de Thomas Hobbes y Jean-Jaques Rousseau. Ambos autores refieren a un estadio pre-comunitario que actúa como estado primigenio en el que, bien existían los más atroces males, bien reinaba la más absoluta armonía. Sus relatos son una suerte de mitos fundacionales del Estado.</p>
+<p>Esta fundamentación del Estado como necesario para el bienestar de cada individuo es desarrollada de modos opuestos en ambos autores. El Estado se expone como condición del bien en el caso hobbesiano y superación del mal generado en la comunidad para el rousseauniano. En ambos casos se plantea como necesario, puesto que, partiendo de la necesidad humana de vivir socialmente, esta convivencia ha de ser regulada y, por tanto, el Estado ha de intervenir en la gestión de la comunidad. Estas alegorías representan al Estado como origen o resultado de la comunidad y, como consiguiente, del individuo. Solo si me defino como parte de un todo puedo tener individualidad, en contraposición a ese todo; en otras palabras, el “buen salvaje” –o el malo– no tendrían conciencia de su ser uno hasta que se convierten en el <italic>zoon politicon</italic> aristotélico, hasta que forman parte de una comunidad más o menos organizada.</p>
+<p>Puede decirse, entonces, que la constitución identitaria se da solo como parte de la comunitaria. Solo seré un individuo si soy social, o lo que es lo mismo, solo seré humano en la sociedad. Nótese que el ser social es condición necesaria para lo humano, pero no suficiente ni exclusiva de nuestra especie. También los animales pueden ser sociales y, como tal, constituirse individualmente de algún modo –teniendo, o no, conciencia de sí. Este interesante y largamente debatido tema, queda fuera de las posibilidades y objetivos del presente estudio, en el que ha de matizarse qué entendemos por “identidad comunitaria”.</p>
+<p>El primer término de la díada nos remite a un largo debate desarrollado en filosofía, historia, psicología, sociología y antropología. Sucintamente, puede definirse “identidad” como aquello que nos permite “aseverar que es el mismo objeto en distintos momentos del tiempo” (<xref ref-type="bibr" rid="redalyc_10146740007_ref17">Villoro 1997</xref>:63), bien sea a través de rasgos, características o cualquier elemento que le confiera singularidad. En el caso de la identidad personal este reconocimiento viene dado por el “yo formal” kantiano que le permite a cada individuo disponer del punto de vista de la tercera persona, es decir, de situarse en el lugar del otro, empática, perceptivamente, y hacer abstracción de sí mismo, eje constitutivo de su propia imagen de sí, su individualidad.</p>
+<p>Cuando hablamos de individuo, entonces, nos estamos refiriendo a tres dimensiones superpuestas, aunque complementarias. En primer lugar, el individuo, que juega un papel o rol en su grupo o grupos con un cierto valor atribuido y un cierto margen de autonomía con respecto al marco institucional. Esta es la noción general que venimos apuntando. Junto a ello encontramos, en segundo lugar, al “sujeto”: el individuo que “expresándose en primera persona, hablando en su propio nombre enuncia ciertos rasgos que hacen de él un ser singular” (<xref ref-type="bibr" rid="redalyc_10146740007_ref16">Veyne 1990</xref>:29). En tercer y último lugar, con individuo nos referimos también al “yo”, a la persona desde su interioridad, es decir, al conjunto de prácticas y aptitudes psicológicas que dotan al sujeto de unicidad y lo constituyen interiormente como un ser real, con significación y conciencia de sí mismo.</p>
+<p>Sin embargo, si bien el individuo se diferencia del resto de personas que conforman su grupo o sociedad, no puede comprenderse sin ellas, sin la relación dialógica y empática que establece su singularidad desde el punto de vista del otro. En tanto social, el individuo no puede separarse de esta relación con el otro, pero tampoco de su constitución en el seno de la comunidad. Como “identidad comunitaria” ha de entenderse, entonces, como el conjunto de rasgos que nos permiten identificarnos como miembros de un grupo más extenso y que, a su vez, definen los límites de nuestra propia constitución identitaria. Cada individuo se comprende solo desde su pertenencia a una cultura concreta, con un conjunto de creencias y valores posibles determinado, si bien con cierto margen de elección que dota a cada sujeto de su propia individualidad. Tal y como Taylor ha señalado, la identidad de un individuo supone “no solo su posición en cuestiones morales y espirituales, sino también algunas referencias a una comunidad definida” (<xref ref-type="bibr" rid="redalyc_10146740007_ref11">Taylor 1989</xref>:36), es decir, su pertenencia a la identidad comunitaria en la que pueda surgir la conciencia del yo siempre dentro de un marco socio-político, cultural e ideológico determinado.</p>
+<p>Esta conciencia del yo interior se radicaliza durante la Modernidad, con la escisión del cristianismo y la progresiva mecanización del mundo. La persona ha de responder de sus actos por sí mismo y no ya en referencia a un juicio divino. Junto a ello, además, la Modernidad supone “la historia de una radicalización de la subjetividad” (<xref ref-type="bibr" rid="redalyc_10146740007_ref6">Innerarity 1990</xref>:21) y su concepción epistemológica es de corte constructivista (en referencia a que es el individuo, el sujeto, el que dota de sentido el mundo que percibe, en tanto que se convierte en representación y no, por tanto, en una realidad exterior que se aprehenda sin más), partiendo de esa subjetividad hacia la objetividad buscada mediante el método que proporcionará certeza. La filosofía y en ella, “el sujeto trascendental, el hombre que surge con la <italic>episteme</italic> moderna (Foucault comprendería el período entre 1780 y 1950, aproximadamente), estará perfilado por su propia finitud, por los límites que lo vertebran” (<xref ref-type="bibr" rid="redalyc_10146740007_ref15">Vázquez 1995</xref>:86).</p>
+<p>Pero, ¿qué límites son estos? Pueden establecerse tres grandes limitaciones, a saber: epistemológicas, gnoseológicas y existenciales (o temporales). El primero de los hitos se corresponde con los celebérrimos “límites de la razón” expuestos por Kant. Con limitaciones gnoseológicas nos referimos a los errores de juicio o de sensación propios de la humanidad y que le impiden que se dé una efectiva comunidad de conocimiento –de creencias y valores compartidos. El ejemplo a destacar para nuestro estudio es el de enfermedades mentales como las alucinaciones. En último lugar, como ser vivo el ser humano tiene una limitación temporal/existencial fundamental: la muerte. Ésta puede ser entendida en sentido positivo o negativo, es decir, como condición de posibilidad de la vida (en tanto en cuanto no sería tal sin un límite temporal que sirviese de contraposición); o bien, tal y como ha venido sucediendo en la historia reciente de Occidente, como un error en el sistema, entendido este tanto en su ámbito social como individual.</p>
+<p>Estos límites, pertenecientes a un mismo sistema de pensamiento, cuentan con elementos comunes como la jerarquización del humano como objeto-valor. Es más valioso el que ha logrado alcanzar un conocimiento superior; aquel cuyo juicio es claro y corroborado por los demás –que cuenta con lo que coloquialmente se denomina “ojo clínico”, es decir, una sensibilidad especial para descubrir cómo son las cosas en el mundo; así como aquel que vive por más tiempo y logra superar enfermedades o accidentes muy graves, burlando en cierto sentido –temporalmente– a la muerte.</p>
+<p>Hablamos de límites en el contexto, puesto que se podrían otros tipos de sensibilidad especial, por ejemplo, las de aquellas personas sensibles a las apariciones de fantasmas. Kant afirma acerca de las apariciones de fantasmas y de los visionarios que: “esta clase de apariciones no pueden ser, no obstante, algo común y corriente, sino acontecer solo a personas cuyos órganos tengan un inusual grado de excitabilidad” (<xref ref-type="bibr" rid="redalyc_10146740007_ref8">Kant 1987</xref>:81). Los visionarios, sin embargo, no se encuentran en la cúspide de esta jerarquía en tanto que su sensibilidad no se ajusta a los deseos de la ciencia imperante.</p>
+<p>Este fenómeno fantasmagórico, que atraviesa la historia de la cultura occidental –aunque no solo– se instituye como límite de los aspectos señalados. Estamos ante una problemática de índole compleja, en la medida en que el fantasma es un <italic>no-ser</italic>, pues no está vivo, no es extenso y no se rige por nuestro sistema de creencias y valores, se sitúa en el plano del “todavía-no” y no es un “ser-en-el-mundo”, al menos no en el sentido habitual. Sin embargo, la relación que todavía hoy se sigue estableciendo entre el individuo vivo y el fantasma –muerto– nos ayuda a pensar una cuestión central en nuestro tiempo: la crisis de la identidad.</p>
+<p>Los visionarios –aquellas personas que experiencian apariciones de fantasmas– han pasado a formar parte de los “locos” en la cultura occidental. La asociación se realiza de modo directo en los círculos científicos, en los que se tacha de pseudo-ciencia, así como en los populares. La sociedad ha derivado en una construcción patológica de los visionarios, frente a los “normales” en el sentido de <xref ref-type="bibr" rid="redalyc_10146740007_ref2">Canguilhem (2005)</xref>. A este respecto resultan apropiadas unas palabras de B. Simon cuando afirma: “en primer lugar existen importantes problemas de definición y límites. Según mi conocimiento, toda cultura tiene algún tipo de categoría que pueda ser llamada ‘locura’, pero la locura no siempre se distingue con facilidad de otras categorías de pensamiento y conducta. Es muy difícil separar la locura de otras perturbaciones que van unidas a estadios o sucesos particulares de la vida: enfermedad, separación, muerte, adolescencia, vejez, etc… hablando en general, cada cultura tiene unos límites muy amplios para la conducta que se debe esperar en estas situaciones, pero ¿cuándo se convierte la profunda tristeza en un dolor patológico? ¿Dónde termina la agitación provocada por la adolescencia y comienza la esquizofrenia? ¿En qué punto podemos situar el límite entre el innovador y el enfermo, entre el visionario y el psicótico? ¿Acaso ambos epítetos no pueden resultar correctos en ocasiones?” (<xref ref-type="bibr" rid="redalyc_10146740007_ref10">Simon 1978</xref>:34).</p>
+<p>La pregunta que nos formulamos nosotros es: ¿acaso no pueden estos epítetos resultar también incorrectos? En aras de realizar una exposición lo más clara posible trataremos brevemente qué se entiende por “fantasma” y cuáles son las principales diferencias con respecto al individuo vivo. Como resultado, veremos, estamos ante una cuestión que, aunque pretendidamente negada, no está resuelta ni constituye el “pasado” de nuestra cultura. Los fantasmas están –y han de estar– más vivos que nunca. Su función social y psicológica no ha de ser desdeñada, sino defendida.</p>
+</sec>
+<sec>
+<title>
+<bold>Fantasmas y otros fenómenos</bold>
+</title>
+<p>Antes de poder confrontar la cuestión de la identidad con los fantasmas es necesario acotar a qué nos referimos con este vocablo. Esta tarea, si bien se presenta como banal a ojos populares –en la medida en que parece un lugar común en el conjunto de creencias y supersticiones– no es fácil. En primer lugar, por tratarse de un concepto habitual está cargado de prejuicios como la asociación con sábanas blancas. Por otro lado, existen gran variedad de vocablos que refieren al mismo tipo de fenómenos, lo que imposibilita una definición satisfactoria. Además, a lo largo del tiempo y por diversas causas sociales y religiosas, estos términos han sido utilizados por los autores que se han encargado del estudio de fantasmas y visionarios de muy diverso modo. Junto a ello, para terminar, existen gran variedad de fenómenos asociados con la muerte que, sin embargo, no pueden ser considerados propiamente fantasmas, tales como zombis, vampiros, <italic>revenants</italic>… Este complejo conjunto genera todo tipo de confusión a la hora de comprender qué es un fantasma. A continuación, procederemos a un intento de demarcación de esta cuestión.</p>
+<p>De entre el conjunto de fenómenos a los que el término “espectralidad” englobaría, los fantasmas se distinguen de otros tipos de experiencias o criaturas por ser espíritus de personas fallecidas que se aparecen a personas vivas. En este sentido, pueden ser definidos como fenómenos espirituales, incorpóreos y muertos. Además, su presencia no es extraña en el sentido freudiano de siniestra (familiar, pero incómoda, que causa una extrañeza profunda y contradictora), sino que, aunque la persona que se aparece no haya sido conocida con anterioridad su manifestación no conlleva terror, sino solo sorpresa o extrañamiento.</p>
+<p>En cuanto a características que resultan menos obvias, pero igualmente generalizables, apuntaremos dos elementos derivados de nuestra propia investigación acerca de la conceptualización de los fantasmas y fenómenos extraños asociados en sus múltiples perspectivas posibles: por un lado, diremos que los fantasmas cuentan usualmente con una atribución teleológica, es decir, se aparecen con una finalidad que puede ser la venganza, el consejo a alguien cercano, dar un mensaje o reiterar una acción concreta de su vida que cuenta con una significación especial. Por otro lado, aunque enteramente conectado con el anterior punto, puede decirse que, a pesar de lo apuntado, no disponen de una finalidad exógena y social clara como grupo, sino que ésta se configura en relación con cada época histórica. Mientras que los zombis y vampiros pretenden extinguir la humanidad transformando a las personas en seres de su propia condición, los fantasmas no han sido englobados bajo una única finalidad. Esto se ha visto en la característica anterior desde su perspectiva intrínseca, del propio fantasma, pero es especialmente relevante en su polo externo en cuanto directamente vinculado con la configuración del poder en cada época concreta.</p>
+<p>En este segundo sentido –avanzamos–, es posible realizar una conexión foucaultiana entre sistemas de poder y representación fantasmagórica o función de alivio de la tensión vertida hacia estos individuos, en la medida en que “el poder produce, produce lo real, produce campos de objetos y rituales de verdad…” (<xref ref-type="bibr" rid="redalyc_10146740007_ref4">Foucault 1977</xref>:75). Aunque tradicionalmente y en las diferentes épocas los fantasmas han estado “presentes” en todos los ámbitos de lo social, desde los más populares a los más académicos y eruditos, los mecanismos de poder han transformado las creencias a lo largo del tiempo hasta lograr ignorar la existencia misma de su idea, la creencia, relegándola al mismo tiempo al ámbito del mal, de lo oscuro, lo indeseable. Esta doble relación del poder con los fantasmas puede ser explicada a través de los mecanismos del poder que Foucault desveló en su pensamiento, pues existe una tensión entre la pretensión de ignorar el fenómeno y la necesidad de reconfiguración en el ámbito de cada nueva episteme para conformarlo como negativo. El discurso era de realidad en la Antigüedad, pasando en el Medievo a concebirse como relativo al demonio, siendo en la Modernidad una cuestión de sin-razón y culminando en la Época Contemporánea como una cuestión científico-médica relativa a la enfermedad mental.</p>
+<p>Se observa, entonces, cómo el poder configura lo que se entiende como verdadero en cada época, pasando los fantasmas de ser considerados reales a ser negados totalmente, ocultados. Utilizamos el término verdadero en el sentido definido por Foucault, que afirma: “la verdad es de este mundo; se produce en él gracias a múltiples coacciones. Y detenta en él efectos regulados de poder. Cada sociedad tiene su régimen de verdad, su ‘política general’ de la verdad: es decir, los tipos de discurso que acoge y hace funcionar como verdaderos o falsos, el modo como se sancionan unos y otros; las técnicas y los procedimientos que están valorizados para la obtención de la verdad; el estatuto de quienes están a cargo de decir lo que funciona como verdadero” (<xref ref-type="bibr" rid="redalyc_10146740007_ref5">Foucault 2000</xref>:11).</p>
+<p>Sin embargo, cuando afirmamos que no disponen de una finalidad social clara, nos referimos a que no son representaciones del miedo a la masa o a la propagación de epidemias producidas por los cambios medioambientales o la guerra química, como sería el caso de los zombis; ni tampoco se trata de la iconografía de la lujuria y la necesidad de que la sexualidad sea controlada e incluso repudiada, como ocurre con las <italic>revenants</italic>; por no hablar de los vampiros, símbolo de una aristocracia venida a menos que intenta continuar viviendo a costa de la sangre del pueblo al que un día protegió en el sistema feudal, pero al que ahora solo oprime.</p>
+<p>Una vez definidos de este modo, los fantasmas comienzan a separarse de otros tipos de criaturas, como las <italic>revenants</italic>, zombis y vampiros. Todos ellos, además, son corpóreos, extensos y simbolizan un colectivo moralmente reprobable, al que se debe tener asco y evitar. Zombis y vampiros, además, son “no-muertos”, aunque su vida es diferente a la humana: más difícil de acabar con ella, no totalmente completa en el caso de los zombis (infectados por algún virus o transmutados, con lo que adquieren, como los vampiros, una condición de, puede decirse, mortales especiales). Son de obligada referencia los dobles, figura celebérrimamente expuesta en literatura por Dostoyevski y que representa la conciencia de la persona a la que duplican, con un fin moralizante y a los que los demás repudian.</p>
+<p>Esta base muestral de criaturas, nos permite formarnos una idea de las sutiles diferencias a las que nos enfrentamos cuando hablamos de fantasmas. Junto a ello, además, el que para los fallecidos que se aparecen incorpóreamente a personas vivas, existan diversas denominaciones –fantasmas, espectros, espíritus…– acaba por confundir la cuestión. Si bien en cada época con unas connotaciones diferentes, estos fenómenos han estado permanentemente presentes en la historia de occidente, aunque no siempre del mismo modo. En este sentido, pueden establecerse dos grandes períodos: el “realista” y el “psicologista”.</p>
+<p>El primer periodo referido habría dominado desde el inicio de los tiempos hasta la llegada de la Modernidad. Tal y como Turró ha puesto de manifiesto, durante el Medievo “la existencia de leyes naturales rígidas supone que los prodigios o acontecimientos que se salen de la ley no pueden tener una causa natural, sino sobrenatural, lo que equivale a decir divina o diabólica. En cualquiera de ambos casos se está sosteniendo la existencia real de las potencias espirituales de la que habla la tradición bíblica, con lo que el milagro divino, al igual que los sortilegios malignos, adquieren carta de realidad y remiten, en última instancia, a un tipo de ciencia superior que trata de ellos en tanto que fuerzas sobrenaturales” (<xref ref-type="bibr" rid="redalyc_10146740007_ref12">Turró 1985</xref>:37). Se trata, entonces, de una concepción realista en la medida en que estos fenómenos <italic>son</italic>; su estatuto ontológico no supone un problema.</p>
+<p>Sin embargo, con los cambios acaecidos en la transición a la <italic>Época Clásica</italic> foucaultiana (que se corresponde <italic>grosso modo</italic> con la Modernidad) comienza a ser cuestionado cómo conocemos el mundo, es decir, cómo este es representado y si la subjetividad puede formar un criterio común. La cuestión de los fantasmas, entonces, se psicologiza en el segundo período, se convierte en una cuestión de la mente del sujeto suya percepción o raciocinio –según la corriente de pensamiento en la que nos situemos– es diferente. Los fenómenos espectrales, entonces, pasan a ser un problema mental y, con el discurrir del tiempo, de salud mental –y de definición misma de la humanidad. Sin embargo, este paso a la constitución ya no de una problemática, sino de una cuestión esencial para la definición misma de humano en cuanto ser vivo enfrentado a la muerte; de salud y de enfermedad, así como de ciencia y fe ha de ser profundizado. Estamos, pues, en el siguiente paso de nuestro estudio: los límites de la constitución identitaria.</p>
+</sec>
+<sec>
+<title>
+<bold>¿Qué podemos conocer? El fantasma como límite epistemológico</bold>
+</title>
+<p>Lo primero que ha de ser clarificado cuando acometemos el estudio de los fenómenos espectrales es que no estamos llevando a cabo una investigación de carácter ontológico; es decir, nuestro objetivo no es el de decidir o abordar si los fantasmas existen o no, si son un tipo de entes “reales” o, por el contrario, meros constructos mentales o cosa por el estilo. Y no es esta nuestra tarea porque sería un trabajo irresoluble y, en todo caso, la significación de este tipo de fenómenos sobrepasa su posible existencia mundana. En este sentido, podemos decir que su existencia como imaginario colectivo va más allá que cualquier aportación en contra de su existencia ontológica, si es que una prueba tal pudiese alegarse.</p>
+<p>Una vez dicho esto estamos en disposición de pasar a examinar el primero de los límites que hemos referido, a saber: el epistemológico. Aunque pueda parecer que estamos hablando de la misma cuestión ontológica, ambos problemas han de ser diferenciados. Nótese que el que un ente exista o no es independiente de si nosotros, como humanos, podemos llegar a conocerlo, cómo se lleva a cabo y hasta qué punto puede hablarse de conocimiento. Se diría, en todo caso, que si no existe no podemos conocerlo, pero dejando abierta la cuestión a que puedan existir los fantasmas –algo que, por extraño que parezca, no podemos negar definitivamente– la cuestión que se plantea es si podríamos conocerlos. Pero aún podemos ir un paso más allá: aún en el caso de que neguemos la existencia o se establecieran las pruebas falsativas necesarias, lo cierto es que el problema fenomenológico y psicológico de las visiones de fantasmas perduraría. El fenómeno de la visión de fantasmas por parte de los visionarios y las consecuencias de una experiencia tal en la persona continuarían siendo un caso de estudio interesante para la comprensión de la complejidad humana. Este problema, surgido en la Época Moderna encuentra su máximo exponente en el pensamiento kantiano. Como es sabido este autor delimita los límites de nuestra razón, es decir, aquello que podemos conocer.</p>
+<p>Para el caso concreto de los fantasmas encontramos, epistemológicamente hablando, dos posiciones principales. La primera de ellas, de corte reduccionista, negará la posibilidad de enfrentarnos a esta cuestión, llegando incluso a ridiculizar los intentos de investigación de estos fenómenos. Dentro de esta tendencia se encuentran los cientificistas y positivistas, aunque no solo, es decir, no necesariamente los reduccionistas son cientificistas ni viceversa, pues conforman solo un subconjunto que se intersecta parcialmente. Este punto de vista, seguido por Stanley Hall en el ámbito de la ciencia y Adorno –quien llegó a afirmar que “el ocultismo es la metafísica de los mentecatos” (<xref ref-type="bibr" rid="redalyc_10146740007_ref1">Adorno 2001</xref>:244)– en el de la filosofía, adolece, sin embargo, de un simplismo impropio de la Ciencia –entendida ésta como método– o de una filosofía que quiera plantearse seria. Tema y método son independientes.</p>
+<p>El contrario de la afirmación anterior se sostiene igualmente en la medida en que temas que <italic>a priori</italic> no son considerados serios pueden ser investigados de modo riguroso, metódico, siendo tales estudios, por tanto, más “científicos” que los anteriores en este sentido señalado. Ejemplos de ello son los desarrollos de la química moderna basados en la magia y la alquimia o experimentos de una gran calidad metodológica emprendidos por los miembros de la <italic>Society for Psychical Research </italic>(SPR) y sus afines americana, francesa y, en menor medida, alemana, entre los que se encontraban eminentes científicos como el matrimonio Curie, Charles Richet o John William Strutt, todos ellos galardonados con el Nobel en sus áreas científicas lo que invita a inferir que sus procedimientos eran metodológicamente aceptables desde el punto de vista científico.</p>
+<p>De lo anterior se desprenden dos cuestiones: qué determina que sea serio el tema, y cómo se lleva a cabo esa investigación rigurosa sobre un tema escurridizo como el que estamos manejando. Prejuiciosamente se ha negado la posibilidad de acercamiento a una problemática como las apariciones de fantasmas que, recordemos, son un fenómeno universal. Ejemplo de ello ligado a la problemática que presentamos lo encontramos en Stanley Hall, quién tachó sin justificación científica alguna los intentos de estudio por parte de los investigadores psíquicos de prejuicios –cuando la actitud prejuiciosa la encontramos en sus afirmaciones sin sustento– y calificó a las médiums de brujas (Stanley Hall fue el primer presidente, en 1892, de la American Psychological Association [APA] y fundador de la prestigiosa revista American Journal of Psychology en 1887); o Wilhelm Wundt, quien también identificó cualquier acercamiento a esta cuestión como brujería, que “por lo tanto, podemos abandonar completamente, tanto si tiene o no base para creer en el fenómeno espiritual” (<xref ref-type="bibr" rid="redalyc_10146740007_ref18">Wundt 1879</xref>:592). Su importancia a lo largo del tiempo y en las más diversas culturas ha de servir como criterio de prueba de que estamos ante un fenómeno fundamental para el ser humano y, por tanto, debe ser estudiado.</p>
+<p>Este hecho, y con ello pasamos a la segunda cuestión, no ha pasado desapercibido para un buen número de estudiosos de la más diversa índole, como los citados anteriormente, a los que podemos añadir a William James, Henry Sidgwick, Frederick Myers o Edmund Gurney, miembros destacados de la ya citada SPR. El acercamiento a un tema de modo riguroso es lo que, en gran medida, determina su validez. Sin entrar en debates acerca de ciencia y pseudo-ciencia, pues habríamos de dirimir un gran número de cuestiones acerca de la definición misma de ciencia, de la constitución metodológica de la misma, así como de hasta qué punto los contenidos estudiados pueden ser comprendidos fuera del contexto histórico-social en el que surgieron.</p>
+<p>En este sentido, siendo la psicología una disciplina naciente en el siglo XIX, es controvertido exponer los desarrollos tempranos de la <italic>SPR</italic> como pseudocientíficos sin realizar un estudio profundo de todos los componentes implicados en sus desarrollos, estudio que excede totalmente los límites de nuestro artículo y por lo que pasaremos a ejemplificar cómo se han realizado estudios sistemáticos de un tema como el presente. Sin embargo, como breve apunte, mencionar por ejemplo la psicología de William James, uno de los fundadores de la psicología científica en EEUU y cuyos desarrollos no pueden comprenderse en su totalidad sin remitir, como él mismo hacía, a su implicación con la investigación psíquica.</p>
+<p>Estas investigaciones, de carácter más abierto, no siempre son, sin embargo, totalmente benevolentes. Tal es el ejemplo de Kant, quién en su poco conocido –y valorado– ensayo <italic>Sueños de un visionario</italic> estudia a fondo la cuestión, si bien sus conclusiones no son del todo positivas. En el texto de juventud el filósofo alemán vierte algunas consideraciones que darán lugar a una interpretación de corte positivista. Ejemplo de ello se encuentran en los siguientes fragmentos: “un estado tal debería denotar una enfermedad real, puesto que supone una alteración del equilibrio en los nervios” (<xref ref-type="bibr" rid="redalyc_10146740007_ref8">Kant 1987</xref>:83).</p>
+<p>En otro lugar del texto, más avanzado y en dónde ya ha ido relacionando las visiones de fantasmas con las dolencias mentales, leemos: “no es, pues, ningún milagro, si el hombre que sufre alucinaciones cree oír o ver muy claramente muchas cosas que nadie percibe fuera de él, en tanto que esos fantasmas se le aparecen y desaparecen de pronto, […] las historias corrientes de espíritus son tan semejantes, que justifican la sospecha de que pudieran provenir de la misma fuente” (<xref ref-type="bibr" rid="redalyc_10146740007_ref8">Kant 1987</xref>:99).</p>
+<p>La calificación de Kant para aquellos que dicen ser <italic>visionarios</italic> parece, entonces, la de dementes y alucinados. Si bien este asunto está siendo polémico y revisado, muchas de las observaciones vertidas en el texto kantiano, nos indican que “aunque al principio un fantasma tal de la imaginación fuese débil, daría a la sensación aparente una vivacidad tan enorme, que no dejaría duda alguna al hombre demente sobre su veracidad” (<xref ref-type="bibr" rid="redalyc_10146740007_ref8">Kant 1987</xref>:99). Ni a nosotros, de la posible lectura positivista –aunque, y por ello, reduccionista– de las palabras del filósofo de Köningsberg.</p>
+<p>No se debe confundir, en cambio, la asociación establecida entre que los visionarios padecen una enfermedad mental con el rol desempeñado por la aparición en la constitución de la identidad del visionario. Que los fantasmas no existan no es óbice para negar su papel en el desarrollo identitario. Cuando una persona se identifica como “loco” o “enfermo mental” por ser un visionario, el fantasma que se le aparece es parte constituyente de su identidad. Si bien esta correlación entre persona que sufre una enfermedad mental y la atribución de la identidad por medio de este rasgo ha sido –y debe ser– duramente criticada y revisada a partir de la noción de estigma, la realidad es diferente. Es decir, se ha llevado a cabo una identificación de la persona con su enfermedad, un loco pasa a ser en este sentido solo un loco.</p>
+<p>Avanzando un paso más en esta constitución de la identidad del visionario como demente ha de tenerse en cuenta que Kant sigue a Rousseau en su concepción de la naturaleza humana y la sociedad. Al igual que el ilustrado francés explica a partir de una alegoría la corrupción moral y política del humano en sociedad, Kant, siguiendo el mismo ejemplo, propone una corrupción social de la mente. En su texto <italic>Ensayo sobre las enfermedades de la cabeza</italic> leemos: “el ser humano en estado de naturaleza puede estar sometido solo a pocas insensateces y difícilmente a alguna locura” (<xref ref-type="bibr" rid="redalyc_10146740007_ref9">Kant 2001</xref>:82). También sostiene Kant que “en este estado de simpleza solo raras veces puede tener lugar el trastorno del ánimo” (<xref ref-type="bibr" rid="redalyc_10146740007_ref9">Kant 2001</xref>:83) y esto en caso de que haya sufrido el salvaje algún golpe en la cabeza, es decir, por causas externas. Pero, por si todavía lo suficientemente claro que se está haciendo referencia a Rousseau, el filósofo de Köningsberg, aunque sin mencionarlo explícitamente en el grueso de su texto, parece empeñarse en que la alusión quede clara. Tanto en el empleo del vocabulario como en las ideas vertidas, pueden observarse estos ecos del pensador francés al que tanto admiraba en afirmaciones como la siguiente: “en la constitución civil [de la sociedad] se encuentran propiamente los fermentos de toda esta corrupción que, si no la generan ellos mismos, sirven, no obstante, para mantenerla y acrecentarla” (<xref ref-type="bibr" rid="redalyc_10146740007_ref8">Kant 1987</xref>:83).</p>
+<p>La constitución identitaria del loco o demente está formada, en este caso, tanto por el fantasma como por la sociedad, o, más bien, por la imagen del fantasma que la sociedad proporciona como vía de escape a su depravación. Estamos, entonces, ante un engranaje de los sistemas de poder y control social que bien pudiese haber sido utilizado por Foucault como ejemplo. Los fantasmas, al igual que la <italic>monomanía</italic> o, según ciertas perspectivas, la esquizofrenia, serían ejemplos de enfermedad “que se confunde con toda nuestra sociedad, este discurso (…) es claramente una manera de codificar un peligro social como enfermedad” (<xref ref-type="bibr" rid="redalyc_10146740007_ref13">Vásquez Rocca 2012</xref>:406). Estamos ante una función de higiene social reflejada en la estigmatización de los visionarios, en ser percibidos como peligro para el orden social.</p>
+<p>Sin embargo, a lo largo de la obra se detecta una tendencia a la confirmación que, si bien tan solo es una inclinación, defiende la tolerancia del autor. El discurso kantiano apunta una y otra vez hacia la existencia de espíritus o fantasmas, aunque, debido a las limitaciones de nuestra razón no podamos llegar a conocerlos. En contraposición, podremos intuirlos.</p>
+<p>Esta segunda línea, unida al hecho de haberse decidido no solo a redactar el ensayo –motivado por no perder el trabajo de lectura, según sus afirmaciones– sino también a publicarlo, abre a la posibilidad de estudio riguroso de estos fenómenos. En esta dirección se focalizarán los esfuerzos de la SPR y su homóloga estadounidense, la ASPR.</p>
+<p>El interés de estas sociedades radica no en la defensa de los fenómenos preternaturales, sino en el tratamiento metodológico de la cuestión. Esta aproximación, realizada por grandes personajes de la ciencia del siglo XIX, como se ha mencionado, fue al mismo tiempo científica y humanística. Es una investigación científica desde el punto de vista del método, pues es riguroso y experimental, si bien la cuestión de a qué temática se dirige pueda restar fuerza a este adjetivo. Además, podemos afirmar que es humanística desde el momento en que entre sus principales objetivos está el dirimir un acontecimiento humano fundamental y temporalmente extenso. De este modo, procediendo con precaución y eliminando cualquier inferencia más allá de los datos empíricos, la SPR se tomó con cautela, pero con seriedad, un problema tanto fenomenológico como psicológico esencial.</p>
+<p>El ánimo subyacente a estas sociedades queda evidenciado en el que fue presidente de la ASPR simultáneamente a la APA: William James. El pensador americano se pronuncia en diversas ocasiones acerca del carácter de los estudios psíquicos, así como de la ciencia en general. De esta última, adelantando la noción de paradigma de Kuhn, afirma que: “el ideal de toda ciencia es componer un sistema de verdades completo y cerrado. El atractivo de la mayoría de las ciencias para sus discípulos más pasivos consiste en aparecer, en mostrarse bajo esta forma ideal. Cada una de nuestras diferentes <italic>logoi</italic> aparenta ofrecer una clasificación categórica para todos los fenómenos posibles de la especie que pretende abarcar; y la imaginación de la mayoría de los hombres está tan lejos de ser libre que una vez ha comprehendido y asimilado un esquema organizado y consistente de este tipo no puede siquiera soñar otro esquema diferente. No se concibe posible ninguna alternativa, ni general ni parcial. Por consiguiente, los fenómenos que no se pueden clasificar dentro del sistema han de ser disparates paradójicos y deben considerarse falsos” (<xref ref-type="bibr" rid="redalyc_10146740007_ref7">James 2005</xref>:19).</p>
+<p>¿Qué ocurre entonces con las visiones de fantasmas? En tanto experienciadas por un número considerable de individuos, caen dentro del ámbito de estudio de la ciencia, a pesar de que aquellos que se declaran más científicos perseveren en su negación. A este respecto, William James argumenta como sigue: “ninguna porción de ese residuo sin clasificar se ha tratado con mayor indiferencia y desdén científicos que la masa de los fenómenos conocidos como <italic>místicos</italic>. La fisiología no quiere tener nada que ver con ellos. La psicología ortodoxa les vuelve la espalda. La medicina los barre a un lado, o todo lo más, de manera anecdótica, se refiere a algunos de ellos como ‘efectos de la imaginación’ –una mera expresión de rechazo cuyo significado nos es imposible precisar en estas páginas. No obstante, los fenómenos no dejan de estar ahí, yacen por todos lados en la superficie de la historia. No importa por dónde se abran sus páginas, se encontrarán hechos referidos bajo el nombre de adivinaciones, intuiciones, posesiones diabólicas, apariciones, trances, éxtasis, enfermedades y curaciones milagrosas, y poderes ocultos ostentados por individuos peculiares sobre personas y cosas de su entorno” (<xref ref-type="bibr" rid="redalyc_10146740007_ref7">James 2005</xref>:20).</p>
+<p>Una vez dicho esto, y tras referirse al magnetismo animal de Mesmer, con un auge más que notable en su época, pasa a hablar de lo que es considerado el “repugnante estilo místico-filosófico”, del que “no hay duda de que tiene un don para tratar con cierta clase de experiencia fenoménica” (<xref ref-type="bibr" rid="redalyc_10146740007_ref7">James 2005</xref>:23). En esta corriente se inscribe la Sociedad para la Investigación Psíquica (SPR) y los textos de un extraordinario rigor científico publicados por sus miembros en los <italic>Proceedings</italic>, revista para la cual solo tiene James palabras de alabanza científica. La SPR actúa “como si fuera una especie de observatorio meteorológico que acumulase informes de fenómenos tales como las apariciones, ha llevado a cabo un inmenso trabajo”, puesto que “la literatura es inmensa, pero sus evidencias son prácticamente inexistentes” (<xref ref-type="bibr" rid="redalyc_10146740007_ref7">James 2005</xref>:26), por lo que finalmente se dejan en suspenso.</p>
+<p>En cambio, en los textos publicados, “prevalecen unas leyes diferentes. Lo que tenemos en mente no es la mera cantidad, sino la calidad. Siempre que es posible se examina concienzuda y personalmente a los testigos, se revisan los hechos colaterales, y en la historia del caso aparece impreso su coeficiente preciso de valor de evidencia, con lo que cualquiera puede saber cuál es su peso probatorio. Aparte del trabajo llevado a cabo en los <italic>Proceedings</italic>, no conozco ningún intento sistemático de <italic>sopesar</italic> la evidencia sobrenatural” (<xref ref-type="bibr" rid="redalyc_10146740007_ref7">James 2005</xref>:27). Esta rigurosidad emprendida en el método experimental y de contrastación de cualquier evidencia, por pequeña que esta sea, convierte a la SPR, cuando menos en sus primeros años, en un elemento diferente con respecto a la concepción que cotidianamente se tiene de la parapsicología. Es necesario comprender los fenómenos en el contexto en el que se generan y bajo las características que se desarrollan en cada momento. Así, pese a no haber conseguido pruebas científicamente demostrables y sólidas acerca de los fenómenos preternaturales, los procedimientos de la SPR constituyen un elemento metodológico a tener en cuenta en el marco del cambio de siglo.</p>
+<p>Pese a todos los esfuerzos y las actitudes positivas de cara al futuro, los intentos de estas sociedades por fundamentar la existencia de fantasmas se toparon una y otra vez con el límite de nuestro conocimiento. Tal y como el propio James recoge en su cita, quizás si la ciencia caminase en esa dirección investigadora, pudiésemos haber avanzado en esta cuestión. Sin embargo, pese a plantear cuestiones y metodologías interesantes desde el punto de vista científico, su tratamiento quedó relegado y fue paulatinamente ocultado durante el siglo XX. A ello hay que sumarle, además, la muerte de los grandes impulsores de las sociedades, tras la cual la organización fue perdiendo apoyo y ánimo a partes iguales, quedando prácticamente olvidada –lo que no significa, vacía, pues continúa existiendo actualmente.</p>
+<p>En todo caso, el acento ha de ponerse en el intento mismo de investigación de la cuestión que permite introducir lo que se ha denominado perspectiva científico y humanista. El fantasma se vuelve entonces función social, aunque no única, sino que puede ser vista en diferentes dimensiones. Por un lado, en cuanto ayuda individual, bien sea de afrontamiento de la muerte, bien de revelación de una persona contra un poder establecido, como el caso de algunas mujeres histéricas que padecían visiones y comunicaciones con espíritus. Otra función que se ha convertido en un clásico de la literatura y el cine, son aquellos fantasmas que se aparecen a personas con cargos de conciencia. En estos casos, los fantasmas representan la conciencia del visionario, pues en lugar de tener remordimientos, cuentan con la presencia del fantasma.</p>
+<p>Junto a las funciones que tiene para el individuo, encontramos también las funciones sociales. Una de ellas se obtiene por inversión de la última apuntada entre las individuales, es decir, los fantasmas como conciencia. En el caso de la comunidad, el fantasma actúa como medio de control a través del miedo. Sería un instrumento alienador para la sumisión de las masas.</p>
+<p>Entre ambas posturas que exponen al fantasma como representación de la conciencia o la moral, encontramos aquella que postula al fantasma como pregonero. Se alzaría, entonces, como voz de los oprimidos y ya no como instrumento opresor. Los fantasmas, por tanto, no solo tienen un papel regulador en la constitución de la identidad comunitaria, sino que representan elementos positivos del imaginario social. Es, en ese sentido, el que hablaremos del fantasma como terapia en el próximo apartado de nuestro estudio.</p>
+</sec>
+<sec>
+<title>
+<bold>El fantasma como terapia</bold>
+</title>
+<p>La cuestión que se plantea, entonces, es: ¿en qué sentido o sentidos podemos pensar en los fantasmas como terapia? La respuesta a esta cuestión compleja –por la multitud de dimensiones que una terapia puede tocar– viene dada por la aplicación histórica de ese <italic>otro</italic> constitutivo y su papel terapéutico. De hecho, en nuestros apuntes sobre las posibles funciones del fantasma en la constitución tanto de la individualidad como de la sociedad, en buena medida hemos dado respuesta a esta cuestión.</p>
+<p>En primer lugar, de entre las funciones individuales podemos inferir la instrumentalización del fantasma como locura. Asociado a la época en la que hemos focalizado el estudio estamos ante la representación exterior de la locura. El sujeto, que es diferente a los demás, cuya constitución de ese mundo exterior de fenómenos es percibido de forma distorsionada sin poder llegar a un lugar común, intersubjetivo, de constitución comunitaria de contenidos, traduce sus divergencias a través de un fenómeno preternatural como un fantasma.</p>
+<p>Se han presentado dos dimensiones de esta exteriorización: aquella relativa a diferencias perceptivas o psicológicas –que podría estar relacionada con problemas mentales–; y una segunda referida a cuestiones de poder, a la opresión históricamente sufrida por ciertos colectivos que, en algunos casos, tiene como consecuencia esta proyección exterior de la necesidad de manifestarse.</p>
+<p>La cuestión que se plantea, entonces, en relación a estas formas de manifestación individual, es: ¿en qué medida estamos ante “locos”? Si bien su percepción del mundo no es intersubjetivamente compartida con lo que las autoridades establecen, no es menos cierto que no dejan de ser producto de ese poder, de la comunidad. Es decir, no serían locos en un sentido “natural”, sino que estarían categorizados –y estigmatizados– como tal debido a la constitución social de la realidad y del orden, en cada caso. Para ilustrar esta cuestión recurriremos a unas palabras de Bennet Simon que, si bien dedicadas a Grecia, pueden ser aplicadas a nuestro caso. Afirma el autor que “el enfermo y el actor movilizan y estimulan su capacidad de llegar a una identificación empática con los otros seres humanos, en especial con todos aquellos que sufren” (<xref ref-type="bibr" rid="redalyc_10146740007_ref10">Simon 1978</xref>:170).</p>
+<p>El enfermo y el actor, entonces, estarían en la base de la constitución identitaria, de la distribución de roles sociales. Sin embargo, no ha de pensarse que este papel desempeñado por enfermos y actores es de corte positivo, sino más bien negativo. Es decir, su contribución a la constitución de la comunidad se realiza por aquello que no ha de ser reproducido. Son modelos negativos, de lo que no puede o no ha de hacerse, de cómo no puede o no ha de actuarse. En el caso del enfermo esta asociación nos parece clara, puesto que, sobre todo si hablamos del loco, estamos ante una desviación de la normalidad. En el caso del actor, si bien más confuso porque podría representar el héroe, viene dada por ser una hipérbole, es decir, por representar los extremos posibles en las identidades. En este sentido, puede ser un modelo del sumo bien, de los ideales, pero no alcanzables o un modelo de bajas pasiones y malas conductas que recibirá su castigo. En todo caso, el actor también representa aquello que no puede alcanzarse, lo irrealizable, o aquello que no ha de perseguirse, lo indeseable.</p>
+<p>Estos ejemplos son el punto de equilibrio, el referente negativo de lo que ha de constituirse común e identitariamente. Lo mismo ocurre, aunque de modo trascendental, con la muerte. La muerte es el elemento definitorio de la vida, de lo humano, del yo, puesto que soy hasta que, justamente, dejo de ser, hasta el momento de la muerte. En este sentido, el fantasma sería la negación o transición hacia el afrontamiento de esa muerte, bien de la propia, bien de la de un ser querido. El fantasma, entonces, sería una proyección del duelo ante la pérdida de un allegado; proyección que, además, está usualmente asociada a muertes prematuras, bien desde el punto de vista del individuo que fallece, bien desde la perspectiva del vivo que la sufre. Es decir, puede referir a una persona que perdió la vida accidentalmente, muy joven o, más recientemente, en una concepción judeocristiana, sin haberse autorrealizado; o bien puede estar relacionado con que la persona que sufre la pérdida no está en situación de asumirla, no está preparada para continuar sola el camino de su vida. En tales casos, usualmente un individuo inmaduro –bien por edad, bien, como en el caso del tratamiento tradicional de las mujeres, por situación social (la alusión a las mujeres no se basa, por supuesto, en una afirmación de su inmadurez por su condición de mujer, sino en el hecho histórico del tratamiento desigual que han sufrido por el hecho mismo de ser mujeres)– proyecta la imposibilidad de asumir la muerte y enfrentarse a la nueva circunstancia de un mundo en solitario en un fantasma del allegado que lo acompaña y ayuda. Esto puede ser aplicado también, si bien con matices, a los enamorados.</p>
+<p>El otro polo de la afirmación anterior, a saber, el fantasma como negación de la propia muerte, ha de ser aclarado. Produce extrañamiento el pensar en el afrontamiento de la propia muerte en tanto que vivos, es decir, en tanto que todavía no nos hemos de enfrentar a ella y no tenemos experiencia más que por medio de la muerte de otros. Esta experiencia sin duda muy limitada, no representa lo que será nuestra muerte, sino el polo contrario, el sentimiento que provoca en los que se quedan, en los que nos sobreviven.</p>
+<p>Además, hemos de añadir que ese “todavía” no nos ha llegado el momento es relativo, pues nunca sabemos el instante exacto en el que <italic>de facto</italic> nos alcanzará. Todas estas cuestiones generan tensión que, bien consciente, bien inconsciente, está casi permanentemente en nosotros. El lector pudiera pensar que estamos exagerando, pues nadie está continuamente pensando en su muerte –salvo excepciones obsesivas y problemáticas mentales diferentes. Sí, es cierto, pero en el momento en que estamos rodeados por ella, en que somos bombardeados diariamente por su poder, estamos siempre en diálogo con nuestra propia finitud. Es entonces cuando, mediante las más diversas manifestaciones, el ser humano tiende a creer, a tener fe. Algunos, creen en un Dios salvador que los llevará al cielo; otros en el reencuentro con la naturaleza originaria; también están aquellos que creen en el renacimiento; más recientemente, un grupo creciente tiene fe en que la ciencia conseguirá detener a la muerte y eternizarlos; por supuesto, están los que intentan sobrevivir mediante sus legados… en esta lista interminable e íntima, puede también incluirse a aquellos que proyectan su fe en los fantasmas.</p>
+<p>Los fantasmas, las apariciones de espíritus más allá de la muerte, entonces, serían un método de supervivencia, un modo de asegurarnos que no se acaba todo con la muerte, que podremos seguir visitando este mundo, actuando sobre él y de algún modo “viviendo” con aquellos a los que queremos. Por ello, también, los fantasmas suelen ser limitados en el tiempo –dejando al margen a los fantasmas de leyenda: tanto si se trata de afrontar la muerte de un allegado, como si se trata de mi propia pervivencia más allá de la vida, ésta no se extenderá más que el tiempo que duren las personas a las que quiero o más de lo que el duelo, el dolor intenso por la pérdida, me aceche. La calma irá, poco a poco, serenándome y la nueva situación será asumida, por lo que el fantasma ya no será necesario.</p>
+<p>Las interpretaciones de por qué ocurre este cambio nos llevarían a un intenso debate que se remonta, cuando menos, al antiguo epicureísmo, por lo que no puede ser abordado en nuestro estudio. Sin embargo, lo que sí ha de ser resaltado es el hecho que ocurre, es decir, que con el paso del tiempo esta serenidad va consiguiendo que el dolor desaparezca, por lo que el fantasma, la visión del <italic>otro</italic> querido va difuminándose. La terapia, por tanto, ha surtido efecto.</p>
+<p>Resta, por último, abordar el fantasma como representación del poder, como medio de control alienante. Más allá del celebérrimo espectro del capitalismo marxiano rescatado y explicado por Jacques Derrida y continuado por sus seguidores, el fantasma puede ser entendido como medio de control en un sentido ya dibujado anteriormente: como límite de la realidad, como límite de lo cognoscible, como límite de lo que puede ser percibido… El miedo, gran instrumento de poder, elevará entonces al fantasma como una suerte de panóptico con poderes, es decir, puede ver sin ser visto y puede actuar sin sufrir consecuencia alguna, pues al no disponer de un cuerpo es intocable. Es, en este sentido, tal y como el propio Marx afirmó, una sombra que se cierne como control social.</p>
+<p>No obstante, esta sombra puede ser rastreada largo tiempo atrás, pues estos mecanismos de control social se remontan, cuando menos, a Grecia. En la sociedad helena las representaciones culturales se encaminaban a moralizar y controlar a las masas en el sentido del actor antes expuesto. Cabe, entonces, preguntarse “si, tal y como consideraré posteriormente, la cultura clásica griega estuvo marcada por unas fuertes tensiones en las relaciones hombre –mujer y padre– hijos, ¿funcionaban las representaciones de dramas sobre el parricidio y el incesto como terapias de masas?” (<xref ref-type="bibr" rid="redalyc_10146740007_ref10">Simon 1978</xref>:67). Si la respuesta a esta cuestión es afirmativa –que, avanzado el texto, lo es– esta idea puede, nuevamente, ser extrapolada a nuestro estudio. Al igual que las representaciones de dramas, parricidios e incestos, actúan como terapias de masas, las representaciones de fantasmas –shakespearianos, por ejemplo– estarían surtiendo ese mismo efecto. Frente al malestar social se impone, entonces, unas historias truculentas en las que el sufrimiento es palpable y que consiguen, debido al miedo en gran medida y a la compasión y empatía en buena parte, acallar ese desasosiego social. Median, entonces, entre el descontento de las masas y el poder concentrado en las autoridades poniendo como ejemplo que siempre se puede ir a peor y aliviando las tensiones a través del sentimiento, del padecimiento en el teatro –o en el cine o mediante la lectura– para que éste no sea reproducido en la escena real, en el ámbito de lo social. El fantasma, entonces, es un instrumento de regulación social con un doble sentido: regula los comportamientos mediante el miedo a través del papel “panóptico” que desempeña, pero sirve también para aliviar las tensiones mediante la representación del sufrimiento y la empatía que genera.</p>
+</sec>
+<sec>
+<title>
+<bold>Conclusiones</bold>
+</title>
+<p>A lo largo del presente artículo se han mantenido dos objetivos fundamentales: el estudio de la constitución identitaria en la sociedad, es decir, de la construcción de la identidad en un contexto comunitario. Este contexto es a la vez antecedente, precedente y recibiente de esta conformación del individuo y su identidad. Está simultáneamente entre sus causas o posibilidades de desarrollo, en la tensión dialógica de identificación y búsqueda de rol social, y como receptáculo o espacio de puesta en común y recepción de esas identidades formadas, como también de perfilamiento de las mismas. La identidad se constituye tanto desde uno mismo como, sobre todo, por esa interacción social, por cómo los demás influyen en mí, cómo me ven, la imagen que quiero proyectar en ellos, los modelos que sigo… y todo eso en un contexto comunitario o social que sirve de base, pero que está ya imponiendo unas reglas del juego en la medida en que habrá comportamientos sancionados, roles premiados, un conjunto de normas sociales…</p>
+<p>El segundo objetivo perseguido, relacionado, pero independiente, es el cambio de percepción con respecto a los fantasmas y fenómenos extraños de este tipo. Más allá de su existencia efectiva o de que podamos llegar a conocerlos, los fantasmas cumplen una función social importante, por lo que no han de ser ocultados ni negados. Se ha visto cómo los visionarios tienen necesidades psicológicas o antropológicas fundamentales que cubren mediante esta fenomenología. Los fantasmas, además, cumplen un papel social importante, tanto desde el punto de vista del poder de los opresores, como de los oprimidos. Son, en todo caso, un elemento de configuración de la identidad en contraposición a la locura, a la muerte y al poder; a los límites del individuo.</p>
+<p>Esta configuración identitaria es, además, terapéutica. El individuo da salida a sus miedos y sufrimientos, configurándose en la vida frente a ese polo del más allá, frente al fantasma. La comunidad en su conjunto disfruta de sus beneficios al poder identificar lo patológico con el fantasma –o con aquel que lo ve– y al poder abstraer, evadir el mal en una figura que no está encarnada y que, en todo caso, no es tan real como el <italic>otro</italic>, aunque sí tan poderosa, sino más. Los peligros son, por supuesto, grandes, pero las alternativas… ¿es preferible negar la muerte?, ¿es acaso más ventajoso creer en una vida eterna?, ¿seguiría ésta siendo “vida” y nosotros “humanos”? Los interrogantes que se plantean como alternativa al mantenimiento de los fantasmas son, cuando menos, igual de peligrosos y, lo que es más, causan más daño efectivo y afectivo a las personas, en tanto en cuanto, mientras seamos todavía mortales, hemos de afrontar la muerte.</p>
+<p>¿La solución? Si tuviésemos que dar una solución definitiva para la supresión de los fantasmas como innecesarios –para aquellos que opinan que cualquier evasión de la realidad es perjudicial para el humano– ésta pasaría por la conciencia profunda de nuestras limitaciones, por la responsabilidad individual y social y por, en definitiva, esa mayoría de edad kantiana o ese superhombre nietzscheano que nos acerquen a una vida plena y satisfactoria como comunidad –y no solo como individuos. Sin embargo, son ideales, utopías por las que luchar. Entretanto nuestra apuesta es la de trabajar para aliviar el sufrimiento mediante los fantasmas como terapia comunitaria.</p>
+</sec>
+</body>
+<back>
+<ack>
+<p>Agradezco especialmente al Dr. Gonzalo Mata sus comentarios y sugerencias. Este artículo ha sido realizado en el marco de un proyecto FPI-UNED.</p>
+</ack>
+<ref-list>
+<title>
+<bold>Bibliografía</bold>
+</title>
+<ref id="redalyc_10146740007_ref1">
+<mixed-citation>Adorno, T. 2001. <italic>Minima moralia: reflexiones desde la vida dañada</italic>. Madrid: Taurus.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Adorno</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<source>Minima moralia: reflexiones desde la vida dañada</source>
+<year>2001</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref2">
+<mixed-citation>Canguilhem, G. 2005. <italic>Lo normal y lo patológico. </italic>México: Siglo XXI.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Canguilhem</surname>
+<given-names>G.</given-names>
+</name>
+</person-group>
+<source>Lo normal y lo patológico</source>
+<year>2005</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref3">
+<mixed-citation>Cheng, F. 2015. <italic>Cinco meditaciones sobre la muerte</italic>. Madrid: Siruela.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Cheng</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<source>Cinco meditaciones sobre la muerte</source>
+<year>2015</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref4">
+<mixed-citation>Foucault, M. 1977. <italic>Historia de la sexualidad</italic>. México: Siglo XXI.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Foucault</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<source>Historia de la sexualidad</source>
+<year>1977</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref5">
+<mixed-citation>Foucault, M. 2000. <italic>Un diálogo sobre el poder y otras conversaciones</italic>. Madrid: Alianza.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Foucault</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<source>Un diálogo sobre el poder y otras conversaciones</source>
+<year>2000</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref6">
+<mixed-citation>Innerarity, D. 1990. <italic>Dialéctica de la modernidad</italic>. Madrid: RIALP.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Innerarity</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<source>Dialéctica de la modernidad</source>
+<year>1990</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref7">
+<mixed-citation>James, W. 2005. <italic>Investigación psíquica</italic>. Madrid: El Lunar.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>James</surname>
+<given-names>W.</given-names>
+</name>
+</person-group>
+<source>Investigación psíquica</source>
+<year>2005</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref8">
+<mixed-citation>Kant, I. 1987. <italic>Sueños de un visionario explicados mediante los ensueños de la metafísica</italic>. Cádiz: Universidad de Cádiz.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kant</surname>
+<given-names>I.</given-names>
+</name>
+</person-group>
+<source>Sueños de un visionario explicados mediante los ensueños de la metafísica</source>
+<year>1987</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref9">
+<mixed-citation>Kant, I. 2001. <italic>Ensayo sobre las enfermedades de la cabeza</italic>. Madrid: Antonio Machado.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kant</surname>
+<given-names>I.</given-names>
+</name>
+</person-group>
+<source>Ensayo sobre las enfermedades de la cabeza</source>
+<year>2001</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref10">
+<mixed-citation>Simon, B. 1978. <italic>Mind and madness in ancient Greece</italic>. New York: Cornell University Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Simon</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<source>Mind and madness in ancient Greece</source>
+<year>1978</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref11">
+<mixed-citation>Taylor, C. 1989. <italic>Sources of the self</italic>. Harvard: Harvard University Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Taylor</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<source>Sources of the self</source>
+<year>1989</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref12">
+<mixed-citation>Turró, S. 1985. <italic>Descartes. Del hermetismo a la nueva ciencia</italic>. Barcelona: Anthropos.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Turró</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<source>Descartes Del hermetismo a la nueva ciencia</source>
+<year>1985</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref13">
+<mixed-citation>Vásquez Rocca, A. 2012. Foucault: “Los Anormales”. Una genealogía de lo monstruoso. Apuntes para una historiografía de la locura. <italic>Nómadas. Revista Crítica de Ciencias Sociales y Jurídicas</italic> 34(2): 403-420.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vásquez Rocca</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<source>Nómadas Revista Crítica de Ciencias Sociales y Jurídicas :</source>
+<year>2012</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref15">
+<mixed-citation>Vázquez, F. 1995. <italic>Foucault: el hombre como crítica de la razón</italic>. Barcelona: Montesinos.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Vázquez</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<source>Foucault: el hombre como crítica de la razón</source>
+<year>1995</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref16">
+<mixed-citation>Veyne, P. et. al. 1990. <italic>Sobre el individuo</italic>. Barcelona: Paidós.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Veyne</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<source>Sobre el individuo</source>
+<year>1990</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref17">
+<mixed-citation>Villoro, L. 1997. <italic>Estado plural, pluralidad de culturas</italic>. México: Paidós-UNAM.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Villoro</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<source>Estado plural pluralidad de culturas</source>
+<year>1997</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740007_ref18">
+<mixed-citation>Wundt, W. 1879. Spiritualism as a scientific question. <italic>Popular Science Monthly</italic> 15: 577-593.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wundt</surname>
+<given-names>W.</given-names>
+</name>
+</person-group>
+<source>Popular Science Monthly</source>
+<year>1879</year>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000300310</article-id>
+         <article-id pub-id-type="publisher-id">00003</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Habitus, campo y capital. Lecciones teóricas y metodológicas de un sociólogo bearnés</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Habitus, field and capital. Theoretical and methodological lessons of a Bearnese sociologist</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2440-5494</contrib-id>
+               <name>
+                  <surname>Cerón-Martínez</surname>
+                  <given-names>Armando Ulises</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Autónoma del Estado de Hidalgo. México</institution>
+            <institution content-type="normalized">Universidad Autónoma del Estado de Hidalgo</institution>
+            <institution content-type="orgname">Universidad Autónoma del Estado de Hidalgo</institution>
+            <country country="MX">México</country>
+            <email>aceron@uaeh.edu.mx</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Oct-Dec</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>66</issue>
+         <fpage>310</fpage>
+         <lpage>320</lpage>
+         <history>
+            <date date-type="received">
+               <day>22</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>07</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>En la fórmula Campo + [Capital + Habitus] = Prácticas sociales, se condensan las aportaciones de un autor como Pierre Bourdieu a nivel teórico, y de ahí es posible desprender el método de abordaje para la investigación social al recuperar lo objetivo y lo subjetivo de las prácticas sociales. A partir de los conceptos así formulados, se proponen dos lecciones que se desprenden del trabajo intelectual del sociólogo bearnés: lecciones teóricas y algunas lecciones metodológicas derivadas de las primeras, con el fin de contribuir a una sistematización explícita de su modus operandi para la investigación social, toda vez que el autor nunca lo hizo para evitar que sus aportaciones quedasen atrapadas con la rigidez de los esquemas escolásticos. En este sentido, el autor es tanto objeto como instrumento de la reflexión propuesta que mira a la noción de capital como la metodológicamente más importante para la práctica de la investigación social.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>In the formula Field + [Capital + Habitus] = Social practices, the contributions of an author such as Pierre Bourdieu are condensed on a theoretical level, and from there it is possible to detach the approached method for social research by recovering the objective and subjective aspects of social practices based on the concepts thus formulated, two lessons are proposed that are derived from the intellectual work of the béarnese sociologist: theoretical lessons and some methodological lessons derived from the former, in order to contribute to an explicit systematization of their modus operandi for social research, since the author never did it to avoid that his contributions were trapped with the rigidity of the scholastic schemes. In this sense, the author is both an object and an instrument of the proposed reflection that looks at the notion of capital as the most important methodologically for the practice of social research.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>epistemología</kwd>
+            <kwd>metodología</kwd>
+            <kwd>sociología</kwd>
+            <kwd>reflexibilidad</kwd>
+            <kwd>Bourdieu</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>epistemology</kwd>
+            <kwd>methodology</kwd>
+            <kwd>sociology</kwd>
+            <kwd>reflexivity</kwd>
+            <kwd>Bordieu</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="14" />
+            <page-count count="11" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>El papel de la teoría en la obra de Pierre Bourdieu</title>
+         <p>De entrada, ante la mirada del hombre promedio, el del así llamado “sentido común”, las teorías aparecen como entidades abstractas con uso de lenguaje oscuro y grandilocuente, muchas veces ajeno y apartado del que de cotidiano se usa. Y puede que lo sean. Pero quedarse con esta noción generalizada es contribuir a perpetuar la distancia entre el conocimiento cotidiano y el conocimiento científico, con sus respectivas consecuencias. Sin embargo, es importante considerar que “las teorías son propuestas por personas, algo que nunca debemos olvidar” (Alexander 1995:11), lo cual hace más amigable y humana la aproximación a ellas. Bajo este entendido es que se puede decir abiertamente que las teorías, al ser producción humana, poseen un telos, una finalidad, un sentido, una intención, cuyo mensaje no siempre puede ser captado por lo especializado de su lenguaje, al menos en ciertos momentos, como ya se mencionó, y lo que justifica a la vez que cuando se hable de una teoría se hagan alusiones al autor de ella y de su contexto de producción.</p>
+         <p>De este modo, la Teoría de la Economía de las Prácticas Sociales, que es la apuesta del sociólogo francés Pierre Bourdieu, es presentada como una teoría general de las prácticas sociales, es decir, como un intento de intelección sobre lo que los agentes sociales realizan de forma cotidiana, y lo hace bajo la fórmula Campo + [Capital + Habitus] = Prácticas sociales (Bourdieu 1998:99), en la que se conjugan dos tradiciones científicas particulares, el objetivismo y el subjetivismo, a las que considera, no como excluyentes, sino como momentos complementarios para la comprensión científica de esas prácticas sociales.</p>
+         <p>Para Pierre Bourdieu hay dos maneras de posicionarse frente a un autor de teorías o de pensamientos científicos: como lector o como auctor (ver ¿Qué es hacer hablar a un autor? A propósito de Michel Foucault, en Capital cultural, escuela y espacio social). En caso del lector, éste es un glosador de los términos y las obras que glosa; su saber es casi enciclopédico, pero sus alcances se limitan a eso. Por contraste, el auctor es alguien que conoce para echar mano de ese conocimiento, aplicarlo y hacerlo avanzar. Por ello, es que este artículo toma a Pierre Bourdieu y su obra tanto como el objeto de reflexión y análisis, como el instrumento para realizar dichos análisis reflexivos.</p>
+         <p>Se parte de una premisa elemental: un objeto de estudio científico tiene tres componentes básicos, una dimensión temática; una delimitación espacio-temporal de los sujetos involucrados en la temática; y un abordaje o tratamiento teórico-conceptual de los dos aspectos anteriores. Ahora bien, si se permite una analogía, podría decirse que para elaborar un pastel no basta con saber cuáles son sus ingredientes (huevo, leche, harina, azúcar, etc.); ni siquiera es suficiente con tenerlos todos muy juntos, ni aún cada ingrediente en su envase respectivo; tampoco es cuestión de mezclarlos todos en la batidora para obtener un pastel: hay procesos sugeridos para tratar cada componente de tal modo que contribuya a la obtención del pastel. Sirva lo anterior para ilustrar la estrecha relación entre teoría y metodología para la construcción de objetos de la ciencia. Con base en esto, la lógica de exposición aquí propuesta es presentar en primera instancia los elementos constitutivos de la teoría de la Economía de las Prácticas Sociales de Pierre Bourdieu, para después proponer la metodología implícita en ella, y lo que es posible aprender de ellas, razón por la que habla aquí de estas “lecciones” sobre Pierre Bourdieu y su obra, y arribar a unas conclusiones.</p>
+      </sec>
+      <sec>
+         <title>Lecciones teóricas de la obra de Pierre Bourdieu</title>
+         <p>La apuesta aquí, como se abordará más adelante, es evidenciar cómo una buena teoría es a la vez una guía metodológica de forma implícita. Por eso, para Bourdieu, la ciencia robusta se caracteriza por una cultura teórica a ser puesta a prueba en la práctica, pues siguiendo a Bachelard, consideraba que el "vector epistemológico […] va de lo racional a lo real y no a la inversa" (Bourdieu, Chamboderon y Passeron 2002:55).</p>
+         <p>Racionalidad y realidad es la dupla de la relación entre teoría y empiria de forma respectiva, donde el punto de arranque para el investigador es la primera, tal como él mismo lo propone: “armado de un conocimiento de las estructuras y de los mecanismos que escapan, aunque sea por razones diferentes, a la mirada indígena y a la mirada extranjera, como los principios de construcción del espacio social o de los mecanismos de reproducción de este espacio, que son comunes a todas las sociedades -o a un conjunto de sociedades-, el investigador, a la vez más modesto y más ambicioso que el amante de curiosidades, propone un modelo construido que pretende tener una validez universal” (Bourdieu 2002:11, negritas mías).</p>
+         <p>En efecto, el investigador no es una tabula rasa con ausencia de nociones acerca de su objeto de estudio; pero a diferencia de los prejuicios que operan en las prácticas y para las prácticas sociales, los insumos con los que trabaja el científico son sus teorías y sus conceptos. Siguiendo a Wittgenstein, Bourdieu concibe una relación reflexiva y pragmática con los conceptos (como auctor) antes que retórica o discursiva (de lector), para así considerarlos como “cajas de herramientas” analíticas, detectables como tales solo por los resultados que se obtienen. Por lo tanto, la lógica de la investigación para Bourdieu es “inseparablemente empírica y teórica” (Bourdieu 2002:24), en una relación dialéctica entre ambos aspectos.</p>
+         <p>Conviene explicitar la postura de Bourdieu respecto a la teoría. Si bien es necesaria la teoría porque el vector epistemológico en la ciencia así opera, hay que evitar el riesgo de consagrarse a la glosa erudita y a la exposición enciclopédica de términos abstractos en vez de ponerlos a prueba en la investigación empírica. Al respecto comentó que “la teoría sin investigación empírica está vacía, la investigación empírica sin teoría está ciega. No sería necesario recordar tales axiomas si la división entre la teoría teoricista y la metodología empirista no estuviera sustentada por extraordinarias fuerzas sociales” (Bourdieu 2001:66). Queda claro que el riesgo consiste en lo que llamó este uso teoricista de la teoría, en la dimensión de lector.</p>
+         <p>Ahora bien, hay dos rasgos que Bourdieu apuntala respecto a la teoría: hay teorías “parciales” de lo social y hay también una teoría “general”, que es la base de las otras: “La teoría del conocimiento sociológico, como sistema de normas que regulan la producción de todos los actos y de todos los discursos sociológicos posibles, y solo de éstos, es el principio generador de las diferentes teorías parciales de lo social” (Bourdieu, Chamboderon y Passeron 2002:50). En este sentido, cabe mencionar que las nociones fundamentales de Bourdieu (capital, campo y habitus), son tanto conceptos, como teorías, es decir, que en la obra del sociólogo francés no solo existe el concepto de “capital”, sino que declara que en la noción misma hay solvencia suficiente como para haber desarrollado una “teoría sobre el capital”. Lo mismo ocurre con los conceptos de “campo” y de “habitus”, por lo que cada teoría particular de cada concepto contribuye a la gran teoría general que él propone: la Teoría de la Economía de las Prácticas Sociales. Esta precisión es importante para los fines de esta exposición, pero no se desarrollará en este artículo.</p>
+      </sec>
+      <sec>
+         <title>La noción de capital</title>
+         <p>Con singular agudeza, Bourdieu instiga a diferenciar, por ejemplo, entre la teoría económica comúnmente aceptada (a la que llama “economía economicista” por focalizar toda su explicación en la lógica del costo-beneficio material), y una teoría general de la Economía de las Prácticas Sociales capaz de superar el reduccionismo economicista al incorporar, además del capital económico, al social, el simbólico y al capital cultural, el cual "puede convertirse bajo ciertas condiciones en capital económico" (Bourdieu 2001:135), lo que permite detectar una característica primordial del capital, es decir, su convertibilidad en otras especies.</p>
+         <p>La propuesta de Bourdieu es tanto teórica como metateórica toda vez que, al evaluar las funciones generales de la noción de “capital” en Marx y detectar sus exacerbaciones economicistas (solo focalizadas en el capital económico), expandió su lógica general a los aspectos informacionales (desarrollados en la noción de “capital cultural”), los de adscripción a un grupo social específico (a los que denominó “capital social”) y a los socioculturales de orden simbólico (propuestos en el “capital simbólico”).</p>
+         <p>Arrancar la noción de capital de su dimensión económica para reconocer que puede adoptar varias formas e incluso transformarse en otra especie, es el punto de partida para la explicación de las sociedades altamente diferenciadas. Por ejemplo, quien invierte su dinero en una escuela privada para la educación de sus hijos lo que está haciendo es reconvertir su capital económico en capital cultural (en sus dimensiones incorporadas e institucionalizadas) y, en ocasiones también en capital social por la pertenencia a un grupo selecto (solo si se han consolidado lazos perdurables como para realizar empresas y negocios comunes) y con ello agenciarse recursos a partir de la formación educativa recibida, lo que es cerrar el círculo que reintegra el capital económico originalmente invertido con mayores beneficios (en la lógica de Marx es la fórmula D-M-D’, pero solo referida a su dimensión económica). En este sentido, la propuesta de Bourdieu supera otras propuestas teóricas toda vez que solo tienden a focalizar la rentabilidad y los beneficios en términos económicos, como es el caso donde "los teóricos del capital humano terminan por condenarse a sí mismos al desatender la inversión educativa mejor escondida y socialmente más eficaz, a saber, la transmisión de capital cultural en el seno de la familia" (Bourdieu 2001:137).</p>
+         <p>El uso de las analogías es común en la obra de Bourdieu por permitir pensar el mundo “como si [as if thinking]” (Bourdieu, Chamboderon y Passeron 2002:73), lo cual posibilita mayor comprensión de lo que quiere explicarse. Por lo tanto, es posible detectar al capital como un principio de regularidades del mundo social comparable a una fuerza; un poder; una energía social; trabajo acumulado; una relación social; una ficha de juego; etc., según la investigación a realizar o la necesidad explicativa lo requieran. En este sentido, es comprensible que en la obra de Bourdieu haya reconversión de una analogía a otra a fin de fundamentar que una especie de capital se transforma en otra y dar cuenta del principio de las dinámicas sociales. No obstante, hay que tomar en cuenta que, como en el uso de toda analogía, hay límites que conviene detectar para “no terminar confundiendo al modelo de la realidad con la realidad del modelo” (Bourdieu 2012:198).</p>
+         <p>Para ello es importante notar que el mismo principio clasificatorio se aplica a la noción de “capital” a fin de romper los límites que impone pensarla de forma monoconceptual, al presentarlo en sus cuatro formas básicas: económico, cultural, social y simbólico, el cual en ocasiones es presentado primero como un plus que opera bajo el reconocimiento/desconocimiento de los tres primeros (Bourdieu y Wacquant. Una invitación a la sociología reflexiva), y en otras, como un capital con autonomía relativa e independiente de los demás capitales (Bourdieu. Poder, derecho y clases sociales).</p>
+         <p>Otras características de los capitales es que se producen en ciertas condiciones de un campo específico (científico, artístico, literario, etc.); ahí se valoran; se ponen en circulación; compiten con otros capitales homólogos; son jerarquizables; pueden sobrevalorarse o devaluarse con el paso del tiempo; se acumulan; algunos son transmisibles de forma objetiva o jurídica (el caso del capital cultural objetivado); otros no son transmisibles (el caso del capital cultural incorporado); etc. En estos rasgos aparecen parte de los fundamentos de la dinámica social. Y dado que para él las nociones de capital y campo son "dos nociones relativamente intercambiables" (Bourdieu 2019:197), con la breve semblanza dada, se puede abordar la noción de campo.</p>
+      </sec>
+      <sec>
+         <title>La noción de campo</title>
+         <p>En La distinción, Bourdieu introduce la noción de campo diciendo que "es posible construir un espacio cuyas tres dimensiones fundamentales estarían definidas por el volumen del capital, la estructura del capital y la evolución en el tiempo de estas dos propiedades" (Bourdieu 1998:113), confirmando la intercambiabilidad entre las nociones de capital y campo, pero a la vez resguardando sus características propias.</p>
+         <p>Al ser una perspectiva crítica, con singular agudeza detectó que en las prácticas sociales los agentes tienden a agruparse o alejarse en relación muy estrecha con la posesión o no de cierto tipo de capitales, y como la distribución de los recursos en circulación es desigual, esto tiende a configurar un espacio social asimétrico y jerárquico al cual llamó “campo”. Para desarrollar la noción de “campo”, Bourdieu la fue abordando y puliendo desde diversas analogías tales como un mercado, un espacio de juego, un campo de luchas, un campo magnético, un centro gravitatorio, un microcosmos, etc.</p>
+         <p>Sin lugar a duda, una de las mejores analogías para la aprehensión de la noción de “campo” está relacionada con la de un sistema de relaciones entre posiciones diferentes, diferenciadas y diferenciantes, donde los agentes están posicionados o distribuidos en función directa a sus haberes sociales, es decir, sus capitales, lo que lleva a la misma disciplina sociológica a ser considerada como una topología social: “En un primer momento, la sociología se presenta como una topología social. Se puede representar así al mundo social en forma de espacio (de varias dimensiones) construido sobre la base de principios de diferenciación o distribución constituidos por el conjunto de las propiedades que actúan en el universo social en cuestión, es decir, las propiedades capaces de conferir a quien las posea con fuerza, poder, en ese universo” (Bourdieu 1990:205).</p>
+         <p>El espacio social, que aparece fenoménicamente como disperso a los sentidos, es aprehensible para la lógica científica bajo la noción de “campo”. En otras palabras, y para ser más precisos, la “sociedad” o el “espacio social” no es más que un conjunto de “campos” relativamente autónomos, donde existen relaciones de jerarquía entre ellos, de homología, de cercanía, de lejanía, etc., todos ellos relativamente cohesionados por lo que Bourdieu llamó el “campo del poder” que está encarnado por esa entidad inmaterial que suele llamarse “Estado”, la cual provee de elementos que dotan de continuidad entre los diversos espacios (una lengua oficial, una moneda de intercambio, calendarios y horarios impuestos a todos los sujetos, prácticas socioculturales relativamente homogéneas como los días de asueto, de fiesta o de trabajo, etc.).</p>
+         <p>Lo anterior es posible porque el campo aparece en una doble dimensión con los agentes sociales, en "una relación de condicionamiento y la otra, una relación de conocimiento" (Bourdieu 2019:185). En el primer caso, esto es posible por medio de las tensiones de fuerza que se imponen a los cuerpos biológicos socializados por medio de la doxa, es decir, el sistema de creencias válidas y legítimas a las que pasivamente se adhieren los agentes, generalmente sin cuestionarlas. En el segundo caso, la relación de conocimiento involucra una participación más activa de los agentes, es decir, por medio de la "producción de disposiciones duraderas y transferibles (habitus)" (Bourdieu y Passeron 1996:231). En este sentido, a cada posición ocupada en los campos les corresponde un sistema de disposiciones o habitus, y aunque es el caso más frecuente, hay variaciones.</p>
+      </sec>
+      <sec>
+         <title>La noción de habitus</title>
+         <p>Y así como hay una distribución desigual de los capitales que configura los campos, también hay una distribución desigual del sentido del juego de cómo agenciar los capitales y las oportunidades en cada campo. Esta apropiación de sentido más o menos ajustada al campo de adscripción es lo que Bourdieu llamó “habitus”. Este “sentido del juego” como capacidad de orientación en el tiempo-espacio social, es resultado de la incorporación de las experiencias sociales externas y objetivas, y tiende a la vez a ser la externalización de las concepciones internas y subjetivas, estructura vital que ha sido socializada y estructurada por sus condiciones objetivas (relación de condicionamiento) y que tiende a funcionar como estructura estructurante (relación de conocimiento) como respuesta a esas condiciones, conjugando en este mecanismo tanto reproducción como invención creativa, no siendo el actante ni autómata ni un calculador racional deliberado de sus acciones, ni un ente arrojado al mundo por sus instintos mecánicos, ni un ser controlado por sus deliberaciones reflexivas, sino que es un agente social, un habitus: “Cuando la historia vuelta cosa y la historia vuelta cuerpo concuerdan a la perfección, como en el jugador de futbol, las reglas y el sentido del juego, el actor hace exactamente lo que debe hacer, ‘lo único que puede hacer’, como se dice, sin que ni siquiera tenga que saber lo que hace” (Bourdieu 1990:91).</p>
+         <p>El “habitus” es la propuesta teórica de Bourdieu para redimir a la acción social del absolutismo racionalista propuesto por la teoría de la acción racional (de la que John Elster sería uno de sus principales representantes), y del inconsciente colectivo de teorías instintivistas como las derivadas del darwinismo social o bien del psicoanálisis freudiano. El “habitus” no es ni instintivo ni racional, sino pre-reflexivo, pre-racional, pre-consciente, un “operador de cálculo inconsciente”, una “intencionalidad sin intención” capaz de reproducir y modificar de forma simultánea las condiciones sociales que le formaron, por ser un "producto de la interiorización de los principios de una arbitrariedad cultural capaz de perpetuarse una vez terminada la acción pedagógica” (Bourdieu y Passeron 1996:72).</p>
+         <p>Pero no solo hay una orientación en el espacio por parte del habitus, sino también en el tiempo. Con base en las lecciones fenomenológicas de Husserl, hay dos orientaciones temporales que actúan de forma dialéctica en las acciones presentes: la retención de las experiencias vividas (las huellas de la historia pasada) y la protensión de las posibilidades futuras, como una “anticipación preperceptiva, relación con un futuro que no es tal, con un futuro que es casi presente. Aunque no vea las caras ocultas del dado, éstas están casi presentes, están «presentizadas» en una relación de creencia que es la que concedemos a una cosa percibida” (Bourdieu 1997:145). Por eso es por lo que hay una especie de “complicidad ontológica” entre un campo y los habitus vinculados a él.</p>
+         <p>Conocimiento práctico por el que los agentes conocen el mundo que habitan, el habitus está imposibilitado para conocer con certeza las condiciones de su producción, condiciones que tienden a asumirse como “naturales” o, como diría Bourdieu, de forma dóxica, o sea, asumidas de forma ingenua y no siempre cuestionables, es decir, es un “conocimiento práctico que no contiene el conocimiento de sus propios principios” (Bourdieu 2012:243). Que el habitus se ajuste a las condiciones sociales de su producción en forma de reproducción, y aunque es el caso estadísticamente más frecuente, no es la única posibilidad de acción. No tener en cuenta esta precaución ha llevado a errores al interpretarlo: “El habitus no es el destino que alguna gente lee en él. Producto de la historia, es un sistema abierto de disposiciones constantemente sujeto a experiencias, constantemente afectado por ellas de una manera que o bien refuerza o bien modifica sus estructuras. ¡Es perdurable pero no eterno!” (Bourdieu y Wacquant 2005:100).</p>
+         <p>Este desconocimiento de su conocimiento puede llevar al habitus a desajustes posibles en relación con el mundo habitado y practicado, muy a pesar de su sentido práctico, causando desorientación en el tiempo, el espacio y la acción. Entre los desajustes más probables de los habitus a la doxa dominante de los campos están:</p>
+         <p>a) la histéresis, que es el retraso de acción respecto a las expectativas y las demandas devenidas de ocupar objetivamente una posición social, y "es sin duda uno de los fundamentos de la discordancia estructural entre las ocasiones y las disposiciones a realizar" (Bourdieu 2012:218);</p>
+         <p>b) la allodoxia, que no es sino “el hecho de tomar una opinión por otra” (Bourdieu 1990:190), o bien como “heterodoxia vivida en la ilusión de ortodoxia”, una imprecisión de concepción y de acción (Bourdieu 1998:326);</p>
+         <p>c) la heterodoxia, como rechazo a las condiciones dóxicas dominantes por medio de estrategias de subversión y "como ruptura crítica, que está a menudo ligada a la crisis, junta con la doxa, es la que obliga a los dominantes a salir de su silencio y les impone la obligación de producir el discurso defensivo de la ortodoxia" (Bourdieu 1990:110);</p>
+         <p>d) la ataraxia, como indiferencia a las apuestas y a los ritmos de los juegos sociales a pesar de estar metido en ellos, y es "la tranquilidad del alma, el desprendimiento, que no es el desinterés" (Bourdieu 1997:142).</p>
+         <p>De lo anterior se desprende que el habitus no es un producto de la causalidad, es decir, que si bien hay una fuerte tendencia a ajustar las disposiciones de los agentes a la posición objetivamente ocupada, las disposiciones finales dependen mucho del modo de arribo a la posición. En otras palabras, la trayectoria socialmente transitada contribuye a generar los diversos tipos de disposiciones acerca de una misma posición. Así, por ejemplo, un docente universitario cuyo punto de origen social son condiciones sociales no favorables, tenderá a ver su posición como un logro, quizás un mérito personal, percepción distinta de aquel que sus condiciones sociales eran superiores a la posición actualmente ocupada y menospreciándola, y muy diferente de quien ha crecido en un ambiente de profesionistas y que el acceso a las actividades universitarias no es logro ni demérito, sino una deuda con sus condiciones de origen. En el primer caso se está frente a un caso de movilidad social ascendente, en el segundo de movilidad social descendente y en el tercero de reproducción de las condiciones de origen. En los tres casos se trata de la misma posición, pero con distintas disposiciones que dependen de las trayectorias sociales recorridas.</p>
+         <p>En este sentido, la noción de habitus se contrapone a la consigna de Descartes del “pienso, luego existo, por el “existo como he sido pensado”, si bien no de una forma totalmente determinada, sí bajo el auspicio de una complicidad entre un habitus y las condiciones del campo que le han producido, bajo la arraigada creencia de los agentes de que se está pensando por ellos mismos.</p>
+      </sec>
+      <sec>
+         <title>Lecciones metodológicas a partir de las nociones teóricas en la obra de Bourdieu</title>
+         <p>Como se comentó desde el principio, hay una sólida propuesta teórica en la obra de Bourdieu y que denominó “Economía de las prácticas sociales”, y que está condensada en la fórmula Campo + [Capital + Habitus] = Prácticas sociales, cuando su pensamiento ya había madurado lo suficiente como para generarla. Por muy evidente que parezca, conviene decir que, a pesar de tener un genio científico poco usual, Bourdieu no partió al inicio de su trayectoria con una concepción completamente acabada de su teoría, sino que la fue desarrollando poco a poco, según las investigaciones iban aportando a la misma. Lo que en ella hay es la conjunción de los dos aspectos que suelen abordarse de forma separada en las investigaciones: las condiciones sociales objetivas (el campo) y los aspectos subjetivos (los habitus). Su apuesta consistió en rescatar ambos aspectos igualmente sociales para develar la lógica de acción socializada, lo que llamó las “prácticas sociales”.</p>
+         <p>A raíz de dos seminarios en Chicago y en París acerca de su obra e impartidos de 1987 a 1988, Bourdieu se vio forzado a explicitar nociones y conceptos que hasta entonces él desarrollaba de forma implícita en sus investigaciones. Uno de estos supuestos era el abordaje metodológico por él usado para la investigación de los campos sociales, a lo que respondió que había tres momentos para ello: 1) análisis de la posición del campo a estudiar frente al campo del poder; 2) trazar un mapa de las posiciones que estructuran el campo; 3) el análisis de los habitus en tanto que sistemas de disposiciones (Bourdieu y Wacquant. Una invitación a la sociología reflexiva).</p>
+         <p>Complementando la propuesta Bourdiana sobre el cómo abordar el análisis desde la Economía de las Prácticas Sociales, uno podría preguntarse, ¿cuál es la justificación lógica de estos tres momentos así sugeridos? Aún más, al tener tres conceptos clave en la teoría, ¿es posible jerarquizar metodológicamente alguna de las nociones de la triada conceptual campo-capital-habitus? De ser posible, ¿cuál serían los argumentos para hacerlo?</p>
+         <p>Para responder a la primera pregunta uno puede percatarse que la ruta propuesta es avanzar del nivel macro (relación del campo con el campo del poder), al meso (detección de las posiciones dentro del campo), y finalmente el micro (el análisis de los habitus). En otras palabras, la idea es ir de lo general a lo particular en la investigación empírica conjugando de forma dialéctica y complementaria el viejo debate entre el holismo metodológico y el individualismo metodológico, tradicionalmente considerados como opuestos y excluyentes (González. Los mecanismos sociales y su relación con la distinción micro‐macro)</p>
+         <p>En el ámbito sociológico, lo macro y lo micro también se encarnan en autores que proponen que es uno u otro el análisis de los fenómenos sociológicos, pero no ambos; tal es el caso de sociólogos como Talcott Parsons, Ralph Dahrendorf, Peter Blau, Niklas Luhmann, entre otros teóricos de lo macro, mientras que Georg Simmel, Herbert Blumer y Harold Garfinkel, entre otros, ponen el acento en los fenómenos a nivel micro, dando los aspectos macro por supuestos. También hay algunos intentos de estudio a nivel meso, pero han son cuestionados por falta de convicción en sus abordajes (Ritzer. Teoría sociológica contemporánea). Sin embargo, en la obra de Bourdieu, esta dicotomía excluyente parece saldada y superada de forma muy honorable y consistente.</p>
+         <p>Además, esto implica también la lógica de ir de lo objetivo hacia lo subjetivo, es decir, asegurarse el haber asido de forma sistemática todas las condiciones objetivas a fin de que las expresiones subjetivas de los agentes que son registradas en la investigación adquieran su pleno sentido por la deuda social que les es implícita. En otras palabras, el significado de las intenciones, motivos, esperanzas, razones, etc., que obedecen al ámbito subjetivo, develan su origen social si se les sabe vincular con las condiciones externas y objetivas que les dieron origen. Por ejemplo, desde el punto de vista objetivista, los agentes sociales son sujetos clasificados como cosas por las estructuras sociales que con sus objetivaciones operan también su cosificación de acuerdo con las taxonomías arbitrarias que les son impuestas (la mayoría o minoría de edad; la nacionalidad otorgada o negada según el lugar de nacimiento; las formas de concebir y medir el tiempo; etc.), proveyendo un punto de vista relativamente homogéneo de la realidad en los sujetos. Desde la perspectiva subjetivista, son los agentes quienes construyen la realidad social con sus clasificaciones (distinguir entre lo bueno y lo malo, lo bonito y lo feo; lo que vale la pena y lo que no; valorar o devaluar las definiciones culturales legítimas, etc.), y tienden a producir una diversidad de puntos de vista sobre ella. No es, pues, gratuito que de forma explícita Bourdieu tienda a abordar en sus trabajos primero la dimensión objetivista y después la subjetivista (Bourdieu. Poder, derecho y clases sociales).</p>
+         <p>Con base en ello, el autor fundamenta su contrapropuesta sobre las clases sociales toda vez que, desde una antropología muy particular, considera que los seres humanos son agentes clasificados que clasifican en función directa de las clasificaciones de las que son objeto y sujeto, convirtiéndose en seres clasificables en función de las clasificaciones que realizan: “La clasificación antropológica se distingue de las taxonomías zoológicas o botánicas por el hecho de que los objetos que coloca en su lugar -o desplaza- son sujetos clasificadores” (Bourdieu 1990:43). Una de las principales ventajas de esta lógica radica en que a partir de esta taxonomía social, es posible predecir otras propiedades de los agentes a investigar, pues el científico social tiende a clasificar a seres clasificantes, por lo que se posibilita que el clasificador sea clasificado también por sus clasificaciones.</p>
+         <p>De este modo, la ciencia social es una práctica objetivante con pretensiones de objetividad al ser realizada por sujetos sometidos al mismo esquema de tensiones y de luchas dentro de las clasificaciones del mundo que ellos mismos habitan porque “la incertidumbre de los sistemas de clasificación que los intelectuales intermedios ponen en funcionamiento es ella misma la expresión directa de la posición que esos clasificadores inclasificables ocupan en las clasificaciones, y de los intereses que están asociados a ella” (Bourdieu 2008:276). De ahí la necesidad reflexiva de “objetivar al sujeto objetivante” (Bourdieu 2000:98) que lucha por no ser objetivado, clasificado. Al respecto, “la estructura de disposiciones que modelan a un investigador en formación puede ser puesta en discusión a partir de un trabajo sostenido de recapacitación y esfuerzo por llevarlo a otros caminos en los modos de pensar lo social” (Andrade 2010:166).</p>
+         <p>Respecto a la segunda pregunta, la respuesta es positiva: podría decirse que sí es posible jerarquizar metodológicamente las nociones propuestas por Bourdieu, al menos para fines de las prácticas investigativas. Partiendo del supuesto anterior de la pertinencia de ir de lo objetivo a lo subjetivo, hay dos conceptos bourdianos que son completamente objetivos, al menos en principio: campo y capital. Dado que la configuración del campo es resultado de la distribución desigual de los capitales, son éstos los que deberían tener la primacía metodológica en el abordaje de la investigación. Así es como construyó Bourdieu el objeto de estudio en La distinción: “El espacio social es construido de tal modo que los agentes o los grupos son distribuidos en él en función de su posición en las distribuciones estadísticas según los dos principios de diferenciación que […] son sin ninguna duda los más eficientes: el capital económico y el capital cultural” (Bourdieu 2002:30).</p>
+         <p>Como se nota, primero es la detección analítica y sistemática de los capitales, la que a su vez devela la estructura del espacio social (campo), después viene el análisis de los estilos de vida asociados a las posiciones dentro del campo (las clases sociales). Una vez detectada la distribución desigual de los capitales (que es a la vez su clasificación objetiva y arbitraria de acuerdo con los intereses del investigador) y la configuración del campo, entonces es posible el análisis de los habitus (individuales o de clase) asociados a las respectivas posiciones. Con esto se pretende dar respuesta a la tercera pregunta antes planteada.</p>
+      </sec>
+      <sec>
+         <title>Conclusiones</title>
+         <p>Es pertinente comentar que Pierre Bourdieu no es el único teórico que aborda a las prácticas sociales como objeto de reflexión. Por ejemplo, Reckwitz (Toward a theory of social practices: a development in culturalist theorizing) también las analiza, pero con el enfoque en las actividades del cuerpo y las mentales, así como las maneras de conocer, todo esto en estrecha interconexión. Para Aritzía (La teoría de las prácticas sociales: particularidades, posibilidades y límites), las teorías de las prácticas sociales conllevan a superar el problema de los dualismos entre acción y estructura, por ejemplo. Es evidente que estas propuestas además de ser diferentes, se ignoran, y en el caso de Bourdieu, la propuesta es más completa y compleja, pero nunca presentada ni bosquejada de forma sistemática por él mismo, sino diseminada por sus obras como partes de un rompecabezas. Y esta relativa desventaja se convierte como una oportunidad para intentar un bosquejo unitario en su pensamiento, al menos en cuanto a las dimensiones teórica y metodológica.</p>
+         <p>Además, es crucial comprender que la interrelación entre los tres conceptos mencionados solo manifiesta su potencial teórico-metodológico para la investigación cuando se les hace trabajar de forma conjunta: “Las mencionadas nociones de habitus, campo y capital pueden ser definidas, pero solo dentro del sistema teórico que constituyen, no de manera aislada” (Bourdieu y Wacquant 2005:74). Es paradójico que el autor más citado y referenciado en eventos de investigación social no es atendido en esta consigna. Quien trabaje con algún concepto sin vincularlo con los otros, obtendrá resultados, pero serán parciales.</p>
+         <p>Como se mencionó al principio, la obra de Bourdieu es tanto objeto como instrumento de pensamiento, lo que nos lleva a preguntar, ¿cómo allegarse a un autor como él desde su misma propuesta? Lo más pertinente es hacer lo que él lo haría con otros pensadores, es decir, cuidando “establecer una relación desfetichizada con los autores, lo que no quiere decir una relación ‘no respetuosa’” (Bourdieu 2002:13), sabiendo que las teorías son a la vez respuestas a las inquietudes teóricas de su momento, y con este conocimiento hacer avanzar a la ciencia para no quedar estancado en esos debates a la manera de lector, sino avanzar como auctor.</p>
+         <p>Por esta razón, la forma de desfetichizar a un autor como Pierre Bourdieu es detectando sus alcances y a la vez reconociendo que todo alcance es a la vez un límite. ¿Cuáles son los límites de su propuesta teórica? De forma paradójica, toda vez que su teoría tiene pretensiones de generalidad, el autor evitó a toda costa entregarla en conjunto por medio de debates escolares para evitar la fútil repetición sin uso para las prácticas científicas, como lo declaró en las clases dictadas en el College de France: “No practiqué mucho este tipo de reflexión sobre los conceptos que empleaba, y esto en parte debido a una reacción contra la tendencia tan extendida a producir un metadiscurso teórico de tipo jurídico, en vez de un verdadero conocimiento. A mi entender, un discurso teórico solo se justifica en la medida en que permite producir efectos científicos” (Bourdieu 2019:202).</p>
+         <p>Otra paradoja más. Sus propuestas son respuestas a los problemas de su tiempo, como se mencionó; pero hoy son usadas bajo ese efecto de histéresis que, desconociendo el avance del discurso científico, las discusiones sobre su obra quedan atrapadas en las condiciones de los debates originales cuando éstos han cambiado. Este desfase no ha permitido ajustar la valiosa propuesta del autor a los tiempos actuales.</p>
+         <p>Una manera de salir de la aporía está en la interpretación que el mismo Bourdieu hace de su fórmula Campo + [capital + habitus] = Prácticas sociales, cuando en una conferencia en Japón y con un juego de palabras (muy a su estilo) reconvierte su propuesta y podría aplicarse como Posición + [Capital + Disposición] = Tomas de Posición (Bourdieu. Razones prácticas), lo cual es mucho más útil para las prácticas de la investigación que la enunciación original por lo coloquial de los términos “campo” y “capital”, y la altilocuencia del término “habitus”.</p>
+         <p>Y del mismo modo que la analogía más pertinente para abordar metodológicamente en principio a los campos es la de sistema de relaciones entre posiciones, en términos metodológicos la manera más pertinente de abordar los habitus es como sistema de disposiciones duraderas y trasponibles (Bourdieu y Passeron. La reproducción), pues en esta definición están sus cualidades ontológicas (por ser entidades sociales inculcadas en los cuerpos biológicos socializados), temporales (pudiendo ser permanentes, duraderas, transitorias o efímeras, por lo que no toda disposición sería un “habitus” sino solo las dos primeras) y espaciales (ocupando una posición dominante, dominada o de homología en los campos, con sus respectivas disposiciones dominantes, dominadas, de resistencia, etc., ante las prácticas de violencia ejercidas en ellas) que le hacen más aprehensibles para la investigación empírica.</p>
+         <p>Las lecciones sobre la obra de un autor tan prolífico como la de Pierre Bourdieu no se acaban con discusiones parciales como la aquí expuesta, pero contribuyen al intento de presentar en forma de un bosquejo general lo que el mismo autor se negó a hacer en vida por las razones ya expuestas y buscan contribuir a la distinción de abordar su trabajo, si se permite decirlo, de forma burda pero no Bourdiana, como suele verse hoy día en muchos trabajos que pretenden trabajar desde esta apuesta teórico-metodológica.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Alexander, J.,  (1995).
+               <italic>La teoría sociológica desde la segunda guerra mundial. Análisis multidimensional</italic>
+               . : Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alexander</surname>
+                     <given-names>J.C</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>La teoría sociológica desde la segunda guerra mundial. Análisis multidimensional</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Andrade, L.(2010). "Revisitando el oficio de sociólogo: Notas sobre el habitus de investigador social".
+               <italic>Cinta de moebio.</italic>
+               (39), 153-169. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/39/andrade.html">http://www.moebio.uchile.cl/39/andrade.html</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Andrade</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Revisitando el oficio de sociólogo: Notas sobre el habitus de investigador social</article-title>
+               <source>Cinta de moebio</source>
+               <volume />
+               <issue>39</issue>
+               <fpage>153</fpage>
+               <lpage>169</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/39/andrade.html">http://www.moebio.uchile.cl/39/andrade.html"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Bourdieu, P.,  (1990).
+               <italic>Sociología y cultura</italic>
+               . : Grijalbo-Conaculta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>Sociología y cultura</source>
+               <publisher-name>Grijalbo-Conaculta</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Bourdieu, P.,  (1997).
+               <italic>Razones prácticas. Sobre la teoría de la acción</italic>
+               . : Anagrama
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>Razones prácticas. Sobre la teoría de la acción</source>
+               <publisher-name>Anagrama</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Bourdieu, P.,  (1998).
+               <italic>La distinción. Criterio y bases sociales del gusto</italic>
+               . : Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>La distinción. Criterio y bases sociales del gusto</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Bourdieu, P.,  (2000).
+               <italic>Cosas dichas</italic>
+               . : Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <source>Cosas dichas</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Bourdieu, P.,  (2001).
+               <italic>Poder, derecho y clases sociales</italic>
+               . : Desclée de Brower
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Poder, derecho y clases sociales</source>
+               <publisher-name>Desclée de Brower</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Bourdieu, P.,  (2002).
+               <italic>Capital cultural, escuela y espacio social</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Capital cultural, escuela y espacio social</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Bourdieu, P.,  (2008).
+               <italic>Homo academicus</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Homo academicus</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Bourdieu, P.,  (2012).
+               <italic>Bosquejo de una teoría de la práctica</italic>
+               . : Prometeo Libros
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Bosquejo de una teoría de la práctica</source>
+               <publisher-name>Prometeo Libros</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Bourdieu, P.,  (2019).
+               <italic>Curso de sociología general 1. Conceptos fundamentales</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>Curso de sociología general 1. Conceptos fundamentales</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Bourdieu, P., Chamboderon, J., Passeron, J.,  (2002).
+               <italic>El oficio de sociólogo. Presupuestos epistemológicos</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chamboderon</surname>
+                     <given-names>J.C</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Passeron</surname>
+                     <given-names>J.C.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>El oficio de sociólogo. Presupuestos epistemológicos</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Bourdieu, P., Passeron, J.,  (1996).
+               <italic>La reproducción. Elementos para una teoría de la enseñanza</italic>
+               . : Fontamara
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Passeron</surname>
+                     <given-names>J.C</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>La reproducción. Elementos para una teoría de la enseñanza</source>
+               <publisher-name>Fontamara</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Bourdieu, P., Wacquant, L.,  (2005).
+               <italic>Una invitación a la sociología reflexiva</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wacquant</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source>Una invitación a la sociología reflexiva</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

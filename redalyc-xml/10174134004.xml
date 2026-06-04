@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2022000300172</article-id>
+			<article-id pub-id-type="publisher-id">00004</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La necesidad de la historia para la sociología</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>The need of history for sociology</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-4403-1178</contrib-id>
+					<name>
+						<surname>Jiménez-Albornoz</surname>
+						<given-names>Juan</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Instituto Iberoamericano de Desarrollo Sostenible. Universidad Autónoma de Chile (Talca, Chile) (juan.jimenez@uautonoma.cl)</institution>
+					<institution content-type="normalized">Universidad Autónoma de Chile</institution>
+					<institution content-type="orgdiv1">Instituto Iberoamericano de Desarrollo Sostenible</institution>
+					<institution content-type="orgname">Universidad Autónoma de Chile</institution>
+					<addr-line>
+						<named-content content-type="city">Talca</named-content>
+					</addr-line>
+					<country country="CL">Chile</country>
+					<email>juan.jimenez@uautonoma.cl</email>
+				</aff>
+			<pub-date pub-type="epub-ppub">
+				<month>12</month>
+				<year>2022</year>
+			</pub-date>
+			<issue>75</issue>
+			<fpage>172</fpage>
+			<lpage>186</lpage>
+			<history>
+				<date date-type="received">
+					<day>13</day>
+					<month>09</month>
+					<year>2022</year>
+				</date>
+				<date date-type="accepted">
+					<day>04</day>
+					<month>11</month>
+					<year>2022</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0;/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>In classical sociological texts, history has a strong presence, and the theoretical defence of an historical aware sociology has been common, in particular in Latin America. However, those arguments had been unsuccessful. In this paper we will present some hypothesis around this fact, and we will conclude defending the need of a sociology that is based on an historical knowledge in depth. Without that knowledge, we obtain bad empirical sociology and insufficient theorical approaches.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Resumen</title>
+				<p>En los textos de los clásicos de la sociología, la historia tiene una fuerte presencia y el llamado teórico a una sociología con consciencia histórica ha sido común, en particular en América Latina. Sin embargo, esos llamados han sido infructuosos. En este artículo abordamos algunas hipótesis en torno al este hecho y concluimos defendiendo esta necesidad de una sociología que conozca en profundidad la historia. Sin ese conocimiento, se realiza mala sociología empírica y deficientes aproximaciones teóricas. </p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Keywords:</title>
+				<kwd>Sociology</kwd>
+				<kwd>history</kwd>
+				<kwd>modernity</kwd>
+				<kwd>rationalization</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Palabras clave:</title>
+				<kwd>Sociología</kwd>
+				<kwd>historia</kwd>
+				<kwd>modernidad</kwd>
+				<kwd>racionalización</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="22"/>
+				<page-count count="15"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Hace 100 años, en 1922, se publicaba Economía y Sociedad. El texto de Weber es, o al menos se puede argüir ello, uno de los más influyentes en la disciplina. Ahora bien, lo que Weber hace en ese texto va mucho más allá que la discusión sobre los conceptos fundamentales o la discusión sobre los tres tipos ideales de autoridad legítima que están entre los segmentos del texto que más se usan y referencian en nuestra formación. La mayor parte del texto es un análisis de diversas instituciones que está centrado en exponer la inmensa variedad histórica de ellas. La comparación entre la ciudad consumidora y la ciudad productiva se basa en una comparación histórica; el examen del patrimonialismo como estructura política; toda la larga sección de la sociología del derecho; o incluso el examen de los conceptos para el análisis sociológico de la economía; son todos ejemplos de ello. Los conceptos fundamentales, para Weber, son solo una forma de poder hablar sobre todo ese campo de las instituciones históricas. No será necesario recordar que la investigación más célebre de Weber es una investigación plenamente histórica.</p>
+			<p>La misma observación se podría usar para otros clásicos. La <italic>División del Trabajo Social</italic> es un análisis histórico comparado a gran escala. Ahí se basa la idea del reemplazo de la solidaridad mecánica por la orgánica. La <italic>Sociología</italic> de Simmel está repleta de ilustraciones y análisis históricos de las formas sociales que analiza. Y la importancia de la historia para el marxismo es lo suficientemente evidente. El punto aquí no es defender esas construcciones, mucha crítica bien pertinente se ha hecho al respecto durante mucho tiempo, sino recordar su carácter</p>
+			<p>A pesar de que nuestra disciplina, entonces, nace fuertemente adherida a la investigación histórica, que fue creada por académicos con fuertes intereses históricos, que algunas de nuestras investigaciones clásicas tienen ese carácter, con el paso del tiempo esa raíz histórica se ha perdido. Buena parte de las discusiones y de los textos teóricos no se basan en ella: las diferencias entre las posiciones teóricas de Luhmann y Habermas, los conceptos de Latour o Bourdieu no dependen de procesos históricos. Y eso incluso tomando en cuenta que algunas de las publicaciones de dichos autores <italic>han sido</italic> históricas (la investigación sobre la esfera pública en Habermas, el estudio del origen del campo literario en Bourdieu es un análisis de la situación de Flaubert). Incluso más, se podría mencionar que el estudio de Habermas no solo ha sido muy influyente (ver, por ejemplo, A. Lilti. L’héritage des lumières), sino que se podría llegar a concluir que ese proceso es el núcleo empírico de la idea de la acción comunicativa. Con todo, son conceptos y teorías que pueden aplicarse en la historia, pero no son <italic>conceptos</italic> históricos. Estos elementos explican el hecho que el conocimiento sobre historia del practicante medio de la sociología no sea demasiado alto. </p>
+			<p>Existe, por cierto, una sociología histórica como una subdisciplina con fuertes discusiones teóricas y metodológicas: la discusión sobre el uso de fuentes primarias, con el respectivo crecimiento reciente de una investigación sociológica más centrada en fuentes (Mayrl y Hoover. What do historical sociologists do all day?) o como quienes están orientados a las ‘grandes preguntas’ tienden a centrarse en el método histórico comparativo (Mahoney y Rueschmeyer. Comparative historical analysis) o que una concepción ‘realista’ de mecanismos resulta más útil para la investigación social que reconoce el hecho que es ‘espacio-temporalmente dependiente’ (Gorski. Social mechanisms and comparative-historical sociology). Algunos textos han tenido fuerte influencia: <italic>The sources of social power</italic> de Michael Mann o <italic>The modern world system</italic> de Immanuel <xref ref-type="bibr" rid="B21">Wallerstein (cuyo último volumen se publicó el 2011</xref>) son textos usados y reconocidos. </p>
+			<p>Sin embargo, no se puede plantear que resulten centrales para la investigación social, que su conocimiento parezca indispensable. El diagnóstico es que la “sociología histórica es desarrollada por un número relativamente pequeño de académicos enfrentando un casi ilimitado conjunto de tópicos y casos -todo lo que ha sucedido antes del delgado barniz de la sociedad del presente, el superficial horizonte de lo contemporáneo” (<xref ref-type="bibr" rid="B3">Clemens 2007</xref>:543). Y un horizonte tan delgado que toda la vieja sociología se transforma en historia. Para dar un ejemplo que debiera ser conocido al interior de la disciplina, el análisis sociológico contemporáneo del <italic>Suicidio</italic> de Durkheim (si se realizara ahora) es parte de la ‘historia’. Para dar un ejemplo más local: la primera versión de este artículo fue presentada en el XI Congreso Chileno de Sociología en Concepción y entre sus 23 grupos de trabajo no hubo ninguno de sociología histórica. </p>
+			<p>Ahora bien, esta pérdida de la centralidad de la historia para la disciplina se da en un contexto en que siguen existiendo importantes llamados sobre la centralidad de ella y, en particular en el contexto latinoamericano, la idea de la historicidad de los procesos sociales ha sido destacada por muchos autores. En este artículo expondremos, un poco, estos continuos llamados a la relevancia de la historia. En segundo lugar, propondremos algunas ideas de por qué esos llamados han sido infructuosos. Y, en tercer lugar, intentaremos demostrar por qué eso es un problema, puesto que los llamados a recuperar una mirada histórica en la sociología son correctos y necesarios para la disciplina.</p>
+		</sec>
+		<sec>
+			<title>El continuo llamado a historizar la sociología</title>
+			<p>En los textos de sociología histórica que mencionamos con anterioridad, se argumentaba con fuerza sobre la necesidad de la historia para la sociología. Así, “muchas de las preguntas claves de la sociología se refieren a procesos que ocurren a través del tiempo; la estructura social se hereda de pasados particulares; y una gran proporción de nuestra muestra de sociedades complejas está solo disponible en la historia” (<xref ref-type="bibr" rid="B11">Mann, 2012</xref>:xxv). Wallerstein, por su parte, en el último volumen publicado de la serie, enfatizará la necesidad de tratar la teoría y la historia de manera unificada: “El libro en su totalidad es simultáneamente histórico/diacrónico y estructural/analítico/teórico. Esto de acuerdo con mi premisa epistemológica que la tan cacareada distinción entre epistemologías idiográficas y nomotéticas está superada, es espuria y dañina a un análisis adecuado” (Wallerstein, 2011:xi). Hace años atrás, Mahoney y Rueschmeyer (Comparative historical analysis) planteaban, a propósito de la importancia de la investigación histórica comparada, que ella se dedicaba a las preguntas importantes.</p>
+			<p>Incluso más, se puede observar un argumento algo más fuerte: que las ciencias sociales tienen un carácter necesariamente histórico. En una versión algo extrema, Wallerstein planteaba que las diversas ciencias sociales han de ser reemplazadas por una sola ciencia social histórica. Que los análisis de sistemas mundiales no son multidisciplinarios: “ellos estaban siendo unidisciplinarios” (<xref ref-type="bibr" rid="B20">Wallerstein, 2004:19</xref>). Passeron, algo menos radical, dice que la sociología se mueve en un espacio que no es el de la narración ‘historicista’, ni la teoría universal nomotética. Que el razonamiento sociológico es “un va y viene argumentativo entre razonamiento estadístico y contextualización histórica” (<xref ref-type="bibr" rid="B15">Passeron, 2016:57</xref>). </p>
+			<p>Este llamado a una ciencia social histórica ha sido compartido también por una parte no menor del pensamiento sociológico en América Latina. Una herencia de la fuerte influencia del marxismo. Cuando se dice que la sociedad es construida, aquí se ha insistido usualmente en el hecho que esa construcción es histórica. La vieja frase de Marx en el <italic>18 Brumario</italic> nunca ha estado demasiado alejada de nosotros la intención de remarcar la posibilidad de producir una nueva sociedad también es algo que se escucha con habitualidad. El principal aporte de las ciencias sociales de América Latina, independiente de lo que se opine sobre ella, ha sido la teoría de la dependencia y ella es una teoría de carácter histórico. Sus preocupaciones aparecen, de hecho, en cualquier texto que intente analizar las dinámicas de la modernidad temprana (entre los siglos XVI y XVIII): la preocupación por el centro-periferia es así central en la visión de Wallerstein del moderno sistema-mundial y en un texto sobre globalización, Zwart y van Zanden (The origins of globalization) vuelven sobre ellos.</p>
+			<p>En cualquier caso, en las ciencias sociales latinoamericanas la idea de la importancia de una visión histórica ha sido común. Afirmaciones en torno a que la vida social es creada por los seres humanos a través de un proceso histórico, el que, luego, no puede pensarse como constituido a través de leyes naturales. Se niega así que la sociedad opere a través de leyes y sistemas que no pueden ser modificadas por los seres humanos y por su voluntad. Es una tendencia que también afecta a la filosofía. En el caso chileno, se puede hacer notar que tanto Millas (Idea de la filosofía) como Torretti (Manuel Kant) enfatizan el carácter integrador de la experiencia del conocimiento y, en ambos casos, lo que se enfatiza es el carácter procesual, creador, histórico de dicho proceso. El conocimiento se hace, no está dado. </p>
+			<p>Así, por ejemplo, se nos planteará (la unión de historicidad y política de la cita es también común): “La perspectiva materialista enfoca, con distintos matices, a la sociedad como un orden social e históricamente construido. Solo tal enfoque da cabida a una concepción de la política como práctica social” (<xref ref-type="bibr" rid="B10">Lechner, 2007</xref>:165) o que el pensamiento sociopolítico debe estar situado, o sea, ser histórico (como dice en relación con Zemelman Retamozo en La epistemología crítica de Hugo Zemelman). Y esto vincula entonces al permanente llamado a una ciencia social crítica, a la imposibilidad de separar lo científico de lo político. Separar esas dimensiones reduce las ciencias sociales a una tarea profesional y parcial o a la pura retórica testimonial (Garretón. Las ciencias sociales en la trama de Chile y América Latina). Más aún, deben pensar su carácter crítico como parte de ese mismo proceso de construcción histórica (Bidaseca et al. Por una nueva imaginación social y política en América Latina). La pregunta sobre si “¿pueden ser las ciencias sociales una tarea colectiva dispuesta a la emancipación?” (<xref ref-type="bibr" rid="B17">Scribano, 2014</xref>:87), es una que claramente se han planteado las ciencias sociales en América Latina por un tiempo importante.</p>
+			<p>La historicidad permite rescatar la subjetividad y ambas dan cuenta del carácter constructor, de la capacidad de re-actuar ante las circunstancias y de constituirse como un ser autónomo y no solo construido desde las determinaciones (Zemelman. El ángel de la historia). Ello no implica una vuelta a una posición completamente subjetivista y menos a una individualista o accionalista; porque no se olvida que esa construcción se realiza en determinadas circunstancias y no se olvida que es construcción y una producción real. Siguiendo con Zemelman: “No es posible pensar en ningún tipo de estructura social, económica o política, como tampoco cultural, si no es como resultado de la presencia de sujetos en complejas relaciones recíprocas en cuanto a tiempos y espacios; lo que implica tener que enfocar los procesos como construcciones que se van dando al compás de la capacidad de despliegue de los sujetos, los cuales establecen entre sí relaciones de dependencia recíproca según el contexto histórico concreto” (<xref ref-type="bibr" rid="B22">Zemelman, 2010:2</xref>).</p>
+			<p>Dado que la realidad social es construida, entonces hay que pensarla simultáneamente en términos de actores (que son quienes construyen) y en términos de aquello que han construido. La idea de historicidad requiere también estar pensando en términos de acciones y estructuras (o de acciones y algo establecido). Se reconoce un carácter ‘total’ de la vida social y que existen sujetos que crean, y aparece una tensión que se ha de resolver, marcando el distinto peso que tienen ambas en distintos momentos históricos: “La historia no es una relación de equilibrio entre estructuras y sujetos, en la que, al mismo tiempo, ambos mantienen la misma preponderancia” (<xref ref-type="bibr" rid="B14">Osorio, 2001</xref>:78).</p>
+			<p>Una característica del pensamiento latinoamericano es que tiende a radicalizar y enfatizar el carácter auto-productivo de la vida social. Frente a otras perspectivas, se enfatiza que el desarrollo histórico no se reduce a uno determinado por leyes históricas y no es un proceso que tenga un final. El proceso es abierto y la producción del mundo no sigue una teleología preestablecida por fuera del mismo proceso de construcción. La perspectiva que estamos analizando nos dice que la idea que no existe un fin predeterminado hacia donde se dirige la historia se fundamenta, precisamente, en la capacidad de los actores de construir su historia. Es justamente porque la utopía no es algo realizable, que la capacidad crítica y de construir algo diferente está permanentemente en juego: “Cada proceso de liberación (hoy vivimos el del 50% de dicha humanidad solo en el proceso de liberación femenina) logra un «éxito» (su obra), pero se debe tener conciencia crítica; no es un bien perfecto, es solo un bien histórico. La sociedad perfecta es lógicamente posible pero empíricamente imposible. El bien supremo es una idea regulativa (un sistema sin víctimas) pero empíricamente imposible” (<xref ref-type="bibr" rid="B5">Dussel, 1998</xref>:399).</p>
+			<p>El carácter histórico de la vida social no es algo que se supera en algún momento. En el lenguaje de Dussel, cada sistema genera víctimas (el bien logrado en la liberación se transforma en el bien interno del sistema, que termina excluyendo al anquilosarse) y la pulsión por desarrollar la vida (y no solo reproducirla) genera de nuevo una dinámica histórica en la cual la transformación del sistema actual está en juego. La utopía, y aquí Dussel usa a Hinkelammert, ha de pensarse (a lo más) como un ideal regulador (algo desde lo cual evaluamos y por el cual actuamos), sabiendo que su plena realización no sucede.</p>
+			<p>Es por ello que, de forma más fundamental, se procede a insistir en que la vida social es producida por ella misma. Ni los fines, ni las trayectorias, ni los sujetos, están definidos fuera del proceso histórico de construcción. El desarrollo histórico no se reduce a uno determinado por leyes históricas y no es un proceso que tenga un final. El proceso es abierto y la producción del mundo no sigue una teleología preestablecida por fuera del mismo proceso de construcción.</p>
+			<p>El llamado a recuperar la importancia de la historia para la sociología tiene, entonces, una tradición importante. Al mismo tiempo, siempre es un llamado a reformar la sociología, porque esos llamados no han sido exitosos. En la siguiente sección abordaremos algunas ideas de porque ello ha sido así.</p>
+		</sec>
+		<sec>
+			<title>¿Por qué la historia sigue siendo menor para la sociología?</title>
+			<p>Dividiremos la respuesta en dos niveles. El primero mostrará por qué el llamado a una fusión de la sociología con la historia resulta inaplicable. El segundo mostrará por qué el llamado a una sociología con una fuerte conciencia histórica no ha funcionado.</p>
+			<p>En relación con el primer punto, se puede constatar que la mayor parte de la investigación en ciencias sociales es sobre el tiempo presente. Ello no afecta en sí mismo la relevancia de una conciencia histórica para la disciplina, pero es algo necesario a tomar en cuenta a la hora de pensar las relaciones entre ellas. </p>
+			<p>Pensemos en la idea que: “Una fuente crucial de la diferencia [entre sociología e historia], he buscado mostrar, radica en la naturaleza de la evidencia que las dos disciplinas usan: en el hecho que los historiadores tienen en su mayor parte que descansar en la evidencia que pueden descubrir en las reliquias del pasado, mientras que los sociólogos tienen el considerable privilegio de ser capaces de generar evidencia en el presente” (<xref ref-type="bibr" rid="B6">Goldthorpe, 2007</xref>:37).</p>
+			<p>Son consideraciones de este tipo las que mantienen la diferencia entre las disciplinas y están entre las razones de por qué son infructuosos los llamados a una uni-disciplina (como Wallerstein). Las posibilidades de investigación, las preocupaciones metodológicas (pensemos en el mero hecho que una fuente primaria en historia corresponde a un dato secundario en sociología) son claramente diferentes. Incluso si se acepta que, lo que ahora es investigación sociológica del presente, con el simple paso del tiempo pasa a ser fuente de la investigación histórica (como ya planteamos, el material empírico del <italic>Suicidio</italic> podría ahora ser usado en un análisis histórico de la sociedad europea antes de la Primera Guerra Mundial). Incluso si se acepta que cuando se hace sociología histórica se está en la misma posición (y con los mismos requerimientos) de un historiador, como muestran los ya citados Mayrl y Hoover (What do historical sociologists do all day?). Incluso si mostrara que no hay diferencia conceptual entre sociología e historia, de todas formas existiría una diferencia concreta en la investigación que se mantendría.</p>
+			<p>Más allá de lo anterior, se puede plantear que al menos hay ciertos conceptos para analizar de la vida social que son genéricos. No hay forma de hablar de la vida social sin usarlos (Mahoney. The logic of social science y citamos exprofeso un texto que se basa en la tradición de los estudios históricos comparados). Para describir cualquier realidad, hablaremos de actor, recursos, normas, grupos, instituciones. Sobre estos conceptos podremos desarrollar una gran cantidad de discusiones: ¿cuál es la mejor forma de conceptualizar a los actores?, ¿es ‘norma’ un concepto que realmente permite dar cuenta de la vida social? Hay una gran cantidad de discusiones y argumentos teóricos (y empíricos) al respecto.</p>
+			<p>Para esas discusiones, la evaluación de la evidencia histórica puede ser útil, dado que, si son generales, también debieran aplicarse a esas circunstancias. Sin embargo, ninguno de ellos requiere para su comprensión y evaluación examinar la historia. Es cierto que estos conceptos se pueden aplicar en la historia (y así son a veces usados en la investigación sociológica que analiza la historia) y es cierto que se puede usar la evidencia histórica para discutir sobre ellos. El mismo Goldthorpe, que citamos para mostrar argumentos sobre la diferencia entre las disciplinas, enfatiza que la sociología debe ser ‘históricamente consciente’. Pero no es un tipo de concepto que <italic>requiera</italic> la investigación histórica como tal. </p>
+			<p>Los elementos anteriores muestran por qué hay un espacio para una sociología que difiere de la historia, pero todavía no explican por qué la sociología ha perdido el carácter histórico con el cual nació.</p>
+			<p>Una primera hipótesis es que los conceptos de la sociología han tenido su base en una experiencia y análisis histórico muy concreto: la crítica al carácter eurocéntrico (J. Go. Postcolonial thought as social theory) de la sociología se basa en que la construcción conceptual de la disciplina está en la particular experiencia histórica de Europa (siendo ella, por cierto, muy inusual). Las formas particulares de la crítica pueden ser injustas. Julian Go declara que la idea de Durkheim sobre solidaridad mecánica se basa en las sociedades colonizadas, aunque el texto se centra más bien en la evolución de la sociedad hebrea del Antiguo Testamento, de la antigüedad clásica greco-romana y de los pueblos germánicos post-romanos. Sin embargo, la sociología todavía tiene un sentido común en el cual la complejidad social, la diferenciación social, en otros lenguajes, está asociada a la modernidad y ello tiene que ver con la experiencia histórica europea, donde tiene algo de sentido; pero que no parece ser particularmente relevante para experiencias históricas como las del Medio Oriente o la de China (por siglos con formaciones claramente complejas que no eran ‘modernas’). Y si se intenta aplicar estas mismas categorías a otras realidades, se llega a presentar China en la transición post-Zhou (y antes de la unificación imperial de los Qin) como una sociedad ‘moderna’ (T. Bai. Against political equality). La primera sociología historicista, entonces, habría generado un relato incorrecto. La salida ‘post-moderna’ (y Lyotard en <italic>La condición postmoderna</italic>), que inauguró muchas de estas discusiones, así lo planteó: eliminar los metarrelatos. Y sin metarrelatos, sin un orden que le dé sentido a la historia, el atractivo de una mirada histórica disminuye (ver Chernilo. Sociología filosófica) para lo crucial que ha resultado esta idea de una historia con dirección).</p>
+			<p>Una segunda hipótesis, y esto en particular en el caso de la sociología de América Latina, tiene que ver con el particular carácter del uso de la historia. Un carácter que nos permite comprender por qué una sociología, que en el nivel teórico insiste tanto en lo histórico, en la práctica muchas veces opera con una visión histórica reducida.</p>
+			<p>Se puede observar que en la sociología latinoamericana lo central de la idea del análisis histórico ha estado en su uso político. En fundamentar no el análisis histórico, sino enfatizar que, dado que siempre se vive en la historia, lo crucial son las posibilidades políticas de acción. Historizar la sociología consiste en pensar que la vida social puede ser diferente y eso vuelve la preocupación hacia el futuro. Así, Lechner, al criticar la perspectiva de las redes sociales, plantea que “parece menos apta para hacerse cargo de las otras dos exigencias de coordinación social: la representatividad y la conducción de cara al futuro” (Lechner, 2007:382). Son exigencias que están pensadas desde y para la política. Uno puede observar esta dinámica incluso entre historiadores sociales. </p>
+			<p>La idea de construir una ciencia histórica del y para el pueblo es una constante en la obra del historiador chileno Gabriel Salazar. La discusión sobre ciencias G (generalista) y ciencias P (particularista) sigue esa lógica. Más aún, la idea de pensamiento y de movimiento está tan enlazada que entonces: “¿Existe actualmente alguna ciencia que, de modo aproximativo, esté en condiciones de responder a ese movimiento en que una realidad busca su pensamiento?” (<xref ref-type="bibr" rid="B16">Salazar, 2006:52</xref>).</p>
+			<p>Lo que interesa de la ciencia P (historicista) es incluso más que la historia, la preocupación por la situación actual que busca su propio pensamiento. Es la conciencia de las posibilidades <italic>futuras</italic> lo que está detrás de la preocupación por la historia. Y eso vuelve compatible, porque siempre se analiza la actual coyuntura, una visión que habla de la situación histórica sin un amplio conocimiento de la historia.</p>
+		</sec>
+		<sec>
+			<title>El llamado es un llamado correcto: la importancia de la historia para la sociología</title>
+			<p>Aunque estos llamados han sido más bien infructuosos, hay buenas razones para que continúen. Efectivamente, una sociología históricamente consciente es útil para el desarrollo de cualquier ciencia social. Defenderemos esta afirmación en tres niveles: (1) Incluso si la labor de la sociología es diagnosticar la sociedad presente (la imagen de una “sociología acompañante de las sociedades” <xref ref-type="bibr" rid="B1">Avendaño, Canales y Atria, 2012</xref>:14), una base histórica es necesaria para dicha tarea; (2) algunas teorías sociológicas resultan ser relatos históricos y (3) buena parte de los conceptos sociológicos son necesariamente históricos. Todo ello implica que <italic>sin una base en concepciones históricas fundamentadas no se puede hacer buena sociología</italic>.</p>
+			<p>Quisiera enfatizar que para esto se requiere algo más que una simple conciencia general de la importancia de la historia. Se requiere <italic>conocer</italic> la historia. En más de un caso, como observaremos a continuación, nos encontramos con solo la declaración de importancia, sin conocimiento efectivo.</p>
+			<p><italic>La necesidad de la historia para el diagnóstico de la sociedad presente</italic></p>
+			<p>En primer lugar, es claro que el diagnóstico de la sociedad actual usa, de forma implícita al menos, una imagen histórica. Hablar de sociedad post-industrial o sociedad post-moderna o sociedad del riesgo, o cualquiera otra, implica una visión de lo que era la sociedad industrial o la modernidad (o primera modernidad). Y estas a su vez implican, muchas veces, imágenes de las formaciones previas. Hay una representación de la historia ahí.</p>
+			<p>Sin embargo, no es extraño que en la práctica las referencias a la historia se basen en un cierto ‘aplanamiento’. Así, Enrique de la Garza Toledo, por ejemplo, observaba en torno a las tesis que insisten en profundas diferencias del trabajo contemporáneo en relación a situaciones previas, que “la heterogeneidad siempre existió y no fue un obstáculo absoluto en el pasado [para constituir sujetos colectivos]” (<xref ref-type="bibr" rid="B4">De la Garza Toledo, 2010</xref>:70). También se pueden encontrar declaraciones sobre prácticas que serían emergentes o procesos novísimos, de los cuales uno puede encontrar antecedentes ocurridos hace varios siglos, por ejemplo, el consumo ético no es tanto algo que aparece en el consumo contemporáneo, sino algo que ya existe desde principios del siglo XIX (Trentmann. L’impero delle cose).</p>
+			<p>Observemos en mayor detalle otro ejemplo. Supongamos que caracterizamos el momento actual como una ‘sociedad de mercado’ (no es raro encontrar dicha referencia en discusiones sobre neoliberalismo). ¿No será necesario examinar que significa ello? Y para hacerlo, la comparación en torno a la presencia del mercado a través de la historia resulta crucial (B. van Bavel. The invisible hand? es un estudio que defiende la existencia de ‘sociedades de mercado’ previas a la actualidad). Mucha discusión, por ejemplo, sobre la antigüedad clásica se ha planteado justamente en esos términos: “la evidencia producida aquí demuestra que había algo aproximándose a un mercado unificado de granos en el mediterráneo romano” (<xref ref-type="bibr" rid="B19">Temin, 2013</xref>:50) o que en contra de visiones ‘primitivistas’, la expansión romana en el siglo II AC implicó un aumento significativo de la liquidez de la moneda, con consecuencias similares a la irrupción de la plata americana en la Europa de la modernidad temprana, que llevó a un crecimiento económico real (Kay. Rome’s economic revolution). Sintetizando la discusión, se observa que buena parte de la historiografía reciente rechaza ideas de modelos que plantean casi ausencia de mercados (Morris y Manning. The economic sociology of the ancient Mediterranean world). La importancia de los mercados también se ha argüido en torno a los imperios aqueménida y seleúcida en el Medio Oriente (Pirngruber. The economy of late achaemenid and seleucid Babylonia). </p>
+			<p>En mucha de esta discusión se argumenta contra una opinión ‘primitivista’, que decía que la economía de la antigüedad clásica no se puede analizar con las herramientas de la ciencia económica actual y que, en particular, la presencia de los mercados era escasa. Y si bien la segunda parte se ha mostrado claramente que era incorrecta, no es claro en relación con la primera; y se opera muchas veces bajo la idea que la complejidad socioeconómica implica que las visiones actuales son aplicables. Lo cual olvida que estas eran sociedades complejas, solo que sus formas institucionales eran diferentes: que la ausencia de discusiones que fuera más allá del sentido común sobre precios, la ausencia de estadísticas de cuentas nacionales o la ausencia de un concepto abstracto de mercado, muestran una institucionalidad diferente (que era lo que argumentaba Finley en su clásico y tan criticado ahora The ancient economy). Uno puede encontrar en la discusión sociológica muchas referencias a las obras clásicas de Karl Polanyi, aunque justamente la idea clave que la modernidad equivale a la aparición de una economía de mercado es la que está en discusión, y la pequeña referencia hecha a la discusión histórica en estos párrafos muestra lo que puede aportar simplemente el examen y consciencia atenta de la historia para comprender estas temáticas.</p>
+			<p>La discusión sociológica en América Latina también muestra situaciones similares. Sin embargo, al pasar a buena parte de la práctica de la sociología en nuestros países, se repite el hecho que el análisis histórico desaparece o, más exactamente, pierde profundidad. Y muchas veces reconstruimos esquemas duales en que contrastamos la situación actual con la previa, donde simplemente se aceptarán las imágenes recibidas de lo que era el antiguo régimen. Cuanto, por ejemplo, de la discusión sobre modernidad en América Latina se basa en el contraste con ciertas ideas establecidas sobre lo que era la modernidad europea que, de verdad, no resulta claro que efectivamente den cuenta de la experiencia histórica europea. Así, Morandé nos dice que “las ciencias sociales nacen, al comenzar el siglo XIX, en un momento de profunda crisis social, la cual marcará decisivamente sus principales temas y conceptualizaciones” (<xref ref-type="bibr" rid="B12">Morandé, 1984:71</xref>). Para el examen de esa profunda transformación social se nos cita a Polanyi y reflexiones como las de Weber o la teoría crítica, pero la reflexión <italic>histórica</italic> sobre ella no existe. Se puede retrucar que Morandé está hablando del pensamiento social, no de la realidad histórica; pero no aparece mayormente el tema que ese pensamiento pueda estar equivocado. Cousiño y Valenzuela construirán todo su análisis de la evolución de la modernidad como politización basados en autores como Hobbes, Hegel y Kant (Politización y monetarización en América Latina) y luego repetirán su análisis de la modernidad como mercantilización con otros autores, sin mucho cuestionar cuánto de esos textos representan la evolución histórica. Esta visión resulta tanto más extraña cuanto los propios análisis sobre América Latina que realizan estos autores permiten concluir que las descripciones intelectuales no necesariamente dan cuenta de los procesos históricos. Sus textos requieren que ello sea así para poder funcionar.</p>
+			<p>Pensando más en concreto en Chile, se puede observar en las discusiones sobre descentralización una imagen de un país enfocado en Santiago, que opera como único polo de atracción y desarrollo, imagen que casi aparece como permanente. Sin embargo, es una imagen que caracteriza solo una época de nuestra historia, de mediados del siglo XIX hasta la década de 1970 aproximadamente. Incluso si Chile ha sido políticamente centralizado desde mucho tiempo, no siempre implicó esa progresiva concentración demográfica y económica en Santiago (Jiménez-Albornoz. La evolución de la concentración territorial en Chile). También es posible encontrar textos que hablan de los territorios agrarios y que muestran la diferencia entre ciudades agrarias y metrópolis (Canales y Canales. La nueva provincia) o que enfatizan las relaciones entre los ambientes rurales y urbanos. Sin embargo, un examen histórico nos mostrará que altas interacciones entre lo urbano y lo rural han caracterizado muchas sociedades históricas, que ciudades orientadas a su <italic>hinterland</italic> rural han resultado bien comunes (para un examen de ello en la economía de los Países Bajos entre los siglos XV al XVIII, en lo que era en su momento parte del núcleo del naciente capitalismo, ver J. de Vries y A. van der Woude. The first modern economy). Incluso si lo que se plantea resulta novedoso para <italic>nuestra</italic> realidad, la comparación con otras situaciones históricas sigue siendo relevante para comprender de forma más clara cuáles son las dinámicas de nuestro presente.</p>
+			<p>No es que la preocupación histórica no exista en la sociología chilena. José Bengoa ha desarrollado, por ejemplo, una larga obra al respecto. Su examen de la evolución de la ruralidad en el valle central es una muestra de lo que se puede lograr: el examen de procesos de modernización agrícola que entran en crisis y generan una des-modernización, de la relación mutua entre lati y minifundio, o de la relevancia de la articulación local de las élites rurales en el Maule (y su diferencia con el resto del valle central), son todos ellos análisis históricos de relevancia sociológica (Bengoa. Historia rural de Chile central). Eso es precisamente lo que se requiere desarrollar para lograr una mejor sociología.</p>
+			<p>El examen histórico nos permite observar mejor cómo se distinguen dimensiones y nos permite hacer mejores preguntas sobre el proceso que nos interesa. Y esto no implica que la situación actual no tenga su especificidad, es que no podemos analizar qué es específico de la situación contemporánea si es que no conocemos bien el desarrollo histórico.</p>
+			<p><italic>La teoría sociológica y la historia: discusiones de la modernidad</italic></p>
+			<p>En segundo lugar, hay muchas discusiones teóricas en sociología que, al fin, se basan en una cierta idea de un desarrollo histórico. Su adecuación depende de si esas ideas sobre la historia resultan pertinentes. </p>
+			<p>La modernidad (y esto ya lo ha resaltado Giddens en su Capitalismo y la moderna teoría social) es uno de los conceptos centrales de la disciplina. No poco de lo que se dice sobre la modernidad implica una visión histórica. Para concretizar esta idea nos centraremos en dos aspectos del concepto que son muy usados: racionalización y secularismo (lo que plantearemos es probablemente muy trivial para un historiador, precisamente ello marca la ausencia de conocimiento histórico como un problema en la sociología). En ambos encontraremos que la ausencia de una reflexión histórica ha llevado a un ‘sentido común’ sociológico que resulta insuficiente para comprender la modernidad.</p>
+			<p>Así, la idea que la racionalidad, en su versión de organización sistemática, tiene su base histórica en el desarrollo de la escritura, ha sido planteada varias veces en la investigación histórica: “cuando la gente habla del desarrollo del pensamiento abstracto a partir de la ciencia de lo concreto, el paso de los signos a los conceptos, el abandono de la intuición, la imaginación, la percepción, se está hablando de procesos que, al fin, son críticamente dependiente de la presencia del libro” (<xref ref-type="bibr" rid="B8">Goody, 1985</xref>:169). También cuando se menciona que la insistencia en la adivinación mesopotámica busca un conocimiento analítico, necesario, abstracto, <italic>a priori</italic> (Bottéro. Mésopotamie). Y uno bien puede observar que toda esta expansión de tipos de mensajes y de creación de nuevos géneros de inscribir información que fue la escritura, implicó nuevas capacidades para la acción y el pensamiento.</p>
+			<p>Este ejemplo proviene de algunas tabletas administrativas de la III dinastía de Ur (aproximadamente 2100 AC): “Para todo año documentado en el texto, el número exacto de animales se da de acuerdo con las categorías de edad listadas arriba [menores a un 1 año, 1 año, 2 años, 3 años, adultos]. El cálculo de la entrega esperada de productos lácteos para cada año sobre la base del número de animales del año anterior se registra: para cada vaca adulta (áb.máḫ) 5 sìla de <italic>grasa láctea</italic> (ì.nun) y 7 1/2 sìla of <italic>queso</italic> (ga.àr) tenía que ser entregada. [..] La reproducción anual del ganado se fijó como regla a la tasa promedio de un ternero por cada dos vacas adultas. La distribución de género de los terneros fue también teórica: el texto exhibe una adherencia estricta a la secuencia macho hembra, y así. Para los años en que las vacas adultas estaban registradas en números impares, el éxito de parto se registraba al dividir el número en dos y redondear el resultado al siguiente número más bajo” (<xref ref-type="bibr" rid="B13">Nissen, Damerow y Englund, 1993</xref>:100).</p>
+			<p>Es un texto extraño, inusual para la época, pero ilustra tendencias de interés. Lo que hay aquí es un ejercicio conceptual para pensar la evolución futura del ganado, pues esos cálculos no corresponden a la evolución de ninguna manada particular. Es un ejercicio que, desde nuestro punto de vista, tiene deficiencias en su instrumental técnico (nosotros no haríamos ese cálculo de esa forma), pero cuya intención es clara: permite planificar el manejo del ganado (y calcular la producción esperada de ciertos productos) a través de un ejercicio sistemático, usando reglas claras y precisas. Es un ejercicio que solamente puede realizarse con la escritura. Es ella la que permite que sea un ‘ejercicio sistemático, usando reglas claras y precisas’. </p>
+			<p>La escritura, con la distancia que permite el hecho mismo de registrar, abre nuevas posibilidades para la interacción y para el pensamiento. Una distancia que no es tan solo espacial, sino también temporal. Ella “significa que los horizontes temporales como el pasado y el futuro comienzan a tomar forma porque existe ahora una escritura a ser recordada y un futuro a ser planeado” (<xref ref-type="bibr" rid="B2">Baecker, 2017</xref>:212). Podemos recordar las conversaciones, pero solo con la escritura se pueden releer; podemos pensar cómo a futuro será usado lo que se dice, pero solo con la escritura se puede pensar en un uso completamente divorciado de la situación actual. Las herramientas que hemos mencionado, listas y esquemas, las prácticas que ejemplificamos, ese ejercicio de racionalización, nos muestran que el efecto ‘racionalizante’ de la escritura está inscrito en la posibilidad de disociar la comunicación de un evento (y de los participantes) de la interacción <italic>hic et nunc</italic>. Por lo tanto, asociar racionalización y modernización bien puede ser engañoso.</p>
+			<p>En lo relativo a la secularización, el relato de su aumento lineal como parte de la modernidad ha sido muy criticado y la evidencia histórica suma a esa crítica. El examen de la evidencia histórica hace, además, algo más: mostrar que la <italic>forma</italic> en que se debate el tema en sociología, centrada en preguntas individuales (¿cuán religiosas son las personas?) resulta insuficiente. Hay un elemento institucional que queda fuera de la discusión y que la historia muestra que es relevante. Algunas viñetas mostrarán el punto.</p>
+			<p>“Por qué nunca se probó de forma más completa que por los terribles desastres del pueblo romano o por signos indudables que los dioses no se preocupan por nuestra seguridad, sino para nuestro castigo” (Tácito. Historias). Esta es una de las pocas referencias a los dioses en los escritos de Tácito, el principal historiador romano de inicios del Principado; y no resulta una referencia muy reverente. En la tradición historiográfica clásica (por ejemplo, Tucídides, Polibio, Dionisio, Tito Livio, Amiano Marcelino) la forma en que narran e intentan explicar los sucesos es relativamente secular. Los eventos suceden por causas bien terrestres y humanas (conflicto entre clases, las formas en que se comportan las multitudes, las dinámicas del poder, capacidades individuales etc.). Se puede decir que no es completamente secular, pues el papel del destino tiene algo de religioso (Veyne. L’empire gréco-romain), pero en tanto pueden dar una explicación humana, secular, eso es lo que buscan. La tradición historiográfica cristiana, por el contrario, es resueltamente religiosa: todo el relato está escrito desde la creencia, desde Dios. Los textos se estructuran desde una temporalidad definida religiosamente.</p>
+			<p>Hacia finales del siglo XIX en una zona rural en México, en Michoacán en particular, se funda un pueblo, San José de Gracia. Ahora, ¿quién funda el pueblo y organiza las tareas necesarias para ello? El sacerdote local y para la fundación se piensa solo en autoridades eclesiásticas: “El señor cura Zepeda llamó a los llaneros y les dijo: ‘Vamos a fundar el pueblo según lo quieren. Vean a su ilustrísima para que nos dé el permiso correspondiente’” (<xref ref-type="bibr" rid="B7">González, 1999</xref>:39). La ilustrísima, por cierto, es el Obispo. Si quisiéramos decir por qué el México del siglo XIX es una sociedad claramente no secular, nada mejor que mostrar que aquí el Estado aparece prácticamente ausente y toda la operación la hace una institución religiosa.</p>
+			<p>Para el medioevo europeo, al menos así lo hace Baschet (La civilisation féodale), se ha observado que la organización del espacio rural está marcada por la organización eclesiástica del espacio: es la capilla, el cementerio, los que operan como núcleos que organizan el espacio. Para qué mencionar la organización del tiempo, pues tanto el ciclo vital como el ciclo anual están efectivamente organizados en torno a lo que establece la institución religiosa.</p>
+			<p>Durante la modernidad temprana se nos recuerda que “un prominente funcionario de corte alemán de finales del siglo XVII, el Freiherr Veit Ludwig von Seckendorff observaba en 1685 que los radicales en última instancia buscaban hacer la ‘vida en este mundo’ la base de la política. Esto, explicaba, era equivalente a una revolución en la mirada y perspectivas que potencialmente cambiaba todo” (<xref ref-type="bibr" rid="B9">Israel, 2002</xref>:5). De una sociedad que hasta mediados del siglo XVII discutía en términos confesionales, y cuya preocupación mayor estaba fuera del mundo, se empieza a pasar a una en que la preocupación está <italic>dentro</italic> del mundo; lo que resultaba, por cierto, una preocupación. Velthuysen, profesor en Utrecht y no parte del mundo más conservador de su tiempo, reaccionaba indignado al <italic>Tratado-Político</italic> de Spinoza, publicado en 1670, que reducía el papel del magistrado a ‘cuidar solo de que en el Estado se observen justicia y honestidad’. El mundo en el cual vivimos ahora es uno en que la preocupación política es sobre los bienes de este mundo. Esa modificación empezó a implicar entonces, incluso en una sociedad donde las autoridades siguen defendiendo la religión oficial, una pérdida del control institucional eclesiástico. Más adelante, Israel menciona que, en relación con Francia: “los obispos se encontraron dejando de ser los agentes, y pasando a ser los objetos de la supervisión real” (Israel, 2002:9).</p>
+			<p>Comparando a los ejércitos ingleses en el Somme y en Waterloo en torno a su relación con lo religioso, Keegan observó la diferencia en perspectiva entre oficiales. Lo que en el Somme resultaba común (piedad de los oficiales, participación en la comunión de los soldados rasos), lo fue bastante menos en Waterloo, un siglo antes (Keegan. The face of battle). El comentario de Keegan quizás resulte difícil de evaluar, pero la mayor presencia de la institución religiosa (de funcionarios, de participación en actos, de uso en la propaganda) en los regimientos de 1914 que en los de 1815, sí se puede observar.</p>
+			<p>Lo que nos interesa con estas viñetas es mostrar que la historia nos señala con mayor claridad las diferencias <italic>institucionales</italic> sobre el peso de las organizaciones religiosas en la vida social, lo que el relato sociológico pierde de vista. Puede anotarse la vergüenza que una ciencia social pierda de vista los contextos institucionales en sus relatos históricos. Sobre las creencias quizás no sepamos mucho, pero el ejército del Somme tenía una institucionalización mayor de funcionarios religiosos que el de Waterloo y la tradición historiográfica clásica estaba compuesta por personas que no tenían educación religiosa formal, cosa que ocurrirá en la tradición historiográfica cristiana posterior. Si es el Estado o la Iglesia quien funda las ciudades u organiza la censura muestra claras diferencias institucionales. También, una sociedad donde la amenaza de excomunión es un tema relevante para las decisiones políticas es una en que la religión tiene un peso importante. Una en que los principales cargos eclesiásticos son obtenidos al azar entre la élite aristocrática es una en que la religión tiene un menor peso institucional. El análisis histórico muestra lo que el concepto sociológico muchas veces olvida, que la secularización debe analizarse a través del peso de la institución religiosa.</p>
+			<p>En los dos casos que hemos examinado, es solo a través de un examen histórico que resulta posible entender efectivamente los procesos. Lo que nos muestra, de nuevo, que la mala visión histórica produce mala sociología y que no basta con tener una conciencia histórica para poder resolver ello.</p>
+			<p><italic>El papel de los conceptos históricos en sociología</italic></p>
+			<p>Finalmente, está la relación entre nuestros conceptos con la historia. Si bien, como ya planteamos, existen conceptos generales, ocurre que una parte no menor de los conceptos que usamos regularmente en ciencias sociales son de carácter histórico. ¿Qué quiero decir con ello? </p>
+			<p>Con la idea de concepto histórico quiero mencionar a aquellos conceptos cuya referencia es una creación histórica. Para hablar de cualquier vida social la idea de grupo será útil, no sucede ello con Estado, familia nuclear, educación superior, escuela o medios de comunicación. Todos ellos corresponden a instituciones, prácticas, etc., que fueron generadas en contextos sociales específicos. Y, además, como instituciones, <italic>tienen</italic> una historia: han experimentado una cierta deriva.</p>
+			<p>Una comparación que resulta interesante aquí es con la biología. Puesto que allí también es evidente que muchos de sus fenómenos y categorías son productos históricos (de trayectorias evolutivas). No puedo deducir de una clasificación teórica general algo como ‘artrópodo’. Sucede que, en la evolución de los animales, surgieron ciertos linajes que se diversificaron y que tienen una raíz en un antepasado común. No puedo deducir de una clasificación teórica general algo como ‘fotosíntesis’. Sucede que, en el transcurso de la evolución, ciertos linajes adquirieron el ‘truco’, si se quiere, de aprovechar la luz del sol para construirse a sí mismos (expongo este argumento de forma más detallada en Teoría de la socialidad como interacción). De hecho, durante mucho tiempo ninguna especie había descubierto ese truco. A partir de esos desarrollos es posible observar algunas regularidades (los linajes sinápsidos tienden a producir carnívoros del tipo ‘dientes de sable’), pero nada cercano a una ley general. La historia evolutiva es crucial para poder entender lo que sucede con los seres vivos. Si la historia tiene esa relevancia en dicha disciplina, con mayor razón en las nuestras.</p>
+			<p>Tenemos, entonces, un concepto de democracia representativa no porque <italic>a priori</italic> podríamos dividir las formaciones políticas democráticas en representativas o directas, sino porque en un proceso histórico bien específico ellas fueron creadas. Y antes que fueran creadas, esa alternativa simplemente no existía. Del mismo modo que si en un futuro aparece una nueva forma de democracia que no hemos pensado, no podríamos incluirla ahora en una clasificación. El concepto histórico en ciencias sociales es uno que depende del carácter abierto, creativo, de la vida social (como depende del carácter creativo de la vida en el caso de las ciencias biológicas). Hasta antes que apareciera y se desarrollara la idea de representación, la observación que la democracia es imposible en sociedades extensas y numerosas parecía bien basada. Para que dejara de serlo, se requirió construir esa capacidad. No es simplemente que no hubiera ocurrido, fue necesario generar prácticas e instituciones para que dicha combinación fuera posible, como por ejemplo la ausencia de mandatos (aunque no es lo único, es una muestra del tipo de creación institucional requerida). Es con ese invento que sucede que “los representantes debieran tener rienda suelta para hacer leyes como así lo piensen, y sus representados debieran entonces decidir si reelegirlos. Eso es legado del parlamentarismo británico” (<xref ref-type="bibr" rid="B18">Statsavage, 2020</xref>:206).</p>
+			<p>Buena parte de nuestras discusiones y conceptos provienen de ciertos decursos históricos concretos, de ciertas ideas, de ciertas modalidades institucionales, que fueron creadas en las sociedades a lo largo de su historia, que no son simplemente posibilidades abstractas entre las cuales se elige. Para comprender esos procesos de creación es que se requiere el análisis histórico.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusión</title>
+			<p>En el impacto del conocimiento histórico existe una paradoja. La sociología nace como una ciencia que mira a la historia, sin embargo, en la práctica, los llamados a recuperar esa importancia no han tenido mayor éxito. El mal uso pasado de la historia, el hecho que la conciencia histórica más bien se usa como retórica para pensar el futuro explican, quizás, en parte ello. Lo importante es que esos llamados son correctos, puesto que la presencia de una consciencia histórica relevante (que vaya más allá del simple llamado conceptual a su importancia, que se base en un conocimiento fuerte de los procesos históricos concretos) es relevante para hacer investigación empírica y para pensar teóricamente en sociología.</p>
+			<p>Las implicaciones de la historia para la sociología incluyen muchos elementos que no hemos abordado en profundidad: la relación entre historia y sociología, las características de los procesos históricos que requieren conceptos y analíticas diferentes, la discusión sobre la explicación histórica como tal y otros. El propósito de este artículo es bastante más limitado: solo señalar que la historia es <italic>importante</italic> para los sociólogos y que éstos debieran fortalecer su consciencia histórica.</p>
+			<p>La vida social es abierta en el sentido que ella misma construye sus alternativas. El análisis histórico es una de las mejores formas que tenemos para darnos cuenta de esa capacidad. Por eso es imprescindible para nuestra disciplina.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p> </p>
+			<p>Una primera versión de este artículo fue presentada en el XI Congreso Chileno de Sociología, Concepción, en abril de 2022. Este trabajo se ha desarrollado al interior del programa de Doctorado de Ciencias Sociales de la Universidad Autónoma de Chile.</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Avendaño, O; Canales, M; Atria, R. (2012). <italic>Sociología. Introducción a los clásicos</italic>. LOM.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Avendaño</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Canales</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Atria</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Sociología. Introducción a los clásicos</source>
+					<publisher-name>LOM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Baecker, D. (2017). Systems in social theory, pp. 201-226. En C. Benzecry et al. <italic>Social theory now</italic>. Chicago University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Baecker</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<chapter-title>Systems in social theory</chapter-title>
+					<fpage>201</fpage>
+					<lpage>226</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Benzecry</surname>
+							<given-names>C.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<source>Social theory now</source>
+					<publisher-name>Chicago University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Clemens, E. S. (2007). Toward a historicized sociology: theorizing events, processes, and emergence. <italic>Annual Review of Sociology</italic>, <italic>33</italic>, 527-549. https://doi.org/10.1146/annurev.soc.33.040406.131700</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Clemens</surname>
+							<given-names>E. S.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Toward a historicized sociology: theorizing events, processes, and emergence</article-title>
+					<source>Annual Review of Sociology</source>
+					<issue>33</issue>
+					<fpage>527</fpage>
+					<lpage>549</lpage>
+					<pub-id pub-id-type="doi">10.1146/annurev.soc.33.040406.131700</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>De la Garza Toledo, E. (2010). <italic>Hacia un concepto ampliado de trabajo</italic>. Anthropos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De la Garza Toledo</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Hacia un concepto ampliado de trabajo</source>
+					<publisher-name>Anthropos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Dussel, E. (1998). <italic>Ética de la liberación</italic>. Trotta.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dussel</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>Ética de la liberación</source>
+					<publisher-name>Trotta</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Goldthorpe, J.H. (2007). <italic>On sociology</italic>. Stanford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Goldthorpe</surname>
+							<given-names>J.H.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>On sociology</source>
+					<publisher-name>Stanford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>González, L. (1999). <italic>Pueblo en vilo</italic>. Fondo de Cultura Económica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>González</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>Pueblo en vilo</source>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Goody, J. (1985). <italic>La domesticación del pensamiento salvaje</italic>. Akal.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Goody</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1985</year>
+					<source>La domesticación del pensamiento salvaje</source>
+					<publisher-name>Akal</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Israel, J.I. (2002). <italic>Radical enlightenment</italic>. Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Israel</surname>
+							<given-names>J.I.</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>Radical enlightenment</source>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Lechner, N. (2007). <italic>Obras escogidas</italic>. LOM.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lechner</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Obras escogidas</source>
+					<publisher-name>LOM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Mann, M. (2012). <italic>The sources of social power, vol 1.</italic> Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mann</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>The sources of social power, vol 1.</source>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Morandé, P. (1984). <italic>Cultura y modernidad en América Latina</italic>. Ediciones PUC.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Morandé</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1984</year>
+					<source>Cultura y modernidad en América Latina</source>
+					<publisher-name>Ediciones PUC</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Nissen, H; Damerow, P; Englund, R. (1993). <italic>Archaic bookkeeping</italic>. Chicago University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nissen</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Damerow</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Englund</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<source>Archaic bookkeeping</source>
+					<publisher-name>Chicago University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Osorio, J. (2001). <italic>Fundamentos del análisis social</italic>. Fondo de Cultura Económica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Osorio</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>Fundamentos del análisis social</source>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Passeron, J.-C. (2016). <italic>Le raisonnement sociologique</italic>. Albin Michel.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Passeron</surname>
+							<given-names>J.-C.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Le raisonnement sociologique</source>
+					<publisher-name>Albin Michel</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Salazar, G. (2006). <italic>Violencia política popular en las grandes alamedas</italic>. LOM.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salazar</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Violencia política popular en las grandes alamedas</source>
+					<publisher-name>LOM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Scribano, A. (2014). Teoría crítica en américa latina, pp. 69-88. En F. Osorio (Ed.) <italic>Epistemología y ciencias sociales: ensayos latinoamericanos</italic>. LOM.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Scribano</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<chapter-title>Teoría crítica en américa latina</chapter-title>
+					<fpage>69</fpage>
+					<lpage>88</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Osorio</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<source>Epistemología y ciencias sociales: ensayos latinoamericanos</source>
+					<publisher-name>LOM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Statsavage, D. (2020). <italic>The decline and rise of democracy</italic>. Princeton University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Statsavage</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>The decline and rise of democracy</source>
+					<publisher-name>Princeton University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Temin, P. (2013). <italic>The Roman market economy</italic>. Princeton University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Temin</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>The Roman market economy</source>
+					<publisher-name>Princeton University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Wallerstein, I. (2004). <italic>World-system analysis</italic>. Duke University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wallerstein</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<source>World-system analysis</source>
+					<publisher-name>Duke University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Wallerstein, I. (2011). <italic>The modern world system IV: centrist liberalism triumphant</italic>. University of California Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wallerstein</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>The modern world system IV: centrist liberalism triumphant</source>
+					<publisher-name>University of California Press.</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Zemelman, H. (2010). Sujeto y subjetividad: la problemática de las alternativas como construcción posible. <italic>Polis</italic>, 9(27), 1-12. https://doi.org/10.32735/S0718-6568/2010-N27-742</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zemelman</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Sujeto y subjetividad: la problemática de las alternativas como construcción posible</article-title>
+					<source>Polis</source>
+					<volume>9</volume>
+					<issue>27</issue>
+					<fpage>1</fpage>
+					<lpage>12</lpage>
+					<pub-id pub-id-type="doi">10.32735/S0718-6568/2010-N27-742</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

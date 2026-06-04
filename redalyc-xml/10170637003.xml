@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00003</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2022000100024</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Redefining action: facts and beliefs in the social world</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0003-3864-5237</contrib-id>
+               <name>
+                  <surname>Santamaría-Velasco</surname>
+                  <given-names>Freddy</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0002-8929-7394</contrib-id>
+               <name>
+                  <surname>Ruiz-Martínez</surname>
+                  <given-names>Simón</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad de Ciencias Politicas, Universidad Pontificia Bolivariana, Medellin, Colombia</institution>
+            <institution content-type="normalized">Facultad de Ciencias Politicas, Universidad Pontificia Bolivariana</institution>
+            <institution content-type="orgname">Universidad Pontificia Bolivariana</institution>
+            <institution content-type="orgdiv1">Facultad de Ciencias Politicas</institution>
+            <country country="CO">Colombia</country>
+            <email>freddy.santamariave@upb.edu.co</email>
+            <email>simon.ruizm@upb.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2022</year>
+         </pub-date>
+         <issue>73</issue>
+         <fpage>24</fpage>
+         <lpage>35</lpage>
+         <history>
+            <date date-type="received">
+               <day>14</day>
+               <month>01</month>
+               <year>2022</year>
+            </date>
+            <date date-type="accepted">
+               <day>05</day>
+               <month>03</month>
+               <year>2022</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Abstract:</title>
+            <p>This article presents a definition of action that links empirical facts with normative reasons to form an explanation of rational agency with predictive capabilities. This idea is developed along the lines of pragmatism which holds that a set of beliefs is a matter of linguistic evaluation from a particular community. This notion is related to the idea of facts as empirical information that is cognitively apprehended. Such information is regarded as an input which is later contrasted to expected (liable) behavioral responses from the agent. The deviation of such observed behavior with respect to the expected one represents an evaluative output that is understood as the definition of reasonably expected behavior. Action is, thus, understood as the outcome of such an evaluative process.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>philosophy of action</kwd>
+            <kwd>semantic analysis</kwd>
+            <kwd>rules</kwd>
+            <kwd>discursive commitment</kwd>
+            <kwd>Robert Brandom</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="11" />
+            <page-count count="12" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>Introduction</title>
+         <p>Jon Elster in Explaining Social Behavior begins his investigation about human action with a concrete concept of what is understood by the term action: "Action is intentional behavior, caused by the desires and beliefs of the agent" (Elster 2015:187). Nonetheless, understanding action as intentional behavior might be too ‘individual’ to be maintained as our own: his definition is framed by the perspective of the individual who commits the act; not on the social implications of it being committed, leading Elster to use, interchangeably, the expressions action, behavior, and decision. However, when closely regarded, an action implies more than individual motivations (whether conscious or not). The social framework (that is, social norms that we are taught in a broad sense) serves as a condition of possibility for any action to be meaningful at all. But is this always the case? Do we always entertain the social norms, even in our most egoistic choices? We would like to advance here, then, a broader concept of social action: one that frames individual motivations within the social implications of social interactions. To do so, we cannot begin by stating a concrete definition as Elster did, as it is not clear in this point what should be understood by social norm, social interaction, and so on.</p>
+         <p>We must ponder first, then, why should we depart from Elster’s perspective. To wit, the departing question should be why action should be understood as social interaction in the first place. This question is nuanced by the ideal to maintain a reasonable degree of predictive power. We assume here that rational choice theory is the best way (so far) to address human interaction in a way that yields liable predictions of future behavior. Therefore, we aim at transposing the notion of an action elaborated in Elster’s rational choice theory to depart from the social context so that it maintains predictive capacity while gaining coherence and applicability regarding sophisticated practices such as public deliberation which are understood as a game.</p>
+         <p>To do so, the transposition is restricted by the social implications an action might bear. The social component is understood hereon as the pragmatic construction of a linguistic (or rational) community, in which the practical implications of actions are evaluated in terms of rule-following behavior. Two distinctive elements scaffold our understanding of the social framework: First, the individual significance of an action, which must account for the semantic representation that such action has for the rational community in which the corresponding action takes place. Here, for simplicity, we understand a semantic representation to be the commitment we ascribe to an agent’s performing of an action, what an agent holds as true about the social context. That we call the semantic dimension of action.</p>
+         <p>The second component evaluates the practical circumstances and consequences of committing the action, as well as the evaluation of the liability of the individual action the responsibility of the outcome given the agents capabilities. Thus, the performativity of the action, in terms of what it is aimed at and achieved, is of great importance. We call this second element the pragmatic dimension of an action.</p>
+         <p>Within such a framework, to confer practical implication to an action must be understood as a linguistic practice of discursively committing oneself (and others) to the practical circumstances and consequences of such action. This, we call here a value. This definition of value aspires to a neutrality that allows the notion to be context-dependent. Thus, the omission of the adjective ‘social’ points to the redundancy of calling a value ‘social’. Of those values (i.e., the implications of an action), political ones are of great importance for us (i.e., the political implications of an action). Thus, the purpose of using such a broad conception of action is to better understand the sophistication of what we call political values and the place they have in motivating the actions of politically relevant agents (governments, constituents and so on). The outcome is nothing else than a practice of giving and asking for the best political reasons; where such practice is regulated by a set of values (what is commonly defined as an ideology). A comprehensive set of inferential rules that serves as public criteria for the evaluation of reliable behavior would count as such a set of social values and helps us to transpose the individual perspective to the social implications it has, and a novel element that would be added to the presentation: the facts.</p>
+         <p>This way of presenting value discrimination turns the argument to the idea of reasonableness as the best practice to socially give and ask for reasons in the public sphere. Supported by this last idea, the concluding section addresses practical prediction of behavior in the face of facts.</p>
+      </sec>
+      <sec>
+         <title>Action and belief: departing from a social practice</title>
+         <p>As stated before, we will perform a transposition of Elster’s definition of action. We use the idea of transposition because we are not trying to find something mysterious or hidden that Elster missed. Every nut and bolt that he explores in his perspective serves a particular purpose in the explanation and simply require a reordering. Such reordering would not begin by the egoistical aspects of choice, but the social framework. That is what we mean by transposition: shifting the order of explanation.</p>
+         <p>Thus, following his steps, the first component in the discrimination of human action (or social behavior, as he puts it), is to understand how we discriminate the factual aspects of action. In a more rigorous language, we must depart from how we generate the relevant inputs that are going to pass through the mechanism of belief formation.</p>
+         <p>Elster understands a belief as different cognitive processes that are encompassed by a sort of endorsement: "in everyday language ‘belief’ suggests less than full endorsement. I believe it will rain tomorrow, but I also know I might be wrong. I do not merely believe that I am married; I know it" (Elster 2015:114). He doesn’t explain what this type of endorsement should be. To be fair, he is more interested in the practical examples of a belief than its conceptual description. But there’s an extensive literature linking the sort of commitments that he exemplifies and a linguistic definition of a belief. In short, a belief, in linguistic terms, is a claim that something is taken as true. To hold something as true amounts to commit oneself to it serving as a reason for something (paradigmatically, an action).</p>
+         <p>We either commit to what we perceive to be the case or that we commit to our beliefs about the world and other agents. The first one can be easily verified by the simple tasks we perform every day: we stop at a traffic light depending on what color we perceive it to be.</p>
+         <p>Misunderstanding the second has been a source of many linguistic confusions in social sciences: we believe in the people we talk to in everyday interactions (for example, the cashier of a store). If we order a coffee at a coffeeshop, we believe we will be given a coffee. Together, believing about worldly causes and other agents constitute the practice of giving and asking for reasons; a practice that is better explained through the notion of discursive commitment.</p>
+         <p>A discursive commitment is an obligation made explicit through a speech act to which one is either entitled or committed. It is also a normative bind to either make true or hold as true. Brandom defines entitlements and commitments as deontic statuses, that is, as particular inferential rules of evaluation where one is rationally expected to either do something or say something under a communal rational set of rules (being predictable in a cognitive sense): “The leading idea of the account to be presented here is that belief can be modelled on the kind of inferentially articulated commitment that is undertaken or acknowledged by making an assertion. These may be called doxastic or assertional commitments. This is the basic kind of discursive commitment. The strategy is to describe a simplified system of social practices in which something can be taken or treated as (having the significance of) an assertion-the acknowledging of commitment to an assertible content” (Brandom 1994:157). Making or holding as true designate the type of commitment that takes place: If one is supposed to make true, then one is practically bounded. If one is supposed to be holding something as true, then one is doxastically committed, or committed to the belief that something is thus and so. Therefore, one could be practically as much as doxastically committed. Thus, a discursive commitment is an assertion that serves as a reason to either do something or to be regarded as holding something to be the case. This is what we call a belief, an evaluative attribution that someone has upon oneself either to do something or to be holding something as true. This is why it is so difficult to see the relationship between perception and belief: we always look at it from the wrong perspective! Belief is a matter of giving and asking for reasons in the sense that we cannot read minds. We have simply evolved to treat everyone like us in a predictable manner. What differs us from other primates is that we do not simply conform to rules but are responsible for them. We are not bounded by rules but by our conception of rules (Kant. Critique of practical reason).</p>
+         <p>The deontic scorekeeping is the system in which deontic statuses are evaluated. Brandom defines it explicitly as follows: “Discursive scorekeeping is what the members of a community must be doing in order for any of their performances to have the significance (for them) of saying something” (Brandom 1994:639). Described as such, the definition says nothing about the practical components of an evaluation because the whole idea is that the score is kept under the normative implicit practices of a community and made explicit in the form of rules. Therefore, to mention such a practice is to talk about the set of communal rules that determine the linguistic practice of such a community. Thus, the notion of a speech act and Searle’s idea of the formation of an institution are undeniably implicit: “These ‘institutions’ are systems of constitutive rules. Every institutional fact is underlain by a (system of) rule(s) of the form ‘X counts as Y in context C’. Our hypothesis that speaking a language is performing acts according to constitutive rules involves us in the hypothesis that the fact that a man performed a certain speech act […] is an institutional fact” (Searle 1969:51).</p>
+         <p>The idea of a fact being of a social nature is somewhat problematic, but it helps to support the possibility for an ‘objective’ component that is normative in a relevant sense. Here the context turns out to be a crucial component of the implication of action. It is determined by both the circumstances and the consequences of the speech act (Dummett. Frege: philosophy of language). Moreover, in such sense, deontic scorekeeping is now clarified: “Understanding or grasping the significance of a speech act requires being able to tell in terms of such scores when it would be appropriate (circumstances of application) and how it would transform the score characterizing the stage at which it is performed into the score obtaining at the next stage of the conversation of which it is a part (consequences of application). For at any stage, what one is permitted or obliged to do depends on the score, as do the consequences that doing has for the score. Being rational —understanding, knowing how in the sense of being able to play the game of giving and asking for reasons— is mastering in practice the evolution of the score. Talking and thinking is keeping score in this sort of game” (Brandom 1994:183).</p>
+         <p>The second relevant conclusion is that the implications of action are the circumstances and consequences of a discursive commitment as they are framed under a normative stance of rule-regulated practices of giving and asking for reasons. The role of the individual, in this pragmatic framework, defines the commitments that are to be evaluated by others in collective action, thus allowing the attribution of social values to the action, as this idea is presented by Mead (The philosophy of action).</p>
+         <p>To summarize, information is received and adapted to a prediction model. Such a model is described in behavioral terms as a logical space of reasons (a practical component of the rule-following as the overt behavior of our prediction model). We not only follow rules within this space, but we are, by virtue of the evolutionary capacity that is language, capable of being responsible for the rules we follow. The analyticity of our behavior is the normative background with which we evaluate the novel inputs when addressed as discursive commitments. Note that we are not describing two subcomponents, but just using several words to describe the same process. Thus, we are merging cognition and practice in one pragmatic weave that simply has expressive power; that is, the capacity to describe what we already do in our deeds and actions.</p>
+      </sec>
+      <sec>
+         <title>Cognitive aspects of action</title>
+         <p>Now, to clarify the relationship between linguistic belief, perception, and action, we will present what we regard as the two main empirical components of human action. These ideas are borrowed from the cognitive sciences so that this would not just be a philosophically whimsical argument.</p>
+         <p>Cognitive theorists have been usually regarded as working in heavily individual terms. There are many examples in the literature that support this claim. But is this a general trend? To broaden a conception of action, its empirical component must be broadened as well, so it could meet the idea of discursive commitment as belief evaluation. The two ideas that will be developed below correspond to this emerging trend in the conception of human cognition and serve as a crucial scaffolding to be easily transferred to the explanation of social behavior.</p>
+         <p>Beliefs develops throughout one’s life. Therefore, it is important to address the components of cognitive behavior as an activity of belief formation in terms of the importance that sociability has for the development of complex cognition (and action). We summarize this important characterization in terms of phylogeny and action-oriented predictive processing.</p>
+         <p>A) Phylogeny. In the development of his theory of cognition, Tomasello argues that there must be some kind of explanation of human cognition that separates us radically from other animal species (specifically from other primates). This explanation must be regarded, not only in the capacities we can deploy nowadays but also in the historical, evolutionary, genetic, and epigenetic processes. But there are some of those processes that are not exclusive to our species. So, what Tomasello aims to show is the relevance of what he calls phylogeny: “My attempt is to find a single biological adaptation with leverage, and thus I have alighted upon the hypothesis that human beings evolved a new way of identifying with and understanding conspecifics as intentional beings” (Tomasello 2000:204). This seemingly cognitive description is reinforced later when the author links the social aspect of cognition (which we have been calling perception) with action: “My own view is that any one of many adaptive scenarios might have led to the same evolutionary outcome for human social cognition, because if an individual understands conspecifics as intentional beings for whatever reason —whether for purposes of cooperation or competition or social learning or whatever— this understanding will not then evaporate when that individual interacts with conspecifics in other circumstances. In other words, such things as communication, cooperation, and social learning are not different modules or domains of knowledge, but rather are different domains of activity, each of which would be equally profoundly transformed by a new way of understanding conspecifics, that is, a new form of social cognition. The point is that the new form of social cognition would have profound effects whenever individuals interacted with one another —during historical time, transforming things social into things cultural, and during ontogenetic time, transforming skills of primate cognition and cognitive representation into uniquely human skills of cultural learning and perspectival cognitive representation” (Tomasello 2000:205).</p>
+         <p>This rather extensive fragment answers a possible claim of the critical reader that expects, as it was promised, a concrete definition of cognition in terms of human action. Thus, in the first idea brought from cognitive science, the relevant claim we are addressing is that a concrete conception of action involves an inseparable articulation of the concept with social cognition processes. In other words, to understand action as separate from social cognition is just a mistake. And Tomasello’s answer is (to us) rather clear and direct: we end up acting as we do simply in virtue of the cognitive development we underwent (and still undergo) as a species. Thus, one of the aspects of the set of implications of actions is the representational content it has for those who are like us. This resemblance condition will be further developed when the semantic dimension of action is defined. So, we take on the other aspect of the addressed claim: what are we understanding by social cognition.</p>
+         <p>B) Action-oriented predictive processing. Closely connected with what we said earlier on traditional cognitive science, except for Helmholtz (Handbuch der physiologischen Optik), commonly regarded cognitive processes not only as an individual affair, but a passive one as well. Lisa A. Quadt, following the emerging trend of predictive processing theory, states that both individuality and passiveness are impertinent for an adequate conception of cognition. In contrast, the proposal that she presents understands cognition as an active and social process. The conceptual bases of her proposal are highly technical and somewhat irrelevant for the present purposes (these involve the free energy principle, the idea of embodied inferences, a Bayesian conception applied in predictive processing, and so on). Not wanting to overwhelm the reader with all that information, three relevant conceptual tools will be presented in support of her idea.</p>
+         <p>First, she claims that there are some ‘embodied social inferences’. This concept is determined by the physiological characteristic that an organism inherently has for the socialization process it engages in; an idea closely related to Tomasello’s evolutionary processes. This not only involves speech apparatuses but the similarity between organisms as well. In short, she claims that embodied social inference “refers to the determining and constricting role that bodies play for social cognition, and also for interaction. In this sense, it can be said that the very physiology of an individual determines its space of possible social interactions” (Quadt 2017:12).</p>
+         <p>Second, she sums up two special types of inferential interaction in terms of social cognitive processes: replicative and complementary inferences. They are interactive, not only in the sense that they involve people behaving in the same place towards the same goal, but that in such activity is a cognitive shortcut that human agents use to predict the behavior of others, thus articulating their interactions (in more technical terms, minimizing prediction error). The outcome is that the way we apprehend the world is constantly adapting to be more efficient for us to act on it (again, in more technical terms, closely tied to the notion of active inferences and the principle of free energy for the brain). Replicative inferences designate the prediction we establish when assuming roles that imitate the behavior (and ‘feelings’ and ‘emotions’) of others to be able to engage with them more efficiently. Therefore, when a portion of the population is outraged by the racist and male chauvinist assertions of a president, this common ‘sentiment’ is a social cognitive shortcut (a very important one that could lead both to good and bad outcomes). Complementary inferences, on the other side, designate the role that an individual takes to complement an action performed by other(s). In Quadt’s words: “Interaction is here used to solve problems with the other person, in virtue of making oneself more predictable, and using one’s body to signal what is needed from the other” (Quadt 2017:16).</p>
+         <p>This cognitive frame of inferences sets an operative functionality when narrowed to social practices. Thus, the designation and compliance with the different roles as mandated by social norms are not to be seen as a conscious process of belief in social norms; cognition plays as well a major part in the acceptance and fulfilment of a relevant social role, and therefore, in the foundation of social worlds.</p>
+         <p>To recapitulate, we put forward a defence of the claim that action and cognition stand in a necessary relation to each other; based on two different lines of argumentation: a historical, evolutionary one (along the lines of Tomasello); and an operative one, focused on how we cognate (along the lines of Quadt). However, there is a second aim that lies implicit. Being a popular topic nowadays, perception (even in the narrow sense of cognition) must be rigorously defined. The ideas developed in areas such as neuromarketing or neuropolitics (or micro-politics) are losing the rigor that human cognition demands. The first relevant conclusion that we would like to draw from what has been said is that the understanding and possibly manipulation of action for political purposes requires a closer look through the lens of human social cognition. The cognitive proposal that started this discussion lacks a comprehensive articulation with the relevant practices of giving and asking for reasons. So, the question is: what about belief?</p>
+      </sec>
+      <sec>
+         <title>Semantic and pragmatic dimensions in value attribution</title>
+         <p>From what has been said above, we can define the semantic dimension as the normative background of evaluation (in terms of discursive commitments). It is semantic in the sense that makes explicit the claims that we hold as true. Thus, it relates deeply to the way we apprehend external causes, that is, the way our cognition works. Note that one of the main claims of the latter section, and so, of the semantic dimension is the social basis of cognitive practices.</p>
+         <p>On the other hand, the pragmatic dimension compels us to maintain two different types of discursive commitment: either one makes a claim true (or a response to a claim) by acting accordingly as asked by someone else, or one takes as true some claim or assertion by oneself or another as a justification for an action. The first case is exemplified by a promise: the person committed to the promise makes true the content of what was promised. The second case is to be understood as having previous reasons for acting. In the pragmatic dimension, we move from evaluation to a liable response. It is easier to grasp the demands of practical commitments: If I have to make true a former claim that I made about showing up on time, it is simply a matter of aiming at one particular state of affairs. Thus, for practical commitments, it is only required for someone to act in accordance to what such person was committed. However, acting reasonably is a more specifically human linguistic activity and it is rather more complicated as it involves some form of doing not explicit in overt behavior.</p>
+         <p>This claim is of great importance. If action is to be defined, it is not enough to address how we perceive the action, but also what it means in a broader social context (or game). Furthermore, if ideology (as the strength of a belief for a particular group) has been the main concern for social scientists, then the veracity, truthfulness, or doxastic commitment that those sets of beliefs have, are of great importance. Ideological claims are reasons for acting in those linguistic games!</p>
+         <p>But to understand what such a set of beliefs is about, we must dwell for a moment on the conception of truth, which ultimately determines what a belief is said to be. Remember that we had defined belief as an evaluative attribution that someone makes about another person either for her reasonable actions or her holding something as true. But what exactly counts as holding something as true? The philosophical tradition has addressed this matter in different ways: epistemology, regarding true knowledge; ontology, regarding true reality; metaphysics, regarding truth itself; empiricism, regarding true sensible apprehensions or facts; and so on. But it was not until recently that truth was addressed as a way of speaking, that is, as a language game (in a Wittgensteinian terminology). An example of this is Tarski’s famous disquotational principle where truth talks take part of a metalanguage of the following type: “‘Snow is white’ is true if and only if snow is white” (Tarski 1944:343). Tarski did not only assert there that truth talks are relevant, but that they also constitute foundation of semantics. Furthermore, as Ayer (Language, truth, and logic) claims, semantics is not only related to truth; it is also constitutive of the concept of representation and meaning.</p>
+         <p>This triad represents what Brandom calls “the classical project of analysis [where] logical vocabulary is accorded a privileged role in specifying these semantic relations” (Brandom 2008:2).  As Brandom himself claims, the project did not take into consideration the pragmatic component that we have developed above. We will describe truth-talk only with respect to action; that is, we will articulate it as a rational discursive practice of giving and asking for reasons. What we want to defend here is that action is not the beginning of, but the consequence of something basic: a practice of peer justification. But to get there, we must go back first to truth talk.</p>
+         <p>To take something as true, to address a truth talk, one should assign a particular value (i.e., practical implications) to an assertion. About the proposition:</p>
+         <p>α) It is raining</p>
+         <p>one must maintain that it is either true or false. As it happens with assertions about practical (fact) affairs, the assignation of those ‘alethic’ values depend on factual circumstances. Thus, the addition of an alethic value to that sentence represents a state of affairs of the world; and the meaning of the expression is determined by that representation of the world. Or so it should go.</p>
+         <p>But not every type of socially relevant assertion is verifiable in those terms. Even a tense related assertion as</p>
+         <p>β) It will rain this evening</p>
+         <p>is more complex than α), as it involves probability, meteorology, and an individual´s belief in science. The latter component is the most difficult when trying to assess the value assignation of a social proposition. If one asserts</p>
+         <p>γ) Democracy is the best form of government</p>
+         <p>this claim requires an examination based on historical, ideological, economic, and institutional contexts. Is the semantic idea of assigning value to assertions an impertinent task in social language analysis? We see this as a mistakenly inferred conclusion that arises from a misconception of the assignment of value. One does not assign a particular alethic value to a proposition but to propositional content. The difference is slight but deeply relevant: One takes as true not the assertion itself, but the inferential implications that its representation has.</p>
+         <p>To clarify the latter claim, let us recall α). Its propositional content is about a meteorological condition; thus, it should be evaluated from a double perspective: When someone asserts that α), he is committing to the social meaning of α (let us call it A) and should be normatively evaluated if he fails to carry an umbrella. The truth of the claim is based on both the practical commitments of the asserter and the social evaluation of its linguistic performance.</p>
+         <p>It seems rather relativistic to define truth in terms of social instances of evaluation. But isn’t that what γ) presupposes? We will not address the claim that empirical knowledge must not be socially evaluated (or determined), as this task was (in a very broad sense) undertaken by Kant (Critique of pure reason) and Sellars (Empiricism and the philosophy of mind). We will now focus on showing the implications of adding social truth value to assertions of social relevance.</p>
+         <p>In addition to the propositional content, one should understand that the formulation of a claim involves the commitment to sub-sentential expressions thar serve as substitutional inferential licenses or commitments. That is, γ) can be reformulated by a person as</p>
+         <p>γ') The tyranny of the masses is the best form of government</p>
+         <p>where the sub-sentential substitution addressed by S who proffers γ’) inferentially implies that S takes as true that democracy is the tyranny of the masses. This sub-sentential character adds a multivalued operation where sub-sentential substitutions determine different ways of holding as true. Thus, the assignment of truth value to a representational content depends on the multiple values the sub-sentential components might bear in the assessment that A makes of S’s claim. At first glance, this might be seen as a shortcut to abandon the assignment of value, to an easier framework. But is it feasible to abandon the justification of our social discourse all together?</p>
+         <p>The whole multivalued complication could be easily simplified by remembering that what we are doing is pragmatically giving and asking for reasons. Conferring a normative value (as substitutional inferential commitments) is described as the social evaluation of value adscription. In the terms we have used so far, we are contrasting the individual instance understood as a behavioral response against the semantic dimension which makes explicit the social norms of correction. This continuation of the deontic scorekeeping allows us to address the attribution of social values (in representational sentences as γ) as the evaluation of the adherence of the response to the communal normative background. Such evaluation determines what we address as rational belief and behavior: the meaning of rational belief and behavior is given by the adequacy between the intended and the achieved. This definition is nuanced by the idea of multivalued attribution that claims that the most expert participants (or the ones holding the biggest legitimacy in political terms) of the community have an implicit authority validating different social claims, thus adding socially relevant values that end up determining relevant notions of truth (as taking some political claims to be true, even in the face of facts).</p>
+      </sec>
+      <sec>
+         <title>The social set of beliefs and the relevance of facts</title>
+         <p>The last claim raises a fundamental issue. If action is supposed to be the outcome of a process that has facts as an input, then one might imply that facts must play a crucial role in our set of beliefs. Nonetheless, one big implication of action (that might not be surprising for an attentive follower of current political events) is that facts are not as heavily weighted in the agent’s reasons for acting as they are taken to be. What should be surprising is that we still hold facts as the best way to change people’s minds. Thus, to attribute a social value, theorists oftentimes depend on facts alone to support the ideas they defend. But what other choices do they have? Mead also takes facts to be constituents, not of the change of the set of beliefs but of the evaluation of action as well: “What is the implication of the assumption of the independent existence of material things abstracted from the values which belong to them in human behavior? They appear, in the first place, as the common terms in which we can translate objects in one perspective of value into an object of other perspective of value” (Mead 1938:453).</p>
+         <p>A multivalued perspective, as was defined in the last section, might imply that relativism is underlain. For instance, Mead considers that the components of value are: want, effort, and satisfaction. There are no objective facts in the practical implications we attribute to behavior, are there? We take such components to be, nonetheless, deeply misleading. What is it that someone wants? Is it always clear to her? How can we address her satisfaction? Luckily for us, the components of value that Mead defines can be aggregated in the broader notion of intentionality and still maintain their explicative power within the framework of deontic scorekeeping and the practice of giving and asking for reasons. This idea is supported by the importance that Mead gives to cognition, as a crucial aspect of social practices (just as we did with Quadt), and as a crucial aspect of the functionality of habits of action and communal evaluation of conduct. Regard this extensive description that Mead does about conduct and self: “A matter of very great importance in connection with this consideration is the organization of the conduct of the individual about this pattern of group activities, and, in so far as these group activities are interrelated, about the pattern of the group conduct as a whole. It is evident that it is only in this situation that a self arises, for it is only in this fashion that the individual becomes an object to himself, and this character is the mark of the self. The self, then, would inevitably be organized about the pattern of the group activities in so far as they are unitary. In various respects this is the case, and those respects are particularly important to the individual. They are those in which the individual has specific functions, duties, rights, and privileges in the group” (Mead 1938:448).</p>
+         <p>Each participant of a social game (self as Mead calls it) adds to the set of implications understood as commitments and entitlements that constitute the rationality of her community. But what does this tell us about facts? Are social values only assigned by arbitrary evaluations? The answer that could be provided from what has been said above has two parts: the first is cognitive, and the second, pragmatic-analytic.</p>
+         <p>Recent research in social psychology has ‘found’ that knowledge is not a tool for fact-verification. The works of Mercier &amp; Sperber (The enigma of reason), and Sloman &amp; Fernbach (The illusion of reason) dispute the traditional relevancy of facts. Sloman &amp; Fernbach give a political example when they state that: “Usually when people think about and talk about policies, they are not engaged in causal explanation. Most discourse about policy is about why we believe what we do: who agrees with us, why we hold whatever value the policy addresses, what we heard about it on the news the other day. Our experiment asked people to do something difficult and unusual, to causally explain the effects of a policy. That task requires engaging the details of the policy and spelling out how the policy would interact with a complicated world” (Sloman &amp; Fernbach 2017:112).</p>
+         <p>The reason is that we usually forget that the brain is highly lazy (Clark.  Surfing uncertainty. Prediction, action, and the embodied mind). Verifying every fact each type would consume an absurd amount of energy. Will the sun come out tomorrow? Is this berry poisonous? Will the light turn on when one flips the switch? We simply believe both in the certitude of some practices and habits and in the expertise of others. Is the engineer that designed this elevator apt? Did the surgeon that will perform a heart transplant attend a proper medical school? One might say those experts are said to be scientific in the sense that a politician could not be (and this would be a good Weberian conclusion). But what lies behind that certitude is what Putnam (Meaning of ‘meaning’) called a community of experts. It is not that we trust scientists and not politicians; we just trust what we have been taught to trust. This Wittgensteinian conclusion hits the nail on the head: reasons and facts are not a self-legitimizing knowledge on the base of which we act; they are rather a taught outcome of linguistic practices (Wittgenstein. On certainty). The authority of a justification, of a reason, lies in a practice, in a form of life (Wittgenstein. Philosophical investigations). This explains the difficulty in changing someone’s mind with facts they were not taught to take as reasons.</p>
+         <p>From all the above, we can conclude that the role of facts in the assignment of social values should not be seen as a prerequisite that is ignored but as an aim in the social configuration of a practice. If what has been said about the expertise and justification of evaluations is sound, one should focus, moreover, on the blind obedience to ‘facts’ within a community for them to even be considered as such. There’s no adequate justification for the value of a fact, just the liability of the communitarian practice on factual assertions as guiding principles for action.</p>
+         <p>If it still seems unclear how facts relate to values, this simple syllogism summarizes our claims on the matter:</p>
+         <p>(a) To attribute social value, one must discursively commit to a rationally established political practice. Such a commitment must be practically justified. Such a set is objectively framed by factual conditions in a broader sense.</p>
+         <p>(b) But the true pragmatist question is which explanations of factual conditions are reasonable to maintain? Rather than “are factual reasons achievable at all?” (Sellars 2007:81).</p>
+         <p>(c) If a. and b. are sound, then we might conclude that deliberative practices are the only way to evaluate facts as justifications for a liable response (or at least, to start trying) and thus, a fact-guided action.</p>
+      </sec>
+      <sec>
+         <title>Concluding remarks</title>
+         <p>It is odd to understand action as a result. It is, nonetheless, a sensible way to dissolve a lot of issues regarding the meaning of an action, the way it relates to empirical facts (and our cognition), and its relation to social norms. We claimed that it was, in the end, an alternative to Elster’s theory, which was fundamental for its predictability capacities. So far, we didn’t say much about Elster’s claims on the matter, and merely nothing about the predictability capacities of our definition. The first of these claims is not that hard to surpass: we are not trying to correct Elster. We are trying to propose an approach as practical and pertinent as his. And to address pertinence, comparative measures are not necessary. This takes us to the second claim, which is more algid. Although we strongly believe that a quantitative model could be developed from this proposal, we would like to address its qualitative capacities and leave the latter for future research.</p>
+         <p>Now, reliably predicting someone’s behavior must be regarded in terms of rule-following. The main issue would be to undermine the claim that the evaluation always yields an interpretative gap that would not allow making appropriate predictions. To solve this, McDowell (Mind, value, and reality) offers a neat reinterpretation of the idea of rule-following: there is a particular way of grasping a rule, one that does not entail an interpretation. This idea is tied up with the notion of the publicity of our behavior, allowing the picture to fall back again in a practical evaluative component of factual evidence that is contrasted to a set of beliefs that serve as background. We insist on the practical aspect because it allows a contrast between the notions of cause and justification (reason). To put it shortly causes determine the analytic notion of truth and reasons designate the meaning of an expression, being the semantic dimension, the notion overarching both aspects. Therein, an event’s explanation for action is constituted of both: causes and reasons. The complex set of justification deals (as seen with the multivalued notion of sub-sentential commitments) with a mixture of facts and interpretations, all under relevant active outcomes, that is, motivations and desires for someone to behave in a certain way. This way of understanding prediction is coherent with the views of an objective social set of beliefs (Spohn. Causation, coherence, and concepts), and with a notion of communicative meanings that take place in the construction of our social worlds where institutions are formed (Searle. The construction of social reality). Hence, the outcome of addressing what is implicit in our practices as “an explicit commitment of giving and asking for the best reasons” (Brandom 1994:xviii). In a nutshell, the predictive capability of this definition lies in the description of the notion of reasonability.</p>
+         <p>As it stands, reason is not to be understood as the 18th century paradigmatic human faculty which would allow a steady march to progress (some universally valid notion of reason, with a capital r as it is addressed by Toulmin. Return to reason). Rather, reason is to be understood “as a sort of grounding for our actions” (Toulmin 1976:91). Within this framework, deliberation as giving and asking for reasons could take the form of political schemes as proposed by Groarke &amp; Tindale (Good reasoning matters!) which share Elster’s capability of prediction. In qualitative terms, an action is the result of the prediction (more exactly, the prediction error). Intention and social norms (in the light of facts) create an expected behavior that is compared to the actual behavior performed by an individual.</p>
+         <p>A lot of factors are left unaddressed. But they have been intentionally left so in such a way that this proposal can be applied to a manifold of instances. Facts and components of evaluation are the basic tools of this language game. What can be achieved with them was superficially presented here. The blueprints for some other, more efficient tools are suggested in the footnotes. Suffice to say that this is only the beginning of a broader approach: one that puts language in the center of the study of social sciences, a task we happily carry on from many authors, but mostly from Winch (The idea of social science).</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Proyect CIDI 565C-03/20-36 “Prácticas discursivas y la construcción colectiva del concepto de seguridad desde el territorio (Medellín)”.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Brandom, R.,  (1994).
+               <italic>Making it explicit. Reasoning, representing and discursive commitment</italic>
+               . : Harvard University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brandom</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <source>Making it explicit. Reasoning, representing and discursive commitment</source>
+               <publisher-name>Harvard University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Brandom, R.,  (2008).
+               <italic>Between saying and doing. Towards an analytic pragmatism</italic>
+               . : Oxford University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brandom</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Between saying and doing. Towards an analytic pragmatism</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Elster, J.,  (2007).
+               <italic>Explaining social behavior. More nuts and bolts for the social sciences</italic>
+               . : Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Elster</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Explaining social behavior. More nuts and bolts for the social sciences</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Mead, G.,  (1938).
+               <italic>The philosophy of the act</italic>
+               . : University of Chicago Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mead</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>1938</year>
+               <source>The philosophy of the act</source>
+               <publisher-name>University of Chicago Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Putnam, H.(1975). "Meaning of ‘Meaning".
+               <italic>Minnesota Studies in the Philosophy of Science .</italic>
+               (7), 131-193.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Putnam</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>1975</year>
+               <article-title>Meaning of ‘Meaning</article-title>
+               <source>Minnesota Studies in the Philosophy of Science</source>
+               <volume />
+               <issue>7</issue>
+               <fpage>131</fpage>
+               <lpage>193</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Quadt, L. (2017).
+               <italic>Action-oriented predictive processing and social cognition</italic>
+               . En Metzinger, W (autor.);Philosophy and predictive processing.  (1-20).: MIND Group Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15502/9783958573239">https://doi.org/10.15502/9783958573239</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Quadt</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Action-oriented predictive processing and social cognition</chapter-title>
+               <year>2017</year>
+               <source>Philosophy and predictive processing</source>
+               <publisher-name>MIND Group</publisher-name>
+               <fpage>1</fpage>
+               <lpage>20</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15502/9783958573239">https://doi.org/10.15502/9783958573239"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Searle, J.,  (1969).
+               <italic>Speech acts. An essay in the philosophy of language</italic>
+               . : Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Searle</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1969</year>
+               <source>Speech acts. An essay in the philosophy of language</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Sellars, W. (2015).
+               <italic>Some reflections on language games</italic>
+               . En Sharp, K., Brandom, R (autor.);In the space of reasons.  (28-56).: Harvard University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sellars</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Some reflections on language games</chapter-title>
+               <year>2015</year>
+               <source>In the space of reasons</source>
+               <publisher-name>Harvard University Press</publisher-name>
+               <fpage>28</fpage>
+               <lpage>56</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Sloman, S., Fernbach, P.,  (2017).
+               <italic>The illusion of reason. Why we never think alone</italic>
+               . : Riverhead
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sloman</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fernbach</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>The illusion of reason. Why we never think alone</source>
+               <publisher-name>Riverhead</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Tarski, A.(1944). "The semantic conception of truth and the foundations of semantics".
+               <italic>Philosophy and Phenomenological Research. 4</italic>
+               (3), 341-376.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tarski</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>1944</year>
+               <article-title>The semantic conception of truth and the foundations of semantics</article-title>
+               <source>Philosophy and Phenomenological Research</source>
+               <volume>4</volume>
+               <issue>3</issue>
+               <fpage>341</fpage>
+               <lpage>376</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Tomasello, M.,  (2000).
+               <italic>The cultural origins of human cognition</italic>
+               . : Harvard University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tomasello</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <source>The cultural origins of human cognition</source>
+               <publisher-name>Harvard University Press</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

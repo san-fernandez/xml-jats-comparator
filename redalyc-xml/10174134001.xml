@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2022000300132</article-id>
+			<article-id pub-id-type="publisher-id">00001</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Las perspectivas del capital social, parte II</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>The perspectives of social capital, part II</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-0279-0408</contrib-id>
+					<name>
+						<surname>González-Heras</surname>
+						<given-names>Alejandro</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				</contrib-group>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Centre d'Estudis Sociològics sobre la Vida Quotidiana i el Treball (QUIT), Universitat Autònoma de Barcelona (Barcelona, Spain) (alejandro.gonzalez.heras@uab.cat)</institution>
+					<institution content-type="normalized">Universitat Autónoma de Barcelona</institution>
+					<institution content-type="orgdiv1">Centre d'Estudis Sociològics sobre la Vida Quotidiana i el Treball (QUIT)</institution>
+					<institution content-type="orgname">Universitat Autònoma de Barcelona</institution>
+					<addr-line>
+						<named-content content-type="city">Barcelona</named-content>
+					</addr-line>
+					<country country="ES">Spain</country>
+					<email>alejandro.gonzalez.heras@uab.cat</email>
+				</aff>
+			<pub-date pub-type="epub-ppub">
+				<month>12</month>
+				<year>2022</year>
+			</pub-date>
+			<issue>75</issue>
+			<fpage>132</fpage>
+			<lpage>144</lpage>
+			<history>
+				<date date-type="received">
+					<day>02</day>
+					<month>10</month>
+					<year>2022</year>
+				</date>
+				<date date-type="accepted">
+					<day>13</day>
+					<month>12</month>
+					<year>2022</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0;/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>This article presents a theoretical discussion of the most accepted forms of social capital in the literature: bonding, bridging, and linking. It studies the relationship between the forms of social capital and Granovetter's strength of weak ties thesis, the principle of homo-heterophilia and Lin's status attainment theory. In addition, an extension of the theoretical model of the forms of social capital is proposed. Considering the relationship between the strength of the tie and the position that the individual occupies in the social structure results in considering not only the hierarchical weak ties (linking), but also the hierarchical strong ties (or hierarchical bonding). </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Resumen</title>
+				<p>Este artículo ofrece una discusión teórica de las formas de capital social más aceptadas en la literatura: bonding, bridging y linking. Estudia la relación de las formas de capital social con la tesis de la fuerza del lazo (Granovetter’s strength of weak ties thesis), con el principio de homo-heterofilia y con la teoría de la consecución del estatus de Lin (Lin’s status attainment theory). Además, se propone una ampliación del modelo teórico de las formas de capital social. Relacionar la fuerza del lazo con la posición que ocupa el individuo en la estructura social tiene como resultado considerar no solo los lazos débiles jerárquicos (linking), sino también los lazos fuertes jerárquicos (o bonding jerárquico). </p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Key words:</title>
+				<kwd>Social networks</kwd>
+				<kwd>social capital</kwd>
+				<kwd>weak ties</kwd>
+				<kwd>bridging</kwd>
+				<kwd>linking</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Palabras clave:</title>
+				<kwd>Redes sociales</kwd>
+				<kwd>capital social</kwd>
+				<kwd>lazos débiles</kwd>
+				<kwd>puentes</kwd>
+				<kwd>linking</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="10"/>
+				<page-count count="13"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Para hablar de las formas del capital social primero hay que definir el capital social, el cual puede rastrearse hasta los clásicos de las ciencias sociales y más allá (Portes. Social capital). Hay diferentes teorías clásicas que se pueden relacionar con la teoría del capital social y, sin embargo, en la literatura se suelen distinguir dos perspectivas del capital social sin hacer referencia a los precursores clásicos. Esa es la razón por la que este texto es la continuación de Las perspectivas del capital social, en donde se analizan los dos modelos teórico-metodológicos del capital social que suele reconocer la literatura. Son la perspectiva individual, también llamada <italic>The network approach,</italic> y la perspectiva comunitaria. La diferencia esencial entre ambas se encuentra en la definición del capital social. La primera considera el capital social un recurso del individuo, mientras que la segunda lo considera un bien público, perteneciente a la colectividad. Estas perspectivas nos servirán para contextualizar las formas de capital social que analizamos en este artículo. </p>
+			<p>Se ha argumentado que las perspectivas del capital social responden a tradiciones teóricas diferentes, y que, por lo tanto, representan modelos independientes entre sí. Es decir, las perspectivas del capital social no son ni opuestas, ni complementarias, en la medida en que conceptualizan el capital social de manera diferente. Además, aunque la perspectiva individual suele relacionarse con el nivel micro y la perspectiva comunitaria con los niveles meso y macro, bien podrían ambas perspectivas aproximarse a cualquiera de los niveles. Dichos niveles tendrían más que ver con la aproximación metodológica que con la perspectiva teórica. </p>
+			<p>Para la perspectiva individual, el capital social hace énfasis en los recursos sociales encastrados en la red social y cómo el individuo puede acumular y movilizar dichos recursos. Para la comunitaria, el capital social está formado por la red social, las normas y la confianza. Lo anterior se debe, en parte, a que las diferentes tradiciones teóricas de las que provienen los autores sobre los que se fundamentan ambas perspectivas implican una gran diferencia. Ahora bien, un punto de encuentro entre ambas perspectivas es la consideración de la fuerza del lazo y de las diferencias de estatus o de poder para desarrollar los lazos fuertes, débiles, jerárquicos y los tipos de capital social <italic>bonding, bridging</italic> y <italic>linking.</italic></p>
+			<p>Considerando la ambigüedad con la que estos conceptos tienden a ser utilizados en la literatura, el objetivo de este artículo es clarificar y delimitar teóricamente las formas de capital social más aceptadas en la literatura científica: <italic>bonding</italic>, <italic>bridging</italic> y <italic>linking</italic>. Para ello, este texto da cuenta del origen de estos conceptos y de su relación con: (i) la fuerza del lazo (Granovetter’s <italic>strength of tie thesis</italic>), (ii) la homofilia y heterofilia y (iii) el estatus o jerarquía de la relación (<italic>Status attainment.</italic> Lin<italic>’s strength of position proposition</italic>). Después, se amplía el estudio de los lazos jerárquicos más allá del <italic>linking</italic> (que, siendo un subtipo de <italic>bridging</italic>, se centra en los lazos débiles), aportando un marco teórico para considerar los lazos fuertes jerárquicos desde la teoría del capital social.</p>
+		</sec>
+		<sec>
+			<title>Formas de capital social</title>
+			<p>Serán Gittell y Vidal (Community organizing) quienes formalmente acuñan los conceptos de <italic>bonding</italic> y <italic>bridging</italic> desde la perspectiva comunitaria, aunque lo hacen citando a Putnam. Parafraseando a Gittell y Vidal, <italic>bonding</italic> es el tipo de capital social que hace que se acerquen más aquellos que ya se conocen y <italic>bridging</italic> es el que hace que se acerquen aquellos (individuos o grupos) que previamente no se conocían. </p>
+			<p>Con relación al significado y uso de estos conceptos, Lozares et al. (El análisis de la cohesión, vinculación e integración sociales) proponen utilizar estos términos en inglés, dándoles una interpretación formal. Dichos autores advierten de la ambigüedad que puede resultar de la traducción de los términos <italic>bonding</italic>, <italic>bridging</italic> y <italic>linking</italic>. Efectivamente, todos ellos tienen traducciones como lazo, vínculo o relación, pero denotan diferentes cualidades. Son diferentes términos para significar las conexiones (de diferente naturaleza) que los individuos establecen entre sí y las redes de relaciones que forman. No obstante, aunque utilizaremos los términos en inglés, en los siguientes párrafos vamos a analizar brevemente los términos <italic>bonding, bridging</italic> y <italic>linking</italic> en inglés y en castellano.</p>
+			<p>Por una parte, <italic>bonding</italic> viene del verbo inglés <italic>to bond</italic>, que significa “hacer una conexión”. Parte de la connotación que nos interesa se puede encontrar en la perífrasis verbal <italic>to bond with someone</italic>, que significa “hacer una conexión cercana o relación fuerte con alguien” (conectar viene del inglés <italic>connect</italic> que viene del latín <italic>connectere</italic>, donde “nectare” es anudar o enlazar). Dos personas que son <italic>como uña y carne</italic> son dos personas muy <italic>unidas</italic> (expresión latina que da fe de una alta proximidad afectiva entre dos individuos), que han hecho literalmente <italic>bonding</italic>. Hasta donde llega el conocimiento del autor, en castellano la traducción literal del verbo <italic>to bond</italic> se utiliza, al menos para referirse a individuos, como un participio o adjetivo. Es decir, se puede leer “María y Juan están muy unidos”, pero no “se están uniendo”, mientras que en inglés sí se puede decir <italic>Mary and John are bonding.</italic> No existe en castellano la perífrasis verbal <italic>to bond with someone</italic> como tal, sino <italic>bonding</italic> como participio o adjetivo. De este modo, se puede leer “el equipo está muy unido”, mientras que en inglés sería <italic>the team has bonded really well. Bonding</italic>, por tanto, tiene difícil traducción al castellano, pero podríamos traducirlo como <italic>una relación cercana</italic>. De nuevo, hasta donde llega el conocimiento del autor, la única traducción de la perífrasis verbal <italic>to bond with someone</italic> que siga funcionando de una forma similar en castellano (al menos en España) es la locución verbal coloquial “hacer migas”. “Hacer migas con alguien” es una expresión informal que da fe de que dos personas están formando (<italic>bonding</italic>) una relación cercana. De esta forma, se podría leer “María y Juan están haciendo migas” o “María y Juan han hecho buenas migas”. Como veremos más adelante, esto tiene una fuerte relación con el argumento principal del capital social <italic>bonding</italic>, pues se tiende a definir (aunque no siempre) la fuerza del lazo en su dimensión expresiva (proximidad afectiva, cercanía, simpatía, reciprocidad…).</p>
+			<p>Por otra parte, con relación a <italic>bridging</italic>, nótese que es una noción que ya se había utilizado previamente, pudiéndose rastrear (como veremos en el siguiente epígrafe) hasta el trabajo de Granovetter sobre la fuerza de los lazos débiles y la teoría matemática de grafos. <italic>Bridging</italic> es, en esencia, una metáfora horizontal, que se puede traducir como “hacer de puente”. Granovetter coge el concepto <italic>bridge</italic> de la teoría de grafos y lo define como “una línea en un sistema que proporciona el único camino entre dos puntos” (<xref ref-type="bibr" rid="B3">Granovetter, 1973:1364</xref>). Tanto en inglés (<italic>bridging</italic>), como en castellano (hacer de puente), se tiende a utilizar como sustantivo. <italic>Bridge</italic>, es decir, “puente”, en el sentido en el que abre una ruta hacia un recurso social potencialmente útil. </p>
+			<p>Así pues, los términos <italic>bonding</italic> y <italic>bridging</italic> hacen referencia, respectivamente, a una expresión (<italic>to bond with someone</italic>) y a una metáfora (puente) que representan las connotaciones teóricas que se atribuyen a <italic>bonding</italic> y <italic>bridging</italic> como conceptos. Por último, <italic>linking</italic> significa “enlace”, “vinculación”, “conexión” o “nexo”, que proviene del verbo <italic>to link</italic>: “enlazar”, “vincular”, “conectar”, “unir”. No hay, hasta donde llega el conocimiento del autor, un significado o connotaciones claras que lo relacionen con la connotación teórica que se le dará como concepto (connotación de relación vertical).</p>
+		</sec>
+		<sec>
+			<title>La fuerza del lazo</title>
+			<p>Granovetter, en esencia, introdujo una definición intuitiva sobre la fuerza del lazo entendida como la combinación entre cantidad de tiempo, intensidad emocional, reciprocidad y confianza. Y dio especial importancia a los lazos débiles, de ahí su tesis sobre la fuerza de los lazos débiles (The strength of weak ties thesis), que relaciona con la posibilidad de conseguir nuevas oportunidades o informaciones (argumento en el que se apoyaría después la perspectiva individual) o con la cohesión social (argumento en que se apoyaría después la perspectiva comunitaria). El modelo teórico más simple para definir un lazo fuerte y un lazo débil serían, respectivamente, los roles sociales de ‘amigo’ y de ‘conocido’. Para Granovetter, los lazos débiles conectan individuos entre grupos con mayor probabilidad que los lazos fuertes, dado que los lazos débiles tienen más probabilidades de actuar como puentes (<italic>bridges</italic>). Lo anterior está relacionado con la densidad de la red: teóricamente están asociados los lazos fuertes con las redes densas, y viceversa. Téngase en consideración que Granovetter presupone que: (i) todos los lazos son positivos y que (ii) todos los lazos son simétricos; lo que tiene como resultado lazos fuertes, débiles y ‘ausentes’ (de los que no se ha hablado tanto en la literatura, y que serían los lazos que carecen de significado sustantivo). Posteriormente se acuñan los términos <italic>bonding</italic> y <italic>bridging</italic> para describir los tipos de capital social, ambos horizontales (lazos simétricos) (Gittell y Vidal. Community organizing), influidos, entre otros, por Putnam, por la noción de lazos fuertes y débiles de Granovetter (ambos simétricos) y por los agujeros estructurales de Burt. </p>
+			<p>Las definiciones de <italic>bonding</italic> y <italic>bridging</italic> de Gittell y Vidal no van más allá de lo que se ha citado anteriormente. Poco después, aparecen en la literatura conceptualizaciones de estos términos que refieren a la fuerza del lazo (sin definirla). La contextualizan según los tipos de relaciones (si son familiares, amigos, vecinos) y vinculándola a la homofilia y heterofilia (si comparten características sociodemográficas o no) (World Development Report 2000/2001, Szreter y Woolcock. Health by association?, Putnam. Bowling alone; Commentary: ‘health by association’): “The strong ties connecting family members, neighbors, close friends, and business associates can be called <italic>bonding social capital</italic>. These ties connect people who share similar demographic characteristics. The weak ties connecting individuals from different ethnic and occupational backgrounds can be referred to as <italic>bridging social capital</italic> […] Bridging social capital implies horizontal connections to people with broadly comparable economic status and political power” (World Bank, 2000:128, cursiva original).</p>
+			<p>Como vemos en la cita anterior, <italic>bonding</italic> y <italic>bridging</italic> refieren, respectivamente, a lazos fuertes y débiles, contextualizándolos según el tipo de relación y según la homofilia o heterofilia. Paralelamente, y de manera similar, Lin también propuso considerar el contexto del lazo para operacionalizar su fuerza: “Strength of ties may be measured either with a perceived strength (e.g., intimacy of relationship) or a role category (e.g., kin, friends, and acquaintances)” (<xref ref-type="bibr" rid="B4">Lin, 1999:472</xref>). De esta forma, en ambas perspectivas se está trabajando sobre los lazos fuertes y débiles, contextualizados según el tipo de relación, con una diferencia importante: en perspectiva comunitaria (<xref ref-type="bibr" rid="B10">World Bank, 2000</xref>) se incluye en la definición la homofilia, asumiendo que <italic>bonding</italic> y <italic>bridging</italic> implican relaciones homófilas y heterófilas, respectivamente. Como veremos más adelante, las revisiones que se han hecho sobre la fuerza del lazo sugieren que el indicador más apropiado para aproximarse a la fuerza del lazo es la proximidad afectiva. De la relación entre la fuerza del lazo y el principio de homofilia se da cuenta en el siguiente epígrafe.</p>
+			<p>Es destacable que la tesis de la fuerza de los lazos débiles ha sido intensamente revisada, utilizada y citada (Granovetter. The strength of weak ties: a network theory revisited, Marsden y Campbell. Measuring tie strength; Reflections on conceptualizing and measuring tie strength, Cruz y Verd. Densidad, clase social y apoyo expresivo; La fuerza de los lazos), dando cuenta de la ambigüedad con la que este concepto ha sido tratado y de la dificultad de su medición. Dichas revisiones concluyen que el indicador más apropiado para aproximarse a la fuerza del lazo es la proximidad afectiva, especialmente útil para caracterizar los lazos fuertes, pues los lazos débiles no son los únicos lazos carentes de carga emocional, pudiéndose así confundir con lazos ausentes, superficiales (“lazos demasiado débiles”) o incluso lazos negativos.</p>
+			<p>Por otra parte, analizamos a continuación la relación que hay entre la fuerza del lazo y los puentes (<italic>bridging</italic>). Es Granovetter quien definió ambos, tanto la fuerza del lazo (aunque de manera intuitiva) como lo que representa <italic>bridging</italic>: coge el concepto de <italic>bridge</italic> de la teoría de grafos (cita a Harary, Norman y Cartwright. Structural models) para definir el ‘puente’ (“a line in a network which provides the only path between two points”). Y donde Harary et al. dijeron “No strong digraph has a bridge”, Granovetter interpretará “except under unlikely conditions, no strong tie is a bridge”. Esto significa que no necesariamente todos los lazos débiles hacen de puentes. Por lo tanto, Granovetter diferencia entre <italic>nonbridging weak ties</italic> y <italic>bridging weak ties</italic>, distinción que no se suele apreciar en la literatura (los lazos débiles y los puentes se suelen utilizar como términos intercambiables). De esta manera, posiblemente se pueda atribuir a él la fama en la literatura del concepto <italic>bridging</italic>, aunque él hable más de bridges (‘puentes’ como sustantivo) que de <italic>bridging</italic> (como función o adjetivo). Como señalan algunos autores en perspectiva comunitaria: “Granovetter illustrated the power of weak ties long before the term ‘bridging’ social capital was coined” (<xref ref-type="bibr" rid="B8">Ostrom y Ahn, 2009</xref>:24). Es interesante observar que estos autores sostienen, por lo que se deduce de la cita anterior, que el término ‘capital social <italic>bridging</italic>’ no lo acuñó Granovetter, aunque Granovetter fue quien introdujo el concepto de <italic>bridge</italic> (importándolo de la teoría de grafos) y de <italic>bridging</italic> (aunque como sustantivo). Ciertamente, es la perspectiva comunitaria quien introduce el <italic>bridging</italic> como un tipo de capital social (he ahí el término <italic>bridging social capital</italic>), acuñado como tal en perspectiva comunitaria<italic>.</italic> Esta cuestión nos lleva a plantearnos hasta qué punto son intercambiables y equivalentes los tipos de capital social (e.g., capital social <italic>bonding</italic>) y los tipos de lazos (e.g., lazos fuertes).</p>
+			<p>Es frecuente encontrar en la literatura una asociación directa entre capital social <italic>bonding</italic> y lazos fuertes; y entre capital social <italic>bridging</italic> y lazos débiles. Es importante subrayar que si aceptamos (en aras de la simplificación) como equivalentes e intercambiables estos pares de términos, es solo considerando las perspectivas teórico-metodológicas que les dan forma. Los lazos fuertes y débiles hacen referencia a tipos de relaciones sociales que los individuos tienen entre sí y que dan (potencialmente) acceso a los recursos sociales encastrados en la red social. En esta línea de acceso y movilización de recursos suelen ir las definiciones de capital social en perspectiva individual, también llamada perspectiva reticular (<italic>The network approach</italic>). <italic>Bonding</italic> y <italic>bridging,</italic> por otra parte, hacen referencia al tipo de capital social que tienen los individuos o los colectivos, entendiendo que en perspectiva comunitaria se considera que el capital social <italic>es</italic> la red social (además de las normas sociales y la confianza). De la misma forma, harían referencia a relaciones sociales fuertes y débiles contextualizadas, según se ve en la definición clásica que hemos citado anteriormente. Siguiendo la analogía de Szreter y Woolcock (Health by association?), en perspectiva comunitaria el capital social son <italic>los cables</italic>, mientras que en perspectiva individual el capital social es <italic>la electricidad.</italic> Dado que podemos encontrar el uso de cualquiera de estos términos en ambas perspectivas de la teoría del capital social, es más importante identificar la perspectiva del capital social que el uso de unos términos u otros, pues será la perspectiva la que dote de significado (teórico-metodológico) a dichos términos. No obstante, siendo estrictos, los tipos de lazos sociales (e.g., un lazo fuerte) hacen referencia a la perspectiva reticular, en la que los actores (nodos) de una red posibilitan el acceso a los recursos encastrados en ésta, mientras que, en perspectiva comunitaria, un determinado tipo de capital social (e.g., capital social <italic>bonding</italic>) hace referencia al recurso que es en sí mismo la red social (sin distinguir la red de los recursos que tiene encastrados o de otras cuestiones como la confianza y las normas sociales).</p>
+		</sec>
+		<sec>
+			<title>Los principios de homofilia y heterofilia</title>
+			<p>Una aproximación frecuente y posible a la fuerza del lazo es a través de “la distancia social”. Se parte de la premisa de que “los lazos fuertes conectan a gente socialmente homogénea, y los débiles a gente socialmente heterogénea” (<xref ref-type="bibr" rid="B2">Cruz y Verd, 2013</xref>:157). Dicha premisa se fundamenta sobre el principio de homofilia (Lin. Social capital, McPherson et al. Birds of a feather) que, entendida en términos de estatus social, asocia, respectivamente, lazos fuertes y débiles con relaciones homófilas y heterófilas, que dan acceso al individuo a recursos sociales potencialmente diferentes. Se entiende que, basándose en una forma de homofilia de estatus social, “un lazo débil sería aquel que, por sus características socio-demográficas, ocupa una posición jerárquicamente diferente dentro de la estructura social” (Cruz y Verd, 2013:157).</p>
+			<p>Ahora bien, “muchas otras formas de homofilia serían concebibles, de hecho, tantas como características fueran atribuibles a una persona” (<xref ref-type="bibr" rid="B2">Cruz y Verd, 2013</xref>:158). He aquí otra diferencia entre ambas perspectivas del capital social: la perspectiva comunitaria define las formas de capital social relacionando el capital social <italic>bonding</italic> y <italic>bridging</italic> con características <italic>sociodemográficas</italic> homófilas y heterófilas, respectivamente. Lo cual ha llevado a estudiar el capital social <italic>bonding</italic> y <italic>bridging</italic> con muy diferentes formas de homo-heterofilia.</p>
+			<p>Es interesante plantearse: ¿qué es más importante, la homo-heterofilia o el estatus social? La literatura ha estudiado la relación entre la heterofilia en términos de etnia y de sexo con el uso de contactos sociales (Son y Lin. Network diversity, contact diversity, and status attainment, Obukhova. Motivation vs. relevance, Trimble. Ask and you shall receive), y se reporta un mayor beneficio para dichas relaciones heterófilas. Pero también se subraya que dicha ventaja competitiva solo funciona para aquellos individuos peor posicionados en la estructura social, no reportando las relaciones heterófilas ninguna ventaja a quienes ya ocupaban una posición social más alta. Lo anterior sugiere que es la posición que ocupa el contacto en la estructura social lo que reporta una ventaja competitiva en el acceso y movilización del capital social. De esta forma, las relaciones heterófilas en términos de etnia y sexo reportarían un mejor capital social a través de la intermediación del estatus social, pero específicamente para aquel sexo o etnia peor posicionado en la estructura social. </p>
+			<p>Estos argumentos entroncan precisamente con las teorías del estatus de Lin, que lo expresa de la siguiente forma: “The heterophily principle may be ineffective if the positions reached are horizontal or lower in the structure relative to the person's initial status. We may call the tendency to contact positions at higher status levels in the structure the prestige principle. It is the prestige principle, then, rather than the heterophily principle, that ought to operate if job seekers wish to maximize their chances of finding contacts who are sources of job information and influence. It is here that the linkage between the strength of ties and social resources occurs. If we assume that social resources, and hence job information and influence, increase at higher levels of the hierarchical structure, then an individual can most easily reach upward in a structure if he or she uses weak ties” (<xref ref-type="bibr" rid="B6">Lin et al., 1981:396</xref>).</p>
+			<p>Para Lin, el estatus es importante <italic>siempre</italic>, con independencia de la fuerza del lazo. La cuestión radica en que la hipótesis sobre la fuerza del lazo es diferente en función de la posición de partida del actor en términos de estatus o, lo que es lo mismo, en función de la posición de partida del actor en la estructura social. Si la posición de partida es baja, la fuerza de los lazos débiles radica en aumentar las probabilidades de establecer un puente con alguien que ocupe una posición superior en la estructura social (lo que ofrece mejores recursos sociales). En ese sentido y para ese contexto, <italic>bridging</italic> sería más importante para el individuo. Si por el contrario la posición de partida del individuo es alta en la estructura social, son más importantes los lazos fuertes, dado que, según Lin “en las posiciones sociales más altas deberíamos encontrar que los lazos fuertes son más importantes, en tanto que los débiles sencillamente aumentan las probabilidades de conectar con una posición inferior en la estructura social” (Lin et al., 1981:398).</p>
+			<p>Se concluye que la fuerza del lazo y la posición del individuo en la estructura social tienen una relación con el principio de homofilia, pero sería un error identificar la fuerza del lazo (lazos fuertes y débiles, o <italic>bonding</italic> y <italic>bridging</italic>) con el principio de homofilia, es decir, con relaciones homófilas y heterófilas, respectivamente. Además, como veíamos en el epígrafe anterior, las múltiples revisiones sobre las aproximaciones empíricas a la fuerza del lazo concluyen que el mejor indicador para aproximarse a la fuerza del lazo es la proximidad afectiva, siendo problemáticos los indicadores relativos a la densidad de la red o al principio de homofilia. Siguiendo esta lógica, las características de la red (e.g., la densidad) o el principio de homofilia serían <italic>predictores</italic> de la fuerza del lazo, mientras que la proximidad afectiva sería un <italic>indicador</italic> de la fuerza del lazo. </p>
+			<p>Dicho de otra forma, al considerar como <italic>bonding</italic> los lazos fuertes y homófilos, se están ignorando las relaciones de confianza, proximidad afectiva alta, reciprocidad, etc. (lazos fuertes) entre gente de diferente sexo, religión, origen social, etnia, etc. (relaciones heterófilas). Así, siguiendo el principio de homofilia, las relaciones más típicas o que ocurran con mayor probabilidad serán, por un lado, las relaciones fuertes y homófilas y, por otro lado, las relaciones débiles y heterófilas. Pero las relaciones fuertes y heterófilas pueden existir (aunque en menor proporción que las relaciones fuertes y homófilas). De igual modo pueden encontrarse lazos débiles y homófilos. Esta distinción es especialmente importante si considerásemos los múltiples tipos de homofilia que pueden considerarse.</p>
+		</sec>
+		<sec>
+			<title>El propósito de la acción</title>
+			<p>Al desarrollar la teoría de los recursos sociales, Lin define su primera hipótesis de la siguiente forma: “Access to and use of better social resources leads to more succesful outcomes” (<xref ref-type="bibr" rid="B5">Lin 2001:60</xref>). Ya sean individuos o colectivos, Lin interpreta que la acción está guiada por dos motivaciones principales: para mantener los recursos existentes (acción expresiva) o para adquirir nuevos recursos (acción instrumental). </p>
+			<p>Por otra parte, hay dos expresiones recurrentes en la literatura que están asociadas a <italic>bonding</italic> y a <italic>bridging.</italic> Son las expresiones anglosajonas <italic>to get by</italic> y <italic>to get ahead.</italic> Expresiones originales de Briggs (Brown kids in white suburbs) de las que Gittell y Vidal (Community organizing) y Putnam (Bowling alone) se hicieron eco y, como argumentaremos a continuación, distorsionaron (al vincularlo con un contexto particular) el significado de <italic>bonding</italic> y <italic>bridging</italic>.</p>
+			<p><italic>Getting by</italic> sería subsistir o “arreglárselas”, mientras que, por otra parte, <italic>getting ahead</italic> da a entender que sales adelante, que progresas o mejoras tu situación. Briggs lo define de la siguiente manera: “Individuals of all backgrounds need a two-sided treasure chest of social capital: access to social support that helps us cope with life’s stresses and challenges (‘get by’) and access to social leverage, the key to mobility or ‘getting ahead’” (<xref ref-type="bibr" rid="B1">Briggs, 1998:205</xref>).</p>
+			<p>Analizamos a continuación las expresiones <italic>getting by</italic> y <italic>getting ahead</italic> con relación <italic>al propósito de la acción</italic> de Lin. Como decíamos, Briggs relaciona el apoyo social con la noción de subsistir; y la noción de salir adelante, progresar, con lo que llama “ventaja social”, <italic>social leverage</italic>, es decir, una ventaja competitiva. Según Lin, los contactos sociales de un individuo, por el principio de homofilia (A network theory of social capital), tendrán una cantidad de recursos sociales similares a dicho individuo. Por tanto, puede suceder que los recursos accesibles para un individuo en su entorno más próximo (lazos fuertes, tipo <italic>bonding</italic>) sean suficientes (o no) para realizar una acción determinada, ya sea ésta expresiva (de mantenimiento) o instrumental (de adquirir nuevos o más recursos). </p>
+			<p>La perspectiva comunitaria relaciona <italic>getting by</italic> con <italic>bonding</italic> y <italic>getting ahead</italic> con <italic>bridging</italic>, desde que Gittell y Vidal, y Putnam, se hicieran eco de estas expresiones e hicieran famosa esta asociación, asociando así una consecuencia (la utilidad potencial del capital social) a la definición de los tipos de capital social<italic>.</italic> No obstante, si un grupo de individuos, como es el caso que estudia Briggs, tiene un entorno con una cantidad o calidad de recursos sociales insuficientes para alcanzar un propósito determinado, entonces se puede argumentar que <italic>bridging</italic> es útil para <italic>salir adelante</italic> (posibilita al individuo acceder a mejores recursos). De esta forma, como argumenta Briggs, lo anterior funciona como una ventaja competitiva (<italic>social leverage</italic>), lo que resulta “clave para la movilidad” (Briggs, 1998:206). Entenderíamos en este caso que una acción instrumental (adquirir nuevos recursos) se puede asociar con la noción de salir adelante de Briggs, quien lo define, en su contexto, como información sobre oportunidades de empleo o intermediación en forma de recomendación para conseguir un préstamo o beca escolar. La razón es que, si la capa de relaciones sociales más próxima a uno no tiene recursos sociales suficientes para lograr una acción determinada, el individuo deberá buscar los recursos necesarios para alcanzar su propósito en capas de relaciones más lejanas, lo que implica el uso de <italic>bridges</italic>.</p>
+			<p>De igual modo, la perspectiva comunitaria relaciona la noción de <italic>subsistir</italic> (<italic>getting by</italic>) con <italic>bonding</italic>. Briggs relacionó la noción de subsistir con <italic>social support</italic>, que define como un tipo de capital social básico para todos los individuos, pero esencial para los crónicamente pobres, ya que sustituye “cosas que de otra forma el dinero compraría” (Briggs, 1998:178). </p>
+			<p>Si la movilización del capital social tiene por efecto <italic>salir adelante</italic> o <italic>subsistir</italic>, es un efecto del capital social que depende del contexto y posición sociales que ocupa el individuo, y no del tipo de capital social utilizado. De este modo, si un individuo se encuentra en una red social rica en recursos sociales encastrados de calidad alta, no necesitará utilizar capital social <italic>bridging</italic> para alcanzar un propósito determinado, pues su red de relaciones más cercana ya tiene recursos suficientes para ello (Lin. Social resources and strength of ties; Social capital). Se concluye, por tanto, que <italic>bonding</italic> puede potencialmente tener ambos efectos: tanto subsistir o mantenerse, como salir adelante o mejorar la posición social. Por otra parte, puede suceder que <italic>bridging</italic> sea potencialmente más útil, pero considerando el contexto: <italic>bridging</italic> es especialmente útil cuando la posición que ocupa el actor en la estructura social es baja, no habiendo diferencias en términos de utilidad entre <italic>bonding</italic> y <italic>bridging</italic> cuando la posición que se ocupa en la estructura social es alta. Como argumentan Cruz y Verd, “la tesis sobre la fuerza de los lazos débiles sugiere que este tipo de contactos suponen una buena aproximación a los bridges o puentes en una red, ya que las personas con quienes tenemos una relación menos cercana suelen pertenecer a círculos socialmente distintos de los que frecuentamos en nuestras relaciones cotidianas, y consecuentemente, disponen de informaciones distintas y nuevas en relación <italic>con las que maneja nuestro entorno</italic>, lo que puede suponer una ventaja comparativa” (Cruz y Verd, 2013:152, cursiva añadida). </p>
+			<p>Por último, hay que distinguir entre la intención con la que los actores de una red movilizan los contactos (propósito de la acción) con la capacidad que tiene la red para conectar a sus actores (nodos) entre sí, sin entrar en si dicha capacidad es beneficiosa o perniciosa para el individuo o la colectividad. O, dicho de otra forma, los lazos débiles “facilitate the interpersonal dissemination of novel phenomena, be those useful information or harmful diseases” (<xref ref-type="bibr" rid="B7">Marsden y Campbell, 2012</xref>:17). </p>
+		</sec>
+		<sec>
+			<title><bold>El capital social <italic>linking</italic> y los lazos jerárquicos</bold></title>
+			<p>Para definir la fuerza del lazo y considerar los lazos fuertes y débiles, Granovetter partió de la premisa de que todos los lazos son positivos y simétricos, aunque, según él, un estudio comprehensivo de la fuerza del lazo debería también considerar los lazos negativos, asimétricos y “ausentes” (carentes de significado substantivo). De hecho, al terminar su modelo teórico de la fuerza del lazo y considerar sus limitaciones, se pregunta: ¿cuál es la relación entre la fuerza del lazo y la estructura jerárquica? Lin, junto con otros autores o autoras, recoge el testigo de Granovetter para estudiar la relación entre la fuerza del lazo y la posición que ocupan los individuos en la estructura social. En suma, Lin y compañía parten de la premisa de que los individuos mejor posicionados tienen acceso a mejores recursos sociales. De esta forma, la utilidad del lazo en función de si éste es fuerte o débil, u homófilo o heterófilo, dependerá de la posición de partida del individuo. Para quienes parten de una posición social baja, los lazos débiles aumentan las probabilidades de establecer una conexión (<italic>bridge</italic>) con individuos que ocupan una mejor posición social. De la misma forma, para quienes parten de una posición alta en la estructura social serán más importantes los lazos fuertes, pues los lazos débiles aumentan las probabilidades de establecer contacto con individuos peor posicionados en la estructura social (precisamente por el principio de homofilia). Estas aportaciones contextualizan la fuerza del lazo, considerando el estatus de los individuos y ha dado pie a hablar en perspectiva individual de “hierarchical relations” (Fu et al. Upward contacts in everyday life) o de “hierarchical bridging” (Bian y Huang. Network resources and job mobility in China's transitional economy), refiriéndose a relaciones con personas que ocupan una mejor posición en la estructura social.</p>
+			<p>El capital social <italic>linking</italic> es un concepto posterior que se acuña como un subtipo de <italic>bridging</italic> (Szreter y Woolcock. Health by association?, Putnam. Commentary: ‘Health by association’) para distinguir, desde la perspectiva comunitaria, las relaciones asimétricas, es decir, relaciones en las que interviene una diferencia de estatus o poder. Así, la introducción del componente jerárquico nos permite distinguir entre capital social horizontal (<italic>bonding</italic> y <italic>bridging</italic>) y vertical (<italic>linking</italic>). Este concepto fue acuñado e introducido en la perspectiva comunitaria por los académicos del World Bank (World Bank, 2000, capítulo 7), destacando Michael Woolcock: “A third dimension, <italic>linking social capital</italic>, consists of the vertical ties between poor people and people in positions of influence in formal organizations (banks, agricultural extension offices, the police)” (World Bank 2000:128).</p>
+			<p>Y es en Woolcock donde introduce (en solitario) el concepto de <italic>linking.</italic> A la definición que dio en el informe del World Bank, introduce el matiz de “leverage”, un matiz que ya estaba en Briggs, y que después se asociaría con la noción de salir adelante y con <italic>bridging</italic>: “<italic>The capacity to leverage resources</italic>, ideas and information from formal institutions beyond the community is a key function of linking social capital” (<xref ref-type="bibr" rid="B9">Woolcock 2001:72</xref>, cursiva añadida).</p>
+			<p>Ahora bien, dado que <italic>linking</italic> se define como un subtipo de <italic>bridging</italic>, podría ser el equivalente de lo que en perspectiva individual se llama <italic>bridging jerárquico,</italic> salvando un pequeño matiz: The World Bank explicita que son relaciones verticales entre “poor people” y gente “en posiciones de influencia”, aunque la literatura también suele definir <italic>linking</italic> como relaciones verticales, sin considerar cuál es la posición de partida del individuo o colectivo<italic>. Linking</italic> o <italic>bridging</italic> jerárquico explicita la interacción entre la fuerza de los lazos débiles y el estatus o posición social de los individuos. Si el individuo parte de una posición social baja, el <italic>linking</italic> o <italic>bridging</italic> jerárquico puede representar el efecto multiplicador de la fuerza de los lazos débiles por la posición social que ocupan los individuos. La ventaja competitiva (<italic>social leverage</italic>) de los lazos débiles se potencia según la posición en la estructura social, asumiendo un escenario en que los recursos están desigualmente repartidos. Por un lado, se espera que los lazos débiles permitan acceder a recursos sociales que sean nuevos y no redundantes (e.g., información). Por otro lado, se espera que estos recursos sean de mejor calidad que los que tiene nuestro entorno, especialmente si se trata de un lazo débil que ocupa una posición social superior (<italic>linking</italic> o <italic>bridging</italic> jerárquico).</p>
+			<p>Que <italic>linking</italic> sea un subtipo de <italic>bridging</italic> hace referencia a que los lazos débiles no necesariamente son jerárquicos, sino que también los hay horizontales. En este sentido, la diferencia entre <italic>linking</italic> y <italic>bridging</italic> es que ya no estamos ante la metáfora horizontal del puente, sino ante una metáfora vertical en la que el lazo es doblemente importante (especialmente para los individuos peor posicionados en la estructura social): por ser débil y por ser jerárquico. La fuerza de la palanca propia del <italic>bridging</italic> se convierte en una catapulta en la medida en que, como demuestran los trabajos empíricos de Lin (entre otros), la posición social que ocupan los individuos es de suma importancia. En otras palabras, no se trata solo de tener contactos, sino de tener <italic>buenos contactos</italic>. Dichos <italic>buenos contactos</italic> serán, en términos de probabilidad, lazos fuertes para quienes ocupan una mejor posición en la estructura social y débiles para quien ocupan una posición peor.</p>
+			<p>Así como con los pares de conceptos <italic>bonding</italic>, <italic>bridging</italic>, lazos fuertes y lazos débiles, la diferencia del término <italic>linking</italic> en una perspectiva del capital social (u otra) no reside tanto en la conceptualización de <italic>linking</italic> (que es un <italic>bridging</italic> jerárquico), sino en la concepción del capital social en sí mismo como recurso individual (lazo jerárquico) o como característica de un colectivo (capital social <italic>linking</italic>). Además, el uso del concepto capital social <italic>linking</italic> en la literatura de la teoría del capital social en perspectiva comunitaria parece estar más relacionado con los niveles meso y macro sociológicos (aunque también hay algún uso y definición a nivel micro), mientras que, en perspectiva individual, la consideración de las relaciones jerárquicas suele realizarse a nivel micro. Por último, será, de nuevo, la perspectiva teórico-metodológica la que dote de significado a estos términos, ya los llamemos “linking social capital” o “relaciones jerárquicas”. </p>
+			<p>Considerar la relación entre la fuerza del lazo y el estatus social abre la puerta a una cuarta categoría, poco o nada explorada en la literatura. Ampliando la lógica anterior, como resultado de la relación entre la fuerza del lazo y el estatus, se abre una cuarta posibilidad que resulta de considerar también los lazos fuertes y jerárquicos. De este modo, se da pie a una clasificación de las formas de capital social más completa, que distingue los lazos jerárquicos fuertes de los débiles. Las cuatro posibilidades serían: <italic>bonding</italic> horizontal o lazos fuertes horizontales, <italic>bonding</italic> jerárquico o lazos fuertes jerárquicos, <italic>bridging</italic> horizontal y <italic>bridging</italic> jerárquico o <italic>linking</italic>. </p>
+		</sec>
+		<sec sec-type="conclusions|discussion">
+			<title>Conclusiones y discusión</title>
+			<p>Este artículo ha revisado desde un punto de vista teórico y epistemológico los conceptos de <italic>bonding</italic>, <italic>bridging</italic> y <italic>linking</italic>. Rastreando sus orígenes y analizando sus conceptualizaciones se explica la relación que tienen con la tesis de la fuerza de los lazos débiles de Granovetter, con la teoría de la consecución del estatus de Lin y con el principio de homofilia. Además, se ofrece una propuesta teórica para considerar los lazos fuertes y jerárquicos.</p>
+			<p>El capital social <italic>bonding</italic> y <italic>bridging</italic> se definen a través de lazos fuertes y débiles contextualizados según el tipo de relación (familia, amigos, conocidos). Según varias revisiones de la literatura, el indicador más apropiado para aproximarse a la fuerza del lazo sería la proximidad afectiva, especialmente útil para caracterizar los lazos fuertes, pues los lazos débiles no son los únicos lazos carentes de carga emocional, pudiéndose así confundir con lazos ausentes, superficiales (“lazos demasiado débiles”) o incluso lazos negativos. Además, se ha argumentado que una de las limitaciones de considerar el principio de homofilia como indicador de los tipos de capital social es ignorar aquellos casos (que se dan en menor proporción, precisamente por el principio de homofilia) en que se da <italic>bridging</italic> homófilo y <italic>bonding</italic> heterófilo. Es decir, se asumiría que los lazos fuertes son <italic>necesariamente</italic> homófilos y viceversa, lo cual es problemático desde el punto de vista teórico y empírico, cuando se identifican relaciones fuertes heterófilas y relaciones débiles homófilas.</p>
+			<p>En relación con las relaciones jerárquicas o diferencia de estatus, son especialmente interesantes los aportes teóricos y empíricos que desarrolla Lin (entre otros autores y autoras) que contextualizan la importancia de la fuerza del lazo y la consecución de estatus según la posición que ocupan los individuos en la estructura social. Granovetter propuso una definición de la fuerza del lazo asumiendo que los lazos son simétricos y positivos, y el aporte de Lin implica un avance al relacionar la fuerza del lazo con la posición que ocupan los individuos en la estructura social. De esta forma, que las relaciones jerárquicas sean más importantes depende de la posición de partida del individuo: por un lado, asumiendo una posición de partida baja en la estructura social, estas relaciones ofrecen una conexión con un individuo mejor posicionado en la estructura social; mientras que, por otro lado, asumiendo una posición de partida alta en la estructura social, serán más importantes los lazos fuertes, dado que los lazos débiles aumentan las probabilidades de conectar con alguien peor posicionado en la estructura social. Así, para Lin, el estatus del actor es importante siempre, ocupando los lazos fuertes y débiles un rol diferente en función de la posición de partida del individuo en la estructura social.</p>
+			<p>Respecto al capital social <italic>linking</italic>, el artículo lo ha situado en relación con las otras dos formas de capital, que son más conocidas y utilizadas. El concepto de <italic>linking</italic> se desarrolló teóricamente como un subtipo de <italic>bridging</italic> diseñado para estudiar las relaciones verticales desde la perspectiva comunitaria. Es interesante destacar que antes de que se acuñara el concepto de <italic>linking</italic>, ya se empezaron a desarrollar estudios sobre relaciones jerárquicas y estatus desde la perspectiva individual del capital social. En cualquier caso, tanto el <italic>linking</italic> como el <italic>bridging</italic> jerárquico, que metodológicamente pueden acabar significando lo mismo, permiten tomar en consideración la gran influencia que tiene la estructura social en el acceso a los recursos encastrados en las redes sociales. </p>
+			<p>El concepto de capital social <italic>linking</italic> permite poner de manifiesto la importancia de las diferencias de base social (y, por lo tanto, las desigualdades sociales) en el acceso a los recursos que el capital social puede ofrecer. El uso de esta noción permite trabajar con un modelo teórico más parsimonioso de las formas de capital social, destacando las relaciones jerárquicas, ya sea entre individuos o entre organizaciones, visibilizando así la influencia de la estructura social en el acceso a recursos. En perspectiva individual este papel de desigualdad social permite considerar las relaciones personales (o redes sociales) de forma contextualizada en la estructura social, lo cual es fundamental para comprender en qué medida (y a quién) influye la jerarquía o el poder en el acceso a los diferentes recursos sociales.</p>
+			<p>En lo que respecta a la propuesta teórica de ampliar el modelo de los tipos de capital social, considerar la relación entre la jerarquía y los lazos débiles da pie a considerar igualmente la relación entre la jerarquía y los lazos fuertes. Es decir, igual que visibilizamos la importancia de la jerarquía sobre el <italic>bridging</italic> (llamado <italic>linking</italic> o <italic>bridging</italic> jerárquico), también se puede estudiar la influencia de la jerarquía sobre el capital social <italic>bonding</italic> o sobre los lazos fuertes. Como hemos visto, esta aproximación también tiene como precursores a Granovetter y a Lin, aunque no se llegase a desarrollar como concepto teórico. Considerar la diferencia de poder o de estatus no solo en el <italic>bridging,</italic> sino también en los lazos fuertes, permite tener una visión más completa de los tipos de capital social, pues abre la puerta a considerar que los lazos fuertes (según la proximidad afectiva) pueden ser, además, jerárquicos u horizontales. De este modo, estos cuatro tipos de lazos o formas de capital social resultan de la interacción entre la fuerza del lazo y la jerarquía.</p>
+			<p>En lo que respecta a la discusión, este texto ha tratado de argumentar en la dirección de que, aunque a veces en la literatura se utilicen como equivalentes o intercambiables los términos “capital social bonding”, “bonding”, “lazo fuerte”, etc., se ha de considerar la perspectiva teórico-metodológica que se esté utilizando, pues es la que, en definitiva, determinará el significado del capital social. Por un lado, se puede hacer referencia a los contactos de una red social, contactos accedidos y movilizados para acceder a los recursos encastrados de dicha red (en la perspectiva reticular o <italic>The network approach</italic>, la red social posibilita el acceso a los recursos que ésta encastra). Por otro lado, se puede hacer referencia directamente al capital social en sí mismo o al tipo de capital social, sin distinguir dicho capital de la red social, de la confianza o de las normas sociales (perspectiva comunitaria, o <italic>The communitarian approach</italic>).</p>
+			<p>Por último, hay que destacar que la distinción de cuatro tipos de capital social no se aprecia en la literatura, aunque de alguna manera está implícita en la tradición de Lin. Hasta donde llega la habilidad del autor, solo una excepción se ha podido encontrar que intenta poner en valor los lazos fuertes y jerárquicos: Ryan (Looking for weak ties) habla de la utilidad de unos lazos que son a la vez verticales y fuertes. Argumenta que llamarlos “puentes verticales” no tiene ningún sentido desde el punto de vista semántico, por lo que propone el término <italic>escalera social</italic> (<italic>social ladder</italic>). No obstante, lo hace en contraposición a lo que ella considera lazos débiles que son <italic>demasiado débiles</italic>, aludiendo a una falta de confianza suficiente. Nosotros argumentaríamos que no todos los lazos son fuertes o débiles, sino que también hay lazos ausentes, superficiales o carentes de significado sustantivo, como podría ser un lazo “demasiado débil”, que nada tiene que ver con la tesis de los lazos débiles y que no sería un <italic>lazo débil</italic> per se, en el sentido que le dio Granovetter. En otras palabras, un lazo débil nunca será <italic>demasiado débil</italic> porque no tiene nada de débil, haciendo uso del juego de palabras que propone Granovetter entre “fuerte” y “débil”. Su fuerza “recae principalmente en la capacidad de controlar la circulación de la información en condiciones de mercado imperfecto (o circulación imperfecta de la información)” (<xref ref-type="bibr" rid="B2">Cruz y Verd, 2013</xref>:158), asumiendo que la fuerza del lazo (ya sea fuerte o débil) implica un mínimo de, entre otras cuestiones, confianza y reciprocidad.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Briggs, X. (1998). Brown kids in white suburbs. <italic>Housing Policy Debate</italic>, 9(1), 177-221. https://doi.org/10.1080/10511482.1998.9521290</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Briggs</surname>
+							<given-names>X.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<article-title>Brown kids in white suburbs</article-title>
+					<source>Housing Policy Debate</source>
+					<volume>9</volume>
+					<issue>1</issue>
+					<fpage>177</fpage>
+					<lpage>221</lpage>
+					<pub-id pub-id-type="doi">10.1080/10511482.1998.9521290</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Cruz, I; Verd, J.M. (2013). La fuerza de los lazos: una exploración teórica y empírica de sus múltiples significados.<italic>Empiria</italic>, 26, 149-174. https://doi.org/10.5944/empiria.26.2013.7156</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cruz</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Verd</surname>
+							<given-names>J.M.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>La fuerza de los lazos: una exploración teórica y empírica de sus múltiples significados.</article-title>
+					<publisher-name>Universidad Autónoma del Estado de México</publisher-name>
+					<source>Empiria</source>
+					<fpage>149</fpage>
+					<lpage>174</lpage>
+					<pub-id pub-id-type="doi">10.5944/empiria.26.2013.7156</pub-id>
+				</element-citation>
+				</ref>
+			<ref id="B3">
+				<mixed-citation>Granovetter, M. 1973. The strength of weak ties. <italic>American</italic> 
+ <italic>Journal of Sociology</italic>, <italic>78</italic>(6), 1360-1380. https://doi.org/10.1086/225469</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Granovetter</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>1973</year>
+					<article-title>The strength of weak ties</article-title>
+					<source>Journal of Sociology</source>
+					<volume>78</volume>
+					<issue>6</issue>
+					<fpage>1360</fpage>
+					<lpage>1380</lpage>
+					<pub-id pub-id-type="doi">10.1086/225469</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Lin, N. (1999). Social networks and status attainment. <italic>Annual Review of Sociology</italic>, <italic>25</italic>(1), 467-487. https://doi.org/10.1146/annurev.soc.25.1.467</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lin</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>Social networks and status attainment</article-title>
+					<source>Annual Review of Sociology</source>
+					<volume>25</volume>
+					<issue>1</issue>
+					<fpage>467</fpage>
+					<lpage>487</lpage>
+					<pub-id pub-id-type="doi">10.1146/annurev.soc.25.1.467</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>______. (2001). <italic>Social capital: a theory of structure and action</italic>. Cambridge University Press. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lin</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>Social capital: a theory of structure and action</source>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Lin, N.; Ensel, Walter M. y Vaughn, John C. (1981). Social resources and strength of ties: structural factors in occupational status attainment. <italic>American Sociological Review</italic>, <italic>46</italic>(4), 393-405. https://doi.org/10.2307/2095260</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lin</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Ensel</surname>
+							<given-names>Walter M.</given-names>
+						</name>
+						<name>
+							<surname>Vaughn</surname>
+							<given-names>John C.</given-names>
+						</name>
+					</person-group>
+					<year>1981</year>
+					<article-title>Social resources and strength of ties: structural factors in occupational status attainment</article-title>
+					<source>American Sociological Review</source>
+					<volume>46</volume>
+					<issue>4</issue>
+					<fpage>393</fpage>
+					<lpage>405</lpage>
+					<pub-id pub-id-type="doi">10.2307/2095260</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Marsden, P; Campbell, K. (2012). Reflections on conceptualizing and measuring tie strength. <italic>Social Forces</italic>, <italic>91</italic>(1), 17-23. https://doi.org/10.1093/sf/sos112</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marsden</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Campbell</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Reflections on conceptualizing and measuring tie strength</article-title>
+					<source>Social Forces</source>
+					<volume>91</volume>
+					<issue>1</issue>
+					<fpage>17</fpage>
+					<lpage>23</lpage>
+					<pub-id pub-id-type="doi">10.1093/sf/sos112</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Ostrom, E.; Ahn, T.K. (2009). The meaning of social capital and its link to collective action, pp. 17-36. In: G.T. Svendsen and G.L.H. Svendsen. <italic>Handbook of social capital: The troika of sociology, political science and economics</italic>. Edward Elgar Publishing. <ext-link ext-link-type="uri" xlink:href="https://www.e-elgar.com/shop/gbp/handbook-of-social-capital-9781845423230.html">https://www.e-elgar.com/shop/gbp/handbook-of-social-capital-9781845423230.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ostrom</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Ahn</surname>
+							<given-names>T.K.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<chapter-title>The meaning of social capital and its link to collective action</chapter-title>
+					<fpage>17</fpage>
+					<lpage>36</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Svendsen</surname>
+							<given-names>G.T.</given-names>
+						</name>
+					</person-group>
+					<source><italic>Handbook of social capital: The troika of sociology, political science and economics</italic>.</source>
+					<publisher-name>Edward Elgar Publishing</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.e-elgar.com/shop/gbp/handbook-of-social-capital-9781845423230.html">https://www.e-elgar.com/shop/gbp/handbook-of-social-capital-9781845423230.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Woolcock, M. (2001). The place of social capital in understanding social and economic outcomes. <italic>Canadian Journal of Policy Research</italic>, 2(1), 11-17. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Woolcock</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<article-title>The place of social capital in understanding social and economic outcomes</article-title>
+					<source>Canadian Journal of Policy Research</source>
+					<volume>2</volume>
+					<issue>1</issue>
+					<fpage>11</fpage>
+					<lpage>17</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>World Bank. (2000). <italic>World Development Report 2000/2001: Attacking Poverty</italic>. <ext-link ext-link-type="uri" xlink:href="https://openknowledge.worldbank.org/handle/10986/11856">https://openknowledge.worldbank.org/handle/10986/11856</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>World Bank</collab>
+					</person-group>
+					<year>2000</year>
+					<source><italic>World Development Report 2000/2001: Attacking Poverty</italic>.</source>
+					<ext-link ext-link-type="uri" xlink:href="https://openknowledge.worldbank.org/handle/10986/11856">https://openknowledge.worldbank.org/handle/10986/11856</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

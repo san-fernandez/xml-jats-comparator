@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>El grupo de discusión: revisión de premisas metodológicas</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The discussion group: review of methodological premises</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6018-0635</contrib-id>
+               <name>
+                  <surname>Rogel-Salazar</surname>
+                  <given-names>Rosario</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">México. Universidad Autónoma del Estado de México  Correo electrónico: rrogels@uaemex.mx</institution>
+            <institution content-type="normalized">Universidad Autónoma del Estado de México</institution>
+            <institution content-type="orgname">Universidad Autónoma del Estado de México</institution>
+            <country country="MX">México</country>
+            <email>rrogels@uaemex.mx</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Oct-Dec</season>
+            <year>2018</year>
+         </pub-date>
+         <issue>63</issue>
+         <fpage>274</fpage>
+         <lpage>282</lpage>
+         <history>
+            <date date-type="received">
+               <day>05</day>
+               <month>05</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>26</day>
+               <month>08</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El objetivo central de esta reflexión es analizar dos premisas teórico-metodológicas que subyacen a la instrumentación del grupo de discusión como herramienta de análisis cualitativo en las ciencias sociales: las premisas que se vinculan con la naturaleza del discurso que se genera a través de la aplicación de esta técnica y las premisas que se relacionan con las características del método. Se concluye que es importante reflexionar teóricamente previo a la aplicación de estas estrategias, y no dar por hecho que implican credibilidad y legitimidad en sí mismas.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The main objective of this paper is to analyse two theoretical-methodological premises that underlie the implementation of the discussion group as a tool for qualitative analysis in social sciences research: the premises that are linked to the nature of the discourse that is generated through the application of this technique and the premises that are related to the characteristics of the method. It is concluded that it is important to reflect theoretically prior to the application of these strategies, and not to assume that they imply credibility and legitimacy in themselves.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>grupo de discusión</kwd>
+            <kwd>metodología educativa</kwd>
+            <kwd>dinámica grupal</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>disscussion group</kwd>
+            <kwd>qualitative methodology</kwd>
+            <kwd>group dynamic</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="11" />
+            <page-count count="9" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción: la dimensión micro en el análisis social</title>
+         <p>
+            La dimensión cualitativa de la investigación generalmente se explora con la intención de indagar las percepciones y motivaciones de los actores en torno a un proceso social donde, como afirma Jesús Galindo: “Las miradas que observan a los mundos contemporáneos son muy diversas, las formas que las agrupan son parte del ejercicio que mira a las miradas […] Este tipo de observación, de segundo orden, es el campo estricto de la reflexión metodológica. Y desde ahí opera el vuelo hacia un tercero o cuarto orden, la mirada que mira a la mirada que mira a la mirada que mira, y un aterrizaje en el primer orden, la pregunta por la mirada directa y sus condiciones de operación” (
+            <xref ref-type="bibr" rid="B4">Galindo 1998</xref>
+            :9).
+         </p>
+         <p>
+            Por ello, al llevar a cabo abordajes de corte cualitativo en la investigación social es indispensable hacer explícito el sistema analítico desde el cual se interpreta, y dado que toda metodología supone siempre una teoría, la apuesta metodológica implica destacar los rasgos generales y las coordenadas de pensamiento que llevan a interpretar de una -y no de otra forma- el decir de los actores que son analizados bajo ciertas técnicas de investigación social cualitativas. Este reconocimiento se hace siguiendo la sugerencia planteada por Jesús Ibáñez: “Un objeto de estudio social se puede abordar desde distintas formas y procedimientos, diferentes perspectivas, etcétera. Y para acercarse a ese pedazo de realidad y preguntarle cosas, también se puede abordar con un sin fin de herramientas. El investigador debe decidir cuál. Debe explicar por qué esa o esas técnicas y contar cómo lo hizo. Lo debe hacer consciente” (
+            <xref ref-type="bibr" rid="B4">Ibáñez 1979</xref>
+            :262).
+         </p>
+         <p>
+            Las distintas decisiones que se toman a lo largo del proceso de investigación involucran no solo posturas teóricas, sino también metodológicas y técnicas acordes a los supuestos epistemológicos desde los cuales se percibe 'la realidad' que interesa analizar. Y si bien en términos metodológicos es común confundir la información con lo observable o con los datos, es necesario insistir que estos últimos son producto de una teoría que funciona como principio selectivo de realidad y propone la pertinencia de la cantidad de información e incluso sus procesos de construcción en los que siempre participa el sujeto. En otras palabras: “hay que reconocer que la parte sustancial de nuestros materiales empíricos son, como todo discurso o acción humana, hechos simbólicos” (
+            <xref ref-type="bibr" rid="B1">Baz 1998</xref>
+            :59).
+         </p>
+         <p>Sabemos, por ejemplo, que en el uso de métodos etnográficos hay aproximaciones que retoman visiones relativamente ‘clásicas’ de la antropología pero que, al mismo tiempo, consideran indispensable el uso de enfoques metodológicos cuantitativos y, por tanto, de variables operacionalizables. Tal es el caso de Catherine Marshall y Gretchen B. Rossman en su ya clásico libro Designing Qualitative Research, quienes afirman que -para tener éxito con las agencias de financiación y los comités de disertación- la investigación cualitativa debe ser aceptable para las personas que operan dentro de una perspectiva predominantemente positivista y cuantitativa.</p>
+         <p>
+            Desde otro polo podemos ir hasta el espacio más ‘abierto’ o de exploración conceptual y metodológica, donde se ubican los trabajos de antropólogos que intentan redefinir las coordenadas de la etnografía. Tal es el caso de Marcus y Cushman quienes -ante lo que señalan como “ausencia sustancial de literatura histórica y crítica sobre el género etnográfico” (
+            <xref ref-type="bibr" rid="B7">Marcus y Cushman 1982</xref>
+            :25)- analizan el proceso de conocimiento de ‘el otro’, preguntándose cómo han construido sus interpretaciones y cómo las representan textualmente en tanto ‘discurso objetivo’.
+         </p>
+         <p>Los problemas son múltiples y las dudas sobre el uso adecuado de los métodos cualitativos se incrementan entre los investigadores en ciencias sociales, especialmente cuando se percibe también una mayor fragmentación de los objetos de estudio y poca claridad en términos de la pertinencia y solidez de los métodos y técnicas que se encuentran a nuestra disposición. A esto habría que agregar la escasa reflexión en torno a los problemas que se derivan de utilizar ciertos métodos, su naturaleza y limitaciones. Es en esta última línea en donde se ubican estas reflexiones, que buscan revisar las premisas en que se sustenta el grupo de discusión.</p>
+      </sec>
+      <sec>
+         <title>1. Precisiones epistemológicas para analizar el método</title>
+         <sec>
+            <title>Primera acotación: Grupo de Discusión y Focus Group ¿dos perspectivas distintas para analizar el discurso en acción?</title>
+            <p>El objetivo del grupo de discusión es evaluar el proceso de toma de opinión e identificar los factores de influencia en la formación de la opinión de los participantes. Es decir, se desarrolla con la intención de captar los lugares comunes que recorre la subjetividad -que, es así, intersubjetividad; sin embargo, como son grupos pequeños, no se pueden hacer proyecciones ni analizar tendencias, aunque sí se pueden tomar en cuenta las reacciones de la gente que crea el discurso.</p>
+            <p>
+               A decir de Bernardo Russi, esta estrategia analítica ha sido permeada, al menos, por dos tradiciones de pensamiento: la estadounidense y la europea, cada una de ellas con sus propias características. El pensamiento europeo, donde el moderador pocas veces interviene, el discurso que produce el grupo no tiene mucha intervención y la interpretación se centra en el análisis del discurso; por su parte, en el pensamiento norteamericano, el moderador controla la participación, algunas veces se llega a pedir que cada integrante conteste en forma aislada, sin diálogo ni interacción y la forma de interpretación es el análisis de contenido (
+               <xref ref-type="bibr" rid="B9">Russi 1998</xref>
+               :76).
+            </p>
+            <p>El tipo de análisis del discurso incluye ramas como la lingüística del texto, la gramática del texto y otros enfoques del discurso; se trata de una pluridisciplina que estudia el texto, el habla y el uso de la lengua. Una definición más amplia plantea que “es el análisis de la lengua en su uso, puesto que investiga el para qué se utiliza la lengua” (
+            <xref ref-type="bibr" rid="B10">Satriano y Moscoloni 2000</xref>
+            :288).</p>
+            <p>
+               A decir de Jesús Ibáñez, el análisis -cuantitativo- del discurso aparece en escena cuando se abandona la tecnología estadística y se le sustituye por la tecnología lingüística. Aunque, a decir del propio Ibáñez, dicha vertiente tiene un alcance limitado, porque "parte de una hipótesis clasificatoria (descompone el discurso en categorías de unidades) y no de una hipótesis estructural del lenguaje (el lenguaje forma un tema y no es un mero repertorio)" (
+               <xref ref-type="bibr" rid="B5">Ibáñez 1985</xref>
+               :229).
+            </p>
+            <p>
+               Por su parte, Jesús Gutiérrez identifica las posturas que permean esta estrategia de análisis como la anglosajona (focus group) y la hispanoamericana (grupo de discusión), y las analiza con el objetivo de identificar sus vínculos y diferencias y se pregunta si el grupo de discusión es una prolongación o variante del focus group. De hecho, concluye que no lo son y señala que “el aspecto sustantivo de dicha distinción se debe a una particular forma de entender la dinámica grupal más allá del dato, es decir, como un sistemático trabajo de interpretación sobre las resistencias que sofocan e impiden la emergencia del discurso social” (
+               <xref ref-type="bibr" rid="B3">Gutiérrez 2011</xref>
+               :119).
+            </p>
+            <p>
+               Incluso Gutiérrez discute la pertinencia de utilizar el grupo de discusión (GD) en el sentido en que sugiere Jesús Ibáñez, y al respecto afirma: “Es el mismo Ibáñez quien entiende el GD como una técnica grupal que se define más por lo que no es que por lo que es, incluido por lo que a éste le gustaría que fuera: una técnica que no tuviera por finalidad la dominación y el control de la realidad observada. Por tanto, aunque parezca una contradicción, la existencia teórica del GD no garantiza ni es suficiente para su transmisión y existencia en la práctica. Por ello, es posible pensar que actualmente lo que se conoce en realidad son FG que llevan el nombre o apodo de GD. En ciertas ocasiones esta confusión puede aparecer inadvertidamente, por un despreocupado uso de dominaciones supuestamente intercambiables y/o equivalentes; pero también puede surgir intencionalmente por un uso matizado del tradicional FG consistente en una dinámica más abierta y exploratoria” (
+               <xref ref-type="bibr" rid="B3">Gutiérrez 2011</xref>
+               :119).
+            </p>
+         </sec>
+         <sec>
+            <title>Segunda acotación: procedencia de las premisas</title>
+            <p>Ahora bien, de dónde proceden las premisas en que se basan los grupos de discusión. La bibliografía en español sobre el grupo de discusión se circunscribe a los textos de Jesús Ibáñez y a las aportaciones de Alfonso Ortí (su capítulo en El Análisis de la Realidad Social), Manuel Canales y Anselmo Peinado (su capítulo en Métodos y técnicas cualitativas de investigación en ciencias sociales), a la cual Jesús Gutiérrez identifica como tradición hispanoamericana.</p>
+            <p>En el campo anglosajón, las visiones que probablemente han tenido un mayor peso en la forma como se concibe y utiliza el método, son las expuestas por ejemplo por David L. Morgan, quien en su libro Focus Groups as Qualitative Research realiza una revisión de la aplicación de esta estrategia de análisis en años recientes y los compara con las entrevistas individuales. Por su parte, Peter Lunt y Sonia Livingstone en Rethinking the Focus Group in Media and Communications Research exploran el uso del grupo de enfoque en los estudios de recepción de audiencias, argumentan que la discusión del grupo focal debe considerarse como una comunicación socialmente situada, y las diversas relaciones que puede tener respecto de los diferentes enfoques de la masa.</p>
+            <p>
+               Las definiciones que encontramos sobre este método son muy generales y más bien de corte descriptivo. Es tal vez la que aporta Johnson como “discusión en grupo focalizada u orientada por un facilitador en torno a un tema o área de especialidad en particular” (
+               <xref ref-type="bibr" rid="B6">Johnson 1996</xref>
+               :518), la que recoge tanto la visión de los autores españoles, como la de investigadores anglosajones, que en las últimas décadas han utilizado el método para desarrollar estudios sobre comunicación, política, sistemas culturales y representaciones, educación, psicología y medicina.
+            </p>
+            <p>Con excepción de algunos autores (entre ellos Ibáñez y Johnson), la mayoría de los estudios publicados no problematizan el uso del método y en sus proyectos adoptan visiones tipo “manual”, esto es, se retoman formas muy descriptivas o procedimentales de entender el grupo de discusión. Tal es el caso de David W. Stewart y Prem N. Shamdasani, quienes en su libro Focus groups: theory and practice ofrecen lo que ellos mismos denominan una ‘caja de herramientas’ para facilitar su aplicación; o bien, abordajes que en el extremo presentan solamente una guía con los pasos a seguir en el desarrollo de una sesión como es el caso de Alfonso Ortí, quien propone que para el diseño de investigaciones en las que se utilice el grupo de discusión habrá que adoptar una serie de pautas de nivel ‘técnico’.</p>
+            <p>El problema que presentan las obras mencionadas es que no mencionan referentes conceptuales y supuestos que subyacen al método. Otro problema es que se reduce el grupo de discusión al nivel de instrumento técnico que permite generar un discurso y no se concibe como método o estrategia metodológica en un sentido más amplio, esto es, como herramienta que efectivamente permita producir un discurso, pero bajo ciertas visiones epistemológicas, conceptuales y hasta nociones pre-teóricas que entran en juego en el contacto entre investigador y sujetos participantes en el grupo de discusión.</p>
+            <p>
+               Otro problema que recientemente se ha puesto sobre la mesa en torno al uso no solo de estrategias como el grupo de enfoque, sino de metodologías cualitativas en general, se refiere a la dificultad que representan por cuanto toca al uso cada vez más extendido de colocar los datos crudos a disposición del público interesado en repositorios de datos abiertos. Por ejemplo, A.C. Tsai (et.al.) ponen el acento en un tema que pocas veces se reflexiona: cuáles son los requisitos para compartir datos cualitativos en revistas de primer nivel y si la investigación cualitativa debería o no adherirse a las políticas de intercambio de datos, mucho más desarrolladas para el ámbito cuantitativo. Al respecto, los autores mencionados ofrecen algunas orientaciones sobre cómo podrían modificarse los requisitos de intercambio de datos, para adaptarse a las necesidades de la investigación cualitativa. Todo esto forma parte de lo que hoy se conoce como Ciencia Abierta, la cual empieza a cobrar cada vez más fuerza debido a que permite no solo una mayor transparencia en los procesos de investigación, sino también facilita la reproducibilidad de la ciencia (
+               <xref ref-type="bibr" rid="B11">Tsai et.al. 2016</xref>
+               :191-192).
+            </p>
+            <p>
+               El problema radica en que -a decir de autores como Caroline Stenbacka (Qualitative research requires quality concepts of its own)- la investigación cualitativa no sigue criterios de “fiabilidad”, como sí sucede con la investigación cuantitativa. Aunque, por el contrario, otros autores afirman que “la fiabilidad y la validez siguen siendo conceptos apropiados para alcanzar rigor en la investigación cualitativa” (
+               <xref ref-type="bibr" rid="B8">Morse et.al. 2002</xref>
+               :15). Para ello, los investigadores cualitativos deberían reclamar la responsabilidad de la confiabilidad y la validez mediante la implementación de estrategias de verificación integrales y autocorrectivas durante la realización de la investigación en sí.
+            </p>
+            <p>Las premisas que aquí se analizan no aparecen en un único texto, sino que se recogieron o proceden del análisis de los documentos antes mencionados. Ninguno de los autores las presenta explícitamente como premisas o supuestos, sino que son mencionadas como parte de las “bases” o de lo que ellos conciben como “bondades” del método.</p>
+            <p>En este sentido, es común que, por ejemplo, se compare el grupo de discusión con la encuesta y que se nos diga que en esta última las unidades seleccionadas son representantes de un conjunto y las relaciones entre las unidades se producen al final de la investigación a partir de la lógica del análisis estadístico, en tanto que en el grupo de discusión, las relaciones relevantes están presentes desde el principio en los sujetos seleccionados y lo importante no son las “unidades”, sino las relaciones que se van a producir o potenciar a través de la discusión.</p>
+            <p>Aseveraciones de ese tipo que se dan por sentadas son, sin embargo, cuestionables, pues detrás de ellas hay concepciones sobre el sujeto, la sociedad y la forma de generar conocimiento en ciencias sociales. Para este ejercicio de análisis metodológico se retoman entonces algunas de esas afirmaciones. Por lo pronto, se “recogieron” las que aparecieron con mayor frecuencia en los textos analizados y a las que los autores señalaban como punto de partida o base para emplear el grupo de discusión.</p>
+         </sec>
+         <sec>
+            <title>¿Una clasificación de las premisas?</title>
+            <p>La literatura sobre el método no es tan extensa como para arribar a una clasificación de las premisas. No porque sea indispensable realizar esa tarea, sino porque de hecho la información demandaba algún tipo de clasificación ya que, al analizar las premisas, aparecieron por lo menos dos tipos o categorías básicas que, si bien no forman parte de una taxonomía perfectamente trabajada, tendrían que ser mencionadas pues muestran, en principio, que las premisas no proceden del mismo nivel de abstracción o no remiten al mismo momento o ‘instancia’ del proceso que se desencadena al utilizar el método que nos ocupa.</p>
+            <p>Hay un primer tipo de premisas que tienen que ver con la naturaleza del discurso que se genera a través del grupo de discusión y otro que más bien se relaciona con la forma o características del método en sí. No se avanza más por el momento en esta discusión y se procede enseguida al análisis de algunas premisas que se supone dan sustento al grupo de discusión como método.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>2. Análisis de premisas</title>
+         <sec>
+            <title>Es posible conocer el proceso de producción del discurso a partir del análisis del discurso</title>
+            <p>Uno de los primeros problemas que se detectan en el discurso generado en torno al grupo de discusión es que hay una contradicción en el planteamiento central. Se concibe al método como una “situación de discurso” (Ibáñez) y se dice que lo importante a analizar es el proceso de producción del discurso, esto es, el “contexto existencial” (plano de la enunciación), el cual aporta una “reserva de significaciones” frente al “contexto convencional” (plano del enunciado). De esta manera, se propone ir más allá del discurso, o sea, del plano del enunciado para analizar el plano de la enunciación y “deshacer la ambigüedad” que puede presentarse si se analizan los enunciados de manera aislada.</p>
+            <p>El problema no radica en la propuesta en sí misma, que de hecho es pertinente, sino en la forma como se concibe el “contexto existencial” y su análisis. La dificultad deviene de que la concepción que predomina sobre el método del grupo de discusión y sobre el tipo de análisis del discurso procedente de las sesiones con los grupos, se mantiene dentro de una visión lingüística y no se ubica dentro de un marco de interpretación sociocultural más amplio. Esto es, se propone analizar el contexto o situación de producción del discurso, pero sin salirse del discurso. Para ello se sostiene que las ‘marcas’ de la producción se encuentran en el propio discurso y que pueden ser detectadas a partir del análisis del discurso, por lo que la discusión se mantiene en el plano lingüístico.</p>
+            <p>Lo problemático de una concepción de ese tipo es que se deja buena parte de la interpretación al sistema de inferencias que genera el investigador y es muy difícil que, en la práctica, se puedan establecer -al interior del discurso- las fronteras entre el “contexto existencial” y el “contexto convencional”. Del mismo modo, es difícil -especialmente para quienes no tienen una formación lingüística- poder establecer los límites y la naturaleza del “contexto existencial” a partir del análisis del “esquema de actuación” y de las “secuencias sintagmáticas”, pues uno siempre se pregunta ¿dónde inician y dónde terminan esas secuencias?, ¿se dan los “cortes” con las intervenciones de los actuantes?, ¿con los cambios de temas? o, en todo caso, ¿cómo mostrar que esas secuencias no son cerradas ni pueden ser consideradas como un “bloque” de significados, sino que tienen “ritmos” variados en los que aparecen “núcleos de sentido”, que son pertinentes en un momento, pero que luego se diluyen a lo largo del discurso?</p>
+            <p>La idea es interesante, pero tal vez lo que habría que hacer es “descentrar” el discurso sobre el método del campo lingüístico y transportarlo o vincularlo con otros espacios disciplinares. Por ejemplo, con una perspectiva etnográfica que permita establecer relaciones entre el análisis del discurso y la observación participante. Esta propuesta no es nueva, pues generalmente las sesiones de los grupos se registran digitalmente y en ellas participa el investigador como “facilitador” y se invita a un observador a que tome notas sobre el desarrollo de las participaciones.</p>
+            <p>Lo que habría que hacer, en todo caso, es modificar la concepción que se tiene de ese observador-investigador que, hasta ahora, se concibe como un ente pasivo que se limita a tomar notas sobre los turnos de participación de los actuantes y la duración de las intervenciones, con la finalidad de facilitar la transcripción del debate. Tendría que haber un entrenamiento del observador u observadores para que efectivamente realicen un trabajo de observación y análisis de las condiciones y del proceso de producción del discurso.</p>
+            <p>De esta manera, cuando se desarrolle el análisis del discurso, sería posible vincular, por ejemplo, la presencia reiterada de ciertos estereotipos en el discurso, con la animadversión que durante la sesión de debate pudo generarse entre dos o tres participantes; información a la que solo se puede tener acceso si se realiza una observación más fina o si se cuenta inclusive con una guía de observación, de preferencia muy abierta y que se vaya depurando conforme avanza la discusión.</p>
+            <p>Del mismo modo, puede ser que la afinidad o la “alianza” que durante la sesión se produzca entre ciertos “actuantes” dé lugar a un sesgo en las respuestas o pueda ser una valiosa pista para comprender procesos de construcción de identidades o el reconocimiento de “subculturas” al interior del grupo. Esto solo podría percibirse si se realiza una observación más sistemática del proceso de producción del discurso y se vincula el material procedente de esa observación con la interpretación más amplia que tenga lugar a partir del análisis del discurso.</p>
+            <p>El papel del investigador tendría que ser concebido como el de un actor más del grupo, que tiene la tarea de objetivar el proceso de intersubjetividad que tiene lugar antes, durante y después de la sesión de grupo de discusión. El grupo de discusión no es una experiencia lingüística -o no únicamente- es, ante todo, una experiencia comunicacional, un proceso dialéctico de externalización-objetivación-interiorización de representaciones, sistemas simbólicos, sentido práctico, rituales, códigos, valores, intereses e intenciones.</p>
+            <p>Habría que pensar en el grupo de discusión como un recurso metodológico que trasciende el sentido utilitario de producir un discurso del que se van a desprender ciertas representaciones y significados y, en su lugar, considerarlo una situación de interacción en la que se da un encuentro intersubjetivo entre actuantes (informantes), con el investigador; donde esa interacción produce una nueva realidad comunicacional que va más allá de lo lingüístico. Es, tal vez, de esta forma, como podría darse mayor consistencia al análisis de la “situación de contexto” en la que se produce el discurso y no mediante la generación de inferencias procedentes solo del análisis de enunciados.</p>
+         </sec>
+         <sec>
+            <title>Lo que se genera a través del grupo de discusión no son “cosas” sino sentidos</title>
+            <p>Relacionada con la anterior, se encuentra esta premisa que tendría que ser revisada en tanto se concibe al grupo de discusión como un instrumento metodológico que va a generar una especie de “materia prima” estática, cerrada, que el investigador registra y analiza para sus propios fines. En otras palabras, es como si se pudiera dar una “cristalización” del discurso sin tomar en cuenta que lo que tenemos en las sesiones de grupo son situaciones de producción discursiva, esto es, procesos abiertos en los que se generan discursos y la generación de esos discursos debe concebirse como una práctica social.</p>
+            <p>Lo que está en juego en una sesión de grupo no es si se logra o no generar un cierto consenso en torno a un tema (objetivo general de los grupos de discusión), sino el análisis del sentido que dentro del grupo genera una práctica discursiva. Una visión de este tipo implica revisar la concepción misma de “discurso” para pensar en este no como serie de enunciados, sino para entenderlo más bien como una práctica social, esto es, como un proceso de producción de sentido. Aunque sea como “micro-conjunto” de actores sociales, al interior del grupo de discusión se genera una forma específica de semiosis social, lo que quiere decir que el sentido que adquieren las significaciones en torno a un tema, o al asunto en debate, son distintas a cualquier otra situación de discusión.</p>
+            <p>También quiere decir que cuando los sujetos participantes en el grupo debaten sobre un problema, “conocen” o se acercan al problema de manera activa y ponen en juego estrategias e intereses. No reproducen de manera “pasiva” visiones o representaciones sobre su realidad. Al pronunciarse en torno a un asunto no solo dan su “punto de vista”, sino que desarrollan una práctica discursiva en la que colectivamente se construyen significados sobre un tema o asunto y en esa construcción se ponen en juego los sistemas de significación y los esquemas de sentido práctico o habitus que guían sus prácticas.</p>
+         </sec>
+         <sec>
+            <title>El discurso producto del grupo de discusión está estructurado y muestra relaciones de clase</title>
+            <p>Una premisa presente en el discurso sobre el método de grupo de discusión tiene que ver, primero, con suponer que cada sujeto que participa en el grupo representa a una cierta clase social. Es por esta razón que generalmente al definir la composición de un grupo de discusión se invita a personas de distintas “clases sociales”, esto es, campesinos, obreros, empresarios, profesionistas y se les pide que opinen sobre cierto tema, actor social, problema personal, de salud, entre otros.</p>
+            <p>También detrás de este supuesto hay un problema metodológico importante, pues si bien en los documentos analizados se reitera que el grupo de discusión no busca representatividad y que la selección de los participantes no se define en sentido estricto a partir de categorías sociodemográficas (a saber: edad, género, nivel socioeconómico…), se da por hecho, sin embargo, que al reunir a personas de distintos estratos socioeconómicos se tendrá una visión de lo que distintos sectores de la sociedad piensan sobre el tema o asunto a tratar en la sesión de grupo.</p>
+            <p>Por otra parte, de la misma premisa se deriva la idea de que al reunir individuos de distintos estratos sociales a debatir sobre un tema, en esa discusión aparecerán visiones de cada clase y se reproducirá al interior del grupo la estructura social.</p>
+            <p>El problema con esta visión, primero, es que no se discuten ni problematizan nociones como “clase social” y “estructura social”. La sociedad actual es sumamente compleja y fragmentaria en términos de identidades y pertenencias a múltiples grupos socioculturales. Si damos cierto crédito a la hipótesis de la globalización, sabemos que con ese proceso de mayor interacción económica y cultural entre los países se ha dado también un retorno hacia lo local y los valores de grupo, esto es, hacia el fortalecimiento de subculturas. En este contexto es necesario repensar y reflexionar si lo que distingue a los sujetos que participan en un grupo de discusión, en términos de sus visiones del mundo, está regido por la “clase social” a la que pertenece o si son otros factores, tales como los grupos de referencia (amigos, padres, maestros, etc.), los que tienen un mayor peso en la conformación de cierta identidad y, por tanto, de “núcleos” de sentido en torno a la realidad.</p>
+            <p>En la premisa señalada subyace también una concepción del grupo de discusión como “célula” que, al estar integrada por individuos de distintos estratos, refleja un orden social más amplio. En esta visión se pierde de vista que, al desarrollarse el grupo de discusión, se genera una dinámica interna de relación que no necesariamente es reflejo de las relaciones que se dan cotidianamente en el ámbito social. Habría que entender que precisamente por el contraste de visiones entre un obrero y un profesionista o un industrial, el tipo de conocimiento (o de “consenso”) que se genera sobre el tema o asunto tratado es muy distinto a lo que se produciría entre actores del mismo “estrato” o condición social o en una situación de interacción “natural” o cotidiana.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>Reflexiones finales</title>
+         <p>Las reflexiones aquí planteadas no pueden darse por concluidas, pues habría que delimitar por lo menos otros dos problemas que se derivan de la visión que en general se tiene sobre el método de grupo de discusión y que tienen que ver con dar por hecho que al celebrar las sesiones hay condiciones de credibilidad y legitimidad en relación con los participantes, al investigador y al hecho mismo de conformar un grupo para discutir sobre cierto tema o problema.</p>
+         <p>Habría que reflexionar también sobre el papel del investigador en la construcción de escenarios en los que se ponen de manifiesto las identidades de actores procedentes de distintos contextos y la del propio académico. Es necesario enfrentar la tendencia que existe entre los “teóricos” del grupo de discusión a borrar las huellas subjetivas del investigador en el proceso de construcción del objeto de estudio.</p>
+         <p>La tarea es vasta, los problemas metodológicos múltiples y el debate se encuentra abierto para avanzar en esta compleja tarea de superar visiones ingenuas o incompletas sobre los métodos y técnicas que utilizamos en la investigación social.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Baz, M. (1998).
+               <italic>Encrucijadas metodológicas en ciencias sociales</italic>
+               . En VV.AA. (autor.);La tarea analítica en la construcción metodológica.  (55-65)., México: Universidad Autónoma Metropolitana
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baz</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>Encrucijadas metodológicas en ciencias sociales</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Universidad Autónoma Metropolitana</publisher-name>
+               <fpage>55</fpage>
+               <lpage>65</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Galindo, C. (1998).
+               <italic>Técnicas de investigación en sociedad, cultura y comunicación</italic>
+               .  México: Addison Wesley Longman
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Galindo</surname>
+                     <given-names>C. J.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>Técnicas de investigación en sociedad, cultura y comunicación</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Addison Wesley Longman</publisher-name>
+               <fpage />
+               <lpage />
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Gutiérrez, D.(2011). "Grupo de discusión: ¿prolongación, variación o ruptura con el focus group?".
+               <italic>Cinta de Moebio.</italic>
+               (41), 105-122. Recuperado de https://doi.org/10.4067/S0717-554X2011000200001
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gutiérrez</surname>
+                     <given-names>D. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Grupo de discusión: ¿prolongación, variación o ruptura con el focus group?</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>41</issue>
+               <fpage>105</fpage>
+               <lpage>122</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2011000200001">https://doi.org/10.4067/S0717-554X2011000200001</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Ibáñez, J. (1979).
+               <italic>Más allá de la sociología. El grupo de discusión: técnica y crítica</italic>
+               .  Madrid: Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ibáñez</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1979</year>
+               <source>Más allá de la sociología. El grupo de discusión: técnica y crítica</source>
+               <publisher-name>Siglo XXI</publisher-name>
+               <fpage />
+               <lpage />
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Ibáñez, J. (1985).
+               <italic>Del algoritmo al sujeto</italic>
+               .  Madrid: Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ibáñez</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1985</year>
+               <source>Del algoritmo al sujeto</source>
+               <publisher-name>Siglo XXI</publisher-name>
+               <fpage />
+               <lpage />
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Johnson, A.(1996). "‘It’s good to talk’: The focus group and the sociological imagination".
+               <italic>The Sociological Review. 44</italic>
+               (3), 517-538. Recuperado de https://doi.org/10.1111/j.1467-954X.1996.tb00435.x
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <article-title>‘It’s good to talk’: The focus group and the sociological imagination</article-title>
+               <source>The Sociological Review</source>
+               <volume>44</volume>
+               <issue>3</issue>
+               <fpage>517</fpage>
+               <lpage>538</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-954X.1996.tb00435.x">https://doi.org/10.1111/j.1467-954X.1996.tb00435.x</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Marcus, G., Cushman, D.(1982). "Ethnographies as texts".
+               <italic>Annual Review of Anthropology. 11</italic>
+               (1), 25-69. Recuperado de https://doi.org/10.1146/annurev.an.11.100182.000325
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Marcus</surname>
+                     <given-names>G. E.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cushman</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>1982</year>
+               <article-title>Ethnographies as texts</article-title>
+               <source>Annual Review of Anthropology</source>
+               <volume>11</volume>
+               <issue>1</issue>
+               <fpage>25</fpage>
+               <lpage>69</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev.an.11.100182.000325">https://doi.org/10.1146/annurev.an.11.100182.000325</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Morse, J., Barrett, M., Mayan, M., Olson, K., Spiers, J.(2002). "Verification strategies for establishing reliability and validity in qualitative research".
+               <italic>International Journal of Qualitative Methods. 1</italic>
+               (2), 13-22. Recuperado de https://doi.org/10.1177/160940690200100202
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Morse</surname>
+                     <given-names>J.M.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barrett</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mayan</surname>
+                     <given-names>Maria</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Olson</surname>
+                     <given-names>Karin</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Spiers</surname>
+                     <given-names>Jude</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <article-title>Verification strategies for establishing reliability and validity in qualitative research</article-title>
+               <source>International Journal of Qualitative Methods</source>
+               <volume>1</volume>
+               <issue>2</issue>
+               <fpage>13</fpage>
+               <lpage>22</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/160940690200100202">https://doi.org/10.1177/160940690200100202</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Russi, A. (1998).
+               <italic>Técnicas de investigación en sociedad, cultura y comunicación</italic>
+               . En Galindo, C (autor.);Grupos de discusión. De la investigación social a la investigación reflexiva.  (75-116)., México: Addison Wesley Longman
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Russi</surname>
+                     <given-names>A. B.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>Técnicas de investigación en sociedad, cultura y comunicación</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Addison Wesley Longman</publisher-name>
+               <fpage>75</fpage>
+               <lpage>116</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Satriano, C.(2000). "Importancia del análisis textual como herramienta para el análisis del discurso".
+               <italic>Cinta de Moebio.</italic>
+               (9), 287-306. Recuperado de http://www.moebio.uchile.cl/09/satriano.html
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Satriano</surname>
+                     <given-names>C. R.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Importancia del análisis textual como herramienta para el análisis del discurso</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>9</issue>
+               <fpage>287</fpage>
+               <lpage>306</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/09/satriano.html">http://www.moebio.uchile.cl/09/satriano.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Tsai, A., Kohrt, B., Lynn T., M., Betancourt, T., Jooyoung K., L., Papachristos, A., Weiser, S., Dworkin, S.(2016). "Promises and pitfalls of data sharing in qualitative research".
+               <italic>Social Science and Medicine.</italic>
+               (169), 191-198. Recuperado de https://doi.org/10.1016/j.socscimed.2016.08.004
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tsai</surname>
+                     <given-names>A.C.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kohrt</surname>
+                     <given-names>Brandon A.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lynn T.</surname>
+                     <given-names>Matthews</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Betancourt</surname>
+                     <given-names>Theresa S.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jooyoung K.</surname>
+                     <given-names>Lee</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Papachristos</surname>
+                     <given-names>Andrew V.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weiser</surname>
+                     <given-names>Sheri D.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dworkin</surname>
+                     <given-names>Shari L.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Promises and pitfalls of data sharing in qualitative research</article-title>
+               <source>Social Science and Medicine</source>
+               <volume />
+               <issue>169</issue>
+               <fpage>191</fpage>
+               <lpage>198</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.socscimed.2016.08.004">https://doi.org/10.1016/j.socscimed.2016.08.004</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+      <app-group>
+         <app id="app1">
+            <label />
+            <p />
+         </app>
+      </app-group>
+   </back>
+</article>

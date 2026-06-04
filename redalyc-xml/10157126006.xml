@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2018000100072</article-id>
+			<article-id pub-id-type="publisher-id">00006</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Propuesta tríadica para el estudio de la violencia escolar</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Triadic proposal to study school violence</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Toledo</surname>
+						<given-names>María Isabel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Guajardo</surname>
+						<given-names>Gabriel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Miranda</surname>
+						<given-names>Christian</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pardo</surname>
+						<given-names>Isabela</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">(maria.toledo@udp.cl) Facultad de Psicología, Universidad Diego Portales (Santiago, Chile) ORCID: 0000-0002-5845-561X</institution>
+				<institution content-type="normalized">Universidad Diego Portales</institution>
+				<institution content-type="orgdiv1">Facultad de Psicología</institution>
+				<institution content-type="orgname">Universidad Diego Portales</institution>
+				<addr-line>
+					<named-content content-type="city">Santiago</named-content>
+				</addr-line>
+				<country country="CL">Chile</country>
+				<email>maria.toledo@udp.cl</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">(gabriel.guajardo@flacsochile.org) Facultad Latinoamericana de Ciencias Sociales, FLACSO Chile (Santiago, Chile) ORCID: 0000-0002-3956-700X</institution>
+				<institution content-type="normalized">Facultad Latinoamericana de Ciencias Sociales</institution>
+				<institution content-type="orgname">Facultad Latinoamericana de Ciencias Sociales</institution>
+				<addr-line>
+					<named-content content-type="city">Santiago</named-content>
+				</addr-line>
+				<country country="CL">Chile</country>
+				<email>gabriel.guajardo@flacsochile.org</email>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">(christian.miranda@u.uchile.cl) Facultad de Ciencias Sociales, Universidad de Chile (Santiago, Chile) ORCID: 000-001-8318-675X</institution>
+				<institution content-type="normalized">Universidad de Chile</institution>
+				<institution content-type="orgdiv1">Facultad de Ciencias Sociales</institution>
+				<institution content-type="orgname">Universidad de Chile</institution>
+				<addr-line>
+					<named-content content-type="city">Santiago</named-content>
+				</addr-line>
+				<country country="CL">Chile</country>
+				<email>christian.miranda@u.uchile.cl</email>
+			</aff>
+			<aff id="aff4">
+				<label>4</label>
+				<institution content-type="original">(isabelapardo@gmail.com) Facultad de Psicología, Universidad Diego Portales (Santiago, Chile) ORCID: 0000-0002-1377-4115</institution>
+				<institution content-type="normalized">Universidad Diego Portales</institution>
+				<institution content-type="orgdiv1">Facultad de Psicología</institution>
+				<institution content-type="orgname">Universidad Diego Portales</institution>
+				<addr-line>
+					<named-content content-type="city">Santiago</named-content>
+				</addr-line>
+				<country country="CL">Chile</country>
+				<email>isabelapardo@gmail.com</email>
+			</aff>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2018</year>
+			</pub-date>
+			<!--<volume>00</volume>-->
+			<issue>61</issue>
+			<fpage>72</fpage>
+			<lpage>79</lpage>
+			<history>
+				<date date-type="received">
+					<day>31</day>
+					<month>08</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>25</day>
+					<month>10</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>La dimensión teórica del estudio de la violencia escolar ha quedado rezagada en el campo de la investigación en educación. Se constata un <italic>déficit</italic> explicativo y en consecuencia de orden teórico, con ciertos reduccionismos y una proliferación de mediciones de conductas. En este artículo se plantea la necesidad de pasar de un objeto binario que separa, a veces en términos de oposición, la escuela de la sociedad a un objeto de estudio de tres dimensiones: (i) las violencias que produce la escuela; (ii) las violencias que se reproducen en la escuela; (iii) las violencias que cruzan la escuela. Esta reformulación tríadica del objeto de estudio es producto de una línea de investigación y de la revisión de la literatura indexada entre el año 1990 y 2015.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>School violence theoretical research has been falling behind in the field of education research. An explanatory deficit emerges and therefore also theoretical, with certain reductionism and a proliferation of behavior measurement. This article focuses on the need of moving from a binary object that puts apart, sometimes in terms of opposition, the school from society, to an object of study with three dimensions: (i) different forms of violence produced by the school itself; (ii) different forms of violence that are reproduced at the school; (iii) different forms of violence that pass through the school. This triadic reformulation of the object of study is the result from a line of research and the review of indexed literature between 1990 and 2015.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>violencia</kwd>
+				<kwd>escuela</kwd>
+				<kwd>abordaje problemático</kwd>
+				<kwd>dicotomía</kwd>
+				<kwd>enfoque triádico</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>violence</kwd>
+				<kwd>school</kwd>
+				<kwd>problematic approach</kwd>
+				<kwd>dichotomy</kwd>
+				<kwd>triadic approach</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>FONDECYT</funding-source>
+					<award-id>1170328</award-id>
+					<award-id>1140135</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="3"/>
+				<page-count count="8"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>La dimensión teórica del estudio de la violencia escolar ha quedado rezagada en el campo de la investigación en educación. Ese rezago ha obedecido a la necesidad responder a las demandas de conocimiento ante la creciente visibilidad social desde la segunda década del siglo XXI. El énfasis en la aplicabilidad de la investigación a un problema social urgente da cuenta de esa situación. Sin dejar de mencionar el papel que juegan los medios de comunicación y el tipo de información que están dispuestos a publicar, como ha sido la notoriedad pública del tema del <italic>bullying</italic> o intimidación entre pares estudiantes<italic>.</italic> Este conjunto de condicionantes podría explicar el privilegio de la descripción empírica de los diversos fenómenos englobados con el término violencia.</p>
+			<p>Sin embargo, se constata un <italic>déficit</italic> explicativo y en consecuencia de orden teórico, con ciertos reduccionismos y una proliferación de mediciones de conductas. La única conceptualización propia del contexto escolar es la concepción de <italic>bullying</italic> que Dan Olweus acuño hace unas décadas para explicar uno de los tantos tipos de violencia que hay en la escuela, pero es un concepto que se circunscribe a la descripción de un tipo particular de violencia. En síntesis, la investigación en educación en este tema se enfrenta, crecientemente, a un problema teórico.</p>
+			<p>En este artículo se propone contribuir al debate y producción de conocimiento respecto de la violencia escolar. En particular, se plantea la necesidad de pasar de un objeto binario (que separa a veces en términos de oposición la escuela de la sociedad) a un objeto de estudio tríadico. El binarismo de la violencia escolar reduce sus orígenes, expresiones y consecuencias a una sola modalidad posible, es decir, aquello que la propia institución atribuye a lo escolar. Esta atribución se basa en el concepto de escuela como un espacio cerrado y, cuando se incluye el contexto en que se emplaza, se le utiliza en términos de un marco de referencia que reafirma la distinción entre lo escolar y lo no escolar. Por el contrario, desde una perspectiva tríadica, se contempla la comprensión de la violencia escolar como parte de una institución que produce sus propias violencias y se relaciona con otros campos sociales, definidos según contextos, que generan violencias y penetran los límites de la escuela. Al tiempo que la escuela reproduce transversalmente la dominación masculina o violencia de género que es parte del currículo oculto.</p>
+			<p>La propuesta del paso del binarismo al triadismo de la violencia escolar, en cuanto objeto de estudio, es posible mediante un abordaje problemático de la investigación en educación. En este enfoque se detectan niveles de problema teórico, en las dimensiones de cada uno de esos niveles y en las relaciones que se establecen entre tales niveles y dimensiones. Según Bialakowsky la comparación entre las propuestas se realiza a través de un problema teórico “esto no se efectúa a partir del problema ‘en sí’, sino mediante ciertas dimensiones emergentes que lo atraviesan. No se trata solo de arribar a una definición general del problema estudiado en cuanto tal, sino que esa definición es posible al desplegar las dimensiones que resultan decisivas para los interrogantes y la elaboración de este problema” (<xref ref-type="bibr" rid="B1">Bialakowsky 2017</xref>:121).</p>
+			<p>Para ello, se presenta un abordaje problemático de la investigación empírica de la violencia escolar y se propone una reformulación del objeto de estudio de tres dimensiones: (i) las violencias que produce la escuela; (ii) las violencias que se reproducen en la escuela; (iii) las violencias que cruzan la escuela. Esta propuesta es producto de una línea de investigación y de la revisión de la literatura indexada entre el año 1990 hasta el año 2015, que se resume en 139 artículos. Finalmente, se reflexiona sobre las implicancias de la utilización de este abordaje problemático para la teoría educativa y el diseño de metodologías de investigación en el área.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>Procedimiento</title>
+			<p>El procedimiento comprendió cuatro etapas. La primera etapa se inicia con el planteamiento de una proposición, esta es: violencia escolar. Luego, con el saber empírico acumulado por la línea de investigación en el campo de las violencias y el conocimiento de la bibliografía especializada, se construyó un mapa cognoscitivo que incluyó todas las violencias que hipotéticamente podrían estar presentes en la escuela. En el mapa cognoscitivo, se reconoció la diversidad de violencias existentes en la institución escolar y propuso un nuevo objeto de estudio, a saber: violencias que co-existen en la escuela.</p>
+			<p>La segunda etapa identificó las categorías científicas y reorganizó los componentes del mapa cognoscitivo. Se construyó una matriz de doble entrada que permitió identificar niveles, actores/instituciones y sus tipos y sub-tipos de violencia cuando correspondía, a la vez, la detección de casilleros sin información.</p>
+			<p>La tercera etapa corresponde a una investigación de tipo documental basada en esta matriz de doble entrada. Para implementarla, cada uno de los tipos y sub-tipos de violencia se constituyó en un descriptor que permitió identificar y pesquisar reportes científicos. Se identificaron los autores clásicos y actuales del campo de la educación que han desarrollado elementos teóricos sobre algunas de las violencias consideradas. Posteriormente, se ubicaron estudios empíricos que han reportado alguno de los tipos y/o subtipos de violencia.</p>
+			<p>Para la selección de los estudios empíricos se consideró su indexación (WoS, SCOPUS, SciELO), el desarrollo metodológico de la investigación y su fecha de publicación desde el año 2000. Se realizaron búsquedas en el campo de la educación y en investigaciones de ciencias sociales en general. El material analizado consideró las lenguas española, inglesa y francesa. Este trabajo documental tuvo como fin demostrar que cada tipo de violencia ha sido investigado y reportado. Por ello, todo el material recolectado es vaciado en una matriz construida <italic>ad hoc</italic> y organizado para su presentación, donde se distinguió entre investigación teórica y empírica.</p>
+			<p>En la cuarta parte, con las evidencias científicas recolectadas, el mapa cognoscitivo y la matriz de las violencias relacionadas con la escuela, se reconstruyeron los campos donde tienen lugar violencias vinculadas con la escuela, los tipos y sub-tipos de violencias.</p>
+			<p>El resultado de este trabajo de recopilación y análisis de la evidencia científica permitió sostener que la propuesta de reformulación del objeto de estudio, desde una perspectiva tríadica, es plausible en el campo de la educación. Por ello, se formuló una segunda proposición: violencias que co-existen en la escuela, que se detalla a continuación. Cabe considerar que, debido al desigual desarrollo de la investigación de cada uno de los tipos de violencia, ellas son evidenciadas con materiales empíricos de diverso tipo y grado de abstracción.</p>
+		</sec>
+		<sec sec-type="results">
+			<title>Resultados</title>
+			<p>El abordaje problemático y tríadico sobre violencia escolar refiere a las violencias que experimentan los actores escolares en su pertenencia a la institución escolar: (i) violencias que produce la escuela; (ii) violencias que se reproducen en la escuela; y (iii) violencias que cruzan la escuela.</p>
+		</sec>
+		<sec>
+			<title>Violencias que produce la escuela</title>
+			<p>La escuela como institución produce violencia institucional porque tiene una organización rígida que justifica su coacción y utiliza la disciplina para mantener el orden. Para su funcionamiento, valora el respeto a la norma y el orden y articula rígidamente los tiempos y los espacios. Las relaciones cotidianas están ritualizadas. Además, la escuela segmenta y jerarquiza los grupos que la componen: autoridades (directivos y profesores), estudiantes que obedecen y familias que adhieren. Dado su estilo autoritario, profesores ni estudiantes participan en la toma de decisiones de las actividades que se realizan. Así, se reproducen las relaciones de poder y las desigualdades se invisibilizan, mientras se produce sensación de inseguridad en sus miembros.</p>
+			<p>El currículo produce violencia simbólica en tanto impone significaciones y las define como legítimas. Es el Estado el que establece lo que se enseña y lo que se aprende. Se incluye categorías implícitas (currículo oculto) y otras categorías y saberes se excluyen. El lugar de autoridad pedagógica que asume el profesor para enseñar es otra forma de violencia, como también lo es la no consideración de las producciones de los estudiantes o la invalidación de sus razonamientos. La aplicación de mediciones estandarizadas es otra forma de violencia curricular que se ejerce cuando el Estado establece estándares de calidad de la educación: lo que los profesores enseñan se evalúa con pruebas estandarizadas. Así, los padres pueden teóricamente elegir las escuelas donde asistan sus hijos en función de los resultados obtenidos por los establecimientos escolares.</p>
+			<p>En las escuelas se registra maltrato de directivos a profesores porque hay directores que tienen conductas abusivas: maltrato indirecto (denegación de recursos, no consideración de necesidades de los profesores, desvalorización, evaluaciones sesgadas, etc.), maltrato directo (espionaje, sabotaje, cuestionamientos públicos y privados, etc.) y agresiones severas (amenazas, maltrato a sus estudiantes, acoso sexual, racismo, etc.). Hay maltrato entre profesores: violencia verbal, violencia material, violencia social y violencia psicológica. Entre pares, los profesores se ridiculizan, humillan, amenazan, agreden físicamente y acosan socialmente; violencia sexual; cyberacoso; destrucción y robo de pertenencias.</p>
+			<p>En la escuela hay profesores que maltratan a los estudiantes. Se observan contextos donde la violencia aún es utilizada como herramienta disciplinaria, aunque esté prohibida. Hay abuso emocional (humillaciones, amenazas con malas notas y expulsión, aislamientos, etc.); maltrato físico (golpes, bofetadas, punta-pies, etc.), maltrato verbal (burlas, insultos, maldiciones, agresiones con comentarios sexuales). Se etiqueta a los estudiantes con atributos negativos o se tratan de manera diferencial. Se discrimina a estudiantes que provienen de sectores sociales desfavorecidos. Hay conductas sexuales inapropiadas por parte del personal de la escuela. También hay estudiantes que maltratan a los profesores. Los profesores son víctimas de violencia verbal como ataques verbales, difamaciones, ofensas, amenazas, maldiciones y humillaciones. Sufren abuso psicológico, violencia física (destrucción de sus pertenencias, empujones, golpes, mordeduras, etc.) y acoso sexual. Entre estudiantes se constata intimidación física, verbal y relacional. Hay padres de estudiantes que agreden a profesores a través de violencia verbal (gritos, garabatos, amenazas) y violencia física (daño a su propiedad, golpes, empujones). Además, se describe cyberacoso y amenazas por <italic>email</italic> o redes sociales.</p>
+			<p>Algunos profesores vivencian <italic>malestar docente</italic>, una sensación compartida en el ejercicio de su función. Este puede ser causa o agravante de la violencia escolar. Su origen se encuentra en la precariedad laboral, las condiciones materiales y psicosociales del trabajo docente, pero también en las transformaciones que acontecen al rol docente. El malestar docente genera agotamiento emocional, distancia emocional, falta de logro, ansiedad, depresión, insatisfacción vocacional, deterioro de la salud física (especialmente voz y manos). Además, provoca frecuentes consultas y licencias médicas. Este malestar también es descrito como Síndrome de <italic>Burnout</italic>: agotamiento emocional y despersonalización que produce cansancio permanente, insomnio, depresión, agotamiento físico y emocional.</p>
+			<p>Algunos estudiantes presentan alteraciones en su salud mental que modifican sus comportamientos: trastorno por <italic>déficit</italic> de atención con falta de atención y/o hiperactividad, trastorno oposicionista desafiante y trastorno de la conducta. Otros estudiantes padecen fobia social, fobia a la escuela y trastornos de ansiedad: generalizada, social, por separación y fobias no clasificables. A nivel del sujeto, hay que considerar que la agresión entre seres humanos es funcional y normal puesto que tiene como propósito poder participar en la competencia por los recursos para la sobrevivencia y la protección de ellos y de la descendencia. Estos supuestos etológicos, aplicados en el ámbito escolar, dieron origen al concepto de <italic>mobbing</italic>. Se comparó el comportamiento de niños con el comportamiento agresivo de un grupo de animales pequeños hacia otro animal solitario de tamaño mayor. Así, el término <italic>mobbing</italic> pasó a connotar el comportamiento destructivo de un grupo de niños pequeños contra un único niño. Esta es la base teórica sobre la cual se desarrolla la noción de <italic>bullying</italic> o acoso escolar.</p>
+		</sec>
+		<sec>
+			<title>Violencias que se reproducen en la escuela</title>
+			<p>En la escuela se reproduce la cultura. Por ello, tiene lugar la violencia de género implícita (la que vehiculan las estructuras y prácticas institucionales cotidianas) y la explícita (los encuentros abiertamente sexuados). La violencia de género se ejerce de un estudiante a otro, de profesores a estudiantes y vice versa. Las estudiantes mujeres reciben agresiones sexuales, intimidación y acoso físico por parte de estudiantes varones; avances sexuales de profesores varones y violencia verbal y castigo corporal realizado por profesoras y profesores. Sufren violencia verbal, castigo corporal, golpizas, contacto corporal inapropiado, acoso sexual y violación de parte de estudiantes y profesores. Las estudiantes mujeres son víctimas de prácticas discriminatorias en el aula, del tratamiento preferencial hacia los estudiantes hombres, son excluidas de algunas actividades y obligadas a hacer las tareas domésticas en algunas escuelas.</p>
+			<p>Las estudiantes mujeres sufren violencia en el noviazgo y se usa la tecnología para captar y difundir imágenes que las avergüenzan. En la escuela, se mantiene la heteronormatividad, se refuerza la masculinidad hegemónica y se reproduce el modelo de feminidad. Se promueven las identidades heterosexuales y se vigila su jerarquía. Hay prácticas y discursos homofóbicos y misoginia. Existe acoso debido a la no conformidad de género y acoso basado en la identidad sexual.</p>
+		</sec>
+		<sec>
+			<title>Violencias que cruzan la escuela</title>
+			<p>En la escuela como institución social, pervive el rol que ella asumió, como una instancia homogeneizadora, normalizadora, de domesticación y moralización de los ciudadanos, en la construcción de los Estados Nacionales. Este rol actualmente se tensiona con la demanda de individualización a que están sometidos los sujetos, por lo que su identidad es siempre un resultado provisorio del trabajo que él realiza sobre sí mismo. El Estado ejerce violencia cuando asume la doctrina de seguridad nacional, que busca garantizar la seguridad del territorio y de la población ante la agresión interna y externa. Como se utiliza la fuerza, los métodos usados por la fuerza pública incrementan el temor y la inseguridad de la población. Entonces, se demanda más acción del Estado para combatir la delincuencia y/o detener la violencia. Como consecuencia, se estigmatiza a colectivos que responden de manera agresiva ante la acción del Estado, lo que incrementa las tensiones sociales y la desigualdad en las acciones de protección a los distintos grupos. En Chile, después del golpe militar de 1973, ante el temor de los militares por la actitud de los estudiantes hacia su gestión, se asume la educación como un asunto de seguridad nacional. Así se justificó el control e intervención en el sistema educativo.</p>
+			<p>En algunas sociedades también está presente la violencia política, dada la existencia de conflictos armados (guerrilla, asesinatos políticos, conflictos entre partidos políticos) y la guerra. Durante estos conflictos, se altera el calendario escolar y se pierde el ritmo de aprendizaje. Los establecimientos educacionales son cerrados o funcionan parcialmente y sus instalaciones son usadas como cuarteles o centros de operación de los grupos en disputa. Se producen desplazamientos forzados de poblaciones. Los estudiantes son víctimas de actos violentos, separación de familiares, muertes de familiares o de personas cercanas. Algunos estudiantes se convierten en niños soldados.</p>
+			<p>En forma paralela, el mercado, cuando instaura el modelo neoliberal impone el ‘modelo de excelencia’: el sujeto es evaluado por su utilidad social (ingreso, poder y bienes). Entonces, cada individuo es responsable de ‘hacerse su lugar’ en un contexto donde se valoran imágenes de éxito y se estigmatiza a los débiles, a los viejos y a los pobres. Quienes logran la excelencia son <italic>winners</italic>, los otros son <italic>losers</italic>. También se promueve la satisfacción inmediata del deseo, la ética del placer y la valoración del rendimiento a corto plazo. Se exaltan las relaciones interpersonales menos jerárquicas, se considera obsoleto el respeto por los protocolos y se instala una moral menos exigente y más adaptable a las necesidades y capacidades de cada uno.</p>
+			<p>En educación el neoliberalismo influencia las reformas de los sistemas educacionales. Por ello, se incluyen los principios de eficiencia y de rendición de cuentas, la racionalización de los recursos y se reduce el gasto público. La escuela asume las formas de operar del mercado: éxito económico y competitividad. Las instituciones educativas generan y reproducen las desigualdades sociales. Se reproduce la desigualdad de oportunidades educativas: los hijos de familias de bajos ingresos tienen menos acceso a educación de calidad que los hijos de familias con altos ingresos. Los estudiantes provenientes de familias de sectores económicamente privilegiados tienen más posibilidades de acceder a escuelas que desarrollan más altos niveles de habilidades académicas. Esta desigualdad de acceso se incrementa cuando los establecimientos escolares seleccionan a sus estudiantes. En consecuencia, se generan desigualdades en el sistema escolar: al interior de los establecimientos escolares, los estudiantes provenientes de familias privilegiadas reciben más apoyo institucional y los estudiantes de familias de bajos ingresos son aislados.</p>
+			<p>Las escuelas se emplazan en ciudades donde hay violencia urbana. En la ciudad aumentan los delitos, la violencia interpersonal y las violencias socioeconómicas producto de la exclusión, la marginación, el desempleo, el desamparo social y la inseguridad que produce el modelo económico neoliberal. La violencia urbana se divide en tres formas: (i) violencia económica, cuyo fin es lograr ganancias y/o bienes mediante hurtos, asaltos, robos, delitos callejeros, secuestros, asesinatos, tráfico de drogas y de armas, comercio sexual, conflictos por delitos económicos, entre otras; (ii) violencia institucional, que incluye acciones realizadas por el Estado, a través de la policía, el sistema judicial, los sistemas de salud y de educación, pero también las acciones realizadas por organizaciones privadas que vulneran derechos ciudadanos. Se suman agresiones cometidas por la comunidad a presuntos delincuentes; (iii) violencia social, como forma cotidiana del fenómeno que ocurre en barrios y en las familias vinculada a género, identidades, territorios, violencia étnica, violencia gratuita cotidiana, falta de urbanidad, entre otras. Además, grupos de jóvenes con escasa organización actúan sobre bienes y personas manifestando ira y venganza contra instituciones, como una forma de oposición política.</p>
+			<p>La violencia está presente en los barrios donde se emplazan escuelas. Por ello, los estudiantes están expuestos a violencia indirecta, agresiones físicas y verbales y violencia traumática. Algunos estudiantes son víctimas y/o testigos de disparos, amenazas, agresiones con armas, abuso sexual, acoso callejero, asaltos, robos, golpizas, peleas y muertes. Son víctimas y/o testigos de la acción policial, la acción de pandillas, el tráfico de drogas. Además, sufren la violencia que produce las malas condiciones de empleo y los bajos ingresos.</p>
+			<p>Hay estudiantes que son víctimas de violencia intrafamiliar. Sufren maltrato físico, emocional, negligencias y abandono. A la vez, se registra violencia entre hermanos y entre los padres, de padres u otros adultos significativos a los estudiantes y de los adolescentes a sus padres. La violencia que ejercen los padres hacia los niños es simbólica, emocional, psicológica, física, sexual y causa daño a la propiedad. Los mismos y/u otros estudiantes son testigos de violencia psicológica, verbal, emocional, física y de negligencias. Igualmente, se observa que estudiantes que son víctimas de abuso sexual han sufrido violaciones, contacto corporal de genitales, relaciones sexuales forzadas o han sido forzados a mirar pornografía. El abuso sexual generalmente es cometido por un amigo o miembro de la familia: padre, madre, padrastro, madrastra, hermano, tío, tía; por un profesor, o por una persona desconocida.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>A modo de conclusión</title>
+			<p>El abordaje problemático de la producción de conocimiento en el tema de la violencia escolar permite plantear dos conclusiones básicas: la constatación del predominio del binarismo en la construcción del objeto investigación y la plausibilidad actual de su reformulación hacia un objeto tríadico.</p>
+			<p>El predominio del binarismo ha significado una estabilización de la distinción conceptual entre lo escolar y lo no escolar, con la consiguiente supresión de las variantes y la clausura de inferencias inductivas, aun cuando se encuentra variada evidencia científica, que cuestiona los valores positivos atribuidos a la institución escolar moderna. Han sido más fuertes, en el sentido pragmático del término, los valores asignados socialmente a la institución que la prueba en una lógica de verificación de los asertos. Esta estabilización conceptual y el efecto de clausura reflexiva sobre la evidencia plantean crecientemente un problema teórico y, a la vez, un obstáculo de orden práctico.</p>
+			<p>Con la preponderancia de la disciplina escolar, como modo de interpretación y acción, ante los actos percibidos o clasificados como violentos en la escuela, la distinción escolar y no escolar tuvo cierta plausibilidad al interior del campo de investigación en educación. En cambio, hoy asistiríamos a un desfase cada vez más visible entre sus fundamentos epistemológicos, las mediaciones teóricas específicas para las violencias situadas en contextos históricos determinados y la capacidad performativa de esos conceptos. Dicho desfase se hace más evidente con el reciente paradigma de la convivencia escolar basado en el respeto y promoción de los derechos humanos y la necesaria declinación de la disciplina escolar como fundamento orientador de la acción educativa.</p>
+			<p>La expectativa de contribuir a las políticas educativas genera una exigencia al componente performativo de la investigación en educación. Este componente en la arquitectura teórica del campo supone “la extensión de las teorías hacia el cambio o transformación de las condiciones sociales que describen o explican, e implican un determinado modo de comportarse en relación al mundo en caso de pretender alguna intervención en él” (<xref ref-type="bibr" rid="B3">Mascareño 2008</xref>:220). Es precisamente esta extensión de las teorías, en sus descripciones o explicaciones de la violencia escolar, que ya no es posible contener la convivencia escolar a los muros de la escuela desde conceptos binarios.</p>
+			<p>El abordaje problemático posibilitó la reformulación del objeto binario de la violencia escolar de un modo plausible basado en el análisis de la evidencia científica, a un objeto de estudio de tres dimensiones: (i) las violencias que produce la escuela; (ii) las violencias que se reproducen en la escuela; (iii) las violencias que cruzan la escuela. Esta propuesta tríadica plantea la necesidad de la vinculación de la investigación en educación con los debates contemporáneos en teoría social y de metodologías de investigación para objetos multidimensionales y, sin duda, con la disposición epistemológica a captar las rupturas y transformaciones que irrumpen en ciertos momentos de las disciplinas.</p>
+			<p>La determinación de las consecuencias del movimiento que se propone desde el objeto binario a un objeto tríadico de investigación requiere de un trabajo epistemológico, teórico y metodológico específico. Ese contexto especificador, precisamente, permite la delimitación temática y de objeto. Sin embargo, se puede señalar que el campo de observación tiene una continuidad al mantener la institución escolar como un referente sociocultural, económico y jurídico para el recorte de objetos posibles. A la escuela, desde un razonamiento problematizador y crítico, podríamos considerarla como un marco de categorías pre-teóricas “puesto que su contenido no puede estar dado <italic>a priori</italic>, dado que esto supone una clausura en la búsqueda de nuevas relaciones y determinantes” (<xref ref-type="bibr" rid="B2">Andrade 2007</xref>:304).</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Nota</title>
+			<p>Este artículo fue elaborado en el marco de los Proyectos FONDECYT Nº 1170328 y Nº 1140135.</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Bialakowsky, A. 2017. El abordaje problemático como metodología para la investigación en teoría sociológica y el análisis de las clasificaciones sociales. <italic>Cinta moebio</italic> 59: 116-128. <ext-link ext-link-type="uri" xlink:href="doi: 10.4067/S0717-554X2017000200116">doi: 10.4067/S0717-554X2017000200116</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bialakowsky</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>El abordaje problemático como metodología para la investigación en teoría sociológica y el análisis de las clasificaciones sociales</article-title>
+					<source>Cinta moebio</source>
+					<volume>59</volume>
+					<fpage>116</fpage>
+					<lpage>128</lpage>
+					<ext-link ext-link-type="uri" xlink:href="doi: 10.4067/S0717-554X2017000200116">doi: 10.4067/S0717-554X2017000200116</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Andrade, L. 2007. Del tema al objeto de investigación en la propuesta epistemológica de Hugo Zemelman. <italic>Cinta moebio</italic> 30: 262-282 <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/30/andrade.html">http://www.moebio.uchile.cl/30/andrade.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Andrade</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Del tema al objeto de investigación en la propuesta epistemológica de Hugo Zemelman</article-title>
+					<source>Cinta moebio</source>
+					<volume>30</volume>
+					<fpage>262</fpage>
+					<lpage>282</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/30/andrade.html">http://www.moebio.uchile.cl/30/andrade.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Mascareño, A. 2008. Acción, estructura y emergencia en la teoría sociológica. <italic>Revista de Sociología</italic> 22: 217-256.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mascareño</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Acción, estructura y emergencia en la teoría sociológica</article-title>
+					<source>Revista de Sociología</source>
+					<volume>22</volume>
+					<fpage>217</fpage>
+					<lpage>256</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

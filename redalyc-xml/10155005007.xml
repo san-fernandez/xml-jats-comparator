@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000300316</article-id>
+			<article-id pub-id-type="publisher-id">00007</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Tensiones y desafíos en el uso del método biográfico</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Tensions and challenges in the use of the biographical method</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Capriati</surname>
+						<given-names>Alejandro</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">CONICET (Buenos Aires, Argentina) ORCID: 0000-0001-8204-6878.</institution>
+					<institution content-type="normalized">Consejo Nacional de Investigaciones Científicas y Técnicas</institution>
+					<institution content-type="orgname">CONICET</institution>
+					<addr-line>
+						<named-content content-type="city">Buenos Aires</named-content>
+					</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Correspondencia: email <email>alejandrocapriati@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<month>12</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>60</issue>
+			<fpage>316</fpage>
+			<lpage>327</lpage>
+			<history>
+				<date date-type="received">
+					<day>31</day>
+					<month>03</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>25</day>
+					<month>07</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>En el artículo identifico tensiones y desafíos en el uso del método biográfico en la investigación social. A partir de su utilización en estudios sobre sobre desigualdades, vulnerabilidades y soportes en jóvenes, examino aspectos teóricos, técnicos y epistemológicos. Los modos de vincular el relato y su contexto sitúan una tensión que va más allá de método biográfico y remiten a un problema central de las ciencias sociales: la tensión individuo sociedad o la relación entre lo micro y lo macro. A partir de la revisión del propio proceso de investigación, destaco la importancia del encuadre teórico de la investigación, la exigencia de transparentar los procedimientos de procesamiento de la evidencia empírica y el requerimiento de poner en diálogo la teoría y los relatos en el análisis. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>The article identifies tensions and challenges in the use of biographical method in social research. From its use in studies on inequalities, vulnerabilities and supports in young people, it examines theoretical, technical and epistemological issues. I argue that the ways of linking the story and its context place a tension that goes beyond the uses of the biographical method and refers to a central problem of the social sciences: the tension between the individual and society or the relationship between the micro and the macro level. From the review of the research process itself, it is important to emphasize the importance of the theoretical framework of research, the requirement of transparency in the procedures for the processing of empirical evidence and the requirement to put theory and narratives in dialogue analysis.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>método biográfico</kwd>
+				<kwd>jóvenes</kwd>
+				<kwd>vulnerabilidades</kwd>
+				<kwd>casos</kwd>
+				<kwd>individuo.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>biography</kwd>
+				<kwd>method</kwd>
+				<kwd>youth</kwd>
+				<kwd>vulnerability</kwd>
+				<kwd>case</kwd>
+				<kwd>individual.</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>MINCyT</funding-source>
+					<award-id>PICT 2346</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="22"/>
+				<page-count count="12"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>En este artículo reflexiono sobre las tareas del cientista social, especialmente en el uso del método biográfico. Este análisis examina la construcción del objeto de estudio, el encuadre teórico y la estrategia metodología y tiene como telón de fondo el estudio de las desigualdades sociales, las vulnerabilidades y los soportes en adolescentes y jóvenes. El interés está centrado en someter a crítica el proceso de investigación, para captar los condicionamientos en la relación con los fenómenos y los límites del análisis, a partir de la puesta en práctica de una “visión epistemológica” (<xref ref-type="bibr" rid="B11">Jaramillo 2003</xref>:176) que me permita reflexionar sobre el “alcance de mis observaciones en un mundo que estoy viendo como objetivo desde mi visión subjetiva”, asunto de singular relevancia en el método biográfico por el encantamiento con la historia singular.</p>
+			<p>El relato de vida, en su definición más básica, es una técnica que se utiliza para producir datos cualitativos que permitan reconstruir las experiencias personales. El uso de los relatos de vida en las ciencias sociales forma parte de heterogéneas tradiciones metodológicas, con estilos teóricos diferentes. A pesar de que los estudios biográficos ya cuentan con casi un siglo de existencia, perduran todavía juicios que pretenden menoscabar el valor de este enfoque, asentados en el error epistemológico de considerar que existe un tipo de metodología o técnica mejor que otra. Estos juicios negativos forman parte de “los falsos dilemas que suelen instalarse en la reflexión académica” (<xref ref-type="bibr" rid="B16">Oslak 2011</xref>:83) y refuerzan dicotomías entre el trabajo teórico y el estudio de caso, entre el nivel macro y el micro, entre las técnicas cuantitativas y las cualitativas. </p>
+			<p>Un recorrido convencional de ese legado, sin ánimo de exhaustividad, puede reparar en aportes de distintas disciplinas: desde los estudios antropológicos de Radin y Lewis hasta las investigaciones de Leclerc-Olive, pasando por el análisis comprensivo de Bertaux. Otro recorrido puede dar cuenta de los usos recientes del enfoque biográfico en una diversidad de áreas de estudios: por ejemplo, en América Latina, hay aportes destacados en el campo de la educación al estudiar la experiencia y la identidad en las narrativas de formación, en las investigaciones sobre memoria política y testimonios de militantes, en el campo de estudios sobre juventudes, entre otros. Ambos recorridos dan cuenta de la existencia de un <italic>método o enfoque biográfico</italic>, en el cual el <italic>relato de</italic> 
+ <italic>vida</italic>, en tanto instrumento de recolección de datos, adquiere pleno sentido en función de los principios que orientan su uso y “lo sitúa en un determinado marco conceptual, ético y epistemológico” (<xref ref-type="bibr" rid="B8">Cornejo y Rojas 2008</xref>:30). Así, es adecuado hablar de método o enfoque biográfico cuando se asocia a dimensiones epistemológicas, cuando “se lo empieza a considerar como algo más que una técnica novedosa” (<xref ref-type="bibr" rid="B2">Bassi Follari 2014</xref>:131), como comenzó a darse recién desde las décadas del veinte del siglo pasado. </p>
+			<p>En estas reflexiones sobre el método biográfico identifico en su utilización tensiones y desafíos de distinto orden, algunas compartidas con la investigación social en términos generales y otras exclusivas de este tipo de enfoque en particular. En el primer apartado, reviso la construcción del objeto de estudio y los conceptos que orientan el estudio de las incertidumbres sobre el devenir joven, a partir del cual se inscribe el uso del relato de vida. En el segundo apartado, examino modos de vincular el relato y su contexto desde el enfoque biográfico y como parte de un problema central de las ciencias sociales: la tensión individuo sociedad o la relación entre lo micro y lo macro. En el tercer apartado, recupero nudos problemáticos enfrentados en las investigaciones realizadas para poner de relieve olvidos o descuidos en el uso del enfoque biográfico. </p>
+		</sec>
+		<sec>
+			<title>El interrogante sobre el devenir joven</title>
+			<p>¿Cuáles son los interrogantes y los conceptos que movilizamos para el estudio sobre la condición juvenil y el devenir joven? ¿En qué medida son relevantes los interrogantes y adecuados los conceptos? Estas preguntas revisten una importancia decisiva por el “desfase que existe entre muchos <italic>corporas</italic> teóricas y la realidad” (<xref ref-type="bibr" rid="B22">Zemelman 2008</xref>:1) y el riesgo latente de pensar ficticiamente o inventar realidades. Por supuesto, estas preguntas no son respondidas, funcionan como advertencias o llamados de atención que acompañan la definición del objeto de estudio y el armado del marco conceptual, como así también están presentes en la reflexión sobre el uso del enfoque biográfico y los modos de analizar el corpus empírico. </p>
+			<p>Si bien la construcción del objeto de estudio es una de las tareas primordiales del cientista social, muchas veces este trabajo es subestimado, desconociendo la relevancia de examinar cómo y por qué se plantean ciertos objetos de estudio. Del mismo modo, se suele pasar por alto el examen crítico sobre las relaciones entre el objeto de estudio y las urgencias del espacio público. La conversión de los problemas sociales, definidos como tales en la agenda política o en los medios de comunicación, en objetos de estudio, constituye uno de los desafíos más serios para la capacidad crítica de las ciencias sociales en tanto “encarnan generalmente de manera muy realista en las ‘poblaciones’ cuyos ‘problemas’ se trata de resolver” (<xref ref-type="bibr" rid="B14">Lenoir 1993</xref>:59). </p>
+			<p>Estas dificultades, presentes en toda investigación social, parecen acrecentarse cuando se investiga fenómenos sociales vinculados con adolescentes y jóvenes, objetos recurrentes de programas sociales o debates televisivos que sitúan en el centro de la cuestión a “la juventud perdida”, “las madres adolescentes” o “los jóvenes violentos”. Hace más de cuarenta años, <xref ref-type="bibr" rid="B3">Becker sugería que la mayoría de la investigación sobre juventud estaba diseñada para descubrir por qué ésta era tan molesta para los adultos, “antes que interrogarse la igualmente válida pregunta sociológica: ¿por qué los adultos se hacen tanto problema con la juventud?” (1967</xref>:242). Cuando estos problemas se filtran en la investigación, impiden una interrogación controlada del mundo social y dan rienda suelta a las explicaciones del sentido común y la ilusión del saber inmediato. Así, se tiende a trabajar sobre recortes parciales de la realidad, se descontextualiza las prácticas de sus contextos sociales y se abraza la visión convencional del individuo moderno, “considerado en tanto ser independiente, autónomo y singular” (<xref ref-type="bibr" rid="B15">Martuccelli 2007</xref>:66), sostenido desde el interior.</p>
+			<p>Atento a estas circunstancias, en la construcción del objeto de estudio he situado el interés en vincular las prácticas de las personas en el escenario social más amplio, con el objeto de develar los modos en que se relacionan las desigualdades, las vulnerabilidades y los soportes en la vida cotidiana de las personas. En esta definición he buscado de modo explícito ampliar el foco de análisis y así captar tanto los procesos que precarizan las condiciones de existencia como las relaciones, espacios o instituciones que brindan algún tipo de contención, reparación o resistencia frente a tales procesos. El reto no era abordar los rasgos generales de la desigualdad, sino comprender la concreción de las relaciones de clase, género y generación en las escenas de la vida cotidiana, “puerta de entrada más interesante al análisis de la vulnerabilidad y están siempre permeadas por diferencias de poder y jerarquías” (<xref ref-type="bibr" rid="B17">Paiva et.al. 2012</xref>:178), con el interés en el modo cómo la desigualdad está siendo vivida en cada lugar. </p>
+			<p>En paralelo a la definición de este objeto de estudio, he procurado nutrirme de una batería de enfoques y conceptos que permitieran disponer de coordenadas teóricas sobre cómo estudiar los escenarios sociales y los procesos que afectan la salud. Por un lado, retomo una perspectiva multidimensional para analizar las desigualdades, especialmente los enfoques que acentúan la “dimensión espacial y territorial” que permiten aprehender cómo “las múltiples desigualdades sociales, económicas y educativas están entrelazadas”, tal como lo desarrolla <xref ref-type="bibr" rid="B19">Steinberg et.al. (2013</xref>:4). Por otro lado, apelo al enfoque de vulnerabilidad y derechos humanos como así también a la noción de soportes para captar de modo complejo los procesos que inciden en la salud. Una definición amplia de la salud permite incluir en su análisis las prácticas, situaciones o condiciones capaces de producir tanto bienestar como malestar en las personas y sus comunidades. La vulnerabilidad no refiere a una característica distintiva de adolescentes o jóvenes ni tampoco a un atributo individual, designa “un conjunto de aspectos individuales y colectivos relacionados a la mayor susceptibilidad de individuos y comunidades ante una enfermedad o daño y, de modo inseparable, menor disponibilidad de recursos para su protección” (<xref ref-type="bibr" rid="B17">Paiva et.al. 2012</xref>:79). Este enfoque desplaza la atención del comportamiento de riesgo hacia las escenas cotidianas y el escenario social en el cual se desarrollan las prácticas de las personas y centra el análisis en las relaciones sociales “que están en la base de situaciones de vulnerabilidad”, como las relaciones de género, generacionales, raciales y socio-económicas (<xref ref-type="bibr" rid="B17">Paiva et.al. 2012</xref>:12). De modo complementario, la noción de soportes amplia el estudio de los aspectos considerados como relevantes para el desarrollo, la salud y el bienestar. Además de los recursos económicos, los derechos sociales y el sistema de protección, elementos indudablemente centrales en la vida de las personas, los soportes, tal como desarrolla Martuccelli, son definidos como medios materiales e inmateriales, relaciones u objetos, experiencias o actividades diversas, que permiten a los individuos sostenerse en la existencia, insertos en entramados particulares de interdependencias. Una sociología de los soportes, retomando la propuesta de <xref ref-type="bibr" rid="B15">Martuccelli, “debe estudiar atentamente las situaciones, los procesos, las relaciones, los símbolos que, operando como verdaderas prótesis subjetivas, permiten a los individuos sostenerse en la existencia” (2007</xref>:80). Esta perspectiva deja abierto el carácter de los soportes frente a la “diversidad de elementos susceptibles de jugar un papel de este tipo, y en la variedad de sus manifestaciones históricas” (<xref ref-type="bibr" rid="B15">Martuccelli 2007</xref>:80). </p>
+			<p>Desde estas coordenadas conceptuales, la condición juvenil como objeto de estudio desde las ciencias sociales refiere a un conjunto de procesos que se despliegan en el devenir joven, desde las transformaciones corporales hasta el acceso a la vida adulta, en los cuales se expresan relaciones intergeneracionales, de género, socioeconómicas, culturales y étnicas. En el estudio de estos procesos no se apela a una noción de desarrollo psicosocial normal, con sentidos fijos para cada etapa o ciclo, sino que se asume como punto de partida la diversidad de significados para varones y mujeres y para quienes se apartan del binarismo de género. La escuela, la familia, la política y el trabajo, afrontan cambios, tanto en su alcance y posibilidades como en sus normas y valores Las instituciones que fueron condiciones de posibilidad de los actores juveniles durante el siglo veinte y que, durante cierto tiempo, dependiendo de lugares, lograron delimitar el universo juvenil, se encuentran en proceso de re-configuración. Así, la diversidad de escenarios en las sociedades contemporáneas torna obsoleta la categoría “juventud”, entendida “como un proceso con un único objetivo inherente: al logro de la plenitud adulta” (<xref ref-type="bibr" rid="B4">Brunet y Pizzi 2013</xref>:22), caracterizada por una transición lineal y predecible. “La apuesta teórica”, como plantea <xref ref-type="bibr" rid="B7">Chaves, “es pensar la juventud como relación, al joven como posibilidad, lo que incluye todas las caras, la posibilidad no es positiva en el sentido de «lo bueno» o «lo deseable», sino en el sentido del poder hacer, del reconocimiento de las capacidades del sujeto” (2005</xref>:32). </p>
+			<p>Este marco conceptual no ha sido elaborado al comienzo de la investigación, es un resultado de la práctica de investigación y de la metodología utilizada. El enfoque biográfico ha sido el método desde el cual se ha procurado avanzar en el estudio de los acontecimientos que precarizan la vida de las personas y en la comprensión de las formas en que las y los jóvenes soportan y resisten las situaciones adversas y significan sus propias vidas. Tal como ha sido documentado en investigaciones con jóvenes en el área metropolitana de Buenos Aires, desarrolladas por Di Leo y Camarotti (<italic>Quiero escribir mi historia. Vidas de jóvenes en barrios populares</italic>), el enfoque biográfico permite ahondar en el estudio de las vulnerabilidades y los soportes como así también provee un ángulo fecundo para avanzar en el estudio de las mediaciones entre el contexto y las prácticas. El desafío que propone este enfoque, como recuerda Kornblit, radica en vincular la experiencia única individual con el contexto social (<italic>Historias y relatos de vida: pseudo análisis y análisis en la investigación social</italic>), para comprender los sentidos de la experiencia y los procesos sociales que en ella se desenvuelven. Este reto ha atravesado los usos del relato de vida desde sus primeros usos en las ciencias sociales y continúa siendo un asunto de vital importancia.</p>
+		</sec>
+		<sec>
+			<title>Tensiones en el uso del enfoque biográfico</title>
+			<p>En los primeros estudios desde el enfoque biográfico se puede identificar un modo de vincular el relato de vida y su contexto social que podemos calificar como <italic>representacional</italic>. Este modo consistiría en enmarcar el relato en las condiciones de vida y mostrar ese relato como representante del mundo en que viven. Este modo lo podemos ver, por ejemplo, en la obra de Oscar Lewis <italic>Los hijos de Sánchez: autobiografía de una familia mexicana</italic> de 1964, en la que el autor describe lo que denomina la “cultura de la pobreza”. La historia de vida es utilizada por el autor como una forma de exhibir al mundo lo que se oculta tras la imagen de bienestar que promete el mundo capitalista; su trabajo, como plantean <xref ref-type="bibr" rid="B5">H. Buechler y J. Buechler, perdió valor “por la adopción prematura de un modelo rígido de ‘cultura de la pobreza’ que guardaba escasa relación con el contenido de los textos registrados” (1999</xref>:249).</p>
+			<p>Este modo representacional fue criticado tempranamente desde la propia antropología: el foco “en la impronta que dejaba la cultura sobre las vidas humanas”, el énfasis “en los aspectos que parecían conformarse a la normal general” (<xref ref-type="bibr" rid="B5">Buechler y Buechler 1999</xref>:248), el propósito de alcanzar una generalización acerca de las características culturales de un grupo a partir de la sumatoria de historias individuales, hace perder riqueza a los análisis, en pos de generalizaciones dudosas, y no permite comprender cómo las personas han ejercido su capacidad de agencia frente a las constricciones del medio. A diferencia del uso de los relatos como ejemplos de una cultura o clase general, se propone como estrategia profundizar el análisis individual de las historias como un modo de comprender el papel de la agencia en los procesos socio-culturales. Así, las historias de vida permiten aprehender cómo las personas han ejercido su capacidad de agencia frente a las constricciones del medio y cómo sus diferentes experiencias se han ido concatenando en respuesta a ellas, desenredando así los vectores generales y particulares que engloban. </p>
+			<p>Este contrapunto evidenció el regreso del énfasis en el individuo en los planteos teóricos de las ciencias humanas y sociales. Por ejemplo, en la historia esta recuperación se vio acompañada de cambios en la manera en que los historiadores practicaban su disciplina. En el proceso de describir el pasado, como afirma Aceves Lozano (<italic>Historia Oral</italic>), los historiadores comenzaron a escuchar el testimonio de los vivos. Estos cambios implicaron modificaciones no solo en lo relativo a las fuentes utilizadas, sino también al tipo de sujetos sociales considerados y al nivel en que se los estudia: las “personas comunes” y los sectores vulnerables se convirtieron en sujetos privilegiados por los estudios históricos, especialmente desde enfoques más locales y particulares que permitieron recrear las condiciones de la vida cotidiana. Las herramientas que posibilitaron estos abordajes fueron las desarrolladas por la historia oral, en especial los relatos de vida, e introdujeron una dimensión hasta ese momento fuera de la concepción del quehacer histórico: la dimensión subjetiva. En este cambio ha sido decisivo, como plantea Thompson (<italic>La Voz del Pasado</italic>), la aceptación del papel del individuo como parte de la estructura de interpretación. </p>
+			<p>En este punto volvemos al planteo sobre el regreso del énfasis en el individuo, pero con un plus: a pesar de que el consenso entre los historiadores y otros cientistas sociales es que las historias individuales dan el pie para las indagaciones acerca del contexto social, el “giro lingüístico” enfatiza el hecho de que esta trasposición no es directa. No hay transparencia entre el texto y el contexto, dice Robin (<italic>¿Es la historia de vida un espacio al margen del poder?</italic>), solo podemos remitir el texto a otras referencias textuales, al discurso social, entendido como la totalidad de lo que se dice, se escribe, etc., tal como lo define Angenot (<italic>El discurso social. Los límites de lo pensable y lo decible</italic>). En las historias de vida encontramos, recreados, los estereotipos sociales que nos sirven para construir nuestro propio relato acerca de nosotros mismos. En este punto, cabe subrayar un aspecto básico: la autobiografía y los relatos de vida, no expresan lo real, sino solo el recuerdo de lo acontecido, filtrado, como es lógico, por las emociones vividas en el momento y por las autolecturas de los episodios pasados en función de las resignificaciones que vamos construyendo acerca de nosotros mismos en nuestros sucesivos períodos vitales.</p>
+			<p>Este retorno del individuo ha tenido un efecto perjudicial en algunas investigaciones, en las cuales se radicaliza la acción individual y se produce una tergiversación en el uso del relato de vida al considerar la experiencia “recortada de sus relaciones estructurantes” (Trescisacce 2016:290). Este déficit es examinado por Trescisacce en la revisión histórica que realiza del concepto de experiencia con la institucionalización de la perspectiva feminista en la academia. La autora señala una “transmutación del sentido y del valor gnoseológico y política de la noción de experiencia, que supone un desplazamiento de la atención de las condiciones sociales que podrían develar los relatos” (<xref ref-type="bibr" rid="B20">Trescisacce 2016</xref>:290), al esencializar la experiencia individual como recinto último de la verdad del sujeto por medio del relato de vida.</p>
+			<p>El modo convencional de vincular el relato y su contexto, como también su crítica y el enfoque centrado en la capacidad de agencia de las personas, sitúan una tensión que va más allá de los usos del método biográfico, desde la antropología o la historia, y remite a un problema central de las ciencias sociales: la tensión individuo sociedad o la relación entre lo micro y lo macro. Si bien desde los trabajos de autores clásicos, como Marx o Mead, hasta en los abordajes contemporáneos, como Bourdieu o Giddens por ejemplo, se constata el esfuerzo por integrar los análisis micro y macro, “en lugar de tratarlos como enfoques polares y aislados” (<xref ref-type="bibr" rid="B16">Oslak 2011</xref>:100), es persistente un modo de pensar que tiende a disociar los niveles y diluir las tensiones en uno u otro polo. Es como si se creyera que situar el foco de análisis en las experiencias subjetivas implica negar la existencia de estructuras que trascienden las interacciones o que el análisis de los mecanismos que facilitan la reproducción del mundo social supone desconocer la capacidad de acción de los sujetos. </p>
+			<p>Estas antinomias, heredadas del “proceso formativo de las ciencias sociales” (<xref ref-type="bibr" rid="B6">Charry y Pedemonte 2013</xref>:17) (comunidad / sociedad, estructura social / acción social, etc.) se han visto desafiadas por importantes desarrollos teóricos que enfatizaron el polo individual, especialmente desde mediados de la década de los setenta del siglo pasado. Por ejemplo, cómo conceptualizar el lugar que le cabe en todo análisis social al contexto y a las posiciones sociales constituye, continuando con <xref ref-type="bibr" rid="B15">Martuccelli, uno de los problemas principales de la teoría social frente a la crisis de la idea del personaje social, es decir, qué hacer ante el descrédito de la “homología más o menos estrecha entre un conjunto de procesos estructurales, una trayectoria colectiva (clasista, genérica o generacional) y una experiencia personal” (2007</xref>:8). Así, emerge con fuerza el interrogante teórico “sobre las implicancias de lo individual en un escenario social de intensivas transformaciones” (<xref ref-type="bibr" rid="B6">Charry y Pedemonte 2013</xref>:21). Con este interrogante no estamos haciendo referencia a la noción liberal e individualista del individuo, ni tampoco al individualismo metodológico, sino al proceso de individuación.</p>
+			<p>La individuación como estrategia de análisis, tal como explican <xref ref-type="bibr" rid="B1">Araujo y Martuccelli, “no supone en absoluto una reducción del análisis sociológico al nivel del actor, sino que aparece como la consecuencia de una transformación societal que instaura al individuo en el zócalo de la producción de la vida social” (2010</xref>:79). El interrogante que se plantea es cómo se estructuran los fenómenos sociales a nivel de las experiencias personales. En la actualidad los acontecimientos del mundo se relativizan tomando como referencia las relaciones interpersonales de cada sujeto, a la inversa de lo que ocurría en las sociedades tradicionales, en las que existían calendarios colectivos que hacían que los individuos se plegaran a los ritmos impuestos por los fenómenos naturales en tiempos pretéritos y posteriormente por los patrones sociales y religiosos. Así, como dice <xref ref-type="bibr" rid="B12">Leclerc-Olive, “lo biográfico se impone como objeto de nuestro tiempo” (1997</xref>:235), dado que los referentes temporales fundamentales son los acontecimientos biográficos. </p>
+			<p>No se trata de sustraer el contexto del análisis social, sino de modificar “la voluntad de entender, exclusivamente, e incluso mayoritariamente” (<xref ref-type="bibr" rid="B15">Martuccelli 2007</xref>:9) al individuo y al mundo social, exclusiva y/o dominantemente, a partir de las posiciones sociales. Situar al individuo en el centro del análisis es un modo de abordar los contextos históricos de la condición moderna y su traducción al nivel de las experiencias de los individuos, de acuerdo con la propuesta de Martuccelli. Para el desarrollo de la teoría de la individuación y el estudio de los soportes, retomando los aportes de <xref ref-type="bibr" rid="B9">Di Leo, se “requiere el abordaje sociológico de las experiencias personales” (Di Leo 2011</xref>:7) por medio del enfoque biográfico. De este modo, “a partir de los relatos biográficos”, tal como plantean <xref ref-type="bibr" rid="B10">Di Leo y Camarotti, es posible “ir deshaciendo la madeja de los acontecimientos que ponen en acto los momentos donde sus existencias son efectivamente -sea de manera implícita e indirecta o de manera explícita y directa- atravesada por lo social” (2013</xref>:22). </p>
+		</sec>
+		<sec>
+			<title>Dificultades y estrategias en el análisis de los relatos</title>
+			<p>A partir de la estrategia teórico metodológica desarrollado por <xref ref-type="bibr" rid="B10">Di Leo y Camarotti (2013</xref>), realicé junto a un equipo de estudiantes y jóvenes graduados relatos de vida a varones y mujeres, de entre 18 y 26 años de edad (salvo uno de los entrevistados que tiene 31 años), todos residentes en villas y barrios populares del Gran Buenos Aires, con el objetivo de continuar el estudio de las relaciones entre trayectorias juveniles, vulnerabilidades y soportes en diversos escenarios sociales del Gran Buenos Aires.</p>
+			<p>En sus relatos, las personas entrevistadas detallan vivencias y situaciones identificadas por ellas mismas como acontecimientos significativos en sus vidas: rupturas familiares, enfermedades y fallecimientos de personas cercanas; carencias diarias y afectivas en el hogar; situaciones de violencia en el ámbito familiar y en la escuela; interrupción de los estudios; migraciones; consumo problemático de drogas; problemas con la policía; tareas domésticas, obligaciones laborales y responsabilidades de cuidado; logros educativos y laborales; iniciativas culturales, participaciones en agrupaciones políticas, entre otros proyectos. En las trayectorias de este grupo de jóvenes, los ciclos vitales se suceden de modo vertiginoso: una breve infancia deja paso a una adolescencia con obligaciones típicas de la vida adulta. Conscientes de este veloz transcurrir del tiempo, las y los jóvenes saben que es mucho lo que han vivido. No obstante, el sentido en torno a los motivos, causas o razones que puedan contribuir a explicar tales peculiares circunstancias de vida no es homogéneo.</p>
+			<p>En el presente artículo no es adecuado explayarme sobre cada relato y los resultados de la investigación, pero sí es pertinente recuperarlos de modo parcial y sintético en tanto materia prima para reflexionar sobre las dificultades que emergieron en el transcurrir de la práctica de investigación. Estas dificultades o nudos problemáticos remiten a desafíos que, lejos de ser novedosos, son tareas básicas de la investigación social que pueden ser olvidadas en el uso del enfoque biográfico, ya sea por la intensidad de los dramas narrados o la ilusión de la comprensión por empatía. En la instancia de análisis del corpus empírico vuelve, como en todas las etapas de una investigación, a cobrar relevancia la conciencia reflexiva del investigador, para no olvidar el alcance permitido de sus planteos, para advertir “que no se puede escapar del error por mínimo que este sea” (<xref ref-type="bibr" rid="B11">Jaramillo 2003</xref>:177).</p>
+			<p>En esta revisión del proceso de investigación realizado, las dificultades técnicas encontraron cause en la valoración de la teoría como hilo conductor de la investigación. ¿De qué manera evitar la utopía biográfica y su ilusión de que toda la información brindada es relevante? ¿Cuáles son las contribuciones del investigador si transcribe lo ya dicho por el entrevistado sin agregar un plus? ¿Con qué certezas contamos que las interpretaciones del investigador son válidas?</p>
+			<p>El riesgo de la utopía biográfica debe ser controlado por medio de la claridad teórica de la investigación. Por claridad teórica no hago referencia a sofisticadas teorías ni a proposiciones con capacidad predictiva, sino a un marco conceptual, con mayor o menor nivel de abstracción, más o menos embebido en teoría sustantiva, que permita distinguir la información relevante, definirla y articularla en una explicación. Solo así las conclusiones alcanzadas pueden superar el umbral de la anécdota, información irrelevante al conocimiento científico. El problema de la selección de los datos no es privativo del trabajo con el método biográfico, sino inherente a la investigación social. El riesgo, como recuerda Oslak, es convertirse en Pierre Menard, el personaje del cuento de Borges que intenta reescribir El Quijote palabra por palabra.</p>
+			<p>Si bien no existen verdades en la producción del conocimiento científico, sí contamos con preceptos para la práctica de la investigación. En el caso del método biográfico, como plantea <xref ref-type="bibr" rid="B13">Leclerc-Olive, “dos escollos amenazan las interpretaciones del investigador” (2009</xref>:14): por un lado, el sentido redundante y, por el otro, el sentido incompatible. El primero refiere a la reiteración del sentido ya dado por el narrador por parte del investigador. El segundo se expresa cuando el investigador plantea un sentido opuesto al propósito del narrador. Nuevamente, la salida a estos escollos tiene que ver con la teoría o, mejor dicho, las teorías, tanto las narrativas que se retoman en el método biográfico como las teorías sustantivas del campo específico de estudio.</p>
+			<p>Sabemos que narrar implica plantear ciertas generalizaciones de orden clasificatorio, en la cual “una mínima interpretación se encuentra ya inscrita dejando ver el germen de un sentido” (<xref ref-type="bibr" rid="B13">Leclerc-Olive 2009</xref>:13), explicitando en la dimensión informativa del relato una base común entre ambas interpretaciones. Desde este primer acercamiento al sentido, es posible construir otras interpretaciones plausibles, apoyadas en la dimensión evocativa del discurso, punto en el cual pueden divergir las interpretaciones. Éstas serán más interesantes en función de la familiaridad que el investigador tenga de la teoría sustantiva del campo de conocimiento en el cual está situado su objeto de estudio.</p>
+			<p>En los artículos sobre investigación con relatos de vida, gran parte de la atención está concentrada en los aportes generales de distintas disciplinas (antropología, historia, sociología, educación) y rara vez, como constatan <xref ref-type="bibr" rid="B8">Cornejo, Mendoza y Rojas, se incluyen “aspectos puntuales referidos al proceso de implementación de una investigación con relatos” (2008</xref>:29), decisiones relativas a cuántos y quiénes investigar, ni cómo conducir las entrevistas. En esta misma línea, considero que también son pocos los trabajos que explicitan el camino que se recorrió en el análisis y reflexionan sobre ese proceso. Al racionalizar <italic>ex post</italic> el análisis realizado, sin saberlo con exactitud en el transcurso de la propia investigación, identifico que en el procesamiento de los relatos de vida y de las entrevistas he conjugado dos estrategias complementarias, una de tipo diacrónica y otra sincrónica.</p>
+			<p>El análisis de tipo diacrónico tiene como punto de partida la hipótesis formulada por <xref ref-type="bibr" rid="B13">Leclerc-Olive sobre la relación entre “los acontecimientos que marcan la vida” (2009</xref>:1) y las temporalidades de la experiencia. Los acontecimientos que marcan la vida de las personas, no se inscriben simplemente “en” el tiempo. Contrariamente a lo que podría pensarse desde el sentido común, los acontecimientos biográficos, entramados en el relato, forman un “calendario privado, discreto”, una matriz temporal capaz de albergar los recuerdos y pensar un tiempo continuo. Al par que son objetos del relato, desencadenan y estructuran alrededor de ellos el sentido otorgado por el sujeto a su vida. Pero a la vez adquieren este sentido a través del conjunto del recorrido de la vida en el que se inscriben. Leclerc-Olive define los acontecimientos en los que se ha estabilizado el significado como <italic>giros de la existencia</italic>, éstos se distancian tanto de los acontecimientos que son recordados sin que se les asignen relevancia en cuanto a cambiar el curso de la vida de una persona, como de las <italic>catástrofes</italic> que no han podido aún ser pensadas por su carga afectiva traumática. A partir de este punto inicial, identifiqué en los relatos y en las entrevistas tres períodos: el tiempo del antes, el tiempo del después y el tiempo presente. Cada uno de estos períodos, signado por distintas situaciones, presenta diversos niveles de dramaticidad. En algunos de los relatos se identifican momentos de cambio que pueden ser caracterizados como giros de la existencia; término central en el enfoque biográfico, denominado también como “puntos de viraje”, “momentos bisagra”, o “puntos de inflexión”, que refiere a un momento vital identificado por el sujeto como una encrucijada a partir de la cual el itinerario biográfico de la persona toma un rumbo distinto, o se inicia una nueva etapa.</p>
+			<p>Por otro lado, el análisis de tipo sincrónico se aleja en mayor medida de la singularidad de cada relato y de los sentidos expuestos en las entrevistas. En estas interpretaciones se eleva la mira del análisis con el objeto de conectar los relatos y las entrevistas con los procesos macro, por medio de interpretaciones teóricas de un mayor nivel de abstracción para generar una perspectiva diferente de lo ya sabido. En esta dirección, el análisis de las trayectorias, reconstruidas en cada relato, permiten aprehender maneras en que se vinculan las experiencias individuales de las personas y los entornos en los cuales se desenvuelven sus vidas, desde los más inmediatos, como la familia y los grupos de pares, hasta las instituciones del Estado y las organizaciones de la sociedad civil. Orientado desde el enfoque conceptual que sustenta el trabajo, este análisis se sintetizó en proposiciones sobre la asunción de tareas y obligaciones típicas de la vida adulta a edades tempranas, el tipo de soportes disponibles y los modos de significar lo vivido como una tensión entre la privatización de las adversidades vividas y la politización de la experiencia.</p>
+			<p>La conjugación de una estrategia de análisis diacrónica y sincrónica ha facilitado el proceso de reconstrucción de las perspectivas de los actores. Analizar los fenómenos sociales a partir de las perspectivas de los actores no significa simplemente restituir la “voz de las personas”: escuchar a los sujetos y registrar sus narraciones es un paso necesario que debe ser complementado con la construcción de conceptos teóricos, elaborados por el investigador para dar cuenta de las configuraciones de sentido de las prácticas, proceso en el cual el investigador imputa significados a las acciones y establece vinculaciones con procesos sociales más amplios.</p>
+			<p>La investigación en general, y especialmente la investigación social, no refiere a una situación en la cual un observador externo describe un fenómeno que le resulta ajeno como si estuviera por fuera de la realidad que analiza. Tener conciencia de la posición y del punto de vista desde el cual me relaciono con los fenómenos bajo estudio. No olvidar que, en tanto investigador, formo parte de la realidad que describo y que la investigación “no es meramente un proceso de observación, sino una participación activa en el hecho o fenómeno estudiado” (Ricci en <xref ref-type="bibr" rid="B11">Jaramillo 2003</xref>:176), son ejercicios que deben acompañar de modo cotidiano cada etapa de la investigación, tanto en la construcción del objeto de estudio como en el análisis del corpus empírico producido. Ejercicios que no pueden evitar el error, pero sí contribuyen a su identificación de las limitaciones de cada trabajo al explicitar las posiciones y las decisiones que inevitablemente se toman en la producción de conocimiento. </p>
+			<p>A diferencia de las ciencias naturales, la sociología más que revelar algo completamente desconocido, genera una comprensión mayor de aspectos de la vida social que muchas personas intuyen o conocen (Becker. <italic>Trucos del oficio. Cómo conducir su investigación en ciencias sociales</italic>). Inevitablemente, este tipo de trabajo implica tomar la imperdonable libertad de hablar en nombre de las personas entrevistadas (Sennett. <italic>La cultura del nuevo capitalismo</italic>). Esta licencia, no obstante, está atenuada por dos cuestiones centrales. La primera de ellas refiere al modo de concebir la relación de investigación y la pregunta acerca de quiénes están legítimamente autorizados a investigar. Una respuesta “éticamente fundada”, como señala <xref ref-type="bibr" rid="B18">Pecheny et.al. (2008</xref>:11), debe tener como precepto la rigurosidad desde el punto de vista empírico, la rectitud desde el punto de vista ético y la buena fe desde el punto de vista de la expresión de su experiencia subjetiva. La segunda de ellas reduce el impacto de aquella libertad debido a que la sociología contemporánea está condenada a no ser la expresión completa de ningún actor y, en el mejor de los casos, el texto de una investigación pasará a integrar la arena del mismo conflicto que pretende explicar. “Nuestro problema”, como afirma <xref ref-type="bibr" rid="B3">Becker, “es estar seguros que más allá del punto que tomemos, nuestra investigación encuentre el estándar de un buen trabajo científico en el cual nuestras inevitables simpatías no invaliden nuestros resultados” (1967</xref>:246). </p>
+			<p><bold>A modo de cierre</bold></p>
+			<p>Las reflexiones compartidas sobre los desafíos que se presentan en el uso del enfoque biográfico no se realizaron en términos abstractos, como un ejercicio metodológico desvinculado de su uso, sino que han emergido como parte de la práctica de investigación, una necesidad de examinar lo andado: desde revisar la construcción del objeto y los conceptos utilizados hasta las estrategias de análisis, pasando por las implicancias del método y sus posibilidades. </p>
+			<p>El enfoque biográfico presenta como desafío básico la vinculación del relato, la narración de los acontecimientos, con el contexto o escenario social para poder avanzar en la comprensión de los procesos sociales que se desenvuelven en la experiencia. Este reto, presente desde sus primeros usos en las ciencias sociales, pone de relieve un asunto teórico central de las ciencias sociales: la tensión individuo sociedad. Las ideas convencionales que tendían a oponer la libertad del individuo o la agencia de los actores y las constricciones de la estructura social o el determinismo social, han dado lugar a teorías que no pretenden resolver la ecuación en favor de uno u otro polo, sino iluminar el espacio abierto entre ambos con la elaboración de conceptos más sutiles. Sin ánimo de producir formulaciones teóricas, Becker invita a trabajar bajo el doble supuesto de que los acontecimientos no son aleatorios y tampoco están determinados. </p>
+			<p>Esta tensión teórica permanece latente en el marco conceptual desarrollado, como así también está presente en las estrategias de análisis implementadas. En un proyecto de investigación, esta tensión o el dilema entre los niveles micro y macro, como recuerda Oslak, acaban siendo más un problema metodológico que teórico. En la investigación utilizada como telón de fondo de estas reflexiones epistemológicas, el enfoque o método biográfico ha resultado de utilidad para captar desde la vivencia de las personas los acontecimientos que precarizan sus condiciones de vida y cuenta con la sensibilidad necesaria para captar los giros de la existencia y las “vueltas de página”. En las narraciones de estos jóvenes se identifican modos en que las experiencias personales son condicionadas por el entorno como así también se vislumbran los cambios, en las cuales lo determinado, cerrado e imposible deja lugar a lo inesperado y posible.</p>
+			<p>Queda todavía un largo trabajo para ahondar más desde el enfoque biográfico en los modos en que las instituciones y el escenario social inciden en la modulación de las trayectorias, en la precarización de la vida, en los modos significar lo vivido y los procesos de cambio. También está abierto el desafío de vincular la producción de este tipo de conocimiento con otras técnicas para contar con descripciones más precisas de los contornos de ese escenario social y poder establecer “conexiones entre posiciones estructurales, oportunidades en el acceso a bienes y servicios locales, y trayectorias biográficas de adolescentes y jóvenes” (<xref ref-type="bibr" rid="B21">Wald, Capriati, Pecheny <italic>et al</italic>. 2016</xref>:1). La reconstrucción del escenario social del barrio en el cual residen las y los jóvenes, a partir de los modos en que múltiples privaciones configuran escenarios singulares, brinda otro ángulo para pensar las mediaciones entre los comportamientos individuales y los procesos sociales globales y, así, avanzar en una construcción teórica que sea capaz, como propone <xref ref-type="bibr" rid="B15">Martuccelli, de focalizar en el “entredós” (2007</xref>:17) que se teje entre el actor y el sistema, que reconozca el legítimo lugar del contexto y las posiciones sociales y sea capaz de explicar la labilidad de ambos.</p>
+			<p>En estas tareas, propias de la práctica del cientista social, destaco la importancia del encuadre teórico de la investigación, la exigencia de transparentar los procedimientos de recolección y procesamiento de la evidencia empírica y el requerimiento de poner en diálogo la teoría y los relatos en el análisis. El pensamiento epistémico enfatiza la relevancia del encuentro entre la teoría y el caso como una forma de estar alerta, un ejercicio permanente de reflexividad en la práctica de investigación, en el cual debemos “ser crítico de aquello que nos sostiene teóricamente, o sea, ser capaces de distanciarnos de los conceptos que manejamos”, como así también de la realidad observada para poder “cuestionar lo empírico, lo que observamos, porque esto puede no ser lo relevante, puede ser solo la punta del iceberg” (<xref ref-type="bibr" rid="B22">Zemelman 2008</xref>:11). En el proceso de investigar se ponen en juego cuestiones técnicas y teóricas, políticas y personales. El balance o punto de equilibrio no es resultado de un algoritmo, sino un trabajo artesanal que tiene que dar lugar al encuentro fecundo y lleno de tensiones entre la teoría y el caso, de nuestra capacidad de estar alertas y reflexivos de nuestra posición y del uso imparcial de las herramientas y técnicas de nuestras disciplinas.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Nota</title>
+			<p>Este artículo se enmarca en el proyecto PICT 2346 (MINCyT) “Heterogeneidades en sectores populares. Escenarios de inclusión-exclusión y trayectorias biográficas en adolescentes y jóvenes de dos partidos del Gran Buenos Aires, Argentina”. Equipo Responsable: Alejandro Capriati, Gabriela Wald, Mario Pecheny y Ana Lía Kornblit.</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía </title>
+			<ref id="B1">
+				<mixed-citation>Araujo, K. y Martuccelli, D. 2010. La individuación y el trabajo de los individuos. <italic>Educação e Pesquisa</italic> 36: 77-91. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1517-97022010000400007">https://doi.org/10.1590/S1517-97022010000400007</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Araujo</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martuccelli</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>La individuación y el trabajo de los individuos</article-title>
+					<source>Educação e Pesquisa</source>
+					<volume>36</volume>
+					<fpage>77</fpage>
+					<lpage>91</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1517-97022010000400007">https://doi.org/10.1590/S1517-97022010000400007</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Bassi Follari, J. 2014. Hacer una historia de vida: decisiones clave durante el proceso de investigación. <italic>Athenea Digital</italic> 14(3): 129-170. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/athenea.1315">https://doi.org/10.5565/rev/athenea.1315</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bassi Follari</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Hacer una historia de vida: decisiones clave durante el proceso de investigación</article-title>
+					<source>Athenea Digital</source>
+					<volume>14</volume>
+					<issue>3</issue>
+					<fpage>129</fpage>
+					<lpage>170</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/athenea.1315">https://doi.org/10.5565/rev/athenea.1315</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Becker, H. 1967. Whose side are we on? <italic>Social Problems</italic> 14(3): 239-247. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/799147">https://doi.org/10.2307/799147</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Becker</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>1967</year>
+					<article-title>Whose side are we on?</article-title>
+					<source>Social Problems</source>
+					<volume>14</volume>
+					<issue>3</issue>
+					<fpage>239</fpage>
+					<lpage>247</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/799147">https://doi.org/10.2307/799147</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Brunet, I. y Pizzi, A. 2013. La delimitación sociológica de la juventud. <italic>Última Década</italic> 21(38): 11-36. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-22362013000100002">https://doi.org/10.4067/S0718-22362013000100002</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Brunet</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pizzi</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>La delimitación sociológica de la juventud</article-title>
+					<source>Última Década</source>
+					<volume>21</volume>
+					<issue>38</issue>
+					<fpage>11</fpage>
+					<lpage>36</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-22362013000100002">https://doi.org/10.4067/S0718-22362013000100002</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Buechler, H. y Buechler, J. 1999. El rol de las historias de vida en antropología. <italic>Areas. Revista Internacional de Ciencias Sociales</italic> 19: 245-263. <ext-link ext-link-type="uri" xlink:href="http://revistas.um.es/areas/article/view/144881/129811">http://revistas.um.es/areas/article/view/144881/129811</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Buechler</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Buechler</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>El rol de las historias de vida en antropología</article-title>
+					<source>Areas. Revista Internacional de Ciencias Sociales</source>
+					<volume>19</volume>
+					<fpage>245</fpage>
+					<lpage>263</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://revistas.um.es/areas/article/view/144881/129811">http://revistas.um.es/areas/article/view/144881/129811</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Charry, A. y Pedemonte, N. 2013. <italic>La era de los individuos: actores, política y teoría en la sociedad actual</italic>. Santiago: LOM ediciones.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Charry</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pedemonte</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>La era de los individuos: actores, política y teoría en la sociedad actual</source>
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>LOM ediciones</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Chaves, M. 2005. Juventud negada y negativizada: representaciones y formaciones discursivas vigentes en la Argentina contemporánea. <italic>Última Década</italic> 13(23): 9-32. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-22362005000200002">https://doi.org/10.4067/S0718-22362005000200002</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chaves</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Juventud negada y negativizada: representaciones y formaciones discursivas vigentes en la Argentina contemporánea</article-title>
+					<source>Última Década</source>
+					<volume>13</volume>
+					<issue>23</issue>
+					<fpage>9</fpage>
+					<lpage>32</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-22362005000200002">https://doi.org/10.4067/S0718-22362005000200002</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Cornejo, M., Mendoza, F. y Rojas, R. 2008. La investigación con relatos de vida: pistas y opciones del diseño metodológico. <italic>Psykhe</italic> 17(1): 29-39. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-22282008000100004">https://doi.org/10.4067/S0718-22282008000100004</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cornejo</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mendoza</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rojas</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>La investigación con relatos de vida: pistas y opciones del diseño metodológico</article-title>
+					<source>Psykhe</source>
+					<volume>17</volume>
+					<issue>1</issue>
+					<fpage>29</fpage>
+					<lpage>39</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0718-22282008000100004">https://doi.org/10.4067/S0718-22282008000100004</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Di Leo, P. 2011 Procesos de individuación y relatos biográficos: articulaciones y potencialidades para el abordaje de experiencias juveniles en el campo de la promoción de la salud. <italic>IX</italic> 
+ <italic>Jornadas de Sociología. Pre ALAS Recife</italic> . Buenos Aires: Universidad de Buenos Aires.</mixed-citation>
+				<element-citation publication-type="confproc">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Di Leo</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Procesos de individuación y relatos biográficos: articulaciones y potencialidades para el abordaje de experiencias juveniles en el campo de la promoción de la salud</source>
+					<conf-name>IXJornadas de Sociología. Pre ALAS Recife</conf-name>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Universidad de Buenos Aires</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Di Leo, P. y Camarotti, A. 2013. “<italic>Quiero escribir mi historia”. Vidas de jóvenes en barrios populares</italic>. Buenos Aires: Biblos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Di Leo</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Camarotti</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>“<italic>Quiero escribir mi historia”. Vidas de jóvenes en barrios populares</italic></source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Biblos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Jaramilllo, L. 2003. Qué es epistemología. <italic>Cinta moebio</italic> 18: 174-178. <ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/18/jaramillo.html">http://www.moebio.uchile.cl/18/jaramillo.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jaramilllo</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Qué es epistemología</article-title>
+					<source>Cinta moebio</source>
+					<volume>18</volume>
+					<fpage>174</fpage>
+					<lpage>178</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.moebio.uchile.cl/18/jaramillo.html">http://www.moebio.uchile.cl/18/jaramillo.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Leclerc-Olive, M. 1997. <italic>Le dire de l’événement</italic>. Paris: Presses Universitaires du Septentrion.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Leclerc-Olive</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<source>Le dire de l’événement</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>Presses Universitaires du Septentrion</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Leclerc-Olive, M. 2009. Temporalidades de la experiencia: las biografías y sus acontecimientos. <italic>Iberóforum</italic>. <italic>Revista de Ciencias Sociales de la Universidad Iberoamericana</italic> 4(8): 1-39. <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=211014822001">http://www.redalyc.org/articulo.oa?id=211014822001</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Leclerc-Olive</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Temporalidades de la experiencia: las biografías y sus acontecimientos</article-title>
+					<source>Iberóforum. Revista de Ciencias Sociales de la Universidad Iberoamericana</source>
+					<volume>4</volume>
+					<issue>8</issue>
+					<fpage>1</fpage>
+					<lpage>39</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=211014822001">http://www.redalyc.org/articulo.oa?id=211014822001</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Lenoir, R. 1993. Objeto sociológico y problema social, pp. 57-102. En: P. Champagne, R. Lenoir, D. Merllié y L. Pinto. <italic>Iniciación a la práctica sociológica</italic>. México: Siglo XXI.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lenoir</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<chapter-title>Objeto sociológico y problema social</chapter-title>
+					<fpage>57</fpage>
+					<lpage>102</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Champagne</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lenoir</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Merllié</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pinto</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<source>Iniciación a la práctica sociológica</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Martuccelli, D. 2007. <italic>Cambio de rumbo. La sociedad a escala del individuo</italic>. Santiago: LOM Ediciones.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martuccelli</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Cambio de rumbo. La sociedad a escala del individuo</source>
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>LOM Ediciones</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Oslak, O. 2011. Falsos dilemas: micro-macro, teoría-caso, cuantitativo-cualitativo, pp. 83-114. En: R. Sautu y C. Wainerman. <italic>La trastienda de la investigación</italic>. Buenos Aires: Ediciones Lumiere. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oslak</surname>
+							<given-names>O.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<chapter-title>Falsos dilemas: micro-macro, teoría-caso, cuantitativo-cualitativo</chapter-title>
+					<fpage>83</fpage>
+					<lpage>114</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sautu</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wainerman</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<source>La trastienda de la investigación</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Ediciones Lumiere</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Paiva, V., Ayres, J. y Buchalla, C. 2012. <italic>Vulnerabilidade e direitos humanos</italic>. Curitiba: Juruá Editora.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Paiva</surname>
+							<given-names>V.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ayres</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Buchalla</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Vulnerabilidade e direitos humanos</source>
+					<publisher-loc>Curitiba</publisher-loc>
+					<publisher-name>Juruá Editora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Pecheny, M. et. al. 2008. <italic>Todo sexo es político: estudios sobre sexualidad en Argentina</italic>. Buenos Aires: Libros del Zorzal.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pecheny</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<etal/>
+					</person-group>
+					<year>2008</year>
+					<source>Todo sexo es político: estudios sobre sexualidad en Argentina</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Libros del Zorzal</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Steinberg, C. et al. 2013. <italic>Una aproximación a las desigualdades sociales, educativas, económicas y territoriales en la Argentina reciente</italic>. Buenos Aires: UNIPE. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Steinberg</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<etal/>
+					</person-group>
+					<year>2013</year>
+					<source>Una aproximación a las desigualdades sociales, educativas, económicas y territoriales en la Argentina reciente</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>UNIPE</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Trebisacce, C. 2016. Una historia crítica del concepto de experiencia de la epistemología feminista. <italic>Cinta moebio</italic> 57: 285-295. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2016000300004">https://doi.org/10.4067/S0717-554X2016000300004</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Trebisacce</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Una historia crítica del concepto de experiencia de la epistemología feminista</article-title>
+					<source>Cinta moebio</source>
+					<issue>57</issue>
+					<fpage>285</fpage>
+					<lpage>295</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2016000300004">https://doi.org/10.4067/S0717-554X2016000300004</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Wald, G., Capriati, A., Pecheny, M. et al. 2016. Posiciones, oportunidades y recursos: primeros pasos del estudio de vulnerabilidades en adolescentes y jóvenes de sectores populares urbanos. I <italic>Jornadas de Sociología de la UNMDP</italic>. Buenos Aires: Universidad Nacional de Mar del Plata.</mixed-citation>
+				<element-citation publication-type="confproc">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wald</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Capriati</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pecheny</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<etal/>
+					</person-group>
+					<year>2016</year>
+					<source>Posiciones, oportunidades y recursos: primeros pasos del estudio de vulnerabilidades en adolescentes y jóvenes de sectores populares urbanos</source>
+					<conf-name>IJornadas de Sociología de la UNMDP</conf-name>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Universidad Nacional de Mar del Plata</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Zemelman, H. 2008. <italic>Pensar teórico y pensar epistémico: los retos de las ciencias sociales latinoamericanas</italic>. México: Instituto Pensamiento y Cultura en América A.C.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zemelman</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Pensar teórico y pensar epistémico: los retos de las ciencias sociales latinoamericanas</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Instituto Pensamiento y Cultura en América A.C.</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

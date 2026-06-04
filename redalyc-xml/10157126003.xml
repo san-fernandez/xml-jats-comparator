@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2018000100028</article-id>
+			<article-id pub-id-type="publisher-id">00003</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La disputa epistemológica contra el empirismo y la propuesta de la teorización sistemática</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>The dispute against empiricism and the proposal of systematic theorization</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fraga</surname>
+						<given-names>Eugenia</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original"> (euge.fraga@hotmail.com) Instituto de Investigaciones Gino Germani, Universidad de Buenos Aires (Buenos Aires, Argentina) ORCID: 0000-0003-0102-2431</institution>
+					<institution content-type="normalized">Universidad de Buenos Aires</institution>
+					<institution content-type="orgdiv1">Instituto de Investigaciones Gino Germani</institution>
+					<institution content-type="orgname">Universidad de Buenos Aires</institution>
+					<addr-line>
+						<named-content content-type="city">Buenos Aires</named-content>
+					</addr-line>
+					<country country="AR">Argentina</country>
+					<email>euge.fraga@hotmail.com</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2018</year>
+			</pub-date>
+			<!--<volume>00</volume>-->
+			<issue>61</issue>
+			<fpage>28</fpage>
+			<lpage>40</lpage>
+			<history>
+				<date date-type="received">
+					<day>20</day>
+					<month>06</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>16</day>
+					<month>09</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>En el presente ensayo nos apoyaremos en algunos escritos fundamentales de Talcott Parsons, especialmente en lo referente a su disputa epistemológica contra el empirismo, para luego mostrar sus propias inconsistencias e ir más allá de él en la propuesta de una forma novedosa de trabajo teórico para las ciencias sociales: la teorización sistemática dinámico-estructuralista, como distinta a la teoría sistémica funcional-estructural. La idea principal es trascender las posturas representacionalistas y antiteoricistas en pos de miradas teóricas abiertas a la crítica y la autocrítica. Así, frente a una mirada que confunde distintas dimensiones del continuo empírico-metafísico sin otorgarles su relativa autonomía analítica, que a nivel teórico-social y de modelos de la sociedad piensa en términos funcionales y sistémicos, que considera que cada uno de sus conceptos refiere de manera cabal a dicho mundo social y que cree que es factible la construcción de teorías acabadas, nuestra mirada busca distinguir dimensiones, complementar tradiciones plurales, y mantenerse siempre abierta a la crítica externa y la autocrítica.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>In this essay we will rely on some of the key writings of Talcott Parsons, especially with regards to his epistemological dispute against empiricism, to show his own inconsistencies and go beyond him in proposing a new form of theoretical work for the social sciences: systematic and dynamic-structuralist theorizing, as distinct from functional-structural systemic theory. The main idea is to transcend the representationalist and anti-theoretical positions in favour of a view of theory open to criticism and self-criticism. In this way, and against those outlooks that confuse the different dimensions of the empirical-metaphysical continuum without giving them their relative analytic autonomy, that think in terms of functions and systems when talking about models of society, that consider each concept to be a representation of the social world, and that believe theories can be closed for good, our own outlook seeks to distinguish dimensions, complement plural traditions, and stay open to external critique and self-criticism.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>Parsons</kwd>
+				<kwd>teoría</kwd>
+				<kwd>sistema</kwd>
+				<kwd>estructura</kwd>
+				<kwd>función</kwd>
+				<kwd>crítica</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>Parsons</kwd>
+				<kwd>theory</kwd>
+				<kwd>system</kwd>
+				<kwd>structure</kwd>
+				<kwd>function</kwd>
+				<kwd>critique</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="17"/>
+				<page-count count="13"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Talcott Parsons suele ser considerado como un teórico de la sociología, es decir, como un teorizador sobre la sociedad. Sin negar que lo sea, sostendremos en este trabajo que su principal aporte al pensamiento posterior fue su teorización sobre la actividad teorizadora en sí misma o metateoría. En efecto, uno de los elementos centrales de su obra es la reflexión en torno a problemas epistemológicos y de filosofía de la ciencia, y es sobre esta reflexión en particular que buscamos centrarnos en este trabajo. Uno de los mayores logros del autor, en nuestra opinión, es haber librado de manera sostenida una disputa con el empirismo en sus diversas variantes -particularista, intuicionista, e incluso con el positivismo-, disputa enmarcada en la hegemonía del naturalismo de su época, y frente a la cual construyó miradas alternativas, rechazando las miradas ingenuas y representacionalistas sobre los “hechos” y la “realidad”. Así, en primer lugar, nos gustaría sentar las bases de esta controversia tan relevante para las ciencias modernas.</p>
+			<p>Para llevar a cabo dicho estudio, nos centraremos en las dos grandes obras en las que el autor desarrolló con mayor profundidad estas cuestiones: nos referimos a <italic>La estructura de la acción social</italic> y a los <italic>Ensayos en teoría sociológica</italic>. Pero, además, iremos viendo que al interior de la propia propuesta de Parsons emerge una tensión irresuelta entre una postura “sistémica” y una postura “sistemática” respecto al quehacer teórico de las ciencias. Esta tensión es producto, según creemos, de no haber llevado hasta el fondo las implicancias de su propia disputa contra el empirismo. Entonces, nos interesará señalar de qué modo esas implicancias pueden desplegarse, con ayuda de la doble distinción entre metateoría y teoría social, y entre teorías “lógicamente cerradas” y “empíricamente cerradas”. Así, finalmente, arribaremos a una propuesta singular y novedosa respecto a la posibilidad de la “teorización sistemática” como postura epistemológica y como metodología para las ciencias sociales en general y la sociología en particular.</p>
+			<p>Como podrá apreciarse, no nos es posible desarrollar aquí en profundidad la metodología que utilizaremos en este trabajo, puesto que ella será precisamente el objeto de la presente investigación, siendo desplegada a lo largo del escrito que sigue. Pero al menos podemos adelantar que ella se apoya, como hemos mencionado ya al pasar, en la perspectiva metateórica de George <xref ref-type="bibr" rid="B16">Ritzer (1990</xref>) y en su combinación con la perspectiva multidimensional de Jeffrey <xref ref-type="bibr" rid="B2">Alexander (1983</xref>). Además, intentaremos, hacia el final del trabajo, esbozar de qué manera ambas perspectivas podrían especificarse mediante nuestra propuesta personal de diferenciar la “teoría sistémica” (que rechazamos) de la “teorización sistemática” (que defendemos).</p>
+		</sec>
+		<sec>
+			<title>La disputa contra el empirismo</title>
+			<p>En lo que fue su primer libro publicado, <italic>La estructura de la acción social</italic>, originalmente de 1937, Parsons sistematiza sus preocupaciones epistemológicas de juventud. Cuando tres décadas más tarde de su primer esbozo Parsons escribe una nueva “Introducción a la edición en tapa blanda”, inicia ésta estableciendo una diferencia entre “teoría”, “empiria” e “ideología”. Para que tanto la investigación a nivel conceptual como a nivel de los datos constituyan algo diferente a la mera recolección, clasificación y reproducción de las ideologías existentes en el mundo social, es necesario que el investigador se encuentre especialmente alerta a cierto, podríamos decir, peligro latente que circula en el campo. Se trata de caer bajo la influencia del “empirismo extremo” o “naturalismo”, una corriente de pensamiento surgida en ciertos círculos de filosofía de la ciencia y extendida en las ciencias sociales, que rechaza por principio toda instancia teórica más o menos abarcativa, por su supuesto carácter “especulativo”, en detrimento de la “pura empiria”, especialmente cuantitativa. Es muy interesante notar la mención de Parsons de que desde el empirismo se acusa a los “teóricos” de tener una “mentalidad blanda” [<italic>soft-mindedness</italic>]. Retomando esta sugerencia, Harold Bershady profundiza en la idea de que parte del <italic>rechazo a la teoría</italic> tiene que ver con “su asociación con lo «suave», lo «pasivo» -o contemplativo-, lo «interior» -o puramente mental- y, por ello, con lo femenino, a diferencia de la investigación empírica que se asociaría con lo «duro» de los datos, y lo «activo» y «exterior» de la salida al campo, y por ello con lo masculino” (<xref ref-type="bibr" rid="B7">Bershady 1991</xref>:74), todo esto en el marco de una sociedad machista. </p>
+			<p>Lo que este tipo de posturas empiristas sostienen es reduccionista, muestra Parsons, puesto que olvidan que en realidad ambas instancias de la investigación son en cierto punto inescindibles, que la una siempre se encuentra de algún modo en la otra, y que en última instancia su separación responde nada más que a a las necesidades de la división del trabajo producto de la creciente especialización. Ésta crítica del reduccionismo inherente al empirismo es relevante pues, en palabras de Matteo Bortolini, el lema que resume el “legado” parsoniano más profundo es precisamente: “¡Nunca aceptes explicaciones reduccionistas!” (<xref ref-type="bibr" rid="B8">Bortolini 2007</xref>:170). Esto es claro cuando Parsons mismo señala cómo incluso un trabajo como el suyo, claramente un trabajo teórico, puede también ser pensado como un “estudio empírico en el análisis del pensamiento social” (<xref ref-type="bibr" rid="B15">Parsons 1968</xref>:vii). </p>
+			<p>En efecto, los textos trabajados por el autor constituyen una materia prima tan empírica como cualquier “documento” histórico o incluso, agregamos nosotros, como cualquier “transcripción” de entrevista o “diario” de campo. En tanto tal, el análisis teórico de obras presenta los mismos problemas de comprensión que los demás tipos de textos, y si una interpretación de un autor puede ser considerada como válida es tan demostrable o refutable como cualquier otro tipo de hipótesis de investigación.</p>
+			<p>Frente al empirismo extremo, Parsons cita como referentes de una corriente alternativa -de la cual se siente heredero- a Alfred Whitehead, Morris Cohen y Lawrence Henderson, quienes con sus obras se posicionaron en el campo de la filosofía de la ciencia como críticos de aquél y como defensores de la necesidad de la teoría en todo proceso de conocimiento en general y en las ciencias sociales en particular. Dentro de esta controversia -que al día de hoy sigue mayormente vigente, aunque reformulada- un hito importante lo halla el autor en la postura en cierto sentido “intermedia” de Robert Merton, que aprecia la inevitabilidad e incluso la “virtud” de la teoría, pero sugiere que ésta no derive en el “vicio” de querer construir una “gran teoría” -es decir, un sistema conceptual omniabarcador, como el que el propio Parsons pretende crear-, sino que se mantenga dentro de los límites de unas “teorías de alcance medio”, es decir, de sistemas conceptuales menos abstractos, que versen sobre temas sustantivos y no sobre generalidades. A pesar de todo, Parsons aplaude la controversia en tanto instancia necesaria para visibilizar la escisión en el campo intelectual y para señalar la urgencia de su “integración”, de la “integración de aquellos con «mentalidad empírica» y aquellos otros con «mentalidad teórica»” (<xref ref-type="bibr" rid="B15">Parsons 1968</xref>:viii). </p>
+			<p>En este marco, y así ubicado, nuestro autor tiene las herramientas para sostener una concepción particular de la “teoría”, a la que considera una forma de pensamiento humano con una “estructura” dentro de la cual se producen “movimientos” -como el que él estudia en este libro suyo- contra el “fondo” de las “tradiciones subyacentes”. Así es como entiende las diferencias entre escuelas y corrientes de pensamiento, las cuales a su vez pueden ser unificadas, por un movimiento posterior, dándoles la forma de un “cuerpo” nuevo, tal como él lo hace allí con las obras sociológicas de cuatro autores muy diversos entre sí. Entonces, cada teoría es en sí misma una unidad con entidad propia, que la distingue de otras y la asemeja a otras más, pero al mismo tiempo es una parte de un “órgano” teórico más amplio, por ejemplo, aquel que abarca a todas las teorías de una misma disciplina, de una misma época, o incluso al conjunto de los saberes científicos acumulados históricamente. Así entendidos, Parsons adjetiva como absolutamente “«incongruente» concebir a los órganos teóricos como «fijos»” (<xref ref-type="bibr" rid="B15">Parsons 1968</xref>:viii): ninguna teoría, parcial o total, puede reclamar ser definitiva o estar acabada, pues en su seno siempre se producen nuevos movimientos.</p>
+			<p>Esta afirmación implica otorgar un lugar central al “dinamismo” y a la “apertura” de la teoría, lo cual es coherente con la actuación intelectual del propio autor, que treinta años después de la primera formulación de su teoría, continuaba reformulándola. Esta constante apertura de Parsons a la crítica de su propia teoría, es decir, su tendencia a la <italic>autocrítica</italic>, Jaime Uricoechea la llamará su “elogio de la duda”, Hans P.M. Adriaansens su proceso de “pensar en voz alta” y de “ideas en flujo” y Edward Tiryakian su insaciable “inquietud intelectual”.</p>
+			<p>A su vez, dentro de esta concepción de la “estructura” y “funcionamiento” de las teorías, Parsons distingue más de un paso en el camino hacia su construcción: a veces solo se producen “intuiciones teóricas”, mientras que otras veces las intuiciones dan lugar a “análisis teóricos técnicos” más profundos y sistemáticos. Del mismo modo, distingue entre lo que podríamos llamar distintos “formatos” o “géneros discursivos” en los que la construcción teórica se despliega y se comunica: “algunas teorías se presentan en un tono más «ensayístico», mientras que otras lo hacen de manera más estrictamente «científica»” (<xref ref-type="bibr" rid="B15">Parsons 1968</xref>:xiv). Podemos ver aquí que su concepción del trabajo teórico es amplia y heterogénea.</p>
+			<p>Pero las preocupaciones epistemológicas de Parsons ya se encontraban en la edición original de <italic>La estructura de la acción social</italic>, principalmente en el capítulo XIX, “Implicancias metodológicas tentativas”, cuya forma original data de 1937. Como primer comentario, nos gustaría hacer notar que ya el título mismo del capítulo, mediante el adjetivo “tentativas”, sugiere que las conclusiones allí sacadas no son tan “conclusivas”, valga la redundancia. Nuevamente nos encontramos aquí con aquellos elementos de apertura, dinamismo y movimiento trabajados más arriba como rasgos esenciales de una teoría. Además del título, el texto mismo del capítulo expresa claramente las dudas respecto a que el estado en el que se encuentra el planteamiento realizado en el libro sea realmente ya el “sistema lógicamente cerrado” que se había propuesto ser desde un principio; que lo sea o no es algo que, según Parsons, “solo podrá definirlo el tiempo”, a partir de la “comprobación continua de la teoría en la investigación” efectiva, “combinada con mucho análisis crítico” (<xref ref-type="bibr" rid="B15">Parsons 1968</xref>:727). Persiste entonces la apertura, pero ella se especifica como apertura tanto a la “aplicación” de la teoría y, por ende, podríamos decir, a su crítica por parte de la “realidad” así construida, como a su crítica conceptual por parte de otros colegas. Esto último es, evidentemente, lo que el mismo autor se dedica a hacer respecto de teorías alternativas a la suya. </p>
+			<p>Así, dirige su mirada especialmente a tres posturas metodológicas vigentes en su época, derivadas de aquel empirismo extremo ya mencionado y a las que él bautiza del siguiente modo: el “empirismo positivista”, el “empirismo particularista”, y el “empirismo intuicionista”. El empirismo positivista consiste en la “reificación de sistemas teóricos de tipo lógico”, es decir, en la hipostación de las teorías al punto de que los fenómenos concretos solo pueden ser interpretados desde sus categorías, sin que ellos puedan implicar ninguna modificación de la teoría y, en caso extremo, “haciendo coincidir a la fuerza a la realidad dentro de sus moldes” (<xref ref-type="bibr" rid="B15">Parsons 1968</xref>:728). Tenemos serias dudas respecto a rotular semejante postura epistemológica con el nombre de empirismo, cuando se trata a todas luces de lo contrario: sugerimos llamarlo, en cambio, “teoricismo positivista”. </p>
+			<p>Las dos posturas siguientes, sin embargo, parecen haber sido denominadas de manera más ajustada, puesto que ambas comparten un rechazo hacia la validez de conceptos teóricos generales. En particular, el empirismo particularista consiste en la “concepción de que el único «conocimiento objetivo» es aquel que emerge de la descripción lo más detallada posible de los fenómenos concretos”, al punto de que ni siquiera resulta válido establecer relaciones entre ellos, por ejemplo, de tipo causal, pues ello ya implicaría un análisis más abstracto. El empirismo intuicionista, por último, acepta un cierto nivel mínimo de trabajo conceptual en la ciencia, pero solo en caso de que sirva para “captar el «carácter individual», «único», «singular» de cada fenómeno concreto” (<xref ref-type="bibr" rid="B15">Parsons 1968</xref>:729), es decir que queda excluida toda conceptualización de aquello que distintos objetos o eventos comparten, así como de aquellos elementos en los que un mismo fenómeno se puede subdividir analíticamente.</p>
+			<p>Desde la mirada de Parsons, las dos últimas posturas resultan crasamente incorrectas, mientras que de la primera rescata su respeto por la legitimidad de la instancia teórica en la ciencia, aunque repudia el lugar determinista que a esa instancia se le asigna en relación con la materialidad del mundo. Como muestra José Almaraz Pestana, Parsons fue desde siempre muy crítico de todo tipo de “determinismo”; así, niega tanto el “determinismo pesimista” de estilo weberiano acerca de la inevitabilidad de la racionalización total de la sociedad, así como el “determinismo optimista” de cierto marxismo acerca de la inevitabilidad de la transición al socialismo (<xref ref-type="bibr" rid="B5">Almaraz Pestana 2012</xref>:111). Es que, como nuestro autor ha intentado mostrar a lo largo de todo el libro que aquí estamos analizando, la comprensión de la acción humana en general y de la esfera social en particular “requiere de una pluralidad de sistemas teóricos” (<xref ref-type="bibr" rid="B15">Parsons 1968</xref>:729). Esta afirmación nos parece crucial en tanto añade una nueva luz a la caracterización de lo que una teoría debe ser: además de abierta y dinámica, ella es siempre el producto de una pluralidad de fuentes, si pretende captar la complejidad del mundo. Como sugiere Donald Levine, esta “posición «pluralista» en Parsons [se fundamenta teóricamente en la] idea de la «variabilidad independiente» de la dimensión simbólica de toda disposición a actuar” (<xref ref-type="bibr" rid="B11">Levine 1991</xref>:1111), en este caso, a teorizar. </p>
+			<p>En este punto Parsons menciona una cuarta postura metodológica, de la que se siente más cercano. Se trata de la concepción, formulada primeramente dentro de las ciencias sociales por Max Weber, de que los conceptos construidos no son meros “reflejos de la realidad” (de hecho, no podrían serlo por el carácter infinitamente caótico de esta última) sino simplemente “ficciones útiles”, es decir, creaciones del investigador, pero no por esto totalmente arbitrarias, sino ajustadas a aquello que intentan captar. Parsons también considera a esta postura solo parcialmente verdadera: es cierto, según él, que conceptos del estilo de los “tipos ideales” weberianos pueden considerarse ficciones útiles, pero éste no sería el caso de otro tipo de conceptos científicos. Según Alexander, el problema principal de considerar a todo concepto como una ficción es que conlleva una visión unilateralmente “instrumental” (<xref ref-type="bibr" rid="B3">Alexander 1984</xref>:17) de la ciencia, por oposición a una visión tanto instrumental como “normativa”, con la que Parsons estaría más de acuerdo, aunque no logre aquí decirlo explícitamente. </p>
+		</sec>
+		<sec>
+			<title>La confusión entre lo sistémico y lo sistemático</title>
+			<p>Entre 1938 y 1952, Parsons se dedicó a la escritura de toda una serie de artículos aislados, aunque muchos de temática común, los cuales fueron publicados bajo el título de <italic>Ensayos de teoría sociológica</italic>, varios años después. A continuación, analizaremos aquellos capítulos del libro que resulten relevantes para nuestras preocupaciones epistemológicas. Así, en el capítulo “El rol de la teoría en la investigación social”, de 1938, Parsons compara la situación de las ciencias naturales con la de las ciencias sociales. En su opinión, es indispensable partir de la constatación de que ninguna ciencia puede desarrollarse más allá de determinado punto sin hacer referencia a “esquemas conceptuales generalizados”, es decir, a la teoría. El proceso de “crecimiento” del conocimiento científico no es un mero proceso de “acumulación de hechos”. En primer lugar, porque cualquier estudio de “hechos” está guiado por la “estructura lógica” de algún esquema teórico, aunque sea de modo implícito. En efecto, “jamás se investigan «todos» los hechos posibles respecto de un determinado fenómeno, sino solo aquellos que se consideran «importantes», y esta selección se basa en «criterios» delineados por alguna teoría” (<xref ref-type="bibr" rid="B13">Parsons 1938</xref>:14). </p>
+			<p>En segundo lugar, difícilmente los empiristas mismos puedan “conformarse” con la simple constatación de “hechos a secas”. En general, ellos mismos, movidos por la “curiosidad científica”, se preocupan por establecer algún tipo de relaciones de interdependencia entre los hechos constatados. Pero nuevamente, ningún tipo de relación entre hechos puede tener sentido sino en el marco de alguna teoría, además de que el establecimiento de dichas relaciones implica necesariamente el uso de conceptos de cierto nivel de generalidad. Ahora bien, si ambos puntos son correctos, entonces la alternativa para los científicos no es entre “teorizar o no teorizar”, puesto que siempre se teoriza, sino entre “teorizar explícitamente”, es decir, con una conciencia clara respecto a lo que se está haciendo, lo cual permite evitar un variado tipo de “falacias” respecto a la propia actividad, y “teorizar implícitamente” o, en palabras del autor, “siguiendo la política del ñandú” (<xref ref-type="bibr" rid="B13">Parsons 1938</xref>:15), es decir, <italic>pretendiendo no darse cuenta</italic> de lo que se está haciendo y así utilizando la propia teoría sin posibilidad de crítica y de autocrítica. </p>
+			<p>De aquí podemos extraer varias conclusiones importantes. Primero, vemos que el establecimiento de relaciones, generalmente de tipo “causal”, entre distintos eventos, conlleva necesariamente un proceso de abstracción, es decir, un alejamiento de la captación puramente sensible, así como el uso de nociones, por ejemplo, como las de “legalidad” y “necesidad”, lo cual coincide con aquello que la teoría del conocimiento ya había comprobado desde los albores de la modernidad, cuestión especialmente explicitada por David Hume. Segundo, la metáfora del “ñandú”, que mete la cabeza en la tierra para no ver la realidad, adelanta una idea que, con un tono irónico parecido, recogerá años más tarde Pierre Bourdieu, cuando sostiene que la no-explicitación de la propia teoría lleva a que ella <italic>funcione a modo de subconsciente del investigador</italic>, es decir, de modo incontrolable, por lo cual el modo de evitar esto es investigar a partir de la construcción de <italic>problemáticas teóricas</italic>.</p>
+			<p>Pero la crítica fundamental de Parsons tiene que ver con la distinción, que él señala como ausente en las ciencias sociales de su tiempo, entre los distintos tipos de “elementos conceptuales” asociados a (o confundidos con) la “teoría”. El primer elemento conceptual que señala el autor es aquel que denomina “elemento filosófico”. Éste refiere al fondo intelectual sobre el cual se desarrolla toda ciencia, pero que no es la ciencia misma. Parsons señala la existencia de ciertas posturas que sin embargo confunden ambas instancias. Y dado que los sistemas filosóficos son en última instancia incomprobables mediante la observación, y por ello son rechazados desde una postura empirista, con ello suele caer (injustamente) la legitimidad no solo de la filosofía, sino de todo elemento teórico en la ciencia. La postura del autor, en cambio, es que filosofía y teoría científica son cuestiones distintas, aunque relacionadas, de tal modo que “la teoría científica incluye siempre «preconceptos filosóficos» así como tiene siempre «implicaciones filosóficas», respecto de los cuales mantiene sin embargo cierta «independencia»” (<xref ref-type="bibr" rid="B13">Parsons 1938</xref>:15). Esta independencia significa principalmente que es perfectamente legítimo para un científico elaborar una teoría en su campo de estudio específico sin responder a cuestiones filosóficas, salvo “una a una” y en caso de que competan directamente a su investigación concreta. </p>
+			<p>El segundo elemento conceptual que el autor distingue es lo que se conoce como “generalizaciones empíricas”. Ellas son el “producto del proceso inductivo de la ciencia por el cual el conocimiento acumulado sobre una misma clase de fenómenos permite extraer una conclusión más general sobre ellos”, y es en este sentido, &quot;en tanto teorías de alcance intermedio como las propugnadas por Merton” (<xref ref-type="bibr" rid="B13">Parsons 1938</xref>:16) o, quizás de manera más precisa, en tanto teorías de alcance medio del tipo propugnado por Merton. Nuevamente, como vimos recién, es el hecho de que toda generalización implica una conceptualización que trasciende los hechos “puros y duros” (suponiendo ya que tal cosa existiese) que este tipo de teorización también es rechazada por cierto empirismo radical. Y sin embargo la “teoría sistemática generalizada” que defiende Parsons (y sobre la cual profundizaremos más adelante) no es ni filosofía ni generalización empírica, sino aquello que se ubica entre ambos tipos de conceptualización: es la integración de múltiples teorías sustantivas en un gran conjunto que bordea las fronteras filosóficas.</p>
+			<p>Damos paso entonces al análisis del siguiente artículo relevante de los <italic>Ensayos en teoría sociológica</italic>. En “La posición actual y la prospectiva de la teoría sistemática en sociología”, de 1945, el autor arranca afirmando con fuerza que el “índice” más importante de la “madurez” de una ciencia es el estado de su “teoría sistemática”, lo cual incluye el carácter del esquema conceptual generalizado, los niveles de integración entre sus distintos elementos y la forma en que está siendo usado en la investigación empírica. Y en su diagnóstico de la situación en sociología concluye que, en la teoría, a pesar de contar con esfuerzos en torno a la construcción de un marco sistemático, los esquemas de este tipo aún son poco apreciados, con lo cual no logran integrarse a la investigación corriente. Además de que, por supuesto, en términos estrictamente teóricos, siempre queda mucho por seguir desarrollando y refinando. En este artículo, Parsons utiliza la palabra “teoría” en el sentido de un sistema de conceptos abstractos y generales, pero le agrega algunos elementos nuevos a su definición. Dicho sistema debe “tender, idealmente, a ser «lógicamente cerrado»” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:212), es decir, a alcanzar un grado de integración tal que la “implicación lógica” de cualquier combinación de proposiciones dentro del sistema se derive de alguna otra proposición explícitamente sentenciada por él. </p>
+			<p>Todo sistema de teoría así entendido “debe cumplir dos funciones centrales como son las de facilitar tanto la «descripción» como el «análisis»” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:212), o lo que comúnmente se denomina “explicación”, y ambas funciones se encuentran entrelazadas puesto que para poder analizar un fenómeno de manera precisa es necesario primero haberlo descrito de manera completa. Como muestra Stephen Savage, y éste es un punto crucial, es necesario “distinguir entre teorías «lógicamente cerradas» y teorías «empíricamente cerradas»” (<xref ref-type="bibr" rid="B17">Savage 1999</xref>:55). Las primeras refieren a la tendencia de las teorías a formar sistemas estructurados, mientras que las segundas refieren a la tendencia empirista, que Parsons como hemos visto rechaza, de referir cada objeto de la “realidad” empírica a un elemento de una teoría que lo “representa”. Esta tendencia empirista (y representacionalista) conduce a la idea de que una y solo una teoría puede explicar cada fenómeno concreto, mientras que Parsons, también como ya hemos visto, sostiene que pueden -y deben- hacerlo varias. Entonces, vemos aquí que lo “cerrado lógicamente” de un sistema teórico no quita, sino que de hecho posibilita su apertura en los sentidos antes referidos: su dinamismo y su pluralidad interna.</p>
+			<p>Con esta definición ampliada en mente, el autor afirma a continuación que el ideal de toda teoría científica así entendida debería ser la extensión en la mayor medida posible de lo que llama el “análisis dinámico”, reto especialmente duro para cualquier ciencia social. La condición para cualquier análisis dinámico exitoso es la referencia continua de cada problema estudiado a la “estructura” del sistema como un todo. Esta estructura diferencial con la que cada sistema cuenta es vital, porque permite que nada de lo teóricamente relevante se pase por alto, a la vez que asegura a cada parte del sistema un lugar específico con una entidad propia y coherente con el todo. Pero más relevante aún, la estructura del sistema es la que ayuda a evitar aquel “peligro”, típico del “pensamiento de sentido común”, de “rellenar los agujeros” en la teoría recurriendo a “categorías residuales acríticas”. De algún modo, entonces, “la estructura de un sistema teórico funciona «filtrando» las categorías propuestas para ser utilizadas en una investigación, eliminando de entre ellas las que solo constituyen prenociones o «ideología»” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:215). </p>
+			<p>Y entonces arribamos a un nuevo estrato en la definición de lo que es una “teoría”. Una teoría que cumple con estos requisitos puede ser denominada según el autor “sistema funcional-estructural”, pues “incluye, por un lado, un sistema de «categorías estructurales» que le dan su unidad, y por otro, un sistema de «categorías funcionales» que le aportan dinamismo a los análisis” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:217), es decir, que permiten captar los cambios en el objeto estudiado. Adriaansens muestra que “el núcleo categorial fundamental del momento «estructural» del estructural-funcionalismo parsoniano es el conformado por las «variables pauta»” (<xref ref-type="bibr" rid="B1">Adriaansens 1980</xref>:68). Nos gustaría, a partir de este señalamiento, realizar el siguiente análisis propio: considerar la posibilidad de definir a la “teoría” como tensionada entre los distintos polos de dichas variables. Así, la teoría en general, y dentro de ella la teoría social, tiende a la “universalidad” mediante la explicación generalizada, a la vez que a la “particularidad” mediante la descripción de la singularidad; tiende a la “neutralidad” mediante su elemento estrictamente “cognitivo” y a la “afectividad” mediante sus elementos “catécticos” y “evaluativos” o estéticos y normativos. Tiende al “interés colectivo” en la medida en que el conocimiento pretende el “mejoramiento” del mundo en función suya (posibilitando así una “ética racional”) y al “interés individual”, en la medida en que la academia también es un medio de “auto-mejoramiento”.</p>
+		</sec>
+		<sec>
+			<title>Tesis principal</title>
+			<p>Pero detengámonos aquí por un momento más. Nuestra hipótesis central es que Parsons (igual que muchos otros teóricos “de sistemas” posteriores) confunde los “sistemas teóricos” con los “sistemas empíricos”. Si bien en la argumentación suya precedente parece estar definiendo lo que una “teoría” debe ser, sabemos que la noción de lo “funcional-estructural” se ha trasladado muchas veces del plano “metateórico” al teórico-social, es decir, de la reflexión teórica sobre la teoría, a la reflexión teórica sobre la sociedad o sus partes. </p>
+			<p>En otras palabras, una cosa es decir que las teorías tienen estructuras y dinámicas internas, y otra distinta, y no necesariamente implicada, es decir que el mundo social funciona así. Entonces, nos gustaría realizar una serie de afirmaciones fuertes. En primer lugar, nos gustaría sostener, junto a Almaraz Pestana, que es precisamente este nivel metateórico (que él denomina “metalenguaje”) el que “constituye el principal aporte de Parsons a las ciencias sociales” (<xref ref-type="bibr" rid="B4">Almaraz Pestana 1981</xref>:20). Así también lo afirma Felipe Padilla, cuando muestra que “las reflexiones parsonianas son principalmente epistemológicas, y solo en segunda instancia ontológicas” (<xref ref-type="bibr" rid="B12">Padilla 2012</xref>:479), es decir, que están mucho más preocupadas por las “posibilidades” y “modos de conocimiento” del mundo, que por la “descripción” y “explicación” de dicho mundo. Finalmente, como sostiene Roy Fitzhenry, “la principal innovación parsoniana es aquella que se ubica en la «zona» entre la filosofía y la sociología” (<xref ref-type="bibr" rid="B10">Fitzhenry 1989</xref>:172), especialmente en lo que hace al “problema kantiano” de los “esquemas” de entendimiento. En este mismo sentido, afirma Bernard <xref ref-type="bibr" rid="B6">Barber, “antes que un sociólogo, Parsons es un «filósofo de la ciencia»” (Barber 1994</xref>:102) y es precisamente ésta faceta suya la que nos interesa en este trabajo.</p>
+			<p>En segundo lugar, nos gustaría asentar que, mientras compartimos con Parsons el postulado “metateórico” de que toda teoría se constituye de ese modo (construyendo una estructura y abarcando su movimiento, o desde el vocabulario marxista, construyendo una “totalidad” y abarcando su “transformación”), de allí no se deriva necesariamente que toda teoría deba captar de ese mismo modo a sus objetos de estudio. Como sostendría Alexander: “aquello que uno define en un determinado nivel del «continuo metafísico-empírico», no implica que en el resto de los niveles deba definirse todo de manera equivalente” (<xref ref-type="bibr" rid="B3">Alexander 1984</xref>:xvii). Alexander trae a colación el comentario respecto de la obra parsoniana en contra de aquellos comentaristas que sugieren que, si Parsons al nivel de los “modelos” de sociedad es “sistémico”, de allí se deriva que al nivel de los “presupuestos” políticos “defiende el sistema”, es decir, el orden establecido. Nosotros quisiéramos utilizar esto en otro sentido: de la afirmación a nivel “metodológico” de que “las teorías funcionan como sistemas” no se deriva que, a nivel de los “modelos” de sociedad, ellas deban funcionar del mismo modo. </p>
+			<p>Aunque Parsons de hecho lo hace, nuestra intención es deslindar ambos niveles y mantener únicamente el primero. Por ponerles un nombre, quisiéramos desligar la “teorización dinámico-estructuralista” (que defendemos) de las “teorías funcional-estructurales” sobre el mundo (que aquí optamos por dejar de lado). Decidimos, además, como podrá notarse, distinguir la “teorización” como proceso (siempre abierto y creativo) de la “teoría” como producto acabado (y heredado). Y un último comentario: cuando hablamos del elemento “funcional” de las teorías (y no de los sistemas), no debe remitirnos ya a la noción de “función” en el sentido de una pseudo-explicación “causal”, sino a la noción de “funcionamiento”, en el sentido del modo procesual y dinámico en que las teorías, como hemos visto, de hecho “funcionan”.</p>
+		</sec>
+		<sec>
+			<title>La metáfora constructiva</title>
+			<p>Volviendo al diagnóstico sobre la situación en el campo sociológico, Parsons sostiene que una teorización de tal calibre (la que hemos denominado “dinámico-estructuralista”) se ve impedida de desarrollarse por dos razones. Por un lado, por la existencia de corrientes empiristas, sobre las que ya hemos hablado. Por otro, porque parece reinar gran confusión acerca de qué es exactamente lo que la palabra teoría refiere. En efecto, frecuentemente en el campo disciplinar la palabra parece referir a algo muy cercano a la “filosofía de la historia”, es decir, al interés en el establecimiento de “patrones de cambio” altamente generalizados, del tipo del “evolucionismo linear”, “cíclico” o “dialéctico”. Se entiende que lo que en parte justifica hablar de estas conceptualizaciones en tanto teorías es, precisamente, su alto grado de abstracción y generalidad, pero su problema radica en el elemento “metafísico” de las mismas, es decir, en el hecho de que pocas o ninguna de sus conceptualizaciones tienen comprobación empírica, y si la tienen es solo a partir de una generalización empírica exagerada; en otras palabras, sus postulaciones se resisten a la crítica.</p>
+			<p>Otras veces, en cambio, la palabra teoría parece referir en el campo sociológico a lo que podríamos llamar las “explicaciones monocausales” de los fenómenos existentes, es decir, a aquellas conceptualizaciones que atribuyen la explicación de los eventos concretos a un “factor” específico y único, como el clima, los genes, la economía, la política o las ideas, entre otros. El problema de este tipo de conceptualizaciones es la estrechez de mira y la falta de complejización de los objetos estudiados, puesto que no hay fenómeno en el mundo cuyo devenir responda a una sola causa. De hecho, cuando la evidencia es tal que la explicación unifactorial vigente resulta insostenible, lo que suele suceder es que ella es reemplazada por una nueva explicación unifactorial, y así una y otra vez. De este modo, “uno de sus efectos más adversos es la división del campo en escuelas rivales, generando un <italic>impasse</italic> en su seno e impidiendo algún tipo de integración de las diversas teorías” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:222) que permita la construcción de miradas más complejas y multifacéticas, lo cual, como sabemos, era una de las máximas ambiciones intelectuales de Parsons.</p>
+			<p>Ambos tipos de conceptualizaciones, las filosofías de la historia y las explicaciones monocausales, comparten el hecho de que se alejan de los resultados de la investigación empírica, o en palabras de Parsons, “ponen el carro delante del caballo”, es decir que adelantan generalizaciones antes de que ellas hayan sido comprobadas. En este sentido, son conceptualizaciones que evitan ser criticadas justamente por los resultados de la investigación o, dicho de otro modo, por la fuerza de la materialidad “extrateórica” que se impone, como mínimo, limitando lo que se puede decir sobre ella. Entonces, dado que la teoría ha sido y sigue siendo confundida con estos tipos de conceptualizaciones, puede explicarse parcialmente la emergencia de las corrientes empiristas que caracterizan a todo intento de teorización como especulativas. Pero ambas posturas son incorrectas, tanto el empirismo como la especulación. Mientras que esta última intenta “construir un edificio mediante un puro acto de la voluntad” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:220), es decir, sin atenerse a “procedimiento técnico alguno”, la primera intenta construirlo “con las manos vacías”, rechazando la utilización del “equipamiento y el herramental” proveído por la teoría. </p>
+			<p>Esta nueva doble-metáfora es brillante. Para empezar, de ella se deriva la idea de que la ciencia es como un edificio, es decir, algo artificial en tanto construido por el hombre y no una mera imitación de la “naturaleza”, ni algo dado de antemano que el hombre solo debe “descubrir”. En segundo lugar, el hecho de que sea un constructo artificial no significa tampoco que ella sea simplemente una puesta en acto de la imaginación o del deseo humano, sino que ella debe vérsela con aquella materialidad que mencionábamos recién y que constituye el entorno natural y social en el que el hombre habita y al que aspira comprender y explicar (incluso transformar). Y, por último, que deba vérselas con dicha materialidad no significa que puede trabajar con ella como un animal lo hace con un trozo de comida: esa materialidad que es el mundo no es tan simple ni tan maleable, además de que en todo proceso de trabajo humano media la categorización, la conceptualización, la abstracción, la generalización, y, en definitiva, la teorización. </p>
+			<p>Los empiristas, señala Parsons, suelen invocar la “supuesta autoridad” de las ciencias naturales, lo cual muestra, de su parte, una interpretación bastante pobre de la historia de la ciencia. En efecto, comúnmente sostienen como modelo “las glorias” de la matemática como método para las ciencias físicas, lo cual vendría a demostrar el “impedimento innecesario” que la teoría supuestamente supone. Sin embargo, precisamente, no se dan cuenta que la matemática “es” la teoría dentro de las ciencias físicas, es decir, es su núcleo abstracto, generalizado y sistematizado de postulados. Entonces, quienes tienen como modelo a las ciencias naturales, deberían en todo caso defender la necesidad de una teoría “matematizable” para las ciencias sociales, es decir, de una teoría que, en el extremo, sea posible de ser sentenciada en axiomas y fórmulas lógicas. Si la perspectiva científico-social que busca emular a las ciencias naturales fuera coherente con sus propios postulados, “debería sostener, no que ha habido un exceso de teoría en la sociología, sino más bien que no la ha habido en suficiente medida” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:224). Y así lo sostiene el propio Parsons: aún hay mucho por hacer, pero las bases están sentadas. Y para comenzar, nada mejor que la noción de “sistema” para concebir a la teoría, que, según el propio autor, constituye, por todo lo visto anteriormente (y tomadas las precauciones que explicitamos un poco más arriba) un “extraordinariamente útil instrumento de crítica” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:226).</p>
+		</sec>
+		<sec>
+			<title>La metáfora topográfica</title>
+			<p>Ahora sí, pasemos revista al último de los artículos imprescindibles para nuestros propósitos, de aquellos reunidos en los <italic>Ensayos en teoría sociológica</italic>. En “La prospectiva de la teoría sociológica”, de 1952, Parsons muestra cómo, a partir del intercambio constante entre teoría y “hechos” (los cuales son definidos como construcciones conceptuales sobre lo real y nunca como una supuesta “realidad misma”), se irían constituyendo paulatinamente “islas” de implicancia teórica mutua empíricamente comprobadas. En un principio, acepta Parsons, estas islas se encontrarían “dispersas en el mar” del caótico, infinito, complejo mundo fáctico; sin embargo, a medida que el proceso y la retroalimentación continuase, las islas comenzarían a acercarse, de tal modo que la “topografía” teórica se iría definiendo con mayor precisión. En este sentido, queda claro que el desarrollo de una teoría general es siempre una cuestión de grado y nunca un proceso acabado. Pero justamente es factible pensar que ese grado de generalidad de implicancias vaya creciendo de manera proporcional a como el “puro empirismo”, la mera “recolección de datos aislados”, va disminuyendo. Siguiendo este camino, no parece tan utópica la “situación en la cual, luego de cierto tiempo, una buena parte de las investigaciones pueda ser guiada por hipótesis derivadas de este conocimiento teórico adquirido” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:353). </p>
+			<p>Aquí también es donde queda clara la función de las “teorías intermedias” mertonianas, ya que ellas constituyen una especie de puente que conecta entre ambas instancias (la lectura de Alvin <xref ref-type="bibr" rid="B9">Boskoff [1950</xref>] recalca esta “relación entre la postura parsoniana y la mertoniana”, sosteniendo incluso que la “teoría sistemática” del primero debe ser entendida como la “integración” de las teorías intermedias del segundo). Es con la participación de todos estos elementos que se puede pensar con cierta plausibilidad que las “islas” vayan constituyendo, de a poco, una verdadera “masa continental” (aunque ella por supuesto permanezca siempre inevitablemente rodeada de agua, de lo desconocido). Como mínimo, entonces, una “teoría sistemática” generalizada podría ofrecer un marco de orientación amplio, por ejemplo, proveyendo un “lenguaje común” que facilite la “comunicación” entre los diferentes investigadores, las diferentes investigaciones y las múltiples y plurales teorías, así como la “codificación” de los hallazgos de esas investigaciones de tal modo que puedan interrelacionarse y “estar disponibles” para quien las requiera. En una palabra, “la teoría concebida como sistema se trataría de una herramienta con un fuerte «poder organizador»” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:353), tanto de la actividad sociológica como de la información producida. </p>
+			<p>Vemos aquí tomar forma una nueva metáfora, la metáfora topográfica. Lo interesante es descubrir que, en la visión de Parsons, el mar, inabarcable, profundo, revuelto y confuso, incluso quizás peligroso, está constituido por la realidad factual; la única manera de comenzar a aprehenderlo, de poder navegarlo sin riesgo de hundirse, es desde barcos que deben construir los navegantes aventureros. Las islas son las teorías, es decir, el suelo firme, la tierra de arraigo desde la cual es posible aventurarse a atravesar el mar. Las islas teóricas están hechas, en lugar de caracoles apilados, de conceptos puestos en relaciones específicas. Si las islas crecen es porque se acumulan más conceptos que, además, al ir perfeccionando la estructura de su interrelación sistemática, van perfilando sus contornos con mayor precisión. Como sucede cuando se investigan territorios nuevos y se dibujan mapas: primero se conoce solo el contorno de una determinada masa de tierra y, de a poco, se va llenando la hoja en blanco con más y más accidentes geográficos.</p>
+			<p>Entonces, en este marco de “imposibilidad” y de intentos continuados es que Parsons sugiere trabajar reemplazando el “empirismo crudo” mediante la teoría. Más específicamente, mediante la descripción de los fenómenos estudiados como partes o procesos de “sistemas empíricos concebidos sistemáticamente” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:20). Pero nuevamente Parsons recae en una combinación confusa de lo “sistemático”, es decir, del modo de trabajo teórico, y de lo “sistémico”, es decir, de la referencia empírica. Consideramos entonces conveniente desligar ambas instancias, puesto que parece perfectamente factible superar el empirismo mediante el estudio de los fenómenos sociales como partes o procesos de un “sistema teórico”, y no ya de un sistema empírico, es decir, concibiéndolos “sistemáticamente” y no “sistémicamente”. Además, nuestra sugerencia es coherente con la afirmación de Parsons de que “las categorías utilizadas no deben ser ni <italic>ad-hoc</italic> ni transposiciones del «sentido común» [sino conceptos] trabajados cuidadosa y críticamente” (<xref ref-type="bibr" rid="B14">Parsons 1965</xref>:20) como elementos de un sistema (teórico), de tal modo que resulten comparables y “transitivos”. Y es que solo admitiendo que trabajamos con sistemas teóricos, es decir, lógicos y construidos, es que podemos alejarnos conscientemente de las categorías acríticas de uso corriente, a la vez que legitimar el lento trabajo del despliegue de categorías no arbitrarias y no representacionalistas.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusión</title>
+			<p>A modo de conclusión del presente escrito, nos gustaría delinear de manera lo más clara y precisa posible los caracteres principales de nuestra propuesta de la “teorización sistemática” para las ciencias sociales, la cual se funda en una serie de distinciones epistemológicas. Siguiendo la argumentación aquí presentada, en primer lugar, es preciso distinguir entre la “dimensión metateórica” (de reflexión teórica sobre la teoría) y la “dimensión teórico-social” (de reflexión teórica sobre la sociedad) de cualquier discurso. En segundo lugar, es preciso distinguir entre la “dimensión metodológica” (acerca de la construcción de los esquemas teóricos) y la “dimensión de los modelos” de sociedad (acerca de la relación entre los esquemas y la sociedad misma) de cualquier teoría social. En tercer lugar, es preciso distinguir entre lo “sistemático” (que concibe a las teorías como sistemas) y lo “sistémico” (que concibe a las sociedades o sus partes como sistemas). En cuarto lugar, es necesario distinguir entre la “teorización” (como proceso) y la “teoría” (como producto) de la reflexión científica. En quinto lugar, es necesario distinguir entre una “teoría lógicamente cerrada” (que se cierra a nivel discursivo para constituir un sistema, pero se abre a nivel práctico a partir de la crítica) y una “teoría empíricamente cerrada” (que refiere cada concepto a un y solo un fenómeno del mundo de manera empirista y representacionalista). Y en sexto lugar, es necesario distinguir entre una “teoría dinámico-estructuralista” (que tiene ella misma una estructura que funciona transformándose constantemente) y una “teoría funcional-estructural” (que concibe al mundo como teniendo una estructura explicada causalmente por funciones).</p>
+			<p>Como ya se habrá adivinado, nuestra propuesta es la que se obtiene al combinar el primer término de cada una de las distinciones y se opone a la propuesta típicamente empirista (que Parsons combate, aunque a veces sin llegar a fondo). En efecto, frente a una mirada que confunde distintas dimensiones del continuo empírico-metafísico sin otorgarles su relativa autonomía analítica, que a nivel teórico-social y de modelos de la sociedad piensa en términos funcionales y sistémicos, que considera que cada uno de sus conceptos refiere de manera cabal a dicho mundo social y que cree que es factible la construcción de teorías acabadas, nuestra mirada busca distinguir dimensiones, complementar tradiciones plurales, mantenerse siempre abierta a la crítica externa y la autocrítica. De este modo, sostenemos que a nivel metateórico y metodológico la teorización es un proceso perpetuo, en constante transformación, que sin embargo y precisamente por ello pretende construir estructuras lógicas: la suma de estructura y movimiento es, justamente, esta noción particular de “sistema” como discurso.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Adriaansens, H.P.M. 1980. <italic>Talcott Parsons and the conceptual dilemma</italic>. London: Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Adriaansens</surname>
+							<given-names>H.P.M.</given-names>
+						</name>
+					</person-group>
+					<year>1980</year>
+					<source>Talcott Parsons and the conceptual dilemma</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Alexander, J.C. 1983. <italic>Theoretical logic in sociology I. Positivism, presuppositions, and current controversies</italic>. London: Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alexander</surname>
+							<given-names>J.C.</given-names>
+						</name>
+					</person-group>
+					<year>1983</year>
+					<source>Theoretical logic in sociology I. Positivism, presuppositions, and current controversies</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Alexander, J.C. 1984. <italic>Theoretical logic in sociology IV. The modern reconstruction of classical thought: Talcott Parsons</italic>. London: Routledge .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alexander</surname>
+							<given-names>J.C.</given-names>
+						</name>
+					</person-group>
+					<year>1984</year>
+					<source>Theoretical logic in sociology IV. The modern reconstruction of classical thought: Talcott Parsons</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Almaraz Pestana, J. 1981. <italic>La teoría sociológica de Talcott Parsons. La problemática de la constitución metodológica del objeto</italic>. Madrid: Centro de Investigaciones Sociológicas.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Almaraz Pestana</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1981</year>
+					<source>La teoría sociológica de Talcott Parsons. La problemática de la constitución metodológica del objeto</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Centro de Investigaciones Sociológicas</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Almaraz Pestana, J. 2012. Talcott Parsons: conocimiento y acción en La Estructura de la Acción Social, pp. 99-165. En: C. Tejeiro Sarmiento. <italic>Talcott Parsons: ¿el último clásico?</italic> Bogotá: Universidad Nacional de Colombia.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Almaraz Pestana</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<chapter-title>Talcott Parsons: conocimiento y acción en La Estructura de la Acción Social</chapter-title>
+					<issue-part>99-165</issue-part>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sarmiento</surname>
+							<given-names>C. Tejeiro</given-names>
+						</name>
+					</person-group>
+					<source>Talcott Parsons: ¿el último clásico?</source>
+					<publisher-loc>Bogotá</publisher-loc>
+					<publisher-name>Universidad Nacional de Colombia</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Barber, B. 1994. Talcott Parsons on The Social System: an essay in clarification and elaboration. <italic>Sociological Theory</italic> 12(1): 101-105. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/202038">https://doi.org/10.2307/202038</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barber</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>1994</year>
+					<article-title>Talcott Parsons on The Social System: an essay in clarification and elaboration</article-title>
+					<source>Sociological Theory</source>
+					<volume>12</volume>
+					<issue>1</issue>
+					<fpage>101</fpage>
+					<lpage>105</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/202038">https://doi.org/10.2307/202038</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Bershady, H. J. 1991. Practice against theory in American sociology: an exercise in the sociology of knowledge, pp. 66-84. En: R. Robertson y B.S. Turner. <italic>Talcott Parsons: theorist of modernity</italic>. London: Sage.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bershady</surname>
+							<given-names>H. J.</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<source>Practice against theory in American sociology: an exercise in the sociology of knowledge</source>
+					<fpage>66</fpage>
+					<lpage>84</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Robertson</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Turner</surname>
+							<given-names>B.S.</given-names>
+						</name>
+					</person-group>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Bortolini, M. 2007. Analytical sociology and its discontents. <italic>European Journal of Social Theory</italic> 10: 153-172. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1368431007073837">https://doi.org/10.1177/1368431007073837</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bortolini</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Analytical sociology and its discontents</article-title>
+					<source>European Journal of Social Theory</source>
+					<volume>10</volume>
+					<fpage>153</fpage>
+					<lpage>172</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1368431007073837">https://doi.org/10.1177/1368431007073837</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Boskoff, A. 1950. The systematic sociology of Talcott Parsons. <italic>Social Forces</italic> 28(4): 393-399. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2572249">https://doi.org/10.2307/2572249</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boskoff</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>1950</year>
+					<article-title>The systematic sociology of Talcott Parsons</article-title>
+					<source>Social Forces</source>
+					<volume>28</volume>
+					<issue>4</issue>
+					<fpage>393</fpage>
+					<lpage>399</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2572249">https://doi.org/10.2307/2572249</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Fitzhenry, R. 1989. Parsons, Schütz and the problem of verstehen, pp. 143-178. En: R.J. Holton y B.S. Turner. <italic>Talcott Parsons on economy and society</italic>. London: Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fitzhenry</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1989</year>
+					<chapter-title>Parsons, Schütz and the problem of verstehen</chapter-title>
+					<fpage>143</fpage>
+					<lpage>178</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Holton</surname>
+							<given-names>R.J.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Turner</surname>
+							<given-names>B.S.</given-names>
+						</name>
+					</person-group>
+					<source>Talcott Parsons on economy and society</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Levine, D.N. 1991. Simmel and Parsons reconsidered. <italic>The American Journal of Sociology</italic> 96(5): 1097-1116. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/229650">https://doi.org/10.1086/229650</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Levine</surname>
+							<given-names>D.N.</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<article-title>Simmel and Parsons reconsidered</article-title>
+					<source>The American Journal of Sociology</source>
+					<volume>96</volume>
+					<issue>5</issue>
+					<fpage>1097</fpage>
+					<lpage>1116</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/229650">https://doi.org/10.1086/229650</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Padilla, F. 2012. Verdad y valores en la teoría sociológica. Un análisis de la operación sociológica y su pretensión científica, pp. 467-494. En: H. Cadenas et.al. <italic>Niklas Luhmann y el legado universalista de su teoría</italic>. Santiago: RIL Editores.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Padilla</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<chapter-title>Verdad y valores en la teoría sociológica. Un análisis de la operación sociológica y su pretensión científica</chapter-title>
+					<fpage>467</fpage>
+					<lpage>494</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cadenas</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<etal/>
+					</person-group>
+					<source>Niklas Luhmann y el legado universalista de su teoría</source>
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>RIL Editores</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Parsons, T. 1938. The role of theory in social research. <italic>American Sociological Review</italic> 3(1): 13-20. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2083507">https://doi.org/10.2307/2083507</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parsons</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>1938</year>
+					<article-title>The role of theory in social research</article-title>
+					<source>American Sociological Review</source>
+					<volume>3</volume>
+					<issue>1</issue>
+					<fpage>13</fpage>
+					<lpage>20</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2083507">https://doi.org/10.2307/2083507</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Parsons, T. 1965. <italic>Essays in sociological theory</italic>. New York: Free Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parsons</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>1965</year>
+					<source>Essays in sociological theory</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Free Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Parsons, T. 1968. <italic>The structure of social action</italic>. New York: Free Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parsons</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>1968</year>
+					<source>The structure of social action</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Free Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Ritzer, G. 1990. Metatheorizing in sociology. <italic>Sociological Forum</italic> 5(1): 3-15. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/BF01115134">https://doi.org/10.1007/BF01115134</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ritzer</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<article-title>Metatheorizing in sociology</article-title>
+					<source>Sociological Forum</source>
+					<volume>5</volume>
+					<issue>1</issue>
+					<fpage>3</fpage>
+					<lpage>15</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/BF01115134">https://doi.org/10.1007/BF01115134</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Savage, S. 1999. <italic>Las teorías de Talcott Parsons. Las relaciones sociales de la acción</italic>. México: McGraw-Hill.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Savage</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>Las teorías de Talcott Parsons. Las relaciones sociales de la acción</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>McGraw-Hill</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

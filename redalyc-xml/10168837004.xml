@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">https://doi.org/10.4067/S0717-554X2021000200150</article-id>
+         <article-id pub-id-type="publisher-id">00004</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Asuntos críticos acerca del método en investigación educativa</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Critical issues about the method in educational research</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0002-8433-4002</contrib-id>
+               <name>
+                  <surname>Jaramillo-Echeverri</surname>
+                  <given-names>Luis Guillermo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0003-0938-2730</contrib-id>
+               <name>
+                  <surname>Aguirre-García</surname>
+                  <given-names>Juan Carlos</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1b">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad del Cauca, Popayán, Colombia</institution>
+            <institution content-type="normalized">Universidad del Cauca</institution>
+            <institution content-type="orgname">Universidad del Cauca</institution>
+            <country country="CO">Colombia</country>
+            <email>ljaramillo@unicauca.edu.co</email>
+         </aff>
+         <aff id="aff1b">
+            <label>1</label>
+            <institution content-type="original">Universidad del Cauca, Popayán, Colombia</institution>
+            <institution content-type="normalized">Universidad del Cauca</institution>
+            <institution content-type="orgname">Universidad del Cauca</institution>
+            <country country="CO">Colombia</country>
+            <email>jcaguirre@unicauca.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2021</year>
+         </pub-date>
+         <issue>71</issue>
+         <fpage>150</fpage>
+         <lpage>163</lpage>
+         <history>
+            <date date-type="received">
+               <day>11</day>
+               <month>03</month>
+               <year>2021</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>06</month>
+               <year>2021</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>Este artículo trata del método y su relación con la investigación educativa. El objetivo es analizar la relevancia del método en ciencias humanas y sociales, en especial, en educación. Para ello, dividimos este artículo en tres secciones: 1. ¿Hay método? 2. ¿Hay uno o varios métodos? 3. La discusión sobre el método en la investigación educativa. A la primera pregunta, respondemos que hay método. Respondemos a la segunda señalando la necesidad de adoptar un pluralismo metodológico. La tercera sección defiende que las discusiones sobre el método de investigación educativa implican dimensiones ontológicas, epistemológicas y éticas que se han tornado críticas, y se hace una revisión de cada una de ellas. En el apartado conclusivo, sugerimos algunas vías para desanudar esos asuntos críticos en la investigación educativa.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>This article deals with method and its relation to educational research. The objective is to analyze the relevance of method in human and social sciences, especially in education. To this end, we divide this article into three sections: 1. Is there a method? 2. Is there one or more methods? 3. The discussion on method in educational research. To the first question, we answer that there is a method. We answer the second question by pointing out the need to adopt methodological pluralism. The third section argues that discussions on the method of educational research involve ontological, epistemological, and ethical dimensions that have become critical, and a review is made of each of them. In the concluding section, we suggest some ways to disentangle these critical issues in educational research.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>investigación educativa</kwd>
+            <kwd>método</kwd>
+            <kwd>pluralismo metodológico</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>educational research</kwd>
+            <kwd>method</kwd>
+            <kwd>methodological pluralism</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="18" />
+            <page-count count="14" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>Parece natural a toda acción humana, al menos en muchos aspectos de la vida, conducirse de manera metódica. Gran parte de lo que realizamos lo hacemos siguiendo unas regularidades, aunque tales regularidades se han interiorizado de tal modo que olvidamos que estamos siguiendo reglas; incluso, como en las famosas Instrucciones de Cortázar, pareciera ridículo o antinatural hacer explícitos los pasos con los que realizamos acciones cotidianas. No obstante, enfatizamos, en la vida cotidiana actuamos de manera metódica.</p>
+         <p>Varios trabajos han argumentado a favor de la relación estrecha que existe entre la vida cotidiana y la ciencia, por ejemplo, Sankey defiende que “[la ciencia] comienza desde el sentido común, el cual incorpora una visión realista de los objetos de la experiencia cotidiana” (Sankey 2010:57). Tal vez uno de los primeros contemporáneos en avizorar la intrincada relación entre ciencia y sentido común fue el filósofo Edmund Husserl al describir las interacciones entre el mundo de la vida (Lebenswelt) y el mundo de la ciencia. No es extraño, entonces, suponer que, si en la vida cotidiana seguimos procedimientos para alcanzar nuestros fines, en la vida científica también se siguen procedimientos. En efecto, son muchos los esfuerzos que se han hecho, desde la Antigüedad hasta nuestros días, para determinar cuáles son los procedimientos que usa la ciencia para alcanzar sus objetivos, en especial, la verdad de sus hallazgos o el éxito de sus predicciones. Por supuesto, tales esfuerzos tienen un tono muy distinto al de Cortázar y, en tal sentido, al parecer son tomados más en serio.</p>
+         <p>A partir del éxito de la ciencia natural, inaugurada por Galileo, y el intento de los demás saberes (incluso los saberes sobre lo humano) por alinearse con ese estilo de pensamiento, los métodos de la ciencia se fueron sobrevalorando de tal modo que se fue consolidando la leyenda del método científico. A este respecto, dice el filósofo Philip Kitcher: “de acuerdo con la leyenda […] hay cánones objetivos para evaluar las afirmaciones científicas; los científicos, al menos desde el siglo XVII, han estado tácitamente conscientes de estos cánones y los han aplicado al evaluar nuevas o controversiales; los metodólogos deberían articular los cánones, ayudando a prevenir malas aplicaciones y a extender el alcance del método científico en áreas donde la investigación humana típicamente tambalea” (Kitcher 1995:3). En tal sentido, se creyó (y aún se cree) que el método es esencial a la ciencia, es decir, que una ciencia sin método es una contradictio in terminis, un oxímoron.</p>
+         <p>Este artículo es sobre educación, en particular, sobre investigación en educación; mejor aún, sobre los asuntos críticos que presenta la investigación educativa, ante todo, su metodología. En las dos escasas líneas que inician este párrafo hay ya asuntos críticos: ¿es la educación una ciencia o un saber cotidiano? ¿Qué tipo de conocimiento produce la investigación educativa? ¿Cuáles son los propósitos de la investigación educativa? ¿La investigación educativa debe regirse por métodos estandarizados de la ciencia o, más bien, por los métodos cotidianos? ¿Hay métodos exclusivos para la investigación educativa? Si los hay, ¿cuáles son? ¿Hay un método paradigmático para la investigación educativa? Por supuesto, ninguna de las preguntas podrá resolverse de manera definitiva; en este escrito, por lo menos, no se tiene esa pretensión. A lo sumo, se enunciarán elementos que sugieran la necesidad de una discusión amplia acerca de ciertas dimensiones inherentes a una metodología de investigación educativa, la cual se ha subsanado fácilmente incorporando los métodos de algunas ciencias humanas o sociales; sin embargo, ¿no será el tiempo de construir una metodología propia que, en discusión crítica con las metodologías de las ciencias, permita responder de manera efectiva a los problemas que conforman el campo propio de la educación? ¿Será acaso que la falta de tal metodología ha hecho que la educación no haya configurado un sistema de conocimiento fácilmente identificable, unos paradigmas (en el estricto sentido de Kuhn) que configuren a la educación como una ciencia normal?</p>
+      </sec>
+      <sec>
+         <title>1. ¿Hay método?</title>
+         <p>El Diccionario de la Real Academia de la Lengua tiene cuatro acepciones para la palabra método: 1) “Modo de decir o hacer con orden”. 2) “Modo de obrar o proceder, hábito o costumbre que cada uno tiene y observa”. 3) “Obra que enseña los elementos de una ciencia o arte”. 4) “En filosofía, procedimiento que se sigue en las ciencias para hallar la verdad y enseñarla”. Habíamos sostenido desde el primer párrafo que en la vida cotidiana actuamos de manera metódica, es decir, que realizamos acciones siguiendo métodos, muchos de los cuales se hacen tan habituales que ni nos damos cuenta. El sentido común, entonces, nos dice que hay un método, unos modos de proceder para tener éxito en las distintas situaciones de la vida. Por consiguiente, parece que las acepciones uno y dos del Diccionario confirman la intuición inicial.</p>
+         <p>Ahora bien, la pregunta por el método se hace más interesante solo cuando se la ubica en el contexto de la cuarta acepción: “procedimiento que se sigue en las ciencias para hallar la verdad y enseñarla”. Ciertamente, es en este contexto de la ciencia en el que la pregunta trasciende la cotidianidad y alcanza su punto más polémico. El carácter polémico de la pregunta por el método científico radica en que, luego de muchos años de establecida la leyenda del método científico, es decir, luego de un período en el que ni siquiera se consideraba si era posible una ciencia sin método, filósofos y científicos desafiaron esta creencia. Robert Nola y Howard Sankey, en su libro Theories of Scientific Method, señalan varios ejemplos de científicos y filósofos que consideran que no existe el método científico.</p>
+         <p>A modo de ejemplo, se citará un científico y un filósofo. Caso del científico: “El premio Nobel Peter Medawar afirmó: «entre los hábitos del pensamiento no hay cuestiones relativas a lo metodológico. Pregúntele a un científico qué concibe como método científico y él adoptará una expresión entre solemne y evasiva. Solemne, porque siente que debería declarar algo; evasiva, porque se maravilla al no tener ninguna opinión que declarar»” (Nola y Sankey 2007:2). El caso del filósofo: “El filósofo de la ciencia, Paul Feyerabend, propone un tipo de anarquismo (o Dadaísmo) filosófico, que proclama que seguir las reglas simples propuestas por los metodólogos sería mutilar la ciencia” (Nola y Sankey 2007:2).</p>
+         <p>Tanto para Medawar como para Feyerabend no habría método científico. Las razones para uno y otro son distintas: para el premio Nobel no habría una concepción de método, pues a los científicos les interesa tan poco saber si hay método, que ni siquiera tienen una versión unificada del mismo, es decir, si se pregunta a los científicos acerca del método, las respuestas, si las hubiera, serían tan disímiles que habría tantas respuestas como científicos, lo que haría del método una cuestión subjetiva. Para Feyerabend, en cambio, la ciencia es tan plena de creatividad, que, si quisiera enmarcar su accionar en un solo camino, esta perdería su vida; por consiguiente, la pretensión del método en la ciencia coincidiría con la pretensión de extinguirla; al contrario: sin método (o, por lo menos, con la única regla del “todo vale”), la ciencia conserva su vitalidad.</p>
+         <p>Es muy común encontrar estas posturas en varios discursos. Ahora bien, podrían oponerse dos argumentos que debilitarían la atracción que generan. En primer lugar, el que un científico no tenga claridad a la hora de declarar qué es método científico no significa que no use alguno en su trabajo; a lo sumo significará que no ha estado interesado en este tipo de cuestiones que, tal parece, aficionan tanto a los filósofos de la ciencia como a los epistemólogos. A este respecto, el científico tendrá que conceder que, en la práctica cotidiana de la ciencia, este utiliza métodos: “Como todos los investigadores lo saben, hay métodos que se usan al aplicar a becas, métodos para presentar resultados de investigación, métodos para escribir artículos, métodos para obtener aprobación ética, métodos para realizar entrevistas, etc. La actividad de la ciencia en sí misma está repleta de sus propios métodos: métodos para extraer hipótesis a partir de los datos, métodos para probar hipótesis una vez se enunciaron, diferentes métodos para llevar a cabo distintos tipos de experimentos, métodos para aplicar teorías en diferentes situaciones, métodos para hacer cálculos, y así sucesivamente” (Nola y Sankey 2007:12).</p>
+         <p>Según esto, la dificultad del científico (así haya merecido un premio Nobel) para identificar los métodos de la ciencia y definir qué es método, no es un indicador de la inexistencia del método en la ciencia; una descripción de la actividad científica da razones para afirmar que existe el método científico.</p>
+         <p>En cuanto a las afirmaciones de Feyerabend, valga decir que el propio filósofo, en su autobiografía, sostuvo: “La ciencia no es ‘irracional’; cada paso puede explicarse por (y está ahora siendo explicado por) los historiadores […] Sin embargo, estos pasos, tomados en conjunto, raramente forman un modelo general que esté acorde con los principios universales, y los casos que respaldan tales principios no son más fundamentales que el resto” (Feyerabend 1995:91). Por tanto, la figura de anarquista que se le ha querido dar a Feyerabend a partir de la publicación de sus libros Contra el método y Adiós a la razón, tendrá que reconfigurarse atendiendo más a los contextos de discusión y los teóricos que Feyerabend estaba confrontando.</p>
+         <p>En conclusión, en la vida cotidiana utilizamos variados métodos para alcanzar conocimiento y llevar a buen fin nuestros propósitos. Si bien científicos y filósofos han planteado que no hay tal cosa llamada método científico, la práctica de los científicos y las discusiones argumentadas (cuando no las mismas retractaciones de los filósofos) permiten establecer que hay método científico.</p>
+      </sec>
+      <sec>
+         <title>2. ¿Existe uno o varios métodos?</title>
+         <p>Si la discusión acerca del método puede zanjarse a favor de la afirmación de su existencia, el asunto se torna más complejo acerca de si existe un único método o hay variedad de métodos. De hecho, de acuerdo con los modos de acercamiento a la realidad, el método puede determinar las denominaciones tradicionales con las que se designan los distintos modos de conocimiento: nomotético versus ideográfico (o, para ser más actuales, explicación versus comprensión). Las ciencias nomotéticas (explicativas), o que usan el modo nomotético de conocimiento, “se caracterizan por realizar una aproximación a su objeto desde las mediciones y por la búsqueda de leyes universales”; por su parte, las ciencias ideográficas (comprensivas), “aunque también utilizan la medición, reconocen un objeto cambiante con cualidades y condicionamientos temporales” (Rodríguez 2016:22). A partir de esta distinción se han asociado dos tipos de ciencias: las legaliformes (nomotéticas) y las descriptivas (ideográficas), las cuales a su vez determinan la distinción entre ciencias naturales y ciencias sociales. A este respecto, pueden encontrarse varias posturas que van desde el monismo metodológico, pasando por el antagonismo y el pluralismo metodológicos. Es preciso considerar brevemente cada una de estas perspectivas.</p>
+         <p>Durante mucho tiempo se tendió a creer que la ciencia operaba de acuerdo con unas reglas fijas; según esto, si se seguían estas reglas no solo se obtenía el conocimiento verdadero, sino que, además, este conocimiento estaba garantizado. El método, entonces, era heurístico (permitía descubrir nuevo conocimiento), pero también era la garantía del conocimiento. Por tanto, se creía que el científico, al conducir su investigación bajo el rigor del método, obtenía un acceso directo a lo estudiado; igualmente, al preguntársele por el camino seguido y al responder este a los estándares establecidos, la comunidad a la que se le comunicaba el nuevo conocimiento podía dar fe de que lo hallado respondía al modo como procede la ciencia. En consecuencia, el método se convierte en un elemento esencial de la actividad científica, más aún, toma el lugar de la racionalidad científica: solo es racional si se ha hallado a través del método de la ciencia y lo hallado se torna racional, en tanto se justifica mediante el uso del método. Por tanto, es el método el que permite decidir, en gran medida, si un conocimiento es racional o no, si es científico o no. Un conocimiento obtenido por azar o sin el rigor del método, a lo sumo podrá ser considerado coincidencia, conocimiento no confiable hasta que supere las etapas que el método establece.</p>
+         <p>Al comienzo se creía que el método científico comenzaba con la experiencia, a diferencia del conocimiento filosófico o teológico que comenzaban o con premisas especulativas o con dogmas de fe. Por consiguiente, la gran mayoría de los manuales de ciencia comenzaban afirmando que es la observación la fase inicial de la investigación científica. Debido al carácter particular de la observación y su imposibilidad de observar todos y cada uno de los casos estudiados, el científico debía formular una serie de conjeturas que permitirían determinar las causas de la ocurrencia del fenómeno. Estas conjeturas tenían que someterse a los patrones de observación del fenómeno, no solo en su estado natural, sino en condiciones ideales que respondieran a la exigencia de precisión. Luego de este sometimiento, la conjetura inicial del científico podía ser verificada o refutada; en el primer caso, el científico podría formular una ley a partir de la cual explicara cómo se comporta determinado fenómeno, cuáles son las causas que lo originan y cómo, habiendo conocido las causas, puede anticiparse su comportamiento en casos similares; es decir, responde a un proceso de linealidad causa-efecto, siendo la causa lo que se infiere y el efecto lo que se ve. Esto es, en esencia, lo que se conoce como método inductivo, del cual, se decía, era el método de la ciencia o de cualquier saber que pretendiera ser ciencia. En caso de refutación, el científico tendría que claudicar y reconocer que su intuición fracasó.</p>
+         <p>Ahora bien, el método inductivo ha gozado de amplio prestigio en la ciencia natural; algunos consideran que no hay otro método para lidiar con cuestiones empíricas, dado que este se encarga de cautelar la objetividad de las observaciones, previniendo y controlando el prejuicio y la especulación sin fundamento empírico. El filósofo Alan Chalmers afirma que “una concepción popular acerca de la característica distintiva del conocimiento científico está recogida en el eslogan: la ciencia se deriva de los hechos” (Chalmers 2013:1); este lema, ciertamente, orienta la motivación inductiva. Sin embargo, en el mismo seno de la inducción empezó a fracturarse la solidez del método, sobre todo en lo referente a la universalidad de los hallazgos. Para algunos, basta seguir rigurosamente el método inductivo para establecer leyes universales; para otros, el método inductivo nos provee, a lo sumo, probabilidades susceptibles de mejoría. El probabilismo abrió un boquete a un número de teóricos que, o bien rechazaron de plano el método inductivo como método de la ciencia (por ejemplo, Popper), proponiendo su antagonista: el método deductivo (que era considerado un método propio de la filosofía, la lógica, la matemática), o bien sucumbiendo a la tentación del relativismo metodológico o del anarquismo.</p>
+         <p>La respuesta, entonces, toma otro matiz: si bien hay método en la ciencia, nada obliga a creer que este método sea la inducción; al contrario, para algunos el método científico es la deducción; para otros, en cambio, no hay método o si lo hay, no sigue estándares fijos, es decir, cualquier camino elegido puede servir como método, no importa si es racional, si es irracional, si brota del sueño, del azar, o de una conciencia alterada.</p>
+         <p>Si esto ocurrió en las ciencias naturales, en las ciencias humanas y sociales el panorama fue más acentuado: del interés inicial en utilizar el mismo método de las ciencias experimentales para abordar los fenómenos humanos y sociales, se pasó al surgimiento de métodos alternativos o posturas abiertamente hostiles a la búsqueda de caminos pre-establecidos. Es así como, desde finales del siglo XIX, hubo una explosión de corrientes que enfatizaron el carácter subjetivo e histórico de las ciencias humanas y sociales, exigiendo unos métodos propios. Entre estas corrientes puede mencionarse: el historicismo de Dilthey, la fenomenología de Husserl y la hermenéutica de Schleiermacher. En el período entre guerras del siglo XX, muchas de estas corrientes alcanzaron su madurez a partir de las discusiones con el llamado positivismo lógico o pospositivismo, defensor de cierto monismo metodológico. Dos de las posturas que más aportaron al debate fueron, sin lugar a duda, la llamada teoría crítica de la Escuela de Frankfurt y la fenomenología (alemana y francesa).</p>
+         <p>Este breve recorrido lleva a concluir que, a diferencia de lo que se creía en los momentos más exitosos de la ciencia, hay método. Aunque parece que no existe un único método para hacer ciencia, lo que ha llevado a adoptar distintas posturas.</p>
+         <p>Una primera postura, surgida de la evidencia de los distintos procedimientos, consiste en conservar la tesis de que hay un método, el mismo método para todas las ciencias, aunque es diferente según su ámbito de aplicación. La epistemóloga Susan Haack, por ejemplo, establece que existe una diferencia entre ciencias naturales y ciencias sociales, y a su vez, entre ciencias sociales intencionales (que se ocupan de las creencias, los miedos o las esperanzas de las personas) y no-intencionales. Sin embargo, considera que tanto las ciencias sociales intencionales como las ciencias naturales son tipos de investigación: “Como toda investigación empírica, incluida la investigación científica natural, la investigación científica social requiere hacer conjeturas que tiendan a la explicación, comprueben cuán bien funcionan ante la evidencia que uno tiene o cae a sus manos, juzga si aceptar o no esa evidencia, la modifica o la abandona para comenzar de nuevo […] La investigación científica de la ciencia social intencional usa las mismas inferencias y procedimientos, y está sujeta a las mismas exigencias, como toda ciencia empírica, incluida la investigación científica natural; sin embargo, las ‘ayudas’ para la investigación apropiada en las ciencias sociales intencionales, no son las mismas: por ejemplo, los científicos sociales usan cuestionarios y entrevistas, más que microscopios y telescopios, como instrumentos de observación” (Haack 2007:25). El reconocimiento de las mismas exigencias epistémicas para todo tipo de ciencia, a saber, honestidad intelectual, respeto por la evidencia y no confundirse con compromiso político, no implica que haya un desconocimiento de las distintas ciencias.</p>
+         <p>Una segunda postura defiende que existen distintos métodos, según el objeto de estudio; en consecuencia, no es lo mismo estudiar los fenómenos naturales que los fenómenos sociales. Estudiar los fenómenos naturales bajo la lente de lo subjetivo o lo social, sería “contaminar” los resultados de tales estudios; indagar lo humano o lo social bajo la perspectiva de la ciencia natural conduce al “reduccionismo”.</p>
+         <p>Otra postura destacada es que no existen métodos; los métodos serían limitantes de la creatividad del científico y, por tanto, es deseable suprimirlos. Cada investigación sería única y el método es dado únicamente por el objeto de estudio. En consecuencia, el lema ideal sería: “no hay camino, se hace camino al andar”.</p>
+         <p>En conclusión, la evidencia muestra que hay distintos métodos. La única clasificación no es si son métodos de las ciencias naturales o métodos de las ciencias sociales; ya se ha visto que en las propias ciencias naturales hay distintos métodos. Por consiguiente, puede hacerse ciencia a partir de distintos métodos, siempre y cuando se tengan en cuenta ciertas virtudes epistémicas. Las mencionadas de Haack podrían ser un buen comienzo, aunque no necesariamente las únicas. Ciertamente, y para concluir este apartado, mencionamos seis diferentes virtudes científicas planteadas por MacFarlane y consideradas por David B. Resnik: “Valentía (sostenerse el tiempo apropiado en lo que uno cree, a pesar de algún costo personal potencial); respeto (tratar a los otros con el respeto que merecen); resolución (quedarse con el propio trabajo, forjándolo a pesar de las dificultades, con los límites de la razón); sinceridad (ser honesto y verdadero cuando se requiera, creer en lo que dice); humildad (dar el debido peso a las fortalezas y debilidades propias); y reflexividad (ser lo suficientemente crítico con su propio trabajo, haciendo las concesiones debidas a las opiniones personales)” (Resnik 2012:336).</p>
+      </sec>
+      <sec>
+         <title>3. La discusión sobre el método en la investigación educativa</title>
+         <p>El apartado anterior ha desplazado, en cierta medida, la discusión sobre el método hacia una comprensión de virtudes epistémicas que serían más pertinentes a la hora de comprender el fenómeno científico. Ciertamente, algunos autores así lo sugieren, y este parece ser un sello de los tiempos actuales. Lee McIntyre, en su libro La actitud científica, afirma: “quizá debamos atender no tanto al método mediante el cual la ciencia se justifica y sí a la actitud que quienes se consagran a ella tienen en mente mientras realizan su labor” (McIntyre 2020:81). Todo el libro se dedica a argumentar a favor de dicha actitud, que resume en los siguientes principios: “1. Nos preocupamos por la evidencia empírica. 2. Estamos dispuestos a cambiar nuestras teorías a la luz de nueva evidencia” (McIntyre 2020:82). La invitación que hace McIntyre no es insustancial: si no es posible llegar a acuerdos definitivos respecto al método científico (una especie de aceptación del pluralismo metodológico), no tiene sentido seguir dando vueltas a su alrededor; para escapar de este círculo, puede ser más provechoso comprender la racionalidad de la ciencia no tanto desde sus métodos, sino desde la actitud científica. Sin embargo, ¿no es esto un modo de ignoratio elenchi?</p>
+         <p>Si bien puede no haber en McIntyre una elusión formal de la cuestión, lo cierto es que no es posible desplazar la pregunta por el método como si este dejara de ser problemático o central en la práctica científica. De hecho, sería contraintuitivo negar la presencia de las reflexiones metodológicas en programas de pregrado y posgrado de un buen número de instituciones universitarias (independientemente del valor que asignemos a su receptividad por parte de los estudiantes o a su utilidad en la práctica real de la investigación científica); del mismo modo, no es posible ignorar los agitados debates que sobre este asunto se trenzan en revistas de alto impacto a nivel global. La idea es, por tanto, que, aunque las discusiones sobre el método han conducido a territorios estériles, no por ello se pueden dejar a un lado en el debate metacientífico.</p>
+         <p>Bajo estas premisas, y recogiendo lo ya logrado en los párrafos anteriores, en especial, que el método está presente en toda acción humana (incluida la ciencia) y que hay diversidad de métodos en la práctica científica, nos dedicaremos en este apartado a considerar algunas cuestiones que afectan a la investigación educativa. Antes de exponer nuestra conjetura, es necesario definir lo que entendemos por investigación educativa, para lo cual recurrimos a la ofrecida por la Asociación Norteamericana de Investigación Educativa (AERA): “es el campo científico de estudio que examina los procesos de educación y aprendizaje, y los atributos, interacciones, organizaciones e instituciones humanas que constituyen resultados educativos. El trabajo académico en el campo pretende describir, entender y explicar cómo el aprendizaje tiene lugar a lo largo de la vida de una persona, y cómo los contextos educativos formales e informales afectan todas las formas de aprendizaje. La investigación educativa abarca todo el espectro de métodos rigurosos adecuados a las preguntas que se formulan y conduce al desarrollo de nuevos instrumentos y métodos” (https://www.aera.net/About-AERA/What-is-Education-Research).</p>
+         <p>De la definición anterior extraemos las siguientes ideas-premisas: 1) El objetivo de la investigación educativa es producir ciencia dentro de una disciplina que podemos englobar bajo el nombre de Educación, cuyo objeto de estudio está delimitado. 2) Esta disciplina científica, debido a sus pretensiones, se ubica en el macro territorio de las ciencias sociales (dejamos de lado en este artículo las tensiones que podrían existir entre ciencias sociales y humanas o humanidades y cómo estas tensiones influyen en la concepción de la educación como ciencia). 3) La investigación educativa adopta el pluralismo metodológico, aunque agrega un valor epistémico: el rigor. A partir de estos elementos, podemos esbozar nuestra conjetura: las discusiones sobre el método en investigación educativa implican dimensiones ontológicas (el ser), epistémicas (la constitución de sentidos) y éticas (la responsabilidad) que se han tornado críticas y, en consecuencia, requieren dilucidarse, tanto para establecer su especificidad en el contexto de las disciplinas, como para justificar la validez de sus conocimientos. Lo que resta de este apartado se propone vislumbrar cada una de estas dimensiones. En el apartado conclusivo intentaremos sugerir los modos como esto contribuye a desanudar ciertos asuntos críticos en investigación educativa.</p>
+         <p>El ser o la dimensión ontológica del método. La discusión que introducen tanto Haack como McIntyre respecto a la actitud científica, en especial sobre el respeto que la ciencia debe a la evidencia, permite hacer una distinción relevante: aunque el respeto por la evidencia es una condición necesaria para hacer ‘buena ciencia’, y esto significaría que sin él habrá ‘mala ciencia’, de ahí no se sigue que haya un solo modo de aproximarse a los objetos de estudio de cada ciencia. Con otras palabras, la condición que establece el respeto por la evidencia no determina unívocamente qué cuenta como evidencia. McIntyre solo da una definición genérica: “Evidencia son los datos que obtenemos de la experiencia que afectan al grado de racionalidad de nuestra creencia en una teoría. A veces estos datos son cuantitativos y pueden ser medidos directamente. En otras ocasiones, es difusa y debe ser interpretada” (McIntyre 2020:85). Esta distinción tiene implicaciones importantes para la discusión ontológica sobre el método en las ciencias sociales en general y en la investigación educativa en particular. Señalamos algunas de ellas.</p>
+         <p>Se ha argumentado ad nauseam que la realidad que investiga el físico o el biólogo no es la misma que estudia el sociólogo o el maestro de escuela; en efecto, parece incompatible una investigación sobre las mutaciones virales con una sobre la angustia estudiantil en épocas de pandemia. En ocasiones, esta diferenciación ha llegado a tornarse inconmensurable. Si esto es así, necesariamente los métodos, que se espera que se adecuen a sus objetos de estudio, tienen que ser diferentes. No obstante, no es necesario postular dos realidades excluyentes: la física y la espiritual (en el clásico sentido de Geist); más bien, podría plantearse que la realidad no se agota en materialidad, como lo supone una perspectiva naturalista. Así lo expone Gabriel: “no todo lo que hay es material o científicamente examinable. Afirmo también que hay realidades inmateriales y lo mantengo en concreto para cada versión accesible del sentido común” (Gabriel 2015:14). Aunque diferimos respecto a la expresión científicamente examinable, pues también las ‘realidades inmateriales’ pueden ser abordadas por las ciencias sociales y, por tanto, son científicamente (aunque no naturalistamente) examinables, consideramos que el pluralismo ontológico defendido por el autor sirve de base para considerar el tipo de realidades que se abordan en la investigación social y educativa.</p>
+         <p>Ahora bien, se ha radicalizado tanto esta distinción que para algunos la investigación educativa no puede contener investigaciones empíricas (naturalistas), sino solo aquellas que aborden las ‘realidades inmateriales’. En consecuencia, en amplios sectores hay un desprecio por los métodos de investigación familiarizados con las investigaciones empíricas (por lo regular, cuantitativos) y, en igual medida, una proliferación de métodos cualitativos. Si se opta por una pluralidad ontológica (mínimamente dos realidades: la material y la espiritual o inmaterial, no disyuntivas), habrá sectores susceptibles de abordajes metodológicos diferenciados. La persistencia del filósofo John Searle, por ejemplo, en encontrar la “naturaleza fundamental y el modo de existencia […] de la realidad institucional y social humana” (Searle 2017:9), pese a establecer una continuidad con la ciencia natural, no defiende un anacrónico monismo ontológico. El propio autor así lo afirma: “Al establecer estas analogías con las ciencias naturales no insinúo que las ciencias sociales sean como las ciencias naturales. Ese no es el punto. El punto más bien es que considero inadmisible suponer que utilizamos una serie de mecanismos lógicamente independientes para crear hechos institucionales y estoy en busca de un mecanismo único” (Searle 2017:22). De lo que se trata, más bien, es de hallar rasgos de la realidad social susceptibles de ‘mecanismos’ que expliquen su funcionamiento.</p>
+         <p>Pero lo anterior tampoco determina que toda investigación social esté limitada a la búsqueda de tales mecanismos. Discutiendo la cuestión del método en la investigación en ciencias sociales, John Law propone la consideración de “objetos elusivos”, esto es, realidades que no se agotan en la representación y que requieren, por tanto, otros modos de enunciación, por ejemplo, la alegoría. Según Law, “donde quiera que haya representación también existe alegoría. No es que la alegoría se haya perdido, sino que se practica de manera encubierta. O, para decirlo de otra manera, todos estamos inmersos en el arte de la alegoría” (Law 2020:152). Basado en los estudios de ciencia, técnica y sociedad, Law critica los modos como la ciencia ha tratado de ‘fijar’ la realidad, omitiendo de ella (el autor habla de ocultamiento o ‘alterización’) su carácter efímero y elusivo, por lo que propone una alternativa: “si queremos pensar en los desórdenes de la realidad tendremos que enseñarnos a pensar, a practicar, a relacionarnos y a conocer de nuevas maneras. Tendremos que enseñarnos a conocer algunas de las realidades del mundo utilizando métodos inusuales o desconocidos en las ciencias sociales” (Law 2020:15). Debe notarse, sin embargo, que el autor no establece una distinción radical entre uno y otro tipo de investigación social sobre la realidad; al contrario, adopta una actitud prudente: “los métodos de investigación estándar son a menudo importantes, por no decir, necesarios” (Law 2020:18).</p>
+         <p>Tenemos, entonces, que la investigación educativa parte de una realidad compleja que puede abordarse, o bien desde métodos que promuevan la estandarización (el ‘mecanismo único’ de Searle), o bien desde métodos que se esfuercen por lo ‘inmaterial’ (Gabriel) o lo ‘elusivo’ (Law). La complejidad que caracteriza a la realidad educativa (cuando no a toda realidad) no es óbice para establecer criterios de evidencia (mensurables o interpretativos) que garanticen la plausibilidad de los conocimientos alcanzados. En cualquier caso, como puede advertirse, una discusión sobre el método conlleva premisas ontológicas que determinan el modo de aproximarse a la realidad, pero también el tipo de conocimiento que se pretende producir y las maneras de validarlo.</p>
+         <p>El conocer o la dimensión epistémica del método. El sujeto que investiga en educación está en constante relación con lo investigado; por tanto, sospecha de aquello en donde no esté inmerso, dado que es, según Fernando González, “sujeto en la medida en que se define por la posibilidad de producción de sentidos que abren espacios singulares, dentro de contradicciones con otros espacios” (Díaz 2006:244). Siendo así, se pasaría de asumir una epistemología como teoría del conocimiento científico a un pensamiento crítico-situado de lo social en la constitución de un conocimiento pertinente. De acuerdo con esto, los conocimientos que se alcanzan a comprender en un proceso de investigación educativa siempre revelarán lo trascendente del conocimiento alcanzado; opacidad revelada en el decir de la investigación que se experimenta como una especie de sombra entre la enunciación y el enunciado, así como entre las formas expresadas y su soporte (el método). En tal virtud, es necesario hacer una vigilancia epistemológica respecto de las distintas maneras de aproximarnos a la realidad, de objetivarla con postulados teóricos y abordarla a través de estructuras comprensivas de sentido; esto permitirá dar cuenta de la manera como se logra una comprensión del otro al interior del mismo proceso de investigación. Específicamente, los métodos de investigación en educación co-nacen, es decir, son parte de un avanzar comprensivo en relación trascendente con los participantes del estudio; con otras palabras, se descubre reflexivamente el camino en la medida en que se va avanzando en el proceso de investigación. Se trata, por tanto, de avanzar y retroceder en el recorrido, comprendiendo que unos caminos pueden ser más seguros que otros; esto comporta un salir constante en el avance de un método, lo que guarda relación con la etimología del término: “educatio, sustantivación de educare, emparentado con ducere, que quiere decir conducir, y con educere, sacar fuera, criar” (Sánchez 2019:28). La investigación en educación, como todo acto relacional, implica una salida, un sacar fuera, gracias a la interacción pedagógica que establecen maestros y estudiantes; de esta interacción emerge un método que se abre a un pensamiento crítico-situado que despliega posibilidades para la enunciación y el acontecimiento.</p>
+         <p>Siendo así, el investigador en educación se moverá entre lo instrumental y lo trascendente; o mejor, en la incoherencia de una realidad que no está del todo en correspondencia con los postulados y verdades contenidas por la unicidad de un método. En consecuencia, “no resulta difícil comprender que todo atributo arrastra una sombra entrópica que lo controvierte y hasta, en cierta medida, contraviene. Pero esto supone invertir la realidad, medirle las espaldas al discurso sólido del método y sus características formalizadas […] habrá que buscar, entonces, más que las formas y sus leyes trascendentes, los gérmenes que las corroen, sus fallas, ausencias, los agujeros de la erosión que el ser desplazado por ellas realiza incesante en los predicados que dicen contenerlo. A partir de aquí, los conceptos tienen poros; las palabras, branquias; las frases, intersticios; las imágenes, rendijas, etc.” (Domínguez 2001:10). Como investigador, será consciente de una historicidad que no puede apartar; por el contrario, la reconoce para dar cabida a un problema vital de investigación; es alguien que, de manera abierta, se pone en situación e intencionalidad con los participantes del estudio, lo que implica una exteriorización de su subjetividad. ¿Quiénes otorgan un sentido a la realidad sino aquellos que hacen parte del mismo proceso investigativo? Negar la subjetividad es impedir la vitalidad del encuentro y la capacidad de crear otras formas de interacción.</p>
+         <p>La subjetividad, como lo sostiene Huergo, “es condensación de recorridos y memorias, de voces y aspiraciones en cierto sentido colectivas; se constituye siempre en la trama de relaciones con lenguajes y experiencias múltiples, pero sobre todo, en el entramado de otras subjetividades; [ella] acontece y se pronuncia con la carga de historias y biografías, de otras palabras y de otras reflexiones” (Huergo 2004:146). El ser que investiga es alguien que se deja permear por un otro trascendente; además, encuentra sentidos en medio de relaciones que comparte con otros que le afectan; en medio del método, aprende a deshilachar sobre suelo resbaladizo, co-naciendo en constante relación intersubjetiva; en últimas, es un “sujeto que percibe y asume la relación social en cuanto una experiencia que pasa básicamente por su sensibilidad y su corporeidad” (Martín-Barbero 2004:40). Esta relación social y educativa implica una ética que se da en medio del método asumido.</p>
+         <p>La responsabilidad por el otro o la dimensión ética del método. Toda educación entraña una relación, encuentro intersubjetivo donde la implicación de los actores sociales es consustancial a la relación misma. La educación está más unida a la vida existencial de las personas, a una subjetividad que habla en medio de la interacción y a la constitución de sentidos que comportan un modo de ser y estar con el otro. La investigación educativa, en este sentido, guarda el atractivo pedagógico de acercarse a lo contingente, a la empatía del encuentro, a la revelación de otro y a lo lábil o vulnerable, tejiendo una trama relacional que requiere ser comprendida desde el centro mismo de la acción pedagógica. Por tanto, no estamos solo frente a un tipo de investigación que pretende interrogar la naturaleza de las cosas o que se basa solo en un tipo privilegiado de evidencia, ni frente al comportamiento demográfico de masas poblacionales que evidencian tendencias para un accionar político o institucional. La educación, en consecuencia, es mucho más que un sistema de relaciones causales centradas en la expansión y la masificación. Junto a esta tendencia, emerge también la posibilidad de investigar la práctica de los maestros, la manera como articulan e integran un pensamiento en su enseñanza. A partir de la práctica, se develan sentidos que no necesariamente se corresponden con su pensar teórico o con ciertos contenidos temáticos; ellos más bien anuncian el devenir del maestro como alguien que crea conocimiento desde el mismo momento que lo comparte con otro. Este acontecimiento toca los cimientos de una relación pensante para ingresar a los terrenos de una ética en la que queda expuesta la relación misma que se establece con los estudiantes.</p>
+         <p>En este sentido, todo método en educación comporta una relación ética, una responsabilidad que implica la no asimilación del otro por la rigidez de unos pasos que pueden obturar de cierta manera su singularidad; es decir, cómo el investigador logra comprender a los otros a medida que avanza en su investigación más allá de sus propios juicios de valor; alcanzar a vislumbrar un sentido a partir de una relación donde no quede atrapada la singularidad de los participantes. Autores como Emmanuel Levinas se oponen a una significación que iguala toda comprensión anterior del mismo, en este caso, del sujeto que investiga, lo cual daría con métodos cerrados que buscan cierta previsibilidad para dar respuesta a una constatación que se tenía de antemano establecida. Esto no significa que del encuentro educativo con los actores sociales no se logre una comprensión; de lo que se trata, más bien, es de que el conocimiento constituido sea parte de la relación misma en el acontecer del encuentro y no solo el producto de un instrumento o procedimiento previamente adoptado. Lo que se propone, entonces, es que, a partir del encuentro, brote un sentido, no como entendimiento previo del investigador respecto a los investigados, sino como proximidad de la cual brota una significancia; esta responsabilidad exige al investigador poner en consideración toda técnica o instrumento de recolección anticipado, así como toda forma de acercamiento o establecimiento del rapport; sin dejar de ser importante la planeación metodológica que hace posible el inicio de un proyecto de investigación.</p>
+         <p>La dimensión ética del método, entonces, va más allá de la definición etapificada, que comúnmente se usa en los manuales de investigación, esto es, como conjunto de pasos y procedimientos que permiten alcanzar un fin. Partiendo de una responsabilidad ética por el otro, el investigador de antemano ya está interpelado por la trascendencia del Otro, lo que implica que la pregunta que emerge al interior de todo encuentro educativo se erige, necesariamente, desde el pensar previo del investigador, pues este ya está interpelado por la trascendencia del Otro, sino en el suelo mismo de la respuesta, o sea, de la responsabilidad; por tanto, la indagación misma no inicia con el otro a investigar, sino en el sujeto mismo que investiga. De este modo, hacemos referencia a una visión ético-epistemológica del método que se fundamenta en una responsabilidad para-el-otro (siguiendo a Levinas), en la que se exterioriza la subjetividad al hacer uso de una reflexividad que surge del encuentro educativo. En la proximidad del encuentro brota una subjetividad que le hace sensible de todo cuanto acontece al interior de la investigación y fuera de ella; a su vez, pone al investigador en perspectiva ética como ser en situación frente a la relación pedagógica. Por medio de una reflexividad responsable, el investigador tomará decisiones durante todo el proceso de investigación en la constitución de un método para el método, lo que implica un acto constante de interpelación ética por parte del otro en torno al camino o ruta que toma la investigación, los cambios asumidos y las decisiones que se mantienen en los diferentes momentos del estudio.</p>
+      </sec>
+      <sec>
+         <title>Conclusión</title>
+         <p>¿Hemos desplazado la discusión sobre el método en investigación educativa hacia cuestiones que le son ajenas, como lo ontológico, lo epistémico y, sobre todo, lo ético? Si es así, ¿no caemos bajo la misma acusación que le hacíamos a McIntyre de eludir la cuestión? Este apartado conclusivo intentará mirar de frente la pregunta por el método en investigación en educación. Antes de ello, sin embargo, es necesario responder acerca de si, en efecto, incurrimos en tal elusión.</p>
+         <p>Obviamente, nuestra respuesta es negativa. Ubicar la discusión por fuera de los márgenes tradicionales de la metodología estricta ha sido un procedimiento deliberado. La intención fue doble: por un lado, mostrar que toda discusión sobre el método lleva implícita una serie de consideraciones que exceden el método; de otro lado, que el formalismo propio de los métodos, su “letra muerta”, adquiere sentidos vivos una vez que se fragmenta a partir de esas consideraciones. Respecto a lo primero, y en esto justificamos el proceder de McIntyre, una discusión sobre el método, encerrada en sus propios conceptos, a lo sumo producirá procedimientos estandarizados, y tal vez rigurosos, que den la impresión de cientificidad; no obstante, se incurre en el riesgo, o bien de entronizarlos como otro idola (y con esto alimentar la ‘Leyenda’), o bien de perpetuar discusiones inútiles respecto, por ejemplo, a cuál método es preferible, cuál es el más consistente, cuál conduce a mejores conocimientos, lo que a la larga conduce a un escepticismo sobre el método. En cuanto a lo segundo, la atención a los horizontes sobre los que los métodos se enuncian motiva una discusión vital, tanto sobre las realidades a las que el método se dirige, como a los conocimientos que se proponen producir y, especialmente, a las relaciones que se establecen entre el investigador y lo investigado. No se trata, entonces, de una elusión de la cuestión sino, al contrario, de retrotraer la discusión sobre el método en investigación educativa a sus dimensiones constitutivas y, por tanto, validadoras de sentido. A diferencia de McIntyre, sin embargo, no recurrimos a un único principio, la evidencia, todavía dependiente de los órdenes ontológico y epistémico, sino que incluimos, debido a la especificidad del campo u objeto de investigación, una dimensión ética que excede esos órdenes.</p>
+         <p>Justamente, esto último es lo que proponemos como el hilo de Ariadna para desentrañar los asuntos críticos en la investigación en educación. Como quedó expuesto en el apartado anterior, el método en investigación educativa se dirige a explorar una realidad compleja, no en el sentido cargado de teorías aparentemente científicas (como la de la complejidad), sino en la acepción más básica de aquello “que se compone de elementos diversos” (DRAE). Si bien este aspecto de la investigación educativa no da luces respecto a lo que le es propio (pues, a lo sumo, legitima aproximaciones distintas a esos elementos diversos, esto es, legitima el pluralismo ontológico), sí por lo menos permite dar razones sobre su no claudicación ante el naturalismo (al igual que una sana tolerancia a aproximaciones naturalistas a ciertos fenómenos educativos). En igual sentido, también se dirige a producir conocimientos, es decir, no renuncia a enunciados susceptibles de revisión intersubjetiva y de reformulación, y estos enunciados se respaldan en evidencias (que, reiteremos lo expresado por McIntyre, pueden ser abordadas explicativamente, pero también comprensiva o interpretativamente). Ahora bien, en la investigación educativa se ha salvaguardado el carácter relacional y crítico situado de dicho acontecimiento, por lo que no puede eximirse la subjetividad del investigador del ejercicio investigativo, esto es, hay un reconocimiento de la afectación que acaece entre los actores del proceso.</p>
+         <p>Por último, el reconocimiento de elementos diversos en la complejidad de la investigación educativa y su carácter relacional necesariamente abre una dimensión poco explorada en las discusiones metodológicas, a saber, la dimensión ética, que da una nueva connotación a la realidad hacia la que se aproxima el investigador (pues es una realidad con rostro, es decir, excede la forma del objeto o la certeza del dato) y al conocimiento que brota de ella, un conocimiento que, más que dar cuenta de Otro desde unas categorías teóricas previas, formuladas desde la libertad del investigador, en aras de corroborar lo que de antemano proyecta, o de satisfacer la curiosidad, propende por una sabiduría que emane de la escucha y mueva a respuesta. En consecuencia, la investigación educativa, si bien tiene entre sus fines producir conocimientos acordes con los “diversos elementos” que componen el hecho educativo, puede distinguirse en la medida en que estos conocimientos estén guiados por un sentido de justicia que brote del Otro (estudiante, maestro, padre de familia, administrador educativo) y dote de sentido toda aproximación, todo objetivo, toda acción. Se trata de tomar en serio, en la investigación educativa, lo que alguna vez Gadamer propuso como sello distintivo de las ciencias del espíritu, esto es, la phronesis, entendida esta como una “racionalidad responsable” (Gadamer 2003:65).</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Chalmers, A.,  (2013).
+               <italic>What is this thing called science?</italic>
+               . : University of Queensland Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chalmers</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>What is this thing called science?</source>
+               <publisher-name>University of Queensland Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Díaz, A.(2006). "Subjetividad y subjetividad política. Entrevista con el psicólogo cubano Fernando González Rey".
+               <italic>Revista Colombiana de Educación.</italic>
+               (50), 236-249. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17227/01203916.7751">https://doi.org/10.17227/01203916.7751</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Díaz</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>Subjetividad y subjetividad política. Entrevista con el psicólogo cubano Fernando González Rey</article-title>
+               <source>Revista Colombiana de Educación</source>
+               <volume />
+               <issue>50</issue>
+               <fpage>236</fpage>
+               <lpage>249</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17227/01203916.7751">https://doi.org/10.17227/01203916.7751"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Domínguez, A. (2001).
+               <italic>Introducción: tensión infinita del arte</italic>
+               . En Levinas, E (autor.);La Realidad y su Sombra; Libertad y Mandato; Trascendencia y Altura.  (9-39).: Trotta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Domínguez</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Introducción: tensión infinita del arte</chapter-title>
+               <year>2001</year>
+               <source>La Realidad y su Sombra; Libertad y Mandato; Trascendencia y Altura</source>
+               <publisher-name>Trotta</publisher-name>
+               <fpage>9</fpage>
+               <lpage>39</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Feyerabend, P.,  (1995).
+               <italic>Killing time</italic>
+               . : University of Chicago Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Feyerabend</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>Killing time</source>
+               <publisher-name>University of Chicago Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Gabriel, M.,  (2015).
+               <italic>Yo no soy mi cerebro. Filosofía de la mente para el siglo XXI</italic>
+               . : Pasado &amp; Presente
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gabriel</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Yo no soy mi cerebro. Filosofía de la mente para el siglo XXI</source>
+               <publisher-name>Pasado &amp; Presente</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Gadamer, H.,  (2003).
+               <italic>Elogio de la teoría. Discursos y artículos</italic>
+               . : Península
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gadamer</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <source>Elogio de la teoría. Discursos y artículos</source>
+               <publisher-name>Península</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Haack, S. (2007).
+               <italic>Intellectual journey: an interview with Susan Haack</italic>
+               . En De Waal, C (autor.);Susan Haack a lady of distinctions.  (17-40).: Prometheus Books
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Haack</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Intellectual journey: an interview with Susan Haack</chapter-title>
+               <year>2007</year>
+               <source>Susan Haack a lady of distinctions</source>
+               <publisher-name>Prometheus Books</publisher-name>
+               <fpage>17</fpage>
+               <lpage>40</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Huergo, J. (2004).
+               <italic>La formación de sujetos y los sentidos político-culturales de comunicación / educación</italic>
+               . En Laverde, M., Daza, G., Zuleta, M (autor.);Debates sobre el sujeto. Perspectivas contemporáneas.  (129-148).: Siglo del Hombre Editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Huergo</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>La formación de sujetos y los sentidos político-culturales de comunicación / educación</chapter-title>
+               <year>2004</year>
+               <source>Debates sobre el sujeto. Perspectivas contemporáneas</source>
+               <publisher-name>Siglo del Hombre Editores</publisher-name>
+               <fpage>129</fpage>
+               <lpage>148</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Kitcher, P.,  (1995).
+               <italic>The advancement of science</italic>
+               . : Oxford University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kitcher</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>The advancement of science</source>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Law, J.,  (2020).
+               <italic>Después del método. Desorden en la investigación en ciencias sociales</italic>
+               . : Universidad del Cauca
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Law</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <source>Después del método. Desorden en la investigación en ciencias sociales</source>
+               <publisher-name>Universidad del Cauca</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Martín-Barbero, J. (2004).
+               <italic>Crisis de identitarias y transformaciones de la subjetividad</italic>
+               . En Laverde, M., Daza, G., Zuleta, M (autor.);Debates sobre el sujeto. Perspectivas contemporáneas.  (33-45).: Siglo del Hombre Editores
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Martín-Barbero</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Crisis de identitarias y transformaciones de la subjetividad</chapter-title>
+               <year>2004</year>
+               <source>Debates sobre el sujeto. Perspectivas contemporáneas</source>
+               <publisher-name>Siglo del Hombre Editores</publisher-name>
+               <fpage>33</fpage>
+               <lpage>45</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               McIntyre, L.,  (2020).
+               <italic>La actitud científica</italic>
+               . : Cátedra
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McIntyre</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <source>La actitud científica</source>
+               <publisher-name>Cátedra</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Nola, R., Sankey, H.,  (2007).
+               <italic>Theories of scientific method</italic>
+               . : Acumen
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nola</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sankey</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Theories of scientific method</source>
+               <publisher-name>Acumen</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Resnik, D.(2012). "Ethical virtues in scientific research".
+               <italic>Accountability in Research: Policies and Quality Assurance. 19</italic>
+               (6), 329-343. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/08989621.2012.728908">https://doi.org/10.1080/08989621.2012.728908</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Resnik</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Ethical virtues in scientific research</article-title>
+               <source>Accountability in Research: Policies and Quality Assurance</source>
+               <volume>19</volume>
+               <issue>6</issue>
+               <fpage>329</fpage>
+               <lpage>343</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/08989621.2012.728908">https://doi.org/10.1080/08989621.2012.728908"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Rodríguez, A.(2016). "Tensiones teóricas en torno al estudio de la ciencia. De la sociología de la ciencia al concepto de campo científico".
+               <italic>Andamios. 13</italic>
+               (31), 13-36. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-00632016000200013&amp;lng=es&amp;nrm=iso&amp;tlng=es">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-00632016000200013&amp;lng=es&amp;nrm=iso&amp;tlng=es</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rodríguez</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Tensiones teóricas en torno al estudio de la ciencia. De la sociología de la ciencia al concepto de campo científico</article-title>
+               <source>Andamios</source>
+               <volume>13</volume>
+               <issue>31</issue>
+               <fpage>13</fpage>
+               <lpage>36</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-00632016000200013&amp;lng=es&amp;nrm=iso&amp;tlng=es">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-00632016000200013&amp;lng=es&amp;nrm=iso&amp;tlng=es"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Sankey, H.(2010). "Ciencia, sentido común y realidad".
+               <italic>Discusiones Filosóficas. 11</italic>
+               (16), 41-58. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/j78pps">http://ref.scielo.org/j78pps</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sankey</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Ciencia, sentido común y realidad</article-title>
+               <source>Discusiones Filosóficas</source>
+               <volume>11</volume>
+               <issue>16</issue>
+               <fpage>41</fpage>
+               <lpage>58</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://ref.scielo.org/j78pps">http://ref.scielo.org/j78pps"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Sánchez, T.,  (2019).
+               <italic>El culto pedagógico. Crítica del populismo educativo</italic>
+               . : Akal
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sánchez</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>El culto pedagógico. Crítica del populismo educativo</source>
+               <publisher-name>Akal</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Searle, J.,  (2017).
+               <italic>Creando el mundo social. La estructura de la civilización humana</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Searle</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Creando el mundo social. La estructura de la civilización humana</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

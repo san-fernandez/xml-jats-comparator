@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000300295</article-id>
+			<article-id pub-id-type="publisher-id">00005</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Determinismo, compatibilismo y escepticismo respecto al libre albedrío</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Determinism, compatibilism and free will scepticism</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Miranda-Rojas</surname>
+						<given-names>Rafael</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Facultad de Ciencias Religiosas y Filosóficas, Universidad Católica del Maule (Talca, Chile) ORCID: 0000-0002-6603-070X.</institution>
+					<institution content-type="normalized">Universidad Católica del Maule</institution>
+					<institution content-type="orgdiv1">Facultad de Ciencias Religiosas y Filosóficas</institution>
+					<institution content-type="orgname">Universidad Católica del Maule</institution>
+					<addr-line>
+						<named-content content-type="city">Talca</named-content>
+					</addr-line>
+					<country country="CL">Chile</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Correspondencia: email <email>rafaelmirandarojas@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<month>12</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>60</issue>
+			<fpage>295</fpage>
+			<lpage>305</lpage>
+			<history>
+				<date date-type="received">
+					<day>17</day>
+					<month>05</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>28</day>
+					<month>07</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>El presente escrito tiene por objetivo discutir los alcances de la postura denominada escepticismo sobre el libre albedrío (Free Will Scepticism) y evaluar si el debate compatibilismo - incompatibilismo supone una postura racionalista y/o necesitarista respecto a si un sujeto S actúa libremente. La discusión de los últimos diez años sobre este tópico permite establecer una distinción relevante entre que una acción sea libre, sin que ello descarte antecedentes causales de esa acción. En particular, sin que ello conduzca a un compromiso con el denominado principio de posibilidades alternativas (principle of alternate possibilities) ni con el denominado argumento consecuencial (consequence argument)<italic>.</italic> Se discutirá cómo el experimento desarrollado por Libet comprende el si una acción libre es equivalente a una acción consciente, considerando la relevancia de la libertad de veto y el rol del criterio de control de una acción. Una arista relevante en este análisis será la postura epifenomenalista. Finalmente, se evaluará la alternativa modal denominada imposibilismo y su rol en una postura escéptica respecto al libre albedrío.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>This paper discusses the free will scepticism claim and discerns whether the compatibilism - incompatibilism debate presupposes a rationalistic/necessitarism stance about if a subject S acts freely. The last ten years makes it possible to establish a relevant distinction between an action being free, without discarding causal antecedents of that action. Specifically, this does not lead to a compromise with the so-called Principle of Alternative Possibilities or with the Consequence Argument. It will be discussed how the experiment developed by Libet comprises whether a free action is equivalent to a conscious action, considering the relevance of freedom of veto and the role of the control criterion of an action. A relevant edge in this analysis will be the epiphenomenalist stance. Finally, it will be evaluated the impossibilist modal alternative and its role in a sceptical position regarding free will.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>libre albedrío</kwd>
+				<kwd>determinismo</kwd>
+				<kwd>control</kwd>
+				<kwd>fatalismo</kwd>
+				<kwd>epifenomenalismo.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>free will</kwd>
+				<kwd>determinism</kwd>
+				<kwd>control</kwd>
+				<kwd>fatalism</kwd>
+				<kwd>epiphenomenalism.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="15"/>
+				<page-count count="11"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introducción</title>
+			<p>¿Es libre el ser humano? ¿Es responsable? ¿Son las consecuencias de sus acciones atribuibles a sus decisiones? ¿Son sus decisiones libres? ¿Qué quiere decir ser libre? Durante los últimos diez años, un punto central en discusión respecto a este tópico es si un sujeto S puede decidir entre A o B de modo indeterminado (<italic>underdetermine</italic>), es decir: Que S tenga efectivamente la posibilidad de elegir entre A o B, y que esa elección no esté determinada por las leyes naturales o los eventos pasados. Esta discusión, respecto a si un sujeto S está determinado a decidir A (si decide A) o B (si decide B) es una arista de la disputa compatibilismo - incompatibilismo. Se entiende por incompatibilismo aquella postura que rechaza la composibilidad del determinismo y la libertad, específicamente del determinismo causal. La propuesta incompatibilista ha dado lugar al rechazo de que un sujeto S pueda realizar acciones libres, o que tenga entre sus facultades el libre albedrío. Se ha denominado a esta postura extrema escepticismo respecto al libre albedrío (<italic>Free Will Scepticism</italic>). Si la postura incompatibilista intenta sustentar el libre albedrío y descartar determinismo, corresponde a lo que se denomina una tesis libertaria o libertarianismo (<italic>Libertarianism</italic>). Ya que uno de los objetivos principales de esta postura incompatibilista pro libre albedrío es evitar que la noción de responsabilidad moral sea rechazada por un determinismo fuerte (<italic>hard determinism</italic>), el libertarianismo debe dar cuenta de si el indeterminismo permite mantener dicha responsabilidad, o conduce a sostener un carácter estocástico de porque S realiza A en lugar de B. La consecuencia no deseada es que ni el determinismo, ni el indeterminismo, permitirían sostener que hay libre albedrío. Al respecto, un antecedente relevante es <xref ref-type="bibr" rid="B4">Gulliver, quien cuestiona el nexo acción libre - acción no causada (<italic>uncaused</italic>), y su restricción a causación física (<italic>physical causation</italic>): “It is and must-be true that the libertarian doctrine denies the application of the law of physical causation to volitions. It is not necessarily true that it denies the application of the law of causation to volitions” (1894</xref>:63). </p>
+			<p>Considerando la implausibilidad de que una postura libertaria defienda eventos no causados, el restriccionismo fisicalista causal es cuestionado a partir de alternativas causales no físicas, o al menos no completamente físicas. El énfasis radica en que esta apertura a cierta explicación causal de una acción libre descarta la postura libertaria extrema denominada libertad de la indiferencia (<italic>liberty of indifference</italic>), la que sostiene que los actos libres son indiferentes a los motivos que podría tener un sujeto S para actuar de un modo específico. Esta tensión entre posturas compatibilistas - incompatibilistas es explicada claramente por <xref ref-type="bibr" rid="B15">Willmott: “if they contend that the strength of the case for free will rules out a deterministic universe (and/or the case for indeterminism is considered so overwhelming) then the person is a Libertarian… Alternatively, the weight of evidence for a deterministic universe might be considered so strong (and/or the argument for free will so weak) that there is no room left for free will; this would be a ‘hard deterministic’ viewpoint” (2016</xref>:3).</p>
+			<p>Las estrategias compatibilistas, aquellas que aceptan tanto el determinismo como el libre albedrío, han buscado soluciones a partir de propuestas causales <italic>sui generis</italic>, o la denominada causación del agente (<italic>agent causation</italic>). Ante propuestas de este tipo, el fisicalismo ha cuestionado la validez de que lo mental cause algún evento físico, o en otras palabras que lo mental es causalmente estéril al nivel físico, el epifenomenalismo. En palabras de <xref ref-type="bibr" rid="B14">Walter, se entiende por epifenomenalismo: “the claim that the mental is a causally otiose by-product of physical processes that does not itself cause anything” (2014</xref>:2215). Cuestionar la denominada causación agente tiene un nexo directo con una postura escéptica o ilusionista del libre albedrío, pues si se rechaza que un sujeto S sea <italic>causa sui</italic> de sus acciones, ello redunda en un fortalecimiento de la propuesta incompatibilista determinista causal: un sujeto S no es <italic>causa sui</italic>, pues hay causas más allá de su control que le anteceden y determinan una acción A. Este es el denominado Argumento Básico (<italic>Basic Argument</italic>) contra la noción de responsabilidad moral y, conjuntamente, contra la postura pro libre albedrío, analizado en <xref ref-type="bibr" rid="B9">Ravven: “we cannot be ultimately morally responsible because we cannot be causa sui, which is to say originators of ourselves and our choices. We are not unmoved movers inventing or creating our biological natures, our character, or our actions, as it were, from nothing. Hence neither praise nor blame can ever be truly justified” (2014</xref>:384).</p>
+			<p>Un supuesto de esta comprensión negativa respecto al libre albedrío reside en que se asume una equivalencia entre determinismo - fatalismo. En la siguiente sección se analizará en qué sentido esto es implausible. </p>
+		</sec>
+		<sec>
+			<title>2. La relevancia de la distinción determinismo - fatalismo</title>
+			<p>Durante la década de 1980, el filósofo americano Peter van Inwagen propuso el denominado argumento consecuencial (<italic>Consequence Argument</italic>) a favor de la postura incompatibilista en la discusión respecto al libre albedrío, postura que afirma no es posible el libre albedrío, si el determinismo es verdadero. Afirma <xref ref-type="bibr" rid="B11">van Inwagen: “If determinism is true, then our acts are the consequences of the laws of nature and events in the remote past. But it is not up to us what went on before we were born; and neither is it up to us what the laws of nature are. Therefore the consequences of these things (including our own acts) are not up to us” (1983</xref>:16). Este es el punto de inicio con el que Kane intenta defender el incompatibilismo respecto al libre albedrío (ver su capítulo <italic>Incompatibilism</italic> en el libro <italic>Contemporary Debates in Metaphysics</italic>). Si el incompatibilismo es correcto, sostener que hay libre albedrío exigiría indeterminismo en las decisiones que un sujeto S realice en un tiempo t1. Sin embargo, el indeterminismo exigido es de carácter alético y no meramente epistémico, lo que quiere decir que exige a un sujeto S no solo conocer el valor de verdad de un evento futuro EF, sino también aceptar la consecuencia fatalista implícita: que EF es verdadero en t1, antes de que el evento ocurra en un tiempo t2. Vihvelin denomina a esta tesis Realismo acerca del Futuro (<italic>Realism about the Future</italic>), pero el modo cómo se entiende esta tesis desde el incompatibilismo exige que el futuro sea real previo a su actualidad. Acertadamente, observa Vihvelin que esta exigencia corresponde a la denominada falacia fatalista, la cual sostiene necesidad no condicional (<italic>unconditional necessity</italic>) en casos que corresponde a necesidad condicional o necesidad de un condicional (<italic>necessity of a conditional</italic>). Formalizada, la falacia expresa lo siguiente (<xref ref-type="bibr" rid="B12">Vihvelin 2008</xref>:307):</p>
+			<p>1) P</p>
+			<p>2) □ (P → Q)</p>
+			<p>____________</p>
+			<p>3) □ Q </p>
+			<p>La necesidad expresada en 2) corresponde a la necesidad condicionada de que, si necesariamente es el caso que P, necesariamente es el caso que Q. Q no es necesario de modo no condicionado, que es lo que afirma 3), la conclusión. Del mismo modo, <xref ref-type="bibr" rid="B3">Dhar y Sinha (2015</xref>) sostienen que la exigencia indeterminista surge de comprender el determinismo causal como un caso de fatalismo, lo que según los autores es un error pues solo el fatalismo (y no el determinismo) afirma inevitabilidad (<italic>inevitability</italic>), que un evento E no solo es necesario, sino que es necesariamente necesario. Para fortalecer este análisis, los autores citan a <xref ref-type="bibr" rid="B8">Nahmias: “Determinism entails that [(Po &amp; L)⊃ P]-i.e., necessarily, given the actual past state of affairs (Po) and the actual laws of nature (L), there is only one possible present state of affairs (P). But determinism does not entail (fatalism) that P (or that Po or L)-i.e., that the actual state of affairs (or the actual past or laws) are necessary (could not be otherwise)” (2006</xref>:215).</p>
+			<p>Conceptualmente, esta distinción es relevante, pues permite distinguir el que un efecto ocurra necesariamente si le antecede la causa que produce dicho efecto, a que necesariamente ocurra el efecto E independiente de la causa. Esta distinción deja abierta la posibilidad de que un mismo evento E sea causado por eventos alternativos (A1 o A2), si bien no composibles. El ejemplo de rascarse - picar explicitado por <xref ref-type="bibr" rid="B6">Kenny (1975</xref>) es esclarecedor en este punto, pero lo es solo porque permite entender que la disposición a rascarse puede resolverse por vías alternativas, lo que quiere decir que la causa enunciada no es necesaria para el efecto. La principal consecuencia de lo explicitado anteriormente es afirmar que la inevitabilidad fatalista conduce a ausencia de poder agencial (<italic>agential powerlessness</italic>), el descarte de que el agente o sujeto S pueda realizar libremente cierta acción A. ¿Cómo evitar el escepticismo respecto al libre albedrío? Una vía de solución parece ser: </p>
+			<p>A) Aceptar el argumento consecuencial, pero rechazar que del mismo se siga que un sujeto S no pueda actuar de otro modo. En otras palabras, rechazar que el nexo causal deriva en fatalismo, incluso si hay determinismo.</p>
+			<p>B) Rechazar el argumento consecuencial, aceptar que un sujeto S no puede actuar de otro modo que como actualmente lo hace, pero rechazar el escepticismo respecto al libre albedrío. En otras palabras, rechazar que el nexo causal deriva en fatalismo, incluso si hay determinismo.</p>
+			<p>Efectivamente, un supuesto en la propuesta incompatibilista es que el determinismo exige que S tenga una sola alternativa de acción, y no solo que S realice A con un antecedente causal definido. El que un agente sea moralmente responsable sin requerir el denominado principio de posibilidades alternativas (<italic>Principle of alternate possibilities</italic>) es lo que v.gr. Cova y Naar entienden como casos estilo Frankfurt, casos en los que un sujeto S es moralmente responsable incluso si no tiene la posibilidad de actuar de modo distinto. Al respecto expresan los autores: “For years, the philosophical debate about the compatibility of moral responsibility with determinism was dominated by the Principle of Alternate Possibilities (PAP): </p>
+			<p>(PAP) Persons are morally responsible for what they have done only if they could have done otherwise.</p>
+			<p>Under a certain interpretation of ‘could have done otherwise’, one can deduce from PAP the incompatibility of moral responsibility with determinism for, under that interpretation, an agent in a deterministic world could not do otherwise” (<xref ref-type="bibr" rid="B2">Cova y Naar 2016</xref>:290).</p>
+			<p>Teniendo en vistas que los casos Frankfurt establecen como evidencia ciertos experimentos mentales que consideran un interventor contrafactual (<italic>Counterfactual Intervener</italic>, <xref ref-type="bibr" rid="B2">Cova y Naar 2016</xref>) y, por ende, ciertas intuiciones I que un sujeto S tiene de alguna situación contra fáctica, no se tiene en vistas este descarte del principio de posibilidades alternativas. Lo propuesto aquí es que, a partir de A) y B), se establece una vía epistémica <italic>a priori</italic>, en la que un sujeto S puede tener un antecedente causal definido, sin que ello conduzca a determinismo fatalista, y sin que este rechazo comprometa con un estatuto ontológico fuerte de las posibilidades concebibles (que existan <italic>strictu sensu</italic> estos eventos posibles concebibles). Es por este motivo que no se intenta establecer una dependencia entre el descarte del principio enunciado con los casos Frankfurt, pese a que se comparte la conclusión: que el principio de posibilidades alternativas no es condición necesaria para sostener que una acción es libre y evaluable moralmente. Esto permite enfatizar la distinción conceptual entre que: </p>
+			<p>C) Un evento E esté causalmente determinado </p>
+			<p>y que </p>
+			<p>D) Un evento E sea necesario. </p>
+			<p>D) no solo establece un nexo causal que fundamente el determinismo, sino que exige un necesitarismo tal que E no podría no ocurrir, si está causalmente determinado que así sea. El determinismo causal solo supone que E se realice causalmente, sin que ello implique que E es necesario, la lectura fatalista analizada previamente. </p>
+		</sec>
+		<sec>
+			<title>3. El experimento Libet: control y semicompatibilismo</title>
+			<p>Considerando la distinción fatalismo - determinismo, la diferencia central que permite sostener una postura compatibilista, es que S realiza A o B de modo libre, sin que ello exija descartar un determinismo causal en el inicio de sus decisiones. La tensión que parece observarse aquí no es nueva: Si S es libre, al parecer no está determinado ni es necesario A, ni B. Si S es libre, S tiene el control de decidir A o B (el criterio <italic>up-to-us</italic> explicitado en la cita de van Inwagen, sección 2). En la década de 1980, un experimento neurocientífico llevado a cabo por Benjamin Libet parecía mostrar que, <italic>strictu sensu</italic>, no hay una decisión de este tipo en la génesis de una acción: que en toda decisión que se entiende como libre hay un antecedente inconsciente que descarta el control del sujeto S enunciado anteriormente. En otras palabras, las acciones que realice un sujeto S se encuentran predeterminadas por distintos factores físicos. Esta tensión es observada por <xref ref-type="bibr" rid="B3">Dhar y Sinha al analizar la distinción determinismo global - indeterminismo local: “global determinism exists in the way an agent makes a choice on the basis of her intentional states, but local indeterminism processes govern what intentional states would be taken up by the agent to make that choice” (2015</xref>:12).</p>
+			<p>En este caso, la evidencia empírica conduciría a una postura ilusionista o eliminativista del libre albedrío, sin importar si S actúa de modo determinado o indeterminado. En efecto, la discusión compatibilismo - incompatibilismo no exige que las decisiones sean inconscientes: solo basta que S no tenga el control sobre ellas (y por lo tanto ser comprendidas como acciones potencialmente autómatas), sean acciones de carácter determinista o indeterminista en su origen. Esto coincide con lo afirmado por <xref ref-type="bibr" rid="B3">Dhar y Sinha: “Although the chain of sequence beginning from thought to choice and choice to action may be deterministically explicable, an agent, it is often claimed, enjoys an indeterministic voluntary control -a capacity to switch over to different intentional modes from an ongoing one” (2015</xref>:12). </p>
+			<p>Al respecto, recientemente Bonicalzi ha enfatizado que la hipótesis inicial de Libet se centra en el nexo entre el tiempo (<italic>timing</italic>) que transcurre entre la intención consciente de realizar una acción A, y los cambios que se detectan en el cerebro previos a que un sujeto S sea consciente de A, lo que sería evidencia de que las elecciones tienen un origen inconsciente. <xref ref-type="bibr" rid="B1">Bonicalzi afirma que estas elecciones permitirían sostener un automatismo que conduzca a una comprensión determinista de acciones originadas inconscientemente: “In the social-cognitive debate, automatism as absence of conscious deliberation at the level of mental and behavioural processes has been often paired to determinism” (2015</xref>:133). Este fenómeno, denominado <italic>readiness potential</italic> (potencial de preparación), es la principal razón por la que se relaciona el experimento Libet con la discusión respecto al libre albedrío. Contrario a las interpretaciones ulteriores, Libet no tuvo por objetivo descartar libre albedrío. En efecto, la libertad de veto consciente de una acción fue interpretada por él como evidencia a favor del libre albedrío. La libertad de veto es comprendida por algunos autores como aquello que distinguiría acciones voluntarias entre seres humanos y animales. Por ejemplo, respecto a una lectura kantiana de este tópico afirma Wilson: “The important part of his conception for the moral status of animals is his reliance on the notion of willing. While both animals and human beings have desires that can compel them to action, only human beings are capable of standing back from their desires and choosing which course of action to take” (Disponible en <ext-link ext-link-type="uri" xlink:href="http://www.iep.utm.edu/anim-eth/">http://www.iep.utm.edu/anim-eth/#SH1b</ext-link>).</p>
+			<p>En particular, afirma <xref ref-type="bibr" rid="B7">Libet: “Freely voluntary acts are preceded by a specific electrical change in the brain (the 'readiness potential', RP) that begins 550 ms before the act. Human subjects became aware of intention to act 350-400 ms after RP starts, but 200 ms. before the motor act. The volitional process is therefore initiated unconsciously. But the conscious function could still control the outcome; it can veto the act. <bold>Free will is therefore not excluded</bold>. These findings put constraints on views of how free will may operate; it would not initiate a voluntary act <bold>but it could control performance of the act</bold>. The findings also affect views of guilt and responsibility... Potentially available to the conscious function is the possibility of stopping or vetoing the final progress of the volitional process, so that no actual muscle action ensues. Conscious-will could thus affect the outcome of the volitional process even though the latter was initiated by unconscious cerebral processes. Conscious-will might block or veto the process, so that no act occurs” (1985</xref>:535).</p>
+			<p>La exigencia de que una acción predeterminada no pueda ser libre se observa también en el problema teológico entre los atributos divinos de omnipotencia y omnisciencia, y su nexo con la libertad humana. Por ejemplo, afirma <xref ref-type="bibr" rid="B10">Roskies: “God’s omnipotence means that he could control our actions if he so wished, but that human freedom is preserved because he refrains from controlling us. However, God’s omniscience presents a further problem for human freedom, for even if God does not control our actions, if he knows now how we will act before we act, then we are not free to do otherwise-foreknowledge seems to foreclose the possibility of freedom of the will, for our actions are predetermined” (2006</xref>:419). En este sentido, la distinción entre predeterminación y determinación coinciden en un punto central: el descarte de que S controle o decida A. El supuesto central en esta comprensión de qué quiere decir ser libre es que, aparentemente, las posibilidades alternativas (Alternate Possibilities) son una condición necesaria para que S decida y sea responsable de A o B. Esto conduce a ciertos autores a definir el libre albedrío a partir de la noción de control, entre ellos se observa lo explicitado por <xref ref-type="bibr" rid="B13">Vilhauer: “Free will is the kind of control over our actions necessary for moral responsability, and we must be morally responsable for our actions to deserve particular kinds of treatment base on them, such as praise, blame, reward, or punishment” (2012</xref>:1). Un aspecto relevante de este análisis es que el control de una acción no parece depender de una posibilidad alternativa. De este modo, considerando lo enunciado en A), B), C) y D), se puede sostener: </p>
+			<p>E) S podría realizar A con la condición de control enunciada, sin que ello exigiese que S tuviese una alternativa a A.</p>
+			<p>Esto permite distinguir conceptualmente entre el criterio de control (CC) y el criterio de una posibilidad alternativa (CPA), lo que permite entender en qué medida las respuestas al argumento consecuencial enunciado anteriormente permiten mantener una postura causal sin que ello exija sostener un control aetiológico de una acción. Lo anterior plantea dos cuestiones importantes: </p>
+			<p>Ei) Si el determinismo exige que S tenga una sola alternativa de acción A, o exige solo que S realice A con un antecedente causal definido.</p>
+			<p>Eii) Si el que S tenga control de una acción A exige que S tenga una posibilidad alternativa de acción B.</p>
+			<p>El nexo entre Ei) y Eii) permite sostener que:</p>
+			<p>F) Que S sea libre no depende de que tenga un control cabal de su acción (puede tener un origen inconsciente), ni tampoco exige que una acción A no esté causalmente determinada (pues el indetermismo vía libertarianismo enfrenta problemas similares en relación con si las acciones son un resultado estocástico probabilístico). </p>
+			<p>Del mismo modo, un sujeto S no requiere una posibilidad de acción B para justificar que A ha sido realizado de modo libre. Y, de este modo, se logra compatibilizar la noción de libertad y determinismo sin que ello exija descartar un origen inconsciente de acciones que, pese a ello, pueden ser objeto de evaluación moral. Lo anterior descartaría escepticismo. Según <xref ref-type="bibr" rid="B13">Vilhauer (2012</xref>), el descarte de escepticismo respecto al libre albedrío permite no solo fundamentar la responsabilidad moral de un sujeto S, sino también las razones básicas (<italic>basic moral reasons</italic>) que guían ese actuar. Esto tiene alcances en la comprensión del castigo retributivo (<italic>retributive punishment</italic>) y justicia distributiva (<italic>distributive justice</italic>), nociones que requieren en el ámbito práctico el descarte del escepticismo enunciado, pues un sujeto S debe ser responsable de sus acciones en orden a ser evaluado por las mismas. </p>
+			<p>Sobre este punto, Willmott (en su libro <italic>Biological Determinism, Free Will and Moral Responsibility</italic>) enfatiza la distinción <italic>mens rea</italic> - <italic>actus reus</italic>, refiriendo la primera noción a aquellos factores mentales que inciden en la definición de si cierta acción es punible o no. La segunda noción, por su parte, considera las evidencias del acto criminal en sí mismo. De este modo, las evaluaciones respecto al estado mental del sujeto S permiten establecer excepciones al castigo retributivo, entre ellas destacan demencia o locura (insanity), responsabilidad disminuida (<italic>diminished responsibility</italic>) y automatismo (<italic>automatism</italic>). Willmott destaca que estas excepciones están interrelacionadas, en tanto un caso de locura descarta responsabilidad, y lo mismo ocurre con el automatismo. <xref ref-type="bibr" rid="B13">Vilhauer intenta fundamentar una distinción práctica entre el escepticismo en relación con el libre albedrío, en contraste con dos tipos de escepticismo ampliamente discutidos, escepticismo inductivo y escepticismo respecto a las otras mentes: “Experts on other minds or induction skepticism have never ... seriously suggested that these kinds of skepticism are relevant to practical reasoning. If nobody is practically serious about these other forms, then shouldn’t we worry that people who are practically serious about free will skepticism are taking it too seriously?” (2012</xref>:2).</p>
+			<p>La cita no es meramente un cuestionamiento a la postura escéptica desde los alcances que tendría (o no) en el ámbito práctico. Si en el ámbito del razonamiento práctico (<italic>practical reasoning</italic>) no se admite una postura escéptica, ello sería una razón fuerte para descartar la validez práctica de tal postura escéptica. Al respecto, hay que observar que el supuesto a partir del que Vilhauer inicia este contraste es cuestionable, pues es discutible si el escepticismo respecto a la inducción o respecto a las otras mentes no tiene consecuencias en el ámbito práctico. Ello le exigiría a Vilhauer no solo enunciar lo que sugiere el sentido común, sino discutir en detalle la estrategia argumentativa utilizada, vía analogía. Del mismo modo, no es correcto que un escepticismo respecto al libre albedrío no tenga consecuencias en el ámbito práctico, pues derivaría en el descarte de responsabilidad moral. Una estrategia de solución, que descansa en el descarte del principio de posibilidades alternativas como criterio relevante de responsabilidad moral, es el denominado semicompatibilismo, que en palabras de <xref ref-type="bibr" rid="B5">Kearns consiste en: “believe that (the freedom relevant to) moral responsibility is compatible with determinism even if the freedom to do otherwise is not” (2013</xref>:1). Kearns defiende una postura agnóstica del libre albedrío, cuya principal diferencia con una postura escéptica es que en el agnosticismo discutido hay suspensión de juicio, mientras que el escepticismo niega la posibilidad de que haya libre albedrío. Lo interesante de una postura agnóstica es que acepta explícitamente las limitaciones epistémicas de un sujeto cognoscente S. De modo análogo a una discusión teísta en el contexto del mal como evidencia probable contra la existencia de Dios, realizar esta distinción es relevante pues conduce a admitir posibilidades metafísicas que epistémicamente son o imposibles o incognoscibles. Ahora bien, esto corresponde a lo que Kearns denomina agnosticismo débil respecto a libre albedrío (<italic>Weak Free Will Agnosticism</italic>):</p>
+			<p>Weak FWA: No one knows whether or not normally functioning adult humans have free will (<xref ref-type="bibr" rid="B3">Dhar y Sinha 2015</xref>:12).</p>
+			<p>Al menos dos interpretaciones de esta descripción podrían cuestionar la validez de la misma, o la relevancia. La validez podría ser cuestionada al suponer que el verbo “conocer” (<italic>know</italic>) no es contextualmente dependiente, lo que implicaría que dicha afirmación podría ser ya verdadera, ya falsa, dependiendo del contexto. Esa relativización al contexto no favorece la tesis inicial, que apunta precisamente a un acceso epistémico externalista objetivo, en el cual el contexto cumple el rol de condiciones de inicio. No se trata de que el contexto no sea relevante, sino de que no condiciona el valor de verdad de la tesis, aun cuando sí podría condicionar el acceso epistémico a la misma. Por otra parte, ciertas posturas anti racionalistas podrían restar relevancia a que un sujeto S conozca si actúa libremente o no vía a priori o por otras vías, como v.gr. sentir, desear, creer, etc. Al respecto, precisar que en un sentido laxo (que es precisamente el que enfatiza Kearns) todas estas vías permiten conocer si S es libre, por lo que el cuestionamiento a la relevancia asume que estos accesos alternativos no son <italic>strictu sensu</italic> epistémicos, lo que parece implausible. </p>
+		</sec>
+		<sec>
+			<title>4. Una solución modal: el descarte del imposibilismo</title>
+			<p>Considerando lo anteriormente discutido, una alternativa que permitiría solucionar vía razonamiento a priori la problemática escéptica, es la planteada por Vihvelin. Debido a que la postura escéptica restringe modalmente la composibilidad del determinismo y el libre albedrío, ello quiere decir que se afirma son necesariamente incomposibles, que en todo mundo posible M el determinismo excluye el libre albedrío, y viceversa. Siguiendo a <xref ref-type="bibr" rid="B12">Vihvelin, esto es consecuencia de una lectura imposibilista: “The impossibilist is someone who thinks that it is metaphysically impossible for us to have free will, either because she thinks that our concept of free will is incoherent or because she thinks that free will is incompatible with some necessary true propositions” (2008</xref>:303).</p>
+			<p>Es relevante destacar que este análisis no es ni compatibilista ni incompatibilista, lo que se evidencia en las alternativas a partir de las que se afirmaría imposibilismo: i) incoherencia o ii) incompatibilidad con verdades necesarias. Precisamente esta segunda alternativa pudiese mover a pensar que es, en última instancia, un tipo de incompatibilismo. Aun si ese fuese el caso, no es un incompatibilismo en relación con algún tipo de determinismo. No lo sería, pues una tesis implícita de una defensa del determinismo (causal, biológico, etc.) es que tales determinismos son contingentes y empíricos. No se trata solo de que se plantee la posibilidad metafísica de que las leyes naturales no sean necesariamente verdaderas, aunque para efectos de comprender en qué sentido ii) no corresponde al tipo de incompatibilismo discutido previamente, basta lo anterior: descartar verdades necesarias en el determinismo. <xref ref-type="bibr" rid="B12">Vivhelin comprende el determinismo del siguiente modo: “Determinism is a contingent and empirical claim: that the total state of the world at any time, together with all the laws, entails a unique future” (2008</xref>:304). </p>
+			<p>Cabe notar el nexo determinismo - fatalismo analizado en la sección 2, con el alcance de que la postura fatalista no considera los nexos causales como condición necesaria (el futuro sería único independiente de las causas previas). Al plantear imposibilidad metafísica, lo que sostiene el imposibilismo es la falsedad necesaria de la tesis a favor del libre albedrío, restringido a seres no divinos (<italic>non-godlike creatures</italic>), y ello independiente de si la tesis determinista es verdadera o falsa, contingente o necesaria. El imposibilismo tiene por tanto la consecuencia modal de separar ambas discusiones, afirmando falsedad necesaria <italic>simpliciter</italic>, y evitando la falacia fatalista analizada previamente. El imposibilismo exige especificar qué es el libre albedrío, en orden a no solo defender su posible existencia en algún mundo posible (como afirmaría el incompatibilismo determinista duro) sino en el mundo actual (compatibilismo). Dado que si es actual, si el libre albedrío es posible, la carga de la prueba para el defensor del libre albedrío es evidenciar su actualidad, su realidad en el mundo actual. El imposibilismo, al afirmar falsedad necesaria, descarta esta posibilidad. El centrar la discusión en el principio de posibilidades alternativas como una vía indeterminista, es lo que ha permitido observar en este escrito el <italic>non sequitur</italic> implícito del rechazo a un compatibilismo que no exija dicho principio de posibilidades alternativas. Ello se ha presentado a la luz de distinciones conceptuales que muestran la viabilidad de que dicho principio no sea al menos una condición necesaria para atribuir libertad a ciertas acciones (suponiendo control causal agente) o una condición suficiente (condicionando el libre albedrío a situaciones contrafácticas posibles). Por supuesto, entendiendo que las posibilidades en discusión no son meramente concebibles, posibilidades epistémicas, no posibilidades metafísicas <italic>strictu sensu</italic>. </p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>5. Conclusión</title>
+			<p>En este escrito se han analizado las consecuencias del descarte de un determinismo fatalista, basado en un cuestionamiento del principio de posibilidades alternativas como <italic>conditio sine que non</italic> del libre albedrío. Lo anterior no deriva en una lectura necesitarista de un evento E, principalmente porque la denominada falacia fatalista no se observa en un determinismo causal. Esta distinción conceptual permite analizar el argumento consecuencial y su nexo con el principio de posibilidades alternativas. Un sujeto S puede actuar con un antecedente causal específico, sin que ello exija un compromiso epistémico y ontológico con el principio anteriormente enunciado. Más importante, sin que ello descarte libre albedrío ni responsabilidad moral. </p>
+			<p>Del mismo modo, a partir del experimento Libet se han discutido los alcances del criterio de control en las acciones humanas que se comprenden como libres, y en qué sentido la libertad de veto adquiere relevancia en la interpretación de dicho experimento, teniendo en vistas la tensión entre el denominado determinismo global y el indeterminismo local. Considerando el cuestionamiento del principio de posibilidades alternativas, la ausencia de control en el inicio de una acción no deriva en un escepticismo respecto al libre albedrío. La noción de potencial de preparación (readiness potential) permitió analizar el rol que cumple la noción de control en la comprensión de acciones evaluables moral y legalmente. A su vez, se ha mostrado cómo el criterio de control (CC) no requiere un compromiso con el criterio de posibilidad alternativa (CPA) (enunciado E, sección 3). El análisis propuesto en los enunciados A), B), C), D), E), Ei) y Eii) conduce a lo enunciado en F) respecto a las nociones de control y antecedente causal de una acción.</p>
+			<p>El denominado agnosticismo respecto al libre albedrío permitió observar cómo los accesos epistémicos de un sujeto S no debiesen ser comprendidos restrictivamente, considerando el contexto. El análisis de la postura semicompatibilista y el denominado agnosticismo débil respecto al libre albedrío (<italic>Weak Free Will Agnosticism</italic>) permitieron observar que una lectura epistémica restrictiva de cómo un sujeto S conoce que es libre es implausible, pues descarta accesos epistémicos válidos en un contexto C. Finalmente, el análisis modal del imposibilismo explicita las consecuencias contraintuitivas de afirmar falsedad necesaria contra una postura pro libre albedrío. Del mismo modo, evidencia en qué sentido la discusión del libre albedrío podría comprenderse como conceptualmente independiente de una posición determinista, indeterminista, o determinista fatalista.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>Este trabajo incorpora resultados del proyecto de investigación interdisciplinar<italic>Singularidad. Convergencia de filosofía, teología y ciencia</italic>de la Universidad Católica del Maule, el cual es parte del Proyecto “Science, Philosophy and Theology: Capability Building in Latin America” financiado por Templeton Fundation<italic>,</italic>bajo un subsidio de investigación otorgado por la Universidad de Oxford. Una versión del mismo fue presentada en el marco del III Workshop Singularidad y Libertad (12 de enero del 2017, Talca, Chile).</p>
+			<p>Agradezco el diálogo fructífero desarrollado con Edgardo Gutiérrez, Marisel Márquez y Alex Muñoz, en el contexto del Seminario Optativo de Filosofía <italic>Free Will Skepticism</italic> del Magíster en Ciencias Religiosas y Filosóficas (Primer Semestre 2017, Universidad Católica del Maule).</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Bonicalzi, S. 2015. Libet-like experiments and the efficacy of the will. <italic>Rivista Internazionale di Filosofia e Psicologia</italic> 6(1): 130-144. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4453/rifp.2015.0010">https://doi.org/10.4453/rifp.2015.0010</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bonicalzi</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Libet-like experiments and the efficacy of the will</article-title>
+					<source>Rivista Internazionale di Filosofia e Psicologia</source>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>130</fpage>
+					<lpage>144</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4453/rifp.2015.0010">https://doi.org/10.4453/rifp.2015.0010</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Cova, F. y Naar, H. 2016. Do intuitions about Frankfurt-style cases rest on an internalist prejudice? <italic>Philosophical Explorations</italic> 19(3): 290-305. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/13869795.2016.1173223">https://doi.org/10.1080/13869795.2016.1173223</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cova</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Naar</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Do intuitions about Frankfurt-style cases rest on an internalist prejudice?</article-title>
+					<source>Philosophical Explorations</source>
+					<volume>19</volume>
+					<issue>3</issue>
+					<fpage>290</fpage>
+					<lpage>305</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/13869795.2016.1173223">https://doi.org/10.1080/13869795.2016.1173223</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Dhar, S. y Sinha, A. 2015. Can determinism give a causal explanation of intentional behaviour? Revisiting the concepts of determinism, fatalism and rational agency. <italic>Journal of Indian Council of Philosophical Research</italic> 32(1): 79-91. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s40961-015-0006-x">https://doi.org/10.1007/s40961-015-0006-x</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dhar</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sinha</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Can determinism give a causal explanation of intentional behaviour? Revisiting the concepts of determinism, fatalism and rational agency</article-title>
+					<source>Journal of Indian Council of Philosophical Research</source>
+					<volume>32</volume>
+					<issue>1</issue>
+					<fpage>79</fpage>
+					<lpage>91</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s40961-015-0006-x">https://doi.org/10.1007/s40961-015-0006-x</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Gulliver, J. 1894. The ethical implications of determinism. <italic>The Philosophical Review</italic> 3(1): 62-67. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2175455">https://doi.org/10.2307/2175455</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gulliver</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1894</year>
+					<article-title>The ethical implications of determinism</article-title>
+					<source>The Philosophical Review</source>
+					<volume>3</volume>
+					<issue>1</issue>
+					<fpage>62</fpage>
+					<lpage>67</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2175455">https://doi.org/10.2307/2175455</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Kearns, S. 2013. Free will agnosticism. Noûs 49(2): 235-252. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/nous.12032">https://doi.org/10.1111/nous.12032</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kearns</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Free will agnosticism</article-title>
+					<source>Noûs</source>
+					<volume>49</volume>
+					<issue>2</issue>
+					<fpage>235</fpage>
+					<lpage>252</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/nous.12032">https://doi.org/10.1111/nous.12032</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Kenny, A. 1975. <italic>Will, freedom and power</italic>. Durham: Duke University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kenny</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>1975</year>
+					<source>Will, freedom and power</source>
+					<publisher-loc>Durham</publisher-loc>
+					<publisher-name>Duke University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Libet, B. 1985. Unconscious cerebral initiative and the role of conscious will in the voluntary action. <italic>The Behavioral and Brain Sciences</italic> 8: 529-566.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Libet</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>1985</year>
+					<article-title>Unconscious cerebral initiative and the role of conscious will in the voluntary action</article-title>
+					<source>The Behavioral and Brain Sciences</source>
+					<volume>8</volume>
+					<fpage>529</fpage>
+					<lpage>566</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Nahmias, E. 2006. Folk fears about freedom and responsibility: determinism vs. reductionism. <italic>Journal of Cognition and Culture</italic> 6(1): 215-237. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1163/156853706776931295">https://doi.org/10.1163/156853706776931295</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nahmias</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Folk fears about freedom and responsibility: determinism vs. reductionism</article-title>
+					<source>Journal of Cognition and Culture</source>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>215</fpage>
+					<lpage>237</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1163/156853706776931295">https://doi.org/10.1163/156853706776931295</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Ravven, H. 2014. Free will skepticism: current arguments and future directions. <italic>Neuroethics</italic> 7(3): 383-386. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12152-014-9214-3">https://doi.org/10.1007/s12152-014-9214-3</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ravven</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Free will skepticism: current arguments and future directions</article-title>
+					<source>Neuroethics</source>
+					<volume>7</volume>
+					<issue>3</issue>
+					<fpage>383</fpage>
+					<lpage>386</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12152-014-9214-3">https://doi.org/10.1007/s12152-014-9214-3</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Roskies, A. 2006. Neuroscientific challenges to free will and responsibility. <italic>Trends in Cognitive Sciences</italic> 10(9): 419-423. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.tics.2006.07.011">https://doi.org/10.1016/j.tics.2006.07.011</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Roskies</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Neuroscientific challenges to free will and responsibility</article-title>
+					<source>Trends in Cognitive Sciences</source>
+					<volume>10</volume>
+					<issue>9</issue>
+					<fpage>419</fpage>
+					<lpage>423</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.tics.2006.07.011">https://doi.org/10.1016/j.tics.2006.07.011</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>van Inwagen, P. 1983. An essay on free will. Oxford: Clarendon Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>van Inwagen</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1983</year>
+					<source>An essay on free will</source>
+					<publisher-loc>Oxford</publisher-loc>
+					<publisher-name>Clarendon Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Vihvelin, K. 2008. Compatibilism, incompatibilism, and impossibilism, pp. 303-318. En: T. Sider, J. Hawthorne y D. Zimmerman. Contemporary debates in metaphysics. London: Blackwell.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vihvelin</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<chapter-title>Compatibilism, incompatibilism, and impossibilism</chapter-title>
+					<fpage>303</fpage>
+					<lpage>318</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sider</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hawthorne</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zimmerman</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<source>Contemporary debates in metaphysics</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Blackwell</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Vilhauer, B. 2012. Taking free will skepticism seriously. <italic>Philosophical Quarterly</italic>62(249): 833-852. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-9213.2012.00077.x">https://doi.org/10.1111/j.1467-9213.2012.00077.x</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vilhauer</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Taking free will skepticism seriously</article-title>
+					<source>Philosophical Quarterly</source>
+					<volume>62</volume>
+					<issue>249</issue>
+					<fpage>833</fpage>
+					<lpage>852</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-9213.2012.00077.x">https://doi.org/10.1111/j.1467-9213.2012.00077.x</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Walter, S. 2014. Willusionism, epiphenomenalism, and the feeling of conscious will. <italic>Synthese</italic> 191(10): 2215-2238. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11229-013-0393-y">https://doi.org/10.1007/s11229-013-0393-y</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Walter</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Willusionism, epiphenomenalism, and the feeling of conscious will</article-title>
+					<source>Synthese</source>
+					<volume>191</volume>
+					<issue>10</issue>
+					<fpage>2215</fpage>
+					<lpage>2238</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11229-013-0393-y">https://doi.org/10.1007/s11229-013-0393-y</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Willmott, C. 2016. <italic>Biological determinism, free will and moral responsibility: insights from genetics and neuroscience</italic>. Berlin: Springer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Willmott</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Biological determinism, free will and moral responsibility: insights from genetics and neuroscience</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

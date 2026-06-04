@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000200209</article-id>
+         <article-id pub-id-type="publisher-id">00006</article-id>          
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Coordinación sistémica en la esfera pública: observando la conversión de la experticia científica en confianza desde el modelo sistémico funcional y el modelo pragmático formal</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Systemic coordination in the public sphere: observing the conversion of scientific expertise into trust from the functional systemic model and the formal pragmatic model</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4361-657X</contrib-id>
+               <name>
+                  <surname>Mariñez-Sánchez</surname>
+                  <given-names>César</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2441-8260</contrib-id>
+               <name>
+                  <surname>Labraña-Vargas</surname>
+                  <given-names>Julio</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2974-9678</contrib-id>
+               <name>
+                  <surname>Matus-Sepúlveda</surname>
+                  <given-names>Teresa</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Departamento de Trabajo Social, Universidad de Chile</institution>
+            <institution content-type="normalized">Universidad de Chile</institution>
+            <institution content-type="orgname">Universidad de Chile</institution>
+             <addr-line>
+               <named-content content-type="state">Santiago</named-content>
+            </addr-line>
+            <country country="CL">Chile</country>
+            <email>cdmarinez@uchile.cl</email>
+         </aff>
+         <aff id="aff2">
+            <label>2</label>
+            <institution content-type="original">Universidad Diego Portales.  Chile</institution>
+            <institution content-type="normalized">Universidad Diego Portales</institution>
+            <institution content-type="orgname">Universidad Diego Portales</institution>
+             <addr-line>
+               <named-content content-type="state">Santiago</named-content>
+            </addr-line>            
+            <country country="CL">Chile</country>
+            <email>jlabrana@ug.uchile.cl</email>
+         </aff>
+         <aff id="aff3">
+            <label>1</label>
+            <institution content-type="original">Departamento de Trabajo Social, Universidad de Chile</institution>
+            <institution content-type="normalized">Universidad de Chile</institution>
+            <institution content-type="orgname">Universidad de Chile</institution>
+             <addr-line>
+               <named-content content-type="state">Santiago</named-content>
+            </addr-line>
+            <country country="CL">Chile</country>
+            <email>teresamatus@uchile.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2019</year>
+         </pub-date>
+         <!--volume>0</volume-->
+         <issue>65</issue>
+         <fpage>209</fpage>
+         <lpage>226</lpage>
+         <history>
+            <date date-type="received">
+               <day>05</day>
+               <month>01</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>14</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Este artículo busca observar las diferencias entre el modelo sistémico funcional y el modelo pragmático-formal en su comprensión de la experticia científica y su rol en las sociedades modernas. Se elaborará un breve diagnóstico acerca de la importancia de la confianza en experticia científica en la sociedad contemporánea y cómo este proceso ha sido analizado. Luego, se analizará la descripción del conocimiento científico en la sociedad contemporánea desde el modelo sistémico funcional. Utilizando los conceptos de diferenciación funcional y acoplamiento estructural, se sugerirá que, desde este modelo, el conocimiento científico es una forma de comunicación especializada propia de un sistema funcional de la sociedad. A continuación, se describirá la aproximación del modelo pragmático formal. Especial importancia tienen aquí las ideas de mundo de la vida y esfera pública. Sobre la base de estas caracterizaciones, se comparan las visiones de estos autores y se analizan las diferencias en su conceptualización de la experticia. Se argumenta que las diferencias de estos dos modelos en relación con el estatus ontológico del mundo de la vida marcan sus visiones de la experticia y los debates actuales acerca de sus posibilidades de convertibilidad en la literatura especializada. El artículo finaliza con un resumen y posibles líneas futuras de investigación.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This article seeks to observe the differences between the functional-systemic model and the pragmatic-formal model in their understanding of scientific expertise and its role in modern societies. First, a brief diagnosis about the importance of trust in scientific expertise in contemporary society and how this process has been analyzed in the specialized literature will be made. Then, the description of scientific knowledge will be analyzed from the point of view of the functional systemic model. Using the concepts of functional differentiation and structural coupling, it will be argued that scientific knowledge is here considered a specialized form of communication characteristic of a functional system. Next, the approximation of the formal-pragmatic model is described. Of special importance here are the ideas of lifeworld and public sphere. On the basis of these characterizations, the visions of these authors are compared and the differences are analyzed in relation to their conceptualization of expertise. It is then suggested that the differences between these two models in relation to the ontological status of the lifeworld shape their views of scientific expertise as well as current debates on this topic. The article ends with a summary and possible future line of research.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>conocimiento científico</kwd>
+            <kwd>experto</kwd>
+            <kwd>confianza</kwd>
+            <kwd>teoría de sistemas</kwd>
+            <kwd>pragmatismo formal</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>expert scientific knowledge</kwd>
+            <kwd>trust</kwd>
+            <kwd>social systems theory</kwd>
+            <kwd>formal pragmatism</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="1" />
+            <equation-count count="0" />
+            <ref-count count="7" />
+            <page-count count="18" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>
+            Aristóteles en su Metafísica hacía una clara separación entre ciencia teorética y ciencia práctica, sosteniendo que la primera se refería al estudio de cosas que no podían ser de otra manera, mientras que la segunda abordaba situaciones relativas, cambiantes e inciertas en lo temporal como su objeto de reflexión. Siguiendo esta distinción, la praxis se asoció conceptualmente en el pensamiento occidental al obrar o a las cosas practicables o, en otros términos, a las cosas concretas para el ser humano, mientras que el saber teorético se vinculó en cambio al estudio de realidades inmutables, abstractas y trascendentes (P. Aubenque
+            <ext-link ext-link-type="uri" xlink:href="https://www.marcialpons.es/libros/la-prudencia-en-aristoteles/9789871501212/">La prudencia en Aristóteles</ext-link>
+            ).
+         </p>
+         <p>
+            En base a esta distinción, la ciencia teorética se concibió como una ciencia de carácter divino, pues su conocimiento estaba inherentemente relacionado con la búsqueda de principios y causas de todas las cosas (Aristóteles
+            <ext-link ext-link-type="uri" xlink:href="https://www.amazon.com.mx/Metafisica-portada-puede-variar-Aristoteles/dp/9700752313">Metafísica</ext-link>
+            ). Ella era la ciencia del ser: la búsqueda del motor inmóvil, el origen de todo lo que es eterno, verdadero y bello. De este modo, la razón y la sabiduría asegurada por esta ciencia teorética conducirían a un estado de continuo progreso precisamente gracias a la expansión del conocimiento disponible y, particularmente mediante la aplicación de la ética, al perfeccionamiento de la humanidad como un todo (R. Nisbet
+            <ext-link ext-link-type="uri" xlink:href="http://www.eseade.edu.ar/files/Libertas/45_2_Nisbet.pdf">La idea de progreso</ext-link>
+            ).
+         </p>
+         <p>
+            Si bien esta separación entre teoría y praxis marcó la reflexión filosófica acerca del conocimiento durante gran parte de la modernidad (J.F. Lyotard
+            <ext-link ext-link-type="uri" xlink:href="https://www.upress.umn.edu/book-division/books/the-postmodern-condition">The postmodern condition</ext-link>
+            ), hoy es difícil identificar a la ciencia con propósitos de naturaleza solo teorética. Preocupaciones sobre la vida cotidiana, la importancia de la acción y su relación con la experiencia adquieren cada vez mayor relevancia en lo que respecta a la creación de conocimiento (R. Bernstein
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/40970721">The resurgence of pragmatism</ext-link>
+            ). Ello ha conducido a que la descripción de la función social de la ciencia no se vincule de forma evidente con la representación de las esencias, pues en la actualidad se espera que la ciencia pueda formular enunciados que se conviertan en relevantes en la praxis, atendiendo a los problemas de la sociedad en lugar de limitarse a su análisis teórica. En este artículo, conversión se entiende como el proceso que permite que el conocimiento científico pueda hacerse útil en ámbitos no científicos (M. Bunz
+            <ext-link ext-link-type="uri" xlink:href="https://www.palgrave.com/de/book/9781137373496">The silent revolution</ext-link>
+            ).
+         </p>
+         <p>
+            Una de las áreas en que esta transformación en el estatus del conocimiento científico se ha expresado de manera especialmente marcada es en la discusión sobre el rol del conocimiento científico experto. Desde un enfoque procedimental como el de Regulatory Science, el objetivo central del conocimiento científico experto es aportar soluciones relevantes en ámbitos no académicos, en particular al mundo de la política y al de las políticas públicas. De acuerdo con este modelo, el propósito de la ciencia no es solo producir nuevos descubrimientos, sino generar arreglos procedimentales, regulados por un marco normativo legal, que puedan sustentar soluciones efectivas para temas de interés público, principalmente en las áreas de la salud, nutrición y el medio ambiente (A. Moghissi et al.
+            <ext-link ext-link-type="uri" xlink:href="https://www.ingentaconnect.com/content/cog/ti/2014/00000016/00000002/art00008">Innovation in regulatory science</ext-link>
+            ). En otras palabras, bajo este crecientemente dominante paradigma de la experticia, el conocimiento teórico es un insumo central para la toma de decisiones en las industrias y los gobiernos (A. Irwin et al.
+            <ext-link ext-link-type="uri" xlink:href="https://www.sciencedirect.com/science/article/pii/S0016328796000638">Regulatory science</ext-link>
+            ). Esta nueva expectativa enfatiza la necesidad de avanzar hacia un modelo deliberativo de la experticia en donde la ciencia se atenga a normas de transparencia para, de esta manera, poder cooperar efectivamente con los procesos iniciados por otros actores en áreas legales y administrativas (S. Jasanoff
+            <ext-link ext-link-type="uri" xlink:href="http://admin.cambridge.org/academic/subjects/politics-international-relations/comparative-politics/politics-scientific-advice-institutional-design-quality-assurance">Quality control and peer review in advisory science</ext-link>
+            ). Esta aproximación pragmática al conocimiento científico se puede observar también en el debate actual sobre cómo adecuar los métodos de realización de la investigación científica a las necesidades de las políticas públicas. En esta discusión se argumenta que el éxito de las políticas públicas no solo depende de la calidad de sus inputs -por ejemplo, quién hace el análisis, qué tan buenos son los datos con los que se trabaja, la madurez de las disciplinas involucradas, etc.- sino también que los procesos de difusión de información permitan evaluar críticamente los hallazgos, decisiones y acciones (W. Clark; G. Majone
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/016224398501000302?journalCode=sthd">The critical appraisal of scientific inquiries with policy implications</ext-link>
+            ).
+         </p>
+         <p>
+            Esta “democratización de la experticia” (S. Maasen; P. Weingart
+            <ext-link ext-link-type="uri" xlink:href="https://www.springer.com/la/book/9781402037535">Democratization of expertise?</ext-link>
+            ) resulta en que la legitimación de la ciencia no se reduzca hoy a la mera comprensión o diseminación de sus hallazgos, descubrimientos, evidencias o procedimientos, ni mucho menos a la presentación de ideas abstractas independientes de los contextos e intereses de los seres humanos. Por el contrario, actualmente se espera que el saber científico no solo provea certezas teóricas, sino también competencias procedimentales para la toma de decisiones (O. Renn
+            <ext-link ext-link-type="uri" xlink:href="https://academic.oup.com/spp/article-abstract/22/3/147/1720558?redirectedFrom=fulltext">Style of using scientific expertise</ext-link>
+            ).
+         </p>
+         <p>Considerado lo anterior, interesa poder observar esta conversión en el marco de una teoría de la sociedad contemporánea que ofrezca una visión integrada sobre este fenómeno. En particular, este proceso se analizará desde el modelo sistémico-funcional de Luhmann y el modelo pragmático formal de Habermas para comprender bajo qué condiciones es posible confiar (o no) en la relevancia social de los saberes científicos.</p>
+         <p>
+            Como se sabe, la obra de Luhmann y Habermas es extremadamente prolífica y experimentó cambios importantes en su evolución. La comparación entre las teorías de Habermas y Luhmann tiene una larga tradición, remontándose al debate original entre ambos autores sobre el estatus de la investigación sistémica en la reflexión sociológica en la década de los setenta (J. Habermas; N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.amazon.de/Theorie-Gesellschaft-Sozialtechnologie-J%C3%BCrgen-Habermas/dp/3518063588">Theorie der Gesellschaft oder Sozialtechnologie</ext-link>
+            ). Este debate continuaría desarrollándose mediante recurrentes menciones recíprocas en los textos de estos autores durante las décadas de los ochenta y de los noventa (P. Kjaer
+            <ext-link ext-link-type="uri" xlink:href="https://www.anci.ch/articles/ancilla2006_66_kjaer.pdf">Systems in context</ext-link>
+            ). Durante las últimas décadas esta discusión ha recibido atención en las ciencias sociales, contrastándose sus conceptualizaciones sobre epistemología (E. Knodt
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/pdf/488622.pdf?seq=1#page_scan_tab_contents">Toward a non-foundationalist epistemology</ext-link>
+            ), comunicación (L. Leydesdorff.
+            <ext-link ext-link-type="uri" xlink:href="https://www.leydesdorff.net/montreal.htm">Luhmann, Habermas and the theory of communication</ext-link>
+            ), la vida cotidiana (A. Bialakowsky
+            <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1405-14352018000200125">Vida cotidiana y reclasificaciones sociológicas en las perspectivas de Giddens, Bourdieu, Habermas y Luhmann</ext-link>
+            ), las normas judiciales (M. Deflem
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/3005694">The boundaries of abortion law</ext-link>
+            ), entre muchos otros (J. López de Lizaga
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/ebook-lenguaje-y-sistemas-sociales-la-teoria-sociol0gica-de-jurgen-habermas-y-niklas-luhmann-ebook/9788415538455/2232002">Lenguaje y sistemas sociales</ext-link>
+            ). La presente investigación sobre la comprensión de la experticia científica en el modelo sistémico funcional y el modelo pragmático formal se enmarca, por tanto, dentro de estos esfuerzos de comparación, enfocándose en un tema que todavía no ha sido analizado en detalle en la literatura.
+         </p>
+         <p>
+            Para desarrollar este análisis, se consideraron principalmente textos de la fase madura de ambos autores, elaborados desde mediados de los ochenta en adelante. Para Luhmann, este periodo puede ser caracterizado por su foco en los conceptos de observación y distinción (C. Borch
+            <ext-link ext-link-type="uri" xlink:href="https://www.amazon.es/Niklas-Luhmann-Sociologists-Christian-Borch/dp/0415490944">Niklas Luhmann</ext-link>
+            ). Por su parte, para Habermas, esta etapa puede ser descrita por una conceptualización de la verdad ya no desde una perspectiva epistémica, abandonando por tanto la idea de su validación bajo condiciones discursivas ideales y reemplazando esto por una reflexión sobre el rol central del lenguaje al respecto (C. Lafont
+            <ext-link ext-link-type="uri" xlink:href="http://isegoria.revistas.csic.es/index.php/isegoria/article/view/197">Universalismo y pluralismo en la ética del discurso</ext-link>
+            ).
+         </p>
+         <p>Para desarrollar este análisis, el artículo se estructura en las siguientes secciones. En primer lugar, se formula un breve diagnóstico acerca de la importancia de la experticia científica para la construcción de confianza pública en la sociedad contemporánea y cómo este proceso ha sido analizado en las ciencias sociales (1). Luego, se analizará la descripción del conocimiento científico en la sociedad contemporánea desde la teoría de sistemas sociales de Niklas Luhmann. En este apartado se presentan los conceptos de diferenciación funcional y acoplamiento estructural para sostener que, desde esta perspectiva, el conocimiento científico es una comunicación especializada cuyo valor social es determinado en la observación de otros sistemas. Siguiendo estas ideas, se plantea una definición de experticia desde el modelo sistémico funcional (2). A continuación, describimos la aproximación del modelo pragmático formal respecto al conocimiento científico experto. A nuestro juicio, las ideas de verdad intersubjetiva y esfera pública, entendida como estructura de intermediación necesaria para la construcción de confianza pública en los saberes científicos, son aquí especialmente relevantes. Al igual que en el apartado anterior, esta sección finaliza con una definición de experticia, esta vez desde el modelo pragmático formal (3). En cuarto lugar, sobre la base de estas caracterizaciones, se comparan sus aproximaciones sobre el fenómeno de la experticia en la sociedad moderna (4). El artículo finaliza con un resumen y líneas futuras de investigación (5).</p>
+      </sec>
+      <sec>
+         <title>Conocimiento científico experto y el problema de la confianza</title>
+         <p>
+            La sociedad contemporánea asigna cada vez mayor importancia a la capacidad del conocimiento científico de convertirse en relevante para la toma de decisiones racionales al momento de evaluar su grado de validez (S. Jasanoff
+            <ext-link ext-link-type="uri" xlink:href="https://www.routledge.com/Science-and-Public-Reason/Jasanoff/p/book/9780415524865">Science and public reason</ext-link>
+            ). Como se ha visto, el conocimiento debe contribuir a la solución de problemas, siendo central en la evaluación de su eficacia la confianza que sus destinatarios tienen en su relevancia para interpretar situaciones de modo correcta y definir prioridades para la acción efectiva (R. Grundmann
+            <ext-link ext-link-type="uri" xlink:href="https://link.springer.com/article/10.1007/s11024-016-9308-7">The problem of expertise in knowledge societies</ext-link>
+            ).
+         </p>
+         <p>
+            Esta visión plantea que la legitimidad social del conocimiento científico depende de la existencia de una referencia dual en sus arreglos institucionales: por una parte, se requiere de una robustez epistémica en el sentido de ser coherentes con sus enfoques y sus resultados con los avances de las disciplinas científicas y, por otra parte, debe ser también consistente políticamente, en el sentido de que las decisiones formuladas sobre su base deben ser capaces de tener incidencia pública (J. Lentsch; P. Weingart
+            <ext-link ext-link-type="uri" xlink:href="http://admin.cambridge.org/academic/subjects/politics-international-relations/comparative-politics/politics-scientific-advice-institutional-design-quality-assurance">The politics of scientific advice</ext-link>
+            ). Siguiendo estos atributos que, por lo demás, forman parte de las premisas de la mayor parte de los estudios en el área, en esta investigación se denominará ‘conocimiento científico experto’ al conocimiento que, por estar fundado en los desarrollos recientes de la investigación científica, puede ser utilizado con éxito para cumplir objetivos en espacios prácticos distintos de las disciplinas. En base a esta caracterización, el gran problema de la experticia en la sociedad actual es cómo ella puede simultáneamente producir un conocimiento riguroso de acuerdo con los estándares de las comunidades académicas que, no obstante, sea influyente en la praxis (P. Weingart
+            <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1084252/">The moment of truth for science</ext-link>
+            ).
+         </p>
+         <p>
+            La investigación sobre la experticia se ha enfocado principalmente en cómo hacer posible que sus destinatarios confíen en su capacidad de convertirse en relevante en la práctica. En esta dirección, se plantea que uno los elementos claves para asegurar la confianza en el saber especializado es que en su proceso de formulación puedan integrarse los diferentes puntos de vista de representantes de la sociedad civil (B. Wynne
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/016224399101600108?journalCode=sthd">Knowledges in context</ext-link>
+            ). En la misma dirección se señala también que la confianza en la experticia científica depende de que los arreglos colaborativos entre organizaciones académicas y no académicas se ajusten a las problemáticas sociales y permitan buscar soluciones efectivas mediante un diálogo reflexivo y colaborativo (A. Urquiza et al.
+            <ext-link ext-link-type="uri" xlink:href="https://cintademoebio.uchile.cl/index.php/CDM/article/view/49461/51936">Metálogo como herramienta de colaboración transdisciplinaria</ext-link>
+            ).
+         </p>
+         <p>
+            A pesar de su importancia, este cambio en el estatus del conocimiento científico para proyectar confianza pública no ha sido interpretado en profundidad en la teoría sociológica contemporánea. Excepciones a este respecto son Anthony Giddens y Zygmunt Bauman. De acuerdo con Giddens, los compromisos sociales han evolucionado en la sociedad moderna en el sentido de un desacoplamiento de la interacción cara a cara, lo que ha resultado en un predominio del anonimato en las relaciones entre seres humanos. Consecuencia de lo anterior, las relaciones de fiabilidad serían predominantemente impersonales en la medida en que se necesitan a agentes presencialmente desconocidos para validar los conocimientos. En este contexto, los sistemas abstractos y especialmente los sistemas expertos serían los encargados de mantener la confianza en el manejo de un conocimiento del que una persona en su cotidianeidad no sabe ni puede saber (A. Giddens
+            <ext-link ext-link-type="uri" xlink:href="https://www.alianzaeditorial.es/libro.php?id=80676&amp;id_col=100508&amp;id_subcol=100520">Consecuencias de la modernidad</ext-link>
+            ).
+         </p>
+         <p>
+            En un sentido similar, Bauman sugiere que el aumento de los niveles de individualización que resultan de la emergencia de la “modernidad líquida” y el auge de las nuevas tecnologías de la información y la comunicación provoca que los sujetos requieran confiar en los conocimientos de los expertos para solucionar sus problemas particulares. En esta dirección, de acuerdo con este autor, el experto no solo tiene por función buscar la verdad científica, sino debe también ser el mediador e intérprete de distintos saberes en la sociedad. Así, el experto tiene que poseer las competencias necesarias para entrar en el mundo de la vida del individuo y hacerle ver que los problemas que él o ella enfrentan en su cotidianeidad pueden ser presentados y resueltos de una manera objetiva. En otras palabras, el rol del saber experto es interpretar los problemas personales, examinar sus causas y traducirlas a un lenguaje contextualmente relevante (Z. Baumann
+            <ext-link ext-link-type="uri" xlink:href="https://www.degruyter.com/downloadpdf/books/9783110847765/9783110847765.fm/9783110847765.fm.pdf#page=93">Life-world and expertise</ext-link>
+            ).
+         </p>
+         <p>Sin negar la importancia de estas conceptualizaciones, no parece haberse desarrollado una reflexión que aborde el tema del conocimiento científico experto dentro del marco de una teoría general de la sociedad contemporánea, que tenga como foco comprender las condiciones funcionales o normativas para confiar en su capacidad de ser relevante en ámbitos no científicos. En este contexto, el modelo sistémico funcional de Niklas Luhmann y el modelo pragmático formal de Jürgen Habermas son especialmente relevantes pues su foco, en tanto teorías universalistas de la sociedad contemporánea, está en preguntarse bajo qué condiciones es posible asumir que el conocimiento científico puede ofrecer soluciones efectivas a problemas contextuales específicos. Como se verá, si bien ambos modelos carecen de una definición explícita sobre qué es la experticia y cómo ella se relaciona con la verdad científica y la discusión pública para proyectar confianza, la abstracción teórica con que estos autores describen la sociedad permite comprender de mejor manera el fenómeno del conocimiento experto y cómo diferentes ideas moldean el debate científico y político sobre este tópico en particular.</p>
+      </sec>
+      <sec>
+         <title>La conversión de experticia científica en saber social en el modelo sistémico funcional</title>
+         <p>
+            De acuerdo con Luhmann, la sociedad contemporánea se diferencia en sistemas funcionales. Esto significa que, a diferencia de sociedades segmentadas o estratificadas, esta sociedad opta por una diferenciación basada en la existencia de distintos sistemas operacionalmente clausurados, cada uno de ellos dedicados al tratamiento de una función específica, como educación, arte, economía, política, ciencia y derecho, sin que sea posible establecer de manera inequívoca una jerarquía de importancia entre los sistemas parciales (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-complejidad-y-modernidad-de-la-unidad-a-la-diferencia/9788481642186/602302">La diferenciación de la sociedad</ext-link>
+            ). La sociedad moderna se configura de este modo como policéntrica. Como resume este autor, “cada transformación de un sistema parcial es al mismo tiempo una transformación del entorno de los demás sistemas parciales” (
+            <xref ref-type="bibr" rid="B6">Luhmann 1996</xref>
+            :474).
+         </p>
+         <p>
+            Cada uno de estos sistemas se caracteriza por la combinación simultánea de especialización y universalismo en sus operaciones. Esta combinación se realiza a través de un código binario que permite a cada sistema distinguir su ámbito particular de operación y, al mismo tiempo, diferenciarlo respecto a las operaciones de otros sistemas (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/abs/10.1080/03081078208547442">The world society as a social system</ext-link>
+            ). Cada código posee validez universal y, desde el punto de su función, excluye otras posibilidades. Esta abstracción hace posible a cada código asegurar la autonomía del sistema y simultáneamente permitir la aplicación universal del código (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://philpapers.org/rec/LUHEC">Ecological communication</ext-link>
+            ).
+         </p>
+         <p>
+            Esta codificación binaria de la distribución de las operaciones de los principales sistemas sociales es característica de la sociedad moderna y contribuye al establecimiento de la primacía de la forma de diferenciación por funciones. Con escasas excepciones, como por ejemplo el sistema de la educación, los ámbitos más importantes de la sociedad contemporánea están estructurados de esta manera. El sistema científico observa su entorno a través de la aplicación de su código verdad/no-verdad, considerando todo otro tipo de operación una irritación que solo es interpretada de acuerdo con los valores de su código binario particular (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.anthropos-editorial.com/DETALLE/LA-CIENCIA-DE-LA-SOCIEDAD-ATTCS-010">La ciencia de la sociedad</ext-link>
+            ). De esta manera, otro tipo de consideraciones, como aquellas referidas a la disminución del daño ambiental, son excluidas del ámbito inmediato de relevancia del sistema parcial (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://philpapers.org/rec/LUHEC">Ecological communication</ext-link>
+            ).
+         </p>
+         <p>
+            La existencia de estos sistemas funcionales no significa, sin embargo, su mutuo aislamiento. Este punto es central para comprender la posición del conocimiento científico en la teoría de Luhmann. En efecto, esta forma de diferenciación implica el aumento de la dependencia entre distintos sistemas, en tanto cada sistema presupone que el resto de las funciones se realizan en otros sistemas (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.sup.org/books/title/?id=1234">Theory of society, volume 1</ext-link>
+            ). Dado que la ciencia no puede asegurar la misma existencia de medios económicos, ella requiere para continuar operando del adecuado funcionamiento del sistema económico. Del mismo modo, el sistema político depende también del correcto funcionamiento del sistema jurídico, en particular mediante la Constitución, si es que aspira a presentarse como Estado democrático (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.springer.com/de/book/9783663013419">Staat und Politik</ext-link>
+            ).
+         </p>
+         <p>
+            Estas relaciones entre sistemas funcionales son analizadas por Luhmann mediante el concepto de acoplamiento estructural. Acoplamiento estructural consiste en el mecanismo que permite convertir las operaciones de un sistema en irritaciones para la construcción de complejidad en otro sistema (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.sup.org/books/title/?id=16878&amp;bottom_ref=subject">Theory of society, volume 2</ext-link>
+            ). El acoplamiento estructural no cambia el hecho de que los sistemas funcionales se encuentren clausurados operativamente. En consecuencia, más que transferencia de información, la existencia de acoplamientos estructurales entre distintos sistemas permite que la complejidad sea procesada selectivamente en cada sistema, quedando la consideración de su significado determinada por la estructura específica de cada sistema observador y no por las características de la comunicación originaria.
+         </p>
+         <p>
+            El conocimiento es el resultado de estos acoplamientos. Conocimiento es, de acuerdo con Luhmann, el resultado de la “condensación de observaciones” cuyo valor, en cada caso, se encuentra determinada por la aplicación del código respectivo de cada sistema funcional (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.anthropos-editorial.com/DETALLE/LA-CIENCIA-DE-LA-SOCIEDAD-ATTCS-010">La ciencia de la sociedad</ext-link>
+            ). La estructura del sistema condiciona, por lo tanto, los resultados últimos de los acoplamientos estructurales. Ellos no transfieren la complejidad de un sistema dentro de otro sino que, por el contrario, su relevancia se encuentra moldeada en último término por la estructura propia del sistema observador (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.sup.org/books/title/?id=16878&amp;bottom_ref=subject">Theory of society, volume 2</ext-link>
+            ).
+         </p>
+         <p>
+            El conocimiento científico es una forma de conocimiento que emerge sobre la base de esta “condensación de observaciones”, sin que corresponda a una representación superior de las características objetivas del entorno. Coherente con los principios constructivistas que guían el análisis de Luhmann, la verdad no es concebida como una representación del entorno, sino como una construcción del sistema científico procesada mediante sus teorías y métodos (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.anthropos-editorial.com/DETALLE/LA-CIENCIA-DE-LA-SOCIEDAD-ATTCS-010">La ciencia de la sociedad</ext-link>
+            ). De acuerdo con Luhmann, la diferenciación de un sistema de la ciencia resulta en que ella no está “sujeta a ningún control jerárquico (religioso, político o estamentario), sino que elija por sí misma sus temas y comunicaciones, que requiera de una abstracción metateórica de un código binario, del que al mismo tiempo podemos afirmar que en ninguna otra parte se aplica” (Luhmann 1996:209).
+         </p>
+         <p>
+            Esta formulación permite delinear la comprensión de Luhmann del conocimiento científico experto. Como se mencionó en la sección anterior, una de las premisas centrales de la comprensión tradicional de experticia es la capacidad de utilizar el conocimiento científico como insumo para la toma de decisiones en otros ámbitos, especialmente en las políticas públicas. En su formulación tradicional, este argumento plantea que el conocimiento científico permite una mejor capacidad de respuesta a las necesidades del entorno asegurada por la instrumentalización de la ciencia (P. Sztompka
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/10.1177/1468795X07078038">Trust in science</ext-link>
+            ). Considerando esta definición de experticia en detalle, es fácil observar que esta definición asume, por una parte, la posibilidad de integración de distintas esferas sociales y, por otra, un concepto del conocimiento como un bien transferible. Ambas nociones, como se verá, resultan extrañas al diagnóstico sistémico de diferenciación funcional y, en particular, a la visión de esta teoría del conocimiento científico como construcción interna de un sistema parcial.
+         </p>
+         <p>Esta conceptualización determina el análisis sistémico de la experticia en la sociedad contemporánea. Como se ha mencionado, si bien el sistema científico procesa información a través de la aplicación del código verdad/no-verdad, cuando sus comunicaciones son observadas por otros sistemas, generalmente mediante publicaciones académicas, cómo ellas son incorporadas está determinada por la estructura del sistema observador, no de acuerdo con el código del sistema científico.</p>
+         <p>
+            Dos ejemplos ilustran este proceso de determinación del significado del conocimiento científico de acuerdo con la primacía del código de cada sistema funcional. En el caso de la utilización política de la ciencia, ella se realiza mediante el código gobierno/oposición y, con ello, en base a la evaluación de la capacidad de conectividad de las investigaciones que tiene lugar en el marco del proceso de toma de decisiones colectivas (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-complejidad-y-modernidad-de-la-unidad-a-la-diferencia/9788481642186/602302">La diferenciación de la sociedad</ext-link>
+            ). Del mismo modo, en lo que refiere a la utilización educacional de los resultados del sistema científico, ello ocurre de acuerdo a las estructuras del sistema educativo y no necesariamente siguiendo las ideas actuales de las disciplinas científicas. La distinción entre seno y coseno, generada en el sistema científico, no se utiliza como tal en la educación, sino que se emplea exclusivamente como un insumo para distinguir entre estudiantes que manejan esta distinción y aquellos que no, siguiendo el código de selección pedagógica propio de este sistema funcional (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-teoria-de-la-sociedad-y-pedagogia/9788449302169/507014">La homogeneización del comienzo</ext-link>
+            ).
+         </p>
+         <p>
+            En este sentido, a diferencia de la teoría del discurso habermasiana, en que, como se examinará en la siguiente sección, la verdad es una propiedad intrínseca de los enunciados y el resultado intersubjetivamente reconocido de procesos de diálogo racional y validación de los enunciados científicos, Luhmann enfatiza el carácter sistémicamente construido de las comunicaciones de la ciencia (P. Fuchs
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/201883">The social organization of scientific knowledge</ext-link>
+            ). Esto resulta de la opción de la teoría de Luhmann de concebir los sistemas sociales como sistemas no-triviales, determinados por su estructura y no por las características de su entorno. Esta característica crea una suerte de “indeterminación irresoluble”, la que impide que el modo de apropiación de sus operaciones pueda ser establecida de una vez y para siempre por parte de observadores externos o por el propio sistema, pues toda observación es siempre selectiva respecto del conjunto de operaciones disponibles en un momento particular. Como indica Luhmann, la autopoiesis de los sistemas sociales significa “la producción de indeterminación interna en el sistema, que solo puede reducirse a través de la construcción de estructuras sistémicas propias” (Luhmann 1996:46).
+         </p>
+         <p>
+            Es necesario considerar, sin embargo, que esto no excluye que las operaciones de la ciencia sean consideradas como relevantes por parte de otros sistemas funcionales. Por el contrario, esto solo establece que dicha consideración es moldeada, en última instancia, por las características del sistema observador. De acuerdo con Luhmann, las organizaciones desempeñan un rol central en este respecto, en tanto este tipo de sistemas sociales son los únicos que pueden presentar sus operaciones como unidad ante otros sistemas de la sociedad. En efecto, puesto que la sociedad, por definición, comprende el conjunto de comunicaciones, ella carece de un entorno social ante el cual pueda comunicar su unidad. Por otra parte, las interacciones, debido a su rápida sucesión de temas, no son suficientemente estables como para generar una identidad específica que ellas pudiesen representar ante otros sistemas sociales. En contraste, dado que las organizaciones determinan los límites de sus comunicaciones mediante decisiones de membrecía sobre quién forma o no parte de una organización, estos sistemas sociales son capaces de presentar sus operaciones como una unidad, tanto para los participantes de la organización, como para otros sistemas de comunicación que estén ubicados en su entorno específico (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.herdereditorial.com/organizacion-y-decision">Organización y decisión</ext-link>
+            ). Como señala Luhmann, “mientras los sistemas-de-interacción solo pueden tomar en cuenta su entorno activando a los presentes e interiorizando la diferencia de presente/ausente, las organizaciones tienen además la posibilidad de comunicarse con sistemas en su entorno [pues] constituyen el único tipo de sistema social que dispone de esta posibilidad; si se quiere adquirirla hay que organizarse" (Luhmann 1996:661).
+         </p>
+         <p>
+            Una segunda característica de las organizaciones que facilita que ellas puedan presentarse como unidad ante otros sistemas, es que sus comunicaciones no son indiferentes respecto de la lógica de los sistemas parciales, sino que tienden a hacer primar uno de ellos en su proceso de toma de decisiones: economía, en el caso de los bancos; educación, en el caso de escuelas; ciencia, en el caso de los centros de investigación científica y así sucesivamente. De esta forma, ellas tienen la capacidad de estabilizar los acoplamientos entre sistemas y convertir las irritaciones en operaciones con capacidad de conexión (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.sup.org/books/title/?id=16878&amp;bottom_ref=subject">Theory of society, volume 2</ext-link>
+            ).
+         </p>
+         <p>
+            Estos dos atributos hacen posible que las organizaciones puedan, efectivamente, operar como “puentes” entre distintos sistemas funcionales. Esto facilita la emergencia de nuevos órdenes mediados organizacionalmente, sea a través de la combinación de comunicaciones morales y económicas (A. Bohmeyer
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/24234888">In der Moralfalle?</ext-link>
+            ), económicas, científicas y políticas (H. Etzkowitz; L. Leydesdorff
+            <ext-link ext-link-type="uri" xlink:href="https://www.sciencedirect.com/science/article/pii/S0048733399000554">The dynamics of innovation</ext-link>
+            ), científicas y políticas (I. Kusche
+            <ext-link ext-link-type="uri" xlink:href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sres.1136">Understanding political consulting</ext-link>
+            ) o económicas y científicas (M. Guggenheim
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/40878574?seq=1#page_scan_tab_contents">Beobachtungen zwischen Funktionssystemen</ext-link>
+            ), entre otros. Como siempre, estos órdenes presuponen la primacía de una estructura social de diferenciación funcional (si no fuese así, ¿cómo sería posible distinguir distintas formas de comunicación?). Los acoplamientos creados mediante las organizaciones son observados de manera diferente en cada sistema, si bien ellos hacen más fácil su consideración como irritaciones relevantes en el interior del sistema.
+         </p>
+         <p>Consecuencia de lo anterior, la experticia en el modelo sistémico funcional debe necesariamente conceptualizarse como experticia organizada. Como se señaló, la argumentación tradicional al respecto asume que la experticia permite tomar decisiones confiables en ámbitos distintos al científico. Ciertamente, no existen argumentos en esta teoría que excluyan a priori la existencia de estos procesos. No obstante, siguiendo los principios de esta teoría, ello debe ocurrir al nivel de las organizaciones lo que hace que, por lo tanto, la experticia sea siempre experticia observada e integrada de acuerdo con el primado funcional del sistema en cuestión.</p>
+         <p>La experticia puede ser definida desde la teoría de sistemas sociales como un símbolo, procesado dentro de organizaciones, que permite presuponer que una persona, en virtud de su participación anterior en la comunicación científica, posee competencias y habilidades que hacen que esta persona pueda participar de manera relevante en la comunicación de otros sistemas funcionales, pudiendo contribuir al diagnóstico de problemas y propuesta de soluciones en estas áreas.</p>
+         <p>
+            Esta dinámica puede verse de manera ejemplar en el análisis acerca de la relación entre universidades, industrias y gobierno desde la perspectiva de la teoría de sistemas sociales (H. Etzkowitz; L. Leydesdorff
+            <ext-link ext-link-type="uri" xlink:href="https://www.sciencedirect.com/science/article/pii/S0048733399000554">The dynamics of innovation</ext-link>
+            ). Si bien esta “triple hélice”, como la denominan estos autores, involucra la participación de organizaciones ubicadas en tres sistemas parciales, el modo en que este acoplamiento es observado se encuentra, en última distancia, por las características del sistema y no por los atributos de la relación en sí. De esta manera, incluso cuando la relación se convierte en un tema relevante dentro de la organización (por ejemplo, a través de la creación de Departamentos de Extensión en universidades, Oficinas de Desarrollo Tecnológico en industrias o Políticas de Innovación en gobiernos), ello se realiza de manera selectiva, determinada de acuerdo con la primacía funcional de la organización y sin implicar la incorporación directa de una información objetiva. A pesar de lo anterior, gobierno e industrias asumen que la mera pertenencia de una persona a la universidad asegura que ésta posea un conocimiento que puede demostrar ser relevante para la toma de decisiones en ámbitos políticos y económicos.
+         </p>
+         <p>
+            Si la experticia es un símbolo en el modelo sistémico funcional, entonces su comprensión debe necesariamente vincularse con un análisis de la semántica que plausibiliza su aceptación (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.sup.org/books/title/?id=1485">Sign as form</ext-link>
+            ). En este sentido, ella debe partir de la distinción entre semántica y estructura (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.suhrkamp.de/buecher/gesellschaftsstruktur_und_semantik-niklas_luhmann_28693.html">Gesellschaftliche Struktur und semantische Tradition</ext-link>
+            ). Por una parte, semántica refiere a los textos utilizados para representar la unidad del sistema en el sistema (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.sup.org/books/title/?id=16878&amp;bottom_ref=subject">Theory of society, volume 2</ext-link>
+            ).
+         </p>
+         <p>
+            De una manera similar a lo que ocurre con el concepto de cultura, el significado de la noción de semántica experimentó también importantes cambios en el transcurso del desarrollo de la teoría de sistemas sociales de Niklas Luhmann. A nuestro juicio, resulta de especial importancia caracterizar las transformaciones en el análisis de la relación entre estructura y semántica en el modelo sistémico funcional, tema sobre el cual mucho se ha discutido recientemente (por ejemplo, D. Baecker
+            <ext-link ext-link-type="uri" xlink:href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2779458">Sociology of media</ext-link>
+            ). Desarrollar este análisis permitiría, por una parte, realizar estudios históricos informados teóricos y, por otra parte, abrir posibilidades de diálogo con nociones funcionalmente equivalentes a la de semántica en Luhmann (A. Szakolczai
+            <ext-link ext-link-type="uri" xlink:href="https://www.amazon.com/Reflexive-Historical-Sociology-Routledge-Political/dp/0415190517">Reflexive historical sociology</ext-link>
+            ). Más allá de este debate, que escapa a los propósitos de este artículo, en el presente ensayo se opta por el concepto de semántica que Luhmann presenta en “Theory of Society”, publicado originalmente en alemán en 1997 bajo el título “Die Gesellschaft der Gesellschaft”. Esta selección obedece a dos razones. Por una parte, su carácter tardío refleja una conceptualización madura del concepto de semántica por parte del autor y, por otra parte, producto de lo anterior, ella se encuentra ya integrada con la teoría de la sociedad que seguimos en este apartado.
+         </p>
+         <p>
+            Ejemplos de las semánticas que han adquirido relevancia en la sociedad moderna son la comprensión del amor como pasión (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.wiley.com/en-us/Love%3A+A+Sketch-p-9780745647517">Love</ext-link>
+            ), la idea de institución (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://books.google.de/books?id=DId9QgAACAAJ&amp;dq=Universit%C3%A4t+als+Milieu&amp;hl=es&amp;sa=X&amp;ved=0ahUKEwj09v3r7sncAhWL_KQKHQ8tDtgQ6AEIKjAA">Die Universität als organisierte Institution</ext-link>
+            ) o, mucho más recientemente, el concepto mismo de postmodernidad (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/1354436?seq=1#page_scan_tab_contents">Why does society describes itself as postmodern?</ext-link>
+            ). Por otra parte, estructura refiere a la forma dominante de diferenciación social. Como se ha señalado antes, para la sociedad moderna, ella consiste en la diferenciación de sistemas especializados en una función particular.
+         </p>
+         <p>
+            La relación entre semántica y estructura no es lineal. Existen casos en los cuáles la semántica antecede desarrollos estructurales, como en el caso de la importancia de pasión para el amor (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.wiley.com/en-us/Love%3A+A+Sketch-p-9780745647517">Love</ext-link>
+            ) o en la noción de Bildung (formación) para el sistema educativo (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.suhrkamp.de/buecher/das_erziehungssystem_der_gesellschaft-niklas_luhmann_29193.html">Das Erziehungssystem der Gesellschaft</ext-link>
+            ), en tanto en otros la semántica opera detrás de cambios sociales, como en la descripción de la sociedad como compuesta de seres humanos, característica del pensamiento europeo (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.sup.org/books/title/?id=16878&amp;bottom_ref=subject">Theory of society, volume 2</ext-link>
+            ).
+         </p>
+         <p>
+            Considerando lo anterior, la importancia de la experticia puede interpretarse como un desarrollo discursivo en lugar de una caracterización más o menos correcta de la estructura de la sociedad moderna. Esta “semántica de la experticia” se reflejaría en la utilización de ideas como “sociedad del conocimiento” o “sociedad de la información”, que enfatizan que el saber es más importante que el capital físico para la mejora de la sociedad (J. Steinbicker
+            <ext-link ext-link-type="uri" xlink:href="https://www.springer.com/de/book/9783531180540">Zur Theorie der Informationsgesellschaft</ext-link>
+            ). Por cierto, la existencia de esta semántica no implica necesariamente que la sociedad obtenga sus certezas del conocimiento científico experto (A. Nassehi
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/3654675?seq=1#page_scan_tab_contents">What do we know about knowledge?</ext-link>
+            ). Si bien el cambio semántico es moldeado por transformaciones estructurales, ello no necesariamente describe en términos exactos la naturaleza de estas transformaciones. Siguiendo esto, puesto que de acuerdo con Luhmann la sociedad se estructura en sistemas funcionales, la posibilidad de una coordinación centralizada (por ejemplo, mediante la experticia atribuida a las comunidades científicas) se reduce también de modo significativo (R. Grundmann; N. Stehr
+            <ext-link ext-link-type="uri" xlink:href="https://books.google.cl/books?id=Dvx9FtdeU1sC&amp;printsec=frontcover&amp;dq=The+power+of+scientific+knowledge:+From+research+to+public+policy&amp;hl=es&amp;sa=X&amp;ved=0ahUKEwin6fGn1ZnhAhVDHLkGHfvSAAsQ6AEIKDAA#v=onepage&amp;q=The%20power%20of%20scientific%20knowledge%3A%20From%20research%20to%20public%20policy&amp;f=false">The power of scientific knowledge</ext-link>
+            ).
+         </p>
+         <p>
+            En consecuencia, la relevancia asignada a la experticia puede interpretarse desde el modelo sistémico funcional como un correlato semántico de la imposición de una forma de diferenciación por funciones en la sociedad moderna mediante la cual se espera poder lidiar con las lógicas divergentes de los distintos sistemas funcionales (D. Baecker
+            <ext-link ext-link-type="uri" xlink:href="https://www.suhrkamp.de/buecher/studien_zur_naechsten_gesellschaft-dirk_baecker_29456.html">Was hält Gesellschaften zusammen?</ext-link>
+            ). No sería casualidad, por lo tanto, que esta forma de confianza adquiriese relevancia a mediados de los siglos XVII y XVIII, periodo en que la sociedad, de acuerdo con esta teoría, experimentó el cambio desde una diferenciación basada en estratos a una fundada en funciones (A. Nassehi
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/3654675?seq=1#page_scan_tab_contents">What do we know about knowledge?</ext-link>
+            ). Con ello, la relevancia asignada hoy a la experticia sería un último desarrollo en una larga deriva semántica que enfatiza la importancia del conocimiento racional en el progreso de la sociedad moderna, a pesar de no ser esto coherente con su estructura diferenciada en sistemas clausurados en sus operaciones (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.sup.org/books/title/?id=16878&amp;bottom_ref=subject">Theory of society, volume 2</ext-link>
+            ).
+         </p>
+      </sec>
+      <sec>
+         <title>La conversión de la experticia científica en el modelo pragmático formal</title>
+         <p>
+            Por su parte, para Habermas, la estructura social de la modernidad se caracteriza por una diferenciación interna en dos formas de racionalidades. Por una parte, una racionalidad orientada al entendimiento cotidiano mediante la actualización de los plexos simbólicos, estructuras normativas y lingüísticas del mundo de la vida. Esta forma de integración social se expresaría en la praxis cotidiana y comprendería toda interacción basada en la tradición, la cultura y la solidaridad (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="http://www.trotta.es/libros/aclaraciones-a-la-etica-del-discurso/9788481643787/">Aclaraciones a la ética del discurso</ext-link>
+            ). Por otra parte, la segunda racionalidad es sistémica y refiere a las esferas de la sociedad orientadas a la coordinación de acciones instrumentales, especialmente mediante la economía o el aparato burocrático. De acuerdo con este autor, la integración sistémica amenazaría la integración social ya que sus acciones con arreglos a fines subordinan el mundo de la vida a sus lógicas (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-problemas-de-legitimacion-en-el-capitalismo-tardio/9788437617534/667883">Problemas de legitimación en el capitalismo tardío</ext-link>
+            ).
+         </p>
+         <p>
+            Como se explorará en esta sección, la función de la ciencia sería clave para enfrentar esta amenaza sistémica en el modelo pragmático formal, en tanto la búsqueda de informaciones objetivas cumpliría un rol esencial en la protección de los intereses prácticos del mundo social de la vida a través de la promoción de la discusión y al dialogo racional (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-conciencia-moral-y-accion-comunicativa-2aa-ed/9788483070857/596803">Conciencia moral y acción comunicativa</ext-link>
+            ). Caso contrario, los saberes especializados validarían únicamente la verdad con fines técnicos para aprovechar las fuerzas de la naturaleza para objetivos instrumentales y aplicar las ciencias a la intervención del ser humano (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://books.google.cl/books?id=QEAeWhojUksC&amp;dq=Ciencia+y+t%C3%A9cnica+como+ideolog%C3%ADa&amp;hl=es&amp;sa=X&amp;ved=0ahUKEwjo7pyTi7rhAhXQnOAKHQI-ApoQ6AEIKDAA">Ciencia y técnica como ideología</ext-link>
+            ).
+         </p>
+         <p>Para enunciar este juicio, el modelo pragmático formal recoge tradiciones y enfoques que van desde el campo filosófico y sociolingüístico hasta el de las ciencias sociales. Esta arquitectura teórica le permite a Habermas formular una teoría general de la sociedad fundada en un fundamento normativo y desde un posicionamiento crítico en que la ciencia tiene, como se indicó, una función clave en la conservación del mundo de la vida. A continuación, se exponen los principales fundamentos conceptuales usados por este autor para desarrollar su argumento para, posteriormente, conceptualizar el significado de la experticia desde esta aproximación.</p>
+         <p>
+            En relación con este rol de la ciencia, Habermas se basa en su lectura de la obra de Charles Peirce. Siguiendo a este autor, se argumenta que todo conocimiento se valida por sus inferencias prácticas, a través del ensayo y error en las comunidades científicas, como condición para determinar qué tipo de verdades sirven para construir creencias firmes en la sociedad (C. Peirce
+            <ext-link ext-link-type="uri" xlink:href="http://www.peirce.org/writings/p107.html">The fixation of belief</ext-link>
+            ). De esta manera, “la concepción Peirceniana de la investigación científica no es solo completamente failibilista, sino también completamente social. Cada investigador genuino y de buena fe, contribuye a una vasta empresa en su época, y a lo largo de las generaciones, a poner su obra gratuitamente a disposición de los otros” (
+            <xref ref-type="bibr" rid="B2">Haack 2001</xref>
+            :27).
+         </p>
+         <p>
+            La construcción de verdades se concibe entonces para Habermas como necesariamente dependiente de una deliberación crítica del saber científico, de forma tal que ella permita asegurar que los seres humanos en su cotidianeidad estén en condiciones de enfrentar la incertidumbre mediante conocimientos seguros. De esta manera, la ciencia, mediante la inferencia práctica, transmitiría verdades objetivas sobre las cuales podrían construirse hábitos de rutinas. De este principio se deriva que la calidad de los enunciados discursivos depende, en la construcción teórica de Habermas, de la efectividad reflexiva y deliberativa de estos saberes especializados. En resumen, la ciencia se concibe aquí como un medio para investigar verdades mediante leyes inferenciales que permitan observar las conexiones entre los signos y su objeto, lo cual fundamenta, a su vez, el impulso o deseo del investigador de descubrir verdades para poder construir creencias firmes en el mundo (C. Peirce
+            <ext-link ext-link-type="uri" xlink:href="https://cintademoebio.uchile.cl/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fcintademoebio.uchile.cl%2Findex.php%2FCDM%2Farticle%2Fdownload%2F54034%2F56791%2F">How to make our ideas clear</ext-link>
+            ).
+         </p>
+         <p>
+            A su vez, central en esta caracterización de la ciencia es la interpretación de Habermas de la teoría crítica. Desde este abordaje, la función de la ciencia debe contener un posicionamiento crítico en la formulación de sus enunciados, pues toda indagación debe dirigirse hacia la emancipación humana (K. Bock
+            <ext-link ext-link-type="uri" xlink:href="https://fondodeculturaeconomica.cl/5d6a6b2b-2961-466a-b051-061322de9ca8/Historia-del-an%C3%A1lisis-sociol%C3%B3gico.aspx">Teorías del progreso, el desarrollo y la evaluación</ext-link>
+            ). En otras palabras, la ciencia tiene que comprometerse con una utilización política del conocimiento, en tanto las conexiones empíricas que se descubren como hechos no pueden reducirse a elementos lógicos, sino que deben evaluar críticamente la totalidad de lo social (M. Horkheimer
+            <ext-link ext-link-type="uri" xlink:href="https://es.scribd.com/document/86925904/Max-Horkheimer-La-Situacion-Actual-de-La-Filosofia-Social-y-Las-Tareas-de-Un-Instituto-de-Investigacion-Social">La situación actual de la filosofía social y las tareas de un instituto de investigación social</ext-link>
+            ).
+         </p>
+         <p>
+            Por lo tanto, la labor científica debe caracterizarse desde esta perspectiva por criticar la pérdida de capacidad enunciativa de los individuos (T. Adorno
+            <ext-link ext-link-type="uri" xlink:href="https://www.iberlibro.com/9789688673621/logica-ciencias-sociales-ADORNO-POPPER-9688673625/plp">Sobre la lógica de las ciencias sociales</ext-link>
+            ). El conocimiento científico solo puede dejar de ser especulativo y cumplir su función real cuando mediante éste se examinan las contradicciones de la sociedad (D. Frisby
+            <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/10.1177/004839317200200108">The Popper-Adorno controversy</ext-link>
+            ). La investigación se concibe, así, como teniendo un compromiso político para emancipar al ser humano de la razón instrumental que predomina a la sociedad. El desafío está, en otros términos, en que la ciencia transcienda sus límites disciplinares de manera práctica, es decir, siguiendo a Marcuse, para desafiar aquella “racionalidad materializada en los sistemas de acción racional con respecto a fines [que] acaba constituyendo una forma de vida, una totalidad histórica de un mundo de la vida” (citado en
+            <xref ref-type="bibr" rid="B4">Habermas 2010</xref>
+            :65). Y, al mismo tiempo, este autor condiciona la validación de la verdad científica a su capacidad de considerar en sus enunciados su trasfondo normativo y argumentativo.
+         </p>
+         <p>
+            Lo anterior implica ver de qué manera es posible explicar la reflexividad de los lenguajes naturales desde un posicionamiento universalista en el uso pragmático de lenguaje (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-teoria-de-la-accion-comunicativa-vol-ii/9788430603404/640551">Teoría de la acción comunicativa II</ext-link>
+            ). Para ello, Habermas retoma la distinción propuesta por Ryle en cuanto a la necesidad de distinguir entre aquello que se caracteriza como las competencias lingüísticas para abrirse al mundo a través de un uso efectivo del lenguaje (know how), y la pregunta por cuáles son los criterios o reglas que posibilitan realizar una performance particular (know that) (G. Ryle
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/pdf/4544405.pdf">Knowing how and knowing that</ext-link>
+            ).
+         </p>
+         <p>
+            Basándose en esta distinción, Habermas señala que todo enunciado científico tiene un fundamento pre-teórico en las competencias lingüísticas características del mundo de la vida. En este sentido, la reconstrucción del sistema de reglas del lenguaje en términos científicos implica un proceso reflexivo para tematizar aquello que intuitivamente se cree verdadero o falso en la investigación (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="http://www.trotta.es/libros/verdad-y-justificacion/9788481644975/">Verdad y justificación</ext-link>
+            ). Por lo tanto, si la validación de las verdades científicas se constituye en un nivel discursivo, ella no puede dejar de ser incluida en el debate en la esfera pública. Dicha decisión conlleva, a su vez, un riesgo de que las expectativas de los sujetos capaces de lenguaje y acción se fragmenten por no contener un interés práctico compartido, es decir, una “argumentación fructífera mediante la cual se resuelve la pretensión de validez problematizada” (
+            <xref ref-type="bibr" rid="B3">Habermas 1990</xref>
+            :315). Esto implica, en otras palabras, que el rol de los expertos tenga que participar en una argumentación donde la relevancia de sus estudios no es evidente de manera automática (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.trotta.es/libros/aclaraciones-a-la-etica-del-discurso/9788481643787/">Aclaraciones a la ética del discurso</ext-link>
+            ). En consecuencia, puesto que la generación de verdades científicas depende de la inclusión de las estructuras del mundo de la vida, es necesario que la investigación vaya más allá de la presentación de información y tome en cuenta el mundo de la vida que constituye su fundamento (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.marcialpons.es/libros/la-logica-de-las-ciencias-sociales/9788430945221/">La lógica de las ciencias sociales</ext-link>
+            ).
+         </p>
+         <p>
+            Con los antecedentes expuestos, se puede sostener que el proceso de conversión de la ciencia en la experticia científica no es posible si las verdades de la ciencia no se validan en la esfera pública, entendida ésta como “una estructura que intermedia entre la experticia científica y la toma de decisiones públicas” (
+            <xref ref-type="bibr" rid="B1">Edwards 1999:163</xref>
+            ). En otras palabras, desde el modelo pragmático formal de Habermas, el conocimiento científico experto se valida cuando éste se coloca en la esfera pública, en tanto es en el plano discursivo en donde se busca un interés social común para solucionar problemas específicos. En este sentido, en la esfera pública no solo se esperan visibilizar resultados o descubrimientos cuando la ciencia anuncia sus verdades, sino que éstas tienen que ser validadas por quienes participan en la argumentación a nivel discursivo o por quienes están siendo afectadas por ellas. Las verdades, en consecuencia, tienen que ser lo suficientemente prácticas y efectivas como para ser reconocidas y validadas por sus destinatarios, al alero de su necesario debate u argumentación en la esfera pública.
+         </p>
+         <p>
+            En esta dirección, la experticia científica se hace relevante en otros ámbitos cuando sale de sus fronteras disciplinares originales para comprometerse con las necesidades o carencias de sus destinatarios, posicionándose siempre en la perspectiva de quienes necesitan solucionar problemas puntuales por confiar en el carácter práctico de sus conocimientos. La ciencia tiene que convertir su conocimiento en experticia científica cuando hay un interés social de trasfondo en la esfera pública, para solucionar un problema en específico y contextual, ya que todo conocimiento objetivo se valida de acuerdo a la utilidad de sus referencias y a su capacidad de generar una conexión con la experiencia humana en el plano discursivo (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="http://www.trotta.es/libros/verdad-y-justificacion/9788481644975/">Verdad y justificación</ext-link>
+            ).
+         </p>
+         <p>El conocimiento científico experto, siguiendo a Habermas, puede ser definido como la expresión comunicativa de competencias científicas orientadas a la formulación de enunciados prácticos, cuya relevancia está asegurada por el hecho de estar sujeta a procesos de discusión con actores no científicos en la esfera pública.</p>
+         <p>
+            En este sentido, si la capacidad de convertibilidad del conocimiento científico experto depende, como se ha visto, de la validación de su potencialidad en el debate público, entonces ella está determinada por su capacidad de proponer una solución a un problema específico definido como tal en la esfera pública (W. Clark; G. Majone
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/016224398501000302?journalCode=sthd">The critical appraisal of scientific inquiries with policy implications</ext-link>
+            ). La experticia científica no es vista en Habermas, entonces, como una comunicación cuya importancia se justifique por sí misma: por el contrario, su relevancia depende de que ella considere al mundo de la vida a través de la deliberación de sus temas en espacios en los que los legos tienen las mismas oportunidades que los expertos para ofrecer interpretaciones, afirmaciones, recomendaciones, explicaciones y justificaciones sobre la realidad desde sus vivencias socioculturales particulares (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-teorias-de-la-verdad-en-el-siglo-xx/9788430930722/576663">Teorías de la verdad</ext-link>
+            ). La relevancia del saber experto dependería, de esta forma, de que éste sea validado en la interacción con otros, en un espacio en que se discuta el estatus de las verdades en cuestión a través de la presentación de razones convincentes entre los distintos integrantes que participan en el debate público.
+         </p>
+      </sec>
+      <sec>
+         <title>¿Coordinación sistémica o integración social en el mundo de la vida? Un análisis de las diferencias entre el modelo sistémico funcional y el modelo pragmático formal</title>
+         <p>
+            La diferencia entre ambas perspectivas establece los fundamentos del debate contemporáneo acerca de la posibilidad de utilización del conocimiento científico experto (M. Castells
+            <ext-link ext-link-type="uri" xlink:href="https://deterritorialinvestigations.files.wordpress.com/2015/03/manuel_castells_the_rise_of_the_network_societybookfi-org.pdf">The information age, volume I</ext-link>
+            ). Por una parte, desde Luhmann resulta una conceptualización que enfatiza el carácter peculiar de cada comunicación y cómo su incorporación dentro de las dinámicas de cada sistema responde a un proceso de conversión que no necesariamente sigue las ideas de las formulaciones originales en el sistema de la ciencia. Por otra parte, desde las descripciones asociadas implícitamente con la teoría de Habermas se argumenta que existe una correspondencia entre ciencia y la sociedad civil, en tanto ambas estructuras comunicativas, como toda acción comunicativa, presupone en sus operaciones la previa existencia del mundo de la vida. De lo anterior se deriva que el proceso de conversión de la experticia dependería de la presencia de una esfera pública que permita presuponer la participación de distintos actores.
+         </p>
+         <p>Como se argumentará a continuación, esta diferencia responde a la conceptualización de ambos autores del estatus ontológico del “mundo de la vida”. Para comprender el rol de este concepto en ambas descripciones, se compararán los rendimientos de Luhmann y Habermas en relación con la experticia. Cinco preguntas guían este análisis. En primer lugar, se aborda cómo el conocimiento científico experto puede caracterizarse desde estos autores. A continuación, se reseña el proceso de generación científica del conocimiento científico experto según sus análisis. Luego, se distinguirá cómo la conversión de este conocimiento se realiza desde el ámbito científico a otras esferas de la sociedad moderna de acuerdo con sus teorías. En tercer lugar, se analizará cómo el conocimiento científico experto es apropiado por parte de actores no científicos en estas aproximaciones. Finalmente, se determinará qué es necesario de acuerdo con cada aproximación para confiar en el potencial del conocimiento científico experto.</p>
+         <p>
+            Para Luhmann, el mundo de la vida no posee un estatus ontológico independiente del observador. Siguiendo la premisa de que toda descripción de la sociedad es el resultado de una operación de observación realizada en la sociedad, este autor argumenta que no existe un sustrato que conecte las operaciones del sistema científico con las del resto de los sistemas de la sociedad. La codificación de las comunicaciones de acuerdo con el código verdad/no verdad es una construcción característica del sistema científico, cuya apropiación en otros sistemas depende de su código dominante (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://www.anthropos-editorial.com/DETALLE/LA-CIENCIA-DE-LA-SOCIEDAD-ATTCS-010">La ciencia de la sociedad</ext-link>
+            ). Si se quiere formular en referencia a Habermas, cada sistema funcional construye su propio mundo de la vida, esto es, un conjunto de suposiciones que da por sentado, las cuales no necesariamente corresponden a las presunciones de otros sistemas parciales. Si bien es posible presuponer que existe una continuidad entre la capacidad de participar en las comunicaciones científicas y la capacidad de participar en la comunicación de otros sistemas funcionales, especialmente en una sociedad que se describe como “sociedad del conocimiento” o “de la información”, esto no altera la diferenciación de la sociedad moderna. Las organizaciones incrementan las posibilidades mutuas de irritación, pero ellas no crean un mundo de la vida común a los diferentes sistemas parciales. Como resultado, la determinación del significado de las comunicaciones facilitadas por las organizaciones no depende de su contenido intrínseco u origen en las operaciones de un sistema funcional, sino de cómo ellas son integradas en la red histórica de comunicaciones de cada sistema observador. Esta dependencia de la observación no puede ser remediada, en tanto no existe un meta-lenguaje capaz de articular los horizontes característicos de los diferentes sistemas funcionales (N. Luhmann
+            <ext-link ext-link-type="uri" xlink:href="https://philpapers.org/rec/LUHEC">Ecological communication</ext-link>
+            ). Por ello se trata siempre de observación de las comunicaciones científicas, determinada por el código de cada sistema funcional, antes que una simple conversión de las comunicaciones de un ámbito a otro.
+         </p>
+         <p>
+            En contraste, en el caso de Habermas, es imposible comprender cómo la conversión de la experticia tiene lugar en su modelo pragmático formal, si no se parte de la premisa de que este proceso está mediado por el reconocimiento que se le dan a los enunciados en el mundo de la vida (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-conocimiento-e-interes/9788430611638/101654">Conocimiento e interés</ext-link>
+            ). La experticia, como todo enunciado acerca del mundo, depende de un dominio activo del lenguaje. Así, al igual que todo sujeto capaz de acción, la experticia debe hacer uso de dichos plexos semánticos para dirigirse a sus destinatarios de una manera que sea comprensible para ambos (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/abs/10.1080/00201747008601597">Towards a theory of communicative competence</ext-link>
+            ). Basándose en esto, desde el modelo pragmático formal se argumenta que la conversión de enunciados científicos en ámbitos no científicos, requiere transformar las competencias lingüísticas en competencias comunicativas. Por lo tanto, la pregunta sobre los orígenes de la confianza en la experticia científica no solo concierne al saber implícito que se constituye como capacidades, sino también a las condiciones de posibilidad para que esas capacidades puedan expresarse de manera correcta. Como ya hemos explorado, estas condiciones se conforman en el mundo de la vida.
+         </p>
+         <p>
+            Esta dependencia de la experticia del mundo de la vida ocurre en un doble sentido. Por una parte, los enunciados científicos son enunciados sociales que, como tales, no pueden comprenderse fuera de la reflexividad propia de los lenguajes naturales (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-teoria-de-la-accion-comunicativa-vol-ii/9788430603404/640551">Teoría de la acción comunicativa II</ext-link>
+            ). Por otra parte, su utilización en ámbitos no científicos depende de acuerdos moldeados por el debate en la esfera pública, cuya efectividad depende de la existencia del a priori argumentativo del mundo de la vida (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-conocimiento-e-interes/9788430611638/101654">Conocimiento e interés</ext-link>
+            ). Considerado lo anterior, el proceso de generación del conocimiento científico experto no puede ser entendido desde Habermas sino se toma en cuenta que sus contenidos referenciales están anclados a las estructuras normativas del mundo de la vida, las cuales se reproducen constantemente a través del lenguaje. La posibilidad de hacerles creer a sus destinatarios que sus enunciados son realmente factibles y que pueden ser tomados en cuenta como premisas de futuras acciones se basa, así, en la suposición de que sus conocimientos no son generados de manera independiente de las estructuras del mundo de la vida.
+         </p>
+         <p>
+            En este sentido, la transferibilidad de las verdades que propone la experticia depende del reconocimiento que sus enunciados tengan fuera de sus fronteras de las disciplinas científicas (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="https://www.casadellibro.com/libro-conocimiento-e-interes/9788430611638/101654">Conocimiento e interés</ext-link>
+            ) para “una participación de todos los afectados  […] a fin de que, en los temas precisos, todas las aportaciones relevantes encuentren su voz y los mejores argumentos para decidir” (
+            <xref ref-type="bibr" rid="B5">Habermas 2018</xref>
+            :277). Su validación está condicionada a que sus enunciados sean suficientemente convincentes en la discusión de la esfera pública. Dicha capacidad de convencimiento depende, a su vez, de que reflejen adecuadamente el saber pre-teórico del mundo de la vida, asegurando estructuras de deliberación sea porque sus verdades corresponden a interés prácticos o porque existen razones suficientes para confiar en ellas (J. Habermas
+            <ext-link ext-link-type="uri" xlink:href="http://www.trotta.es/libros/verdad-y-justificacion/9788481644975/">Verdad y justificación</ext-link>
+            ). Las diferencias entre ambos modelos se encuentran sintetizadas en el
+            <xref ref-type="table" rid="gt1">Cuadro 1</xref>
+            .
+         </p>
+         <p>
+            <table-wrap id="gt1">
+               <label>Cuadro 1</label>
+               <caption>
+                  <title>Cuadro 1. Los análisis del modelo sistémico funcional y el modelo pragmático formalsobre el conocimiento científico experto</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-65-00209-tab1.png" />
+               <table-wrap-foot>
+                  <fn id="TFN1">
+                     <p>Elaboración propia</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+         </p>
+      </sec>
+      <sec>
+         <title>Conclusiones</title>
+         <p>
+            Este artículo tuvo por objeto analizar los rendimientos de las teorías sociológicas de Luhmann y Habermas en relación con la experticia. La selección de estas teorías no fue casual: a pesar de que ninguna de las dos introduce una definición explícita de experticia, ambas aspiran a construir una teoría general de la sociedad, la que incluye como uno de sus objetos la posición del conocimiento científico en la sociedad moderna (P. Fuchs
+            <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/201883">The social organization of scientific knowledge</ext-link>
+            ). Con ello, estas aproximaciones se presentan como perspectivas capaces de superar la mera descripción de la vida en el laboratorio o el modo en que sus hallazgos son vistos por distintos actores y proponen, en su lugar, un análisis de los factores estructurales que median la utilización del conocimiento científico experto en la sociedad contemporánea. En breve, ellas ofrecen una conceptualización altamente elaborada de la posición de la experticia en la sociedad, a menudo ausente de las investigaciones en este ámbito.
+         </p>
+         <p>Como se ha visto, para Luhmann la relevancia social de la experticia está condicionada por la capacidad de convertibilidad de la comunicación científica en otros sistemas funcionales. En otros términos, su transferibilidad está restringida por la estructura del sistema observador. Por el contrario, para Habermas la convertibilidad del conocimiento científico depende de su debate racional en una esfera pública. Esta diferencia entre ambos autores crea una diferencia sustantiva en lo que refiere a la conceptualización del rol de la confianza en el conocimiento científico experto. Mientras que para Luhmann esta confianza es antes que nada una cuestión semántica, en Habermas ella expresa la posibilidad de una comunicación racional y, en última instancia, de una mejora de la sociedad mediante la promoción de debates públicos.</p>
+         <p>
+            Se considera que esta diferencia debe ser comprendida como expresión de una distinción más profunda en la construcción teórica de estos autores referida a la idea misma del mundo de la vida (O. Kranz
+            <ext-link ext-link-type="uri" xlink:href="https://www.springer.com/de/book/9783531164656">Interaktion und Organisationsberatung</ext-link>
+            ). Mientras que para Luhmann esta idea pierde relevancia analítica con la transición a una forma de diferenciación basada en funciones, cada uno con su específico horizonte de comunicaciones, Habermas basa su ideal de racionalidad en la capacidad intrínseca al conocimiento científico de reflejar este espacio común la cual depende, en última instancia, de acuerdo con este autor, en que ella también refleja la estructura común propia del lenguaje. Como resume Pignuoli, “Luhmann contrapuso su concepto de intersubjetividad a la concepción habermasiana de intersubjetividad como supuesto racional de la comunalidad consensual entre interactuantes capaces de habla y acción, pues dicho concepto, primero, retrotrae la discusión sobre la intersubjetividad a premisas pre-fenomenología trascendental en tanto asume que todo sentido objetivo es constituido intersubjetivamente; segundo, es incompleto porque excluye el concepto a la divergencia; tercero, plantea un dualismo entre interacción y sistema” (
+            <xref ref-type="bibr" rid="B7">Pignuoli 2013</xref>
+            :130).
+         </p>
+         <p>
+            Como se argumentó en las primeras secciones de este artículo, la diferencia entre ambas conceptualizaciones tiene profundas consecuencias en la posibilidad de entender teóricamente la experticia. El debate entre ambas perspectivas marca, aún hoy en día, si acaso la conversión del conocimiento científico experto en un insumo relevante para la toma de decisiones en ámbitos no académicos, se concibe como un proceso de conversión complejo fundado en interpretaciones de comunicaciones científicas, como en el modelo sistémico funcional de Luhmann, o como un proceso lineal basado en una característica del mundo, como en el modelo pragmático formal de Habermas. Considerando la importancia asignada a este proceso en una sociedad que se autodescribe como “sociedad del conocimiento” (J. Steinbicker
+            <ext-link ext-link-type="uri" xlink:href="https://www.springer.com/de/book/9783531180540">Zur Theorie der Informationsgesellschaft</ext-link>
+            ), la comprensión de las presuposiciones conceptuales detrás de cada perspectiva es sumamente relevante, en tanto facilita la formulación de marcos analíticos adecuados para la interpretación de las dinámicas del uso del conocimiento científico experto en los campos de estudios sobre los cuales se deben tomar decisiones políticas riesgosas para la sociedad como, por ejemplo, el medio ambiente, la salud, la educación o el uso de las tecnologías. En tanto ambos enfoques proponen una conceptualización del conocimiento científico experto en el marco de una teoría sociológica general, ellos permiten estudiar desde distintas perspectivas las tensiones que se generan entre la experticia científica y la política pública cuándo ésta última debe enfrentarse a contextos de incertidumbre, en que los peligros están siempre latentes, como cuando se debe tomar decisiones en materias socialmente relevantes.
+         </p>
+         <p>
+            Al mismo tiempo, esta investigación abre también diversas líneas para futuros estudios. En primer lugar, resultaría interesante para futuras investigaciones contrastar los modelos sistémico funcional y enfoques para analizar en qué condiciones se espera, por parte de la política, que los científicos usen su experticia para lidiar con la incertidumbre. Este objetivo adquiere relevancia si se considera que el éxito de las experticia es visto hoy como contingente y que las decepciones de la sociedad al respecto son mayores (O. Renn; D. Levine
+            <ext-link ext-link-type="uri" xlink:href="https://www.springer.com/us/book/9780792306016">Credibility and trust in risk communication</ext-link>
+            ).
+         </p>
+         <p>En segundo lugar, en una línea similar, puede ser relevante analizar hasta qué punto las decisiones basadas en la experticia pueden efectivamente resolver conflictos, en particular si se toma en cuenta que, al menos discursivamente, la política requiere confiar cada vez más en políticas de asesoramiento científico que sean conceptualmente consistentes para poder asegurar su correcta calidad institucional. Considerando la diferencia entre los enfoques de Habermas y Luhmann, este punto es central, en tanto en la perspectiva del primero se presupone una capacidad relativamente clara de la experticia para generar consensos, mientras en el abordaje del segundo, este saber puede resultar de forma mucho más frecuente en conflictos.</p>
+         <p>Por último, desde una mirada centrada en las organizaciones, resultaría atractivo estudiar cuáles son las tensiones que se generan desde las universidades que albergan centros de investigación y cómo se realizan los procesos de toma de decisiones en estas instituciones, considerando simultáneamente variables prácticas y teóricas. Si se espera que la actividad científica produzca conocimiento robusto para múltiples actores, cada uno de ellos aportando distintas habilidades y experiencias en el proceso de resolución de problemas, entonces habría que ver cómo estos propósitos se ponen en tensión con los diseños institucionales propios de sus universidades que supuestamente las orientan hacia la generación y transferencia de conocimientos.</p>
+         <p>
+            En resumen, el análisis desarrollado en estas páginas puede servir no solo para marcar diferencias entre el modelo sistémico funcional y el modelo pragmático formal, sino para resaltar cómo las posibilidades atribuidas al conocimiento científico experto dependen de los supuestos de la teoría utilizada en su descripción y determinar cuál de ellas es más pertinente en la investigación de qué contextos sociales. En este sentido, la explicitación de los supuestos de cada aproximación sirve para clarificar sus implicancias en una sociedad cada día más compleja (E. Esposito
+            <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/abs/10.1177/0725513617740966">Critique without crisis</ext-link>
+            ). Esta forma de reflexión es central en una sociedad que parece depender de la transferencia de experticia, en tanto permite considerar cuáles son los supuestos de la confianza pública en el conocimiento y, en el caso de no ser ellos ajustados a la realidad, problematizar su real capacidad analítica.
+         </p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Edwards, A.(1999). "Scientific expertise and policy-making: the intermediary role of the public sphere".
+               <italic>Science and Public Policy . 26</italic>
+               (3), 163-170. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3152/147154399781782473">https://doi.org/10.3152/147154399781782473</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Edwards</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <article-title>Scientific expertise and policy-making: the intermediary role of the public sphere</article-title>
+               <source>Science and Public Policy</source>
+               <volume>26</volume>
+               <issue>3</issue>
+               <fpage>163</fpage>
+               <lpage>170</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3152/147154399781782473">https://doi.org/10.3152/147154399781782473"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Haack, S.(2001). "Viejo y nuevo pragmatismo".
+               <italic>Diánoia. 46</italic>
+               (47), 21-59. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21898/dia.v46i47.462">https://doi.org/10.21898/dia.v46i47.462</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Haack</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Viejo y nuevo pragmatismo</article-title>
+               <source>Diánoia</source>
+               <volume>46</volume>
+               <issue>47</issue>
+               <fpage>21</fpage>
+               <lpage>59</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21898/dia.v46i47.462">https://doi.org/10.21898/dia.v46i47.462"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Habermas, J.,  (1990).
+               <italic>Conocimiento e interés</italic>
+               .  Madrid: Taurus
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Habermas</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>Conocimiento e interés</source>
+               <publisher-name>Taurus</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Habermas, J.,  (2010).
+               <italic>Ciencia y técnica como ideología</italic>
+               .  Madrid: Tecnos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Habermas</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Ciencia y técnica como ideología</source>
+               <publisher-name>Tecnos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Habermas, J.,  (2018).
+               <italic>Verdad y justificación</italic>
+               .  Madrid: Trotta
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Habermas</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Verdad y justificación</source>
+               <publisher-name>Trotta</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Luhmann, N.,  (1996).
+               <italic>La ciencia de la sociedad</italic>
+               .  México D.F.: Universidad Iberoamericana
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Luhmann</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>La ciencia de la sociedad</source>
+               <publisher-name>Universidad Iberoamericana</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Pignuoli, S.(2013). "El concepto de intersubjetividad de Niklas Luhmann".
+               <italic>Persona y Sociedad. 27</italic>
+               (3), 125-148. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://personaysociedad.uahurtado.cl/index.php/ps/article/view/52">https://personaysociedad.uahurtado.cl/index.php/ps/article/view/52</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pignuoli</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>El concepto de intersubjetividad de Niklas Luhmann</article-title>
+               <source>Persona y Sociedad</source>
+               <volume>27</volume>
+               <issue>3</issue>
+               <fpage>125</fpage>
+               <lpage>148</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://personaysociedad.uahurtado.cl/index.php/ps/article/view/52">https://personaysociedad.uahurtado.cl/index.php/ps/article/view/52"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

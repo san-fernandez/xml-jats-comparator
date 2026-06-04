@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.6" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000200211</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La paradoja de la negación en la intervención social</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>The paradox of denial in social intervention</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Saavedra</surname>
+						<given-names>Juan</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Departamento Ciencias Sociales, Universidad del Bío-Bío, Concepción, Chile. ORCID: 0000-0002-9188-8126. Correo: jsaavedr@ubiobio.cl </institution>
+					<institution content-type="normalized">Universidad del Bío-Bío</institution>
+					<institution content-type="orgdiv1">Departamento Ciencias Sociales</institution>
+					<institution content-type="orgname">Universidad del Bío-Bío, Concepción</institution>
+					<country country="CL">Chile</country>
+					<email>jsaavedr@ubiobio.cl</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<season>Apr-Sep</season>
+				<year>2017</year>
+			</pub-date>
+			<issue>59</issue>
+			<fpage>211</fpage>
+			<lpage>220</lpage>
+			<history>
+				<date date-type="received">
+					<day>17</day>
+					<month>02</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>04</day>
+					<month>04</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>El potencial heurístico de las paradojas en las ciencias sociales es examinado a propósito de una discusión epistemológica en el trabajo social. Atribuir el objeto del trabajo social a situaciones de brecha (problemas y necesidades sociales) y a sistemas de relación-interacción no resuelven la cuestión de la delimitación disciplinaria. Es por eso que se propone que el objeto del trabajo social resida en la intervención social, pero en una formula paradójica, por la cual, al mismo tiempo de reconocer en la intervención su objeto, el trabajo social niegue su clausura y exclusividad. La paradoja contribuye con una nueva perspectiva para resolver el asunto del trabajo social, pues amplia el foco de la intervención a un fenómeno social complejo y extenso, más allá de la actuación de una profesión, asistiendo de paso a visibilizar la heurística de las paradojas en el campo de las ciencias sociales.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>The heuristic potential of paradoxes in the field of social sciences can be analysed in relation with an epistemological discussion in social work. Its disciplinary delimitation is not solved assigning the object of study of social work to gap situations (social problems and needs) and to relation-interaction systems. This is one of the reasons to propose that the object of study of social work resides in social intervention but in a paradoxical way: at the same time in which recognizes the intervention as the object of study, it denies its borders and exclusivity. The paradox contributes with a new point of view to solve the issue of social work, because it broadens the intervention scope to a wide and complex social phenomenon, going beyond the professional performance and giving a chance to make visible the heuristic of paradoxes in the field of social sciences.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>paradox</kwd>
+				<kwd>heuristic</kwd>
+				<kwd>social work</kwd>
+				<kwd>discipline</kwd>
+				<kwd>social intervention</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>paradoja</kwd>
+				<kwd>heurística</kwd>
+				<kwd>trabajo social</kwd>
+				<kwd>disciplina</kwd>
+				<kwd>intervención social</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="12"/>
+				<page-count count="10"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>En diferentes áreas del conocimiento se utilizan paradojas para expresar supuestas contradicciones, desde la filosofía hasta la física cuántica. El vocativo “paradoja” proviene del griego παράδοξος, que quiere decir contra (para) opinión (doxa). La paradoja denota una figura del pensamiento utilizada para revelar razonamientos que están en aparente discordancia, como también puede ser entendida como una contradicción susceptible de ser demostrada. No es reducible a una figura retórica del idioma, sino más bien configura un desafío a las formas de construcción del conocer, en tanto “la paradoja no es pues un argumento a dilucidar o un problema a esclarecer, sino una perplejidad que incomoda a la lógica y a la ciencia occidental” (<xref ref-type="bibr" rid="B12">Vásquez 2014</xref>:53).</p>
+			<p>Las paradojas son herencia de la filosofía clásica griega, presentes en el pensamiento de Epiménides, Zenón de Elea y Platón. Han llegado hasta la actualidad en relatos tales como la <italic>paradoja del mentiroso</italic> de Ebulides (siglo IV A.C.), la cual plantea la conocida contradicción de un sujeto que dice mentir (¿lo que afirma es verdadero o falso?). El abordaje filosófico del cristianismo también recurre a la figura de las paradojas, presente en el pensamiento de los canonizados Agustín de Hipona y Tomás de Aquino, y que siglos más tarde se expresará en la filosofía de Sorem Kierkegaard bajo la forma de la <italic>paradoja absoluta</italic>. En la década de 1920 Frank P. Ramsey distingue entre las paradojas semánticas y matemáticas; entre las últimas encontramos varios ejemplos como las paradojas propuestas por C. Burali-Forti, G. Cantor, G. Frege y B. Rusell. Respecto de este último autor, sus paradojas son claves para las matemáticas modernas, en tanto versan sobre la contradicción de la teoría de conjuntos de Cantor y Frege, argumentando para ello sobre el problema de los conjuntos que son partes de sí mismos.</p>
+			<p>Particularmente, más allá de sus consideraciones lógicas como gramaticales, las paradojas en las ciencias sociales encadenan la circulación de preguntas y hallazgos en torno a asuntos idóneos de controversia. El razonamiento paradójico es parte de las estrategias de expansión del saber que es utilizada en diversas líneas de pensamiento, como se desprende de lecturas de autores en diversos enfoques epistemológicos, como por ejemplo Walter Benjamin, Niklas Luhmann, Pierre Bourdieu, entre otros.</p>
+			<p>La pregunta que guía esta presentación es el alcance del potencial heurístico de la paradoja en ciencias sociales. Para ello, se enfocará la composición heurística en un tópico que particularmente se problematiza en el trabajo social, que es la cuestión de su objeto. Para esto se desarrollan dos ideas concatenadas. La primera es que, en el debate actual sobre el objeto del trabajo social, la intervención emergería como una mejor respuesta, con suficiente densidad conceptual para asentar sobre ella un marco analítico plausible para la proyección disciplinaria contemporánea. La segunda, es que no resulta satisfactoria la idea de clausurar la intervención social exclusivamente en el campo del trabajo social, en función a la extensa evidencia de la relevancia temática de la intervención, tanto en otros campos de las ciencias sociales, como de otras disciplinas (educación, salud, entre otras.) Para este efecto, se revisaron diversas referencias bibliográficas y publicaciones indexadas para construir un hilo argumental que, en lo general, demuestra la utilidad heurística de este recurso, proponiendo una paradoja para resolver el problema del objeto del trabajo social: si la intervención es su objeto, no puede sino negar su propiedad para poder expandirse como disciplina.</p>
+			<p>Finalmente, la pregunta que buscamos responder es si es posible dinamizar ciertas discusiones epistemológicas en las ciencias sociales por medio de la paradoja. Si esta induce el descubrimiento a través de la contradicción, también puede aportar a develar aristas en algunas discusiones epistemológicas en torno a la naturaleza y objeto de las disciplinas de las ciencias sociales.</p>
+		</sec>
+		<sec>
+			<title>Apuntes del debate sobre el objeto del trabajo social</title>
+			<p>La pregunta sobre el objeto del trabajo social no es un problema trivial, pues el reconocimiento de su estatus de disciplina de las ciencias sociales ha sido puesto en tela de juicio en variadas oportunidades. Dichos pretextos son ordenados y también acertadamente rebatidos por Farías (en su artículo <italic>El trabajo social y los campos disciplinarios de las ciencias sociales en Chile</italic>, publicado en Cinta de Moebio 43), en tanto se trataría de una profesión orientada a la transformación, que carecería de la necesaria especificidad y que el trabajo social es omitido en ciertas definiciones operacionales sobre las ciencias sociales o de algunas taxonomías de organismos internacionales (UNESCO-ISCED). También es necesario consignar que parte de esta comunidad disciplinaria abortó aquel debate epistemológico, cuando en los aciagos tiempos de la dictadura, el trabajo social se ve enfrentado a “un escenario adverso que le demanda como desafío central cautelar su propia supervivencia” (<xref ref-type="bibr" rid="B2">Castañeda y Salamé 2012</xref>:29). Las distintas revisiones históricas coinciden en señalar que durante la década de 1970 se asentó la impronta tecnológica en el trabajo social que se proyecta incluso hasta nuestros días, pero que paulatinamente expresa la recepción de nuevos enfoques epistémicos a partir de la insostenibilidad histórica y conceptual del positivismo subyacente. Este debate entre las posiciones inscritas en el positivismo y las aperturas a enfoques post-convencionales está vigente en actualidad. Así por ejemplo en un reciente artículo, R. Caputo (<italic>Postmodernism: a dead end in social work epistemology</italic>, publicado en Journal of Social Work Education 51) defiende la primacía del positivismo frente a lo que denomina como posiciones posmodernistas, mencionando entre sus representantes a M. Foucault, F. Lyotard, F. Jamerson, entre otros. Para Caputo, la mirada posmodernista constituiría un retroceso en la capacidad del trabajo social para producir conocimiento válido, generando en su reemplazo una serie de <italic>anécdotas idiosincrásicas</italic> carentes de objetividad y rigor científico. Al contrario de esta opinión, la evidencia indica que la diversidad epistemológica potencia la revisión del objeto, métodos y preguntas fundamentales en la comunidad disciplinaria del trabajo social. En este mismo tenor, en opinión de J. Anastas, los enfoques contemporáneos -entre ellos realismo y pragmatismo- brindan al trabajo social referencias epistemológicas compatibles para la investigación de la práctica y la progresión de su cúmulo de conocimiento. La pluralidad epistemológica es crecientemente valorada en el trabajo social (como postula H. Göppner en <italic>Epistemological issues of social work science as a translational action science</italic> publicado en Research on Social Work Practice 22), desde la cual se sustenta la producción de tensión dialógica entre la generación de conocimiento y la transformación (según Muñoz y Vargas en <italic>A propósito de las tendencias epistemológicas de trabajo social en el contexto latinoamericano</italic>, Revista Katalysis 16). Conjuntamente, los distintos debates epistemológicos en el trabajo social -entre los que se encuentra la cuestión del objeto- propician el diálogo interdisciplinar con otros campos de las ciencias sociales y las humanidades (como se puede ver en G. Muñoz <italic>Contrapuntos epistemológicos para intervenir lo social</italic>, publicado en Cinta de Moebio 40).</p>
+			<p>Una forma de ordenar las posiciones es atendiendo a sus énfasis o focos, en donde en una primera mirada, el objeto del trabajo social podría residir en <italic>situaciones de brechas y sus consecuencias</italic>. Emergen acá dos conceptos relacionados: problemas sociales y necesidades. Un problema social refiere a situaciones consideradas como no deseables o peligrosas para la sociedad en contextos históricos y políticos determinados, cuya valoración es dinámica respecto a sus causas y soluciones. La dinamicidad de aquello que se entiende por problema social se manifiesta en imágenes tales como la publicidad de médicos recomendando marcas de cigarrillos en la década de 1940 o la discutida redacción original del Art. 233 del código civil chileno de 1855, el cual facultaba al padre a castigar moderadamente al hijo e incluso confinarlo a un establecimiento correccional. La idea del problema social tiene extenso y diverso abordaje en la historia, tal como lo advierte López-Aranguren en su libro <italic>Problemas sociales: desigualdad, pobreza, exclusión social</italic>. Para el autor, es relevante comprender los mecanismos por los cuales algunos fenómenos sociales son percibidos como problema, como también abordar el papel que juegan actores e instituciones en su definición. A la base de los problemas sociales se encuentran matrices de conceptos que ordenan la aproximación a tales fenómenos, de modo tal que operan como pares interpretativos las nociones de pobreza-carencia, exclusión-ruptura y vulnerabilidad-riesgo. Otras posiciones próximas al marxismo critican las respuestas del capitalismo avanzado acerca de la cuestión social, en tanto se invisibilizan los problemas estructurales y donde “la superación de la pobreza sería alcanzada, en los postulados post-modernos, mediante procesos de transformación subjetivos, internos, comportamentales” (<xref ref-type="bibr" rid="B9">Montaño 2016</xref>:84).</p>
+			<p>Sobre este asunto, son numerosas las aportaciones que refieren a la relación objetual del trabajo social con los problemas sociales. Por ejemplo, G. Smale, G. Tuson y D. Statham en su libro <italic>Problemas sociales y trabajo social</italic> identifican la centralidad del problema social en el trabajo social, atendiendo que son aquellos que por su naturaleza no pueden ser resueltos por los individuos o sus redes. Por su parte, R. Lizana (<italic>Desigualdad social y trabajo social</italic>, en Perspectivas 18) da cuenta de la contribución del trabajo social en el tratamiento conceptual de la desigualdad. T. Reininger (<italic>Conditional cash transfers</italic>, en International Social Work), en un análisis de distintos programas latinoamericanos de transferencias condicionadas, observa que la mera aplicación tecnológica de programas sociales enfocados en la pobreza resulta insuficiente, proponiendo en cambio enfoques críticos para aproximarse a este fenómeno.</p>
+			<p>Es frente a la pobreza donde principalmente se expresan las referencias a la noción de necesidades, que surge como segundo concepto asociado a las definiciones sobre el objeto del trabajo social atendiendo al asunto de las brechas. De modo de síntesis, la idea de las necesidades aparece en la filosofía aristotélica, y que es posteriormente tomada por autores de la economía clásica (William Morris y Jonh Stuart Mill, entre otros). En esta panorámica es necesario destacar los aportes teóricos de la psicología de Abraham Maslow sobre una estructura o pirámide secuencial de necesidades, obra publicada en la década de 1940, pero que sostenidamente ha sido rebatida en los últimos años. Entre estas críticas, en los años ochenta Max-Neef, Elizalde y Hopenhayn (<italic>Desarrollo a escala humana</italic>) proponen una perspectiva sobre las necesidades que ha impactado en este campo conceptual, al vincular las necesidades (finitas) con los satisfactores (múltiples y culturalmente determinados). La figura supone que (a) las necesidades humanas son finitas, pocas y clasificables y (b) que las necesidades humanas son cultural e históricamente idénticas, pero “lo que cambia a través del tiempo y las culturas, es la manera o los medios utilizados para la satisfacción de las necesidades” (<xref ref-type="bibr" rid="B8">Max-Neef, Elizalde y Hopenhayn 2010</xref>:17).</p>
+			<p>En el trabajo social existen opiniones en torno a la centralidad de la noción de necesidades básicas. En estas encontramos por ejemplo a T. Fernández y L. Ponce de León, quienes indican que el objeto del trabajo social reside en estudiar las necesidades de las personas “que afectan directa o indirectamente y con carácter universal al conjunto de los ciudadanos, y que tienen una vinculación íntima con la calidad de vida y el bienestar” (2014:29). Por su parte, A. Mota (<italic>Assistência social em debate: direito ou assistencialização?</italic>), desde una perspectiva crítica, señala que el trabajo social conoce e interviene en las necesidades que surgen como trastornos resultantes e inherentes al avance del capitalismo. M.J. Aguilar, en su libro <italic>Trabajo Social. Concepto y metodología</italic>, señala que el trabajo social tiene como objeto genérico la respuesta a las necesidades, indicando que para la intervención profesional el objeto se sitúa tradicionalmente entre necesidad y satisfacción. La misma autora realiza una revisión de la trayectoria histórica del objeto del trabajo social, centrada tanto en los problemas y las necesidades -que incluye referencias habituales de manuales de formación tales como los publicados por Nidia Aylwin y María José Escartín. Su conclusión es interesante, pues devela que esa alternativa configura un verdadero <italic>callejón sin salida</italic> para abordar el objeto del trabajo social.</p>
+			<p>Siguiendo esta última línea, surge entonces una segunda categoría para ordenar posiciones sobre el asunto del trabajo social, mirada que se diferencia de las situaciones de brechas. Esta forma de delimitar el objeto del trabajo social está referida a los sistemas de <italic>interacción y relación</italic> en los que opera. En esta, los énfasis de la construcción del conocimiento disciplinar se relacionan más bien con las interacciones que existen tanto entre los diversos sujetos que se vinculan en una determinada situación, como también en su conexión con otras entidades u organismos. Juegan en esta posición contribuciones teóricas provenientes de enfoques diversos tales como el interaccionismo simbólico, las teorías de sistemas sociales y en particular los aportes de Urie Bronfenbrenner sobre ambientes sociales (ecosistémico). Centrar la atención en lo relacional no omite el problema social, sino lo ubica en una condición de estructura, que es bien acotada por N. Aylwin y O. Solar en su libro <italic>Trabajo Social Familiar</italic>. Esto último a propósito de las especificidades de actuación del trabajo social, cuando se presentan dificultades en la relación entre las familias, las instituciones y su medio.</p>
+			<p>En esta versión del objeto disciplinario, las contribuciones resultan variadas. Para M.J. Aguilar el objeto disciplinario específico está radicado en el sistema de relaciones y las propias relaciones del sistema, aludiendo esta autora a la resignificación del principio del <italic>individuo-en- situación</italic> propuesto por S. Bowers en la década de 1950. Por su parte, J. Watts (<italic>Exploring the “social” of social work in palliative care</italic>, en Illness, Crisis &amp; Loss 21), señala que para entender el objeto social de la disciplina es necesario centrarse en la interacción entre individuos, comunidades y el Estado. Desde una óptica más amplia, L. González (<italic>Arte, adolescencia y trabajo social</italic>, en Cuadernos de Trabajo Social 29) señala que la propia naturaleza teórico-práctica del trabajo social ofrece situaciones psicosociales que pueden constituirse como sus objetos. En forma de síntesis de esta argumentación, la relación del objeto disciplinario del trabajo social se amalgama en la idea de que “las necesidades, problemáticas y demandas sociales dan contenido y justificación a dicho trabajo social y por ello constituyen su objeto de estudio” (<xref ref-type="bibr" rid="B3">Evangelista 2009</xref>:10).</p>
+			<p>Con todo, los criterios antes expuestos presentan debilidades para sostener argumentativamente el asunto del objeto disciplinario. El criterio de las situaciones de brechas como la pobreza, exclusión y vulnerabilidad no resuelve la cuestión de la delimitación disciplinaria del trabajo social. En primer lugar, porque la generalidad de las disciplinas sociales configura parte importante de su producción científica en torno al estudio de los problemas y las necesidades sociales, ya que desde sus orígenes “éstas han tenido como intencionalidad contribuir al desarrollo, reorganización y/o transformación de la sociedad” (<xref ref-type="bibr" rid="B5">Farías 2012</xref>:56). En segundo término y relacionado con lo anterior, ni siquiera es sostenible una apropiación relativa de objeto en torno a la cuestión de brechas a favor del trabajo social, por cuanto existen desarrollos específicos que configuran tradiciones teóricas y metodológicas que son vastamente conocidas en el ámbito académico. Existen así sociología de la pobreza (G. Simmel, P. Bordieu, P. Townsend), economía de la pobreza (A. Sen, R. Prebisch, Mahbub ul Haq) y antropología de la pobreza (O. Lewis, R. Redfield), entre otras. Esto también se puede observar en conceptos como el par exclusión-inclusión, utilizado extensamente en las últimas décadas en la elaboración de programas de intervención agenciados por profesionales del trabajo social. Basta recordar que la idea de la exclusión tiene su origen en la política pública francesa de la década de 1970, que requería diferenciar la pobreza de ingresos respecto de un conjunto de situaciones de desventaja que no son comprendidas desde la carencia. Un tercer aspecto, vinculado específicamente a las necesidades, da cuenta que la producción teórica se sostiene desde fuera del trabajo social, convirtiéndola por tanto en una elaboración exógena a la pretensión disciplinaria. En este último punto, el problema de las necesidades es interés principalmente de la economía y de una parte importante de la psicología humanista.</p>
+			<p>En la identificación del objeto disciplinario del trabajo social, el criterio interaccional-relacional resulta inicialmente consistente, pues se imbrica con el ejercicio directo del trabajo social con sujetos individuales y colectivos, constituyendo un carácter profesional reconocible. Sin embargo, tampoco permite la delimitación respecto de otros campos de las ciencias sociales en donde la cuestión sobre la interacción también cuenta con desarrollos en disciplinas afines al trabajo social como la psicología, la psicología social y la sociología (Herbert Blummer, George Simmer, Erving Goffman, entre otros).</p>
+			<p>En síntesis, las formulas expuestas no resultan satisfactorias para responder a la pregunta sobre el objeto del trabajo social. Es por esto que opinamos que la búsqueda debe volverse hacia la identidad de esta disciplina, marcada por el concepto de la intervención social.</p>
+		</sec>
+		<sec>
+			<title>Intervención social ¿objeto del trabajo social? Una respuesta paradojal</title>
+			<p>La relación entre trabajo social e intervención social es histórica, fundacional e identitaria, tanto en sentido de pertenencia como de reconocimiento desde otros campos. Es así que el concepto de intervención es parte del diálogo interdisciplinar entre antropología y trabajo social, a propósito de los procesos de transformación sociocultural. Para otros autores como Álvarez y Parra (<italic>The Bitter Cry</italic>, en Cuadernos de Trabajo Social 27), la intervención permite la distinción entre el trabajo social y la sociología. También la intervención social es reconocida como sello de identidad del trabajo social en su participación en ámbitos específicos de las políticas de salud, educación y vivienda.</p>
+			<p>Varios son los autores que proponen ubicar a la intervención social como objeto del trabajo social. M. Bueno (<italic>La intervención profesional como objeto de conocimiento del trabajo social</italic>), S. Galeana y N. Tello (<italic>Fragilidad y debilidad del discurso en trabajo social</italic>), señalan que la intervención social es el objeto de estudio del trabajo social, en tanto N. Muñoz y P. Vargas (<italic>A propósito de las tendencias epistemológicas de trabajo social</italic>) proponen que la intervención representa el eje sustancial del trabajo social. P. Castañeda y A. Salamé (<italic>Profesionalidad del trabajo social chileno</italic>) adscriben a esta posición desde la definición de la profesión centrada en la intervención social. Para E. Raya y N. Caparrós el objeto de estudio del trabajo social “se centra principalmente en dotar de conocimiento a la intervención social” (2014:174). La relación entre intervención y trabajo social es de antigua data, constituyendo parte de la identidad de esta comunidad disciplinaria, como también en su relación con otros campos del conocimiento. En general, la amplitud de la intervención da cuenta de un fenómeno complejo, que supera la actividad profesional del trabajo social y sobre lo cual, la reflexión epistemológica implica abordajes sociohistóricos que incorporen los aportes de distintos campos en su conceptualización.</p>
+			<p>En la intervención social coexisten diversas posiciones en torno a su naturaleza y concepto. Estas abarcan un espectro teórico que incluye su definición como un hacer práctico hasta las posiciones centradas en su carácter discursivo. Entre las primeras, que remarcan su carácter de acción, encontramos la propuesta por F. Fantova, para quien la intervención social “es una actividad que se realiza de manera formal u organizada, intentando responder a necesidades sociales y, específicamente, incidir significativamente en la interacción de las personas, aspirando a una legitimación pública o social” (2007:183). Desde otro lugar epistemológico se registra la posición de A. Carballeda, que define intervención en lo social como “un conjunto de dispositivos de asistencia y de seguros en función de mantener el orden o la cohesión de lo que denominamos sociedad” (2007:91). En concordancia con Teresa Matus, la aproximación conceptual a la intervención requiere además de una interpretación compleja, que permita superar tanto el sustrato positivista y la impronta empirista en que fueron concebidos los propósitos originales de actuación profesional del trabajo social.</p>
+			<p>La relación histórica e identitaria entre trabajo social e intervención social puede llevar a pensar que sería suficiente para sostenerla argumentativamente en la cuestión del asunto disciplinario. Sin embargo, cuando el debate sobre la intervención se endogeniza en el trabajo social (la imagen de la intervención profesional del trabajo social), se presentan algunas trabas conceptuales que pueden frustrar la atribución de cualidad de objeto disciplinario. En primer lugar, esto se produce cuando la intervención es equiparada con términos como ejecución o implementación. En esto, la tradición positivista del trabajo social escindió metodológicamente los momentos del conocer (diagnóstico) del actuar (ejecución), produciendo confusión entre intervenir y ejecutar, mirada que replica no solo el esquema original de la planificación normativa, sino también la distinción abismal entre ciencia básica y aplicación tecnológica.</p>
+			<p>Un segundo problema se presenta cuando se asimila intervención social con práctica. Ciertamente la práctica constituye un elemento central en el trabajo social y de su producción de conocimiento, en un proceso sostenido en la historia tanto por la formación académica como por la extensión del ejercicio profesional en diversos ámbitos de la vida humana. La práctica está “provista de fortalezas ganadas por un carácter pragmático y un gran espectro de áreas de acción” (<xref ref-type="bibr" rid="B10">Ortega 2015</xref>:280). Sin embargo, es necesario observar que su conceptualización responde a formas de conocimiento experiencial conservadas y trasmitidas dentro del conjunto de practicantes profesionales del trabajo social, difiriendo de lo que los autores revisados entienden por intervención. Más aun, en un plano de rigor teórico, tampoco resulta factible asimilar conceptualmente intervención con praxis, locución de mayor complejidad (un hacer reflexivo), atendiendo a los usos distintos del término en enfoques como el marxismo o el pragmatismo.</p>
+			<p>El tercer aspecto problemático se confirma cuando el trabajo social no es el único campo de las ciencias sociales que desarrolla conceptos y métodos de intervención social. La referencia endógena de la intervención en el trabajo social se enfrenta a la misma dificultad que se expresó anteriormente, a propósito de fijar el objeto en las cuestiones de brecha y de sistemas de relación-interacción. Algunos autores como E. Ander Egg y F. Fontova, erradamente, ubican la génesis conceptual de la intervención social en aportes del campo de la psicología social durante la década de 1980, existiendo por contrario, evidencias del uso del término intervención en textos especializados del trabajo social latinoamericano en décadas anteriores (Ej. serie de revistas <italic>Servicio Social,</italic> publicadas en Chile entre 1927 y 1969, como la <italic>Revista Trabajo Social PUC</italic> desde 1970 a la fecha). Si bien aquello configura un equívoco subsanable, no es menos cierto que en distintos campos de las ciencias sociales se investiga y publica extensamente sobre intervención social. A modo ilustrativo, Marisela Montenegro desarrolla un entramado conceptual y metodológico de la intervención desde la psicología social, que en una de sus últimas publicaciones aborda tensiones en la intervención y la participación (<italic>La psicología social comunitaria ante los cambios en la sociedad contemporánea</italic>, en Psicoperspectivas 13). En el campo de la sociología, Alain Touraine propone en los años setenta la noción de intervención sociológica, enfoque orientado al compromiso de esta disciplina con los movimientos sociales. Esta postura de Touraine genera algunas controversias en la sociología al momento de diferenciar entre la ciencia y la acción, tal como expresa A. Wieviorka (<italic>Sociology’s interventions</italic>, en Current Sociology Monograph 62). Otras corrientes de la sociología, como aquella tributaria del constructivismo sistémico, también refieren a la intervención, aun cuando “en rigor, en un contexto de sistemas sociales operativamente clausurados ninguna intervención es realmente posible” (<xref ref-type="bibr" rid="B7">Mascareño 2011</xref>:3).</p>
+			<p>A pesar de lo anterior, afirmamos que la intervención social es sustantivamente el campo conceptual que mejor se adecúa tanto al propósito de transformación que subyace al trabajo social como al conocimiento disciplinario susceptible de producir, considerando además lógicas transdisciplinarias en las ciencias sociales contemporáneas. Una conceptualización compleja de la intervención social nos enfrenta a dificultades para su consideración como objeto del trabajo social, pero, afirmaremos que parte de la respuesta de estos problemas implicará conciliar una perspectiva distinta de observación. Esta implica comprender que la intervención social no trata de la actuación de una profesión o práctica en particular, sino que refiere ampliamente al modo en que se construyen los ajustes y normalización en la sociedad, cuyas implicancias se configuran en escalas históricas.</p>
+			<p>Desde este marco de comprensión, la intervención social es un fenómeno que supera los límites del quehacer del trabajo social, apelando más bien a una función de regulación de la sociedad en torno a un conjunto de discursos constitutivos de lo <italic>social deseable</italic>, configurado históricamente desde distintos dispositivos de ejercicio del poder. En otras palabras, existe un conjunto de saberes y prácticas desde donde es reconocible la intervención, tales como la psiquiatría, la educación, la psicología social, el urbanismo, algunas variantes de la sociología y, por supuesto, el trabajo social. Esta suerte de <italic>apertura del diafragma</italic> en la observación del fenómeno de la intervención social tiene, por cierto, consecuencias para la forma en que se conciben los programas de investigación del trabajo social, como también en sus tematizaciones, estrategias y formas de producir conocimiento. Así para J. Jenson (<italic>Science, social work, and intervention research</italic>, en Research on Social Work Practice 24), la investigación del trabajo social debe extenderse a otras profesiones que realizan intervención social, como por ejemplo aquellas del ámbito de la salud y la psicología. La consideración de la intervención como dispositivo discursivo supone además que la investigación problematiza sobre temas asociados a lo normal y la forma en que la sociedad estandariza o regula la vida de la población. Es importante considerar a la intervención social en la episteme moderna, en la cual coordenadas como liberalismo y capitalismo se relacionan con las formas de producción del discurso. De este modo, en cuanto discurso, la intervención social captura, diagnostica, trata y regula la cuestión social producida en las sociedades modernas.</p>
+			<p>Cuando el trabajo social se sustrae de las ataduras del endogenismo en que sostiene parte de su producción de conocimiento, se posibilita la constitución legitimada de un campo disciplinario de las ciencias sociales que observa la intervención en la sociedad. Por cierto, es importante medir la efectividad procedimental de planes y programas sociales, atendiendo también a la buena recepción que los enfoques de prácticas basadas en evidencia (<italic>evidence based practice</italic>, EBP) han tenido en círculos académicos del trabajo social en los últimos años. Sin embargo, la clausura de la observación del trabajo social a sus mecanismos de actuación profesional conlleva un sinsentido, pues establece un límite a priori sobre las posibilidades de producir conocimiento. Sin negación de la intervención, el trabajo social no puede observar disciplinariamente los procesos en que la sociedad produce su regularidad, los discursos subyacentes y sus prácticas resultantes, indistintamente de cual sea el ámbito que los agencia. La paradoja de la intervención se expresa, entonces, de esta forma: para que la intervención social sea el objeto del trabajo social, el trabajo social debe negar la clausura y exclusividad de la intervención social.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>La resolución paradojal del asunto del objeto del trabajo social denota la capacidad de tomar un recurso retórico, con el propósito heurístico de formular lo que Beuchot en <italic>Heurística y Hermenéutica</italic> denomina como <italic>buenas conjeturas interpretativas</italic>. Así, cuando el trabajo social asume como objeto la intervención social y al mismo tiempo niega su exclusividad, está en posición de proponer que su investigación se enfoque en el fenómeno social que ajusta, regula, pero también transforma a la vida social. En este tenor, nuevamente el pensamiento paradojal en las ciencias sociales contribuye a develar nuevos puntos de vista que están fuera del rango de las respuestas tradicionalmente consideradas en las respectivas disciplinas. Así, la <italic>paradoja de Abilene</italic> propuesta por J. Harvey ayudó a la psicología social a entender los ajustes del comportamiento individual frente a opiniones generalizadas. Otro campo, específicamente la teoría general de sistemas, también es clarificada con la contradicción paradojal propuesta por N. Luhmann, según la cual, los sistemas reducen complejidad respecto de su entorno aumentando su propia complejidad. De este modo, la heurística de la paradoja admite un suceso de corte creativo en el evento del conocer, que resuelve baches propios de enfoques fragmentarios y cerrados.</p>
+			<p>En la discusión sobre el objeto del trabajo social, la heurística paradojal muestra el rol auxiliar de la filosofía en un contexto de diálogo interdisciplinar, idea expresada por S. Fuller en su artículo <italic>Social epistemology</italic> (Journal of Knowledge, Culture and Policy No. 26). A partir del mismo autor, la distinción del objeto puede resultar útil para que este debate del trabajo social se matice con aquellas prácticas de interdisciplinariedad que superan lo que Fuller denomina como enfoques normales. Estos últimos son tributarios de las posiciones kuhnianas, que presuponen la división de la investigación en diversas disciplinas para seguir el camino de producción de conocimiento con la menor resistencia posible. En este sentido, cuando este examen se realiza desde esta desalineación epistemológica, la discusión del objeto del trabajo social implicará una lectura directa de la filosofía del conocimiento, con una menor participación de los intermediarios e intérpretes situados en disciplinas sociales afines.</p>
+			<p>El debate sobre el objeto puede ser entendido en un marco en el cual los límites de campos disciplinarios resultan convenientemente difusos para el desarrollo de la investigación y de otros recursos de producción de conocimiento. Esto además es consistente con la exigencia de vigilancia epistemológica en el trabajo social, respecto de un objeto declarado pero que, al mismo tiempo, no le pertenece. La paradoja de la negación de la intervención aporta a la definición tanto del campo de estudio del trabajo social, como también a la posibilidad de observación más allá de los límites de su actuación como profesión. Siguiendo a Ortega, se compromete una posición de apertura consistente frente al conocimiento: “comprendiendo y asumiendo (que con) la transdisciplinariedad del trabajo social podemos seguir alimentando nuestra reserva de instrumentos y técnicas de investigación” (2015:286). Ya sea en lógica de verificación o de descubrimiento, la respuesta paradojal al asunto del trabajo social apunta tanto a la complejidad como a las oportunidades de investigar en este marco disciplinario de las ciencias sociales. Ian Shaw señala que el trabajo social configura un campo cultural y disciplinario por derecho propio, cuya comunidad está capacitada para ser parte de las ciencias sociales, donde sus premisas, métodos y límites son atingentes, para sumarnos a la opinión de Hans-Jügen Göppner a debatir abiertamente sobre epistemología en el campo del trabajo social.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Carballeda, A. 2002. <italic>La intervención en lo social: exclusión e integración en los nuevos escenarios sociales</italic>. Buenos Aires: Paidos</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carballeda</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>La intervención en lo social: exclusión e integración en los nuevos escenarios sociales</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Paidos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Castañeda, P. y Salamé, A. 2012. <italic>Profesionalidad del trabajo social chileno: tradición y transformación</italic>. Temuco: Ediciones Universidad de La Frontera</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castañeda</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salamé</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Profesionalidad del trabajo social chileno: tradición y transformación</source>
+					<publisher-loc>Temuco</publisher-loc>
+					<publisher-name>Ediciones Universidad de La Frontera</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Evangelista, E. 2009. Trabajo social contemporáneo: aproximaciones y proyecciones. <italic>Trabajo Social UNAM</italic> 20: 7-36. <ext-link ext-link-type="uri" xlink:href="http://www.revistas.unam.mx/index.php/ents/issue/view/1627/showToc">http://www.revistas.unam.mx/index.php/ents/issue/view/1627/showToc</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Evangelista</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Trabajo social contemporáneo: aproximaciones y proyecciones</article-title>
+					<source>Trabajo Social UNAM</source>
+					<volume>20</volume>
+					<fpage>7</fpage>
+					<lpage>36</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.revistas.unam.mx/index.php/ents/issue/view/1627/showToc">http://www.revistas.unam.mx/index.php/ents/issue/view/1627/showToc</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Fantova, F. 2007. Repensando la intervención social. <italic>Documentación Social: Revista de Estudios Sociales y Sociología Aplicada</italic> 147: 183-198. <ext-link ext-link-type="uri" xlink:href="http://www.caritas.es/imagesrepository/CapitulosPublicaciones/921/12%20REPENSANDO%20LA%20INTERVENCI%C3%93N%20SOCIAL.pdf">http://www.caritas.es/imagesrepository/CapitulosPublicaciones/921/12%20REPENSANDO%20LA%20INTERVENCI%C3%93N%20SOCIAL.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fantova</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Repensando la intervención social</article-title>
+					<source>Documentación Social: Revista de Estudios Sociales y Sociología Aplicada</source>
+					<volume>147</volume>
+					<fpage>183</fpage>
+					<lpage>198</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.caritas.es/imagesrepository/CapitulosPublicaciones/921/12%20REPENSANDO%20LA%20INTERVENCI%C3%93N%20SOCIAL.pdf">http://www.caritas.es/imagesrepository/CapitulosPublicaciones/921/12%20REPENSANDO%20LA%20INTERVENCI%C3%93N%20SOCIAL.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Farías, F. 2012. El trabajo social y los campos disciplinarios de las ciencias sociales en Chile. <italic>Cinta moebio</italic> 43: 50-60. doi: ext-link-type="uri" xlink:href="10.4067/S0717-554X2012000100005">10.4067/S0717-554X2012000100005
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Farías</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>El trabajo social y los campos disciplinarios de las ciencias sociales en Chile</article-title>
+					<source>Cinta moebio</source>
+					<volume>43</volume>
+					<fpage>50</fpage>
+					<lpage>60</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Fernández, T. y Ponce de León, L. 2014. <italic>Nociones básicas de trabajo social</italic>. Madrid: Ediciones Académicas.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ponce de León</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>Nociones básicas de trabajo social</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Ediciones Académicas</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Mascareño, A. 2011. Sociología de la intervención: orientación sistémica contextual. <italic>Revista Mad</italic> 25: 1-33. doi: ext-link-type="uri" xlink:href="10.5354/0718-0527.2011.15656">10.5354/0718-0527.2011.15656
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mascareño</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Sociología de la intervención: orientación sistémica contextual</article-title>
+					<source>Revista Mad</source>
+					<volume>25</volume>
+					<fpage>1</fpage>
+					<lpage>33</lpage>
+					<pub-id pub-id-type="doi"> 10.5354/0718-0527.2011.15656</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Max-Neef, M.; Elizalde, A. y Hopenhayn, M. 2010. <italic>Desarrollo a escala humana. Opciones para el futuro</italic>. Madrid: Biblioteca CF+S. <ext-link ext-link-type="uri" xlink:href="http://habitat.aq.upm.es/deh/adeh.pdf">http://habitat.aq.upm.es/deh/adeh.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Max-Neef</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Elizalde</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hopenhayn</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Desarrollo a escala humana. Opciones para el futuro</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Biblioteca CF+S</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="http://habitat.aq.upm.es/deh/adeh.pdf">http://habitat.aq.upm.es/deh/adeh.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Montaño, C. 2016. Pobreza, “cuestión social” y su enfrentamiento. <italic>Noesis</italic> 25(49): 69-98. doi: ext-link-type="uri" xlink:href="10.20983/noesis.2016.1.3">10.20983/noesis.2016.1.3</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Montaño</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Pobreza, “cuestión social” y su enfrentamiento</article-title>
+					<source>Noesis</source>
+					<volume>25</volume>
+					<issue>49</issue>
+					<fpage>69</fpage>
+					<lpage>98</lpage>
+					<pub-id pub-id-type="doi"> 10.20983/noesis.2016.1.3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Ortega, M.B. 2015. Trabajo social como transdisciplina: hacia una teoría de la intervención. <italic>Cinta moebio</italic> 54: 278-289. doi: ext-link-type="uri" xlink:href="10.4067/S0717-554X2015000300005">10.4067/S0717-554X2015000300005
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ortega</surname>
+							<given-names>M.B</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Trabajo social como transdisciplina: hacia una teoría de la intervención</article-title>
+					<source>Cinta moebio</source>
+					<volume>54</volume>
+					<fpage>278</fpage>
+					<lpage>289</lpage>
+					<pub-id pub-id-type="doi"> 10.4067/S0717-554X2015000300005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Raya, E. y Caparrós, N. 2014. Del objeto de estudio para la intervención en trabajo social. <italic>Azarbe</italic> 3: 173-179. ext-link-type="uri" xlink:href="digitum.um.es/xmlui/handle/10201/40462">digitum.um.es/xmlui/handle/10201/40462
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Raya</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Caparrós</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Del objeto de estudio para la intervención en trabajo social</article-title>
+					<source>Azarbe</source>
+					<volume>3</volume>
+					<fpage>173</fpage>
+					<lpage>179</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Vásquez, A. 2014. Lógica paraconsistente, paradojas y lecturas parasitarias: del virus del lenguaje a las lógicas difusas. <italic>Eikasia: Revista de Filosofía</italic> 58: 43-63. <ext-link ext-link-type="uri" xlink:href="http://www.revistadefilosofia.org/58-01.pdf"> http://www.revistadefilosofia.org/58-01.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vásquez</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Lógica paraconsistente, paradojas y lecturas parasitarias: del virus del lenguaje a las lógicas difusas</article-title>
+					<source>Eikasia: Revista de Filosofía</source>
+					<volume>58</volume>
+					<fpage>43</fpage>
+					<lpage>63</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.revistadefilosofia.org/58-01.pdf">http://www.revistadefilosofia.org/58-01.pdf</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

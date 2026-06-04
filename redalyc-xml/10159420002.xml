@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article 
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+<journal-title-group>
+<journal-title>Cinta de moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">00002</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Artículos</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Realidad y significación. El giro semiótico como perspectiva y propuesta de ponderación epistémica</article-title>
+<trans-title-group xml:lang="en">
+<trans-title>Reality and signification. The semiotic turn as perspective and proposal of epistemic weighting</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0919-2796</contrib-id>
+<name>
+<surname>Linares</surname>
+<given-names>Raúl</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label>
+<institution content-type="original">México. Universidad Autónoma de Baja California, Facultad de Artes  Correo electrónico: rlinares@uabc.edu.mx</institution>
+<institution content-type="normalized">Universidad Autónoma de Baja California</institution>
+<institution content-type="orgname">Universidad Autónoma de Baja California</institution>
+<institution content-type="orgdiv1"> Facultad de Artes </institution>
+<country country="MX">México</country>
+<email>rlinares@uabc.edu.mx</email>
+</aff>
+  <pub-date pub-type="epub">
+            <season>Oct-Dec</season>
+            <year>2018</year>
+         </pub-date>
+         <issue>63</issue>
+    <fpage>283</fpage>
+<lpage>296</lpage>
+<history>
+<date date-type="received">
+<day>24</day>
+<month>05</month>
+<year>2018</year>
+</date>
+<date date-type="accepted">
+<day>15</day>
+<month>07</month>
+<year>2018</year>
+</date>
+</history>
+<permissions>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Resumen:</title>
+<p>En el presente artículo se propone una revisión de carácter descriptivo respecto a distintos momentos en los que el llamado giro semiótico de las ciencias sociales colinda con algunas categorías epistémicas fundamentales para la construcción de un proceso consciente de acercamiento a lo social. Así, la realidad como constructo discursivo, el carácter semiótico-perceptual de la observación, los procesos de transcodificación entre doxa y episteme o el peso estructural de la disciplina, serán los ejes fundamentales planteados para esta relación. A partir de este planteamiento, se proponen como criterios de integración semiótico-epistémica dos paradigmas claves en la construcción de un proceso de investigación cualitativa: la adopción de estructuras interdisciplinarias y el enfoque de la complejidad, que permiten problematizar las categorías anteriores, integrándolas como elementos fundamentales en la organización social del sentido.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract:</title>
+<p>The present article proposes a descriptive review of those moments in which the social sciences semiotic turn borders with some epistemic categories that results fundamental for the construction of a conscious approach to the social. Thus, the reality as a discursive construct, the semiotic character of observation, the transcoding process between doxa and episteme, or the structural wealth of discipline will be presented as fundamental axes to this relationship. Based on this approach, there are proposed as semiotic-epistemic integration judgements, two fundamental keys in the construction of a qualitative research process: the adoption of interdisciplinary structures, and the complexity perspective that allows to problematize the previous categories, integrating them as fundamental elements in the social meaning organization.</p>
+</trans-abstract>
+<kwd-group xml:lang="es">
+<title>Palabras clave:</title>
+<kwd>giro semiótico</kwd>
+<kwd>semiotico</kwd>
+<kwd>campos semiosféricos</kwd>
+<kwd>doxa</kwd>
+<kwd>episteme</kwd>
+<kwd>interdisciplina</kwd>
+<kwd>complejidad</kwd>
+</kwd-group>
+<kwd-group xml:lang="en">
+<title>Keywords:</title>
+<kwd>semiotic turn</kwd>
+<kwd>semiospheric fields</kwd>
+<kwd>doxa</kwd>
+<kwd>episteme</kwd>
+<kwd>interdisciplinarity</kwd>
+<kwd>complexity</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="10"/>
+<page-count count="14"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>Introducción</title>
+<p>El campo de las ciencias sociales ha mostrado un interés renovado en la reflexión sígnica como estrategia de acercamiento a los fenómenos de lo social. A partir de los usos múltiples del pensamiento estructuralista y postestructuralista, el llamado giro semiótico ha permeado en prácticamente todos los campos disciplinarios de las ciencias sociales: desde las propuestas hermenéuticas de la sociología hasta las visiones culturológicas de buena parte del siglo XX (semiótica de la cultura de Lotman, interpretación de las culturas de Geertz) y desde el interés por el carácter pragmático, contextual del signo (Searle y la realidad social del lenguaje o Berger-Luckmann y la construcción social de la realidad) al carácter textual de todo discurso social (semiosis de los social de Eliseo Verón), los fenómenos del signo y su veta discursiva se han ubicado es una posición privilegiada dentro del campo de estudio de las ciencias sociales.</p><p>Esta tendencia tiene connotaciones epistémicas intrínsecas. Por una parte, implica un cruce conceptual y discursivo en el que diversas disciplinas convergen alrededor de enfoques, categorías y problematizaciones alrededor de signo y significación, de tal suerte que sus estructuras de información funcionan como tramas cuyos hilos provienen de disciplinas, tradiciones y modelos diversos. Por otra, en todas ellas prevalece la necesidad de plantear la noción de discurso -en tanto suceso enunciativo contextualizado- como eje fundamental de todo proceso de comunicación. </p><p>Todas estas perspectivas parten de cierto dominio para hacer uso, no solo de la reflexión acerca del lenguaje en lo general, sino de la reflexión sígnica misma, para constituir un objeto epistémicamente complejo, construido a partir de unidades de observación y análisis diversas en su origen y complementarias en sus lógicas, instrumentos y resultados. Esta condición peculiar implica la construcción de objetos sociales de carácter sígnico, lo mismo que de objetos sígnicos de carácter social, reconociendo el carácter interdefinible de los elementos constitutivos de dichos fenómenos. En todas estas visiones, signo y lenguaje devienen discurso, y con ello individuo, cultura y sociedad.</p><p>De esta forma, nos encontramos frente a un escenario heterogéneo, complejo y diverso de visiones interdisciplinarias, dominios compartidos, metodologías híbridas y teorías convergentes que vuelven necesaria una perspectiva organizativa que, sin prescindir del carácter múltiple de estas teorizaciones, establezca determinados parámetros descriptivos, de análisis y ponderación de dichos esfuerzos disciplinares.</p><p>Paradójicamente, es el propio lenguaje el que establece transversalmente sus lógicas enunciativas y principios de organización como parámetros oportunos para establecer cierto orden en este universo diverso y muchas veces caótico. Bajo estas condiciones, resulta conveniente trazar líneas que nos ayuden a considerar, como una forma de organización de la reflexión sobre el proceso discursivo, un modelo que vuelva operativa y funcional la inclusión de todas estas condiciones diversas en el marco de una reflexión epistémica consistente. El fin último de este artículo tendría que ver con considerar la forma en que las prácticas sígnicas trascienden su carácter instrumental inmediato, para convertirse en formas peculiares de construcción del conocimiento, y la manera en que esto puede ser utilizado como instrumento de ponderación de lo social. </p><p>La consciencia respecto al carácter necesariamente semiótico de cualquier proceso de investigación, y con ello la utilización de algún modelo de aproximación al objeto de estudio en tanto fenómeno sígnico, implica necesariamente una toma de postura que permea de muchas formas los distintos momentos de un proceso de investigación: desde la elaboración de protocolos articulados a partir de esta consciencia, o de la utilización de determinados marcos conceptuales, al diseño de estrategias metodológicas específicas por las que se vinculen modelos de codificación, procesos enunciativos y estructuras discursivas. Se trata pues de una consciencia extensa y necesariamente abarcadora: el quid del llamado giro semiótico se vincula profundamente con la forma en que comprendemos los procesos para construir conocimiento, los distintos momentos en que la reflexión deviene metarreflexión al cuestionar su propia pertinencia o las decisiones que tomamos respecto a la construcción, utilización, discriminación y ajuste de categorías de observación y análisis.</p><p>En el presente artículo se trazará un itinerario de carácter descriptivo respecto a distintos momentos en los que la consciencia sígnica colinda con algunas categorías epistémicas fundamentales: realidad, observación, doxa, episteme y disciplina. </p><p>En un primer momento, se busca establecer una postura base respecto a la visión semiótica de la realidad. El giro semiótico representa una serie de modelos que enfatizan el carácter necesariamente sígnico de cualquier proceso de construcción de objetos de conocimiento. Por otra parte, se busca establecer el carácter relativo de los procesos de observación en tanto estrategias de modelización de la percepción. Constantemente, la realidad es nombrada, adjetivada, representada, explicada a partir de procesos de significación inevitablemente condicionados a un proceso de observación, a cierta perspectiva, esto es, al uso de determinados mecanismos de codificación/decodificación. Se pretende, asimismo, proponer la naturaleza interactiva en la relación doxa y episteme como condición esencial de todo campo semiosférico y, por ende, como marco normativo de alto rendimiento para construir modelos de ponderación de la realidad social.</p><p>Finalmente, se proponen como criterios de integración semiótico-epistémica dos paradigmas clave en la construcción de un proceso de investigación cualitativa: la adopción de estructuras interdisciplinarias y el enfoque de la complejidad, que permiten problematizar las categorías anteriores integrándolas como elementos interdefinidos e interdefinibles en un proceso de acercamiento, recorte, observación y organización del sentido de lo social.</p>
+</sec>
+<sec>
+<title>La realidad en tanto constructo sígnico</title>
+<p>Acerca del término signo podemos afirmar que su problema semántico principal no se encuentra en su carácter hermético o extraordinario, sino justo en el extremo contrario: se trata de un uso verbal que asociamos fácilmente a ciertos objetos del mundo que tienen como cualidad peculiar la de ser productores de sentido: así, asumimos que las palabras, las señales de tránsito, los logotipos o ciertos ademanes son signos relativos a normas de comportamiento aceptadas, a ciertas lógicas institucionales o a determinadas situaciones comunicativas. Habría que agregar, en todo caso, que el universo de los signos es más amplio y más complejo que el campo limitado de los discursos intencionadamente comunicativos. La significación, esto es, la semiosis, no procede de la producción de signos -que pueden darse sin intervención de emisor alguno- sino de la capacidad de un sujeto para reconocerlos como tales. </p><p>El fin natural de cualquier signo intencionado es producir sentido y, en última instancia, generar alguna forma de interacción comunicativa. Incluso cuando el signo es tal no en virtud de una acción predicativa consciente (un estornudo, por ejemplo), éste se convierte en objeto de análisis e interpretación comunicativa por parte de un sujeto receptor que es capaz de traducir el estímulo generado (“¡aaatchís!”) en una respuesta consciente de tipo cognitivo (“esta persona está enferma”) y en una respuesta formal de carácter interactivo (“¡Salud!”). En este caso, el estornudo se convierte en un estímulo mediador que sirve de enlace para relacionar cierta condición peculiar del organismo de quien estornuda en una respuesta mental de quien observa e infiere determinada condición de enfermedad. Así, la vocación natural de los signos resulta ser la mediación y, en este sentido, su carácter instrumental parece intrínseco a su percepción inmediata.</p><p>Esta función de mediación, por otra parte, resulta ser frecuentemente opacada por su carácter fatalmente pragmático: habitualmente no vamos por la vida pensando en signos, sino que hacemos uso de ellos. El músico, una vez que ha aprendido las lógicas de la notación musical, tiende a olvidarlas como reglas y se dedica a hacer uso de ellas, digamos inopinadamente, para alcanzar sus fines específicos: leer o escribir música. En el caso de las ciencias sociales -aunque no únicamente en ellas-, especialmente a partir del siglo XX, se ha buscado ponderar este carácter instrumental del signo como criterio de tipo explicativo respecto al contexto situacional en que se dan los procesos de comunicación, en la medida en que el signo, una vez puesto en marcha, se ubica en un momento y lugar específicos, como mediador entre al menos dos individuos que mantienen por ese simple hecho una interacción social, y hacen uso de ciertas reglas de producción y recepción estipuladas y seguidas -o no- socialmente. De esta forma el uso del signo, cualquier proceso semiósico, implica un perfil cultural relacionado tanto con los sujetos (conocimientos, conductas, percepciones) como con el contexto (tradición, espacio físico, organización social).</p><p>En este sentido el signo es, siempre y en todos los casos, un problema de conocimiento. Para que el signo sea, no basta con que se presente un estímulo sensible, un fenómeno que impacte sensorialmente a quien tenga cierta capacidad de registro: es necesario además un complejo proceso de construcción del sentido, de apropiación y procesamiento del estímulo, para sostener y hacer funcionar un interpretante -en términos peirceanos- que invariablemente será circunstanciado y relativo a un sujeto dado. Este vínculo, por otra parte, se presenta también en sentido inverso: constantemente, el sujeto está siendo delimitado, normado, modelado por el universo de signos, por cierto, entorno semiosférico -explica Lotman- que fatalmente lo condiciona a procesar su entorno de cierta forma, a partir de determinadas lógicas, a través de códigos de lectura preexistentes y predeterminados: “La semiósfera que conceptualiza Lotman &#91;…&#93; implica el reconocimiento de una serie de procesos dinámicos en los que más allá de los lenguajes y los procesos comunicativos se pueden reconocer campos de percepción divergente que logran estados de organización parcial que conforman la cultura en sentido amplio, en función de la adaptación a espacios de construcción simbólica” (<xref ref-type="bibr" rid="B9">Parra 2014</xref>:78).</p><p>Esta condición peculiar en la relación signo-sujeto no es, no podría ser, positiva o negativa en un sentido axiológico: se trata, sencilla y necesariamente, de la condición dialógica natural con que se construye la experiencia sensible frente al mundo, y con ella la construcción del conocimiento. La percepción organiza el sentido que se le confiere a la experiencia sensible, y sobre esa base es construida la realidad inherente al sujeto.</p><p>Podemos afirmar, para sentar las bases generales de esta reflexión, que un signo es cualquier mecanismo de representación de la realidad. Sobre la naturaleza del mismo, Charles Morris propone un desglose tríadico, de bases peirceanas: “El proceso en el que algo funciona como signo puede denominarse semiosis. Comúnmente, en una tradición que se remonta a los griegos, se ha considerado que este proceso implica tres &#91;o cuatro&#93; factores: lo que actúa como signo, aquello a que el signo alude y el efecto que produce en determinado intérprete en virtud del cual la cosa en cuestión es un signo para él. Estos tres componentes de la semiosis pueden denominarse, respectivamente, el vehículo sígnico, el designatum, y el interpretante; el intérprete podría considerarse un cuarto factor” (<xref ref-type="bibr" rid="B8">Morris 1985</xref>:27).</p><p>De esta forma, en el signo encontramos tres realidades distintas: una relacionada con su enunciación material, lo que implica considerarlo como un estímulo sensorialmente perceptible; una más, construida a partir de las ideas que el signo evoca como representación de cierta realidad previa al mismo; finalmente, una resultante de esta correlación, como sentido construido por la vía de la interpretación a partir de ciertos códigos de lectura, conocimientos previos y expectativas de quien percibe al signo, todo esto situado en un escenario concreto, con todas las condiciones pragmáticas que ello pueda implicar.</p><p>Así, realidades tan distintas y distantes como las palabras y los números, las expresiones faciales, el llanto de un bebé, los síntomas de una enfermedad o los sucesos artísticos son signos, en la medida en que buscan representar -o terminan representando- algún aspecto de la realidad para alguien que es capaz de descifrarlos de cierto modo. Más allá de intencionalidades a priori, el color de una nube, una postura corporal o un charco a mitad del patio, pueden ser signos de algo, siempre que haya un alguien dispuesto y capaz de construir alguna inferencia cognitiva a partir de estos estímulos.</p><p>Definiéndolo a partir de esta última idea, un signo implica siempre un estímulo externo y una respuesta mental. De esta forma, la noción de signo se encuentra fatalmente relacionada a nuestras capacidades sensibles, en tanto que el mundo existe y se construye -en un sentido perceptual- en la medida que nuestros sentidos lo descubren. Pensemos en el caso de los bebés. Se afirma con frecuencia que los niños recién nacidos no pueden ver. Esta afirmación es inexacta: sucede que los niños neonatos no saben ver: luego de nueve meses de vida en un ambiente controlado, oscuro e ingrávido, al momento del nacimiento el bebé se encuentra acosado por una serie de estímulos antes inimaginados: luz, color, movimiento, contraste, contorno o profundidad son estímulos que necesitan ser aprendidos y procesados por el cerebro para comprender y construir, por lo menos de forma somera, eso que conocemos como mirada.</p><p>Así, los signos se construyen con base en nuestras capacidades sensoriales, pero no únicamente a partir de ellas. Además de requerir de un estímulo sensible, el signo implica una respuesta mental, lo que supone que los procesos cognitivos se disparen dentro del universo pensamental de quien percibe, para así re-conocer eso que al ser observado, escuchado, palpado, olfateado o gustado, se convierte en referencia a cierto conocimiento previo. De esta forma, los signos resultan ser mediadores o vasos comunicantes que relacionan el mundo material con el campo de las ideas. Así la semiosis, ese proceso por el cual algo que no es un signo (como una nube gris en el cielo) se transforma en algo que sí lo es (probabilidad de lluvia), se presenta como un referente cotidiano y necesario para ponderar la realidad, cualquiera que esta sea. En este sentido, la semiosis funciona como pegamento de la realidad, en la medida que nos permite tomar los objetos del mundo, dotarlos de sentido, construir relaciones entre ellos y agruparlos en sistemas de objetos. De esta forma planteada -y particularmente en este sentido-, la realidad es siempre relativa a nuestra capacidad para reconocerla como tal, a partir de los signos que suponemos le conciernen y son inherentes a ella. Esto es válido lo mismo para la construcción de un modelo teórico en ciencias sociales, para nuestros conocimientos sobre objetos fantásticos como dragones o quimeras, o para la física de partículas. En cualquiera de estos universos de sentido, el signo resulta ser un mediador fatal para aproximarnos al mundo, a esas esferas de mundo -semiósferas-más allá de sus parámetros de verdad.</p><p>No se trata, en aquel último caso, de relativizar la existencia de las partículas subatómicas, sino de enfatizar el carácter relativo de su percepción. Los juicios de valor que construimos acerca de eso que llamamos realidad, se basan en reglas de percepción: algunas construidas sobre la doxa (conocimiento social común) otras sobre la episteme (conocimiento científico). El mundo individual, ese que depende de nuestra percepción, existe a partir de que lo conocemos -o a partir de lo que conocemos- y los juicios acerca de la realidad están habitualmente basados en juicios previos, en pre-juicios, muchos de carácter intuitivo, no únicamente en la experiencia sensible o en el conocimiento científicamente legitimado.</p><p>Pensemos en las condiciones a partir de las cuales construimos aquel conocimiento “común”. La mayoría de nosotros sabemos algo acerca del ex-planeta Plutón, del Partenón griego o de nuestro páncreas, en virtud de los discursos sígnicos (una fotografía, un esquema, una descripción) construidos alrededor de aquellas realidades, no a partir de nuestra experiencia sensible respecto a las mismas. Esto no les resta realidad, pero sí relativiza nuestro conocimiento a sus formas de representación, es decir, a partir de los signos que las nombran y caracterizan. Esto lo sabe, por ejemplo, el estudiante de medicina, que estudia síntoma y diagnóstico para el examen como un conocimiento general y abstracto, sin la necesidad de hacer una búsqueda in situ de cada enfermo efectivo y cada patología presentada.</p><p>Planteada de esta forma -y solo de esta forma- la realidad del mundo es pues resultado de nuestras capacidades para percibirla, registrarla e interpretarla, a partir de ciertos criterios más o menos convencionales que sirven como parámetros comunes, esto es, como vasos comunicantes para afirmar de forma aceptable cierta realidad una vez percibida, esto es, juzgada. Sobre esta capacidad de juicio, entendida como sustrato para la comprensión del mundo, razona Tomás Maldonado: “No importa tanto saber abstractamente si hay una correspondencia biunívoca total entre una representación en perspectiva y la realidad que ella se propone representar. Más razonable es tratar de establecer si la representación en perspectiva, para emplear una expresión favorita del operacionismo, funciona (o no) como representación plausible, no de una realidad genérica, sino antes bien de nuestra percepción de la realidad. En otras palabras, si esa representación es utilizable en nuestra relación operativa con el mundo” (<xref ref-type="bibr" rid="B7">Maldonado 1999</xref>:23).</p><p>Lo que persigue la reflexión sígnica, de acuerdo con esta acotación, es determinar la plausibilidad de la representación, no de la realidad (irreductible per se), sino de nuestra percepción acerca de la realidad. De esta forma, los signos existen necesariamente en cualquier sistema de comunicación, como vehículos de cierta perspectiva aceptable de realidad. El pensamiento no es comunicativo por sí mismo, pues no implica necesariamente una forma de expresión. Sin embargo, toda forma de pensamiento necesita una estructura sígnica que le dé sustento. Esta estructura, no está de más decirlo, no se presenta como un sistema independiente, mero contenedor de la sustancia pensamental contenida. El vínculo entre el conocimiento y sus códigos expresivos se presenta como una interrelación por la que el saber termina representando la realidad en sus propios términos, de acuerdo con determinados parámetros, de tal suerte que la especialización individual representa lo mismo la experiencia del sujeto que estructuras de pensamiento individualizadas. De ahí las retóricas disciplinarias; de ahí los estilos literarios.</p>
+</sec>
+<sec>
+<title>La observación como juego de espejos</title>
+<p>Por el ejercicio de la vida cotidiana, la observación se presenta como el primer mecanismo de acercamiento a la realidad. Vamos por el mundo reconociendo lugares, rostros, formas o textos en un ejercicio recurrente, casi mecánico, más relacionado con lo sensorial que con lo especulativo. Así, la normalidad se presenta como un cúmulo de lugares comunes, de objetos reiterados que se presentan como claves de lectura, como esas claves de lectura que nos sirven para comprender lo inmediato, lo superficial, lo aparente, lo “obvio”. La vista cotidiana -a diferencia de la mirada entrenada del antropólogo o la mirada crítica del curador de arte- nos permite vivir buena parte de la vida a partir de esta apreciación primera, inmediata del mundo. Reconocemos al mundo en la medida en que éste se asemeja a sí mismo, toda vez que lo hemos experimentado previamente. Umberto Eco llama a este reconocimiento semiosis perceptiva: “La semiosis perceptiva &#91;…&#93; no se desarrolla cuando algo está en lugar de otra cosa, sino cuando a partir de algo por proceso inferencial se llega a pronunciar un juicio perceptivo sobre ese mismo algo, y no sobre otra cosa &#91;…&#93;. Por lo tanto, cualquier fenómeno, para poder ser entendido como signo de otra cosa, y desde un cierto punto de vista, ante todo debe ser percibido. El hecho de que la percepción pueda tener éxito precisamente porque uno está orientado por la hipótesis de que el fenómeno puede ser entendido como signo (de otro modo no se prestaría atención a un cierto campo de estímulos) no elimina el problema de cómo lo percibimos” (<xref ref-type="bibr" rid="B3">Eco 2011</xref>:148).</p><p>Existe, sin embargo, un universo de conocimientos construidos sobre esta percepción primaria, pero no limitados a la misma. A partir de que los seres humanos nombramos al mundo, construimos un entramado de mediaciones con él a través de palabras, gestos, dibujos o sonidos que, una vez convencionalizados, pueden servir de enlace para referir los objetos del mundo, por una parte, y para socializar nuestro saber respecto a esos objetos, por la otra. </p><p>La visión del propio Eco, a lo largo de los años, se desplaza de la proposición de una semiótica estructural de fines analíticos, a un semiótica interpretativo-explicativa al filo de lo epistémico. Esto es, se pasa de una estructura metodológica tendiente al desglose del objeto significante a partir de sus rasgos estructurales, a la constitución de un modelo de construcción del conocimiento basado en el grado de consciencia respecto al código mismo y sus procesos de recepción.</p><p>Conforme nos desarrollamos como especie y, habría que decirlo, mediante un proceso bastante sofisticado de abstracción y recurrencia, concebimos la posibilidad de reflexionar no solamente en las realidades del mundo, sino además en aquellas estrategias de mediación que nos permiten dar cuenta de nuestras múltiples percepciones y de las diversas formas que como individuos y sociedad concebimos para expresarlas. Pensar sobre la forma en que pensamos. Expresarnos acerca de nuestras formas de expresión. Surgen así las cavilaciones sobre signo y lenguaje con un carácter metarreflexivo, en tanto que vehículos de análisis del propio código utilizado. De las aproximaciones al signo en la Grecia clásica a las visiones contemporáneas de Eco respecto a la semiótica epistémica, la reflexión general respecto al mundo y sus formas de representación tienen, en todos los casos, un carácter peculiar como observaciones indirectas, no relacionadas propiamente con los objetos del mundo, sino centradas en los ejercicios de observación y expresión de estos objetos. Así, la disquisición sígnica se presenta siempre como observación de segundo orden. </p><p>Niklas Luhman explica esto de la siguiente forma: “Toda observación es observación inmediata de algo distinguible -de las cosas o de los sucesos, de los movimientos o de los signos. El mundo inmediatamente dado no se puede eliminar, aunque el filósofo dude acerca de si existe tal como aparece -y exprese dudas a través de la suspensión del juicio &#91;…&#93;. Queremos designar la observación de observaciones como observación de segundo orden. De acuerdo con esto, también la observación de segundo orden es -en cuanto operación- una observación de primer orden, es decir, la observación de algo que se puede distinguir como observación” (<xref ref-type="bibr" rid="B6">Luhmann 2005</xref>:98-99).</p><p>Cuando desde un campo disciplinar se observa un objeto de estudio cualquiera, ya digamos los componentes de una célula animal o las variaciones de consumo en un sistema de mercado, nos encontramos con reflexiones de primer orden, en la medida en que un investigador observa ciertos fenómenos de su interés. Cuando hacemos observación semiótica, en contraste, no observamos directamente al objeto de estudio -no con fines de especialización disciplinar, cuando menos-, sino a aquellos indicios utilizados como formas de representación del referente. En tanto objetos construidos -observables- lo que observamos es tanto aquellos objetos como la mirada con que estos son observados. Así, en este trabalenguas epistémico, pasamos de ser la mirada que observa a ser la mirada que observa a la mirada que observa, lo cual implica una doble toma de consciencia, tanto respecto al objeto de estudio, como al objeto de conocimiento surgido de la observación hecha a la observación: “Ciertos sistemas observados también se comportan como observadores, construyendo sus propios modelos de realidad. De esta forma, un científico interesado &#91;por una observación&#93; de segundo orden debe construir junto a su modelo, un modelo atribuible a las construcciones de su objeto de observación” (<xref ref-type="bibr" rid="B1">Becerra 2016</xref>:86).</p><p>Este proceso de doble observación, necesario al giro semiótico, implicará un permanente trabajo de metarreflexión como estrategia de construcción del conocimiento, y un trabajo también permanente de ajuste de los criterios de observación, reactivos siempre tanto a las transformaciones del objeto de conocimiento como a las condiciones mismas de la observación. Se trata, pues, de un proceso de observación modelada. En este sentido, el conocimiento se construye a partir de un movimiento oscilatorio que fluctúa entre la percepción inmediata que constituye el saber inmediato, y la reflexión especular -que se contempla a sí misma- como elementos inherentes a procesos de observación e interpretación del objeto -y del proceso- observados.</p>
+</sec>
+<sec>
+<title>Doxa, episteme y otros entramados</title>
+<p>Por el llamado sentido común es que vivimos la mayor parte de nuestras experiencias vitales. En tanto nos instalamos en la cotidianeidad, sabemos cómo vestirnos para ocasiones diferenciadas, qué alimentos combinan entre sí, cómo debemos comportarnos en un salón de clases o qué hacer si se nos derrama el café en la camisa. Todos estos comportamientos, gestados a partir de estímulo y respuesta, surgen como consecuencia de conocimientos construidos a lo largo de la vida que, de forma inopinada, resultan “obvios”, naturalmente sobreentendidos.</p><p>La doxa es el conocimiento social común. Se trata de un constructo que se basa mayormente en la recurrencia, acaso en la semejanza, un poco a la manera como anteriormente describimos se construye la semiosis perceptiva, esto es, por reconocimiento más o menos inmediato del entorno sensorialmente perceptible, y sobre la base de una organización simbólica de la realidad comprendida como natural o deseable. </p><p>Este conocimiento acumulativo, que se estructura por sumatoria y se consolida por decantación, existe además como un sistema sígnico, como una red de redes de significación por las que el conocimiento se convierte en un entramado que resulta antecedente, filtro y parámetro reconocido y cercano para vincularse con la realidad, con esa realidad que es también producto (cuando menos producto percibido) de aquella misma doxa. Este conocimiento se construye por la vía de la experiencia cotidiana, del enfrentamiento con el día a día, que por acumulación dinámica constituye experiencia colectiva, luego devenir histórico. Jorge González lo explica de la siguiente forma: “El núcleo de toda interpretación está en la correspondencia que establece entre alguna experiencia o algún objeto y un signo &#91;…&#93; que es parte de un código. Por ello operamos también con sistemas de información, donde se establecen &#91;…&#93; criterios de clasificación que permiten que interactuemos con algún sentido en un espacio y tiempo determinados sin tener que inventar o nombrar todo a la vez &#91;…&#93; Estas redes de correspondencias y de criterios de clasificación operan como un enorme sistema de información que tiene un rasgo muy particular: nadie es directamente responsable del establecimiento del vínculo del sentido, del ‘filtro’ con que percibimos el mundo, las personas y las cosas” (<xref ref-type="bibr" rid="B5">González et.al. 2007</xref>:38).</p><p>Así, este conocimiento social común se constituye como un parámetro frecuente (que no inmediato) para construir aquel acceso a la realidad a partir de sus criterios convencionales de lectura, interpretación y acción. Se trata de sistemas de significación constituidos a partir de la apropiación de códigos de lectura que, a pesar de no ser visibles y, sobre todo, de no ser concientizados por los individuos, constituyen campos semiosféricos socialmente normados y normalizados, asumidos como deseables, obvios o naturales. En este sentido, todo campo semiosférico será, en tanto categoría de análisis significativa, un recorte de realidad.</p><p>Por otra parte, los paradigmas de la ciencia implican estructuras de discernimiento basadas en principios lógicos generales, autocontenidos dentro de un sistema reconocido y sometidos a protocolos de validación también estipulados y aceptados convencionalmente. La llamada episteme como saber construido de forma consciente, sistemática y rigurosa, a partir de criterios de validación reconocidos y sistematizados, es la base lógico/operativa de todo conocimiento disciplinar. </p><p>La relación entre doxa y episteme resulta mucho menos rígida de lo que se pudiera pensar a partir de estos deslindes. En la práctica, el conocimiento cotidiano, y con él el lenguaje social común, está impregnado por saberes nacidos del conocimiento científico, y éste último se encuentra jaspeado por intuiciones más relacionadas con el sentido común que por protocolos sistematizados. Hablamos, por ejemplo, de la sabiduría popular evidenciada en los proverbios, en el primero de los casos, o en la metáfora frecuente en el discurso científico, en el segundo. En última instancia, existe un área liminar, intermedia, entre estas dos formas de construcción del conocimiento. Es ahí donde aparece la duda, y donde se concibe la construcción de conocimiento. Es el espacio en el que el científico observa, recapitula, se cuestiona y avanza; es el momento en el que cobra conciencia sobre su propio discurso, lo enjuicia y encuentra vías alternas de discernimiento y, en última instancia, de expresión. Expresión que, necesariamente, se traduce a través de procesos sígnicos de representación.</p><p>A partir de estas ideas, si afirmamos que el pensamiento se construye con base en referencias de realidad, y sostenemos que la realidad existe a partir de nuestras capacidades para traducir la percepción, terminaremos afirmando que cualquier conocimiento se basa en sistemas de signos que funcionan como mediadores de sentido, desde eso que llamamos sentido común, hasta el más especializado discurso de carácter científico. En todos los casos, se trata de sistemas de codificación que funcionan como sistemas de lectura, como entramados construidos sobre la base de una estructura de significación considerada como aceptable, legítima y pertinente.</p><p>Las objetivaciones comunes de la vida cotidiana se sustentan primariamente por la significación lingüística. La vida cotidiana, por sobre todo, es vida con el lenguaje que comparto con mis semejantes y por medio de él. Por lo tanto, la comprensión del lenguaje es esencial para cualquier comprensión de la realidad de la vida cotidiana (parafraseando a Berger y Luckman).</p><p>La realidad se sustenta, de acuerdo con esta visión constructivista, en sistemas de signos, y cualquier intercambio de estos implicará no solamente desplazamiento (cambio de plaza) de información, sino además, fatalmente, un proceso de interacción social, por el que el signo se reconfigura, enriquece y desgasta a partir de procesos de paráfrasis, transcodificación, equivocación, interpretación o sobreinterpretación, dependientes tanto de los participantes en el proceso semiósico, como de las circunstancias peculiares de enunciación. Este carácter situacional del signo implicará necesariamente la determinación contextual de un aquí y un ahora, y con ello una perspectiva de campo que lo posicione a partir de cierta lógica, de ciertos códigos de lectura compartidos y aceptados como pertinentes y legítimos. Tendremos entonces que considerar el emplazamiento disciplinar del signo.</p>
+</sec>
+<sec>
+<title>Calibrando el caleidoscopio: signo, interdisciplina y complejidad</title>
+<p>La ubicación del signo en el marco de un campo disciplinar implicará una toma de posición respecto a aquella plausibilidad antes mencionada -la de la apropiación del signo, su forma y contenido-, como norma de interpretación convencional, aceptada y aceptable en términos de reconocimiento y legitimación dentro de un dominio disciplinar dado.</p><p>De esta forma, en cualquier proceso de construcción de conocimiento, los posicionamientos epistémico, teórico o metodológico, implicarán siempre problemas de codificación. En este sentido, es necesario considerar el carácter complejo de las condiciones de apropiación y utilización del signo como gestor del conocimiento. Las reflexiones disciplinares se relacionan con una apuesta de especialización específica, vinculadas a objetos de estudio concretos y con dominios de interés autoconscientes y autocontenidos. En estos casos, los procesos de codificación/decodificación del signo se dan a partir de normas propias y estructuras preestablecidas, aceptadas y convencionales, que cierto dominio de conocimiento considera como pertinentes y deseables. </p><p>Sucede que, dada su naturaleza omnipresente tanto en los objetos de conocimiento observados como en las lógicas y estructuras de observación, el signo resulta necesariamente modelado a partir de procesos de codificación diferenciados, heteróclitos y superpuestos. Piénsese en el ejemplo paradigmático que recuerda Clifford Geertz respecto a la diferencia entre tic y guiño: en términos significantes, esto es, en tanto estímulos perceptibles visualmente, se trata de fenómenos idénticos. Sin embargo, ambos sucesos tienen significaciones profundamente diferenciadas. En el ejemplo podemos pensar, cuando menos, en tres procesos de codificación alternos: uno vinculado a la lectura semioestésica de la expresión facial representada en el tic; otro relativo a la función fática evidenciada por el guiño en tanto signo de complicidad; y uno más asociado a la explicación de corte antropológica propuesta por el propio Geertz. Tenemos, pues, un triple proceso de codificación, a partir de la puesta en juego de tres visiones diferenciadas y yuxtapuestas entre sí.</p><p>Este es el tipo de enfoque inherente a la reflexión sígnica: una perspectiva de este tipo busca colocar como centro de interés un objeto que es -o hipotéticamente puede ser- identificado y caracterizado por distintas disciplinas, de tal suerte que el conocimiento es resultado de los procesos de búsqueda y negociación de lógicas de razón, esto es, de criterios de codificación/transcodificación preestablecidos en su origen y relativos a su utilización. Desde esta perspectiva, tanto el conocimiento surgido de la doxa como de la episteme implican procesos de codificación y, por tanto, entramados de desciframiento e interpretación. Estos procesos se dan a partir del uso de múltiples claves de lectura, de tal suerte que se establece un diálogo entre distintos sistemas sígnicos, que terminan construyendo una visión tan heterogénea como sus perspectivas de origen. Esta lógica de acción conlleva procesos de negociación entre métodos y razones disciplinares distintas, lo que conlleva la permeabilización de los dominios, al incluir normas y categorías externas (o planteadas externamente), sin que necesariamente se lleguen a modificar sus paradigmas discursivos o lógicas de acción. El gran reto de este enfoque epistémico consiste en afrontar, no como estrategia sino como paradigma, no solo la posibilidad sino la inmanencia del Otro, de las visiones alternas a la propia, como elementos consustanciales al proceso de construcción de conocimiento. </p><p>En este sentido: “el desafío de comprender a los otros, remite necesariamente a la autocomprensión propia y ajena y, por lo tanto, constituye un problema intersubjetivo e intercontextual; complejidad que las ciencias &#91;…&#93; solo pueden resolver mediante un lenguaje que permita comparar de manera no distorsionante las significaciones propias y ajenas que entran en juego en un contexto espacio-temporal determinado” (<xref ref-type="bibr" rid="B2">Cárcamo Landero 2015</xref>:272).</p><p>Aquel desafío, comprendido no solamente como problema epistémico, sino planteado además por sus implicaciones eminentemente prácticas, conduce directamente al posicionamiento interdisciplinar como un modelo de trabajo que permite asumir aquella intersubjetividad como lógica de razón y como principio de acción. Cuando hablamos de interdisciplina referimos un esfuerzo compartido y de límites permeables, por el que distintas disciplinas se unen epistémica, teórica y/o metodológicamente para proponer una visión compleja del objeto/signo estudiado. En estos casos, la construcción de aquel objeto de conocimiento se da precisamente a partir de los procesos de negociación de dominios y de mediación entre distintos sistemas de codificación. Nos referimos, pues, no solamente a una forma conjunta de construir objetos de conocimiento complejos, sino -y quizás sobre todo-de una estrategia que implica una toma de consciencia respecto a las lógicas y lenguajes del Otro y de cada campo, en una búsqueda de adecuación de los parámetros de ponderación lo mismo que de discursos compartidos.</p><p>Los estudios sobre interdisciplina se encuentran necesariamente relacionados con la reflexión sobre las implicaciones de lo disciplinar en los procesos de construcción del conocimiento. El paso de la visión disciplinar a una perspectiva de fronteras permeables en la construcción de los estudios interdisciplinares se da a partir de la socialización de la reflexión científica sobre el conocimiento. Sobre la construcción del discurso interdisciplinario, proponen Jean Piaget y Rolando García: “No solo los estadios sucesivos de la construcción de las diferentes formas de saber son secuenciales -es decir, que cada uno es a la vez resultado de las posibilidades abiertas por el precedente y condición necesaria de la formación del siguiente-, sino, además, cada nuevo estadio comienza por una reorganización, a otro nivel, de las principales adquisiciones logradas en los precedentes. De ahí resulta una integración, hasta los estadios superiores, de ciertos vínculos cuya naturaleza no se explica sino a través de un análisis de los estadios elementales” (<xref ref-type="bibr" rid="B10">Piaget 2008</xref>:9).</p><p>Así, el énfasis en el carácter definitorio de estos vínculos entre distintos niveles de una misma disciplina, en una disposición vertical de la misma, pueden ser las bases para el replanteamiento de una visión horizontal del conocimiento; los vínculos entre distintos campos semiosféricos, en tanto recortes de realidad, además de ser los contornos que definen lo disciplinar, resultan ser también las zonas fronterizas en las que, en virtud de la porosidad de dichos linderos, será posible la constitución de un discurso interdisciplinar, por el que dos o más perspectivas discursivas distintas encuentren un espacio de construcción conjunta del conocimiento, ya no por decantación o sumatoria, sino por procesos de integración mediada del conocimiento.</p><p>Ninguna investigación particular tiene la capacidad de integrar diferentes disciplinas. Los procesos de integración disciplinaria (al igual que los procesos de diferenciación que han dado lugar a cada una de las disciplinas científicas), han significado replanteamientos fundamentales que no se limitan a “poner juntos” (<xref ref-type="bibr" rid="B4">García 2006</xref>:23) (o a “separar”) los conocimientos de diferentes dominios.</p><p>Una visión interdisciplinaria del signo implicará entenderlo como un objeto cultural complejo, situado en un contexto específico y puesto en marcha a partir de una situación comunicativa concreta. Así, los factores económicos, la organización social, los procesos de interacción, las caracterizaciones simbólicas del mundo, o la perspectiva epistémica/teórica/metodológica de quien observa, resultarán ser factores no solo determinantes, sino coescenciales al signo, como elementos todos interdefinidos dentro de un sistema de realidad dado.</p><p>Haremos uso de la noción de complejidad como una vía explicativa acerca de la forma en que actúan estos dispositivos sígnicos y sus condiciones pragmáticas peculiares. “La complejidad de un sistema no está solamente determinada por la heterogeneidad de los elementos (o subsistemas) que lo componen y cuya naturaleza los sitúa normalmente dentro del dominio de diversas ramas de la ciencia y la tecnología. Además de la heterogeneidad, la característica determinante de un sistema complejo es la interdefinibilidad y mutua dependencia de las funciones que cumplen dichos elementos dentro del sistema total. Esta característica excluye la posibilidad de obtener un análisis de un sistema complejo por la simple adición de estudios sectoriales correspondientes a cada uno de los elementos” (<xref ref-type="bibr" rid="B4">García 2006</xref>:87).</p><p>Las condiciones peculiares de existencia del signo como parte de un fenómeno pensado en términos (inter)disciplinares, entrañan un recorte de realidad -campo semiosférico- que funciona como una totalidad organizada de manera que sus elementos forman un entramado de objetos sígnicos interdefinidos. Esta calidad de recorte delimitado y de fronteras permeables, por una parte, y de estructura entramada, por la otra, constituyen el carácter unitario inherente a todo sistema sígnico, y refieren el rasgo de diferenciación unitaria de todo suceso discursivo: no pueden haber dos procesos de enunciación/interpretación idénticos. Así, aquellos recortes de realidad existen a su vez como realidades perceptuales construidas y determinadas tanto por las lógicas de su propia constitución, como por las claves de lectura propias del sujeto que las pondera.</p><p>Las peculiares condiciones de realización vinculadas a un proceso de significación resultan fatalmente interdependientes dentro de ese proceso, en tanto que partes complementarias de un mecanismo de producción del sentido; así las intenciones enunciativas y expectativas de recepción de los sujetos, convergencias espacio-temporales, marcos normativos, acuerdos éticos o utilización de códigos compartidos representan un conjunto de relaciones que definen la estructura del sistema de formas recíprocas: el cambio de cualquiera de estos elementos entrañará una necesaria modificación en el proceso de construcción del sentido.</p>
+</sec>
+<sec>
+<title>Conclusiones</title>
+<p>Si algo se ha reprochado al llamado giro semiótico como enclave o perspectiva de carácter epistémico, ha sido su naturaleza relativizante, su afán por utilizar la malla de los signos como una película que recalibra la observación, que filtra el conocimiento a través de redes de codificación y que, finalmente, propone parámetros -y con ello resultados- convenientes al modelo y perspectivas de quien proponga la pesquisa correspondiente.</p><p>A lo largo de este artículo, hemos buscado mostrar la forma en que aquella perspectiva -la semiótica, o de forma más precisa, la semiósica- permite sobre todo estructurar parámetros de validación del conocimiento a partir de una toma de conciencia sistematizada respecto la utilización de criterios de modelización de las unidades y lógicas de observación, de las interacciones productivas entre doxa y episteme, o de la apropiación de estructuras interdisciplinarias que objetiven la observación y crucen criterios y lógicas de construcción del sentido.</p><p>A partir de estas premisas, es posible proponer algunas consideraciones a manera de conclusiones procesales, esto es, de hallazgos resultantes que son, siempre y necesariamente, puntos de llegada lo mismo que ventanas que se abren:</p><p>La realidad existe, no únicamente pero sí permanentemente, a partir de sus formas de representación. En este sentido, cualquier entorno de realidad está constituido por sistemas de significación que no solamente determinan sus lógicas de existencia y acción, sino que lo definen como un entramado de codificación relativo tanto a sus estructuras internas como a los modelos que sean utilizados para su ponderación.</p><p>La observación no es una cualidad natural, sino un constructo derivado de un proceso de percepción que implica lo mismo sensorialidad que conocimiento e intuición. La utilización de modelos de percepción semióticamente conscientes permite construir modelos de observación de segundo orden, capaces de incluir en las lógicas de funcionamiento aquellos criterios de adecuación relativos a las transformaciones del propio modelo, fatalmente condicionado a sus marcos de observación. La relación objeto-mirada es recíproca: la mirada enmarca y juzga al objeto; el objeto determina y amolda a la mirada. Todo modelo de observación deviene determinada forma de representación.</p><p>La relación entre doxa y episteme existe como un entramado de codificación/transcodificación que permite establecer estructuras dinámicas de ponderación y, por tanto, de construcción de los objetos de conocimiento. Cualquier acercamiento a un campo semiosférico implicará, en este sentido, procesos de interacción intersubjetivos, por los que el conocimiento, más allá de su procedencia, se convierte en funtivo de funciones comunicativas operativamente dinámicas y estructuralmente complejas.</p><p>Las interacciones entre la totalidad del objeto sígnico estudiado y las partes que lo componen no pueden ser analizadas fraccionando el sistema en una suma de elementos parciales acumulados, sino como elementos interrelacionados, interdependientes e interdefinibles. Asumir esta condición peculiar del campo semiosférico como sistema complejo nos conducirá directamente hacia un enfoque resolutorio que permita construir modelos de análisis que asuman aquella diversidad como parte fundamental de los fenómenos semiósicos. </p><p>Establecer la noción de complejidad como un paradigma explicativo de todas aquellas visiones diversas implica una toma de postura. Asumir, en todo caso, esta postura no como una obviedad sino como una estrategia aproximativa a cualquier sistema de comunicación, nos brinda la posibilidad de pensarlo como conjunto abarcable en sus lógicas y mesurable sus procedimientos. </p><p>Comprender el carácter sistémico de cualquier proceso sígnico nos brindará la posibilidad de acotarlo a partir de sus lógicas de estructuración, de sus normativas de codificación, de sus zonas limítrofes y condiciones pragmáticas de recepción. Establecer sus bases epistémicas nos permite esclarecer las lógicas paradigmáticas que lo sustentan, sus procedimientos de construcción y el trasfondo cognitivo de sus objetos. Identificar, explicar y ponderar las relaciones entre estos niveles, será el fin último de este análisis, en tanto que reflexión sistematizada respecto a las observaciones hechas al signo.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>Referencias bibliográficas</title>
+<ref id="B1">
+<mixed-citation>Becerra, G.(2016). "Sociocibernética: tensiones entre sistemas complejos, sistemas sociales y ciencia de la complejidad". <italic>Athenea Digital. 16</italic>(3), 81-104. Recuperado de https://doi.org/10.5565/rev/athenea.1636</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Becerra</surname>
+<given-names>G. </given-names>
+</name>
+</person-group>
+<year>2016</year>
+<article-title>Sociocibernética: tensiones entre sistemas complejos, sistemas sociales y ciencia de la complejidad</article-title>
+<source>Athenea Digital</source>
+<volume>16</volume>
+<issue>3</issue>
+<fpage>81</fpage>
+<lpage>104</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/athenea.1636">https://doi.org/10.5565/rev/athenea.1636</ext-link>
+</element-citation>
+</ref>
+<ref id="B2">
+<mixed-citation>Cárcamo Landero, S.(2015). "Lenguaje de contrastes sutiles: el sentido hermenéutico de las ciencias humanas según Charles Taylor". <italic>Alpha.</italic> (41), 269-218. Recuperado de https://scielo.conicyt.cl/pdf/alpha/n41/art_18.pdf</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cárcamo Landero</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<article-title>Lenguaje de contrastes sutiles: el sentido hermenéutico de las ciencias humanas según Charles Taylor</article-title>
+<source>Alpha</source>
+<volume></volume>
+<issue>41</issue>
+<fpage>269</fpage>
+<lpage>218</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://scielo.conicyt.cl/pdf/alpha/n41/art_18.pdf">https://scielo.conicyt.cl/pdf/alpha/n41/art_18.pdf</ext-link>
+</element-citation>
+</ref>
+<ref id="B3">
+<mixed-citation>Eco, U. (2011). <italic></italic>. Kant y el ornitorrinco.  Barcelona: Penguin Random House</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Eco</surname>
+<given-names>U.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<source>Kant y el ornitorrinco</source>
+<publisher-name>Penguin Random House</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B4">
+<mixed-citation>García, R. (2006). <italic>Sistemas complejos. Conceptos, métodos y fundamentación epistemológica de la investigación interdisciplinaria</italic>.  Barcelona: Gedisa</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>García</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>2006</year>
+<source>Sistemas complejos. Conceptos, métodos y fundamentación epistemológica de la investigación interdisciplinaria</source>
+<publisher-name>Gedisa</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B5">
+<mixed-citation>González, J., Amozurrutia, J., Maass, M. (2007). <italic>Cibercultur@ e iniciación en la investigación</italic>. En  México: Conaculta</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>González</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Amozurrutia</surname>
+<given-names>J.A.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Maass</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2007</year>
+<source>Cibercultur@ e iniciación en la investigación</source>
+<publisher-name>Conaculta</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B6">
+<mixed-citation>Luhmann, N. (2005). <italic>El arte de la sociedad</italic>.  México: Gedisa</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Luhmann</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<year>2005</year>
+<source>El arte de la sociedad</source>
+<publisher-loc>México</publisher-loc>
+<publisher-name>Gedisa</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B7">
+<mixed-citation>Maldonado, T. (1999). <italic>Lo real y lo virtual</italic>. Barcelona: Gedisa</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Maldonado</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<year>1999</year>
+<source>Lo real y lo virtual</source>
+<publisher-name>Gedisa</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B8">
+<mixed-citation>Morris, C. (1985). <italic>Fundamentos de la teoría de los signos</italic>.  Barcelona: Paidós</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Morris</surname>
+<given-names>Ch.</given-names>
+</name>
+</person-group>
+<year>1985</year>
+<source>Fundamentos de la teoría de los signos</source>
+<publisher-name>Paidós</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B9">
+<mixed-citation>Parra, J.(2014). "La imagen y la esfera semiótica". <italic>Iconofacto. 10</italic>(14), 76-89. Recuperado de https://revistas.upb.edu.co/index.php/iconofacto/article/view/3005</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Parra</surname>
+<given-names>J.D.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<article-title>La imagen y la esfera semiótica</article-title>
+<source>Iconofacto</source>
+<volume>10</volume>
+<issue>14</issue>
+<fpage>76</fpage>
+<lpage>89</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://revistas.upb.edu.co/index.php/iconofacto/article/view/3005">https://revistas.upb.edu.co/index.php/iconofacto/article/view/3005</ext-link>
+</element-citation>
+</ref>
+<ref id="B10">
+<mixed-citation>Piaget, J., García, R. (2008). <italic>Psicogénesis e historia de la ciencia</italic>.  México: Siglo XXI</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Piaget</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>García</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>2008</year>
+<source>Psicogénesis e historia de la ciencia</source>
+<publisher-loc>México</publisher-loc>
+<publisher-name>Siglo XXI</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+</ref-list>
+<app-group>
+<app id="app1">
+<label>
+
+</label>
+<p>
+
+</p>
+</app>
+</app-group>
+</back>
+</article>

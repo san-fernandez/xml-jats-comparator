@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <issn pub-type="ppub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">https://doi.org/10.4067/S0717-554X2021000100081</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Aproximación hacia una comprensión estructural de la e-justicia</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Approach towards a structural understanding of e-justice</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7294-0702</contrib-id>
+               <name>
+                  <surname>Coll</surname>
+                  <given-names>Alex Rodrigo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1a">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8238-6944</contrib-id>
+               <name>
+                  <surname>D. Restrepo-Rodríguez</surname>
+                  <given-names>Rubén</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1b">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1a">
+            <label>1</label>
+            <institution content-type="original">Facultad de Derecho, Ciencias Sociales y Políticas, Fundación Universitaria Católica Lumen Gentium Unicatólica, Santiago de Cali</institution>
+            <institution content-type="normalized">Fundación Universitaria Católica Lumen Gentium Unicatólica</institution>
+            <institution content-type="orgname">Fundación Universitaria Católica Lumen Gentium Unicatólica</institution>
+            <country country="CO">Colombia</country>
+            <email>alexder1994@yahoo.es</email>
+         </aff>
+         <aff id="aff1b">
+            <label>1</label>
+            <institution content-type="original">Facultad de Derecho, Ciencias Sociales y Políticas, Fundación Universitaria Católica Lumen Gentium Unicatólica, Santiago de Cali</institution>
+            <institution content-type="normalized">Fundación Universitaria Católica Lumen Gentium Unicatólica</institution>
+            <institution content-type="orgname">Fundación Universitaria Católica Lumen Gentium Unicatólica</institution>
+            <country country="CO">Colombia</country>
+            <email>rdrestrepo@unicatolica.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>70</issue>
+         <fpage>81</fpage>
+         <lpage>93</lpage>
+         <history>
+            <date date-type="received">
+               <day>30</day>
+               <month>07</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>04</day>
+               <month>11</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El presente artículo propone una visión estructural de la e-justicia por contraposición al reduccionismo metodológico e instrumental actual que la concibe como la simple incorporación de los dispositivos tecnológicos de la información y de la comunicación a la función pública judicial de impartir justicia, cuando más, a una transformación cultural del órgano judicial. El análisis plantea que la justicia es un concepto medular de la estabilidad social, que no se agota en la funcionalidad judicial, que depende de las asignaciones estimativas acerca de aquello que para cada sociedad significa la armonía o la armonización social en relación con la interferencia de las conductas entre los individuos que la conforman. Con la introducción de la teoría de la impetración de la justicia se propone que la sociedad sea un componente activo de la gestión conflictiva a partir de la idea de justicia que se construye de igual forma, sin permitir que se le conciba como un simple receptor de la demanda de justicia que de forma vertical entrega la organización pública al margen de la realidad social, que ha adquirido una nueva configuración con la eclosión de la tecnología en todos los ámbitos de la vida humana.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This paper proposes a structural vision of e-justice as opposed to the current methodological and instrumental reductionism that conceives it as the simple incorporation of information and communication technology devices to the judicial public function of imparting justice, or at most, to a cultural transformation of the judicial body. The analysis suggests that justice is a core concept of social stability, which is not exhausted in the judicial functionality, which depends on the estimative allocations about what for each society means harmony or social harmonization in relation to the interference of behaviors between the individuals that comprise it. With the introduction of the theory of the impetration of justice, it is proposed that society be an active component of conflict management based on the idea of justice that is constructed in the same way, without allowing it to be conceived as a simple receiver of the demand for justice that is delivered vertically by the public organization at the margin of social reality, which has acquired a new configuration with the emergence of technology in all areas of human life.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>e-justicia</kwd>
+            <kwd>tecnología</kwd>
+            <kwd>sociedad reticular</kwd>
+            <kwd>administración</kwd>
+            <kwd>impetración</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>e-justice</kwd>
+            <kwd>technology</kwd>
+            <kwd>reticular society</kwd>
+            <kwd>administration</kwd>
+            <kwd>impetration</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="31" />
+            <page-count count="13" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>La eclosión de las tecnologías en todos los ámbitos de la vida humana ha generado transformaciones sustanciales en la forma de pensar, de producir, de comunicarse y en general de relacionarse de las personas. Las situaciones que se proyectan en las pantallas de los dispositivos electrónicos hacen parte de la ubicuidad de las realidades sociales y permiten evadir las tradicionales barreras geográficas, lingüísticas, culturales y hasta las temporales. Las relaciones sociales pertenecen a un nuevo dominio, el ciberespacio, donde la sociedad interactúa a través de la red y dicha trasformación no se queda en el plano instrumental-metodológico, sino que, siguiendo a Foucault, se trata de “actos y umbrales epistemológicos” de “un nuevo tipo de racionalidad y de sus múltiples efectos” (Foucault 2009:72). Surge la “sociedad de modelo reticular” (De Lucas 2008:9) y con esta, distintos efectos de la interferencia conductual, nuevas conductas y formas de comprender y desarrollar las relaciones interpersonales y organizacionales. Se trata de una realidad virtualizada, globalizada, despersonalizada, ubicua, instantánea e inestable; sustancialmente diferente y distante de la sociedad tradicional que era física, personal, de procesos lentos y duraderos, de productos y servicios más que de contenidos como ahora sucede.</p>
+         <p>Con esa trasformación epistémica, ni los conflictos son los tradicionales, ni las soluciones deben serlo así. Por eso se sostiene que la armonía o la armonización social son resultado de un adecuado conocimiento de los sucesos que acontecen en la interacción social, así como de las estimaciones que del mundo hacen las personas, más allá de aquellas que entregan las instituciones y las organizaciones de poder. Se trata de una vinculación de las comunidades, de los grupos y de los individuos en la construcción y evolución de la sociedad, constituyéndose como partícipes activos de los procesos sociales y no simplemente receptores verticales. De una sociedad que reclama “la impetración de la justicia” (Gorjon 2015:114), como la mejor de las formas de aproximación y construcción de una idea de justicia para la sociedad desde la sociedad misma, donde el estrado judicial es el último de los recursos dispuestos para la resolución conflictiva. Donde la denominada e-justicia es un elemento estructural de la sociedad reticular que no se agota en la función pública judicial de impartir justicia, ni se reduce al uso de dispositivos tecnológicos para realizar dicha función.</p>
+         <p>El análisis se estructura en dos apartados. El primero inicia describiendo de forma crítica cómo, a partir de la inclinación gregaria del ser humano, se construye el conocimiento, a la vez que evoluciona la forma de relacionarse y de erigir estructuras sociales acordes a la realidad fáctica, en la mayoría de las veces alejada del funcionamiento y organización institucional desde donde se pretende mantener y determinar el orden social. La idea de justicia que se tiene y se desarrolla en una sociedad constituye un elemento fundamental y para ello se presentan algunas variables de la definición. Desde Platón que sostiene que la justicia es virtud y discreción, como resultado de una configuración moral, pasando por entre otros, John Rawls que desde la filosofía política la define como la estructura básica de la sociedad, sin que ello signifique una adscripción a una idea en especial.</p>
+         <p>En el segundo apartado, se presenta una estimación constructivista de la sociedad en red y se propone que en su polisemia, la idea de justicia no es unívoca y que, por lo tanto, es una construcción de la sociedad hacia la sociedad misma, que en la era tecnológica se reclama la “ciudadanización de la justicia” (Gorjon 2015:114) o una “politización de la justicia” (Machado 2014:84) diferente de la intromisión del ejecutivo y del legislativo en lo judicial, como hasta ahora ha sido concebida dicha noción. Que a partir de las demandas sociales se construye la oferta y no se entrega de forma vertical, para lo cual se recurre a proponer una aproximación epistémica de la sociedad en red y con esta de la e-justicia.</p>
+         <p>Se concluye que la noción de e-justicia no está limitada a la incorporación de dispositivos electrónicos identificados con el prefijo “E”, así como tampoco a la función de impartir “justicia” judicial, sino que compromete la comprensión de las transformaciones que la tecnología ha incentivado en las personas y en las sociedades mismas, con la finalidad de que esa comprensión viabilice la sociabilidad, la armonía o la armonización de las relaciones. Se trata de la idea de justicia en la sociedad reticular o en la era tecnológica, materializada en un esquema estructural de funcionamiento que incluye la acción constructiva de los coasociados, desplazando el secular paradigma conductista donde la idea de justicia es la que poseen los operadores judiciales y las imponen a través de sus decisiones, donde la sociedad civil es solo un agente destinatario. También se desplaza la concepción instrumental que reduce la noción de justicia en la sociedad reticular a la llana incorporación instrumental de los dispositivos tecnológicos para el desarrollo de las funciones propias del órgano judicial que imparte justicia, donde incluso su oferta de justicia es ajena a las demandas de la realidad social.</p>
+      </sec>
+      <sec>
+         <title>Justicia, sociedad y conducta</title>
+         <p>A diferencia de los animales no humanos, el hombre siempre ha intentado comprender y dominar al mundo a más de solo vivir en él. Con esa curiosidad permanente crea, utiliza y transforma todo a su paso en busca de beneficios propios y colectivos. Genera desplazamientos de los paradigmas y de las epistemes, introduciendo a la par cambios en las formas de pensar, de sentir, de actuar y sobre todo de relacionarse con otras personas, con las instituciones y con la naturaleza misma. Se sitúan nuevos discursos, prácticas y en general, conocimientos que modifican las relaciones entre los individuos, los colectivos y las instituciones de manera multidireccional. El hombre se cuestiona sobre el mundo buscando las respuestas, sin embargo, la evolución reposa en la precaución de seguir pensando, porque surgen nuevos cuestionamientos ante cada descubrimiento y es donde se comprende que “jamás tenemos razones concluyentes que nos aseguren que hemos alcanzado la verdad” (Popper 1995:99).</p>
+         <p>La incertidumbre que pesa sobre el conocimiento actual ha eclosionado exponencialmente con la irrupción tecnológica. La obsolescencia del conocimiento es temprana ante cada construcción o descubrimiento y el reduccionismo comprensivo, esto es, conocer las cosas desde un paradigma sin presencia firme del cuestionamiento crítico y holístico, no contribuye de forma eficiente a aprovechar el potencial de aquello que se descubre o se crea. Porque no se trata de saberes continuos atados a una cronología específica, sino de un nuevo tipo de racionalidad y de sus múltiples efectos que generan desplazamientos y transformaciones estructurales. Máxime si se tiene en cuenta que la forma de multiplicar los conocimientos es de tipo comunicacional y, por lo tanto, arraigado dicho proceso en el lenguaje. Un lenguaje en el que subyacen nuevas precauciones porque “las palabras no se quedan en su supuesto lugar de ‘origen’; migran de discurso en discurso y mutan su significado, incluso hasta el punto de abandonar su referente original, si lo tienen, por supuesto” (Gómez-Marín 2010:234).</p>
+         <p>La forma de comprender las transformaciones impacta en los resultados que las mismas arrojan, de ahí el permanente debate acerca de lo correcto y lo incorrecto, de los beneficios, los recursos, las necesidades y la forma de suplirlas o acceder a aquellos. Importante resulta entonces comprender si se juzga la moralidad de los actos atendiendo únicamente a las consecuencias o si la intención es superior a los resultados mismos. Como lo plantea Ortiz-Millán en el análisis sobre los valores estéticos y los morales como patologías del juicio, al sostener que cuando se sobredimensionan ciertos valores, se omite que “están en juego otros valores que también deberían tomarse en cuenta; se simplifican situaciones complejas y se busca que valores estéticos o morales presidan sobre otro tipo de valores” (Ortiz-Millán 2020:140). Cuando predomina la estética como criterio del juicio valorativo, la relevancia estructural de una efigie o institución se reduce a la mera instrumentalidad o a la metodología, como ha sucedido con la e-justicia que se define a partir de sus desarrollos metodológicos-instrumentales (estéticos). “El concepto de e-justicia haría referencia precisamente a los esfuerzos de la administración de justicia para implementar todas las nuevas posibilidades derivadas del uso de Internet, para mejorar su funcionamiento interno, por ejemplo, reduciendo el número de papel físico” (Platero 2020:19). Aquí vale mencionar que los métodos son esquemas de procedimiento y de instrumentos que guían las tareas a desarrollar y optimizan la consecución de los fines que se persiguen.</p>
+         <p>Así lo explica Valledor, al sostener que “el término método refiere la forma o manera de ejecutar un determinado conjunto o sistema de acciones u operaciones ordenadas y reguladas conscientemente por un sujeto para alcanzar un objetivo” (Valledor 2019:22). La claridad que arroja la definición es que el método refiere al esquema adjetivo, a la forma de realización y a la escogencia de los medios e instrumentos, sin que en algún caso se confundan con la tarea misma, con los resultados, ni con la finalidad sustancial que se persigue. No se puede “creer que todos los problemas morales y políticos pueden ser transformados en problemas tecnológicos” (Berlin 1993:3) y es que cuando se trata de medios, “éstos no son políticos, sino técnicos; es decir, capaces de ser resueltos por los expertos o por las máquinas” (Berlin 1993:3).</p>
+         <p>Para comprender la justicia, es necesario apelar a los elementos estructurales, unos que corresponden al ámbito interno del individuo (el subjetivo), a su razón, que le permiten reconocerse como parte de un agregado social, decidir y actuar de acuerdo con su percepción del mundo y lo que este espera para sí. Por su parte desde el ámbito externo (el objetivo), le permiten decidir y actuar dentro de unos parámetros de común aceptación y hasta exigir el cumplimiento de ciertas condiciones inscritas al reconocimiento social, donde se incluyen los aspectos metodológicos y los instrumentales. Sin embargo, la reducción comprensiva ha logrado que la noción de justicia sea de carácter polisémico, dependiente de la cronología, la cultura, la economía y entre otros el desarrollo y aprehensión de las ideas de origen ético, moral y político en general.</p>
+         <p>Para Platón la justicia es virtud y discreción y la injusticia maldad e ignorancia, involucra compromisos morales del individuo hacia la polis. En similar, pero no idéntico sentido, para Aristóteles aquel que es justo “Dará a cada uno lo que se le debe, prefiriendo […] lo bueno y lo conveniente” (Aristóteles 1998:231), lo que se traduce en una fórmula objetiva de retribución a partir de dos criterios, el de la aceptación o del reclamo social, según la posición, el estatus o el mérito de las acciones, respectivamente, en una relación de proporción. Rawls por su parte se centra en “el papel que tiene la justicia en la cooperación social [y] dando una breve explicación acerca del objeto primario de la justicia: la estructura básica de la sociedad” (Rawls 2012:16), donde no es posible lograr una estabilidad social sin una idea de justicia plausible a la generalidad a falta de otra mejor, que se concentra en estructurar las instituciones estatales y el establecimiento de garantías acerca de los presupuestos básicos de la vida en sociedad. En franca oposición Robert Nozick, defensor de las libertades individuales y de un Estado mínimo o ultramínimo sostiene que “no hay ningún sacrificio justificado de alguno de nosotros por los demás” (Nozick 2014:45) que sea impulsado desde la estructura estatal, el sacrificio solo se justifica si subyace desde el individuo mismo.</p>
+         <p>Nancy Fraser introduce el debate acerca de: “¿Cuál es el marco adecuado para examinar las cuestiones de primer orden relativas a la justicia? ¿Quiénes son los sujetos depositarios del derecho a una distribución justa o a un reconocimiento recíproco llegado el caso?” (Fraser 2012:34), comprimiendo una teoría que incluye aspectos mayoritariamente objetivos, como la redistribución y el reconocimiento que los denomina de primer orden, pero reclama la ampliación del marco de responsabilidades en torno al establecimiento de las condiciones de justicia, que ha denominado de segundo orden o de metanivel. Con esta postura se aspira a una comprensión más amplia de la justicia, donde convergen los paradigmas metodológicos (los que se cuestionan por el cómo), los finalistas (que se cuestionan por el para qué) y hasta los instrumentales (que se reducen a indagar por los medios). Sin embargo, pareciere que el ¿qué es? no surge con claridad en la propuesta.</p>
+         <p>El problema de estos paradigmas es que, si se asumen de forma aislada y excluyente, entregan una comprensión reductiva de la justicia que la ata y la agota en elementos como la moral, la cultura, el individualismo libertario y, entre otras, la economía, esquivando su complejidad, que crece en la medida de la evolución del conocimiento a través de la incorporación de nuevos elementos y criterios que transforman los paradigmas. Difícil resulta defender la idea de justicia por fuera de la sociedad, desde el sujeto hacia el sujeto mismo porque “la justicia posee a la vez un papel dinamizador y gratificante de la conducta, en tanto que se ocupa del orden bueno de la convivencia y se preocupa del horizonte óptimo de ésta” (Bilbeny 2015:14). Por el contrario, también es reductiva una noción de justicia que se ocupe solo de la estructura social, de lo universal, desatendiendo al individuo mismo, porque “ni lo universal tiene valor y es llevado a cabo, sin el interés, el saber y el querer particular, ni los individuos viven como personas privadas meramente para esto” (Hegel y Marx 1968:215).</p>
+      </sec>
+      <sec>
+         <title>Conducta y sociabiliad</title>
+         <p>La conducta individual puede llegar a ser la máxima expresión de la libertad humana en tanto que “es verdaderamente libre quien desea lo que puede hacer y hace lo que desea” (Berlin 2014:13). Por su parte, las limitaciones conductuales son, en esencia, la prueba de la coexistencia social porque desear “ser libre para vivir como me manda mi voluntad racional” (Berlin 2014:16), implica reconocer que “igualmente lo tienen que ser otros” (Berlin 2014:16). John Stuart Mill hace una distinción de estas dos nociones, a la primera la denominó libertad de la voluntad y a la segunda la denominó libertad civil o social. En la primera hace referencia a una doctrina filosófica de la autonomía individual y en la segunda, a la construcción social desde dos ámbitos: uno que exige “el reconocimiento de ciertas inmunidades, llamadas libertades políticas o derechos” (Mill 2017:10), que impiden la anulación del individuo y de la libertad de la voluntad frente al poder estatal y otro que desde “el consentimiento de la comunidad, o el de una corporación que se suponía representante de sus intereses, se convertía en condición necesaria para algunos de los más importantes actos del poder” (Mill 2017:10) denominados controles. Se traduce, en la participación de los coasociados en la construcción de los destinos sociales, al margen de las sociedades antiguas, por ejemplo, Roma y Grecia, donde el gobernante representaba la unidad social. “Solía tratarse del gobierno de un hombre, o bien de alguna tribu o casta, cuya autoridad derivaba del derecho de herencia o conquista” (Mill 2017:9), sin que la participación constructiva de los integrantes de la sociedad fuera en absoluto necesaria.</p>
+         <p>La sociedad es entonces el resultado de los efectos que producen la interferencia conductual de sus integrantes y esta de sus comprensiones y estimaciones, “porque cuando las ideas son descuidadas […] éstas adquieren a veces un carácter incontrolado y un poder irresistible sobre multitudes de seres humanos que pueden hacerse demasiado violentos para ser afectados por la crítica de la razón” (Berlin 1993:4). Se trata de la influencia que posee la estimación filosófica de la cosas y que guía la evolución o los retrocesos de la vida humana, aunque existan escépticos de esta perspectiva y arraigados en una racionalidad instrumental de la vida, materialista y superflua, que no reconozcan que aunque “las ideas políticas sean algo muerto si no cuentan con la presión de las fuerzas sociales, [pero] lo que es cierto es que estas fuerzas son ciegas y carecen de dirección, si no se revisten de ideas” (Berlin 1993:3).</p>
+         <p>Como lo explicó Cossio: “la existencia humana es coexistencia. Ahora es en relación con otro sujeto actuante, donde la ejecución de una acción queda contrapuesta al impedimento de la misma que puede oponerle la acción que realiza otro sujeto” (Cossio 1948:72). La constante interferencia que se produce en el desarrollo de las relaciones sociales, esto es, entre dos o más personas, genera contactos constantes entre intereses, necesidades, principios, valores y en general, entre cursos de acción variados y hasta contrarios entre sí. En la coexistencia, tanto el sujeto ejecutor, el que actúa, como los actores o receptores, se convierten en destinatarios, directos e indirectos de la acción humana, bien porque impiden una acción o porque la permiten, ya porque se benefician o se perturban con los efectos que esta produce. Incluso, porque esos efectos contraen consecuencias en el orden social en el que se coexiste. La coexistencia tiene efectos hasta en aquel halo de actuación íntima del individuo al que Berlin ha denominado libertad negativa y que la define como “el ámbito en que al sujeto -una persona o un grupo de personas- se le deja o se le debe dejar hacer o ser lo que es capaz de hacer o ser” (Berlin 1993:4) con los límites de la razón en la coexistencia.</p>
+         <p>En la interferencia entre los sujetos actuantes, partícipes de las relaciones sociales, se recurre a la creación y uso de conceptos, preceptos, comprensiones y mecanismos para gestionar las tensiones que se presentan. Es decir, a crear y poner en funcionamiento una estructura de orden social. Sus desarrollos no siempre recaen en la institucionalidad pública, sino que, también la sociedad misma como base del sistema, apropia y utiliza los mecanismos dispuestos para la autogestión de los conflictos y tensiones relacionales, como parte activa de la estructura. Esta gestión social de las relaciones compromete algunas variantes, a saber:</p>
+         <p>(a) El actuar moral, guiado por la razonabilidad aún en medio de las tensiones como, por ejemplo, el respeto por la propiedad privada, la tolerancia frente a comportamientos reprochables, la solidaridad ante la necesidad ajena, la cooperación en las empresas comunes y, entre otros, la transacción de las diferencias. No en el sentido anárquico que propone Nozick cuando sostiene que se debería “concentrar la atención en una situación no-estatal en que la gente satisfaga generalmente las restricciones morales y actúe en general como debe” (Nozick 2014:18), sino reconociendo que aunque en su mayoría los cursos de acción antes descritos no dependen en su totalidad del orden de poder, en mayor o en menor grado adquieren compromisos en ese nivel asociados a la carga de límites actuariales que impone la construcción de sociedad y de Estado. Reconociendo “cierta conexión importante entre los rasgos característicos de la moral y circunstancias básicas de la vida social” (Nino 1989:93), donde las personas responden a los límites que desde su interior se imponen sin la necesidad de la coerción estatal, aunque esté disponible para tales propósitos.</p>
+         <p>(b) El actuar cívico o prudente, que se inclina por el respeto y observancia estricta de los dispositivos estructurales del orden social, de la justicia, sin intervención de terceros, donde, por ejemplo, se cumplen los contratos, las normas de tránsito, se pagan los impuestos, los salarios y las prestaciones sociales a los trabajadores. Comporta un actuar prudente o de moral social. Se proyecta como la disposición para respetar los acuerdos societarios acerca de aquello que es correcto frente a lo incorrecto mediante un “razonamiento práctico del hombre ‘prudente’, quien está principalmente preocupado por las reacciones sociales que pueden provocar sus actos” (Nino 1989:93), sin que necesariamente exista un compromiso interno del sujeto, sino que se ve constreñido por los posibles efectos de una conducta distinta a aquella que es aceptada social y estatalmente.</p>
+         <p>(c) El actuar político, que acepta la intervención de terceros no pertenecientes a la institucionalidad judicial para que medien o resuelvan los conflictos que se presentan, como sucede con el arbitraje, la conciliación extrajudicial, la mediación y la amigable composición. Subyace en el reconocimiento mismo de una corresponsabilidad en la tarea de mantenimiento del orden social que no apela únicamente a la fuerza estatal, sino que compromete a todas las subestructuras e instituciones societarias. Reconoce que, a más del Estado, los sujetos e instituciones sociales son importantes actores que contribuyen a la consecución de los fines que se persiguen y sobre todo de la armonía social. Permite una reconfiguración teórica, que migra del reconocimiento de “un soberano que encarne la separación entre lo público y lo privado, por medio de la instauración de un sistema legal” (Henao 2015:105) y se añade judicial, como únicos caminos posibles para evolucionar políticamente hacia un Estado que reconoce a la sociedad y a los societarios como componentes activos de la estructura estatal, “donde el Estado y la sociedad se mimetizan para generar diversidad de órdenes políticos” (Henao 2015:107).</p>
+         <p>Las variables asociadas a la conflictividad en las relaciones mediadas por las tecnologías de la información y de la comunicación poseen un componente adicional y es que, ante la dilución de las barreras geográficas, los mecanismos y nociones de orden social no pertenece a un lugar específico. Una negociación entre individuos interferentes que se ubican en hemisferios opuestos compromete nociones espaciales, culturales, jurídicas y hasta temporales distintas, sin embargo, no es óbice para que mediada la razonabilidad de los interferentes no se pueda realizar una gestión no institucional de las tensiones y conflictos y, con éstos, de la justicia en cualquiera de sus variables: moral, prudencia o cívica y compromiso político. Eliminando esa percepción de astucia, habilidad y sagacidad para atropellar la humanidad ajena esperando no ser descubierto o eludiendo las obligaciones a través de la mímesis o del camuflaje, cualquiera que sea el fundamento de aquellas. Donde la fuerza estatal es el último de los recursos y el estrado judicial deja de ser el primer escenario de resolución conflictiva.</p>
+      </sec>
+      <sec>
+         <title>La justicia y la sociedad reticular</title>
+         <p>En una sociedad que se comunica, que produce, que se educa y en general, que se relaciona a través de la red y los mecanismos tecnológicos que hacen posible esa dinámica, la episteme del relacionamiento social y con esta de las condiciones de sociabilidad sufren mutaciones jalonadas por el avance tecnológico. Transforman al individuo y a la sociedad misma generando que los elementos objetivos y subjetivos para su comprensión sean distintos y cada vez más distantes de aquellos que caracterizaron a las sociedades presenciales, de contacto, de fronteras geográficas y de barreras temporales.</p>
+         <p>Se trata de una “sociedad de modelo reticular” (De Lucas 2008:9), donde “el zoon politikon éjon lógon se estaría convirtiendo progresivamente en un zoon elektronikón, es decir, en un animal en el que el vínculo social se articularía cada vez más desde dispositivos electrónicos” (Urmeneta y Legerén 2016:767). Sin embargo, esa transformación tecnológica no es sinónimo de tecnología ni de dispositivo tecnológico, pues “si bien la manifestación del cambio es tangible y aparente en forma de artefactos materiales, la parte integral de este proceso es de naturaleza cognitiva” (Arteaga, Medellín y Santos 1995:12). Lo estimativo, esto es, el valor que se otorga a las cosas puestas en el universo al servicio de la vida humana debe ser situado solo en el servicio mismo, sin incrementar ese valor y sin reducir la integralidad del proceso transformativo porque “lo estimativo condiciona todas las demás maneras de ser, en suma, condiciona al universo entero con todas sus zonas y categorías” (Siches 1952:21). Si la estimación de los instrumentos que se usan para el desarrollo de la interacción social es sobrevalorada, la misma interacción social será reducida a su valor instrumental, luego, los efectos que se producen no comprometen la relevancia que se persigue en la sociabilidad, decayendo en esquemas sociales superficiales, de técnica y no de desarrollo humano.</p>
+         <p>Incluso abriéndole paso al instrumentalismo desarrollista, donde subyace la tecnología inútil o letal, que cuando más produce dinero, pero también amenaza o ataca la estabilidad de la humanidad a través del denominado imperativo tecnológico que sostiene que todo lo que se puede se debe. Se confunde el valor de los alcances adjetivos con el de los sustanciales. Así, si el método es la forma de acercarse a la condición sustancial propuesta, el método no encierra en sí mismo la condición sustancial y de igual forma sucede con los instrumentos de los cuales se dispone para una determinada ejecución conductual. En las sociedades reticulares, los dispositivos tecnológicos están al servicio de la transformación de la vida humana, pero no son la vida humana misma. Luego, la sociabilidad y la convivencia tecnológica se estiman racionalmente desde los sujetos interferentes en las relaciones, reconociendo la complementariedad entre los elementos estructurales que permiten su gestión y llegado el caso, aún sin un dispositivo tecnológico, el individuo, la comunidad, el operador judicial o el encargado de corregir el injusto está capacitado para comprender la conflictividad que subyace en la dinámica tecnológica social.</p>
+      </sec>
+      <sec>
+         <title>Sobre el concepto de e-justicia y su impetración social</title>
+         <p>El concepto de e-justicia se adoptó hace más de una década como una derivación de la noción de e-government. Se trata del cumplimiento de las seculares funciones gubernamentales adecuadas mediante la incorporación tecnológica disponible. De esa línea comprensiva, la e-justicia se ha definido como “el gobierno electrónico especializado en temas jurídicos o la inclusión del uso de las tecnologías del conocimiento e información en la Administración de Justicia” (Bueno 2010:3), delimitado fundamentalmente en tres ámbitos adjetivos: “la comunicación, la sustanciación de los juicios (especialmente en materia de práctica de prueba) y la grabación de los juicios y actuaciones orales (González 2017:1031). Se asumió la transformación tecnológica como un aspecto reductible a los alcances instrumentales, como “un concepto meramente descriptivo de la aplicación de la tecnología al sistema Judicial, sin que esa denominación suponga o indique una modificación o innovación radical del sistema de impartición de Justicia” (González 2017:1035) e ignorando la existencia “de un nuevo espacio o ‘dominio’ virtual (ciber), construido como un escenario de interacción humana con sus propias realidades, modalidades y disputas” (Azócar y Lavín 2016:138).</p>
+         <p>Aunado a lo anterior e ignorando que más allá de la justicia de los jueces y magistrados también existe la justicia, esta se comprende como una función judicial que se conoce de forma vertical, desde el órgano que imparte justicia hacia los sujetos justiciables, donde el primero declara lo justo y corrige el injusto y el segundo acata la declaración de la autoridad. Se elude el contenido axiológico ínsito en el valor “justicia” y su estimación holística, reduciendo sus efectos a los alcances instrumentales entregados por la vía de la estructura funcional estatal al órgano judicial. Incursionando de forma directa en los ámbitos organizativos sin la construcción básica que orienta la filosofía política que “es entendida como forma de reflexión de un plexo de vida ético […] formación de la voluntad política de tipo horizontal, orientada hacia el entendimiento o hacia un consenso alcanzado argumentativamente” (Habermas 2005:2).</p>
+         <p>La e-justicia, como noción política estructural de la sociedad, hace referencia a una actualización de la estructura de administración de justicia, donde todas las relaciones intersubjetivas actuales comprometen algún grado de desarrollo a través de las tecnologías de la información y de la comunicación y, por lo tanto, la estructura de administración de justicia no puede estar atada a su comprensión tradicional, que es funcional. Su aproximación comprensiva exige “detectar la incidencia de las interrupciones. Interrupciones cuyo estatuto o cuya naturaleza son muy diversos. […] suspenden el cúmulo indefinido de los conocimientos, cortan su lenta maduración y los hacen entrar en un tiempo nuevo” (Foucault 2009:72). El tiempo en el que la sociedad ya no está al margen de la construcción ni de la interacción política, ni de la estructuración y del mantenimiento del orden social, como se presentaba en otrora en las sociedades tradicionales. Porque cuando se habla de judicialización de la política, siempre se hace referencia a la organización pública y a la distribución de funciones, cercenando de tajo la vinculación de la sociedad civil, a quien se le exige mucho, pero se le entrega poco al momento de intervenir de forma efectiva en la construcción y mantenimiento del orden social, produciendo una ruptura de facto entre la organización pública y la realidad social. Por el contrario, la politización de la justicia permite comprender que “un grupo social específico representa la universalidad, unificando de esta manera una cadena de significados en torno a un significante vacío como la justicia, la igualdad, o la libertad” (Machado 2014:84). Con la politización de la justicia no se hace referencia a la intromisión del ejecutivo o del legislativo en el ámbito judicial, sino de entregarle a la sociedad misma el espacio que debe ocupar en la determinación de la idea de justicia y en la permanente labor de reconstruir dicha idea.</p>
+         <p>La digitalización del expediente judicial, las audiencias virtuales, los memoriales y las notificaciones en casilleros electrónicos, centran la funcionalidad de la impartición de justicia judicial digital. Sin que por demás y, por ejemplo, la variabilidad, la multiplicidad y la originalidad de la prueba que subyace en medios electrónicos representen mayores preocupaciones o no se limite al establecimiento de formalidades procesales. También así sucede con las novedosas tensiones que se generan en las interferencias conductuales desplegadas a través de las nuevas tecnologías, que no son de simple producción, facilitación o moda, ni comprometen una “accettazione acritica di ogni novità presentata come innovazione” (De Biase 2016:9), sino que exigen un uso crítico y sobre todo una crítica de sus usos y efectos, de delimitaciones sustanciales más que dogmáticas o adjetivas.</p>
+         <p>La utilización de los recursos tecnológicos, per se, presupone la generación de grandes ventajas, sobre todo organizativas, como la disposición de recursos físicos, la optimización de tiempos y potencialización de la comunicación entre los intervinientes, donde cobra fuerza la subestructura de gobierno y de administración de los recursos. Sin embargo, la riqueza de la impartición de justicia se encuentra en la evolución hacia nuevas comprensiones de las relaciones sociales, donde “las nuevas generaciones, educadas desde su infancia en el mundo electrónico, tienden a tomar como real empírico lo que aparece en las pantallas según diferentes formatos, sean estos verbales, acústicos o visuales” (Urmeneta y Legerén 2016:765). Se arraiga una despersonalización de las relaciones sociales, afectivas, comerciales, educativas, globalizantes o globalizadas, que derivan en la descontextualización, en el desconocimiento de las particulares realidades humanas y la otredad se marca “de acuerdo a las jerarquías de poder global, la administración de Internet, en relación al carácter transnacional de las redes y actividades en el ciberespacio” (Azócar y Lavín 2016:146).</p>
+         <p>El órgano establecido institucionalmente para la resolución de los conflictos, es decir, el órgano judicial, no agota la estructura de orden social, ni siquiera el de administración de justicia, solo posee, funcionalmente, la responsabilidad de impartir justicia y en la mayoría de las veces también la de administrar los distintos recursos de los que se dispone. Sin embargo, no es el único, pues existen otros organismos, unos institucionales y otros de carácter social y comunitario, encargados de realizar dicha función, obviamente, con distintos alcances, como por ejemplo, los jueces de paz, los tribunales de arbitramento y algunas autoridades administrativas (no judiciales) con funciones jurisdiccionales. En suma, impartir justicia, como función, se agota en la resolución de las tensiones y de los conflictos, cuya gestión social no fue satisfactoria o fue inexistente. Comporta compromisos resolutivos judiciales, pero cuyos desarrollos pueden ser también, sociales o comunitarios, donde se arraiga la denominada teoría de la “impetración de la justicia, que de igual forma considera a la ciudadanización de la justicia como elemento sine qua non del paradigma de ‘resolver nosotros mismos nuestros conflictos’, como elemento constitutivo de la teoría” (Gorjon 2015:114).</p>
+         <p>La impartición de justicia tradicional y la justicia digital no son más que variaciones imputativas de la dimensión praxeológica de aquella configuración axiológica de la justicia. Cada una de estas, atendiendo las especiales particularidades del tiempo y del espacio en el que le dan formas a su esencia que es intangible (pero que en el acaecimiento del injusto), exigen una comprensión compleja, preferiblemente bajo la vinculación de aquellos que sienten ese injusto, buscando “una justicia ad-hoc a través de nuestras peticiones y de nuestra búsqueda, implicando una reacción o respuesta acorde a nuestras intenciones” (Gorjon 2015:116), donde “al ciudadano se le da un espacio como miembro activo, como un socio que puede contribuir al bienestar general” (Ortiz y Ordoñez 2019:183). Evitando que los jueces deliberen “en secreto, aunque sería más exacto decir que el verdadero secreto es que no deliberan demasiado” (Posner 2011:12) y que la administración de justicia sea reducida al desarrollo de técnicas sin dimensión de valor, derivando en una indiferencia de lo público por lo privado y viceversa.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión</title>
+         <p>El sistema “justicia” puede ser explicado por los moralistas y por los no moralistas desde la razón. Por una parte, la moral, que es asignativa, o sea una creación racional, frente a una racionalidad que, aunque no se apegue a la moral, es precondición de aquella y, por lo tanto, constituye vínculo asignativo y de creación. En ambas es la razón la que guía la determinación de lo justo y de lo injusto. La inclinación hacia uno u otro dependerá del despliegue racional como sistema cultivado en y para la armonía social y no para la individualidad, donde se enervan las creaciones racionales y se produce la irracionalidad, deletérea para la vida humana desde el concepto de desarrollo que supere un simple proceso biológico sin más, donde la sociabilidad y con ella la justicia, reclaman una estructura integral e integradora no reducida al ámbito de ejercicio del poder ni a los instrumentos.</p>
+         <p>Lo justo y lo injusto de las asignaciones de las cargas y de los roles que significamos, como dar a cada quien lo que es de suyo, según su ubicación, cualificación y mérito, es decir, según sus contribuciones, sus acciones y estatus, en una relación de razón, necesidad y medida actual, no puede agotarse en la funcionalidad del estrado judicial. Tampoco puede representarse en la autoridad funcional. Si es así, entonces nadie más que aquél que juzga la situación, sabe qué es la justicia y, por lo tanto, aquella es una concepción lingüística sin valor, a la espera de una fundamentación material o tal vez una causa que no opera como fundamento de la sociabilidad, como lo impone su deontología. Sería un concepto descriptivo sin alcances axiológicos permanentes.</p>
+         <p>La administración de justicia, por su parte, compromete una estructura social de alcance político, no simplemente normativo o funcional, a través de la cual los agregados sociales organizados como Estados pretenden desarrollar las relaciones interferentes en armonía o acercándose a aquella. La justicia como noción asignativa racional que es propende por una configuración conceptual que supere los alcances instrumentales de cada tiempo y espacio, dado su vínculo con la armonía o la armonización de las relaciones intersubjetivas e interferentes, que viabilizan la tendencia gregaria del ser humano en cualquier tiempo y en cualquier espacio de la vida social. La administración estructural de la justicia compromete diversos componentes, humanos y recursos materiales (es multilateral y multifactorial), además, también así, de variados fundamentos (multidimensional), que en tiempos y espacios determinados puede obedecer a causas naturales o a condicionamientos asignativos racionales que le dan formas y en cuyas formas se fortalece el valor social de la noción atemporal e inespacial de la justicia.</p>
+         <p>La e-justicia se presenta como una nueva forma estructural de la administración de justicia, que subyace en la episteme de las dinámicas sociales actuales y venideras, en razón a la interferencia no subjetiva sino factorial, que han causado las tecnologías de la información y de la comunicación en las relaciones humanas intersubjetivas e interferentes. La tecnología ha transformado las seculares formas de relacionarse y, por contera, la conflictividad y la gestión del conflicto. La tradicional estructura de administración de justicia está, en la era tecnológica, en destiempo y no encuentra espacio. Igual sucede con la anacrónica e incompleta forma de conocer lo justo, el injusto y la administración de justicia, sin rezagar su potencial político, donde cobra valor social y se materializa de diversas formas y en nuevos tiempos y espacios, una vez dada la vinculación de todos los sujetos interferentes como potenciales gestores de la conflictividad.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Este artículo es producto del proyecto “Justicia asertiva, ligio digital y asimetrías geosociales. Relación efectivismo-eficientismo de la gestión judicial”, PI-SP201904, 2019-2020, VI Convocatoria, de la Fundación Universitaria Católica Lumen Gentium.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Aristóteles, .,  (1998).
+               <italic>Ética nicomáquea</italic>
+               . : Gredos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aristóteles</surname>
+                     <given-names />
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>Ética nicomáquea</source>
+               <publisher-name>Gredos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Arteaga, A., Medellín, E., Santos, M.(1995). "Dimensiones sociales del cambio tecnológico".
+               <italic>Nueva Antropología. 14</italic>
+               (47), 9-22. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/159/15904702.pdf">https://www.redalyc.org/pdf/159/15904702.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arteaga</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Medellín</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Santos</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <article-title>Dimensiones sociales del cambio tecnológico</article-title>
+               <source>Nueva Antropología</source>
+               <volume>14</volume>
+               <issue>47</issue>
+               <fpage>9</fpage>
+               <lpage>22</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/159/15904702.pdf">https://www.redalyc.org/pdf/159/15904702.pdf"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Azócar, D., Lavín, J. (sin fecha).
+               <italic>El ciberespacio y las relaciones internacionales en la era digital</italic>
+               . En VV.AA (autor.);Espacios del conocimiento: sujeto, verdad, heterotopías.  (138-151).: Universidad de Chile
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Azócar</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lavín</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>El ciberespacio y las relaciones internacionales en la era digital</chapter-title>
+               <source>Espacios del conocimiento: sujeto, verdad, heterotopías</source>
+               <publisher-name>Universidad de Chile</publisher-name>
+               <fpage>138</fpage>
+               <lpage>151</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Berlin, I.,  (sin fecha).
+               <italic>Dos conceptos de libertad. El fin justifica los medios. Mi trayectoria intelectual</italic>
+               . : Alianza editorial
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Berlin</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <source>Dos conceptos de libertad. El fin justifica los medios. Mi trayectoria intelectual</source>
+               <publisher-name>Alianza editorial</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Berlin, I.,  (1993).
+               <italic>Cuatro ensayos sobre la libertad</italic>
+               . : Alianza editorial
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Berlin</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <source>Cuatro ensayos sobre la libertad</source>
+               <publisher-name>Alianza editorial</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Bilbeny, N.,  (2015).
+               <italic>Justicia compasiva. La justicia como cuidado de la existencia</italic>
+               . : Tecnos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bilbeny</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Justicia compasiva. La justicia como cuidado de la existencia</source>
+               <publisher-name>Tecnos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Bueno, F.(2010). "E-justicia: hacia una nueva forma de entender la justicia".
+               <italic>Riedpa. Revista Internacional de Estudios de Derecho Procesal y Arbitraje.</italic>
+               (1), 2-10. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/descarga/articulo/3700453.pdf ">https://dialnet.unirioja.es/descarga/articulo/3700453.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bueno</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>E-justicia: hacia una nueva forma de entender la justicia</article-title>
+               <source>Riedpa. Revista Internacional de Estudios de Derecho Procesal y Arbitraje</source>
+               <volume />
+               <issue>1</issue>
+               <fpage>2</fpage>
+               <lpage>10</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/descarga/articulo/3700453.pdf ">https://dialnet.unirioja.es/descarga/articulo/3700453.pdf "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Cossio, C.(1948). "Panorama de la teoría egológica del derecho".
+               <italic>Revista de la Universidad Nacional. 13</italic>
+               (13), 66-94. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://revistas.unal.edu.co/index.php/revistaun/article/viewFile/13720/14409 ">https://revistas.unal.edu.co/index.php/revistaun/article/viewFile/13720/14409</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cossio</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>1948</year>
+               <article-title>Panorama de la teoría egológica del derecho</article-title>
+               <source>Revista de la Universidad Nacional</source>
+               <volume>13</volume>
+               <issue>13</issue>
+               <fpage>66</fpage>
+               <lpage>94</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://revistas.unal.edu.co/index.php/revistaun/article/viewFile/13720/14409 ">https://revistas.unal.edu.co/index.php/revistaun/article/viewFile/13720/14409 "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               De Biase, L.,  (2016).
+               <italic>Homo pluralis: essere umani nell'era tecnologica</italic>
+               . : Codice edizioni
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>De Biase</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <source>Homo pluralis: essere umani nell'era tecnologica</source>
+               <publisher-name>Codice edizioni</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               De Lucas, J.,  (2008).
+               <italic>La extensión de los agentes del pluralismo</italic>
+               . : Eusko Jaurlaritzaren Agitalpen-Zerbitzu Nagusia
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>De Lucas</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>La extensión de los agentes del pluralismo</source>
+               <publisher-name>Eusko Jaurlaritzaren Agitalpen-Zerbitzu Nagusia</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Foucault, M.,  (2009).
+               <italic>La arqueología del saber</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Foucault</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>La arqueología del saber</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Fraser, N.,  (2012).
+               <italic>Escalas de la justicia</italic>
+               . : Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fraser</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Escalas de la justicia</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Gómez-Marín, R.(2010). "De las nociones de paradigma, episteme y obstáculo epistemológico".
+               <italic>Revista Co-herencia. 7</italic>
+               (12), 229-255. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://publicaciones.eafit.edu.co/index.php/co-herencia/article/view/24/23">https://publicaciones.eafit.edu.co/index.php/co-herencia/article/view/24/23</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gómez-Marín</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>De las nociones de paradigma, episteme y obstáculo epistemológico</article-title>
+               <source>Revista Co-herencia</source>
+               <volume>7</volume>
+               <issue>12</issue>
+               <fpage>229</fpage>
+               <lpage>255</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://publicaciones.eafit.edu.co/index.php/co-herencia/article/view/24/23">https://publicaciones.eafit.edu.co/index.php/co-herencia/article/view/24/23"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Gorjon, F.(2015). "Teoría de la impetración de la justicia. Por la necesaria ciudadanización de la justicia y la paz".
+               <italic>Comunitania: Revista Internacional de Trabajo Social y Ciencias Sociales.</italic>
+               (1), 113-131. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/descarga/articulo/5216768.pdf ">https://dialnet.unirioja.es/descarga/articulo/5216768.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gorjon</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Teoría de la impetración de la justicia. Por la necesaria ciudadanización de la justicia y la paz</article-title>
+               <source>Comunitania: Revista Internacional de Trabajo Social y Ciencias Sociales</source>
+               <volume />
+               <issue>1</issue>
+               <fpage>113</fpage>
+               <lpage>131</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/descarga/articulo/5216768.pdf ">https://dialnet.unirioja.es/descarga/articulo/5216768.pdf "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               González, R.(2017). "La justicia electrónica en España: qué es, como se regula y como funciona".
+               <italic>Revista de la Facultad de Derecho de México. 67</italic>
+               (269), 1031-1074. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://revistas.unam.mx/index.php/rfdm/article/view/62495/54966 ">http://revistas.unam.mx/index.php/rfdm/article/view/62495/54966</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>González</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>La justicia electrónica en España: qué es, como se regula y como funciona</article-title>
+               <source>Revista de la Facultad de Derecho de México</source>
+               <volume>67</volume>
+               <issue>269</issue>
+               <fpage>1031</fpage>
+               <lpage>1074</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://revistas.unam.mx/index.php/rfdm/article/view/62495/54966 ">http://revistas.unam.mx/index.php/rfdm/article/view/62495/54966 "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Habermas, J.(2005). "Tres modelos de democracia. Sobre el concepto de una política deliberativa".
+               <italic>Polis Revista Latinoamericana.</italic>
+               (10), 1-9. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://journals.openedition.org/polis/pdf/7473 ">https://journals.openedition.org/polis/pdf/7473</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Habermas</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Tres modelos de democracia. Sobre el concepto de una política deliberativa</article-title>
+               <source>Polis Revista Latinoamericana</source>
+               <volume />
+               <issue>10</issue>
+               <fpage>1</fpage>
+               <lpage>9</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://journals.openedition.org/polis/pdf/7473 ">https://journals.openedition.org/polis/pdf/7473 "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Hegel, F., Marx, K.,  (1968).
+               <italic>Filosofía del derecho</italic>
+               . : Editorial Claridad
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hegel</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Marx</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <year>1968</year>
+               <source>Filosofía del derecho</source>
+               <publisher-name>Editorial Claridad</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Henao, J.(2015). "El Estado en la sociedad, explicación de cómo la disposición de las burocracias determina los órdenes en países periféricos".
+               <italic>Panorama. 9</italic>
+               (17), 104-122. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15765/pnrm.v9i17.795">https://doi.org/10.15765/pnrm.v9i17.795</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Henao</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>El Estado en la sociedad, explicación de cómo la disposición de las burocracias determina los órdenes en países periféricos</article-title>
+               <source>Panorama</source>
+               <volume>9</volume>
+               <issue>17</issue>
+               <fpage>104</fpage>
+               <lpage>122</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15765/pnrm.v9i17.795">https://doi.org/10.15765/pnrm.v9i17.795"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Machado, I.(2014). "Derecho y hegemonía: una mirada post-estructuralista acerca del derecho, la judicialización de la política y la politización de la justicia".
+               <italic>Utopía y Praxis Latinoamericana. 19</italic>
+               (64), 83-98. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/279/27937087007.pdf">https://www.redalyc.org/pdf/279/27937087007.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Machado</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Derecho y hegemonía: una mirada post-estructuralista acerca del derecho, la judicialización de la política y la politización de la justicia</article-title>
+               <source>Utopía y Praxis Latinoamericana</source>
+               <volume>19</volume>
+               <issue>64</issue>
+               <fpage>83</fpage>
+               <lpage>98</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/279/27937087007.pdf">https://www.redalyc.org/pdf/279/27937087007.pdf"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Mill, S.,  (2017).
+               <italic>Sobre la libertad</italic>
+               . : Ediciones Akal
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mill</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Sobre la libertad</source>
+               <publisher-name>Ediciones Akal</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Nino, C.,  (1989).
+               <italic>Ética y derechos humanos. Un ensayo de fundamentación</italic>
+               . : Astrea
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nino</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>1989</year>
+               <source>Ética y derechos humanos. Un ensayo de fundamentación</source>
+               <publisher-name>Astrea</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Nozick, R.,  (2014).
+               <italic>Anarquía, estado y utopía</italic>
+               . : Fondo de Cultura Económica
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nozick</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>Anarquía, estado y utopía</source>
+               <publisher-name>Fondo de Cultura Económica</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>
+               Ortiz-Millán, G.(2020). "Moralismo y esteticismo acerca de patologías del juicio: un ensayo sobre literatura, moral y estética nómada de Carlos Pereda".
+               <italic>Análisis Filosófico. 40</italic>
+               (1), 139-148. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.36446/af.2020.333">https://doi.org/10.36446/af.2020.333</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortiz-Millán</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>Moralismo y esteticismo acerca de patologías del juicio: un ensayo sobre literatura, moral y estética nómada de Carlos Pereda</article-title>
+               <source>Análisis Filosófico</source>
+               <volume>40</volume>
+               <issue>1</issue>
+               <fpage>139</fpage>
+               <lpage>148</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.36446/af.2020.333">https://doi.org/10.36446/af.2020.333"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>
+               Ortiz, D., Ordóñez, S.(2019). "Buena administración, transparencia y eficiencia: evidencia de los municipios de Colombia".
+               <italic>Revista Digital de Derecho Administrativo.</italic>
+               (21), 179-199. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://revistas.uexternado.edu.co/index.php/Deradm/article/view/5704/7100">https://revistas.uexternado.edu.co/index.php/Deradm/article/view/5704/7100</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortiz</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ordóñez</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Buena administración, transparencia y eficiencia: evidencia de los municipios de Colombia</article-title>
+               <source>Revista Digital de Derecho Administrativo</source>
+               <volume />
+               <issue>21</issue>
+               <fpage>179</fpage>
+               <lpage>199</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://revistas.uexternado.edu.co/index.php/Deradm/article/view/5704/7100">https://revistas.uexternado.edu.co/index.php/Deradm/article/view/5704/7100"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>
+               Platero, A.(2020). "Lexnet como máximo exponente del sistema de justicia electrónica en España: especial referencia a su tratamiento de datos personales".
+               <italic>Revista de Ciencias Jurídicas.</italic>
+               (152), 13-42. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://revistas.ucr.ac.cr/index.php/juridicas/article/view/42568">https://revistas.ucr.ac.cr/index.php/juridicas/article/view/42568</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Platero</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>Lexnet como máximo exponente del sistema de justicia electrónica en España: especial referencia a su tratamiento de datos personales</article-title>
+               <source>Revista de Ciencias Jurídicas</source>
+               <volume />
+               <issue>152</issue>
+               <fpage>13</fpage>
+               <lpage>42</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://revistas.ucr.ac.cr/index.php/juridicas/article/view/42568">https://revistas.ucr.ac.cr/index.php/juridicas/article/view/42568"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B26">
+            <mixed-citation>
+               Popper, K.,  (1995).
+               <italic>Escritos selectos</italic>
+               . : Fondo de Cultura Económica
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Popper</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>Escritos selectos</source>
+               <publisher-name>Fondo de Cultura Económica</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B27">
+            <mixed-citation>
+               Posner, R.,  (2011).
+               <italic>Cómo deciden los jueces</italic>
+               . : Marcial Pons
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Posner</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <source>Cómo deciden los jueces</source>
+               <publisher-name>Marcial Pons</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B28">
+            <mixed-citation>
+               Rawls, J.,  (2012).
+               <italic>La teoría de la justicia</italic>
+               . : Fondo de Cultura Económica
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rawls</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>La teoría de la justicia</source>
+               <publisher-name>Fondo de Cultura Económica</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B29">
+            <mixed-citation>
+               Siches, L.,  (1952).
+               <italic>Vida humana, sociedad y derecho</italic>
+               . : Porrúa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Siches</surname>
+                     <given-names>L.R.</given-names>
+                  </name>
+               </person-group>
+               <year>1952</year>
+               <source>Vida humana, sociedad y derecho</source>
+               <publisher-name>Porrúa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B30">
+            <mixed-citation>
+               Urmeneta, H., Legerén, D.(2016). "Del Zoon Politikón al Zoon Elektronikón. Una reflexión sobre las condiciones de la socialidad a partir de Aristóteles".
+               <italic>Política y Sociedad. 53</italic>
+               (3), 757-772. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/rev_POSO.2016.v53.n3.50776 ">https://doi.org/10.5209/rev_POSO.2016.v53.n3.50776</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Urmeneta</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Legerén</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Del Zoon Politikón al Zoon Elektronikón. Una reflexión sobre las condiciones de la socialidad a partir de Aristóteles</article-title>
+               <source>Política y Sociedad</source>
+               <volume>53</volume>
+               <issue>3</issue>
+               <fpage>757</fpage>
+               <lpage>772</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/rev_POSO.2016.v53.n3.50776 ">https://doi.org/10.5209/rev_POSO.2016.v53.n3.50776 "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B31">
+            <mixed-citation>
+               Valledor, F.(2019). "La innovación en la investigación educacional. La innovación teórica".
+               <italic>Didasc@lia. Didáctica y Educación. 10</italic>
+               (4), 17-32. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://revistas.ult.edu.cu/index.php/didascalia/article/view/909">http://revistas.ult.edu.cu/index.php/didascalia/article/view/909</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Valledor</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>La innovación en la investigación educacional. La innovación teórica</article-title>
+               <source>Didasc@lia. Didáctica y Educación</source>
+               <volume>10</volume>
+               <issue>4</issue>
+               <fpage>17</fpage>
+               <lpage>32</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://revistas.ult.edu.cu/index.php/didascalia/article/view/909">http://revistas.ult.edu.cu/index.php/didascalia/article/view/909"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

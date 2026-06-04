@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model type="application/xml-dtd" href="http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1d3" specific-use="Marcalyc 1.2" article-type="research-article" xml:lang="es">
+<front>
+<journal-meta>
+<journal-id journal-id-type="redalyc">101</journal-id>
+<journal-title-group>
+<journal-title specific-use="original" xml:lang="es">Cinta de Moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="es">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile</publisher-name>
+<publisher-loc>
+<country>Chile</country>
+<email>cintamoebio@gmail.com</email>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="art-access-id" specific-use="redalyc">10146740005</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Sumário</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="es">Aportes para una ontología social realista</article-title>
+<trans-title-group>
+<trans-title xml:lang="en">Contributions for a realist social ontology</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="no">
+<name name-style="western">
+<surname>Venables</surname>
+<given-names>Juan Pablo</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+<email>jpvenables@uach.cl</email>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<institution content-type="original">Instituto de Historia y Ciencias Sociales, Universidad Austral de Chile (Valdivia, Chile)</institution>
+<institution content-type="orgname">Universidad Austral de Chile</institution>
+<country country="CL">Chile</country>
+</aff>
+<pub-date pub-type="epub-ppub">
+<year>2016</year>
+</pub-date>
+<issue>56</issue>
+<fpage>172</fpage>
+<lpage>186</lpage>
+<history>
+<date date-type="received" publication-format="dd mes yyyy">
+<day>12</day>
+<month>05</month>
+<year>2016</year>
+</date>
+<date date-type="accepted" publication-format="dd mes yyyy">
+<day>24</day>
+<month>06</month>
+<year>2016</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2017</copyright-year>
+<copyright-holder>Cinta de Moebio</copyright-holder>
+<ali:free_to_read/>
+<license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">
+<ali:license_ref>https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+<license-p>Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial 4.0 Internacional.</license-p>
+</license>
+</permissions>
+<abstract xml:lang="es">
+<title>Resumen</title>
+<p>Aun cuando la vinculación entre los aspectos epistémicos y ontológicos de la realidad social ha sido siempre un asunto problemático para las ciencias sociales, este debate pierde centralidad desde mediados del siglo XX. Este artículo revisa críticamente las razones epistémicas de esa pérdida de centralidad, principalmente en relación con el constructivismo “duro”, argumentando la necesidad de retomar el debate ontológico acerca de los fundamentos de la disciplina sociológica, al mismo tiempo que plantea una propuesta teórica de elucidación: la ontología de lo social se constituye epistémicamente; vale decir, la pregunta acerca de qué es lo social implica inevitablemente la pregunta por las creencias que lo constituyen. No obstante, la realidad social no se agota en las creencias, puesto que requiere de un componente material para existir. Desde esa propuesta, en una segunda parte, el artículo defiende la necesidad de adoptar una postura realista en sociología. Para ello, revisa críticamente la propuesta de ontología social de Searle y realiza aportes concretos desde la teoría sociológica, concluyendo la importancia de la acción, del poder y de la reciprocidad causal entre individuo y sociedad, para contar con una ontología que dé cuenta de la especificidad propia de lo social.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract</title>
+<p>Although the link between epistemic and ontological aspects of social reality has always been a problematic issue for the social sciences, this debate loses centrality from the second half of the twentieth century. This article critically reviews the epistemic reasons for that loss, mainly in relation with "hard" constructivism, arguing for the need to return to the ontological debate about sociological foundations. At the same time, it presents a theoretical proposal: social ontology constitutes itself epistemically; that is, the question about “the social” inevitably involves the question about beliefs that constitute it. But social reality is not exhausted in beliefs, since it requires a material component to exist. From this proposal, this paper makes an explicit defense for a realist approach in sociology. To do this, critically reviews John Searle’s social ontology and makes concretes contributions to sociological theory, emphasizing the importance of action, power and causal reciprocity between individual and society, to have a social ontology that shows the specificity of the social.</p>
+</trans-abstract>
+<kwd-group xml:lang="en">
+<title>Keywords</title>
+<kwd>social ontology</kwd>
+<kwd>realism</kwd>
+<kwd>John Searle</kwd>
+<kwd>causal reciprocity</kwd>
+<kwd>constructivism</kwd>
+</kwd-group>
+<kwd-group xml:lang="es">
+<title>Palabras clave</title>
+<kwd>ontología social</kwd>
+<kwd>realismo</kwd>
+<kwd>John Searle</kwd>
+<kwd>reciprocidad causal</kwd>
+<kwd>constructivismo</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="13"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>
+<bold>1. La inevitable y problemática relación entre lo epistémico y lo ontológico en ciencias sociales</bold>
+</title>
+<p>La inherente e inevitable vinculación entre los aspectos epistémicos y ontológicos de la realidad social ha sido siempre un asunto problemático para la teoría y la filosofía de las ciencias sociales. Del hecho de que la realidad social deba ser creída para poder existir –el ejemplo emblemático es el del dinero, que solo existe como medio de valor en tanto así sea creído- se derivan desafíos ontológicos y epistémicos, así como una serie de problemas relacionados con el estatus de ciencia de las ciencias sociales, con la delimitación de su objeto de estudio, y con el rol del investigador y su grado de objetividad, por nombrar algunos.</p>
+<p>Estos desafíos dan a la reflexión filosófica de las ciencias sociales un carácter especial o <italic>sui generis</italic>, como lo llamó Durkheim. Tan especial sería este carácter que, siguiendo lo señalado por el filósofo italiano Francesco Guala, “la filosofía de las ciencias sociales ni siquiera es considerada formalmente como una sub-área de la filosofía de las ciencias” (2007:954). La razón principal según señala Guala, es que la filosofía de las ciencias sociales replicaría confusiones fundacionales (metafísicas) de las ciencias sociales mismas, que le impiden contar con un consenso filosófico básico sobre el cual erigirse.</p>
+<p>Este argumento no es nuevo. Como bien recuerda Otero, el mismo Kuhn califica a las ciencias sociales como ciencias <italic>pre-paradigmáticas, inmaduras</italic> e incluso <italic>protociencias</italic>, tras el argumento de no encontrarse en el ciclo de una «ciencia normal», caracterizada por el consenso de los practicantes de la disciplina: “Sin ese consenso <italic>(señala Kuhn)</italic>, no se producirá la pauta de avances científicos que ha sido conocida en los siglos recientes” (<xref ref-type="bibr" rid="redalyc_10146740005_ref9">Otero 2004</xref>:36). Pero la particularidad de lo señalado por Guala –y que tiene especial importancia para este artículo–, es que entrega luces que permiten abordar el fondo del problema; a saber: la estrecha y compleja relación entre lo epistémico y lo ontológico en la constitución misma de lo social. En sus palabras: “Si no es posible dar por garantizados los resultados de una determinada disciplina científica (porque no son ampliamente aceptados), entonces resulta inevitable que se termine discutiendo acerca de preguntas predominantemente pre-científicas […] (<italic>Esto se debe a que</italic>) los aspectos epistemológicos que se utilizan para explicar la naturaleza del mundo social, están inextricablemente imbricados con un debate ontológico” (2007:955).</p>
+<p>En efecto, la reflexión filosófica de la física, por ejemplo, es en esencia realista en términos ontológicos (qué es el magnetismo, qué es un campo de fuerza), pues asume que está tratando con realidades independientes del observador. Esto es así incluso en aquellos casos paradójicos emanados de la mecánica cuántica (por ejemplo, el principio de incertidumbre de Heisenberg) y de la teoría de la relatividad, pues pese a poner en cuestión la idea de una realidad inmutable y a la espera de ser aprehendida inequívocamente, no por ello sostienen que la existencia de dicha realidad depende del observador. En otras palabras, para la física no está en cuestión el principio realista ontológico, según el cual la realidad existe con independencia de quien la escrute. Pero, cómo puede, en cambio, la filosofía de las ciencias sociales tratar ontológicamente a la familia, el Estado, la política o el dinero, si todos requieren ser creídos para poder existir y, por tanto, no son independientes de los estados mentales en juego.</p>
+<p>Guala explica bien la particularidad de la reflexión filosófica de las ciencias sociales, al dar cuenta que radica en la especificidad de su “objeto de estudio” que, en términos ontológicos, <italic>se constituye epistémicamente</italic>. Vale decir, la pregunta ontológica acerca de qué es lo social implica, inevitablemente, la pregunta por las creencias epistémicas que lo constituyen. Esa particular, inevitable y problemática imbricación ontológico-epistémica –que no está presente en el debate filosófico de las ciencias naturales ni menos en su práctica cotidiana– está en la base de una parte importante de los debates teóricos y filosóficos actuales en torno a la sociología –aun cuando lo esté de manera implícita–, y más aún, sostendré que es el fundamento de muchos malos entendidos en ciencias sociales.</p>
+<p>Este problema ontológico de las ciencias sociales y de la sociología en particular fue ampliamente abordado por los padres fundadores y por parte importante de la sociología de la primera mitad del siglo XX. En el caso de los clásicos, esta preocupación ontológica se relaciona, sin duda, con la pretensión de fundar una nueva ciencia –la sociología– dentro de un contexto histórico donde las ciencias naturales dominaban sin contrapeso, cuestión que necesariamente los impulsó a discutir con la física, la fisiología y la biología, de manera de fundamentar qué tipo de particularidad hacía que lo social requiriera contar con una ciencia para sí.</p>
+<p>Así, si bien la formulación del problema era distinta, tanto la fase pre-sociológica de la disciplina –Saint-Simon, Comte, Spencer y Töennies– como la de consolidación de los clásicos –Durkheim, Weber e incluso Marx–, problematizaron acerca del estatus ontológico de lo social. En esa línea, son famosas las discusiones entre Durkheim y Tarde que, en el intento de dilucidar en qué consiste esta nueva ciencia de la sociedad, desarrollan argumentos ontológicos en pos de delimitar un objeto de estudio <italic>claro y distinto</italic>.</p>
+<p>Asimismo, el análisis interpretativo de la acción social en Weber y el materialismo histórico de Marx son ejemplos que van en la misma dirección, cuestión que, finalmente, se constituyó en el fundamento para el nacimiento de la sociología como la nueva ciencia dedicada al estudio de lo social (o de la sociedad), toda vez que éste constituía un plano ontológico en sí mismo, distinto de los individuos que lo componen, y con características propias y únicas.</p>
+<p>Sin embargo, desde la segunda mitad del siglo XX estas discusiones abandonan la centralidad que tenían. Si bien las razones son múltiples, haciendo un ejercicio sintético me parece que se pueden reducir a dos: una que elude estos dilemas y otra que entrega una respuesta engañosa. La primera, que elude la discusión ontológica, tiene relación con la enorme tecnificación de las ciencias –y la sociología no está al margen–, que ha desembocado en una sofisticación de sus métodos y técnicas de producción y análisis de información sin parangón en la historia. Esto, a su vez, ha derivado en una suerte de hegemonía de la reflexión metodológica por sobre la teórica, epistemológica u ontológica, olvidando que, como bien recuerda Margaret Archer, no existe práctica sociológica, por más tecnificada que sea, que no implique un compromiso epistémico y ontológico con lo que se entiende por lo social, puesto que “esas posiciones <italic>metodológicas</italic> están basadas sobre posiciones <italic>ontológicas</italic> –la mayoría de las veces implícitas antes que explícitas– sobre cuáles son los constituyentes últimos de la realidad social” (<xref ref-type="bibr" rid="redalyc_10146740005_ref1">Archer 2009</xref>:18). En consecuencia, uno de los objetivos transversales de este artículo es poner el foco en la importancia de retomar el debate ontológico acerca de los fundamentos de la disciplina sociológica.</p>
+<p>La segunda razón para la pérdida de centralidad de este debate, y que nombré como engañosa, se vincula con el fuerte influjo que desde mediados del siglo XX comienza a ejercer dentro de las ciencias sociales la corriente del constructivismo social. Por su importancia y complejidad, requiere de una explicación mayor.</p>
+</sec>
+<sec>
+<title>
+<bold>2. La confusión epistémica / ontológica del constructivismo “duro”. Constructivismo epistémico v/s constructivismo ontológico</bold>
+</title>
+<p>Pese a su aparente novedad, los orígenes filosóficos del constructivismo se remontan a los orígenes mismos de la filosofía occidental (incluso pre-socrática), en particular a las disputas entre Heráclito y Parménides (el todo fluye v/s la unicidad de lo real que se esconde tras las apariencias) y, la más célebre, entre los sofistas –encabezados por Protágoras y su axiomático “el hombre es la medida de todas las cosas; de las que son como medida de su ser y de las que no son como medida de su no-ser” (<xref ref-type="bibr" rid="redalyc_10146740005_ref10">Platón 1990</xref>:52)– y los socráticos, cuya mejor expresión se alcanza en la postura platónica que enfrenta la <italic>episteme</italic> y la <italic>doxa</italic>, señalando que la verdad se alcanza a través de la racionalidad de la idea.</p>
+<p>Ya en la segunda mitad del siglo XX, el constructivismo se constituye como una corriente formal dentro de la filosofía y en particular de las ciencias sociales. En la actualidad, las mayores expresiones del constructivismo en las ciencias sociales se encuentran en la antropología posmoderna, en los estudios culturales, en la sociología de la ciencia, en la biología del conocimiento y en la teoría de sistemas de Luhmann.</p>
+<p>Como se desprende de la variedad de autores, disciplinas y campos de conocimiento recién mencionados, bajo el título de constructivismo encontramos acepciones muy variadas e incluso a veces contrapuestas, toda vez que no suele indicarse con claridad si se está hablando de constructivismo en términos epistémicos u ontológicos. Volveremos a esta distinción entre constructivismo epistémico y ontológico en lo que sigue, pero lo que interesa recalcar aquí es que, no obstante esa dispersión, es posible aproximarse a una definición general de constructivismo. Un buen ejercicio al respecto se desprende de las palabras del antropólogo luhmanniano M. Arnold, quien señala que la tesis central del constructivismo se puede resumir señalando que “una realidad intrínseca e independiente del contexto que la indica es inalcanzable […] (<italic>Por lo tanto,</italic>) ninguna construcción de conocimientos puede adjudicarse accesos privilegiados a la realidad, pues éstos remiten a sus específicas condicionalidades” <xref ref-type="bibr" rid="redalyc_10146740005_ref2">(2008:50)</xref>.</p>
+<p>Pero Arnold profundiza aún más en la definición del constructivismo, aportando una subdistinción entre constructivismo “blando” y “duro”. Sostiene que para quienes defienden la variante <italic>blanda</italic>, “la realidad se presenta como un estado extrínseco del observador” <xref ref-type="bibr" rid="redalyc_10146740005_ref2">(2008:51)</xref>. Mientras que, por el contrario, los constructivismos <italic>duros</italic> adoptarían una postura derechamente no-ontológica, pues “no se arriman a explicaciones o argumentos realistas, aunque tampoco los niegan –<italic>¡pues ya eso sería una declaración de realidad! (Más bien)</italic> plantean la existencia de barreras infranqueables entre observadores y el mundo, siendo este último la verdadera ‘caja negra’ […] <italic>(Por lo tanto)</italic> no habría conocimientos que pudieran postularse con independencia de las acciones de sus observadores”<xref ref-type="bibr" rid="redalyc_10146740005_ref2"> (2008:52)</xref>. En definitiva, “el constructivismo <italic>(duro)</italic> sostiene que la realidad se <italic>produce</italic> desde observaciones y no preexiste a ellas” <xref ref-type="bibr" rid="redalyc_10146740005_ref2">(2008:50, cursivas mías)</xref>.</p>
+<p>Lo que interesa destacar acá es un punto que Arnold no señala explícitamente: que la diferencia entre ambas variantes radica en que el constructivismo <italic>blando</italic> defiende una suerte de <italic>constructivismo epistémico</italic> –asume un realismo ontológico (la realidad existe con independencia de quienes la escrutan) centrando su análisis en las variaciones epistémicas derivadas del intento de acceder a ella–, mientras que el constructivismo <italic>duro</italic> asume, además del <italic>constructivismo epistémico</italic>, un <italic>constructivismo ontológico</italic>, toda vez que defiende la idea de que la realidad <italic>es producida</italic> por el sujeto en su observar. En efecto, pese a su declarado no-ontologismo, el constructivismo duro tiene su punto de partida en una afirmación ontológica (v. gr. la realidad se construye socialmente o se produce desde las observaciones), aun cuando ésta no sea ontológica en tanto <italic>contenid</italic>o (no indica <italic>qué es</italic> esa realidad) sino en tanto <italic>origen</italic> o <italic>causa</italic> ontológica (se refiere a <italic>cómo es que</italic> la realidad existe).</p>
+<p>Como se argumentará más adelante, las afirmaciones ontológicas no remiten únicamente a afirmaciones de contenido. De hecho, uno de los puntos centrales de este artículo es defender la idea que las afirmaciones ontológicas no tienen necesariamente que decir nada acerca de cómo es el mundo (no son ontológicas en tanto contenido), sino solo que éste tiene una manera de ser que es independiente de quienes la escrutan y, de hecho, en esto radicaría la diferencia fundamental entre el realismo y el constructivismo <italic>radical</italic>. Lo veremos en detalle en la próxima sección.</p>
+<p>Ahora bien, lo señalado hasta acá no busca obviar que los aportes del constructivismo son innegables, fundamentalmente como crítica epistémica a la visión de la ciencia sostenida por el positivismo lógico que tuvo un importante influjo durante la primera mitad del siglo XX, contribuyendo así al desarrollo autónomo de las ciencias sociales. Sin embargo, las conclusiones constructivistas conducen, a mi juicio, a una respuesta engañosa del problema, toda vez que confunden afirmaciones de nivel ontológico con otras de nivel epistémico, lo que termina por plantear una suerte de hegemonía epistemológica (del observador).</p>
+<p>En efecto, si bien el desarrollo del constructivismo tiene en su origen una pregunta epistémica acerca del acceso a la realidad, finalmente ha derivado de manera casi inevitable en cuestionamientos ontológicos (expresados en el constructivismo <italic>radical</italic> o <italic>duro</italic>), preguntándose: si no podemos acceder a la realidad directamente, ¿qué es entonces la realidad y cómo podemos afirmar que existe?</p>
+<p>Pese a haber sido pensada en un contexto donde el calificativo de ciencia estaba reservado para las ciencias naturales, su influjo caló de manera más profunda y duradera en las ciencias sociales, toda vez que parecía calzarle a la perfección: si, como se ha venido sosteniendo, la realidad social requiere ser creída para poder existir –el dinero, el Estado, los partidos de fútbol y la política son lo que son porque así lo creemos–, entonces ésta <italic>no sería más que</italic> los estados mentales en juego que la sostienen (o las operaciones de los observadores, en términos de la teoría de sistemas sociopoiéticos).</p>
+<p>De esta manera, el paso que vendría a dar decididamente el constructivismo duro parece obvio: ante la afirmación epistémica de que no es posible acceder a la realidad sino a través de nuestra propia y limitada subjetividad, se deriva la consecuencia ontológica de que la realidad como tal no existe con independencia de los sujetos (o de los observadores). Si a ello se le suma que la realidad social es por antonomasia dependiente de los estados mentales en juego, entonces es posible afirmar con mayor certeza que lo social no tendría otra existencia que su construcción subjetiva o mental.</p>
+<p>Pero esta aparente solución trae una serie de problemas asociados: ¿cómo es entonces posible la intersubjetividad?, ¿cómo escapar del solipsismo y del relativismo? ¿No es acaso cierto que Alemania perdió la Segunda Guerra Mundial por el hecho de que para que exista la guerra, los países y los perdedores se requieren estados mentales subjetivos que así lo crean?</p>
+<p>Como adelanté, a mi juicio esta es una salida engañosa producida por intentar entregar una solución apresurada a la inevitable y siempre problemática relación entre lo epistémico y lo ontológico en ciencias sociales. En efecto, el problema/engaño radica en que este apresuramiento trae aparejado un <italic>salto ilegítimo</italic> que lleva a extraer consecuencias ontológicas de afirmaciones epistémicas –en circunstancias que son planos distintos que deben distinguirse– y a concluir –equivocadamente– que por el hecho de que las creencias (o los estados mentales) son condición <italic>necesaria</italic> para la existencia de la realidad social, son también condición <italic>suficiente</italic>.</p>
+<p>Para poder desentrañar esa confusión es necesario adentrase en debates filosóficos acerca del realismo y el idealismo (como posturas ontológicas), y del racionalismo y el empirismo (como posturas epistémicas). En este artículo se abordan los aspectos ontológicos de este debate, haciendo una defensa explícita del realismo como punto de partida para la sociología y las ciencias sociales. Para ello, los argumentos se centran en los aportes de J. Searle y se complementan con las propuestas de Archer y Bhaskar. Finalmente, se proponen soluciones desde la teoría sociológica sobre algunos problemas derivados del planteamiento ontológico de Searle.</p>
+</sec>
+<sec>
+<title>
+<bold>3. El realismo ontológico y los aportes de la teoría sociológica</bold>
+</title>
+<p>El argumento central de la defensa ontológica de Searle a lo que llama realismo externo, es que <italic>existe una realidad independientemente de las representaciones que podamos hacernos de ella</italic>. Vale decir, el universo existe con independencia de nuestras mentes. En otras palabras, el realismo externo es una teoría ontológica; no es una teoría de la verdad, una teoría del conocimiento o una teoría del lenguaje. En definitiva, no es una teoría epistémica. En palabras de Searle: “<italic>(Es)</italic> el punto de vista según el cual el mundo existe independientemente de nuestras representaciones del mismo. Eso trae consigo la consecuencia de que si nunca hubiéramos existido […] salvo el minúsculo rincón del mundo que está constituido o se ve afectado por nuestras representaciones, el mundo habría continuado existiendo y sería exactamente el mismo que es ahora”<xref ref-type="bibr" rid="redalyc_10146740005_ref11"> (1997:162)</xref>.</p>
+<p>Sin perjuicio de lo anterior y teniendo como referencia innegable –aunque no declarada– al fenomenalismo kantiano, Searle sostiene que el carácter ontológico del realismo externo no debe confundirse tampoco con el materialismo o con las tesis acerca de la existencia de materia u objetos materiales en el espacio y en el tiempo, porque el realismo no se refiere a <italic>qué</italic> hay en el mundo o <italic>cómo</italic> es el mundo. Si se descubriera, dice Searle, que no existe la materia ni el espacio ni el tiempo, el realismo externo no se vería afectado en lo más mínimo, porque lo que sostiene es que hay una manera de ser de las cosas independientemente de cómo nos representamos que éstas son, sin considerar <italic>cómo son efectivamente</italic>. Propiamente entendido, sostiene, “el realismo no es una tesis sobre cómo es de hecho el mundo. Podríamos estar completamente equivocados en todos y cada uno de los detalles acerca de cómo es el mundo, y sin embargo el realismo podría ser verdadero”<xref ref-type="bibr" rid="redalyc_10146740005_ref11"> (1997:164).</xref>
+</p>
+<p>Esta premisa de realismo ontológico expuesta por Searle trae consecuencias axiomáticas para el desarrollo de cualquier ontología de la realidad social, destacándose la distinción entre los aspectos epistémicos y ontológicos mencionados en la sección anterior; a saber: el realismo ontológico no necesariamente se refiere a la realidad en términos de <italic>contenido</italic>. Más aún, cuando se trata de una postura basal o axiomática, el realismo <italic>debe</italic> entenderse en términos de <italic>origen</italic> o <italic>causa</italic> ontológica (no se refiere a qué hay o cómo es el mundo, sino a que éste existe y tiene un modo de ser independientemente de quienes lo escrutan).</p>
+<p>Ahora bien, una vez establecida la distinción entre lo epistémico y lo ontológico en relación con el realismo externo, es necesario agregar otro elemento muy esclarecedor aportado por Searle: la distinción objetivo y subjetivo debe comprenderse, también, en <italic>sentido epistémico</italic>, por un lado, y en <italic>sentido ontológico</italic>, por otro. Más aun, dice Searle, los principales ataques al realismo se producirían, precisamente, por una confusión y una falta de distinción entre ambos sentidos.</p>
+<p>El sentido epistémico es comparable con la visión que comúnmente se tiene de esta distinción. Una proposición es objetiva en sentido epistémico si su verdad o falsedad no depende de los sentimientos, actitudes, valores o prejuicios de las personas (por ejemplo, Evo Morales es el presidente de Bolivia), mientras que es epistémicamente subjetiva si su verdad depende de los sentimientos, actitudes, valores o prejuicios de las personas (por ejemplo, Evo Morales es un buen presidente).</p>
+<p>En sentido ontológico, por su parte, objetivo y subjetivo imputan modos de existencia. Así, existen entidades que tienen un modo objetivo de existencia, porque no dependen de ningún estado mental (por ejemplo, las montañas, piedras y árboles), mientras que otras tienen un modo subjetivo de existencia, porque solo pueden existir en la medida que son estados mentales (por ejemplo, universidades, dinero, presidentes, países).</p>
+<p>Por lo tanto, una proposición del tipo «Evo Morales es el presidente de Bolivia» es epistémicamente objetiva, porque no depende de los sentimientos, actitudes, valores o prejuicios de nadie. Pero a su vez, es ontológicamente subjetiva, porque en tanto realidad social solo puede existir en la medida que tenemos la creencia de que existen los países como Estados nacionales, que uno de ellos se llama Bolivia y que quien encabeza su gobierno se llama Evo Morales, puesto que nada en la realidad ontológicamente objetiva da cuenta de ello, toda vez que los países, sus gobiernos, la institución presidencial, e incluso nuestros nombres, son convenciones (o imposiciones) humanas que se sostienen en el plano de la realidad institucional.</p>
+<p>Pero el problema reside –como ya se adelantó– en que el constructivismo en su vertiente <italic>dura</italic> ha confundido ambos planos, derivando consecuencias epistémicas de premisas ontológicas, y viceversa. Así, utilizando el ejemplo anterior y tratando de llevar al límite los argumentos del constructivismo <italic>duro</italic>, al no distinguir entre subjetivo y objetivo en sentido epistémico y ontológico, éste confunde el hecho subjetivo en <italic>sentido epistémico</italic> (Evo Morales es un buen presidente) con el hecho subjetivo en <italic>sentido ontológico</italic> (Evo Morales es el presidente de Bolivia), lo que decanta en la absurda idea de que, dado que ambos son subjetivos, no podríamos acceder a ninguna verdad respecto de ellos, ¡cuando lo cierto es que para nadie es falso o incorrecto que Evo Morales es el presidente de Bolivia! Si alguien quiere o no a Morales en su cargo, no va a cambiar el hecho <italic>epistémicamente objetivo</italic> (aunque <italic>ontológicamente subjetivo</italic>) de que él es, de hecho, el presidente de Bolivia.</p>
+<p>En otras palabras, la confusión entre el sentido epistémico y ontológico de objetivo y subjetivo, lleva al constructivismo radical a desprender una consecuencia epistémica (no es posible acceder a ninguna verdad) de una premisa ontológica (los jefes de gobierno existen en tanto creamos que es así).</p>
+<p>Más aun, es posible encontrar niveles de confusión todavía más flagrantes cuando el ejercicio se invierte, derivando de una afirmación <italic>epistémicamente subjetiva</italic> (Evo Morales es un buen presidente) consecuencias ontológicas (Evo Morales <italic>siempre será</italic> el presidente de Bolivia), pues dada la subjetividad de la afirmación (epistémica y ontológica), se acaba por concluir que la institución gubernamental <italic>solo existe</italic> subjetivamente (en <italic>sentido epistémico</italic>), y por tanto, el hecho de que esa realidad (en <italic>sentido ontológico</italic>) se mantenga depende únicamente de la voluntad o de las creencias.</p>
+<p>En consecuencia, lo más sustantivo de rescatar del planteamiento de Searle para los propósitos de este artículo tiene que ver con dos cosas: en primer lugar, con la notable clarificación del uso de objetivo y subjetivo en sentido epistémico y ontológico, que permite <italic>deconstruir</italic> el <italic>salto ilegítimo</italic> que acomete el constructivismo radical al extraer consecuencias ontológicas de premisas epistémicas. Y, en segundo lugar, permite profundizar en la idea –desarrollada en las primeras secciones– de que la realidad social está, en términos ontológicos, constituida epistémicamente (debe ser creída para que exista como tal), y que, por tanto, un análisis ontológico de la realidad social inevitablemente debe ser también epistémico.</p>
+<p>Esto se debe a “un rasgo notabílisimo que distingue a los hechos sociales, un rasgo sin parangón entre los hechos naturales” (<xref ref-type="bibr" rid="redalyc_10146740005_ref11">Searle 1997</xref>:51): la autorreferencialidad. En efecto, para que alguien sea un presidente o algo sea considerado un partido de fútbol debe creerse que lo son, y la palabra que nombra o designa el fenómeno, al mismo tiempo lo constituye: “Algo puede ser una montaña aun si nadie cree que es una montaña; algo puede ser una molécula aun si nadie le da el menor pensamiento al asunto. En el caso de los hechos sociales, empero, la actitud que adoptamos respecto del fenómeno es parcialmente constitutiva del fenómeno” (<xref ref-type="bibr" rid="redalyc_10146740005_ref11">Searle 1997</xref>:51).</p>
+<p>Ahora bien, como se dijo, la propuesta ontológica de Searle también presenta algunas sombras. A mi juicio, éstas se deben principalmente al desconocimiento del autor del nutrido trabajo teórico en sociología y ciencias sociales acerca de estos temas. En consecuencia, me parece que estas sombras pueden ser esclarecidas recurriendo a la teoría sociológica. En específico, se presentan cuatro problemas vinculados entre sí, que tienen que ver con el individualismo ontológico, con la relación entre estados mentales y acción, con la sobredeterminación del lenguaje y lo mental, y con el poder.</p>
+<sec>
+<title>
+<bold>3.1 El problema del individualismo ontológico</bold>
+</title>
+<p>Un problema muy extendido en la filosofía anglosajona –a la cual pertenece Searle– tiene que ver con su marcado individualismo ontológico, que indefectiblemente termina por comprender lo social como un agregado de individuos. En efecto, la definición de autorreferencialidad propuesta por Searle deriva, en última instancia, en la existencia de la realidad social de propiedades mentales. Esto resulta muy cuestionable, pues sostener que los hechos institucionales son <italic>causados</italic> (y no meramente <italic>constituidos</italic>) por nuestras creencias o estados mentales, es correr el riesgo de defender una suerte de reduccionismo mentalista, que termine por negar toda propiedad causal a lo social. Más aun, como indica J.A. Noguera, “el análisis de Searle implica un buen grado de construccionismo social a pesar suyo”<xref ref-type="bibr" rid="redalyc_10146740005_ref8"> (2002:7)</xref>.</p>
+<p>Este reduccionismo mentalista queda claramente expresado cuando Searle concluye que el aporte de las ciencias sociales se reduce al estudio de <italic>la intencionalidad</italic>, la que reside siempre y en última instancia en mentes individuales. Pero lo importante de clarificar acá son las consecuencias que una postura individualista a nivel ontológico acarrea. En efecto, de prevalecer una lectura individualista/mentalista de la realidad social, se corre el riesgo de caer en la <italic>falacia epifenoménica</italic> advertida por Durkheim y, al mismo tiempo, se priva a la sociología de su objeto de estudio. Esto es, la ontología individualista “no solo termina por reducir todo hecho social a una sumatoria de hechos individuales, negando lo social como entidad ontológica en sí misma, sino, más importante aún y derivado de esta negación, entiende lo social como carente de toda capacidad causal, toda vez que lo comprende como un <italic>residuo epifenoménico </italic>de aspectos individuales, ya que, como todo residuo, no tiene existencia por sí mismo sino solo como resultado de aspectos individuales” (<xref ref-type="bibr" rid="redalyc_10146740005_ref13">Venables 2013</xref>:124).</p>
+<p>Este tipo de enfoque representa una teorización unidimensional, que acertadamente M. Archer cataloga como <italic>conflacionista ascendente</italic>: “La versión de la conflación ascendente simplemente asume […] que la sociedad no es más que el grupo pequeño pero de gran tamaño. Esto condujo a los sociólogos interpretativos […] a aferrarse a la expectativa de que puede llegarse a la explicación del sistema social mediante un proceso de acumulación. Este programa etnográfico de agregación depende de la validez de las mismas premisas homológicas sobre el hecho de que son las mismas propiedades –ni más, ni menos, ni diferentes– las que caracterizan los niveles distintos de la sociedad […] Para los conflacionistas ascendentes es siempre un error descriptivo mayúsculo el tratar las propiedades estructurales como si tuvieran el estatuto ontológico de hechos en lugar de ser un asunto de facticidad” (<xref ref-type="bibr" rid="redalyc_10146740005_ref1">Archer 2009</xref>: 37, 38 y 130).</p>
+<p>De lo anterior, se deriva otra consecuencia que atenta contra las bases del quehacer sociológico: el individualismo propio de la ontología social de Searle desconoce la <italic>reciprocidad causal</italic> que se establece entre individuo y sociedad (<italic>propiedades relacionales</italic> en términos de Archer, <italic>dialéctica</italic> en términos de Marx). Esta falta de reciprocidad resulta muy extraña de comprender, toda vez que el mismo Searle adopta el concepto de autorreferencialidad para describir la relación entre los individuos y el lenguaje, asumiendo una postura relacional. Me parece que su marcado individualismo ontológico lo lleva a tratar de precaverse de cualquier asomo metafísico que otorgue existencia a entidades que, a su juicio, serían no-existentes, lo que le impide resolver el dilema de lo social como lo que estructura al individuo socialmente al mismo tiempo que es estructurado por éste.</p>
+<p>Es más, prácticamente toda la teoría sociológica se puede comprender como el esfuerzo por explicar el dilema de la vinculación entre estructura y agente, siendo dominante la postura que la entiende en términos de reciprocidad causal. En efecto, esta postura es la que Bourdieu destaca con la idea de <italic>habitus</italic>, entendida como “estructuras estructuradas predispuestas a funcionar como estructuras estructurantes” <xref ref-type="bibr" rid="redalyc_10146740005_ref3">(2007:178)</xref>, y es lo que está tras el axiomático principio durkheimiano de <italic>explicar lo social por lo social</italic>. Está presente también en Weber y su intento por comprender lo social como una derivación de asuntos individuales pero irreductible a aspectos psicológicos, o en Marx y la utilización que hace de la dialéctica hegeliana para concluir que la conciencia se produce socialmente. La misma idea se encuentra en la <italic>teoría de la estructuración</italic> de Giddens, y en diferentes versiones de la sociología del conocimiento. Pero una reflexión de este tipo <italic>solo es concebible si se le otorga a lo social un estatus ontológico distinto, con capacidad causal sobre el individuo y sobre sí misma</italic>.</p>
+<p>Un ejemplo más actualizado de este esfuerzo por explicar la relación individuo y sociedad, y que se erige, a mi juicio, como el aporte más sustantivo en la actualidad sobre este punto, es el enfoque morfogenético de M. Archer, que defiende la relación estructura–agencia y su influencia causal mutua desde una postura ontológica realista, mostrando –además de los problemas de <italic>conflacionismo ascendente o descendente</italic> en que incurren la mayor parte de las explicaciones teóricas– la inevitable vinculación entre los aspectos ontológicos, metodológicos y teóricos en sociología.</p>
+<p>La teoría social realista de Archer se apoya explícitamente en la filosofía realista de R. Bhaskar, quien desarrolla una filosofía que, a mi juicio, constituye un aporte sin parangón en la clarificación de la necesidad de una ontología realista que ponga el acento en la reciprocidad causal entre agente y estructura. Los siguientes principios son extraídos de R. Bhaskar: “1) Las sociedades son irreducibles a las personas y […] definen un modelo de su conexión. 2) Las formas sociales son una condición necesaria para cualquier acto intencional. 3) Su <italic>preexistencia</italic> establece su <italic>autonomía</italic> como objetos de investigación posible. 4) Su <italic>poder causal</italic> establece su realidad. 5) La preexistencia de las formas sociales implica un modelo transformacional de la actividad social. 6) El poder causal de las formas sociales está mediado por la agencia humana” (<xref ref-type="bibr" rid="redalyc_10146740005_ref1">Archer 2009</xref>:196, con modificaciones de la redacción original).</p>
+<p>Finalmente, y como contrapunto de este esfuerzo casi transversal de la teoría sociológica –y a propósito de la calificación entre constructivismo <italic>duro</italic> y <italic>blando</italic> que desde la teoría de sistemas realiza M. Arnold– aparece el trabajo de N. Luhmann. Desde el momento mismo en que este autor decide excluir a los individuos del sistema social (“queda excluido que el individuo pueda «formar parte» de la sociedad” <xref ref-type="bibr" rid="redalyc_10146740005_ref6">Luhmann 1998</xref>:62) –toda vez que éste solo se compondría de operaciones de comunicación autológicas de autoobservación y autodescripción– se entiende su intento por desvincular normativamente a individuo y sociedad.</p>
+<p>Sostiene Luhmann: “no hay comunicación entre individuo y sociedad, ya que la comunicación es siempre solo una operación interna del sistema de la sociedad” <xref ref-type="bibr" rid="redalyc_10146740005_ref6">(1998:62)</xref>. No es este el espacio para desarrollar un análisis pormenorizado de la teoría luhmanniana, porque nos llevaría definitivamente hacia otras discusiones y además, porque un desafío tan enorme requeriría por lo menos adentrarse en su vasto esquema conceptual, lo que definitivamente cambiaría el foco del artículo. Pero sirve como ilustración dejar planteado que en la década de los 80 Luhmann adopta los planteamientos del constructivismo radical, de modo de poder justificar ésta y otras nociones de su teoría, lo que a mi juicio le acarreó los mismos problemas de confusión e implicación conceptual entre los niveles epistémicos y ontológicos revisados anteriormente, en particular el <italic>salto ilegítimo</italic> que lleva a desprender consecuencias ontológicas de premisas epistémicas, y la confusión de ontología como <italic>contenido</italic> y no como <italic>origen</italic> o <italic>causa</italic>, lo que implica indefectiblemente pasar de una epistemología constructivista a una ontología constructivista.</p>
+</sec>
+<sec>
+<title>
+<bold>3.2 El problema de la relación entre estados mentales y acción</bold>
+</title>
+<p>El segundo aspecto a destacar está vinculado con el anterior, y se refiere a la relación que se establece entre estados mentales (creencias, en este caso) y acción, pues los argumentos entregados por Searle llevan a pensar que subsume toda acción al estado mental que lo causó. En consecuencia, Searle señala que el dinero, la propiedad privada, los países, y todo el espectro de hechos institucionales dejarían de existir en una sociedad determinada si dejase de creerse en ellos. Y, en parte, es lo que también se ha venido sosteniendo en este artículo.</p>
+<p>Pero existe una divergencia fundamental e insoslayable: es muy distinto señalar que las instituciones requieren de la existencia de alguna creencia humana para existir, y por otro, sostener que existen solo porque creemos que existen. En efecto, no es la creencia el fundamento de su existencia, sino la acción, la actividad práctica. En pocas palabras: las creencias o algún tipo de estado mental son una condición necesaria para la constitución de instituciones, pero no suficiente. De este modo, las creencias o los estados mentales pueden considerarse como causas de la acción, pero no constituyen la acción misma. La relación entre estado mental y acción no es tan mecánica ni automática como para prescindir de la distinción.</p>
+<p>En este contexto, y siguiendo a <xref ref-type="bibr" rid="redalyc_10146740005_ref8">Noguera (2002)</xref>, con el ejemplo de la propiedad privada Searle omite referirse a algo fundamental, a saber: que ésta no desaparecería porque deje de creerse en ella en términos mentales y subjetivos, sino dejaría de existir siempre y cuando se actúe objetivamente para erradicarla. En consecuencia, no es un estado mental el responsable de suprimirla, sino una acción práctica. El caso de una cárcel resulta ilustrativo de lo anterior. Ciertamente es necesario que todos los involucrados reconozcan una cárcel como tal para que lo sea, pero ese reconocimiento necesario no es suficiente. Debe haber ciertas prácticas concretas que permitan que ese reconocimiento se lleve a cabo –por lo pronto vinculadas con el uso de armas y la fuerza física. Lo planteado por Foucault muestra cómo una cárcel es tal más por una cuestión de prácticas que de creencias.</p>
+</sec>
+<sec>
+<title>
+<bold>3.3 El problema de la sobredeterminación del lenguaje y lo mental</bold>
+</title>
+<p>El tercer y último aspecto a destacar está vinculado también con el anterior, y tiene relación con la sobredeterminación que Searle otorga al lenguaje y a lo mental; sobredeterminación que se expresa claramente en su noción de <italic>poder</italic>. Efectivamente, Searle sostiene que la creación de derechos, deberes y obligaciones dentro de una sociedad es, en términos ontológicos, el resultado de la capacidad performativa del lenguaje: “Si tienes la capacidad de decir ‘él es nuestro líder’ […] ‘esta es mi casa’, entonces tienes la capacidad de hacer algo más que representar un estado de cosas preexistentes. Tienes la capacidad de crear estados de cosas con una nueva deontología; tienes la capacidad de crear derechos, deberes y obligaciones –y hacer que otros los acepten– a través de la ejecución de ciertos actos de habla” (<xref ref-type="bibr" rid="redalyc_10146740005_ref12">Searle 2010</xref>:84).</p>
+<p>Searle no relaciona esta deontología del lenguaje con el uso efectivo del poder, que permite hacer que otros acepten y no cuestionen esa deontología (o cuestionándola la acepten igual). Esa situación está, en términos estrictamente weberianos, relacionada con el poder de <italic>coerción</italic> y con la <italic>legitimidad</italic>. Es decir, para que expresiones como <italic>esta casa es mía, soy el presidente</italic> o <italic>él es nuestro líder</italic>, cumplan una función performativa que las provea de capacidad causal, es necesario considerar que su éxito está condicionado a que quien profiera esas afirmaciones cuente, al mismo tiempo, con la capacidad material de impedir que otros las cuestionen y, a la vez, de asegurarse de que sean obedecidas.</p>
+<p>En otras palabras, el campo de las significaciones debe comprenderse como un terreno de lucha social que representa intereses concretos de grupos sociales específicos que, además de la lucha por los recursos propios del campo significativo, también utilizan recursos que <italic>están fuera </italic>del campo de las significaciones para lograr imponerse, como la coacción física, el aparato del Estado, el capital económico, entre otras. Por lo tanto, el análisis ontológico de la realidad social debe –por definición, dado que la ontología es por defecto una pregunta universalista– incorporar los distintos mecanismos de <italic>poder</italic> y <italic>legitimidad</italic>, muy trabajados desde la teoría sociológica, a través de los cuales se expresan.</p>
+<p>Precisamente, como se ha venido subrayando en este artículo, este es uno de los desafíos que enfrenta la filosofía de las ciencias sociales, a saber: desarrollar una ontología social que asuma su condición epistémica de constitución. Los distintos mecanismos de poder y legitimación son epistémicamente variables, pero en tanto condición ontológica de la realidad social serían inmutables.</p>
+<p>Así, se deriva de esta especial condición ontológico/epistémica de la realidad social la necesidad de responder a las preguntas: ¿en qué factores reside esta capacidad de hacer que algo sea intersubjetivamente válido? ¿Cuál es el fundamento ontológico que permite la existencia de universidades, países, dinero y partidos de fútbol? Searle cree encontrar esa respuesta en el lenguaje; en su capacidad performativa y deontológica. Lo que aquí se propone es que, además del lenguaje, es ontológicamente necesario considerar también acciones prácticas, expresadas en mecanismos de coerción y legitimación; en definitiva, de <italic>poder</italic>. No se trata, entonces, de oponer las características performativas del lenguaje a los mecanismos del poder. Por el contrario, se trata de considerar ambas. En otras palabras, la ontología social debe considerar que el poder, la coacción y la legitimidad son tan <italic>condición de posibilidad</italic> para la existencia de la realidad social como lo es el lenguaje.</p>
+</sec>
+<sec>
+<title>
+<bold>3.4 El problema del poder</bold>
+</title>
+<p>El <italic>poder</italic>, entonces, es el ejemplo paradigmático de los problemas que enfrenta el planteamiento de Searle respecto de desentrañar la ontología de la realidad social. La noción de poder –sostiene Searle– “es la noción de una <italic>capacidad</italic>, y por esa razón, el poder puede existir sin que nadie lo utilice o lo ejerza. Yo nunca he usado al máximo los caballos de fuerza del motor de mi vehículo, y muchos de los poderes del presidente son rara vez, si acaso alguna, ejercidos” <xref ref-type="bibr" rid="redalyc_10146740005_ref12">(2010:145)</xref>.</p>
+<p>Si bien son variadas las consecuencias que pueden desprenderse de esta concepción, se destacan tres que tienen directa relación con los problemas identificados recientemente sobre el individualismo ontológico, la relación entre estados mentales y acción, y la sobredeterminación del lenguaje y lo mental.</p>
+<p>La primera, es que Searle termina por cosificar el poder, y por tanto, lo comprende como determinado de antemano –la comparación del poder de un presidente con los caballos de fuerza de un motor habla por sí sola–, sin comprender que el ejercicio del poder se retroalimenta a sí mismo, lo que le entrega la posibilidad de cambiar las condiciones que le otorgaron tal poder (un presidente puede cambiar la constitución y reelegirse, por ejemplo, cuestión que no puede hacer un motor). Lo cierto es que, entendido como hecho social, el poder genera más poder. Pero para comprenderlo de esa manera, se requiere asumir la capacidad de causación de lo social que se ha venido defendiendo y que Searle no asume.</p>
+<p>La segunda consecuencia, también derivada de esta cosificación del poder, tiene que ver con comprenderlo como algo estático y, por tanto, carente de historicidad. La mutación del poder en términos sociales ocurre y es posible solo en un horizonte temporal. Los <italic>hp</italic> de un motor, desde esta perspectiva, son atemporales; el paso del tiempo no les afecta sino en la medida que el motor presenta problemas técnicos de funcionamiento. Otro desafío de la ontología social es, entonces, desarrollar una concepción universalista de lo social comprometida con su dimensión intrínsecamente temporal. El enfoque morfogenético de M. Archer resulta particularmente atingente a este desafío, toda vez que incorpora la variable temporal como ineludible en la explicación de la relación agente-estructura.</p>
+<p>Y la tercera consecuencia que se desprende de la concepción que Searle tiene del poder –que es extensiva a toda su propuesta ontológica– se deriva de los ejemplos utilizados, pues éstos se basan en un tipo de sociedad contemporánea, occidental y liberal, en circunstancias que, como bien describe Weber, en estas sociedades se observa un tipo específico de ejercicio de poder (dominación legal-racional), que en modo alguno representa una constante histórica ni mundial. De este modo, pierde alcance como explicación ontológica de lo social, puesto que la ontología social debe, por definición, dar cuenta de la estructura que subyace a toda institución humana, independientemente de su teleología y asignaciones de función específicas.</p>
+</sec>
+</sec>
+<sec>
+<title>
+<bold>Conclusión</bold>
+</title>
+<p>En una conferencia recogida en su libro <italic>La realidad: ¿objetiva o construida?</italic>, titulada “Neurociencia y cognición: biología de lo psíquico”, donde H. Maturana defiende la necesidad de un constructivismo <italic>radical</italic> que niega la existencia ontológica de la realidad como independiente del observador, señala también, casi de pasada, que aceptar o no las premisas axiomáticas de su planteamiento “es un acto de preferencia, gusto o curiosidad, y, por lo tanto, sin justificación racional” <xref ref-type="bibr" rid="redalyc_10146740005_ref7">(1996:184)</xref>.</p>
+<p>De ser esta discusión una cuestión de preferencia, declaro mi adhesión a la perspectiva realista por sobre la constructivista <italic>dura</italic>. Aceptar la realidad del mundo con independencia de nuestra voluntad o nuestros estados mentales es, a mi juicio, un acto de honestidad y humildad intelectual que debemos acometer si pretendemos evitar los peligros del relativismo, del solipsismo y de la actitud ascética pirrónica.</p>
+<p>Y es que no se trata simplemente de un problema formal o abstracto de interés exclusivo de la filosofía de las ciencias sociales. Por el contrario, la distinción entre los niveles epistémico y ontológico de la realidad es axiomática para comprender la constitución propia de lo social, y con ello la manera como debemos investigarla. Como bien lo indica Archer en relación con la tríada entre ontología, metodología y teoría social práctica: “lo que se asume como realidad social no puede sino influenciar el cómo se la estudia […] siempre hay una conexión entre la ontología social y la metodología explicativa (sin importar cuán encubierta o poco útil sea)” <xref ref-type="bibr" rid="redalyc_10146740005_ref1">(2009:44)</xref>.</p>
+<p>En efecto, si se asume el principio constructivista <italic>radical</italic> según el cual la realidad es producida por quien la escruta y, por tanto, no existiría ontológicamente con anterioridad ni independencia de este acto, ¿cómo entender la imposibilidad fáctica de crear y recrear el mundo a nuestro arbitrio y según nuestros intereses? ¿Cómo entender y explicar que el mundo es lo que es? No hay duda de que las corrientes <italic>new age</italic> de los 70 en ciencias sociales y la hoy popular literatura de autoayuda, han sacado sendos beneficios de esta idea de que cada cual es responsable de crear su propio mundo.</p>
+<p>Más aun, no veo manera de poder desarrollar seriamente investigaciones en ciencias sociales si no se adopta una postura realista que permita comprender que realidad social y natural están imbricadas. Como sostiene N. Elias a propósito del tiempo: “mientras perdamos de vista la relación indisoluble entre los planos físico y social del universo, mientras no aprendamos a ver la aparición y desarrollo de las sociedades humanas como un proceso <italic>dentro</italic> del universo no humano, que es mayor, no estaremos en condiciones de captar uno de los aspectos esenciales del problema del tiempo” <xref ref-type="bibr" rid="redalyc_10146740005_ref4">(2013:66)</xref>.</p>
+<p>Pero no hay que confundirse: sin duda la realidad social es construida. El problema es que eso no nos dice mucho de las características constitutivas de esa realidad ni de cómo avanzar en su investigación. Lo importante es, entonces, intentar desentrañar el problema de cómo es posible que significados epistémicamente construidos permitan la emergencia de una realidad social ontológicamente existente con independencia de las representaciones, observaciones o distinciones que podamos hacer de ella. Esta es, de hecho, la pregunta que está tras el trabajo de ontología social de Searle y también tras los principales desarrollos en teoría sociológica. Para ilustrar lo anterior, Searle sostiene que la pregunta más importante que atraviesa su libro <italic>Making the Social World</italic> es: “¿cómo puede haber un conjunto de enunciados epistémicamente objetivos sobre una realidad que es ontológicamente subjetiva?” <xref ref-type="bibr" rid="redalyc_10146740005_ref12">(2010:18)</xref>.</p>
+<p>Pero no es posible llevar adelante esa tarea sin el paso inicial y axiomático de distinguir entre los planos epistémico y ontológico de la realidad social. Y como llevar adelante esa tarea no es una cuestión de preferencias, en este artículo se pretendió avanzar en esa dirección argumentando en favor del realismo. En concreto, como primer paso se diferenciaron los niveles epistemológicos y ontológicos de la realidad, mostrando cómo el constructivismo <italic>duro</italic> acomete un <italic>salto ilegítimo</italic> al desprender de premisas epistémicas (no es posible acceder a la realidad en sí) consecuencias ontológicas (la realidad no existe fuera del acceso que tenemos a ella), lo que trae como consecuencia no solo la defensa de un constructivismo epistémico sino también ontológico.</p>
+<p>Hecha esta distinción, fue posible entonces abordar conceptual y analíticamente la característica básica de toda ontología social: que se constituye epistémicamente. Esto es, que requiere ser creída para poder existir. Pero esta condición necesaria no es suficiente, toda vez que la realidad social también se constituye de un componente material, físico, que puede ser homologable a la «acción». En efecto, para que una conferencia <italic>sea</italic> una conferencia se requiere que creamos que lo es (ontológicamente no es más que gente reunida haciendo ruidos con la boca), pero al mismo tiempo se requiere la materialización de la creencia en infraestructura, personas, etc. De lo contrario, sería posible afirmar que una conferencia <italic>solo</italic> es tal en función de que así lo creamos, lo que permitiría, por un lado, sostener que la realidad y la ilusión son lo mismo (basta que nos imaginemos una conferencia para que ésta exista, como pareciera defender Maturana), y por otro, creer que es posible recrear la realidad en función de nuestra voluntad (basta que dejemos de creer en la discriminación, la esclavitud, la pobreza, etc., para que dejen de existir).</p>
+<p>En una segunda parte, el artículo profundizó su defensa al realismo a través de la filosofía de J. Searle. La propuesta ontológica de Searle es una excelente entrada para abordar la inevitable y siempre problemática vinculación entre los aspectos epistémicos y ontológicos de la realidad social, principalmente por su claridad y rigurosidad conceptual, y por entregar fundamentos sólidos que apoyan la necesidad de fundar esta discusión (y el quehacer sociológico en general) en una teoría social realista. Asimismo, permite clarificar que el realismo ontológico no debe entenderse en términos de <italic>contenido</italic>, sino más bien en cuanto <italic>origen</italic> o <italic>causa</italic> ontológica.</p>
+<p>Sin perjuicio de lo anterior, de su marcado individualismo ontológico se deriva una serie de consecuencias no deseadas, vinculadas con la importancia de la acción, del poder y de la reciprocidad causal entre individuo y sociedad. Por lo tanto, su propuesta debe contrastarse y discutir con la teoría sociológica, de modo de proyectar el desarrollo de una ontología de la realidad social cuyas bases se encuentran tanto en la filosofía como en la teoría sociológica, y que dé cuenta de la especificidad propia de lo social. En este contexto, el trabajo de M. Archer permite un acercamiento desde la sociología muy interesante y con mayor vinculación a la investigación.</p>
+<p>Me reconozco parte de la tradición desarrollada por Bourdieu que comprende el quehacer sociológico como un «sistema de costumbres intelectuales». En esa línea y sin más intenciones que las analógicas, considero que adoptar una postura ontológica realista en ciencias sociales es tan importante como limpiar la mesa antes de cocinar.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>
+<bold>Bibliografía</bold>
+</title>
+<ref id="redalyc_10146740005_ref1">
+<mixed-citation>Archer, M. 2009. <italic>Teoría social realista. El enfoque morfogenético</italic>. Santiago: Ediciones Universidad Alberto Hurtado.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Archer</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<source>Teoría social realista El enfoque morfogenético</source>
+<year>2009</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref2">
+<mixed-citation>Arnold, M. 2008. La sociedad como sistema autopoiético: fundamentos del programa sociopoiético. En: F. Osorio, M. Arnold, S. González y E. Aguado. (Coord.) <italic>La nueva teoría social en Hispanoamérica: introducción a la teoría de sistemas constructivista</italic>, pp. 45-80. México: Universidad Autónoma del Estado de México.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Arnold</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<source>La nueva teoría social en Hispanoamérica: introducción a la teoría de sistemas constructivista</source>
+<year>2008</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref3">
+<mixed-citation>Bourdieu, P. 2007. <italic>Esbozo de una teoría de la práctica</italic>. Buenos Aires: Ediciones Manantial.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Bourdieu</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<source>Esbozo de una teoría de la práctica</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref4">
+<mixed-citation>Elias, N. 2013. <italic>Sobre el tiempo</italic>. México: Fondo de Cultura Económica.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Elias</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<source>Sobre el tiempo</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref5">
+<mixed-citation>Guala, F. 2007. The philosophy of social science: metaphysical and empirical. <italic>Philosophy Compass</italic> (2)6: 954-980. doi: 10.1111/j.1747-9991.2007.00095.x</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Guala</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<source>Philosophy Compass</source>
+<year>2007</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref6">
+<mixed-citation>Luhmann, N. 1998. <italic>Complejidad y modernidad</italic>. Madrid: Trotta.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Luhmann</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<source>Complejidad y modernidad</source>
+<year>1998</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref7">
+<mixed-citation>Maturana, H. 1996. <italic>La realidad: ¿objetiva o construida? II Fundamentos biológicos del conocimiento</italic>. Madrid: Anthropos Editorial.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Maturana</surname>
+<given-names>H.</given-names>
+</name>
+</person-group>
+<source>La realidad: ¿objetiva o construida? II Fundamentos biológicos del conocimiento</source>
+<year>1996</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref8">
+<mixed-citation>Noguera, J. A. 2002. ¿Son los hechos sociales una clase de hechos mentales? Una crítica materialista a la teoría social de John R. Searle. <italic>REIS</italic> 99: 35-60. doi: 10.2307/40184399</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Noguera</surname>
+<given-names>J. A.</given-names>
+</name>
+</person-group>
+<source>REIS</source>
+<year>2002</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref9">
+<mixed-citation>Otero, E. 2004. La distinción Kuhniana entre tipos de ciencia y la inconsistencia fundacional de los estudios sociales de la ciencia. <italic>Revista Ciencias Sociales Online</italic> 3(1): 1-7. <ext-link ext-link-type="uri" xlink:href="http://www.uvm.cl/csonline/2004_1/pdf/khun.pdf">http://www.uvm.cl/csonline/2004_1/pdf/khun.pdf</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Otero</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<source>Revista Ciencias Sociales Online</source>
+<year>2004</year>
+<comment>
+<ext-link ext-link-type="uri" xlink:href="http://www.uvm.cl/csonline/2004_1/pdf/khun.pdf">http://www.uvm.cl/csonline/2004_1/pdf/khun.pdf</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref10">
+<mixed-citation>Platón. 1990. <italic>Teeteto o sobre la ciencia</italic>. Madrid: Anthropos.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Platón</collab>
+</person-group>
+<source>Teeteto o sobre la ciencia</source>
+<year>1990</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref11">
+<mixed-citation>Searle, J. 1997. <italic>La construcción de la realidad social</italic>. Barcelona: Paidós.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Searle</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<source>La construcción de la realidad social</source>
+<year>1997</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref12">
+<mixed-citation>Searle, J. 2010. <italic>Making the social world</italic>. Oxford: Oxford University Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Searle</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<source>Making the social world</source>
+<year>2010</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10146740005_ref13">
+<mixed-citation>Venables, J. P. 2013. Hacia una ontología de la realidad social desde la filosofía de John Searle. <italic>Cinta de Moebio</italic> 48: 115-135. doi: 10.4067/s0717-554x2013000300001</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Venables</surname>
+<given-names>J. P.</given-names>
+</name>
+</person-group>
+<source>Cinta de Moebio</source>
+<year>2013</year>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

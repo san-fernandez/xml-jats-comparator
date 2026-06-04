@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00006</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000200156</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Casi siempre con razón, casi siempre mal leído. Las Reglas del Método de Durkheim</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Usually in the right, usually badly read. The Rules of the Method of Durkheim</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4403-1178</contrib-id>
+               <name>
+                  <surname>Jiménez</surname>
+                  <given-names>Juan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Vicerrectoría de Transferencia Tecnológica y Extensión, Universidad Tecnológica Metropolitana, Santiago. Chile</institution>
+            <institution content-type="normalized">Universidad Tecnológica Metropolitana</institution>
+            <institution content-type="orgname">Universidad Tecnológica Metropolitana</institution>
+            <country country="CL">Chile</country>
+            <email>j.jimeneza@utem.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>68</issue>
+         <fpage>156</fpage>
+         <lpage>166</lpage>
+         <history>
+            <date date-type="received">
+               <day>02</day>
+               <month>05</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>13</day>
+               <month>06</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>La aproximación que Durkheim esboza en Las Reglas es en la actualidad más bien criticada: sería una visión conservadora, que olvida la importancia de los agentes y una sociología de lo social que solo observa el orden establecido. Sin embargo, una lectura atenta de Las Reglas muestra que sus afirmaciones básicas -que es un hecho social, que debe ser visto como una cosa, y que debe buscarse su explicación a través de otros hechos sociales- son correctas y pueden integrar los elementos válidos de las críticas realizadas. Detrás del rechazo a Durkheim aparece el rechazo a una afirmación radical de Las Reglas que nos resulta más bien intolerable: que la imposición es parte natural de la vida social.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>The approach that Durkheim delineates in The Rules of Sociological Method is currently criticized: it is a conservative view that forgets the relevance of agents and it is a social sociology that only observes established order. However, an intensive reading of The Rules shows that their basic statements -about what is a social fact, that they should be treated as things, and that their explanation should be searched in other social facts- are correct one and they can integrate the correct elements argued by its critics. Behind the rejection to Durkheim there is the rejection to a radical statement in The Rules, one that is unbearable for us: that coercion is a natural part of social life.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>Durkheim</kwd>
+            <kwd>reglas método</kwd>
+            <kwd>hechos sociales</kwd>
+            <kwd>explicación</kwd>
+            <kwd>metodología</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>Durkheim</kwd>
+            <kwd>method rules</kwd>
+            <kwd>social facts</kwd>
+            <kwd>explanation</kwd>
+            <kwd>methodology</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="9" />
+            <page-count count="11" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción. Durkheim como problema</title>
+         <p>En tiempos recientes la fortuna de Durkheim, y de la visión metodológica que las Reglas del Método Sociológico encarnan, ha experimentado fuertes embates. Se le ha criticado, y esto es lo más tradicional, por conservador, por defensor del orden. Por su parte, en la segunda edición de sus New Rules, Giddens enfatiza de nuevo su visión más bien crítica de Durkheim: “Externality and constraint cannot be seen, as Durkheim thought, as general characteristics of social facts” (Giddens 1993:7), ilustrando así un tema habitual de la crítica: una sociología sin actor. A su vez, la idea de explicar lo social por lo social ha sido criticada por Latour como una forma de sociología de lo social que plantearía esa idea tan errónea de un campo específico y separado de la realidad que se llama lo social; frente a lo cual nos dice que su propósito es “mostrar por qué lo social no puede ser considerado como un tipo de material o dominio y cuestionar el proyecto de dar una ‘explicación social’ de algún otro estado de cosas” (Latour 2008:14). Más en general que frente a perspectivas que enfatizan cómo se genera lo social en la relación, la visión de Durkheim es ingenuamente sustantivista: poniendo una materia social ya dada (Galán Castro. La crítica de la ontología y epistemología durkheimianas). Estas tres críticas en su conjunto -una visión conservadora que no reconoce el carácter interno de la vida social y que mitifica la existencia de lo 'social', en vez de rastrear cómo se construyen asociaciones- cubren una parte importante de la visión reciente de Durkheim y permite comprender por qué, de los fundadores de la disciplina, es el que suele ser menos reconocido. Así, Charles Tilly en su clásico Big comparisons, large processes, huge comparisons nos dice al criticar los postulados perniciosos del pensamiento del siglo XX que: “The opposition of order to disorder characterizes the teachings of Durkheim and Tönnies much more than those of Marx and Weber” (Tilly 1984:13). Durkheim aparece, entonces, separado entre los fundadores más equivocados.</p>
+         <p>En este artículo defenderemos el punto de vista contrario. Una parte importante de las apuestas teóricas que realiza Durkheim en Las Reglas son correctas en su esencia. No siempre se obtienen las consecuencias correctas de ella (y de ello se puede incluso culpar al propio Durkheim en el texto), pero la aproximación que realiza da cuenta de elementos centrales para comprender la vida social. En particular, las siguientes afirmaciones básicas del texto son correctas, o al menos su exploración sigue siendo relevante: la definición del hecho social, la regla de observar los hechos sociales como cosas y la regla de explicarlos por hechos sociales. La crítica válida se debe a ese mal que sufren todos los textos bien conocidos: que son mal leídos y, por lo tanto, si bien lo que plantean las críticas es correcto respecto a la realidad social, sucede que no necesariamente aplican al texto de Durkheim. Y en lo que corresponde a sus errores (el positivismo u organicismo), ellos no afectan a la corrección básicas de las ideas fundamentales de Las Reglas. En lo que resta del texto analizaremos cada una de estas tres ideas en las secciones subsiguientes y, en la sección final, intentaremos dar cuenta del común rechazo y de la común mala lectura de Durkheim.</p>
+      </sec>
+      <sec>
+         <title>El hecho social</title>
+         <p>Partamos entonces con la definición de hecho social y dejemos hablar a Durkheim: “ils consistent en des manières de agir, de penser et de sentir, extérieures à l'individu, et qui sont douées d'un pouvoir de coercition en vertu duquel ils s'imposent à lui” (Durkheim 2013:5).</p>
+         <p>En principio, una definición no es verdadera o falsa; y los nombres pueden definirse como se los desee. Lo importante es que resulten útiles: que delimiten un conjunto de situaciones que más o menos corresponde a las que uno quiere delimitar y que puedan ser usadas en otras afirmaciones. Entonces, lo que haremos en primer lugar es mostrar que esa definición es útil en ese sentido y que buena parte de las críticas que se le han realizado son inexactas.</p>
+         <p>Los puntos centrales de la definición son el (a) carácter exterior al individuo y su (b) carácter coercitivo. En relación con lo primero, es obvio que Durkheim no quiere decir que estos hechos (digamos, el lenguaje o las reglas morales) no operen en el individuo. Lo que está puntualizando es que son formas de actuar, pensar y sentir que no son generadas por cada individuo y no se reducen a lo que cada individuo puede hacer: “Le système de signes dont je me sers pour exprimer ma pensée, le système de monnaies que j'emploie pour payer mes dettes, les instruments de crédit que j'utilise dans mes relations commerciales, les pratiques suivies dans ma profession, etc., etc., fonctionnent indépendamment des usages que j'en fais” (Durkheim 2013:4).</p>
+         <p>La cita anterior es correcta. El español como lenguaje no se reduce a lo que yo hablo y así sucesivamente. Conste que esto no implica que esas prácticas puedan subsistir sin individuos que la realicen. El español no puede subsistir como lenguaje vivo sin hablantes. Además, la afirmación no implica que los significados de esas prácticas sean desconocidos para sus usuarios: el hablante del español debe ser capaz de reconocer cuándo se usa el español. Esos asuntos son tan separados que la siguiente afirmación no tiene contradicción alguna: todo hecho social (exterior a cada individuo y coercitivo) no puede subsistir sin que exista un individuo que lo realice y comprenda cómo se puede poner en práctica. Por lo que la idea que Durkheim comete un error con “his reifying ‘social facts’ as things existing independently of their own construction” (Morgan 2016:566) es, a su vez, un error. La definición de hechos sociales no implica lo anterior, ni menos implica que éstos puedan comprenderse sin tomar en cuenta un marco interpretativo y en particular el de los agentes. Se pueden aceptar todos esos puntos, y los comentarios de Durkheim sobre el hecho social siguen operando. A veces es como si la palabra ‘hecho social’ confundiera a críticos cuya lectura del texto resulta insuficiente.</p>
+         <p>Los críticos olvidan un tema esencial. Que entre cada individuo (y Durkheim en su ejemplo usa la primera persona singular 'yo') y todos los individuos hay un salto. Dicho salto no puede ser superado por ningún individuo: el conjunto de individuos y lo que ellos realizan es siempre una realidad social, 'exterior' en relación con cada individuo en particular.</p>
+         <p>Pasemos a la segunda parte de la definición. La disputa aquí no es si existen hechos coercitivos en la vida social, pues no puede existir disputa que ellos existen. La pregunta es sobre si esa característica efectivamente delinea al conjunto de situaciones que nos interesa reunir. Para Durkheim el tema de si el hecho social sea aceptado no quita su carácter de coerción (incluso si la aceptamos sigue siendo una exigencia). Tampoco se refiere al hecho de si la presión requiere o no violencia física (incluso si ella no existe, la presión sigue existiendo). Lo importante es la existencia de presión: “Ailleurs, la contrainte, pour n'être qu'indirecte, n'en est pas moins efficace. Je ne suis pas obligé de parler français avec mes compatriotes, ni d'employer les monnaies légales; mais il est impossible que je fasse autrement” (Durkheim 2013:5).</p>
+         <p>El “imposible” puede resultar algo exagerado, pero los ejemplos muestran efectivamente una presión sobre el actor: si a mi alrededor todo el mundo habla español, si quiero comunicarme con ellos, la opción de hablar en ese idioma es claramente la que corresponde, más allá de si prefiriera hablar en otro idioma (y hablaré en otro idioma cuando el contexto social, los alter con quienes interactúo, así lo permita). El hecho de la presión se refiere finalmente a la circunstancia que una práctica que está siendo usada por los otros actores con quienes interactúo, hace más difícil no usarla (y por ello la imposibilidad no es necesaria para establecer la presión).</p>
+         <p>Ninguna de las características de la definición requiere, y esto incluso en contra de lo que es el uso habitual de Durkheim (en ello los críticos tienen razón), que ello opere al nivel de la sociedad global: no es la sociedad lo que es exterior al individuo, no es la coerción exclusiva a la sociedad. Que la interacción es exterior a cada individuo ocurre bajo cualquier contexto y nivel de interacción y, por ello, se puede defender que existe toda una lectura de Durkheim que lo aplica al análisis de la micro-interacción (Gomes Neto. Por uma reconstrução da tradição durkheimiana). La presión que se genera debido a que es más fácil (produce menos fricción) seguir la práctica de mis co-interactantes también ocurre a cualquier nivel. Incluso si esas características fueran más claras y fuertes al nivel societal, no son exclusivas de ella: ocurren donde quiera que hay situaciones de interacción. Es cierto que el mismo Durkheim a veces puede oscurecer ello al hablar con insistencia del nivel social, que oscila entre “at one point would focus on something which already stands as a whole (society), and at another on the principle of its composition (association)” (Ogien 2016:9), pero la lógica de la argumentación no deja lugar a dudas: se aplica a cualquier nivel, porque lo que constituye el hecho social proviene de la forma en que se compone, de la asociación.</p>
+         <p>Durkheim discute un problema análogo. La idea que su definición dejaría fuera a aquellas situaciones no plenamente estabilizadas y todavía no constituidas (adelantando así la crítica de Latour): “Mais il est d'autres faits qui, sans présenter ces formes cristallisées, ont et la même objectivité et le même ascendant sur l'individu. C'est ce qu'on appelle les courants sociaux. Ainsi, dans une assemblée, les grands mouvements d'enthousiasme, d'indignation, de pitié qui se produisent, n'ont pour lieu d'origine aucune conscience particulière” (Durkheim 2013:6).</p>
+         <p>Para evitar malentendidos. Que estas corrientes no tengan como origen una conciencia particular no quiere decir que el primer momento de ellas sea iniciado por un actor en particular. Pero la corriente como tal es algo que supera a cada individuo (un grito de entusiasmo individual sin que exista el ambiente bajo el cual los interactantes toman ese grito y lo expanden no produce ese resultado, y esa situación es algo que generan todos los interactantes). Estable o inestable, constituido o no, son hechos independientes de cada individuo (no de todos los individuos) y ejercen presión a cada uno de ellos.</p>
+         <p>Durkheim es consciente que, en general, existe un continuo de situaciones de estabilidad en la vida social, desde las más a las menos estables. En todas ellas nos dirá que funcionan sus características. Así, por ejemplo, Durkheim comenta que sus ejemplos se han referido a las maneras de hacer, pero ¿qué pasa con las maneras de ser? (con la distribución de la población en el territorio, con las vías de comunicación o las modalidades de las viviendas). Ahí nos dirá, entonces, después de observar que ahí también se cumplen las características que menciona: “Mais elle n'est même pas utile: car ces manières d'être ne sont que des manières de faire consolidées. La structure politique d'une société n'est que la manière dont les différents segments qui la composent ont pris l'habitude de vivre les uns avec les autres” (Durkheim 2013:13).</p>
+         <p>Las formas de ser son producto, al final, de las formas de hacer (y parecen distintas, nos dice Durkheim, pero no lo son fundamentalmente). Uno puede observar que los hechos morfológicos de Durkheim incluyen varios que se manifiestan a través de y con objetos (los inmuebles, las vías de comunicación). La idea que la definición durkheimiana exige no observar la relación con el mundo objetual, que demarca una materia separada que se entiende separada de otras (nuevamente, la crítica de Latour), no aplica muy bien. Esto no quiere decir que la posición de Durkheim sea equivalente a la de Latour. Durkheim no entrega un papel activo a los objetos, siendo ello parte esencial de la posición de Latour. De todas formas, los objetos son parte de la 'materia' social.</p>
+         <p>A lo largo de esta argumentación podemos observar que las características básicas de ser exterior y coercitivo operan en todos los niveles de estabilidad y en todos los niveles de interacción. Es por ello, entonces, que esas características pueden delimitar lo que interesa estudiar como mundo social. O, como dice Durkheim, en una de las frases finales del capítulo, que sintetiza su postura (y es quizás más clara que la conocida frase inicial): “Est fait social toute maniéré de faire, fixée ou non, susceptible d'exercer sur l'individu une contrainte extérieure” (Durkheim 2013:14).</p>
+      </sec>
+      <sec>
+         <title>Los hechos sociales como cosas</title>
+         <p>El capítulo 2 de Las Reglas (las reglas relativas a la observación de hechos sociales) se inicia con una discutida famosa afirmación: “La première règle et el plus fondamentale est de considérer les faits sociaux comme des choses” (Durkheim 2013:15).</p>
+         <p>Muchas veces se lee esa frase como un rechazo a la subjetividad, y que la metodología de Durkheim no le daría relevancia a las creencias y conceptos del actor. Estos serían más bien prenociones, y la recomendación de Durkheim sobre estas prenociones es bien clara: “Le premier de ces corollaires est que: Il faut écarter systématiquement toutes les prénotions. Une démonstration spéciale de cette règle n'est pas nécessaire; elle résulte de tout ce que nous avons dit précédemment. Elle est, d'ailleurs, la base de toute méthode scientifique” (Durkheim 2013:31).</p>
+         <p>Sin embargo, esa lectura equivoca el centro de la preocupación de Durkheim. La regla está dirigida al investigador, no se refiere al objeto del estudio. Por lo mismo un investigador que se interesa precisamente en la recuperación y darle realce a los conceptos y significados de los agentes, en el estudio cualitativo de los sentidos grupales, nos puede decir que: “En los grupos de conversación, no solo el objeto es durkheimiano -la representación del grupo- sino que el método lo es inequívocamente: la dinámica de una constitución de un grupo mediante la elaboración de un consenso” (Canales 2012:109). Nada evita que un estudio que le dé importancia a las ideas no pueda ser plenamente integrado a la sociología durkheimiana. En este punto se puede recordar además que Habermas establece el origen del paradigma comunicativo, lo que implica entonces la importancia del sentido interno para comprender lo social, en precisamente Mead y Durkheim.</p>
+         <p>El núcleo de la regla es que el investigador debe aproximarse al estudio de la vida social como algo externo a él. La regla que la vida social debe estudiarse como cosa se establece para contraponerla a la perspectiva en que se la estudie como idea (donde el investigador parte de su propia noción de cómo es la realidad social y la da por cierta). Luego, considerar los hechos sociales como cosas implica que el investigador debe salir de sus ideas previas y hacer investigación.</p>
+         <p>Luego, la regla es plenamente compatible con la perspectiva de estudiar los conceptos de los actores, o de tomarse en serio la afirmación que esos conceptos conforman la vida social. Esos conceptos son, para el investigador, también algo externo, algo 'dado' al investigador: “Est chose, en effet, tout ce qui est donné, tout ce qui s'offre ou, plutôt, s'impose à l'observation. Traiter des phénomènes comme des choses, c'est les traiter en qualité de data qui constituent le point de départ de la science” (Durkheim 2013:27).</p>
+         <p>Basado en discusiones contemporáneas es posible decir que ese énfasis en el carácter dado de la evidencia es una muestra del positivismo de Durkheim, y que, siendo el positivismo equivocado, su argumento queda completamente refutado. Ahora bien, cabe recordar el punto hecho anteriormente. Lo que hace Durkheim es criticar que el investigador pueda simplemente usar sus propias ideas, sin realizar observación. El que esa observación sea pasiva (sobre algo dado) o activa (que el 'dato' se construye), que esa observación pueda ser 'objetiva' o implique una relación hermenéutica de sentido, es un tema secundario. Se puede aceptar que el positivismo de Durkheim está equivocado y de todas formas insistir que el investigador debe salir ‘fuera de sí’. Más en general, y como buena parte de la investigación en filosofía de las ciencias sociales ha insistido en años recientes, no es necesario ser positivista para afirmar que hay una realidad independiente del sujeto.</p>
+         <p>Lo que critica Durkheim es el siguiente procedimiento, que ejemplifica aquí con la teoría del valor en economía (pero anteriormente lo ha ejemplificado en criminología y en otros ámbitos de estudio): “C'est que, pour la faire [la teoría del valor], l'économiste se contente de se recueillir, de prendre conscience de l'idée qu'il se fait de la valeur, c'est-à-dire d'un objet susceptible de s'échanger; il trouve qu'elle implique l'idée de l'utile, celle du rare, etc., et c'est avec ces produits de son analyse qu'il construire sa définition” (Durkheim 2013:25).</p>
+         <p>Pensar que el investigador puede conocer el mundo simplemente poniendo en orden sus ideas, eso es lo que critica Durkheim. No habrá que defender demasiado que está en lo correcto. La cantidad de posibles esquemas que pueden ser producidos simplemente pensando son múltiples y, por lo tanto, bien poco podemos saber cuál de ellos podría realizarse efectivamente. O siguiendo un razonamiento à la Popper, que, siendo esquemas genéricos, pueden aplicarse a cualquier situación pensable (pasa A y no-A y el esquema siempre aplica), lo cual nos muestra lo vacío que ellos resultan ser.</p>
+         <p>Ahora bien, se puede argumentar que de todas formas existe una devaluación de los conceptos e ideas, y por lo tanto de la subjetividad. Cuando Durkheim quiere explicar y ejemplificar el tema de los datos, unas frases más adelante de nuestra segunda cita, continúa así: “Ce qui nous est donné, ce n'est pas l'idée que les hommes se font de la valeur, car elle est inaccessible: ce sont les valeurs qui s'échangent réellement au cours des relations économiques. Ce n'est pas telle ou telle conception de l'idéal moral; c'est / l'ensemble des règles qui déterminent effectivement la conduite. Ce n'est pas l'idée de l'utile ou de la richesse; c'est tout le détail de l'organisation économique” (Durkheim 2013:27).</p>
+         <p>Estamos en frente a algo más que un llamado a no quedarse con las prenociones del investigador. Observemos no las ideas que las personas se hacen del valor, sino cómo ellos se intercambian. ¿No vuelve aquí, entonces, el tema del abandono de la subjetividad? De hecho, no. Y no lo hace por una consideración que es crucial en varias teorías que enfatizan la subjetividad, que es común por ejemplo a Bourdieu y a Giddens: Y es que esos conceptos son necesarios para comprender la acción. Luego, si ello es correcto, entonces cuando observemos el intercambio o la organización económica, tendrán que ser parte de esa observación la comprensión de esos conceptos, dado que son parte de dichas prácticas. Una posición durkheimiana, en este sentido, no niega la subjetividad; lo que nos plantea es que la subjetividad, de importar, lo hace porque está imbricada en las prácticas.</p>
+         <p>Aquí se puede recordar una distinción que, nuevamente, hacen tanto Giddens y Bourdieu, la diferencia entre el discurso del agente y los conceptos que están instalados en la práctica. Lo que el agente dice sobre su acción no necesariamente corresponde a los conceptos que efectivamente están en su práctica. Por ejemplo, en un análisis de prácticas de matrimonio en aborígenes en Australia, Bearman establece que “natives penalize those who violate this exchange structure, even though the various marriage choice norms they do recognize (and describe to ethnographers) have not been violated” (Bearman 1997:1386). Hay conceptos que usan los actores que les permiten penalizar lo que se sale de ciertas normas, pero esos conceptos no son los que declaran explícitamente. Este es el punto de Durkheim, y la razón fundamental por la cual insiste en tratar a los 'hechos sociales como cosas': lo que nos interesa es la práctica y las interacciones sociales.</p>
+      </sec>
+      <sec>
+         <title>La explicación de los hechos sociales</title>
+         <p>En el capítulo V se llega a uno de los puntos críticos de Las Reglas, donde encontramos una de sus frases más famosas, una que supuestamente ha sido muy influyente y que ha sido muy criticada. Sin embargo, aquí defenderemos que no ha sido tan influyente en la práctica y que, de hecho, es esencialmente correcta. Cualquier estudiante de sociología debe recordar (ya sea a través de lectura directa del texto o a través de comentarios) la afirmación que los hechos sociales se explican por otros hechos sociales. La cita exacta es la siguiente: “Nous arrivons donc à la règle suivante: La cause déterminante d'un fait social doit être cherchée parmi les faits sociaux antécédents, et non parmi les états de la conscience individuelle” (Durkheim 2013:109).</p>
+         <p>La sociología sociológica, que enfatiza la importancia de los factores sociales en la explicación de cualquier fenómeno, tendría su raíz allí. El caso es que, a decir verdad, no ha sido tan influyente en la práctica estándar de la sociología durante muchas décadas.</p>
+         <p>Un elemento central de la práctica de la sociología real es el análisis de encuestas y el intento de explicar la distribución de las respuestas en esas encuestas. Nada más lejano a la ciencia que intentó desarrollar Durkheim que esa práctica. Puesto que pensar que se hace sociología, que ello constituye la principal labor de la sociología, al explicar las conductas individuales, no es lo central según esa regla: las conductas al nivel individual no son hechos sociales. Los hechos sociales tienen correlatos individuales (un nivel dado de suicidios en una sociedad implica un cierto número de casos individuales de suicidio), pero no son lo mismo y, por lo tanto, lo que explica uno no es necesariamente lo que explica lo otro. Mucho de lo que interesa a la sociología estándar es explicar lo que sucede en los individuos a través de atributos que lo son de individuos (como recordaba Granovetter en Economic action and social structure, lo social se traduce a una variable individual inscrita en un individuo atomizado), precisamente lo contrario de lo que se preconiza en Las Reglas.</p>
+         <p>Lo anterior nos lleva al segundo punto. Que la argumentación de Durkheim es correcta. Buena parte de lo que ha sido acusado es inexacto, dado lo que él mismo expone en Las Reglas.</p>
+         <p>Una crítica muy común es que esto sería puro sociologismo, que eliminaría todo otro factor. La resurgencia de explicaciones biológicas, por ejemplo, mostraría lo errado de todo ello ('tal conducta se explica por los genes, no por la cultura'). A su vez, como criticó Latour en Reensamblar lo social, lo más cercano en la realidad a lo que se denomina 'contexto social' es lo que corresponde a las conexiones, que mostraría lo errado de la concepción de Durkheim, pues no existiría una materia social que pudiera explicar lo que sucede.</p>
+         <p>Sin embargo, estas críticas no apuntan a la idea de Durhkheim, que resulta plenamente coherente. En relación con lo primero, nada evita que múltiples otros factores afecten el comportamiento individual (o que incluso ningún factor social explique la situación individual), puesto que la explicación no es sobre individuos. En El Suicidio el rechazo a las explicaciones no-sociales no aplica a casos individuales (que tal individuo se suicide o no), sino que no sirven para diferenciar los agregados (que en tal situación hay más suicidios que en otra). En el límite, por ejemplo, incluso si se aceptara que toda la inteligencia se debiera a factores genéticos (y la investigación empírica no ha mostrado ello), depende de la configuración de las situaciones sociales los resultados que produce el atributo 'inteligencia' y, a la sociología durkheimiana, le interesan esas situaciones sociales.</p>
+         <p>Esto lleva a las críticas que se centran en la eliminación de los actores y de sus relaciones. ¿No está reificando 'lo social' Durkheim en su formulación? Pues no. Lo social opera a través de individuos y lo social no es más que las relaciones entre ellos: “Sans doute, il ne peut rien se produire de collectif si des consciences particulières ne sont pas données; mais cette condition nécessaire n'est pas suffisante. Il faut encore que ces consciences soient associées, combinées, et combinées d'une certaine manière” (Durkheim 2013:103).</p>
+         <p>El que lo social opere a través de individuos no quita, y es aquí donde Durkheim es explícito, que hay fenómenos que se generan en esa conexión y deben ser explicados. La asociación no es infecunda, sino que “la source de toutes les nouveautés qui se sont successivement produites au cours de l'évolution générale des choses” (Durkheim 2013:102), haciendo el paralelo con la biología de hecho. La sociología de Durkheim ya era una ciencia que incluía las asociaciones y relaciones. Por cierto, ello no la transforma como tal en una sociología relacional, nuestro punto es más sencillo: toda sociología que comparte la idea que las conexiones son centrales está siguiendo ya lineamientos durkheimianos. El objeto por explicar que nos plantea Durkheim tiene que ver con esas formas de conexión.</p>
+         <p>Se puede decir que las sociologías que se han dedicado explícitamente a analizar los efectos de esas formas de conexión, desde el análisis de redes a la sociología analítica, pasando por modelos de agentes, están siguiendo el dictum de Durkheim, aunque muchos de ellos son, de hecho, individualistas metodológicos, lo que se piensa usualmente en las antípodas de Durkheim. Ahora, varios de los puntos claves de esa posición no son negados en Durkheim. Así, no niega que si los individuos dejen de operar, los procesos sociales se detengan o que la forma de comprender los macro-efectos sea a partir de las redes de interdependencia entre actores. Lo que un individualista metodológico negaría es la aceptabilidad de una explicación que proceda desde elementos macro a elementos macro sin pasar por el nivel individual; una exigencia que para Durkheim resultaría innecesaria. Quizás pasar por el nivel individual (dado que son condiciones necesarias, pero no suficientes) sea adecuado, pero una explicación que no pasa por ese nivel podrá ser a lo más incompleta, no inválida. En última instancia, en física las leyes de la termodinámica fueron aceptadas y usadas en la explicación de fenómenos antes que sus microfundamentos en el movimiento de moléculas fueran establecidos. No parece que se requiera algo más exigente en ciencias sociales.</p>
+         <p>Podemos incluso defender que en la práctica toda explicación 'individual' depende de un aspecto social. Pensemos en la teoría de los juegos, que está basada no solamente en una aproximación de individualismo metodológico, sino además en una concepción específica del actor (racional o racionalidad limitada). Lo que la teoría nos explica es el tipo de estrategias que se eligen bajo determinadas condiciones del juego, así, por ejemplo, la diferencia entre juegos cooperativos y juegos no cooperativos, o con las posibles elecciones posibles por parte de los actores y sus payoffs. Todo ello, que constituye el mecanismo de la explicación, son diferencias al nivel social. Al fin, lo central es explicar cómo en tal situación emerge un juego cooperativo y cómo, en esta otra situación, emerge un juego no cooperativo. Esos son los hechos sociales.</p>
+         <p>Su propuesta es que para explicar las conformaciones y evoluciones de esos 'hechos sociales' nos centremos en la trayectoria de conformaciones. La explicación puede pasar por lo que sucede en los individuos, pero ese no es el punto (si se quiere, la explicación de Durkheim es compatible con el esquema de explicación de Coleman en Foundations of social theory que parte de una condición macro, establece consecuencias individuales, de la cual derivan conductas individuales, las cuales después se integran en un proceso social que produce el resultado a explicar). Lo que interesa de todos modos es cómo configuraciones sociales determinadas generan otras configuraciones sociales; y es crucial no saltar el paso mediante el cual la generación de la configuración se realiza. Lo que Durkheim está rechazando es la explicación funcional, la postura que cree que se ha explicado X cuando han mostrado su función (o el beneficio que genera), por el contrario, “il faut rechercher séparément la cause efficiente qui le produit et la fonction qu'il remplit” (Durkheim 2013:95).</p>
+         <p>La idea de Durkheim puede resultar exagerada (solo explicar por hechos sociales), sin embargo, es bastante razonable si se debilita (busquemos cuánto se puede explicar de los hechos sociales a partir de otros hechos sociales). Ello queda más de manifiesto cuando observamos que, en la práctica, Durkheim quiere que expliquemos los hechos sociales a partir del 'medio interno', en otras palabras, que observemos la influencia de los hechos sociales básicos, como la densidad social, a la cual dedica buena parte de su discusión del medio interno, siendo la estrategia que siguió por ejemplo en La División del Trabajo Social en otros hechos sociales: “L' origine première de tout processus social de quelque importance doit être recherchée dans la constitution du milieu social interne” (Durkheim 2013:111).</p>
+         <p>El aserto metodológico de Durkheim (explicar los hechos sociales por hechos sociales) tiene tras de sí una afirmación teórica (hay hechos sociales básicos en el medio social que pueden explicar otros). La teoría puede estar equivocada. El caso es que el interés de Durkheim es uno que, de hecho, ha sido más bien abandonado por la tradición posterior. Muchas de las críticas al aserto de Durkheim son al mismo tiempo críticas de la tradición sociológica, sin embargo, en la práctica la sociología no ha intentado explicar lo que Durkheim creía que debía explicar: los hechos sociales. Dejemos que Durkheim nos plantee con claridad la diferencia: “Quel abîme, par exemple, entre les sentiments que l'homme éprouve en face de forces supérieures à la sienne et l'institution religieuse avec ses croyances, ses pratiques si multipliées et si compliquées, son organisation matérielle et morale; entre les conditions psychiques de la sympathie que deux êtres de même sang éprouvent l'un pour l'autre et cet ensemble touffu de règles juridiques et morales qui déterminent la structure de la famille, les rapports des personnes entre elles, des choses avec les personnes, etc.” (Durkheim 2013:105).</p>
+         <p>La sociología, con alguna exageración, ni siquiera ha sido intentada. Una ciencia que intente explicar cómo se generan los hechos sociales, aquellos hechos en los cuales la situación social (formada por los otros agentes y por el conjunto de las interacciones) presiona y constriñe al actor. Menos ha sido explorada la forma en que socialmente estos hechos se generan: cómo la disposición de esas relaciones e interdependencias va generando dinámicas que son parte del proceso de producción de dichas relaciones e interdependencias. El camino de Durkheim no solo es básicamente correcto, en algo más de un siglo de su aparición, sigue en buena parte inexplorado.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>En conclusión. Espontaneidad, constreñimiento y orden social</title>
+         <p>En la última sección del capítulo V de Las Reglas, Durkheim compara su aproximación a las existentes en la tradición del pensamiento social. Son pocas páginas, pero son cruciales para entender la aproximación de Durkheim y son cruciales, también, para entender por qué Durkheim ha sido tan rechazado y por qué todavía sus afirmaciones básicas siguen sin desplegar toda su potencia explicativa.</p>
+         <p>La primera tradición que Durkheim menciona es la del contrato social, Hobbes y Rousseau. El orden social es un orden artificial, puesto que naturalmente los seres humanos no son sociables y ese orden artificial funciona por imposición: “Elle [la sociedad] n'est pas fondée dans la nature, puisqu'elle est destinée à lui faire violence en l'empêchant de produire ses conséquences antisociales” (Durkheim 2013:120).</p>
+         <p>La otra es la tradición de la economía política con las ideas contrarias. El orden social es un orden natural, espontáneo y, por lo mismo, no tiene necesidad de funcionar por imposición: “Par conséquent, partout où elle est normale, elle n'a pas besoin de s'imposer” (Durkheim 2013:121).</p>
+         <p>Durkheim al respecto nos dirá que el supuesto común a ambas posiciones (que lo natural está contrapuesto a lo impuesto) es falso. La vida social es un fenómeno natural y al mismo tiempo formado por imposición. La imposición es un fenómeno natural de la vida social. Como dice él mismo: “Seulement, cette contrainte ne résulte pas d'une machinerie plus ou moins savante, destinée à masquer aux hommes les pièges dans lesquels ils se sont pris eux-mêmes. Elle est simplement due à ce que l'individu se trouve en présence d'une force qui le domine et devant laquelle il s’incline; mais cette force est naturelle” (Durkheim 2013:121).</p>
+         <p>La resistencia a Durkheim (y en particular al primer Durkheim, al morfológico de la División del Trabajo Social y al de Las Reglas) se debe a ese rechazo en Durkheim a la idea de una vida social sin limitaciones. Las tradiciones de pensamiento más fuertes han defendido la soberanía, ya sea del individuo o colectiva, pero pocos han seguido a un pensamiento que se aleja de toda idea de soberanía decisional. El rechazo a que, ya sea como individuos o como colectivo, decidimos qué hacer. Es la idea que en la disciplina está “la condition essentielle de toute vie en commun, tout en le fondant en raison et en vérité” (Durkheim 2013:123).</p>
+         <p>No es una conclusión agradable, en particular para el espíritu moderno. Cuando hablamos de violencia simbólica (como Bourdieu) es para criticar dicha violencia y es por ello por lo que la imposición cultural es vista como violencia. Lo que está detrás es el sueño de una vida social que funciona sin imposiciones. La idea de Durkheim que esa imposición es natural (parte de cómo opera la vida social en cuanto vida social), resulta intolerable. Sin embargo, siempre queda, en el trasfondo, la sospecha que es una afirmación verdadera, que como lo hemos intentado mostrar, lo que dice Durkheim en Las Reglas es correcto.</p>
+         <p>En última instancia, podemos decir que en la vida social indefectiblemente existe imposición, porque los otros agentes son libres en relación con cada individuo. Al ser no plenamente controlables por ego, sucede que lo que generan esos otros agentes se nos aparece a cada uno como algo dado, como una cosa. En última instancia, “es la libertad de los otros lo que se enfrenta a cada actor como estructura” (Jiménez-Albornoz 2017:168). El sueño de una vida social sin imposiciones, el rechazo a la presión social como tal, se nos revela entonces más bien como una pesadilla, como el sueño que solo exista la propia voluntad.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Bearman, P.(1997). "Generalized exchange".
+               <italic>American Journal of Sociology. 102</italic>
+               (5), 1383-1415. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/231087">https://doi.org/10.1086/231087</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bearman</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <article-title>Generalized exchange</article-title>
+               <source>American Journal of Sociology</source>
+               <volume>102</volume>
+               <issue>5</issue>
+               <fpage>1383</fpage>
+               <lpage>1415</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/231087">https://doi.org/10.1086/231087"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Canales, M. (2012).
+               <italic>La palabra grupal. La sociología de Emilio Durkheim</italic>
+               . En Avendaño, O., Canales, M., Atria, R (autor.);Sociología. Introducción a los clásicos.  (79-110).: LOM Ediciones
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Canales</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>La palabra grupal. La sociología de Emilio Durkheim</chapter-title>
+               <year>2012</year>
+               <source>Sociología. Introducción a los clásicos</source>
+               <publisher-name>LOM Ediciones</publisher-name>
+               <fpage>79</fpage>
+               <lpage>110</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Durkheim, É.,  (2013).
+               <italic>Las règles de la méthode sociologique</italic>
+               . : Presses Universitaires de France
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Durkheim</surname>
+                     <given-names>É.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>Las règles de la méthode sociologique</source>
+               <publisher-name>Presses Universitaires de France</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Giddens, A.,  (1993).
+               <italic>The new rules of sociological method</italic>
+               . : Polity Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Giddens</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <source>The new rules of sociological method</source>
+               <publisher-name>Polity Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Jiménez-Albornoz, J.(2017). "Teoría de la socialidad como interacción".
+               <italic>Cinta de Moebio.</italic>
+               (59), 157-171. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2017000200157">https://doi.org/10.4067/S0717-554X2017000200157</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jiménez-Albornoz</surname>
+                     <given-names>J.I.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Teoría de la socialidad como interacción</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>59</issue>
+               <fpage>157</fpage>
+               <lpage>171</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2017000200157">https://doi.org/10.4067/S0717-554X2017000200157"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Latour, B.,  (2008).
+               <italic>Reensamblar lo social</italic>
+               . : Manantial
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Latour</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Reensamblar lo social</source>
+               <publisher-name>Manantial</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Morgan, M.(2016). "Humanising sociological knowledge   ".
+               <italic>Social Epistemology. 30</italic>
+               (5-6 ), 555-571. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02691728.2015.1119911">https://doi.org/10.1080/02691728.2015.1119911</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Morgan</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Humanising sociological knowledge</article-title>
+               <source>Social Epistemology</source>
+               <volume>30</volume>
+               <issue>5-6</issue>
+               <fpage>555</fpage>
+               <lpage>571</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02691728.2015.1119911">https://doi.org/10.1080/02691728.2015.1119911"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Ogien, A.(2016). "Durkheim as a sociologist of knowledge".
+               <italic>Journal of Classical Sociology. 16</italic>
+               (1), 7-20. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1468795X13497139">https://doi.org/10.1177/1468795X13497139</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ogien</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Durkheim as a sociologist of knowledge</article-title>
+               <source>Journal of Classical Sociology</source>
+               <volume>16</volume>
+               <issue>1</issue>
+               <fpage>7</fpage>
+               <lpage>20</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1468795X13497139">https://doi.org/10.1177/1468795X13497139"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Tilly, C.,  (1984).
+               <italic>Big structures, large processes, huge comparisons. .</italic>
+               . : Russell Sage Foundation
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tilly</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>1984</year>
+               <source>Big structures, large processes, huge comparisons. .</source>
+               <publisher-name>Russell Sage Foundation</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

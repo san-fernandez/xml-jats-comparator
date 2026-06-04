@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article 
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+<journal-title-group>
+<journal-title>Cinta de moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">00011</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Artículos</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>El fundamento epistemológico común del análisis estructural y de la antropología cognitiva</article-title>
+<trans-title-group xml:lang="en">
+<trans-title>The common epistemological foundation of structural analysis and cognitive anthropology</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3782-8376</contrib-id>
+<name>
+<surname>Corvalán </surname>
+<given-names>Javier</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label>
+<institution content-type="original">Chile. Universidad Alberto Hurtado  Correo electrónico: jcorvala@uahurtado.cl</institution>
+<institution content-type="normalized">Universidad Alberto Hurtado </institution>
+<institution content-type="orgname">Universidad Alberto Hurtado </institution>
+<country country="CL">Chile</country>
+<email>jcorvala@uahurtado.cl</email>
+</aff>
+<pub-date pub-type="epub">
+<season>Oct-Dec</season>
+<year>2018</year>
+</pub-date>
+<issue>63</issue>
+<fpage>391</fpage>
+<lpage>405</lpage>
+<history>
+<date date-type="received">
+<day>02</day>
+<month>08</month>
+<year>2018</year>
+</date>
+<date date-type="accepted">
+<day>16</day>
+<month>10</month>
+<year>2018</year>
+</date>
+</history>
+<permissions>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Resumen:</title>
+<p>Se plantea que tanto el análisis estructural proveniente del mundo académico de habla francesa, como la antropología cognitiva proveniente de Estados Unidos, han sido programas de investigación escasamente comunicados entre sí, pero con bases epistémico-metodológicas similares. El proyecto común entre ambos es la búsqueda de una formalización cualitativa de sus procedimientos y su base epistemológica radicaría en el concepto de campo semántico y lexical con raíces directas en la lingüística y semántica estructural.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract:</title>
+<p>It is suggested that both structural analysis from the French-speaking academic world and cognitive anthropology from the United States have been research programs that scarcely communicate with each other but with similar epistemic-methodological bases. The common project between both is the search for a qualitative formalization of their procedures and their epistemological basis would lie in the concept of semantic and lexical field with direct roots in linguistics and structural semantics.</p>
+</trans-abstract>
+<kwd-group xml:lang="es">
+<title>Palabras clave:</title>
+<kwd>contenido</kwd>
+<kwd>análisis estructural</kwd>
+<kwd>antropología cognitiva</kwd>
+<kwd>semántica</kwd>
+<kwd>metodología cualitativa</kwd>
+<kwd>formalización</kwd>
+</kwd-group>
+<kwd-group xml:lang="en">
+<title>Keywords:</title>
+<kwd>content</kwd>
+<kwd>structural analysis</kwd>
+<kwd>cognitive anthropology</kwd>
+<kwd>semantics</kwd>
+<kwd>qualitative methology</kwd>
+<kwd>formalization</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="2"/>
+<equation-count count="0"/>
+<ref-count count="23"/>
+<page-count count="15"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>Introducción</title>
+<p>El objetivo de este artículo es comparar los fundamentos y el proyecto teórico común de dos escuelas de análisis cualitativo en ciencias sociales, cuya característica principal es el intento de formalización de sus procesos operacionales. Se trata del análisis estructural de contenido de origen francés y de la antropología cognitiva, surgida en Estados Unidos. </p><p>El ámbito de lo que se denomina “lo cualitativo” es de amplia utilización en algunas de las ciencias sociales y se refiere, inicialmente y en un sentido amplio, a datos o empírea que está bajo la forma de palabras de lenguaje corriente y no de cifras u otras expresiones simbólico-formales. Por lo tanto, puede señalarse que una de las diferencias entre lo cualitativo y lo cuantitativo es que su base empírica, ya sea en la recolección del dato o en su análisis, está en diferentes estados de simbolización o codificación.</p><p>Todo trabajo de investigación de base empírica, sea o no en el ámbito de las ciencias sociales, incluye normalmente tres fases o etapas, aparte de la delimitación y/o conceptualización inicial del problema, siendo ellas la recolección de la información, el análisis de los datos y su interpretación. La recolección de los datos es el proceso de “captura” de la información, es decir, su disposición antes de ser analizada, aun cuando es necesario reconocer que todo proceso de recolección o captura de datos encierra en sí un tipo de análisis, en tanto es siempre selectiva y subordinada a un marco interpretativo y analítico implícito o explícito. Por su parte, el análisis de los datos es un proceso intermedio en el cual el investigador explota la empírea en términos de información que, mediante su procesamiento, genera otro tipo de información, de un mayor nivel de abstracción y que, por lo general, tiende a aportar a la formulación y/ o comprobación de un enunciado o hipótesis. Finalmente, la interpretación (que bien puede ser considerada un nivel siguiente de análisis) es un trabajo valorativo y relacional del investigador con las preguntas iniciales del estudio. </p><p>De ninguna manera afirmamos en este artículo que estos procesos sean siempre lineales y, sobre todo, no lo son como postulado en partes importantes de la investigación cualitativa en ciencias sociales. Por ejemplo, en la investigación etnográfica -emblema de la investigación cualitativa tanto en antropología como en sociología- con frecuencia se han sostenido posturas que señalan que: “La etnografía difiere de esta secuencia de ciencia social en varios aspectos. El más importante es que en lugar de etapas acotadas, la investigación etnográfica requiere constantes retroalimentaciones entre esas etapas” (<xref ref-type="bibr" rid="B22">Spradley 1979</xref>:93) o bien que “en etnografía el análisis de la información no es un proceso diferente al de la investigación. Este comienza en la fase anterior al trabajo de campo, en la formulación y definición de los problemas de investigación, y se prolonga durante el proceso de redacción del texto” (<xref ref-type="bibr" rid="B14">Harmesley y Atkinson 1994</xref>:191). </p><p>Lo anterior nos sirve para precisar que en este artículo profundizamos en la segunda de las etapas señaladas, es decir, en el análisis de los datos recogidos y específicamente en torno a cómo dos escuelas o tradiciones en ciencias sociales originadas en distintos contextos nacionales y disciplinarios, trataron de mantener una formalización de ese proceso sin escapar a lo propiamente cualitativo, es decir, sin por ello transformar los datos o su proceso de análisis en una formalización cuantitativa. Lo que nos va a interesar también es indagar en el denominador común de ambas corrientes (nula o escasamente reconocido entre ellas), consistente en la teoría de los campos semánticos o léxicos. </p><p>Como señalamos, en un proceso de investigación, la etapa de análisis se refiere a producir información a partir de otra información (datos recolectados) y es, por lo tanto, una suerte de generación de conocimiento de segundo orden (suponiendo eso sí que hay un conocimiento de primer orden, constituido por el dato inicialmente capturado), el que está guiado u orientado en torno a dilucidar una interrogante o problema de investigación y/o a someter a prueba una o varias hipótesis, o bien, es un camino a plantear hipótesis explicativas de un determinado fenómeno. Por ello también la diferencia entre recolección y análisis se relaciona con la distinción entre descripción y explicación, propia de la filosofía de la ciencia y, de esta manera, el análisis en el campo científico busca finalmente la explicación de un fenómeno, esto es, establecer la respuesta a por qué y cómo este sucede, es decir, la develación de su(s) mecanismo(s) generador(es). </p><p>Centrándonos solo en las dos primeras etapas mencionadas (recolección y análisis) y haciendo una distinción entre la investigación cuantitativa y la cuantitativa, es posible realizar, al menos en ciencias sociales, ambas fases en una investigación empírica mediante una o ambas perspectivas. Observemos para ello la <xref ref-type="table" rid="t1">tabla 1</xref>.</p><p>El cuadrante (1) da cuenta del problema que aborda prioritariamente este artículo, mediante dos escuelas o tradiciones en ciencias sociales, y se caracteriza entonces por recoger la información en términos cualitativos y analizarla de igual manera, es decir, de recoger datos bajo la forma de lenguaje corriente (palabras) y de analizarlos mediante una formalización también cualitativa. Esta perspectiva encierra una fuerte y larga tradición en ciencias sociales, particularmente en antropología social, en sociología y en parte de la psicología, siendo dominio y refugio de algunos cualitativistas y el foco de batalla de quienes, particularmente desde cierta sociología y desde otras ciencias sociales (en general desde una perspectiva cuantitativita de tendencia hegemonizadora), han criticado por décadas el estatus científico y la capacidad explicativa y generalizadora de tal propuesta (<xref ref-type="bibr" rid="B5">Boudon y Fillieule 1992</xref>). </p><p>Por su parte, el cuadrante (2) se compone de la recolección de datos en palabras y de su análisis mediante procedimientos formales de tipo cuantitativos. En esta tradición, las palabras son reducidas a cantidades, para poder operacionalizarlas, partiendo de la base, por ejemplo, que la cantidad relativa de una determinada mención explica (o no) un determinado fenómeno social. Esta tradición comenzó en la década de 1950 en Estados Unidos, en torno a los análisis de mensajes de prensa por la psicología social y en algo también, en torno a la sociología bajo el epígrafe de análisis de contenido. </p><p>Por su parte, el cuadrante (3) da cuenta de una no-tradición, ya que es algo hasta el momento prácticamente inexistente: se trataría de recolectar los datos de manera cuantitativa y de analizarlos de manera cualitativa. Decimos que es algo inexistente a menos que se consideren aquí los estudios descriptivos que desarrollan estadísticas básicas para luego describirlas y que, al mismo tiempo, se entienda que la descripción es en tal caso lo mismo que el análisis. Por último, el cuadrante (4) es lo que ha predominado hace casi dos siglos en la investigación científica en general y surge como lo único aceptable en algunas disciplinas (la casi totalidad de la economía actual, en el caso de las ciencias sociales), es decir, recolectar cuantitativamente (o bien cuantificar lo recolectado cualitativamente) y analizarlo mediante la estadística, previo cambio simbólico del dato cualitativo.</p>
+<p>
+	<table-wrap id="t1">
+		<label>tab1</label>
+		<caption>
+			<title>Tabla 1. Recolección y análisis en ciencias sociales (fuente propia)</title>
+		</caption>
+		<graphic xlink:href="0717-554X-cmoebio-63-00391-tab1.png"/>
+	</table-wrap>
+</p>
+</sec>
+<sec>
+<title>La formalización en ciencias sociales</title>
+<p>La problemática que nos ocupa a continuación fue bien definida en un acápite de un libro del sociólogo francés Raymond Boudon y que comienza por la pregunta más básica respecto del tema: “Formalizar ¿para hacer qué?” (<xref ref-type="bibr" rid="B4">Boudon 1971</xref>:7). Boudon asume en su obra que la formalización básica de toda ciencia social es su matematización lo que, por un lado, según este autor, no significa en absoluto asumir una epistemología positivista y, por otro lado, respondiendo a su propia pregunta: “una disciplina comienza generalmente a ser considerada cuando ella es capaz de hablar en un lenguaje desprovisto de ambigüedad” (<xref ref-type="bibr" rid="B4">Boudon 1971</xref>:7).</p><p>Boudon reafirmará esta posición a lo largo de su obra. Por ejemplo, en Les Méthodes en Sociologie señala que, a pesar de lo ambiguo e impredecible de la conducta humana, ella es reductible (mediante la formalización) a un lenguaje “donde esta subjetividad desaparece completamente” (<xref ref-type="bibr" rid="B5">Boudon y Fillieule 1992</xref>:22). En la misma línea, el antropólogo estructuralista británico Edmund Leach señala, por un lado, la posibilidad de un proyecto de formalización no estrictamente matemático en ciencias sociales: “Pienso que puede ser beneficioso para el antropólogo considerar los modelos matemáticos y lógicos cuando ordena sus desarrollos teóricos, pero también que su método efectivo no debe ser matemático” (<xref ref-type="bibr" rid="B18">Leach 1972</xref>:21) y, por otro lado, coincide con Boudon en las ventajas de precisión a partir de la formalización: “No estoy tratando de decir que podemos utilizar las matemáticas para resolver problemas antropológicos. Lo único que afirmo es que la abstracción de las proposiciones matemáticas posee por sí misma enormes ventajas. Traduciendo los hechos antropológicos a un lenguaje matemático, por simple que sea, podemos liberarnos de la complicación excesiva de los hechos empíricos y de los conceptos cargados de valores” (<xref ref-type="bibr" rid="B18">Leach 1972</xref>:28).</p><p>Podemos sostener, entonces, que la formalización es la creación de un lenguaje operacional de ciertas características que permiten reducir la ambigüedad del lenguaje ordinario y estandarizar sus procedimientos operacionales. Al menos dos preguntas saltan a vista, la primera: ¿es eso importante? y la segunda y más relevante: ¿es eso posible? </p><p>Para ahondar en este argumento consideramos pertinente introducir el concepto de reducción de complejidad, proveniente de la sociología de Luhmann, considerando así que el proceso investigativo busca dar cuenta de un mundo extremadamente complejo y que, para ello, requiere de códigos que formalmente permitan y condensen la comunicación dentro de tal complejidad. El código es un reductor de complejidad y delimitador de la ambigüedad y de la polisemia y, por lo tanto, es también un elemento central de todo proyecto formalizador, más aún si ello se intenta en torno a la investigación cualitativa, cuyo lenguaje de base (lenguaje común) es lo contrario a tal reducción.</p><p>De acuerdo con su enunciado, un lenguaje formal es aquel que su forma o exterioridad puede independizarse de su contenido y por lo tanto, expresar varios tipos de contenidos a partir de una misma expresión formal: el número tres, en tanto expresión formal de cantidad, se mantiene invariable de sus eventuales contenidos sustanciales (personas, árboles, casas). La formalización, a nivel de lenguaje, implica un cambio de este entre el mundo común y el de la investigación, entendiendo que tal paso es hacia un metalenguaje, es decir, uno construido a partir de otro previo, en este caso, del lenguaje ordinario. Cuando decimos que se trata de otro lenguaje, hay varios ejemplos en la historia del pensamiento moderno, siendo los más clásicos la lógica formal (que describe y reduce la complejidad de formas de pensamiento) y la matemática (que describe y reduce formas y relaciones cuantitativas con independencia de referentes empíricos directos), pero también otros como la gramática del lenguaje ordinario y la notación musical.</p><p>En efecto, normalmente la gramática se define como el estudio de las normas que estructuran y/o regulan el lenguaje humano. Dado que las lenguas o idiomas son (y han sido miles) y que aquello que las distingue es su variabilidad, cada gramática sería específica a cada lengua. Sin embargo, los lingüistas han llegado a establecer una formalización universal a partir de las llamadas categorías gramaticales: sujeto, verbo, sustantivo, artículo, etc., cuyas denominaciones y significaciones son intrínsecas a los estudios gramaticales, en tanto otras provienen de un registro semántico más amplio: futuro, pasado, género, plural. </p><p>Tenemos entonces que, a partir de un universo amplio y variable de un fenómeno en estudio (las lenguas), se especifica un universal de forma común a todos ellos (la gramática), asumiendo que todas las lenguas tienen algún grado de estructura regular y, dado que cada lenguaje tiene su propia gramática, se establece un reductor de complejidad (formal), esto es, denominaciones permanentes y estables que permiten no solo analizar una lengua, sino que hacerla formalmente comunicable y comparable en cuanto a sus características, es decir, “un conjunto de categorías y reglas que son comunes a todas las lenguas” (<xref ref-type="bibr" rid="B10">Ducrot y Todorov 2003</xref>:160). </p><p>Así, las bases de la formalización gramatical son las categorías gramaticales siendo las más conocidas las mencionadas anteriormente. Las categorías gramaticales quedan así independizadas del significado: es posible construir una oración gramaticalmente correcta, pero sin significado alguno. Smith y Wilson dan ejemplo de esto al señalar que, formalmente en inglés, una de las reglas sintácticas de la oración sigue la formalización: artículo - adjetivo - sustantivo - verbo - artículo - adjetivo - sustantivo y que al completarlas con algunas palabras concretas que corresponden a tales categorías, pueden terminar en oraciones incoherentes en cuanto a su significado, como por ejemplo: &quot;el libro divertido molestó a un gato purpúreo&quot; (<xref ref-type="bibr" rid="B21">Smith y Wilson 1983</xref>:71). Esto quiere decir algo que retomaremos más adelante: que el orden y formalización de la estructura gramatical puede tener una fuerte independencia del orden semántico lo que a su vez ha requerido tanto para lingüistas como para cientistas sociales un esfuerzo formalizador paralelo.</p><p>Un siguiente ejemplo de formalización es la notación musical, que tiene su expresión de base en el pentagrama y que logra comunicar la reproducción interpretativa de sonidos incorporando, en una escritura formalizada, el tono, la intensidad y el tiempo de duración acústica. La notación musical es una gramática de formas de reproducción “correcta” de sonidos articulados en la cual se tiene una función vertical para dar cuenta de tonos y a estos con formalizaciones de duración temporal. En tanto gramática, la notación musical busca la independencia del instrumento de reproducción de los sonidos, salvo adecuaciones específicas. Tanto la gramática como la notación musical (en cuanto procesos formalizados) permiten una indagación común: comenzar desde su forma externa (sonidos musicales o del habla) hasta llegar a su sistema de reglas, observable, precisamente, en su estructura formalizada. Las escuelas de análisis cualitativo aquí referidas comparten, como veremos, el mismo objetivo respecto del orden social y cultural.</p><p>En este punto conviene hacer una reflexión ya que los dos ejemplos anteriores son distintos para efecto de lo que podemos entender por formalización. En efecto, si la gramática nos habla de categorías y procedimientos formales para llegar a las reglas de una lengua, ella no propone necesariamente un lenguaje formal en términos de simbolización específica. Distinto es el caso de la notación musical, que más allá de dar cuenta de la estructura de una pieza musical, ella está expresada en una simbolización distinta a la del lenguaje común. Por tanto, un elemento a considerar es la posibilidad de una formalización a nivel de sistema de reglas y categorías procedimentales y otra es su posibilidad a nivel de un metalenguaje particular.</p>
+</sec>
+<sec>
+<title>Las escuelas de análisis cualitativo examinadas</title>
+<p>A partir de la década de 1950 tanto la antropología cultural norteamericana como las ciencias sociales de lengua francesa van a experimentar el impacto de la lingüística, el que será muy notorio tanto en los aspectos metodológicos de tales disciplinas, como también en parte de su epistemología global. En el caso de la antropología cultural norteamericana la llamada etnociencia o antropología cognitiva surge como una reacción formalista y en alguna medida cientificista a la corriente humanista que estaba dominando la disciplina desde los años 30 bajo la influencia de Franz Boas, impactada a su vez por los notables avances de la lingüística norteamericana pre-estructuralista.</p><p>Para las ciencias sociales de lengua francesa el impacto en ellas proviene principalmente de la obra de Ferdinand de Saussure, llamada lingüística estructural, como también de otras ramas de la lingüística de origen y desarrollo europeo durante la primera mitad del siglo XX, en especial la fonología y la semántica estructural. En el surgimiento de ambas escuelas de ciencias sociales es posible reconocer la crítica a la falta de un modelo riguroso de análisis del objeto de estudio y la consideración de que diversos elementos de la teoría lingüística son excelentes proveedores para este modelo. </p><p>Las relaciones entre ambas tradiciones de ciencias sociales son evidentes, como examinaremos en este artículo, pero curiosamente no suficientemente reconocidas entre ellas (lo que debe ser materia de análisis de la sociología de la ciencia). Aun así, tal relación es señalada por el antropólogo Marvin Harris cuando, al dar cuenta de aquello que latamente denomina “estructuralismo francés”, señala: “la notable convergencia entre el estructuralismo francés y el desarrollo del enfoque etnosemántico de los Estados Unidos tiene importancia suficiente como para merecer un capítulo aparte” (<xref ref-type="bibr" rid="B16">Harris 1999</xref>:427) y cuando, siendo fiel a sus palabras, escribe ese capítulo aparte señalando que “como ya hemos visto en Francia, bajo el liderazgo de Lévi-Strauss se ha desarrollado un modelo convergente basado también en el modelo lingüístico, aunque operacionalmente menos sólido” (<xref ref-type="bibr" rid="B16">Harris 1999</xref>:491). Es curioso como Harris habla de “modelo lingüístico” así, a secas, sin apellido, cuando en realidad omite algo fundamental (que examinaremos a continuación): se trata específicamente de una lingüística estructural y más específicamente de una semántica estructural.</p><p>Po su parte, el antropólogo argentino Carlos Reynoso alude también a esta relación conceptual entre la antropología cognitiva y el estructuralismo francés de base lingüística: “La Nueva Etnografía fue (y para muchos es todavía) el arquetipo de una antropología formal, ocupando el lugar que en otros países estuvo reservado al estructuralismo. El fracaso del estructuralismo en los Estados Unidos puede entenderse, en parte, por el hecho de que la alianza que Lévi-Strauss vino a proponer entre la etnología y la lingüística estructural ya había sido propuesta por los cognitivistas, aunque en un sentido y en una dimensión metodológica diferente” (<xref ref-type="bibr" rid="B19">Reynoso 1998</xref>:5).</p><p>Uno de los aspectos más notables de cada una de estas escuelas de análisis cualitativo es su unidad teórico-metodológica interna, es decir, la profunda interrelación entre sus aspectos conceptuales y sus respectivas metodologías, al punto tal que es imposible comprender una sin la otra y que más aún sería posible incluso deducir una a partir de la otra, en cualquier dirección. De esta manera, ambas tradiciones han logrado lo que otros programas de investigación han pretendido sin éxito durante décadas: crear un método específico de análisis que se derive directamente de sus postulados teóricos. En el caso del análisis estructural de contenido, ello está reflejado en las estructuras de análisis que propone (la estructura paralela, axial, jerarquizada, actancial y el cuadrado semántico de Greimas, según Hugo Suárez en El Sentido y el Método) y en el caso de la etnociencia en el análisis componencial y en sus prerrequisitos y derivados, tales como el análisis de “dominios culturales” (Borgatti en Jean Schensul Ethnographer’s Toolkit).</p>
+</sec>
+<sec>
+<title>La epistemología común entre ambas corrientes: teoría de los campos semánticos</title>
+<p>Uno de los postulados centrales de este artículo es que las dos tradiciones de análisis cualitativo aquí referidas no solo tienen desarrollos comunes sino que también se basan ambas en una teoría común (campos semánticos), lo que en la práctica no es reconocido explícitamente en ninguna de ellas y solo y parcialmente desde su exterior: “una tercera tendencia, no muy alejada de las anteriores &#91;…&#93; puede observarse en los trabajos de los etnólogos norteamericanos que describen las ‘taxonomías populares’ en las lenguas indígenas. En este sentido su investigación es semejante a la de Trier” (<xref ref-type="bibr" rid="B10">Ducrot y Todorov 2003</xref>:80).</p><p>La cita anterior refiere al lingüista alemán Jost Trier, considerado el descubridor o inventor (los historiadores de la lingüística no se ponen de acuerdo en el término preciso, lo que habla de una cierta ambigüedad epistemológica de la disciplina), de los llamados campos semánticos o léxico-semánticos, aun cuando para algunos persiste el debate respecto al primer propulsor de la idea (considerando en este debate a lingüistas como Ibsen y Weinsgerber). Como sea, la teoría de los campos semánticos constituye uno de los fundamentos de la semántica estructural postsaussiriana y una base innegable de su aplicación metodológica en las ciencias sociales. </p><p>En términos de definición básica, un campo semántico refiere a un conjunto de términos de la misma categoría gramatical relacionados entre sí por un significado. La diferencia entre un campo semántico y uno lexical es que los términos vinculados no necesariamente pertenecen a la misma categoría gramatical. En términos de ejemplo, los sustantivos “clavel”, “rosa”, y “jazmín” pertenecen al mismo campo semántico, en este caso, “flores”, así como “automóvil”, “motocicleta” y “tractor” pertenecen al campo de “vehículos motorizados”. La dinámica de los campos semánticos es intensa ya que, por ejemplo, basta que al segundo ejemplo se le agregue el término “bicicleta” para modificar al conjunto de elementos del campo semántico, ya que pasa a no corresponder a “vehículos motorizados” sino a “medios de transporte”, entre otras posibilidades. La teoría de los campos semánticos es entonces de primera importancia para las ciencias sociales, ya que mediante ellos (se supone) organizamos el pensamiento y la connotación del mundo social.</p><p>La teoría de los campos semánticos refiere entonces a relaciones entre elementos lexicales y cuya vinculación, precisamente, está dada por relaciones semánticas entre términos mayores (dominantes del campo) y menores (subordinados en el campo). Las relaciones semánticas al interior de los elementos de cada campo semántico son variadas y sirven los ejemplos anteriores en torno a lo que se denomina hiponimia y hiperominia: clavel, rosa y jazmín son hipónimos de flores que, a su vez, es su hiperónimo. En términos formales lo anterior puede graficarse como R (a,b,c) donde R es el término hiperónimo y a, b y c son sus términos hipónimos y el conjunto forma un campo semántico. En esta línea de argumentación tenemos que las relaciones semánticas más comunes son la sinonimia y antonimia, lo que puede simbolizarse:</p><p>X=Y en donde un término es igual o similar a otro, aun cuando no es idéntico.</p><p>X ≠ Y en donde un término es lo contrario de otro.</p><p>Entre las relaciones semánticas más conocidas están también la meronimia y la holonima. En el primer caso, por ejemplo, árbol es un meronimio de bosque y a su vez este es holonimio del primero, es decir, X C Y.</p><p>Para efectos de nuestro objeto, lo importante es definir estructuralmente un campo semántico o lexical, lo que es profundizado por lingüistas como Coseriu y Geckeler. El primero discute también la noción de campos conceptuales (proveniente de Trier y Weinsgerber) -englobando a los campos semánticos- llevando la reflexión lingüística a un plano extra y para-lingüístico y de preocupación para otras ciencias sociales. Dado que esta concepción de los campos semánticos o léxicos tiene su asidero epistemológico en la lingüística y semántica estructural, hay dos elementos que le son inherentes en tanto conceptos. En primer lugar, la relación de oposición y de complementaridad entre los términos que componen el campo en cuestión y en segundo lugar, los límites del mismo que marca, por oposición también, el comienzo de otro campo, tal como lo señala con precisión Coseriu: “hay que suponer, pues, que cada campo conceptual tiene un contenido (un ‘valor’) unitario y que este contenido se ‘subdivide’ por medio de oposiciones entre los términos (‘palabras’) que le pertenecen. En cambio, por su valor unitario, un campo se opone a otros campos &#91;…&#93; Dicho de otro modo: en la práctica un campo se establece sobre la base de oposiciones simples entre las palabras y termina allí donde una nueva oposición exigiría que el valor unitario del campo se convirtiera en un rasgo distintivo, es decir, cuando ya no son las palabras como tales las que se oponen a otras palabras, sino que el campo entero se convierte en una oposición de orden superior” (<xref ref-type="bibr" rid="B8">Coseriu 1977</xref>:40). </p><p>El puente entre la tradición de estudios lingüísticos post saussurianos y las ciencias sociales, en particular la antropología y la sociología de lengua francesa, va a estar dado por el desarrollo de la semántica estructural como disciplina específica dentro de la lingüística. Entre los autores y aportes más relevantes en semántica estructural sobresalen las figuras ya mencionadas de Coseriu, Geckeler y el mismo Greimas. Coseriu (de quien Geckeler es su alumno y continuador) profundiza y complementa semánticamente la obra de Saussure en torno a la estructura y sistema de los llamados campos léxicos que, junto al concepto de campo semántico, será discutido por Geckeler eso sí, situándose disciplinariamente en la lingüística y no en las ciencias sociales tradicionales. El problema del significado entonces pasa a ser de primera relevancia para la compresión de la realidad lingüística, y tanto la teoría de los campos léxicos como de los semánticos, aportan un elemento que será clave para las ciencias sociales: la contextualización del significado.</p>
+</sec>
+<sec>
+<title>La tradición del análisis estructural de contenido</title>
+<p>Al igual que la tradición de análisis cualitativo que estudiaremos más adelante (antropología cognitiva), el análisis estructural de contenido es una consecuencia y una aplicación de los avances de la lingüística estructural y de su subcampo, la semántica, también estructural, durante el siglo XX. Sin embargo, y a diferencia de la antropología cognitiva, el reconocimiento de este lazo es más fuerte y explícito en el análisis estructural, identificándose por lo general como una prolongación de los análisis lingüístico-semánticos al interior de las ciencias sociales, en particular la antropología social y la sociología. Otra característica y diferencia del análisis estructural y de contenido con la antropología cognitiva es su raíz y desarrollo plenamente europeo y con un fuerte asiento en los países de habla francesa, siendo casi desconocido en las ciencias sociales anglosajonas, dentro de las cuales suele limitarse a desarrollos intralingüísticos. </p><p>La perspectiva teórica que recorre el análisis estructural de contenido va desde los orígenes saussurianos de la lingüística moderna hasta los análisis semánticos de Greimas, autor que facilitará el puente hacia las ciencias sociales, previa consideración del notable aporte de Lévi-Strauss. Subyace en este desarrollo histórico un paradigma conceptual que está en la base de todos estos autores: el estructuralismo.</p><p>Por su extensión e influencia, el estructuralismo puede ser considerado un paradigma y no una teoría, lo que significa que comporta un núcleo axiomático, a la vez que una ambigüedad y disputa conceptual al interior de tales axiomas, una diversidad emparentada de referentes teóricos (a nivel de conceptos y autores) y un aterrizaje disciplinar que reconfigura y especifica sus conceptos matrices. Hay por tanto un estructuralismo antropológico, sociológico, psicológico y en otras disciplinas dentro de las ciencias sociales que al examinarlos no se está siempre seguro de referirse a lo mismo, a excepción de principios generales que a su vez parecen subyacentes en la lingüística de Saussure y en su continuidad.</p><p>A riesgo de simplificación, pero con el tácito acuerdo de varios postsaussirianos, diremos que el aporte fundacional del lingüista suizo está en dos aspectos en relación con el término “estructura”, considerando que Saussure hace mediante él referencia a “sistema”. En primer lugar, el sentido y función de una unidad analítica en relación con las demás, principalmente como oposición y a partir de ella como distinción y en segundo lugar, en el determinante colectivo al cual el sujeto no escapa y del que generalmente tampoco tiene consciencia. Respecto de lo primero, Saussure es notable al asimilar su idea de existencia relacional de cada unidad de análisis (es decir, cada una de estas unidad toma sentido, valor y posición porque existen otras) con el concepto de solidaridad, por ejemplo: “la lengua es un sistema en donde todos los términos son solidarios y donde el valor de cada uno no resulta más que de la presencia simultánea de los otros” (<xref ref-type="bibr" rid="B9">De Saussure 1945</xref>:138); o “La totalidad vale por sus partes, las partes valen también en virtud de su lugar en la totalidad, y por eso la relación sintagmática de la parte y del todo es tan importante como la de las partes entre sí” (<xref ref-type="bibr" rid="B9">De Saussure 1945</xref>:152); e incluso “hasta aquí las unidades se nos aparecen como valores, es decir, como elementos de un sistema, y nosotros las hemos considerado sobre todo en sus oposiciones; ahora reconocemos las solidaridades que los atan; solidaridades que son de orden asociativo y de orden sintagmático; ellas son las que limitan lo arbitrario. Diecinueve es solidario asociativamente de dieciocho, diecisiete, diez mil, etc., y sintagmáticamente de sus elementos diez y nueve… Esta doble relación le confiere una parte de su valor” (<xref ref-type="bibr" rid="B9">De Saussure 1945</xref>:156). </p><p>En términos de ciencias sociales, lo anterior será expresado por Pierre Bourdieu, medio siglo más tarde, en el sentido de afirmar que “lo real es relacional” (<xref ref-type="bibr" rid="B6">Bourdieu 2007</xref>:13), por ejemplo, que la clase social alta lo es debido a que existen otras clases sociales que no logran su nivel de poder o que los gustos y costumbres son distinciones para unos, porque otros no manejan los códigos para comportarse adecuadamente en determinados ambientes. Más aún, la clase social alta necesita de la existencia de las otras clases para generar la distinción frente a ellas y finalmente constituirse como lo que es: una distinción estructural. </p><p>Si vemos una línea conceptual común entre estos postulados, debemos aceptar que el término solidaridad empleado por Saussure (y por los lingüistas que le sucedieron en el campo semántico) es instrumental, es decir, no se refiere a una acción cargada de valores, sino a una complementaridad que, por oposición, otorga posición y sentido a cada una de las partículas integrantes del sistema. Esta idea va a ser también la desencadenante del análisis estructural de Lévi-Strauss, como él mismo lo reconoce a partir de la lingüística estructural-fonológica de Trubetzkoy, quien señala que: “La idea de diferencia supone la idea de oposición. Una cosa puede diferenciarse de otra solo en la medida en que ambas se opongan entre sí, es decir, en la medida en que exista entre ambas una relación de oposición” (<xref ref-type="bibr" rid="B23">Trubetzkoy 1967</xref>:33). Lévi-Strauss irá aún más lejos en el desarrollo del estructuralismo antropológico con base lingüística, y adjudica a Trubetzkoy otros tres elementos que en realidad ya estaban en Saussure y que van a ser parte del programa estructuralista en ciencias sociales y específicamente en el análisis estructural: a) el análisis de fenómenos inconscientes a partir de su manifestación consciente, tema en el que reconoce la influencia del psicoanálisis, b) la noción de sistema indiferenciable de la noción de estructura y c) el descubrimiento de leyes generales mediante un ejercicio de análisis inductivo.</p><p>Greimas, como señalamos, es el autor que genera el puente definitivo entre el análisis semántico estructural anclado en la lingüística y las ciencias sociales: “Greimas propone para las ciencias humanas el denominador común de estudio de la significación” (<xref ref-type="bibr" rid="B15">Harkot-de-La-Taille 2018</xref>:16). Es así como en su obra principal respecto de este tema, releva el aporte de la semántica: “el problema de la significación se sitúa en el centro de las preocupaciones actuales” (<xref ref-type="bibr" rid="B13">Greimas 1966</xref>:5). El proyecto de Greimas es claro: se trata de crear una nueva disciplina, una ciencia del significado similar a lo que pretendía Saussure y por ello su análisis se exhibe a veces como semántica y otras como semiología: “explorando la interface entre el vocabulario y la sociedad” (<xref ref-type="bibr" rid="B7">Broden 2017</xref>:112). </p><p>Al mismo tiempo, Greimas explicita, como parte de su proyecto intelectual, un elemento que es central en la argumentación de este artículo: la formalización a partir de la descripción cualitativa. Veamos dos citas al respecto, la primera: “un análisis cualitativo cada vez más riguroso puede contribuir a llenar el hiatus que existe actualmente entre las ciencias de la naturaleza, consideradas como cuantitativas, y las ciencias del hombre, que a pesar de las apariencias a menudo engañosas, siguen siendo cualitativas” (<xref ref-type="bibr" rid="B13">Greimas 1966</xref>:9). La segunda cita: “Nos queda una última observación a hacer, de carácter técnico &#91;…&#93; se trata de la utilización de notación simbólica. El ejemplo de las matemáticas, pero también de la lógica simbólica y, más recientemente todavía, de la lingüística, muestra que podemos ganar en precisión en el razonamiento y en facilidad operatoria si, disponiendo de un cuerpo de conceptos definidos de manera unívoca, se abandona la lengua ‘natural’ para anotar estos conceptos simbólicamente con la ayuda de caracteres y cifras” (<xref ref-type="bibr" rid="B13">Greimas 1966</xref>:17).</p><p>La obra central de Greimas está escrita en términos de exposición metodológica de su procedimiento de análisis que, a partir de los enunciados epistemológicos propios de una lingüística y semántica estructural, contiene los elementos que describimos a continuación y que van a ser la base del análisis estructural de contenido como procedimiento cualitativo para las ciencias sociales, ellos son:</p><p>(a) Significado por discontinuidad: “la única manera de abordar en la actualidad el problema del significado, consiste en afirmar la existencia de discontinuidades, sobre el plano de la percepción” (<xref ref-type="bibr" rid="B13">Greimas 1966</xref>:18), es decir, podemos percibir y/o connotar la existencia de un algo por la presencia de un no algo (A existe en la medida en que denotamos –A). </p><p>(b) Concepción de estructura a partir de la diferencia (entendida también esta diferencia como oposición): “1. Percibir diferencias, quiere decir tomar al menos dos términos-objeto como simultáneamente presentes; 2. Percibir diferencias quiere decir escoger la relación entre los términos, enlazarlos de una manera u otra. De donde la primera definición, generalmente utilizada en otras partes, del concepto de estructura: presencia de dos términos y de la relación entre ellos” (<xref ref-type="bibr" rid="B13">Greimas 1966</xref>:19). </p><p>(c) Conjunción y disyunción como principios metodológicos de base: “1. Para que dos términos-objetos puedan ser tomados como conjunto. Es necesario que tengan alguna cosa en común; 2. Para que dos términos-objetos puedan ser distinguidos, es necesario que ellos sean diferentes” (<xref ref-type="bibr" rid="B13">Greimas 1966</xref>:19). </p><p>(d) Lo anterior, es decir, conjunción y disyunción, da lugar a lo que Greimas denomina estructura elemental: “los términos-objeto no comportan significación, es a nivel de la estructura que es necesario buscar las unidades significativas elementales y no a nivel de los elementos” (<xref ref-type="bibr" rid="B13">Greimas 1966</xref>:20). </p><p>Esto conduce a Greimas a plantear un siguiente paso metodológico: </p><p>(e) Las oposiciones están relacionados por lo que se denomina un eje semántico. Un ejemplo clásico nos sirve para ilustrar los enunciados anteriores: día / noche. Cada uno de estos elementos no tiene significación en sí mismo, si no es mediante un principio de oposición, es decir, día v/s noche, que significa que cada término se define por el inverso del otro y que, a su vez, ambos necesitan de un eje semántico, que en este caso será fases de la jornada: “proponemos llamar eje semántico ese denominador común a ambos términos, ese fondo sobre el cual se desprende la articulación de la significación” (<xref ref-type="bibr" rid="B13">Greimas 1966</xref>:21).</p><p>Los pasos anteriores permiten llegar a las primeras formalizaciones del procedimiento de análisis, es decir, designando A y B a los términos-objetos y con una S al contenido semántico o eje semántico. Greimas propone en primer lugar expresar la estructura por: A/ está en relación (S) con /B, lo que se sintetiza formalmente en: A/r(S)/B.</p><p>Con este aporte, el camino para una formalización cualitativa en ciencias sociales queda abierto, lo que será profundizado en las décadas siguientes por autores diversos, avanzado metodológicamente tanto en la formalización misma, como también en su utilización en investigación social y cultural. En especial partir a partir de la década de 1970, el sociólogo belga Jean Pierre Hiernaux (en su libro L’Institution Culturelle) llevará a cabo un esfuerzo importante por anclar definitivamente estos análisis de tipo lingüístico en una sociología de análisis de modelos culturales de tipo formalizada, tanto en sus procedimientos como en su lenguaje analítico.</p>
+</sec>
+<sec>
+<title>La tradición del análisis de la antropología cognitiva</title>
+<p>El origen de esta corriente debe buscarse tanto en un doble movimiento de la antropología cultural norteamericana hacia mediados del siglo XX. Por una parte, en un intento de diferenciarse de una tradición humanista y descriptiva de la disciplina, constituyendo un nuevo enfoque con énfasis en la rigurosidad y en los métodos formales; en suma, un proyecto de profundización cientificista de la disciplina. Por otra parte y al igual de lo que sucedió en el contexto europeo, en Estados Unidos se produce hacia la primera mitad del siglo XX un intenso desarrollo de la lingüística, no solo como modelo de análisis para algunas ciencias sociales, sino también como parte fundamental de algunas de ellas, como es el caso de la antropología cultural. </p><p>El texto fundacional de esta escuela antropológico-cultural es el artículo de Ward Goodenough Componential Analysis and the Study of Meaning, en el cual desde un comienzo expresa su propósito de formar escuela: “Que los métodos de análisis componencial, tal como se han desarrollado para analizar formas lingüísticas, son aplicables en principio para analizar otros tipos de formas culturales, es una proposición hacia cuya demostración he buscado durante algún tiempo orientar mis investigaciones etnográficas” (<xref ref-type="bibr" rid="B12">Goodenough 1956</xref>:195). No deja de ser notable en favor de nuestra línea argumentativa que Goodenough no hable de campo semántico, sino que utilice el concepto de paradigma para referirse (prácticamente) a lo mismo: “Cualquier conjunto de formas lingüísticas, cualquiera que sea su forma, que signifiquen sememas complementarios, puede decirse que pertenecen al mismo PARADIGMA. Los paradigmas de la gramática latina convencional, para tomar un ejemplo familiar, consisten en formas cuyos valores semánticos son expresiones de variables conceptuales tales como persona, número, tiempo, etc.” (<xref ref-type="bibr" rid="B12">Goodenough 1956</xref>:197).</p><p>Goodenough establece un giro para la antropología cultural norteamericana, señalando que el proceso etnográfico, un clásico de esta disciplina, es investigación en sí misma y no solo material descriptivo para llevar a cabo una investigación. Dicho de otro modo, mediante el nuevo método propuesto (señala Goodenough) la etnografía adquiere un rigor y un descubrimiento de clasificaciones y estructuras mentales que son, en sí mismas, un material de valor científico, ya que “la cultura no es aquello que está afuera, sino lo que está dentro de nosotros” (<xref ref-type="bibr" rid="B17">Laguna 2012</xref>:197).</p><p>Goodenough se refiere a su método-teoría en términos de análisis componencial, un procedimiento proveniente de la lingüística y utilizado tanto en Estados Unidos como en Europa, con orígenes en el Círculo Lingüístico de Praga. El análisis propuesto se enfoca a develar clasificaciones culturales expresadas lingüísticamente y ello mediante contrastes o rasgos distintivos o diferenciadores. La idea es más o menos la siguiente: i) entendiendo que la investigación socio-cultural tiene como objetivo dilucidar significados se debe partir de un ámbito de conocimiento (conocido posteriormente como “dominio cultural”), ii) supóngase un dominio cultural como el del “buen estudiante”, que se produce en una escenario social concreto que debe especificarse (una escuela, una universidad, una carrera universitaria concreta, etc), iii) lo que corresponde a continuación es “elicitar” (del inglés to elicit, es un neologismo aun no aceptado por la RAE y de uso cada vez más recurrente en las ciencias sociales) y que puede ser traducido como suscitar u obtener los rasgos distintivos “para determinar las similaridades percibidas y las diferencias al interior de un dominio” (<xref ref-type="bibr" rid="B2">Bernstein 2010</xref>:6) en cuestión (“buen estudiante”), lo que puede dar como resultado: “responsable”; “obtiene buenas notas”; “estudioso”, etc; iii) los términos elicitados y validados por los informantes del escenario social en cuestión son los componentes que integran y definen el dominio, que se relacionan mutuamente a la vez se oponen entre sí (ya que no solo no son los mismos, sino que agregan significados distintos y adicionales al significante mayor de “buen estudiante”) y iv) es posible a su vez proponer otros dominios cercanos y examinar hasta que medida ellos comparten los rasgos del dominio inicial. Los otros dominios inducidos o elicitados son los de regular y mal estudiante, cuyos rasgos distintivos son distintos u opuestos al dominio inicial.</p><p>Esquemáticamente el resultado es el <xref ref-type="table" rid="t2">siguiente</xref>.</p><p>El paso para la formalización de la antropología cognitiva estuvo posibilitado, precisamente, por la estandarización de la metodología propuesta: “se estableció un procedimiento de investigación, en el cual la antropología comenzaba con un dominio como el parentesco o el color, luego se obtenían exhaustivamente los términos para el tipo de objetos (tipos de parentesco, tipos de color) dentro del dominio y luego un análisis de las formas de los componentes (características semánticas), aquella en que los objetos son construidos de forma única” (<xref ref-type="bibr" rid="B3">Blount 2011</xref>:14). Décadas después del artículo de Goodenough, su propuesta siguió enriqueciéndose y ganando en legitimidad, llegando a constituir una de las corrientes más reconocidas dentro de la antropología norteamericana y adquiriendo diversas denominaciones tales como etnosemántica, nueva etnografía o antropología cognitiva, siendo esta última finalmente la que ha perdurado. </p><p>Sin embargo, ya en la década de 1970 numerosas críticas le salen al camino, en parte por su extremo formalismo (famosa es la crítica al respecto de Clifford Geertz), pero sobre todo por sus exiguos logros. La antropología cognitiva sufre un relativo descrédito hacia fines del siglo XX, para tener un relanzamiento hace poco más una década de la mano de nuevos desarrollos metodológicos, que conservan parte de sus postulados y de su epistemología central basada (sin reconocerlo muchas veces) en la teoría de los campos semánticos y mediante ellos buscando un proyecto común que le une con el análisis estructural de Sausurre: la búsqueda de “modelos culturales” inferibles a partir de “consensos” respecto de términos que dan cuenta del conocimiento compartido en un contexto específico. </p><p>Parte de este renacer de la antropología cognitiva se produce al abrigo de las llamadas ciencias cognitivas: “los antropólogos cognitivos están bien equipados de métodos para recolectar y analizar datos de especificidades culturales que son escasamente accesibles para otras ciencias cognitivas” (<xref ref-type="bibr" rid="B20">Rothe 2012</xref>:389), por el reconocimiento de que “la cultura es crucial para la ciencia cognitiva” (<xref ref-type="bibr" rid="B1">Astuti y Bloch 2012</xref>:458) y también por el desarrollo de la informática a partir de programas que necesitan y posibilitan la reducción de datos a combinaciones formales. Al respecto es interesante el aporte de <xref ref-type="bibr" rid="B11">Gliozzo y Strapparava (2009)</xref>, quienes, desde las ciencias de la computación, pero teniendo como referencia a la antropología cognitiva, señalan a los dominios semánticos como un desafío para estas disciplinas (apoyándose para ello en la definición original de Trier respecto de campo semántico). El problema principal para esta perspectiva teórico-metodológica, señalan estos autores, es el de las unidades y la totalidad, aludiendo indirectamente a un desafío mayor de las ciencias sociales y en particular para las escuelas estudiadas aquí. </p><p>Estos autores indican que: “La principal limitación del enfoque estructural en la semántica léxica es que cualquier palabra está potencialmente relacionada con cualquier otra palabra en el léxico. El léxico se concibe como un todo, el significado de las palabras surge de sus relaciones con otros términos en el lenguaje” (<xref ref-type="bibr" rid="B11">Gliozzo y Strapparava 2009</xref>:4). Esto quiere decir que lo que observamos a nivel de significados son fragmentos que debe ser re-unidos en totalidades, las que su vez son fragmentos de otras totalidades y así sucesivamente. Si se desanda el camino, es posible observar que el mismo problema está presente en el análisis estructural (levistraussiano, de Greimas y hasta en Saussure): ya que el término que engloba a un conjunto de significados en un momento será un término parte de un significado mayor, ¿cómo entonces sabemos cuándo hacer la división y cuándo la unión?</p>
+<p>
+	<table-wrap id="t2">
+		<label>tab2</label>
+		<caption>
+			<title>Resultado</title>
+		</caption>
+		<graphic xlink:href="0717-554X-cmoebio-63-00391-tab2.png"/>
+	</table-wrap>
+</p>
+</sec>
+<sec>
+<title>Discusión final</title>
+<p>Por lo revisado anteriormente, la formalización como conceptos y como proyecto en ambas escuelas admite diferentes acepciones. Si bien en ambas subyace la idea de estandarización de procedimientos y de unidad teórico-metodológica, en la escuela de análisis estructural francés el proyecto incluye al desarrollo de un lenguaje formal que sea capaz de condensar al lenguaje común, propuesta que no está claramente presente en el proyecto de antropología cognitiva mayormente centrado solo en la formalización procedimental. Pareciera ser que, en definitiva, la raíz formalizadora común y más genuina en ambas escuelas se encuentra en el trasfondo epistemológico de ambas, anclada en la teoría de los campos semánticos. Si es así, cabría entonces preguntarse cuáles son los principios o elementos que desde tal teoría comandan ambos proyectos, así como sus límites analíticos. </p><p>A nuestro parecer serían dos: i) La imposibilidad del significado en condiciones de aislamiento de las unidades y, al contrario, significación contextual, entendiendo por tal la distinción semántica horizontal (con los otros términos del campo) y la vertical (con el término englobador o condensador del campo) y lo que es en extremo relevante para la investigación socio-cultural, de acuerdo a la praxis social del sujeto y ii) Un principio de oposición entre los términos incluidos en el dominio o de las disyunciones. Ellos, como corresponden a la propuesta inicial de los campos semánticos, son parte de una totalidad, pero que se necesitan aditivamente para constituirla y al mismo tiempo se diferencian para poder tener existencia distintiva.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>Referencias bibliográficas</title>
+<ref id="B1">
+<mixed-citation>Astuti, R., Bloch, M.(2012). "Anthropologists as cognitive scientists". <italic>Topics in Cognitive Science. 4</italic>(3), 453-461. Recuperado de https://doi.org/10.1111/j.1756-8765.2012.01191.x</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Astuti</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Bloch</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<article-title>Anthropologists as cognitive scientists</article-title>
+<source>Topics in Cognitive Science</source>
+<volume>4</volume>
+<issue>3</issue>
+<fpage>453</fpage>
+<lpage>461</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1756-8765.2012.01191.x">https://doi.org/10.1111/j.1756-8765.2012.01191.x</ext-link>
+</element-citation>
+</ref>
+<ref id="B2">
+<mixed-citation>Bernstein, J. (2010). <italic>21st century anthropology: a reference handbook</italic>. En Birx, H (autor.);Folk concepts.  (848-855). Thousand Oaks, CA: Sage Publications</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Bernstein</surname>
+<given-names>J.H.</given-names>
+</name>
+</person-group>
+<year>2010</year>
+<source>21st century anthropology: a reference handbook</source>
+<publisher-name>Sage Publications</publisher-name>
+<fpage>848</fpage>
+<lpage>855</lpage>
+</element-citation>
+</ref>
+<ref id="B3">
+<mixed-citation>Blount, B. (2011). <italic>A Companion to Cognitive Anthropology</italic>. En Kronenfeld, D., Bennardo, G., de Munck, V., Fischer, M (autor.);A history of cognitive anthropology.  (11-29). New York: Willey-Blackwell</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Blount</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<source>A Companion to Cognitive Anthropology</source>
+<publisher-name>Willey-Blackwell</publisher-name>
+<fpage>11</fpage>
+<lpage>29</lpage>
+</element-citation>
+</ref>
+<ref id="B4">
+<mixed-citation>Boudon, R. (1971). <italic>Les mathématiques en sociologie</italic>.  Paris: Presses Universitaires de France</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Boudon</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>1971</year>
+<source>Les mathématiques en sociologie</source>
+<publisher-name>Presses Universitaires de France</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B5">
+<mixed-citation>Boudon, R., Fillieule, R. (1992). <italic>Les méthodes en sociologie</italic>.  Paris: Presses Universitaires de France</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Boudon</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Fillieule</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>1992</year>
+<source>Les méthodes en sociologie</source>
+<publisher-name>Presses Universitaires de France</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B6">
+<mixed-citation>Bourdieu, P. (2007). <italic>Capital cultural, escuela y espacio social</italic>.  Ciudad de México: Siglo XXI</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Bourdieu</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>2007</year>
+<source>Capital cultural, escuela y espacio social</source>
+<publisher-name>Siglo XXI</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B7">
+<mixed-citation>Broden, T.(2017). "A. J. Greimas’ historical lexicology (1945-1958) and the place of the lexeme in his work". <italic>Sign Systems Studies. 45</italic>(1-2), 104-119. Recuperado de https://doi.org/10.12697/SSS.2017.45.1-2.07</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Broden</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<article-title>A. J. Greimas’ historical lexicology (1945-1958) and the place of the lexeme in his work</article-title>
+<source>Sign Systems Studies</source>
+<volume>45</volume>
+<issue>1-2</issue>
+<fpage>104</fpage>
+<lpage>119</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.12697/SSS.2017.45.1-2.07">https://doi.org/10.12697/SSS.2017.45.1-2.07</ext-link>
+</element-citation>
+</ref>
+<ref id="B8">
+<mixed-citation>Coseriu, E. (1977). <italic>Principios de semántica estructural</italic>.  Madrid: Gredos</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Coseriu</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<year>1977</year>
+<source>Principios de semántica estructural</source>
+<publisher-name>Gredos</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B9">
+<mixed-citation>De Saussure, F. (1945). <italic>Curso de lingüística general</italic>.  Buenos Aires: Losada</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>De Saussure</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<year>1945</year>
+<source>Curso de lingüística general</source>
+<publisher-name>Losada</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B10">
+<mixed-citation>Ducrot, O., Todorov, T. (2003). <italic>Diccionario enciclopédico de las ciencias del lenguaje</italic>.  Buenos Aires: Siglo XXI</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Ducrot</surname>
+<given-names>O.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Todorov</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<year>2003</year>
+<source>Diccionario enciclopédico de las ciencias del lenguaje</source>
+<publisher-name>Siglo XXI</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B11">
+<mixed-citation>Gliozzo, A., Strapparava, C. (2009). <italic>Semantic domains in computational linguistics</italic>.  Heildelberg: Springer</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Gliozzo</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Strapparava</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<year>2009</year>
+<source>Semantic domains in computational linguistics</source>
+<publisher-name>Springer</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B12">
+<mixed-citation>Goodenough, W.(1956). "Componential analysis and the study of meaning". <italic>Language. 32</italic>(1), 195-216. Recuperado de https://doi.org/10.2307/410665</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Goodenough</surname>
+<given-names>W. </given-names>
+</name>
+</person-group>
+<year>1956</year>
+<article-title>Componential analysis and the study of meaning</article-title>
+<source>Language</source>
+<volume>32</volume>
+<issue>1</issue>
+<fpage>195</fpage>
+<lpage>216</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/410665">https://doi.org/10.2307/410665</ext-link>
+</element-citation>
+</ref>
+<ref id="B13">
+<mixed-citation>Greimas, A.J. (1966). <italic>Semántique structurale</italic>.  Paris: Larousse</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Greimas</surname>
+<given-names>A.J. </given-names>
+</name>
+</person-group>
+<year>1966</year>
+<source>Semántique structurale</source>
+<publisher-name>Larousse</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B14">
+<mixed-citation>Harmmersley, M., Atkinson, P. (1994). <italic>Etnografía. Métodos de investigación</italic>.  Barcelona: Paidós</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Harmmersley</surname>
+<given-names>M. </given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Atkinson</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>1994</year>
+<source>Etnografía. Métodos de investigación</source>
+<publisher-name>Paidós</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B15">
+<mixed-citation>Harkot-de-La-Taille, E.(2018). "Por que Greimas?". <italic>Estudos Semióticos. 14</italic>(1), 12-21. Recuperado de https://doi.org/10.11606/issn.1980-4016.esse.2018.144305</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harkot-de-La-Taille</surname>
+<given-names>E. </given-names>
+</name>
+</person-group>
+<year>2018</year>
+<article-title>Por que Greimas?</article-title>
+<source>Estudos Semióticos</source>
+<volume>14</volume>
+<issue>1</issue>
+<fpage>12</fpage>
+<lpage>21</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.11606/issn.1980-4016.esse.2018.144305">https://doi.org/10.11606/issn.1980-4016.esse.2018.144305</ext-link>
+</element-citation>
+</ref>
+<ref id="B16">
+<mixed-citation>Harris, M. (1999). <italic>El desarrollo de la teoría antropológica. Una revisión a las teorías de la cultura</italic>.  México: Siglo XXI</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Harris</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>1999</year>
+<source>El desarrollo de la teoría antropológica. Una revisión a las teorías de la cultura</source>
+<publisher-name>Siglo XXI</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B17">
+<mixed-citation>Laguna, D.(2012). "Cultura y cognición. Aportaciones de la antropología al estudio de la mente humana". <italic>Ludus Vitalis . 20</italic>(37), 193-224. Recuperado de http://www.centrolombardo.edu.mx/wp-content/uploads/formidable/37_12_lagunas.pdf</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Laguna</surname>
+<given-names>D. </given-names>
+</name>
+</person-group>
+<year>2012</year>
+<article-title>Cultura y cognición. Aportaciones de la antropología al estudio de la mente humana</article-title>
+<source>Ludus Vitalis </source>
+<volume>20</volume>
+<issue>37</issue>
+<fpage>193</fpage>
+<lpage>224</lpage>
+<ext-link ext-link-type="uri" xlink:href="http://www.centrolombardo.edu.mx/wp-content/uploads/formidable/37_12_lagunas.pdf">http://www.centrolombardo.edu.mx/wp-content/uploads/formidable/37_12_lagunas.pdf</ext-link>
+</element-citation>
+</ref>
+<ref id="B18">
+<mixed-citation>Leach, E. (1972). <italic>Replanteamiento de la antropología</italic>.  Barcelona: Seix Barral</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Leach</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<year>1972</year>
+<source>Replanteamiento de la antropología</source>
+<publisher-name>Seix Barral</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B19">
+<mixed-citation>Reynoso, C. (1998). <italic>Corrientes en antropología contemporánea</italic>.  Buenos Aires: Biblos</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Reynoso</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<year>1998</year>
+<source>Corrientes en antropología contemporánea</source>
+<publisher-name>Biblos</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B20">
+<mixed-citation>Rothe, A.(2012). "Cognitive anthropologists: who needs them?". <italic>Cognitive anthropologists: who needs them?. 4</italic>(3), 387-395. Recuperado de https://doi.org/10.1111/j.1756-8765.2012.01198.x</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rothe</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<article-title>Cognitive anthropologists: who needs them?</article-title>
+<source>Cognitive anthropologists: who needs them?</source>
+<volume>4</volume>
+<issue>3</issue>
+<fpage>387</fpage>
+<lpage>395</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1756-8765.2012.01198.x">https://doi.org/10.1111/j.1756-8765.2012.01198.x</ext-link>
+</element-citation>
+</ref>
+<ref id="B21">
+<mixed-citation>Smith, N., Wilson, D. (1983). <italic>La lingüística moderna. Los resultados de la revolución de Chomsky</italic>.  Anagrama: Barcelona</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Wilson</surname>
+<given-names>D. </given-names>
+</name>
+</person-group>
+<year>1983</year>
+<source>La lingüística moderna. Los resultados de la revolución de Chomsky</source>
+<publisher-name>Barcelona</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B22">
+<mixed-citation>Spradley, J. (1979). <italic>The ethnographic interview</italic>.  New York: Holt, Rinehart and Winston</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Spradley</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>1967</year>
+<source>The ethnographic interview</source>
+<publisher-name>Holt, Rinehart and Winston</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B23">
+<mixed-citation>Trubetzkoy, N. (1967). <italic>Principes de phonologie</italic>.  Paris: Klincksieck</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Trubetzkoy</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<year>1967</year>
+<source>Principes de phonologie</source>
+<publisher-name>Klincksieck</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+</ref-list>
+<app-group>
+<app id="app1">
+<label>
+
+</label>
+<p>
+
+</p>
+</app>
+</app-group>
+</back>
+</article>

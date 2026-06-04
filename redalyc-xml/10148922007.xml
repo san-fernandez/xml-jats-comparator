@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model type="application/xml-dtd" href="http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1d3" specific-use="Marcalyc 1.2" article-type="research-article" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="redalyc">101</journal-id>
+<journal-title-group>
+<journal-title specific-use="original" xml:lang="es">Cinta de Moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="es">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile</publisher-name>
+<publisher-loc>
+<country>Chile</country>
+<email>fosorio@uchile.cl</email>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="art-access-id" specific-use="redalyc">10148922007</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Sin sección</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="en">Exploring culture through in-depth interviews: is it useful to ask people about what they think, mean, and do?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="no">
+<name name-style="western">
+<surname>Rivas</surname>
+<given-names>Ricardo</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+<email>ricardorivas@email.arizona.edu</email>
+</contrib>
+<contrib contrib-type="author" corresp="no">
+<name name-style="western">
+<surname>Gibson-Light</surname>
+<given-names>Michael</given-names>
+</name>
+<xref ref-type="aff" rid="aff2"/>
+<email>mgibson@email.arizona.edu</email>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<institution content-type="original">School of Sociology, University  of Arizona (Tucson, United States of America)</institution>
+<institution content-type="orgname">University  of Arizona</institution>
+<country country="us">United States of America</country>
+</aff>
+<aff id="aff2">
+<institution content-type="original">School of  Sociology, University of Arizona (Tucson, United States of America)</institution>
+<institution content-type="orgname">University of Arizona</institution>
+<country country="us">United States of America</country>
+</aff>
+<pub-date pub-type="epub-ppub">
+<season>Octubre-Diciembre</season>
+<year>2016</year>
+</pub-date>
+<issue>57</issue>
+<fpage>316</fpage>
+<lpage>329</lpage>
+<permissions>
+<copyright-year>2016</copyright-year>
+<copyright-holder>Autor</copyright-holder>
+<ali:free_to_read/>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<ali:license_ref>https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+<license-p>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</license-p>
+</license>
+</permissions>
+<abstract xml:lang="en">
+<title>Abstract</title>
+<p> In 2010, American sociologist John Levi Martin asserted that  in-depth interviews are inadequate for the study of culture. This sparked a  debate in the discipline over the legitimacy of interview methods for  researchers of culture and others. Here, we contextualize and contribute to  this debate. We review the ideas of Martin and argue that in-depth interviews  are in fact valid, well-supported in the field, and useful for investigating  cultural phenomena. We build this counter-argument on three angles:  epistemological, theoretical and methodological. Given this defense, we also  explore how social scientists are implementing innovative ways to complement  in-depth interview approaches, such as through social network analysis.</p>
+</abstract>
+<trans-abstract xml:lang="es">
+<title>Resumen</title>
+<p> En el año 2010, John Levi Martin, un  reconocido sociólogo estadounidense dedicó una de sus publicaciones para  aseverar que las entrevistas en profundidad eran inadecuadas para estudiar  fenómenos culturales. Esto desató un debate en la disciplina respecto a la  legitimidad de los métodos basados en entrevistas para aquellos investigadores  estudiosos de la sociología de la cultura u otras áreas similares. En este  trabajo, contextualizamos y contribuimos a este debate. Revisamos las ideas de  Martin y defendimos la idea de que las entrevistas en profundidad realmente son  válidas y que existen favorables antecedentes en su aplicación. Por lo tanto sí  son necesarias al investigar este tipo de fenómenos. Construimos esta  contra-respuesta desde tres ángulos: epistemológico, teórico y metodológico.  Haciendo nuestra defensa de este tipo de entrevistas, también damos cuenta de  la manera en que científicos sociales implementan formas innovadoras para  complementar su función, tal como sucede en el análisis de redes sociales.</p>
+</trans-abstract>
+<kwd-group xml:lang="en">
+<title>Keywords</title>
+<kwd>qualitative methods</kwd>
+<kwd> in-depth interviews</kwd>
+<kwd> epistemology</kwd>
+<kwd>  sociology of culture</kwd>
+<kwd> John Levi Martin</kwd>
+</kwd-group>
+<kwd-group xml:lang="es">
+<title>Palabras clave</title>
+<kwd>métodos cualitativos</kwd>
+<kwd> entrevistas en profundidad</kwd>
+<kwd> epistemología</kwd>
+<kwd>  sociología de la cultura</kwd>
+<kwd> John Levi Martin</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="31"/>
+</counts>
+</article-meta>
+</front>
+<body>
+		
+		<sec>
+            <title>Introduction</title>
+			
+		<p>In the social sciences, the study of subjectivity is not  synonymous with the study of individuality. Despite the fact that individuals  are a central unit of information, what social scientists need to get is  something “sui generis” –in Durkheim’s words– emerging from different forms of  social interaction. This “sui generis” dimension has been observed in  structured behaviors or patterns of interaction wherein positions are relevant,  but cognitive processes have been largely neglected. On the other hand, “sui  generis” character can be observed in more symbolic aspects, which unavoidably  lead us to the concept of culture.</p>
+<p>How do we investigate culture from any formal definition? Is a specific  conceptual definition indispensable? Or should we to query culture upon  different sets of definitions? It is worthwhile to wonder about the importance  of epistemological underpinnings of research in the cultural field, taking into  account “what people say.” To attain valuable responses in research it is  necessary to adopt a clear argumentative position regarding “qualitative” and  “quantitative” methods. Unfortunately, for many, the discussion remains “more  about what should and should not be considered qualitative than about the  relative merits of quantitative and qualitative approaches to human study” (Preissle 2006:689). </p>
+<p>This essay provides a different approach to the aforementioned  considerations. It focuses on the usefulness of in-depth interviews as a method  for investigating cultural phenomena. This type of interview is the meaning  comprehension that people produce around specific topics. One or more  encounters between interviewer and interviewee should generate an increasing  level of complexity, namely semantic relationships, connection between facts  and motives, judgments, etc. Consideration of questions around this technique is  valid because there remains a shallow understanding of the basis, goal, and  ultimate sense of in-depth interviews for obtaining valid and reliable  knowledge. </p>
+<p>Scholars relying on basic, vague, or obvious definitions of  in-depth interviews reveal a lack of knowledge and a concerning level of “take  for grantedness” of the method, which makes qualitative research (and specifically in-depth interviews)  “vulnerable” to critique. Take, for example, this definition of qualitative  interviewing given by Rubin and Rubin: “The responsive interviewing model  relies heavily on the interpretative constructionist philosophy, mixed with a  bit of critical theory and then shaped by practical needs of doing interviews.  The model emphasizes that the interviewer and interviewee are both human  beings, not recording machines, and that they form a relationship during the  interview that generates ethical obligations for the interviewer” (2005:30).</p>
+<p>Is this an indirect message to representatives of what Pitirim  Sorokin called “quantophrenia” in the 1950s? Is it an ethical declaration or  intellectual distinction? This way of defining research techniques –in-depth  interviews in this case– does not fit with an understanding of the fundamentals  and limitations of carrying out reflexive research. In making this argument, we  challenge definitions from a post-structuralist program that connects  qualitative interviews with emotions, recalling personal situations, even  exerting therapeutic function. </p>
+<p>This work aims to contribute to the defense of in-depth  interviews, responding to the thorough and provocative paper written in 2010 by  John Levi Martin titled “Life’s a beach but you are an ant, and other unwelcome  news for the sociology of culture”. In it, Martin evaluates and criticizes the  purpose and feasibility of interviews to study culture. Here, we begin with  detailing Martin’s critique and outlining the debate which it sparked. We then  present a three-angled defense of in-depth interviews, drawing on  epistemological, theoretical, and methodological concerns.</p>
+</sec>
+	<sec>
+<title>Martin’s critique  and the interview debate</title>
+<p>One of the objectives of John Levi Martin’s work is to challenge  the idea that we can question culture as a system of meanings, getting into  ‘the heads’ of individuals. According to the author, this idea leads  investigators to do research “that involves probing informants as to how they  make connections between subjective elements and attempting to reconstruct the  culture from connections they make” (Martin 2010:228).</p>
+<p>The author assumes that our minds have structural limitations  (cognitive limitations) that should lead us to cast doubt on the reliability of  information based on thoughts, meanings or any mental process. The mind is  relatively simple if we compare it to the complexity of the social environment.  Martin adds that this complexity “is not an attribute of environments or  objects, but rather a relationship between minds and objects” (Martin 2010:230). Briefly, these cognitive limitations are:</p>
+<p>  Generically, we  have a limited and low mental process.</p>
+<p>  Our memory is  extremely limited and essentially parsimonious.</p>
+<p>  Our connections  between categories are fuzzy.</p>
+<p>  The relationship  among ideas is highly influenced by linguistic forms.</p>
+<p>  Conscious  processes (reasoning why) are not efficient, reflecting more intuitive and  simple processes behind our actions.</p>
+<p>Martin does not deny that the aforementioned features allow us to  be “social beings” and act in an efficient way. For instance, being  parsimonious or selective with respect to stimuli from the environment can  reduce the complexity of the social environment. However, he does not consider  our cognitive skills so “effective” as to be good sources of information or at  the same level of complexity as the environment. In this regard, the author  insists that even though interactions are complex, “this is compatible with an  understanding of our basic mental structures as being quite simple” (Martin 2010:239).</p>
+<p>Clearly, as Martin acknowledges, it is a mistake to look inside  people's minds for evidence that reflects their highly complexity social  environment. At least, we should not have high expectations about what we will  find related to the broadly accepted notion of culture, which he defines as “a  complex web of meanings” (Martin 2010:228). More directly, Martin states the following with respect to  in-depth interviews and the assumed usefulness to study cultural phenomena:  “[I]f we want to learn about culture, the last thing we should do is to conduct  in-depth interviews with a selection of informants, any more than we would  expect to strike gold by asking them for whatever change is in their pockets” (2010:240).</p>
+<p>While in-depth interviews have been used to study the  meaning-making process in relation to very complex issues (e.g., Lamont 2000),  Martin challenges social scientists who rely on such methods. Several prominent  researchers have responded to this challenge. Lamont and Swidler (2014) caution  against “methodological tribalism,” defending interview methodology as  appropriate (and often ideal) for addressing questions of social boundaries,  status hierarchies, and other phenomena. Similarly, Pugh (2013) maintains that  critiques of interview methods are largely founded on flawed understandings.  She argues that contradictory accounts of motivation across (or within)  interviews may in fact be analytically useful in the study of culture, which is  itself complex and often seemingly contradictory. Responding to Pugh, Vaisey  (2014) defends the dual process model of culture and advances the negative  implications of this model for in-depth interviews. He questions the utility of  interviews alone for connecting talk to implicit cultural content. Lizardo  (2012), too, illustrates the complexity of measuring the relationship between  the embodiment of culture and the retrieval or performance of cultural  contents, suggesting that the assumption of an inherent link between the two  remains problematic. Vila-Henninger (2015) draws on cognitive neuroscience  research to reveal limitations in the overall debate between interview and  survey researchers in the sociology of culture. Each method, he suggests, is  useful for retrieving cultural information, though they get at participant  memories through different mental systems. A better understanding of each and  collaboration between the two are necessary.</p>
+<p>It is clear that contentions remain over the issues that Martin  helped to raise. To advance this debate, the following section will analyze and  challenge his initial assumptions on epistemological, theoretical, and  methodological grounds.</p>
+</sec>
+<sec>
+<title>Three angles to  defend in-depth interviews</title>
+<p>Similar  to Guba and Lincoln’s portrayal of differences between paradigms in the social  sciences, we address Martin's argument from three angles:  epistemological-ontological, theoretical, and methodological. In presenting  each angle, we refer to literature from the sociology of culture and relational  sociology.</p>
+</sec>
+<sec>
+<title>1)  Epistemological-ontological angle</title>
+<p>This  double angle considers the nature of the relationship between the knower and  what can be known. As Judith Preissle states,  it is an analysis “at what many consider to be the most abstract level are the  philosophical assumptions embedded in any study: the epistemologies, ontologies  and axiologies that the researcher presupposed” (2006:668). In this section, we  have preferred to address the epistemological side with an emphasis in  cognition. While the ontological question about what the nature of reality is,  in the context of this work, is directly a question about what culture is.  Consequently, we have preferred to go over this issue in the Theoretical Angle  section.</p>
+<p>Shore  acknowledges that “modern views of mental representation have tended to fall  into two theoretical camps: realistic and nominalist” (1996:238). Following the  latter distinction, the epistemological approach to in-depth interviews in  cultural inquiry has been in general nominalist, assuming that reality, as unit  of analysis, is a social construction. </p>
+<p>In  qualitative research and specifically for researchers carrying out in-depth  interviews, the constructed representations about the world that subjects are  able to manifest are the main source of scholarly knowledge. In other words,  "we know the world only through our representations of it" (Denzin 2001:23).  These representations can only be known through an “emic” perspective. This  means interpreting thoroughly subjects’ meanings of their own actions and of  others’ actions. This emic perspective is carried out within specific  interpretative contexts. </p>
+<p>In  contrast, Martin's position is realistic with respect to researching culture  when one considers that trying to grasp meanings through cognitive human  processing may be naïve. The author considers culture as something that is out there, potentially “attainable” by  the human mind. Nevertheless, such “attainability” is not possible. The human  mind is limited in its ability to understand an external object given internal  cognitive capacities.</p>
+<p>The  epistemological issue that Martin lays out can be better addressed outside the  philosophical field. In doing so, we consider “what is possible to know, by  whom and how about culture” in a way more related to social empirical research.  In this regard, research focused on human cognitive processes depicts valuable  pieces of evidence. This challenges Martin’s thesis about both our capability as  subjects of processing social reality in a coherent way and, as researchers, to  comprehend subjects’ constructed meanings as product of the aforementioned  process.</p>
+<p>There  are interesting and complex processes in our minds, which matter from a  constructivist standpoint regarding culture. Apart from considering that our  cognitive processes are highly social, it is imperative to consider endogenous  aspects, which psychologists have explored. Whatever we have “out there”, such  as interactions, shared meanings, or material culture, is apprehended by  internal mechanisms. Among these types of mechanisms is the process of  categorization. Despite our limited capacity to understand cultural elements,  the process of categorization is a way “to survive” socially. Consequently,  verbal manifestation through interviews is one way (among others) that can  mediate our knowledge of culture through people's minds.</p>
+<p>Cognitive  processes and culture</p>
+<p>According  to Martin, mental processes are insignificant with respect to the complexity of  the environment. However, researchers adopting a cognition approach have  demonstrated that there are important mental processes that should be  considered by the sociology of culture.</p>
+<p>Following  Jean Mandler, the cognitive approach sees in our mental processes a complexity  centered on relations between categories which allow us to organize our  experience. They are abstract entities not only based on experiences but  imagination as well. According to the cognitive approach, people make use of  complex schemes in order to work through challenging questions or situations.  Therefore, these cognitive processes can be grasped as cultural understandings  which are culturally shared. However, this does not mean that we are actors of  permanent awareness and reflexivity with respect to mental processes. As Lakoff  argues, “most categorization is automatic and unconscious, and if we become  aware of it at all, it is only problematic cases” (2008:6).</p>
+<p>Another  important issue is memory. It is impossible to deny our limited capacity to  recall information. Similarly, Paul DiMaggio presents two kinds of cognition:  (1) Automatic cognition is related to  uncritical knowledge upon culturally available schemata. It has two important  consequences. The first is about methodology, which leads us to grasp  “taken-for-granted assumptions which subjects may not have easy verbal access”  (DiMaggio 1997:269). Secondly, this kind of cognitive process tells us  something about how culture works, allowing us to use schema as the central  unit of analysis. (2) Deliberative  cognition refers to a set of cognitive processes related to critical  thinking. However, this type of thinking is only possible under specific  conditions such as attention toward a problem, strong motivation, or when a  used schema fails when it faces inconsistent evidences. For instance, in this  regard, researchers who believe that cognitive elements are inside people’s  minds and that the job of interviewers is to collect them, have developed  techniques such as “graphic elicitation”, visual tools complementing interviews  which can expand, modify, and even refute a researcher's emerging  conceptualization. </p>
+<p>  Both  kinds of cognition are crucial in order to demonstrate how uni-dimensional  Martin’s point of view is. It is probable that some techniques are not  efficient in order to “get” reliably cognitive elements from people. However,  this is only one side of our mental process. As DiMaggio states, “research on  automatic versus deliberative processing may help sociologists to determine  what to do with the widely believed but theoretically inert notion that both  institution and agency are central to social life” (1997:272). Similarly, Nairn  and colleagues (2005) and Jacobsson and Åkerström (2013) understand that interviews are not a failure when  they are not reliable from a realistic or positivist perspective. There are  other dimensions that matter when we seek to understand human behavior and  culture specifically. For instance, the way that interviewees  communicate may inform what they say, opening new routes of research culture. </p>
+<p>Vaisey  uses both types of cognition (presenting a dual-process model of culture) to  defend a conception of culture that links values and action. He presents his  proposal regarding how to face two kinds of consciousness as follows: “Research  in a number of areas points toward a dual-process model of cultural cognition:  actors are driven primarily by deeply internalized schematic processes (‘the  elephant’ / practical consciousness / habitus), yet they are also capable of  deliberation and justiﬁcation (‘the rider’ / discursive consciousness) when are  required by the demands of social interaction” (2009:1687).</p>
+<p>Vaisey’s  thesis has important methodological implications. Interviews are not good when  people make judgments with respect to their actions, which are based on  unconscious cognitive processes and do not say much about real motives behind a  person's behavior. Later, the author states that, despite the fact that  interviews would not be a good strategy for tool kit-repertoire theory, they  are for the means-ends theory (2009:1670). When Vaisey presents the empirical  consequences of this approach, he advises us about what kind of information we  can access through interviews: “Because discursive consciousness is largely  uninvolved in routine moral decision making, interview respondents will either  (a) tend to explain their behavior in intuitive terms without a clear  substantive referent or (b) offer multiple ‘loosely coupled’ logic of  justiﬁcation to support their judgments” (2009:1690).</p>
+<p>This moral decision-making does not always follow  the ordinal logic action-justification. According to C. Wright Mills,  justifications can precede action: “To term  them justification is not to deny their efficacy. Often anticipations of  acceptable justifications will control conduct… (also) Often he [the actor] is  finding new ‘reasons’ which will mediate action. Thus, we need not treat an  action as discrepant from ‘its’ verbalization, for in many cases, the  verbalization is a new act” (1940:907).</p>
+<p>Finally,  these two types of cognition help us to understand that the limited capacity of  our mind is an important feature to consider when we want to study culture  through discourse. For instance, as Zerubavel states, “most of the concepts we  use to organize our experience are not clear-cut and sharply delineated but,  rather, vague and often modified by such ‘hedges’ as ‘largely,’ ‘sort of,’  ‘quite,’ ‘almost,’ or ‘more or less’, until recently, such an ability to  process fuzzy categories and negotiate subtle nuances” (1993:74). This  fuzziness of categories is discussed further in the following section.</p>
+</sec>
+<sec>
+<title>2) Theoretical  angle</title>
+<p>In this section, we focus on the theoretical aspects of culture as  object of knowledge. There are three topics related to this part. One is the  concept of culture that Martin uses in order to assess how useful interviews  may be. The second is a theoretical concern related to the concepts of meaning  and motives and their relationship with language. Finally, there are theoretical  aspects related to categorization and symbolic boundaries in the sociology of  culture.</p>
+<p>Discussion on  culture</p>
+<p>An important aspect of Martin’s work is to understand his  assumption about the concept of culture. The complexity of culture would be an  “elephant sleeping in a bathtub” (Martin 2010:240). He says that culture is  external and can never be conceived within our minds, nor is it shared through  phenomena like “inter-subjectivity”. Martin may be right in considering that  scholarly reflections on qualitative interviews frame the technique as  communicative interactions aimed at identifying meanings regarding others’  meanings and actions, which therefore remain in reproduction. However, Martin’s  work lacks an explicit definition of what culture is. To build a defense of in-depth interviews, there are  interesting conceptualizations of culture that must be taken into  consideration. </p>
+<p>Clifford Geertz claims that culture should be understood as a way  that people organize action and experience in different contexts. Those  contexts have plenty of symbols and meanings but these contexts are imbalanced  and they do not have the same symbolic intensity. Consequently, Geertz provides  the elements to understand variation with respect to cultural coherence among  different contexts. The relationship between meanings and practices has been crucial  in the current debate over defining culture. Ann Swidler, in a paradigmatic paper, stated that “culture influences action  not by providing the ultimate values toward which action is oriented, but by  shaping a repertory or ‘tool kit’ of habits, skills, and styles from which  people construct ‘strategies of action’” (1986:273). In this regard, Paul  DiMaggio states that “research in cognitive psychology strongly supports the  toolkit over the latent-variable view and suggests that typical toolkit is very  large indeed” (1997:267). Following DiMaggio, an example of these strategies  would be that when people speak about themselves, they try to seem coherent and  use cultural elements as symbolic tools. </p>
+<p>If culture can be defined as a “toolkit”, the interaction between  practices and symbols are central to these strategies. Practices (the material  world) and Symbols (the cultural world) are interpenetrated. Thus, action has  to be associated with the analysis of discursive practices as the constitution  of a duality (Breiger 2000, Breiger 2002). An in-depth interview can be considered a discursive practice as  well as an object of analysis itself. </p>
+<p>Motivation,  meaning, and discourse</p>
+<p>Martin’s work casts doubt on the capacity of individuals to recall  facts, among other points of weakness. However, we can consider a different way  to analyze discourse, which contemplates the relationship between discourse and  culture mediated by the concept of “motivation” and, alternatively, through the  concept of “classification”. C. Wright Mills (1940), in a classical essay, discussed some ideas about the role of  discourse in researching culture. The main criticism from Mills is that  language is assumed as an external manifestation or concomitant of something  prior, more genuine, and "deep" in the individual or inside the  individuals’ mind, as Martin states. </p>
+<p>Mills prefers the idea that language aims toward potential  actions. This means that language is important for understanding motives in a  similar way that Alfred Schutz put forward in social phenomenology. Moreover,  for Mills, “to explain behavior by referring it to an inferred and abstract  ‘motive’ is one thing. To analyze the observable lingual mechanisms of motive  imputation and avowal as they function in conduct is quite another [later he  adds] then, we must indicate mechanisms of the linkage of vocabularies of  motive to systems of action” (1940:904).</p>
+<p>One can see that what people say becomes important when discourse  has a function in the contexts of systems of actions. Mills calls attention to  the relationship as the connection between our cognitive process and action. As  was seen above, discourse as verbalization of motives can be fuzzy and  incoherent. In this regard, Anne Norton argues that “Language is not only a  mean by things are named but the schema in which things are placed in relation,  and the medium in which those names and those relations are changed” (2004:12).  The latter might add more complexity to analyzing social reality  through in-depth interviews, but it has to be assumed as a part of a specific  way to understand culture from individuals.</p>
+<p>Let  us consider the example of “The Politics of Elective Belonging” by Mike Savage  and colleagues.  The abstract states: “I pursue this theme through examining the narratives which different sorts of  people articulate in talking about  their attachment to their residential locale. Building on arguments first  developed in Globalization and Belonging (…) I assess the scope of what Gaynor Bagnall, Brian Longhurst and I called  “elective belonging”, the way that middle class people claimed moral rights over place through their capacity to move to,  and put down roots in, a specific place which was not just functionally  important to them but which also mattered symbolically”  (2010:115, emphasis added).</p>
+<p>Savage  and colleagues attempt to comprehend symbolic aspects of housing, which are the  meaning and motivations that become a rationale for residential attachment. The  authors mention articulation as an activity of interviewees. Obviously, the  scope to which the author refers assumes a categorical sense. </p>
+<p>Classification,  symbolic boundaries and discourse</p>
+<p>One of the most common dichotomous categories of analysis is the  dyad structure vs. agency. Holland (2013) studied this dichotomy by exploring  explanations of social inequality given by American MBA students. The discourses  were assembled upon both structural and individual explanations. These  discourses only became sensible for the subjects when they were able to state  strong statements about human nature. By establishing the nature of human  beings, they were able to set boundaries between what is realistic and what is  not in order to better explain and handle social inequality.</p>
+<p>The aforementioned research is an example of the need to grasp the  way in which subjects construct coherent representations. These representations  might be based on categories, which can be totally opposed in other arenas.  Boundaries constructed in a particular cultural system might be different from  those constructed in other cultural systems. Moreover, the boundaries and  rationales are generally different from other types of systems like politics or  art. </p>
+<p>Social boundaries have been a core topic in the sociology of  culture. Michele Lamont has become a prominent researcher studying symbolic  exclusion and hierarchy from people’s discourse, adopting a tight relation with  Bourdieu’s work on symbolic power. Lamont, in her well-known work Money,  Morals and Manners, defends qualitative interviews as an important  technique for investigating cultural boundaries, as the following excerpt lays  out: “[Qualitative interviews] are superior to survey questions for studying  symbolic boundaries, as they let interviewees themselves describe their  standards of evaluation and led the researcher toward the most appropriate  analytical categories… [and] allow us to infer how respondents draw boundaries  by focusing on the implicit criteria of purity at work during the interviews”  (1992:15).</p>
+<p>Drawing boundaries, as Lamont states, is a crucial process that has  been grasped using in-depth interviews. Nevertheless, it is worthwhile to  consider the lack of consistency and fuzziness of boundaries among categories  or concepts in cultural terms. This has been a central topic of discussion  among scholars that define the process of classification as a crucial part of  culture.</p>
+<p>Our minds categorize and classify phenomena. This is a symbolic  process with practical objectives and consequences. Martin argues that the  central problem is not that “we do not remember well” (2010:232) but that our  records are unbounded and contain fuzzy connections. Like Martin, the  researchers Goldberg &amp; DiMaggio (2012) describes the process of  classification based on work from neuroscience and the neuro-linguistic  sciences. He maintains that: (1) Tt is not a binary process; there are  ambiguous classifications and fuzzy logic. The shape of the relationship is  reticular. (2) Categories are ambiguous and embedded in complex semantic  networks. (3) Categories are only meaningful insofar as they relate to one  another and (4) People do not always have the awareness to articulate the  categories that are the basis of their behaviors. Most processes are  unconscious and they are dispositions, as Pierre Bourdieu has defined.</p>
+<p>Fuzziness should not be used an argument to neglect in-depth  interviews, but is a condition that any researcher has to face and, therefore,  look for better ways of gathering and analyzing oral information. Our  classification tends to be ambiguous, contradictory and unsteady throughout  time. In-depth interviews imply this kind of fuzzy classification within and  between individual discourses.</p>
+<p>In  order to illustrate cultural distinction through discourses, we may draw on  Mendez,  who states: “This paper explores in-depth interviews on aspects of middle class  identity in a neoliberal age, taking the case of Chile’s rapid and stark  transition to a neoliberal economic model which was imposed by a dictatorship  but later reproduced during democracy. The paper reveals that there are no  challenges to middle class identities (e.g. from the working class, or  peasants). In this respect, these are neo-liberal middle class identities in  that their way of thinking is preconditioned by market dominance” (2008:220).</p>
+<p>Despite  the fact that in this work there are no explicit epistemological and  methodological assumptions, we can note several examples of discourses that  mirror distinctions and cognitive schemes:</p>
+<p>“Interviewee: –In my opinion, the problem is that  we don’t have a distinctive Chilean culture, everything is about going to  McDonald’s, ‘the shopping centres’ (in English in the original) and not the  ‘centros comerciales’ (shopping centres).</p>
+<p>Researcher: –And would you ﬁnd it better if it was  more ‘European’ instead?</p>
+<p>Interviewee: –I would ﬁnd it superb! (laughs), what  a nightmare, I’m such a snob! Well, anyway, Europe is a different thing, the  Europeans do well and know how to live well, they not only work, but know when  to stop, they have a coffee and chat, they have good taste... I guess that it  is clear that we should be imitating Europe instead, they do have culture”  (Mendez 2008:232).</p>
+<p>It  is difficult to grasp unconscious processes from these discourses, but it is  also hard to neglect the evidence of the way that the actor explains their  actions and establishes boundaries, classifications, and categorical  connections. There is no doubt that the researcher’s object of study cannot be  addressed by any other methodological strategy.</p>
+</sec>
+<sec>
+<title>3) Methodological  angle</title>
+<p>This  angle focuses on technical issues. It aims to respond coherently to the  possibility of getting empirical data with epistemological and theoretical  principles. This is what most students and scholars mean when they declare an  investigation as “qualitative research” because “it emphasizes the  ‘how’—procedures, techniques, practices—rather than the ‘what’ and the ‘why’” (Preissle 2006:690).  However, this focus cannot be isolated from epistemological issues. For  instance, Rubin and Rubin describe philosophical fundaments using technical  aspects of research when they state that “The positivist philosophy underlies  experiments, surveys, and other statistical studies and imitates the ways in  which those in the natural sciences go about their work” (2005:19). </p>
+<p>Techniques such as in-depth interviews need to be settled in solid  epistemological principles, which also need to be related to the nature of  cognitive processes to which those techniques are connected. In this regard,  Martin can elaborate his criticism of in-depth interviews because he begins  with an ontological (realism) and epistemological (empiricism) hypothesis that  yields a distinction, for instance, between false or real memory.</p>
+<p>Having exposed some contours of the philosophical underpinnings of  in-depth interviews, it is necessary to consider a more practical dimension of  this technique. However, reviewing procedural aspects of in-depth interviews is  not the main contribution of this section. Instead, the aim is to relate this  type of interview with methods that have not been associated to concepts such  as meaning, motivation, or language. </p>
+<p>Duality of  meaning and practice in social network analysis</p>
+<p>In-depth interviews have been utilized and discussed by different  disciplines, which have not necessarily always relied on oral sources. For  example, historians have been concerned with reliability and validity of oral  sources; however, they cannot dispense of them when they face a lack of written  resources or when it is necessary to contrast data coming from that kind of  source. The discourse of interviewees and interviewers are embedded in  the context of macro-level events and social relations, which can be understood  as the frame of what people are saying. </p>
+<p>In the social sciences, qualitative interviews have been  acknowledged as complementary to structural methods. In this regard, Pager and  Karfin (2009) considered it necessary to complement models of statistical  discrimination exploring employers' group-level attributions. In-depth  interviews were the main way to understand complex processes of deep personal  attitudes and their formation, although the emergent conclusion might actually  be hypotheses for further testing. </p>
+<p>Michele Lamont (2000) was not wrong when she claimed that the  process of “meaning-making” is a dimension that needs to be developed in social  science fields like social inequality or discrimination as a renewed agenda.  The rationalistic paradigm has several universalistic assumptions that an  interpretative approach can unveil. The latter statement is probably a  challenge to structural research programs. This is a field of sociological knowledge  which has been very disconnected from qualitative interviews; however, some  things seem to be changing in realms such as social networks studies.</p>
+<p>It is hard to see the application of in-depth interviews to social  network analysis, which has traditionally been based on positivist and  structuralist principles. According to Fuhse and Mutzel, “networks are thus not seen as mere analytical constructs, but as  real social structures with three dimensions: the structure of social  relationships; the individual actors and their connections; and the meaning  associated with networks and their connections” (2011:1068). This need to  combine cultural aspects such as meaning and motivation with approaches that  consider practices as central concerns is a reaction to criticisms against  social network analysis. The main weakness of social network analysis, according  to critics, would be to neglect people’s motivations when they are pursuing  particular relationships and dropping others. This means that the actors  actively construct their networks; therefore, “an analysis of structures and  connections has to be complemented with a concern for meaning, for the  linguistic forms, narratives, cultural practices, and expectations embodied in  networks” (Fuhse and Mutzel 2011:1078).</p>
+<p>The methodological dimension of in-depth interviews can be  considered highly flexible and useful. This means that this kind of technique  has its own merit and may also be part of other research agendas that, some  years ago, excluded any kind of intensive or qualitative components. A valuable  example is that more scholars are striving to understand the meaning associated  with social networks and explore their context through in-depth interviews. In  fact, Mortelmans and Verheyen (2011) reconstructed network paths using in-depth  interviews in order to grasp the supportive interactions that women establish  after a relational breakup. To a lesser extent, Pirskanen and colleagues (2015)  used social network diagrams as a visual method in order to conduct interviews  on sensitive topics and encourage people to remember and talk about issues that  they would have neglected in other contexts.</p>
+</sec>
+<sec>
+<title>Conclusion</title>
+<p>There are diverse philosophical and ideological underpinnings of  qualitative methods and in-depth interviews in particular. Several of them  should be challenged. For some scholars, interviews are a social action or  interpretative practice rather than a method for gathering information. Thus,  these would be reflexive, dialogic, or performative interviews. Also, there are proposals striving to save failed interviews. </p>
+<p>Considering the positions illustrated above, we do not claim that  Martin’s criticisms of in-depth interviews are entirely unworthy. His position  becomes more acceptable if we accept his epistemological and theoretical  assumptions. However, using alternative principles with respect to his  assumptions, it is possible to understand discourses and qualitative interviews  in a different way. </p>
+<p>It has been claimed that culture is a phenomenon based on  individual cognitive processes, but this should not mean that culture and  individual cognitive process are the same. We can learn what people think,  mean, and do fruitfully as a part of any cultural context and not as an output  or translation of a more complex environment. We should not expect consistent  and coherent ideas from discourses because human beings process reality in  fuzzy ways. The real problem lies in the level of complexity of our methods and  their ability to analyze such tangled meanings, motivations, and  justifications.</p>
+<p>In regards to the overall value of interviews, we have maintained  that they are indeed worthy without giving up scientific principles of validity  and reliability. As Lamont states, “social scientist have devised various  techniques to minimize ‘distortions’ and have continued to produce qualitative  studies of great interest and importance” (1992:19). </p>
+<p>We have also introduced methodological considerations regarding  other approaches to culture, including the integration of interviews and other  methods. For instance, social network analysts rely on sophisticated algorithms  and computational procedures. Furthermore, they have created an abstract corpus  transforming social network analysis into a consistent theoretical approach  rather than a mere technique. However, when social network analysts observe  friendship ties, it becomes necessary to unpack what a “friendly tie” truly  means to participants. In-depth interviews are a useful way to understand these  and others phenomena, though it is necessary to remain aware of their  possibilities and limitations. With respect to the latter, John Levi Martin’s  article is mandatory reading. </p>
+<p>In conclusion, Martin’s article does offer “unwelcome news” for  social scientists who fail to address (or who are unaware of) the  epistemological, theoretical, and methodological fundamentals of in-depth  interviews, or of contemporary advances in qualitative methodology. In this  paper, we have aimed to outline relevant concerns in these areas, which we hope  will strengthen interview methodology and the study of culture broadly.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="redalyc_10148922007_ref1">
+<mixed-citation>Breiger, R.L. 2002. Writing (and  quantifying) sociology, pp. 90-112. In: J. Monroe (ed) Writing and revisiting the disciplines. Ithaca, NY and London:  Cornell University Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Breiger</surname>
+<given-names> R.L</given-names>
+</name>
+</person-group>
+<source>Writing and revisiting the disciplines</source>
+<year>2002</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref2">
+<mixed-citation>Breiger, R.L. 2000. A tool kit for  practice theory. Poetics 27(2–3): 91–115. doi: 10.1016/S0304-422X(99)00026-1</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Breiger</surname>
+<given-names> R.L</given-names>
+</name>
+</person-group>
+<source>Poetics</source>
+<year>2000</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref3">
+<mixed-citation>Denzin, N. 2001. The reflexive  interview and a performative social science. Qualitative Research 1(1):23–46. doi: 10.1177/146879410100100102</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Denzin</surname>
+<given-names> N</given-names>
+</name>
+</person-group>
+<source>Qualitative Research</source>
+<year>2001</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref4">
+<mixed-citation>DiMaggio, P. 1997. Culture and  cognition. Annual Review of Sociology 23: 263–287. doi: 10.1146/annurev.soc.23.1.263</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>DiMaggio</surname>
+<given-names> P</given-names>
+</name>
+</person-group>
+<source>Annual Review of Sociology</source>
+<year>1997</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref5">
+<mixed-citation>Fuhse, J. &amp; Mutzel, S. 2011.  Tackling connections, structure, and meaning in networks: quantitative and  qualitative methods in sociological network research. Quality and Quantity 45(5): 1067–1089. doi:  10.1007/s11135-011-9492-3</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fuhse</surname>
+<given-names> J</given-names>
+</name>
+</person-group>
+<source>Quality and Quantity</source>
+<year>2011</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref6">
+<mixed-citation>Goldberg, A. &amp; DiMaggio, P. 2012. Where do social categories come from? A  comparative analysis of online interaction and categorical emergence in music  and finance. New Jersey: Princeton University.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Goldberg</surname>
+<given-names> A</given-names>
+</name>
+</person-group>
+<source>Where do social categories come from?</source>
+<year>2012</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref7">
+<mixed-citation>Holland, C. 2013. An empirical  analysis of the structuration of American ideologies about economic justice.” Qualitative Sociology Review 9(4):  84–99. http://www.qualitativesociologyreview.org/ENG/volume27.php</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Holland</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<source>Qualitative Sociology Review</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref8">
+<mixed-citation>Jacobsson, K. &amp; Åkerström, M.  2013. Interviewees with an agenda: learning from a ‘failed’ Interview. Qualitative Research 13(6): 717–734.  doi: 10.1177/1468794112465631</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jacobsson</surname>
+<given-names> K</given-names>
+</name>
+</person-group>
+<source>Qualitative Research</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref9">
+<mixed-citation>Lamont, M. 2000. Meaning-making in  cultural Sociology: broadening our agenda. Contemporary  Sociology 29(4): 602–607. http://www.jstor.org/stable/2654561</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lamont</surname>
+<given-names> M</given-names>
+</name>
+</person-group>
+<source>Contemporary Sociology</source>
+<year>2000</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref10">
+<mixed-citation>Lamont, M. 1992. Money, morals and manners. The culture of the French and the American  upper-middle class. Chicago and London: The University of Chicago Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Lamont</surname>
+<given-names> M</given-names>
+</name>
+</person-group>
+<source>Money, morals and manners. The culture of the French and the American upper-middle class</source>
+<year>1992</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref11">
+<mixed-citation>Lamont, M. &amp; Swidler, A. 2014.  Methodological pluralism and the possibilities and limits of interviewing. Qualitative Sociology 37(2): 153-171.  doi: 10.1007/s11133-014-9274-z</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lamont</surname>
+<given-names> M</given-names>
+</name>
+</person-group>
+<source>Qualitative Sociology</source>
+<year>2014</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref12">
+<mixed-citation>Lakoff, G. 2008. Women, fire, and dangerous things. What categories reveal about the  mind. Illinois: The University of Chicago Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Lakoff</surname>
+<given-names> G</given-names>
+</name>
+</person-group>
+<source>Women, fire, and dangerous things. What categories reveal about the mind</source>
+<year>2008</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref13">
+<mixed-citation>Lizardo, O. 2012. Embodied culture as  procedure: rethinking the link between personal and objective culture.  Collegium 12: 70-86. http://www.helsinki.fi/collegium/journal/volumes/volume_12/index.htm</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lizardo</surname>
+<given-names> O</given-names>
+</name>
+</person-group>
+<source>Collegium</source>
+<year>2012</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref14">
+<mixed-citation>Martin, J. 2010. Life’s a beach but  you’re an ant, and other unwelcome news for the sociology of culture. Poetics 38(2): 228–243. doi:  10.1016/j.poetic.2009.11.004</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Martin</surname>
+<given-names> J</given-names>
+</name>
+</person-group>
+<source>Poetics</source>
+<year>2010</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref15">
+<mixed-citation>Mendez, M. 2008. Middle class  identities in a neoliberal age: tensions between contested authenticities. The Sociological Review 56(2): 220–237.  doi: 10.1111/j.1467-954X.2008.00785.x</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mendez</surname>
+<given-names> M</given-names>
+</name>
+</person-group>
+<source>The Sociological Review</source>
+<year>2008</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref16">
+<mixed-citation>Mills, C. Wright. 1940. Situated  actions and vocabularies of motive. American  Sociological Review 6: 904–913. http://www.jstor.org/stable/2084524</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mills</surname>
+<given-names> C</given-names>
+</name>
+</person-group>
+<source>American Sociological Review</source>
+<year>1940</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref17">
+<mixed-citation>Mortelmans, D. &amp; Verheyen, W.  2011. A dyadic view on the post-separation network of single mothers. Qualitative Sociology Review 7(3): 72–96.  http://www.qualitativesociologyreview.org/ENG/volume20.php</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mortelmans</surname>
+<given-names> D</given-names>
+</name>
+</person-group>
+<source>Qualitative Sociology Review</source>
+<year>2011</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref18">
+<mixed-citation>Nairn, K; Munro, K; Smith, A.B. 2005.  A counter-narrative of a ‘failed’ interview.” Qualitative Research 5(2): 221–244. doi:  10.1177/1468794105050836</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nairn</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<source>Qualitative Research</source>
+<year>2005</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref19">
+<mixed-citation>Norton, A. 2004. 95 theses on politics, culture, and method. New Haven and London:  Yale University Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Norton</surname>
+<given-names> A</given-names>
+</name>
+</person-group>
+<source>95 theses on politics, culture, and method</source>
+<year>2004</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref20">
+<mixed-citation>Pager, D. &amp; Karafin, D. 2009.  Bayesian bigot? Statistical discrimination, stereotypes, and employer decision  making. The Annals of the American  Academy of Political and Social Science 621(1): 70–93. doi:  10.1177/0002716208324628</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pager</surname>
+<given-names> D</given-names>
+</name>
+</person-group>
+<source>The Annals of the American Academy of Political and Social Science</source>
+<year>2009</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref21">
+<mixed-citation>Pirskanen, H. et.al. 2015. Researching  children’s multiple family relations: social network maps and life-lines as  methods. Qualitative Sociology Review 11(1): 50–69. http://www.qualitativesociologyreview.org/ENG/volume32.php</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pirskanen</surname>
+<given-names> H</given-names>
+</name>
+</person-group>
+<source>Qualitative Sociology Review</source>
+<year>2015</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref22">
+<mixed-citation>Preissle, J. 2006. Envisioning  qualitative inquiry: a view across four decades. International Journal of Qualitative Studies in Education 19(6):  685-695. doi: 10.1080/09518390600975701</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Preissle</surname>
+<given-names> J</given-names>
+</name>
+</person-group>
+<source>International Journal of Qualitative Studies in Education</source>
+<year>2006</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref23">
+<mixed-citation>Pugh, A. J. 2013. What good are  interviews for thinking about culture? Demystifying interpretive analysis. American Journal of Cultural Sociology 1(1): 42-68. doi: 10.1057/ajcs.2012.4</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pugh</surname>
+<given-names> A</given-names>
+</name>
+</person-group>
+<source>American Journal of Cultural Sociology</source>
+<year>2013</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref24">
+<mixed-citation>Rubin, H. &amp; Rubin, I. 2005. Qualitative interviewing. The art of hearing  data. Thousand Oaks, London and New Delhi: Sage.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Rubin</surname>
+<given-names> H</given-names>
+</name>
+</person-group>
+<source>Qualitative interviewing. The art of hearing data</source>
+<year>2005</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref25">
+<mixed-citation>Savage, M. et.al. 2010. The politics  of elective belonging. Housing, Theory  and Society 27(2): 115–161. doi: 10.1080/14036090903434975</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Savage</surname>
+<given-names> M</given-names>
+</name>
+</person-group>
+<source>Housing, Theory and Society</source>
+<year>2010</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref26">
+<mixed-citation>Shore, B. 1996. Culture in mind. Cognition and the problem of meaning. Oxford:  Oxford University Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Shore</surname>
+<given-names> B</given-names>
+</name>
+</person-group>
+<source>Culture in mind. Cognition and the problem of meaning</source>
+<year>1996</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref27">
+<mixed-citation>Swidler, A. 1986. Culture in action:  symbols and strategies. American  Sociological Review 51(2): 273–286. http://www.jstor.org/stable/2095521</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Swidler</surname>
+<given-names> A</given-names>
+</name>
+</person-group>
+<source>American Sociological Review</source>
+<year>1986</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref28">
+<mixed-citation>Vaisey, S. 2014. Is interviewing  compatible with the dual-process model of culture? American Journal of Cultural Sociology 2(1): 150-158. doi:  10.1057/ajcs.2013.8</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vaisey</surname>
+<given-names> S</given-names>
+</name>
+</person-group>
+<source>American Journal of Cultural Sociology</source>
+<year>2014</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref29">
+<mixed-citation>Vaisey, S. 2009. Motivation and justification:  a dual process model of culture in action. American  Journal of Sociology 114(6): 1675–1715. doi: 10.1086/597179</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vaisey</surname>
+<given-names> S</given-names>
+</name>
+</person-group>
+<source>American Journal of Sociology</source>
+<year>2009</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref30">
+<mixed-citation>Vila‐Henninger, L. A. 2015. Toward  defining the causal role of consciousness: using models of memory and moral  judgment from cognitive neuroscience to expand the sociological dual‐process  model. Journal for the Theory of Social  Behaviour 45(2): 238-260. doi: 10.1111/jtsb.12068</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vila‐Henninger</surname>
+<given-names> L</given-names>
+</name>
+</person-group>
+<source>Journal for the Theory of Social Behaviour</source>
+<year>2015</year>
+</element-citation>
+</ref>
+<ref id="redalyc_10148922007_ref31">
+<mixed-citation>Zerubavel, E. 1993. The fine line. Illinois: The University  of Chicago Press.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Zerubavel</surname>
+<given-names> E</given-names>
+</name>
+</person-group>
+<source>The fine line</source>
+<year>1993</year>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.7" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2018000100080</article-id>
+			<article-id pub-id-type="publisher-id">00007</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>El paradigma de la complejidad en economía: más allá de las leyes y de la causalidad lineal</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>The paradigm of complexity in economics: beyond laws and linear causality</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>García</surname>
+						<given-names>Alfredo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ivarola</surname>
+						<given-names>Leonardo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Szybisz</surname>
+						<given-names>Martín</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">(garcia.alfredodaniel@gmail.com) Facultad de Ciencias Económicas, Universidad de Buenos Aires (Buenos Aires, Argentina) ORCID: 0000-0001-8976-8005</institution>
+				<institution content-type="normalized">Universidad de Buenos Aires</institution>
+				<institution content-type="orgdiv1">Facultad de Ciencias Económicas</institution>
+				<institution content-type="orgname">Universidad de Buenos Aires</institution>
+				<addr-line>
+					<named-content content-type="city">Buenos Aires</named-content>
+				</addr-line>
+				<country country="AR">Argentina</country>
+				<email>garcia.alfredodaniel@gmail.com</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">(ivarola@economicas.uba.ar) CONICET (Buenos Aires, Argentina) ORCID: 0000-0002-9997-3720</institution>
+				<institution content-type="normalized">Consejo Nacional de Investigaciones Científicas y Técnicas</institution>
+				<institution content-type="orgname">CONICET</institution>
+				<addr-line>
+					<named-content content-type="city">Buenos Aires</named-content>
+				</addr-line>
+				<country country="AR">Argentina</country>
+				<email>ivarola@economicas.uba.ar</email>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">(mszybisz@hotmail.com) Facultad de Ciencias Económicas, Universidad de Buenos Aires (Buenos Aires, Argentina) ORCID: 0000-0003-0243-9976</institution>
+				<institution content-type="normalized">Universidad de Buenos Aires</institution>
+				<institution content-type="orgdiv1">Facultad de Ciencias Económicas</institution>
+				<institution content-type="orgname">Universidad de Buenos Aires</institution>
+				<addr-line>
+					<named-content content-type="city">Buenos Aires</named-content>
+				</addr-line>
+				<country country="AR">Argentina</country>
+				<email>mszybisz@hotmail.com</email>
+			</aff>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2018</year>
+			</pub-date>
+			<!--<volume>00</volume>-->
+			<issue>61</issue>
+			<fpage>80</fpage>
+			<lpage>94</lpage>
+			<history>
+				<date date-type="received">
+					<day>11</day>
+					<month>05</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>24</day>
+					<month>08</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>El enfoque de máquinas nomológicas como esquema de funcionamiento de los modelos económicos supone la existencia de conjunciones constantes de eventos que tienen lugar en tanto se cumplan con determinadas cláusulas<italic>ceteris paribus</italic>. Este enfoque supone causalidad del tipo lineal, una metodología del tipo macro-micro-macro, y un aislamiento respecto del entorno en el cual dicha máquina opera, lo cual lo hace congruente con el pensamiento neo-mecanicista. Consideramos que estos supuestos son cuestionables bajo el paradigma de la complejidad. En particular, dado que gran parte de los fenómenos económicos responden a una causalidad no lineal, es necesario tener en consideración interacciones que no se dan en un nivel ni micro ni macro sino<italic>meso</italic>, y que no es necesario ni conveniente hacer un aislamiento con el entorno, sino que es posible contemplarlo utilizando modelos de simulación.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>The nomological machines approach as a scheme of operation of economic models presupposes the existence of constant conjunctions of events that take place as long as certain <italic>ceteris paribus</italic> clauses are fulfilled. This approach involves linear causality, a macro-micro-macro methodology, and an isolated environment in which the machine operates, which makes it consistent with the neo-mechanistic approach. We believe that these assumptions are questionable under the paradigm of complexity. Given that a large part of economic phenomena responds to non-linear causality, it is necessary to consider interactions that do not occur at a micro or macro level but rather at a <italic>meso</italic>-level, and that it is neither necessary nor desirable to isolate from the environment, but it is possible to contemplate it using simulation models.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>complejidad</kwd>
+				<kwd>nivel meso</kwd>
+				<kwd>simulación</kwd>
+				<kwd>máquinas nomológicas</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><bold>Key words</bold>:</title>
+				<kwd>complexity</kwd>
+				<kwd>meso level</kwd>
+				<kwd>simulation</kwd>
+				<kwd>nomological machines</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="9"/>
+				<page-count count="15"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>La generación de bytes diarios se calcula en trillones, cantidad suficiente para equivaler a varias veces las bibliotecas físicas existentes. Las grandes compañías de informática pelean por la posesión de la fuente de información contenida en la nube de servidores, bajo la forma de <italic>big data</italic>. El modo de acceder a ella no es por inferencia, sino que se ha asimilado al arduo y contingente proceso de la minería. Conocer la realidad que esa realidad virtual representa se hace a través de la detección de patrones repetitivos, buscando en un creciente número de conceptos que van desde comportamientos humanos hasta tejidos vivos dañados. El método de aprendizaje se realiza vía inteligencia artificial y los patrones obtenidos apuntan a entender y también a predecir, sin apelar a un orden causal ni lineal. La complejidad aparece en la forma de incontables nodos interconectados e interdependientes que autogeneran su propia estructura de vinculación en forma dinámica. Se pierde así la noción de linealidad y se encara directamente el fenómeno desde un nuevo paradigma. Los fenómenos que teorizar no se muestran directamente, si no es a través de una exigente aproximación por medio del planteo constante de preguntas que puedan formularse sobre los datos, en una interacción entre teoría y práctica poco explorada hasta ahora por la epistemología en general y por la epistemología de la economía en particular.</p>
+			<p>La posibilidad de explicar dinámicas complejas de sistemas fue un importante punto de partida para la popularización de estos modelos. Algunos de ellos que intentan usar algún tipo de red con agentes heterogéneos provienen de las ciencias naturales, en particular de la física, donde el interés puede estar en el estudio de la probabilidad de consenso entre agentes que pueden tomar la opinión de sus vecinos, o en la ocurrencia de cambios de fase, en los cuales el sistema pasa por un cambio cualitativo en la conformación de conexiones u ocupación de la red de los agentes. Estas formalizaciones fueron relativamente exitosas en estudiar comportamientos colectivos emergentes de la interacción del sistema con los agentes. Además de la necesidad de modelos basados en agentes, en economía se ha usado el concepto de red para explicar el contagio de las crisis financieras. En microeconomía se ha estudiado la estructura de industrias integradas verticalmente como una forma de red, permitiendo estudiar interoperabilidad e interconexión, compatibilidad de coordinación de estándares técnicos y el valor de las conexiones en distintos tipos de estructuras de propiedad.</p>
+			<p>Algunos epistemólogos como Nancy Cartwright han incorporado el concepto de complejidad al aseverar que el mundo es tanto “moteado” como “desordenado”. Empero, a la hora de pensar los modelos que explican y predicen la realidad fenoménica, ha mantenido el concepto de “máquina”. Más precisamente, desarrolla la noción de “máquina nomológica”, la cual entiende como estructuras o mecanismos que tienen capacidades estables, organizadas “correctamente” en el medio “correcto” (<xref ref-type="bibr" rid="B3">Cartwright 1999</xref>:50). Al estar blindada o protegida de influencias externas, el conjunto de componentes internos de la máquina funciona sin perturbaciones, lo cual da lugar a conjunciones constantes de eventos. Esta noción es congruente con el enfoque neo-mecanicista que ha estado en boga en la filosofía de la ciencia en las últimas décadas. Sin embargo, creemos que esta postura es poco adecuada para comprender en profundidad los fenómenos complejos.</p>
+			<p>En el presente trabajo examinaremos la complejidad desde el punto de vista de fenómenos cuyas partes se interconectan en interdependencia mutua, dando lugar a una estructura que no estaba prevista o planificada previamente por ninguna de dichas partes. La estructura emergente, sin embargo, no tiene garantizada su estabilidad en un entorno que eventualmente podrá hacerla evolucionar hacia una complejidad mayor o a desaparecer, con un sentido muy diferente al de una máquina. Se necesita no solo entender la máquina, sino su emergencia y evolución respecto del entorno que la hace útil o inútil. Tampoco es posible controlarla centralizadamente, aun cuando sus componentes respondan linealmente a dicho control. Por ejemplo, los integrantes de una colonia (bacterias o insectos) pueden responder individualmente a ciertas operaciones mecánicas, pero la estructura que construyen no responde a un plano previamente armado, al cual responden los individuos linealmente. Problemas vinculados a la volatilidad de las respuestas, la incertidumbre respecto del entorno, el grado de absorción de shocks y la propia reacción del entorno a la estructura que se está formando, o incluso problemas de estabilización ante una disparidad de efectos de algunos componentes más grandes, más activos o más interconectados que otros en el interior de la estructura (topología de los nodos), son algunos de los escenarios que deben ser explorados conjuntamente con los nodos individuales (nivel micro) y con el todo producido (nivel macro), lo que nos da como resultado un estudio de la realidad fenoménica a un nivel <italic>meso</italic>. En algunos casos, la incorporación de expectativas -esto es, el efecto que un determinado futuro anticipado tiene sobre el presente (por ejemplo, la aceleración del trabajo de la colonia en previsión a un cambio de estación)- agrega elementos de interdependencia no solo espacial (hacia el interior de la estructura o hacia su exterior), sino de temporalidad. </p>
+			<p>Vinculado a la interacción entre los elementos de la estructura, en este trabajo exploraremos la diferencia entre sistemas lineales y no lineales (apartado 1). La aparición de los fenómenos de interacción entre los elementos de la red que no pueden ser considerados desde la perspectiva micro, ni como resultado de los cambios agregados (nivel macro), sino a un nivel <italic>meso</italic>, serán examinados en el apartado 2. En el mismo se ofrecerá el modelo de segregación racial de Schelling como ejemplificación de los procesos <italic>meso</italic>. En el apartado 3 discutiremos el enfoque de máquinas nomológicas de Nancy Cartwright y mostraremos la imposibilidad de dicho modo de pensamiento bajo el paradigma de la complejidad. Finalmente, en el apartado 4 propondremos un lugar más destacado para los modelos de simulación dentro del bagaje técnico que se utiliza a la hora de modelizar fenómenos económicos complejos.</p>
+		</sec>
+		<sec>
+			<title>Causalidad lineal vs no-lineal</title>
+			<p>De acuerdo con el modo en que las relaciones causales e interacciones entre partes de un sistema tienen lugar, podemos diferenciar dos tipos de ellos: <italic>sistemas simples</italic> y <italic>sistemas complejos</italic>. Los sistemas simples asumen una causalidad de tipo “lineal”, esto es, una causalidad donde no existen interdependencias entre los elementos participantes y donde no importa el número de elementos interactuantes, porque se pueden asimilar cualquiera de ellos al mismo patrón descriptivo. Ahora bien, el hecho de que sean simples no significa que sean sencillos. Un motor de combustión interna, una máquina expendedora de golosinas o una lavadora son aparatos complicados para el ojo humano, pero en realidad se consideran que son simples en tanto el tipo de causalidad que tiene lugar aquí es lineal. Supongamos que el proceso de alguna de estas máquinas lo podemos representar bajo la forma A→B→C→D, donde las letras simbolizan partes, elementos o subsistemas y donde las flechas simbolizan la dirección causal. Estos sistemas son simples en el sentido de que las partes A, B, C y D no actúan con interdependencia. A provoca un cambio en B, B en C y C en D. Pero C no afecta B o A. Un motor de combustión interna puede presentar fallas en el sistema de refrigeración, pero esto no afecta directa e instantáneamente al sistema de arranque o al de distribución. El mecanismo de la lavadora es elaborado, así como es elaborado el de la heladera. Pero el mal funcionamiento de la lavadora no afecta al funcionamiento de la heladera.</p>
+			<p>En cierta medida un sistema simple puede entenderse en <italic>aislamiento.</italic> En un sistema simple solo se requiere el cumplimiento de ciertas condiciones antecedentes. Pero una vez que estas condiciones se cumplen, el funcionamiento del mecanismo puede comprenderse sin tener en cuenta el medio o entorno en el que está operando. En otras palabras, esto equivale a decir que no existen otros factores causales -más que los asociados con el cumplimiento de las condiciones antecedentes- que interactúan con dicho mecanismo.</p>
+			<p>En este marco, las máquinas nomológicas propuestas por Cartwright no son otra cosa que manifestaciones de sistemas simples. A pesar de que puedan tratarse de sistemas “complicados” por el modo en que son configurados, las relaciones causales dentro (interacciones y/o procesos en el interior del mecanismo) y fuera de la máquina (leyes causales) son lineales. Más específicamente, las leyes causales que emergen del funcionamiento repetido de las máquinas nomológicas son conjunciones constantes, tales que el efecto no afecta de ningún modo a la causa. Puesto que las cláusulas <italic>ceteris paribus</italic> cumplen un rol de aislamiento y/o de “blindaje”, el funcionamiento de las máquinas es independiente de su contexto.</p>
+			<p>Un sistema complejo u orgánico es diferente. En éstos existen interdependencias entre sus elementos constituyentes. La estructura o “medioambiente” emerge de la misma actividad de sus elementos, los cuales pueden operar en una diversidad de estrategias que surgirán de cada contexto. El sistema tiene gran cantidad de elementos, altamente conectados entre sí y con alta posibilidad de ser influidos por el contexto, que va cambiando de acuerdo con la dinámica de dicho sistema. A diferencia del encadenamiento simplificado de un sistema simple, en uno complejo el encadenamiento se reemplaza por una red de interconexiones entre elementos. En contraposición a la linealidad expuesta en A→B→C→D, en un sistema complejo cada elemento puede afectar al otro. Por ejemplo, B puede afectar tanto A como D (además de C); ídem con el resto de los elementos.</p>
+			<p>En los sistemas complejos la causalidad no es lineal; lo que hay es una red de interdependencias entre factores causales, al punto que se hace prácticamente imposible aislar encadenamientos causales lineales. Un cambio (o manipulación) de alguno de sus partes puede afectar al funcionamiento del resto, muchas veces con consecuencias insospechadas. Esto puede verse en los ecosistemas: una especie puede ser molesta para la raza humana y los humanos pueden diseñar estrategias y políticas para mejorar su calidad de vida (en un sistema lineal se toma un objetivo aislado y se aplican formas de incidencia en el comportamiento de los elementos para lograrlo), pero ese accionar puede provocar efectos imprevistos y no deseados sobre elementos que conforman el sistema que se pretendió aislar. Por ejemplo, eliminar la población de leones en una región de África puede hacer que la tasa de crecimiento de las presas (<italic>v. gr</italic>., cabras) aumente exponencialmente, lo cual hará que éstas se transformen en plaga y que provoquen daños importantes en los cultivos y en las zonas forestales.</p>
+			<p>A diferencia de un sistema mecánico, un sistema orgánico o complejo no puede ser aislado de su entorno. En otras palabras, cualquier aislamiento implicará dejar de lado factores que pueden afectarlo de alguna manera. La población de leones no puede ser aislada de su ecosistema, sino que el comportamiento de cada población de seres que la componen repercute en el mismo, al tiempo que el comportamiento del ecosistema repercute en la población tanto de humanos como de cabras y leones. Cualquier tipo de aislamiento hará que las conclusiones diverjan considerablemente de los resultados reales. Dado que todo equilibrio depende de procesos repetitivos, se puede creer que éste es espontáneo y natural, cuando en realidad es un caso particular que surge de la repetición de un entendimiento lineal que no es suficiente ni necesario cuando se amplía el entorno en el que opera.</p>
+			<p>La visión desde la complejidad permite aproximar el fenómeno bajo estudio a través de las interacciones en una red interdependiente y no necesariamente de los elementos singulares que las componen. Se rompe así cualquier visión lineal de causa-efecto. La estructura compleja donde operan los agentes es dinámica, cambia en el tiempo, sea porque aumenta la cantidad de elementos, sea porque se adapta a nuevas formas de interacción entre los elementos, sea porque hay mayor interdependencia con su entorno. En estos casos no es posible controlar los resultados desde un nivel micro (logrando una regularidad de los elementos nodales y considerando a la estructura como una sumatoria de elementos), ni tampoco a nivel macro (ya que cualquier organismo que pretenda controlar un fenómeno inmediatamente lo complejiza, haciéndose parte de la interacción y generando un fenómeno aún más complejo).</p>
+		</sec>
+		<sec>
+			<title>La importancia del nivel meso</title>
+			<p>En los sistemas simples en general, y en el enfoque de máquinas nomológicas en particular, se suele hacer una separación entre comportamientos micro y macro. Al nivel macro podemos apreciar cómo al presionar el acelerador el motor de combustión incrementa sus revoluciones, o cómo al presionar el botón de encendido del lavarropas, éste se encarga de lavarla en un periodo de tiempo. Al nivel micro existe una serie de procesos donde cada parte o elemento del mecanismo cumple una función particular y ésta se repite sistemáticamente. Esta función particular es lo que nos permite apreciar tanto el rol causal de dichas partes como su “linealidad”. En algunos casos -principalmente en economía y en comportamientos sociales en general-, lo micro se vincula directamente con asumir un agente representativo, cuya conducta agregada nos permite ver el comportamiento macro si este agente repite sistemáticamente tal comportamiento; lo macro no es otra cosa que el agregado o sumatoria de comportamientos individuales funcionando repetitivamente. Esta clase de mecanismos suelen denominarse <italic>macro-micro-macro</italic> (<xref ref-type="bibr" rid="B5">Hedström y Swedberg 1998</xref>). Se parte de una situación inicial a nivel macro (estado inicial del proceso), se examinan los componentes del mecanismo al nivel micro y, el funcionamiento de estas partes, dará lugar a un nuevo fenómeno macro (estado final del proceso). Por ejemplo, en el modelo de equilibrio general a corto plazo se establece que la curva de oferta de la empresa representativa está dada por su curva de costo marginal que se encuentra por encima de su punto de cierre (esto es, aquel donde el costo marginal iguala a los costos variables medios). Como todas las firmas se comportan bajo una misma lógica de optimización de beneficios y no tienen incentivos a dejar de repetir su comportamiento, éstas pueden representarse asumiéndolas como el comportamiento de una sola. La curva de oferta de mercado se obtiene sumando o agregando las funciones de oferta individuales.</p>
+			<p>Sin embargo, cuando se visualiza la operatoria en un nivel más aproximado de realidad, existen fenómenos que no pueden ser representados bajo esta lógica. Tomemos como ejemplo el modelo de <xref ref-type="bibr" rid="B8">Schelling (1971</xref>), quien examina los patrones de segregación racial que existen en varias ciudades de Estados Unidos. Una hipótesis posible es afirmar que existen preferencias segregacionistas por parte de los individuos y que estas preferencias dan lugar a la formación de guetos. Sin embargo, Schelling plantea que éstos pueden emerger de preferencias no raciales. El autor cree que es improbable que casi todos los estadounidenses deseen vivir en áreas con un amplio grado de segregación. Por tal razón, propone una hipótesis más débil: las personas no tienen preferencias segregacionistas, pero prefieren no vivir en áreas donde las personas de otro color conforman una amplia mayoría.</p>
+			<p>El modelo se plantea de la siguiente manera: supongamos un tablero de ajedrez (8x8 ó 64 casillas). Existen dos grupos homogéneos: hombres y mujeres, negros y blancos, estudiantes y profesores, o cualquier otro grupo donde la dicotomía sea reconocible. Cada grupo será representado por cruces y círculos, que distinguen las fichas del tablero, y que equivalen a nodos en la teoría de redes. Es importante que queden casillas vacías, a fin de que las fichas puedan ser movidas. Las fichas viven en un vecindario, el cual se compone de todas las casillas que están a su alrededor. Así, una ficha que está en alguna casilla del centro tiene 8 vecinos, mientras que las que están en las esquinas del tablero tienen tan solo 3.</p>
+			<p>Posteriormente se postula una condición que determina cuándo una ficha está “contenta”, esto es, no tiene incentivos a moverse a otra casilla. Por ejemplo, se podría plantear una situación en donde una ficha está contenta en la medida en la que al menos un tercio de sus vecinos sean del mismo color. El ejercicio comienza desparramando las fichas de manera aleatoria. Habrá fichas que estarán contentas con la situación inicial y fichas que desearán moverse (ver <xref ref-type="fig" rid="f1">figura 1</xref>).</p>
+			<p>
+				<fig id="f1">
+					<label>Figura 1</label>
+					<caption>
+						<title>Tablero de Schelling</title>
+					</caption>
+					<graphic xlink:href="0717-554X-cmoebio-61-00080-gf1.png"/>
+				</fig>
+			</p>
+			<p>Todas las fichas marcadas con un asterisco (*) indican insatisfacción o deseo de movilizarse hacia otra casilla. Supongamos el caso de la segunda casilla de la primera fila. Su vecindario se compone de 6 casillas (incluida ella misma). Esta ficha estará descontenta ya que solo 1/4 de sus vecinos son de la misma categoría. Todas las fichas descontentas se moverán a la casilla más cercana tal que satisfagan la condición de que al menos 1/3 de sus vecinos sean igual a ellos.</p>
+			<p>La <xref ref-type="fig" rid="f2">figura 2</xref> ilustra cómo fueron relocalizadas las fichas a fin de satisfacer sus preferencias. Nótese que algunas fichas que estaban contentas con su situación inicial se vuelven descontentas con la nueva situación. Éste es el caso de la ficha con la casilla coloreada en verde: si bien inicialmente no tenía incentivos a movilizarse (50% de sus vecinos eran igual a ella), con la nueva situación sí tiene incentivos (todos sus vecinos son de la misma categoría).</p>
+			<p>
+				<fig id="f2">
+					<label>Figura 2</label>
+					<caption>
+						<title>Movimientos en el tablero de Schelling</title>
+					</caption>
+					<graphic xlink:href="0717-554X-cmoebio-61-00080-gf2.jpg"/>
+				</fig>
+			</p>
+			<p>Por consiguiente, el ejercicio de movilizarse se pondrá otra vez en marcha y se hará tantas veces hasta que ninguna ficha tenga incentivos a cambiarse. Nótese que la dinámica de movilización ha dado lugar a la formación de guetos. Esta formación es in-intencionada: los agentes no se han convocado a agruparse. Éste es el aporte central en el modelo de Schelling: mostrar cómo a partir de acciones individuales no coordinadas, emergen patrones o consecuencias no intencionadas al nivel macro-social.</p>
+			<p>El mecanismo de Schelling no es macro-micro-macro, ya que no hay un agente representativo cuya conducta pueda sumarse sea cual sea el número de vecinos. Todo depende de las interacciones que se den al nivel <italic>meso</italic>. Si una ficha no está contenta con su situación actual, puede moverse a otro casillero. Pero este movimiento puede afectar (y generalmente lo hace) al comportamiento de otra ficha que inicialmente estaba conforme. Cuanto más dispersas estén las fichas de un mismo tipo, mayores interacciones deberán hacerse. Asimismo, en la medida en que las preferencias segregacionistas sean cada vez más altas, mayor número de interacciones deberán hacerse para llegar a un estado de equilibrio. El resultado claramente depende de las condiciones iniciales. El problema radica en que no hay manera de inferir un resultado en tanto estas condiciones disparen el comportamiento de un agente representativo. Si la causalidad fuera “lineal”, uno podría construir un sistema simple donde un conjunto de condiciones iniciales determinarían el comportamiento del agente representativo, comportamiento que posteriormente se agregaría, llegando así a un comportamiento macro. Pero la causalidad en el modelo de Schelling no es lineal, sino que el comportamiento de una ficha X afecta al comportamiento de otras, las cuales a su vez inciden en el comportamiento de la ficha X. Es crucial entender de qué modo se dan las interacciones entre los elementos constituyentes del sistema bajo estudio. Sin interacciones no hay resultado al cual uno pueda inferir. La propiedad emergente (la <italic>segregación</italic> en el modelo de Schelling) no puede explicarse a partir de las propiedades de los elementos aislados, sino a partir de sus interacciones.</p>
+			<p>Y así como el mecanismo de Schelling no involucra aspectos <italic>micro</italic>, tampoco decimos que es un mecanismo <italic>macro</italic>. Para que sea un mecanismo macro, el comportamiento de una variable agregada debería repercutir causalmente en el comportamiento de otra. En el modelo de Schelling esto no es así. No hay manera de modelar un comportamiento entre agregados. La única forma de hacer tal modelación es teniendo en consideración las interacciones de los individuos. Y esto no es macro, es <italic>meso</italic>.</p>
+			<p>Además, en su formulación más sencilla, podemos observar que el resultado de segregación es un equilibrio estable: “We knew in advance that, if there were an equilibrium, everyone would get to live in a neighbourhood at least five-ninths his own colour. We knew, or could easily have discovered, that equilibria existed” (<xref ref-type="bibr" rid="B8">Schelling 1971</xref>:151).</p>
+			<p>Sin embargo, si cambiamos la definición de vecindario de <italic>cantidad de vecinos cercanos</italic> a <italic>lugar físico fijo</italic> (una cierta cantidad de nodos), los equilibrios se pueden volver inestables: “The occurrence of an intersection of the two curves could constitute a stable equilibrium but does not usually guarantee that that equilibrium will result” (<xref ref-type="bibr" rid="B8">Schelling 1971</xref>:180). Pequeñas diferencias en las reglas de juego pueden hacer variar el resultado (sea en el sentido de proceso continuo o en el de equilibrio), de manera relevante tanto de forma cualitativa como cuantitativa.</p>
+			<p>En sistemas complejos, las interacciones se producen directamente entre los agentes uno a uno, de acuerdo con las reglas impuestas. Tanto para la captura y uso de información, como para la interacción de los agentes, aparece la dinámica de procesos emergentes, en principio no reducibles a los procesos en los que están involucrados los agentes. Esto lleva a la imposibilidad de extrapolar comportamientos individuales, y a la vez revela la importancia del nivel <italic>meso</italic> donde estas interacciones se desenvuelven. Dicho de otra manera, la dinámica y el resultado (que puede ser de equilibrio o no, equilibrio estable o inestable) depende de la estructura <italic>meso</italic>. Por ejemplo, la cantidad de conexiones que un agente tenga con otros influye (modifica) su conducta. En el caso del modelo de Schelling, esto se refleja a través de los movimientos sucesivos de los agentes/fichas hacia otras casillas hasta alcanzar su estado de equilibrio. En el estudio de sistemas complejos, la estabilidad debe analizarse de acuerdo con la estructura particular (topología de la red) y a las especificaciones de comportamiento, parámetros y distribuciones de agentes. Que no haya equilibrio en una de las configuraciones no implica que no la haya en otro. Es decir, existen distintas dinámicas para distintas configuraciones. Y estas dinámicas importan más que el resultado: “the equilibrium approach does not describe the mechanism whereby the state of the economy changes over time -nor indeed how an equilibrium comes into being. And the dynamical system approach generally fails to accommodate the distinction between agent and aggregate-levels (except by obscuring it through the device of «representative agents»). Neither accounts for the emergence of new kinds of relevant state variables, much less new entities, new patterns, new structures” (<xref ref-type="bibr" rid="B1">Arthur 2014</xref>:116).</p>
+		</sec>
+		<sec>
+			<title>Características del nivel meso</title>
+			<p>Ahora bien, ¿qué factores caracterizan al nivel <italic>meso</italic>? En primer lugar, el nivel <italic>meso</italic> está constituido por una <bold>
+ <italic>red</italic>
+</bold> o conjunto de nodos interconectados. La red está formada por individuos o grupos de individuos que interactúan entre sí. Sin embargo, la <italic>topología</italic> de la red o la forma que ésta toma no está determinada por la acción de los individuos <italic>únicamente</italic>, como tampoco viene dada <italic>a priori</italic>, sino que emerge de las interacciones de los agentes participantes. Así, los agentes toman decisiones en función de la topología preexistente, pero al mismo tiempo las acciones de estos modifican la topología. La topología de la red indica la forma, cantidad y ubicación relativa de los nodos, la cantidad y tipo de conexiones, etc. Esta información puede ser relevante, pues la red es el sustrato por donde fluyen las dinámicas en organizaciones desarrolladas. </p>
+			<p>Otra de las características que forma la estructura del nivel <italic>meso</italic> es la existencia de <bold>
+ <italic>agentes diferenciados</italic>
+</bold> . La diferenciación de los sujetos puede ocurrir por un grupo muy diverso de causas, por ejemplo, por sus posiciones dentro de la red, por las reglas a las que están sometidos, por el número de conexiones que tienen, por su posibilidad de evolución en el sistema, etc. Al no hacer uso de agentes diferenciados, los modelos usuales de agente representativo tienen dificultades en captar el nivel <italic>meso</italic>, puesto que la mera suma determina el comportamiento macro. Con un agente representativo, las interacciones entre los agentes no producen efectos sistémicos <italic>diferenciados</italic>; alcanza con conocer lo que hace un agente (nodo) para comprender y proyectar la totalidad. </p>
+			<p>El agente diferenciado se puede apreciar en modelos como el de segregación racial de Schelling. A pesar de que en dicho modelo los agentes-fichas responden a una misma regla de comportamiento, no hay posibilidad de hablar de un agente representativo, ya que los agentes fichas están caracterizados no solo por sus preferencias, sino también por el lugar que ocupan y por tanto por sus relaciones con los otros agentes. Así, el tablero se debe componer de varios agentes que empezarán a moverse en la medida en que sus preferencias no sean cumplidas. Es necesaria la existencia de una multiplicidad de agentes para que la dinámica del modelo tenga lugar y su número repercutirá en el modo en que se formen los guetos.</p>
+			<p>Las <bold>
+ <italic>interacciones</italic> 
+</bold> (elemento mencionado en numerosas situaciones a lo largo del presente trabajo) son otro de los componentes fundamentales del nivel <italic>meso</italic>. En sistemas complejos las interacciones se producen directamente entre los agentes uno a uno, de acuerdo con las reglas impuestas. Tanto para la captura y uso de información, como para la interacción de los agentes, aparece la dinámica de procesos emergentes, en principio no reducibles a los procesos en los que están involucrados los agentes. Esto lleva a la imposibilidad de extrapolar comportamientos individuales y a la vez revela la importancia del nivel <italic>meso</italic> donde estas interacciones se desenvuelven.</p>
+			<p>En un esquema de agente representativo no hay ningún tipo de interacción; solo prevalece el análisis del agente individual, el cual es multiplicado por una determinada cantidad a los efectos de conocer el resultado agregado. En cambio, en modelos como el de Schelling, las interacciones determinan la manera en cómo se formarán los guetos. En general, el modo en cómo los agentes interactúen está estrechamente vinculado con la forma en que está constituida la red y con el número de agentes participantes. Una condición para la interacción es la existencia de múltiples agentes: para que exista interacción es fundamental que existan, al menos, dos agentes. Cuanto mayor sea el número de agentes, mayores son las <italic>chances</italic> de que se amplíe el número de interacciones. Esto depende de cómo se constituya la red. Pueden darse topologías donde no todos los agentes estén vinculados entre sí. Pero lo que sí es cierto es que cuanto más complejas sean estas topologías, más difíciles serán las <italic>chances</italic> de encontrar este tipo de regularidades lineales. </p>
+		</sec>
+		<sec>
+			<title>La imposibilidad de máquinas nomológicas en el paradigma de la complejidad</title>
+			<p>Nancy Cartwright en <italic>The dappled world: a study of the boundaries of science</italic>, asume un mundo moteado, dotado de capacidades estables y de máquinas generadoras de conjunciones constantes de eventos que tienen lugar en tanto se cumplan con determinadas cláusulas <italic>ceteris paribus</italic>. Este enfoque supone una causalidad del tipo lineal, una metodología del tipo macro-micro-macro y un aislamiento respecto del entorno en el cual dicha máquina opera. Si bien la noción de mundo moteado supone la existencia de un mundo complejo, las aseveraciones sobre capacidades estables, máquinas nomológicas y conjunciones constantes de eventos son cuestionables bajo el paradigma de la complejidad. En particular, dado que gran parte de los fenómenos económicos responden a una causalidad no lineal, es necesario tener en consideración interacciones que no se dan en un nivel micro o macro, sino <italic>meso</italic>, y que no es necesario ni conveniente hacer un aislamiento con el entorno, sino que es posible contemplarlo utilizando modelos de simulación.</p>
+			<p>Por un lado, el enfoque de máquinas nomológicas (MN) -y sus consecuentes leyes causales- no es congruente con la noción de sistema complejo en general y con la de causalidad no-lineal en particular. El enfoque de MN presupone un funcionamiento independiente del contexto; en otras palabras, un estudio del objeto sin tener en cuenta su entorno. Pero muchos fenómenos (sean sociales o naturales) no responden a esta lógica. Retomemos el ejemplo de los leones que se comen a los humanos, para mostrar su inadecuación con el enfoque de máquinas nomológicas o, en otros términos, que dicho enfoque no puede dar cuenta de la complejidad.</p>
+			<p>El objeto de estudio es la supervivencia de la especie humana. En dicho estudio se observa una “ley causal” en la cual la tasa de crecimiento de leones afecta negativamente a la tasa de crecimiento de humanos. Esta es una ley que funciona <italic>ceteris paribus</italic> o bajo condiciones muy precisas: que exista una población de leones, que los leones habiten en el mismo medio ambiente que los humanos, que los humanos sean presa de los leones, etc. Dada esa ley causal, una medida evidente consistiría en reducir la tasa de crecimiento de leones para así mejorar el número de humanos (mejor dicho, evitar la muerte de humanos ante leones). Pero esa ley omite el entorno, como las cabras y los cultivos, así como también las relaciones que éste tiene con el objeto de estudio. El problema estriba en que, en realidad, el entorno afecta al objeto (ya que los cultivos diezmados por las cabras repercuten negativamente en la población de humanos), al tiempo que el objeto afecta al entorno (ya que la matanza de leones para la supervivencia humana incrementa el número de cabras).</p>
+			<p>Otra cuestión concierne a si las MN son generadoras de procesos <italic>meso</italic>. En la concepción de máquinas nomológicas prevalece la idea de estructura estable que permite que los procesos internos funcionen regularmente. Esto es lo que permite que la ley causal tenga lugar. Esta idea va en contra de la idea de lo <italic>meso</italic>. Los procesos <italic>meso</italic> dependen de cómo se vaya configurando la red, de qué acciones tomen los nodos, de cómo estas acciones sean interpretadas por otros nodos, etc. En lo <italic>meso</italic> no hay una uniformidad procesual: todo depende de la configuración de la red, de las interacciones que se den en la misma, etc. La máquina nomológica es un anteproyecto donde las cláusulas <italic>ceteris paribus</italic> son especificadas a fin de poder dar cuenta de conjunciones constantes de eventos. Al garantizar la estabilidad de su estructura subyacente, es posible obtener leyes. Y estas leyes corresponden a lo macro, no a lo <italic>meso</italic>. Las máquinas nomológicas son un enfoque macro-micro-macro, en tanto no se queda solo con las conjunciones al nivel de los eventos, sino que busca la estructura que la subyace. En la terminología de Hedström y Swedberg, esto involucra un descenso hacia lo micro.</p>
+			<p>Una versión débil podría estar asociada al hecho de que las máquinas nomológicas son productoras de leyes “abstractas”. Por ejemplo, en el modelo de Schelling no podemos predecir de qué manera van a quedar constituidos los guetos. Empero, lo que sí sabemos es que casi siempre (salvo casos muy aislados, por ejemplo, cuando las preferencias segregacionistas sean excesivamente altas, o cuando haya un porcentaje muy alto de espacios vacíos) se van a formar guetos. Y esto puede verse como una ley abstracta o una ley que está en un nivel inferior al de los eventos. Sin embargo, esto no es así por varias razones. En primer lugar, las máquinas nomológicas son leyes que figuran al nivel de los eventos. La “ley abstracta” como la de la formación de guetos nunca puede figurar al nivel de los eventos: cualquier cambio mínimo en las preferencias, en el modo de interaccionar o en el número de casilleros vacíos dará un resultado diferente. Es cierto que se puede predecir la formación de guetos, pero como se ha dicho anteriormente, esta predicción no es al nivel de los eventos. En segundo lugar, las leyes que emergen del ejercicio de máquinas nomológicas son <italic>ceteris paribus</italic>, esto es, se mantienen bajo condiciones muy precisas. La ley abstracta como la de segregación racial en Schelling es invariante ante cualquier cambio en las condiciones, de forma tal que no es una ley que se mantenga <italic>ceteris paribus</italic>. A diferencia de las máquinas nomológicas, en el modelo de Schelling no existen problemas de validez externa.</p>
+			<p>Con respecto al concepto de “capacidades” cabe considerar la propuesta de Nancy Cartwright que vincula las posibilidad de establecer regularidades a la capacidad de los elementos actuantes: “At the top we have general causal claims, which I render as statements associating capacities with properties -«aspirins have the capacity to relieve headaches»; «inversions have the capacity to amplify.» In between stands the phenomenal content of the capacity claim -a vast matrix of detailed complicated causal laws. Once the concept of singular causing has been let in, this middle level is unproblematic. These are just laws, universal or probabilistic, about what causing occur in what circumstances what percentage of the time” (<xref ref-type="bibr" rid="B2">Cartwright 1989</xref>:355).</p>
+			<p>Las posibilidades de encontrar este tipo de regularidades lineales son muy limitadas. En el ejemplo del modelo de Schelling la existencia de guetos no está asociada a su presencia inicial (no existen guetos con capacidad de atraer habitantes en forma previa a su aparición), ni está asociada a una propiedad de los habitantes que los haga proclives a reunirse en guetos. Los guetos en cambio surgen de un entramado de relaciones recíprocas entre la forma de la red y las acciones de los agentes (los habitantes desean tener vecinos más afines a sus características) y vinculados al resultado de sus movilizaciones. El nivel <italic>meso</italic> es el problema, contrariamente a lo establecido por la autora. La existencia del gueto es el fenómeno por explicar. En el caso de la aspirina, es claro que una vez desarrollada y probada, puede afirmarse que tiene determinadas propiedades. Pero esa afirmación no explica cómo se obtuvo la aspirina, ni las pruebas que se hicieron hasta poder hacer la afirmación de que alivia los dolores de cabeza. </p>
+			<p>No es que una situación de equilibrio no sea importante. Por ejemplo, puede darse el caso de que exista un sistema ecológico donde no haya ninguna especie en peligro de extinción o un sistema bancario donde no haya ningún banco en situación de stress financiero. Pero lo interesante es preguntarse no solo por las capacidades individuales de los integrantes del sistema, sino qué sucede con ellos en una red de interacciones. </p>
+			<p>A propósito del ejemplo del sistema ecológico, la pregunta sería no acerca de si un individuo humano corre el riesgo de ser atacado por un león, sino sobre la capacidad de sobrevivencia del grupo humano. La multiplicidad de factores en juego también exige aproximar distintas combinaciones de reducción de animales respecto a su interacción con las cabras y de éstas con respecto a los cultivos. Por otro lado, en el planteo lineal se observa una “ley causal” en la cual la tasa de crecimiento de leones afecta negativamente a la tasa de crecimiento de humanos. Sin embargo, debemos destacar que, en realidad, el resultado no será único, ya que la población humana está en juego tanto por la reducción de leones como por la reducción de sembrados y cabras. Los resultados interesantes no se dan en la repetición de una máquina que extermina leones, sino en situaciones en las que los nodos tienen que responder a distintas topologías producidas por sus interacciones. </p>
+		</sec>
+		<sec>
+			<title>Simulación</title>
+			<p>Un problema para comprender un mundo complejo en términos de máquinas nomológicas radica en que éstas no pueden dar cuenta de los cambios que se dan en el mismo. Una máquina funciona en tanto exista una estructura estable que actúe como soporte. Sin embargo, esta estructura es plausible de cambiar a lo largo del tiempo (sea a corto, mediano o largo plazo) y por multiplicidad de razones (tanto exógenas como endógenas). Cuando esto suceda, la regularidad subyacente dejará de existir y dará lugar a otra nueva.</p>
+			<p>Hacer uso de leyes causales producto de máquinas nomológicas involucra muchas veces una falacia epistémica bajo la cual el sujeto cognoscente supone que el futuro será semejante al presente. En esto consiste el “problema del cisne negro” (<xref ref-type="bibr" rid="B9">Taleb 2007</xref>). Un cisne negro es una <italic>rareza</italic>, un evento que habita fuera de la lógica convencional. Si bien se trata de un suceso altamente improbable, esta baja probabilidad de ocurrencia emerge de una cualidad subjetiva. En otras palabras, no es que un evento sea en sí mismo una rareza, sino que es rareza en tanto se trata de un fenómeno que no es compatible con la lógica del modelo que el sujeto cognoscente utiliza.</p>
+			<p>La exposición a cisnes negros surge entonces de desestimar los resultados alternativos o de considerarlos “rarezas”. Un claro ejemplo de esto es la metáfora del “pavo inductivista de Russell”. Supongamos que existe una granja donde un individuo alimenta a un pavo todos los días a una determinada hora de la mañana. Ya que el pavo es inductivista, éste infiere que el granjero siempre vendrá a dicha hora a darle de comer. Conforme pasan los días, su “ley” se hace más robusta o invariante, ya que cada dato adicional refuerza la regularidad observada. No obstante, en la víspera del día de navidad, el granjero no lo alimenta, sino que le termina cortando la cabeza. El pavo pudo representar su situación a través de una máquina nomológica muy simple y con un muy alto grado de corroboración empírica. Sin embargo, en su modelo desestimó aquello que <italic>podría suceder</italic>, por más que hasta la fecha no hubiera sucedido nunca. </p>
+			<p>Cuando se modelizan los hechos a partir de sistemas cerrados y simples en general, y de máquinas nomológicas en particular, por lo general el modelador se termina apegando a un único resultado, dejando de lado otras posibilidades. Sin embargo, el hecho de que una situación pasada y/o presente pueda representarse a través de una ley causal, no nos dice nada respecto de que esa ley seguirá funcionando en el futuro. </p>
+			<p>En una máquina nomológica la estructura ya está dada de antemano. Esto complejiza las <italic>chances</italic> de responder al rango de preguntas <italic>¿qué pasaría si las cosas fueran diferentes?</italic>, esto es, de poder dar cuenta respecto de lo que pasaría si la estructura del sistema objetivo fuese de diferentes maneras. Una postura más coherente consiste no en asumir una estructura de antemano (ya que la estructura del sistema objetivo puede no coincidir con la estructura modelada), sino en ir ensayando diferentes variantes. A este acto de inventar/ensayar diferentes estructuras posibles lo llamaremos “simulación”.</p>
+			<p>De acuerdo con Reiss, los modelos de simulación permiten explorar propiedades de los sistemas socioeconómicos vía modelos computacionales: “Simulations in economics explore the properties of computer-implemented models; they are aimed at drawing inferences about properties of a socioeconomic system or socioeconomic systems of interest” (<xref ref-type="bibr" rid="B7">Reiss 2011</xref>:245). Al mismo tiempo permiten una mayor cantidad de fenómenos empíricos a ser modelados, sin estar limitados a la experimentación real: “On one hand, simulations allow a larger class of empirical phenomena to be modelled because they require less stringent idealizations. On the other hand, simulations are not subject to many of the practical limitations of real experiments” (<xref ref-type="bibr" rid="B7">Reiss 2011</xref>:247).</p>
+			<p>Por lo tanto, podemos entender a una simulación como la investigación de hipótesis de trabajo utilizando modelos en computadoras digitales que permiten reproducir experimentos para describir el comportamiento y la estructura de sistemas complejos del mundo real. </p>
+			<p>Similarmente, Shannon afirma que la simulación es el proceso de diseñar un modelo de un sistema real y de llevar a término experiencias con él, con la finalidad de comprender el comportamiento del sistema o evaluar nuevas estrategias (dentro de los límites impuestos por un cierto criterio o un conjunto de ellos) para el funcionamiento del sistema.</p>
+			<p>Simular implica un salto importante respecto a los debates que se sostienen hoy en las diferentes escuelas de pensamiento económico. Cuando se construyen modelos económicos es difícil encontrar que las afirmaciones axiomáticas iniciales no se tomen como buenas representaciones de la realidad. Dado que las afirmaciones derivadas están estructuradas en forma lógica deduciéndose de las premisas, se suele terminar creyendo que el modelo es robusto y por lo tanto asimilable a la realidad. Un modelo de simulación también está estructurado en forma lógica. Sin embargo, pone en suspenso las premisas originales y las modifica de acuerdo con los resultados que intenta investigar. En lugar de un modelo lineal que funciona de arriba hacia abajo (por ejemplo desde una concepción antropológica de un agente ya definido en sus aspectos decisorios-individualista), o un modelo lineal que funciona de abajo hacia arriba predefiniendo una adscripción a una ley o teoría predefinida, lo que se logra con una simulación es un modelo complejo que funciona en el nivel <italic>meso</italic> o intermedio, en base a agentes que son parte de un entramado, que deciden según las condiciones que enfrenta y que no tienen información completa sobre el futuro, ni están seguros de hacia dónde evoluciona el sistema del cual son parte. </p>
+			<p>Aquí se puede apreciar un cambio a nivel epistémico, ya que no se habla de la adquisición de un conocimiento “invariante”, sino que lo que se conoce respecto del futuro son escenarios posibles o alternativos. A través de las simulaciones no se podrá conocer de antemano cuál de las alternativas posibles prevalecerá y cuáles no. Sin embargo, esto no es necesariamente malo. Al tener conocimiento sobre un abanico de posibilidades, la exposición a cisnes negros disminuye, ya que los eventos impensados dejan de ser rarezas y pasan a ser eventos plausibles. En la terminología de Taleb, los cisnes negros se convierten en “cisnes grises”. Y si bien es cierto que la capacidad predictiva no mejora, lo que sí mejora es el grado de exposición al riesgo. Aferrarse a una ley causal nos da una enorme capacidad predictiva durante un tiempo, pero también es enorme la exposición al riesgo, en tanto confiamos en una regularidad que en algún momento se quebrará. Al simular se reduce nuestra confianza respecto de la prevalencia de una regularidad, pero nuestra exposición al riesgo también se ve reducida. </p>
+			<p>Una propiedad importante de las simulaciones es que éstas permiten ver cómo las supuestas leyes causales emergen y desaparecen endógenamente. En el enfoque de máquinas nomológicas, las regularidades nacen de una estructura dada y desaparecen si esa estructura es violada; no hay posibilidad de que las transiciones sean endógenas. Al trabajar con sistemas complejos, las simulaciones permiten explicar cambios en los patrones por causas endógenas. Por ejemplo, las máquinas nomológicas solo pueden dar cuenta de los embotellamientos de tránsito (en tanto regularidad que prevalece en un determinado momento), pero no pueden explicar ni cómo emergen ni cómo desaparecen. Las simulaciones, en cambio, sí pueden explicarlo, y dicha explicación concierne a las interacciones que se dan en el nivel <italic>meso</italic>. Supongamos así que en una avenida el tráfico fluye normalmente. Supongamos no obstante que en este flujo normal un automovilista decide aminorar su marcha. El automovilista que está detrás de éste o hará lo mismo o se cambiará de carril. Cualquiera de las dos opciones generará que el automovilista que esté detrás también deba optar por alguna de estas opciones. La reducción en la velocidad se comenzará a propagar y esto dará lugar al embotellamiento. En el enfoque de máquinas nomológicas, esta situación debería ser representada por dos máquinas diferentes: una concerniente a la ley causal “tráfico normal” y otra concerniente a la ley “embotellamiento”. No hay manera de que una máquina nomológica pueda explicar la transición de una ley a otra. Sin embargo, esto sí se puede explicar por interacciones al nivel <italic>meso</italic>. Y estas interacciones también explicarán cómo esos embotellamientos desaparecen. Como se puede apreciar, las denominadas “leyes causales” no son otra cosa que manifestaciones de la interacción del objeto con su entorno: la conducta de los automovilistas influye en el caos vehicular, al tiempo que el caos vehicular influye en la conducta de los mismos. Son estas interacciones las que dan lugar a patrones de conducta que se manifiestan durante un lapso, para luego dar lugar a otros. Las simulaciones (a diferencia de las máquinas nomológicas) permiten dar cuenta de estas transiciones.</p>
+			<p>Otra cuestión interesante acerca de las simulaciones en sistemas complejos lo ocupa la noción de estabilidad. Así como para ciertas situaciones es mejor utilizar modelos determinísticos y para otros estocásticos, la existencia de diferentes modelos no implica que siempre deban usarse una sola manera. Los modelos tradicionales pueden ser una buena guía en muchas situaciones donde, para decirlo de manera simple, el nivel <italic>meso</italic> no sea fundamental. Por otra parte, ambas formas de modelización comparten ciertas características. Esto podemos pensarlo en términos de estructura y de interpretación. Más precisamente, a los dos tipos de modelos recién mencionados les interesa<italic>lo que el agente sabe</italic>en términos de elemento estructural. Sin embargo, la forma en que esto se modeliza y luego interpreta es distinta. La forma tradicional se pregunta qué sabe el agente y cómo usa esa información. En sistemas complejos, por el contrario, interesa saber cómo el agente realiza el proceso de aprendizaje. En ambos tipos de modelización el agente interactúa con otros. En los modelos tradicionales las interacciones se producen vía un mercado impersonal (usualmente vía el subastador walrasiano). En los sistemas complejos, en cambio, las interacciones se producen directamente entre los agentes uno a uno, de acuerdo con las reglas impuestas. En estos casos, tanto si se habla de captura y uso de información, como para la interacción de los agentes, aparece la dinámica de procesos emergentes, en principio no reducibles a los procesos en los que están involucrados los agentes. Esto lleva a la imposibilidad de extrapolar comportamientos individuales y a la vez revela la importancia del nivel <italic>meso</italic> donde estas interacciones se desenvuelven. </p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Comentarios finales</title>
+			<p>En el presente trabajo se ha intentado mostrar que dos características fundamentales (e interconectadas) de los sistemas complejos son la causalidad no-lineal y el nivel <italic>meso</italic>. Estos sistemas<italic>necesitan</italic>de elementos adicionales que ayuden a entender las relaciones entre la topología del sistema, los agentes (nodos) y sus interacciones de un modo integrado, para poder seguir el desenvolvimiento de la dinámica. Los elementos mencionados permiten elaborar un esquema del flujo tal que permita observar, casi siempre en términos probabilísticos, las interacciones entre las redes y los agentes de manera de ir visualizado diferentes senderos de expansión del sistema. El foco no está puesto en el resultado contingente alcanzado (si es que se llega a alguno) sino, más bien, en analizar cuantitativa y cualitativamente las trayectorias, las interacciones y las variaciones de los parámetros de interés del sistema, no en forma aislada, sino en forma conjunta.</p>
+			<p>Los elementos recién mencionados son en buena medida no tenidos en cuenta por la moderna filosofía de la ciencia, que se focaliza principalmente en comprender la realidad fenoménica a través de una lógica mecanicista y donde los modelos (y no las simulaciones) constituyen el elemento fundamental de estudio. En este marco, en el presente trabajo se ha examinado el enfoque epistemológico de “máquinas nomológicas” desarrollado por Nancy Cartwright y se ha argumentado que dicho enfoque es estéril a la hora de explicar los fenómenos económicos, que son esencialmente complejos.</p>
+			<p>Ahora bien, la autora reconoce que las ciencias sociales en general (y la economía en particular) tienen dificultades a la hora de establecer regularidades que permitan hacer teoría con capacidad predictiva. Existen fuentes de incertidumbre que reinan en dichas ciencias, las cuales agrupa en los conceptos de complejidad, reflexividad y falta de control del investigador sobre los fenómenos que estudia. La esperanza queda puesta del lado de las posibilidades de estabilizar y normalizar comportamientos e instituciones y encontrar estructuras subyacentes: “social science is hard, but not impossible. This hope would probably stem from the stability or regularity produced by institutions, habits or routines” (<xref ref-type="bibr" rid="B3">Cartwright 1999</xref>:138). Además, “it seems then that the correct way of doing social science should start by studying the underlying structure of social capacities and events” (<xref ref-type="bibr" rid="B4">Cartwright 2007</xref>:79).</p>
+			<p>Contrario a ello, afirmamos aquí que los límites del conocimiento sobre fenómenos complejos y del cálculo computacional se han ampliado en forma sustancial, con lo cual los problemas del mundo moteado (complejo) no tienen el mismo requisito de recorte y estabilización que requiere el enfoque de máquinas nomológicas. Como afirma <xref ref-type="bibr" rid="B6">Humphreys (2009</xref>), la posibilidad de usar el enfoque de la complejidad en modelos de simulación permite avances respecto a las idealizaciones de los agentes económicos y sus interacciones, que históricamente demandaban duras exigencias de racionalidad y de comportamientos mecánicos, y que hoy pueden ser modelizados en un menor nivel de idealización, incluyendo las posibilidades de experimentación en entornos diversos.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Arthur, W. 2014. <italic>Complexity and the economy</italic>. New York: Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arthur</surname>
+							<given-names>W.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>Complexity and the economy</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Cartwright, N. 1989. Capacities and abstractions, pp. 349-355. En: P. Kitcher y W. Salmon. <italic>Minnesota studies in the philosophy of science</italic>. Minneapolis: University of Minnesota Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cartwright</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>1989</year>
+					<chapter-title>Capacities and abstractions</chapter-title>
+					<fpage>349</fpage>
+					<lpage>355</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kitcher</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salmon</surname>
+							<given-names>W.</given-names>
+						</name>
+					</person-group>
+					<source>Minnesota studies in the philosophy of science</source>
+					<publisher-loc>Minneapolis</publisher-loc>
+					<publisher-name>University of Minnesota Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Cartwright, N. 1999. <italic>The dappled world: a study of the boundaries of science</italic>. Cambridge: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cartwright</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>The dappled world: a study of the boundaries of science</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Cartwright, N. 2007. <italic>Hunting causes and using them. Approaches in philosophy and economics</italic>. Cambridge: Cambridge University Press .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cartwright</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Hunting causes and using them. Approaches in philosophy and economics</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Hedström, P. y Swedberg, R. 1998. <italic>Social mechanisms: an analytical approach to social theory</italic>. Cambridge: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hedström</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Swedberg</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>Social mechanisms: an analytical approach to social theory</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Humpreys, P. 2009. The philosophical novelty of computer simulation methods. <italic>Synthese</italic> 169(3): 615-626. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11229-008-9435-2">https://doi.org/10.1007/s11229-008-9435-2</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Humpreys</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>The philosophical novelty of computer simulation methods</article-title>
+					<source>Synthese</source>
+					<volume>169</volume>
+					<issue>3</issue>
+					<fpage>615</fpage>
+					<lpage>626</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11229-008-9435-2">https://doi.org/10.1007/s11229-008-9435-2</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Reiss, J. 2011. A plea for (good) simulations: nudging economics toward an experimental science. <italic>Simulation and Gaming</italic> 42(2): 243-264. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1046878110393941">https://doi.org/10.1177/1046878110393941</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Reiss</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>A plea for (good) simulations: nudging economics toward an experimental science</article-title>
+					<source>Simulation and Gaming</source>
+					<volume>42</volume>
+					<issue>2</issue>
+					<fpage>243</fpage>
+					<lpage>264</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1046878110393941">https://doi.org/10.1177/1046878110393941</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Schelling, T. 1971. Dynamics models of segregation. <italic>Journal of Mathematical Sociology</italic> 1(2): 143-186. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/0022250X.1971.9989794">https://doi.org/10.1080/0022250X.1971.9989794</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schelling</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>1971</year>
+					<article-title>Dynamics models of segregation</article-title>
+					<source>Journal of Mathematical Sociology</source>
+					<volume>1</volume>
+					<issue>2</issue>
+					<fpage>143</fpage>
+					<lpage>186</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/0022250X.1971.9989794">https://doi.org/10.1080/0022250X.1971.9989794</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Taleb, N. 2007. <italic>El cisne negro: el impacto de lo altamente improbable</italic>. Buenos Aires: Paidos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Taleb</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>El cisne negro: el impacto de lo altamente improbable</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Paidos</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

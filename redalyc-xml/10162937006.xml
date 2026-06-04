@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00006</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000100065</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Lectura virtualmente digital: el reto colectivo de interpretación textual</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Virtually digital reading: the collective challenge of textual interpretation</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2277-3034</contrib-id>
+               <name>
+                  <surname>García-Roca</surname>
+                  <given-names>Anastasio</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <institution content-type="original">Universidad de Almería. España</institution>
+            <institution content-type="normalized">Universidad de Almería</institution>
+            <institution content-type="orgname">Universidad de Almería</institution>
+            <country country="ES">España</country>
+            <email>agr638@ual.es</email>
+         </aff>
+         <pub-date pub-type="epub-ppub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>67</issue>
+         <fpage>65</fpage>
+         <lpage>74</lpage>
+         <history>
+            <date date-type="received">
+               <day>27</day>
+               <month>12</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>02</day>
+               <month>02</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>Este artículo trata sobre la construcción de significados e interpretación conjunta de la obra literaria por medios digitales. Para ello, se hace una revisión a la realidad digital de la literatura y sus procesos de recepción: la lectura digital no viene determinada tanto por la naturaleza del texto (estructura, textualidad o soporte) como por el comportamiento del lector digital. Internet ha facilitado la creación de espacios de afinidad en los que los usuarios pueden reunirse en torno a sus aficiones, intereses u objetivos. Se generan, así, comunidades de lectores en los que debaten, analizan y elaboran fanworks que, en suma, conforman el fandom. Desde esta perspectiva, es la comunidad, como inteligencia colectiva, y no el autor, la que establece los límites de la interpretación textual: decide qué es o no canónico. Todo ello permite llegar a la conclusión de que estas prácticas letradas permiten a los usuarios realizar una lectura virtualmente digital caracterizada por la sincronización y socialización de los procesos de comprensión e interpretación textual. Lo realmente interesante es la construcción del fanon pues se genera una (archi)lectura multilineal, hipertextual, transmediática, reactiva, y, sobre todo, consensuada.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>This article deals with the construction of meanings and joint interpretation of the literary work by digital means. Thereby, a review of the digital reality of literature and its reception processes are made. Digital reading is not determined as much by the nature of the text (structure, textuality or support) as by the behavior of the digital reader. The Internet has facilitated the creation of affinity spaces where users can gather around their hobbies, interests or objectives. Thus, communities of readers are generated to debate, analyze and elaborate fanworks that, in short, make up the fandom. From this perspective, it is the community, as collective intelligence, and not the author, that sets the limits of textual interpretation: they decide what is or is not canonical. All of this allows us to conclude that these literacy practices allow users to perform a virtually digital reading characterized by the synchronization and socialization of the processes of comprehension and textual interpretation. The most interesting issue is the construction of the fanon because it generates a multilinear (archi)reading, hypertextual, transmedia, reactive, and, above all, consensus reading.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave</title>
+            <kwd>lectura digital</kwd>
+            <kwd>transmedia</kwd>
+            <kwd>espacios de afinidad</kwd>
+            <kwd>aprendizaje informal</kwd>
+            <kwd>lectura</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>digital reading</kwd>
+            <kwd>transmedia</kwd>
+            <kwd>affinity scpaces</kwd>
+            <kwd>informal learning</kwd>
+            <kwd>reading</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0"/>
+            <table-count count="0"/>
+            <equation-count count="0"/>
+            <ref-count count="27"/>
+            <page-count count="10"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>Es ya un tópico afirmar que las tecnologías digitales han revolucionado todas las esferas de nuestras vidas: quedan pocos elementos analógicos. No obstante, la literatura es, aparentemente, una de las excepciones. A pesar del progresivo aumento de la lectura en soporte digital (acompañada de posturas apocalípticas), no parece que este hecho esté sustituyendo al libro: el grueso editorial está conformado por obras en formato códice, sin innovaciones técnicas más allá de la tinta y el papel.</p>
+         <p>Existe una extensa bibliografía que analiza las diferencias existentes entre la lectura digital y en papel. A este respecto, Roger Chartier resume las conclusiones de las investigaciones sociológicas, antropológicas y cognitivas de la siguiente manera: la lectura digital es “un modo de leer fragmentado, discontinuo, acelerado, impaciente. Frente a la pantalla, el lector es un lector hipertextual […] con una reducción del tiempo de atención intensa” (Chartier y Scolari 2019:72). Se ha establecido una visión antagónica entre la lectura y tecnologías audiovisuales: una lectura legitimada institucionalmente y una (para)lectura. Tan solo es necesario observar el canon escolar propuesto/impuesto en los centros educativos o bibliotecas para confirmar que no se hallan obras de naturaleza digital. En todos estos planteamientos subyace el concepto mismo de lectura (literaria): ¿Disfrutar de una novela en formato ebook es leer?, ¿se considera leer en plataformas de escritura creativa como Wattpad (aplicación para dispositivos móviles con más de 100.000.000 de descargas solo en Play Store)?, ¿y los Fanfictions?</p>
+         <p>Nos planteamos si estos son estos ejemplos de literatura digital a pesar de que no se aprovechen plenamente las posibilidades narrativas que los dispositivos digitales ofrecen: interactividad narrativa, estructura hipertextual (o cibertextual), elementos audiovisuales, geolocalización, etc. Los límites conceptuales que separan a la lectura legitimada (librocéntrica) y la vernácula se difumina aún más si tenemos en cuenta que obras procedentes de Wattpad como la saga After (Anna Todd), bestseller editorial, se comercializa en formato libro. Esta indefinición del concepto de lectura (literaria) genera confusiones: “ante estas modalidades heterodoxas de lectura y sus combinaciones con prácticas audiovisuales y digitales, las encuestas librocéntricas dan todavía un conjunto bien intencionado de imprecisiones” (García-Canclini 2015:7).</p>
+         <p>El concepto actual de literatura digital, por tanto, está más vinculado con el contenido que por su continente. Desde el punto de vista de la hermenéutica, Raine Koskimaa (<ext-link ext-link-type="uri" xlink:href="https://www.uoc.edu/uocpapers/4/dt/esp/koskimaa.pdf">El reto del cibertexto</ext-link>) establece tres significados: publicación digital, ediciones literarias académicas con hipertexto y escribir para medios digitales. La tercera categoría se vincula con el concepto teórico de cibertexto. Simplificando al extremo la definición, podríamos decir que la literatura digital es aquella que no se puede imprimir sin alterar la experiencia de recepción, ya que incorpora elementos propios de la tecnología del soporte digital. La ergodicidad del texto se inscribe en su propia estructura y requiere del esfuerzo del lector para la construcción personal de la narración.</p>
+         <p>No obstante, en este trabajo desvincularemos literatura y lectura digitales: la lectura, como práctica, opera de otro modo: es posible leer Wikipedia (ejemplo paradigmático de hipertexto digital) de forma totalmente convencional: como si de un periódico se tratase. Sin embargo, ¿podemos realizar una lectura digital de obras en formato códice?, ¿cómo interpreta una saga literaria convencional un lector digital? Para responder a estas preguntas es clave la diferencia entre interacción y participación: el primero de ellos está limitado por las posibilidades narrativas discursivas que ofrece el soporte y está pre-estructurado por el autor, mientras que el segundo responde a un proceso de apropiación mucho más amplio que implica la transformación de la lectura en una actividad social, emocional y creativa.</p>
+         <p>Nos hallamos en un contexto de indefinición e inestabilidad teórica relacionada con las Humanidades Digitales. En este trabajo, se verá que la lectura digital no viene determinada tanto por el soporte de lectura, estructura o contenido como por el comportamiento lector. Plenamente adaptados a la cultura digital, los usuarios son capaces de realizar lecturas digitales de obras en formato códice transformando el discurso y expandiendo el proceso de recepción en su sentido más amplio.</p>
+      </sec>
+      <sec>
+         <title>Lectura como afinidad</title>
+         <p>La lectura, según concepciones cognitivas y psicolingüísticas, “es un proceso de pensamiento, de soluciones de problemas en el que están involucrados conocimientos previos, hipótesis, anticipaciones y estrategias para interpretar ideas implícitas y explícitas” (Puente 1996:21). En este proceso, son fundamentales las competencias individuales lectora y literaria. A pesar de que el acto mismo de lectura (entendida como decodificación) sigue siendo una actividad que se realiza en solitario, Internet ha modificado el proceso de recepción literaria, especialmente en la Literatura Juvenil: “the fundamental transformation necessary to understand the scope of the LIJ 2.0 is that of Social Reading, generated by the new ways of interaction offered by the Internet” (Rovira-Collado y Mateo 2019:21). Desde la misma selección de lecturas a través de plataformas de catalogación de lecturas, booktubers e influencers o redes sociales en general; hasta la ampliación narrativa a través de fanfics, o valoración final compartida en la red, son actividades realizadas en comunidad. Esta realidad responde a un enfoque sociocultural en el que se entiende que leer es una práctica social.</p>
+         <p>Internet ha favorecido la creación de espacios sociales en la que los usuarios pueden reunirse e interactuar en torno a una afinidad, afición o pasión. Los jóvenes lectores “han sabido crear un entorno que une libros y amigos, historias y charla, lectura y diversión y nos devuelve a lo que fue, en un pasado no muy lejano, la lectura: un acto público y compartido” (Lluch 2017:50). A través de la interacción entre iguales, estos escenarios virtuales permiten la generación de grandes, activas y creativas comunidades de lectores. Podríamos diferenciar dos tipos de comunidades virtuales: las comunidades creadas en torno a un espacio virtual, por ejemplo los Wattpaders (usuarios de Wattpad), Goodreaders o Twitteros; y las vinculadas a productos culturales como Potterheads (fans de Harry Potter), Marvelitas o fanfictioners. Estas últimas son comunidades líquidas, que desarrollan un importante sentimiento de afiliación y se adaptan al espacio de afinidad en el que se reúnen. Por ejemplo, son muy diferentes los fanfics relacionados con Marvel publicados en Wattpad y en Archivo of Our Own. Por tanto, resulta metodológicamente inoperativo estudiar al segundo tipo de comunidades por su carácter líquido.</p>
+         <p>Desde esta perspectiva, los estudios empíricos relacionados con el estudio de los fans siguen, o deberían, los planteamientos de J. P. Gee y E. Hayes, quienes señalan que el objeto de estudio debería estar centrado en espacios de afinidad ya que “using the term group overstresses the people at the expense of the structure of the space and the way the space and people interact” (2012:131). En el ámbito de la lectura y, especialmente, en las ficciones serializadas en general (sagas literarias, series televisivas y cinematográficas, etc.), estos escenarios virtuales han permitido que sus seguidores experimenten una lectura social: “La lectura que hacen los fans, sin embargo, es un proceso social a través del cual las interpretaciones individuales toman forma y se refuerzan a través de los debates con otros lectores” (Jenkins 2010:62).</p>
+      </sec>
+      <sec>
+         <title>Lectura (re)creativa</title>
+         <p>No obstante, en la cultura participativa que describe H. Jenkins, los usuarios no solo socializan el proceso de recepción, sino que también lo convierten en una actividad (re)creativa. Desde esta perspectiva, destacan las narrativas transmediáticas, es decir, narrativas que se dispersan y expanden hacia diferentes medios de comunicación y cada uno de ellos aporta nuevos contenidos narrativos. “La narración transmediática es el arte de crear mundos” (Jenkins 2008:31). En esa dispersión hallamos los contenidos canónicos, es decir, aquellos que siguen una lógica top-down, con derechos de autor y, por otro lado, el fandom, es decir, todo el reino de los fans.</p>
+         <p>El fandom incluye innumerables prácticas de diferente naturaleza: sin mencionar la participación silente, podemos destacar la construcción colectiva de wikis que sirven para recopilar y estructurar todo lo que rodea al canon, la creación de foros en los que debatir y jugar, etc. Entre los ejemplos más paradigmáticos de las producciones del fandom hallamos los fanfics, es decir, textos (en forma, generalmente, de narración, video o imagen) en la que los usuarios amplían, modifican o cambian el hipotexto. Las posibilidades son infinitas e incluyen, por ejemplo, la mezcla de universos diegéticos independientes que “implica concretamente una transformación de la diégesis al facilitar un diálogo entre personajes que no comparten el mismo mundo narrativo” (Guerrero-Pico y Scolari 2016:187). Todo ello, con el objeto de prolongar y dilatar el proceso de recepción más allá de las limitaciones del canon disponible. El hipotexto es tan solo el germen o semilla.</p>
+         <p>Estas prácticas letradas de producción han sido ampliamente estudiadas en las ciencias sociales, especialmente vinculadas a la alfabetización. Todas ellas evidencian las potencialidades formativas, ya sea para el aprendizaje de lenguas extranjeras, desarrollo de la (multi)alfabetización o competencias digital, lectora, escritora y literaria. No obstante, el análisis del proceso de recepción real de los fans, es decir, la construcción comunitaria del fanon, no han sido suficientemente abordado en la investigación en las ciencias sociales, a pesar de las importantes implicaciones que poseen en el ámbito de la comunicación, educación o sociología.</p>
+      </sec>
+      <sec>
+         <title>Reto colectivo de construcción del fanon</title>
+         <p>Lo que realmente nos interesa es la construcción colaborativa del fanon. Sin embargo, es importante matizar que los conceptos canon y fanon, como palabras polisémicas, aún por definir y en constante evolución, han sido utilizados con diferentes significados. Específicamente, en este trabajo se utilizará el concepto canon no solo para referirse a todo aquel material (oficial o autorizado) que conforma el universo ficcional de la historia; sino también “the events presented in the media source that provide the universe, setting, and characters” (Hellekson y Busse 2006:9).</p>
+         <p>Por otro lado, proponemos que el concepto de fanon está menos delimitado conceptualmente en el ámbito académico. Este puede ser entendido como “the events created by the fan community in a particular fandom and repeated pervasively throughout the fantext. Fanon often creates particular details or character readings even though canon does not fully support it–or at times, outright contradicts it” (Hellekson y Busse 2006:9).</p>
+         <p>Pero este término también es entendido en estos contextos como la interpretación compartida y comunitaria del canon, es decir, las “ideas and concepts that fan communities have collectively decided are part of an accepted storyline or character interpretation” (Liebler y Chaney 2007:1). Es decir, el fanon está directamente vinculado con la canonicidad de los hipertextos. Los debates acerca de los límites de la interpretación son algo habitual en las comunidades de fans relacionadas con narrativas que poseen diferentes productores, por ejemplo, Sherlock Holmes, Marvel o Canción de Hielo y Fuego y en plataformas relacionadas con los trabajos transformativos. Se puede dar la paradoja de que contenidos canónicos (ya sean oficiales o autorizados) no sean canónicos a juicio de la comunidad de fans: “Some editors [or fans] see the proclamations of the author (who is often described as the ultimate interpreter, with authority akin to a deity: the ‘author-God’) as a dividing line for what should be seen as canon and non-canon, whereas other editors are willing to listen and ascribe authority to properly sanctioned institutions (i.e. institutions that are in some way affiliated with and/or approved by the author)” (Thomas 2018:281).</p>
+         <p>En el fandom se materializa el concepto teórico de inteligencia colectiva (Lévy. Inteligencia colectiva: por una antropología del ciberespacio). Miles de usuarios disfrutan de un mismo texto de forma sincronizada y se reúnen en espacios de afinidad con objeto de encontrar a fans con intereses comunes. En este sentido, realizan interpretaciones compartidas en las que, de forma dialogada, cubren huecos interpretativos presentes en el texto. Los lectores con baja competencia lectoliteraria tienen acceso a las interpretaciones de usuarios expertos en la narrativa: “Primarily, spoilers and fan theories (especially those perceived to be accurate) should be likely to be incorporated into the mental model prior to narrative exposure. When the relevant events actually occur on the screen they will have been expected -resonating with the previously built mental model, and thus facilitating processing and enjoyment” (Ellithorpe y Brookes 2018:252).</p>
+         <p>Además, téngase en cuenta que determinadas narrativas transmediáticas como las sagas de El Señor de los Anillos, Canción de Hielo y Fuego o Harry Potter son muy extensas y no todos los seguidores han navegado por todos los textos disponibles. Hallamos diferentes tipos de lectores en función de los conocimientos sobre el universo ficcional (principiantes, medios y expertos), en función de la relación con los medios (consumidores de un único texto, de un mismo medio o transmedia), diferentes modelos de participación (observativo, discursivo/argumentativo y creativo/divulgativo) y roles que desempeñan en la comunidad (difusores, intérpretes y creadores).</p>
+         <p>Estas narrativas, en cuanto a textos profundizables y mundos de historias envolventes, promueven un modo de fandom forense en que se invita a los espectadores a profundizar y explorar más allá de la superficie textual para comprender la complejidad de una historia. Se trata, por tanto, de un “mode of television engagement encouraging research, collaboration, analysis, and interpretation” (Mittell 2009, sección 2, párrafo 3). Los fans forenses pueden releer un texto repetidamente “desvelando nuevos significados con cada visualización y regresando […] una vez se han revelado nuevas verdades para obtener nuevos puntos de vista” (Jenkins, Ford y Green 2013:159). Por tanto, “la obra artística será lo que Lévy denomina un «atractor cultural», que reúne y crea un terreno común entre diversas comunidades; podríamos describirla asimismo como un activador cultural, que pone en marcha su desciframiento, especulación y elaboración” (Jenkins 2008:101). Además, permiten a los usuarios sacar aún más partido de la experiencia de recepción si intercambian impresiones y comparten recursos que si intentan ir libremente.</p>
+         <p>Estas prácticas fans juegan con los elementos epitextuales: “es epitexto todo elemento paratextual que no se encuentra materialmente anexado al texto en el mismo volumen, sino que circula en cierto modo al aire libre, en un espacio físico y social virtualmente ilimitado” (Genette 2001:295) que se integran plenamente en el proceso de recepción de las narrativas transmediáticas. Los usuarios, tal y como describe H. Jenkins, adoptan un comportamiento marcadamente migratorio y asumen un rol de depredador mediático en el que debe indagar en diferentes medios con objeto de tener acceso a la totalidad de la experiencia narrativa inmersiva. Desde esta perspectiva, en estas comunidades virtuales se intercambian rumores, filtraciones y otros elementos para textuales.</p>
+         <p>En estos esfuerzos colectivos de interpretación textual e intercambio de información son especialmente relevantes los destripes. M. Hills los define como “bits of narrative information that circulate within fan culture prior to the official mass availability of the narrative concerned” (2012:108). A este respecto, cabe plantearse: ¿los destripes arruinan la experiencia de recepción? “Spoilers represent a component of fan discourse and are discussed passionately and controversially” (Völcker 2017:147). Las investigaciones existentes no son concluyentes: el consumo de spoilers no solo está asociado con características negativas; leer spoilers no necesariamente reduce el placer de la lectura o estropea la narrativa: “Some viewers [...] wishing to experience each episode with as little foreknowledge as possible, while others are comfortable seeing any ‘official’ [...] Most fansites have dedicated spoiler boards, where spoilers are not only circulated but exhaustively discussed, evaluated for veracity, and used for both community-building and group speculation” (Gray y Mittell 2007:1).</p>
+         <p>Sin embargo, resulta indiscutible que existen usuarios que disfrutan con estos contenidos, mientras que otros prefieren mantenerse al margen de los destripes que, a su juicio, podrían arruinar los giros narrativos de las sagas. En comunidades virtuales, para respetar el deseo del resto de miembros, estos contenidos se ocultan: “to place a ‘spoiler alert’ warning prior to any spoilers, or perhaps even leave several blank lines before posting the spoiler so people don’t accidentally read the outcome of a story” (Johnson y Rosenbaum 2015:1069).</p>
+      </sec>
+      <sec>
+         <title>Headcanon y teorías fans</title>
+         <p>En cualesquiera de los casos, en estos escenarios virtuales, la lectura se convierte en un reto colectivo de interpretación. Como se ha visto anteriormente, la formulación de hipótesis e inferencias son actividades semi inconscientes que se realizan durante el proceso de lectura. En estos contextos, las lecturas personales son conocidas como headcanon. Ante la indefinición teórica y académica, se entenderá headcanon como lo desarrolla The Urban Dictionary: “to note a particular belief which has not been used in the universe of whatever program or story they follow, but seems to make sense to that particular individual, and as such is adopted as a sort of ‘personal canon’” (<ext-link ext-link-type="uri" xlink:href="https://www.urbandictionary.com/define.php?term=headcanon">Headcanon</ext-link>).</p>
+         <p>Lo realmente interesante es que estos headcanons, entendidos como construcciones interpretativas o modelos mentales personales que configuran nuestro horizonte de expectativas, pueden ser expresados, contrastados y (auto)evaluados en diferentes ágoras digitales. Se realizan, de este modo, relecturas parciales e interpretaciones consensuadas mucho más profundas del texto. Resultado de este complejo proceso de negociación interpretativa en el seno de las comunidades lectoras, se crean las teorías fans: cuando los headcanons son apropiados y aceptados por la comunidad. Entendidas como propuestas hermenéuticas compartidas, materializan esos esfuerzos comunitarios y amplían la experiencia de recepción y horizonte de expectativas del resto de usuarios (Geraghty. <ext-link ext-link-type="uri" xlink:href="https://www.ingentaconnect.com/content/intellect/jfs/2017/00000005/00000001/art00001">Can Pikachu die? Online fan conspiracy theories and the Pokémon gaming universe</ext-link>). Más que meras conjeturas, son precisas hipótesis fundamentadas con sólidos argumentos presentes en el canon disponible o elementos epitextuales como redes sociales oficiales, filtraciones, entrevistas, etc. Es decir, todas las teorías fans van acompañadas de una justificación. Además, por muy alternativa o alejada de los límites de la interpretación o de la lectura dominante, debe ser convincente y relativamente canónica.</p>
+         <p>Estas interacciones entre autor y comunidad, entre el canon y el fanon, generan importantes choques y confrontaciones. Los fans se apropian del texto y de su interpretación: deciden qué es canónico y lo que no, cuestionan decisiones argumentales y presionan a los autores. Los creadores, al ver reducidas sus competencias como creadores, han intercedido en numerosas ocasiones para confirmar o refutar algunas de esas tesis y establecer los límites de la interpretación de sus textos. J. K. Rowling, en sus redes sociales, ha confirmado, opinado y refutado algunas de las teorías interpretativas realizadas por los fans. Por su parte, George Martin, en una entrevista publicada con el título las reacciones de los fans no cambiarán mis libros, hablaba del lector-comunidad y su pericia como inteligencia colectiva: “The internet affects all this to a degree it was never affected before [...] Like Jon Snow’s parentage. There were early hints about in the books, but only one reader in 100 put it together. And before the internet that was fine -for 99 readers out of 100 when Jon Snow’s parentage gets revealed it would be, ‘Oh, that’s a great twist!’ But in the age of the internet, even if only one person in 100 figures it out then that one person posts it online and the other 99 people read it and go, ‘Oh, that makes sense’” (Hibberd. <ext-link ext-link-type="uri" xlink:href="https://ew.com/tv/2019/07/15/george-rr-martin-game-thrones-fan-reactions/">George R.R. Martin: Game of Thrones fan reactions won't change my books</ext-link>).</p>
+         <p>Exceptuando los headcanon, las teorías fans generalmente no poseen autoría reconocida. Por contrario, suelen ser propuestas que se van desarrollando y cargando de argumentos a medida que se publican nuevos contenidos a través de la inteligencia colectiva. En ocasiones, la comunidad, formada por lectores individuales, posee una alta competencia lectoliteraria que disecciona la narrativa transmedia del modo que permiten llegar a niveles de lectura inalcanzables para la mayoría de los lectores individuales. Si bien es cierto que pueden minimizar la sorpresa, o incluso elevar las expectativas generadas artificialmente (hype). No obstante, a pesar de que algunas teorías han predicho y resuelto de forma muy precisa grandes interrogantes narrativos antes de su confirmación canónica y oficial, en el fandom no son considerados destripes (o spoilers). Esto se debe, fundamentalmente, a que son simples hipótesis limitadas al canon. En los casos en los que se utiliza información privilegiada o filtrada se oculta y avisa previamente al lector.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión: lectura virtualmente digital</title>
+         <p>Suscribimos la reflexión de C. A. Scolari, que plantea que el concepto mismo de lectura “apenas alcanza para nombrar un conjunto, cada vez más rico, de prácticas lejanas a la tradicional «lectura silenciosa e individual» de libros” (2017:184). Por tanto, “los cambios en la ecología mediática nos obligan como mínimo a volver sobre algunos conceptos y abordar estas prácticas culturales desde una perspectiva más transmedia y menos librocéntrica” (2017:184). D. Cassany apunta, a este respecto, que “hay que aprender los aspectos socioculturales de cada práctica letrada: cómo, dónde y cuándo se usa cada artefacto, para conseguir qué propósitos, de qué manera, etc.” (2010:7).</p>
+         <p>Aunque una saga literaria siga un formato códice con una estructura lineal y clásica, los lectores pueden digitalizar la lectura a través de sus prácticas letradas. De este modo, se transforma el discurso y la naturaleza del texto a través de lecturas multi-lineales: alternan elementos textuales y (para/hiper)textuales, hiperficcionales, multimodales, transmediáticas, participativas y constructivas. ¿No son estas, a grandes rasgos, las características discursivas y posibilidades narrativas y de la literatura digital? Si el concepto de lectura digital remite directamente a la literatura digital, se podría decir que se trata de una lectura virtualmente digital de textos en formato códice.</p>
+         <p>Desde un punto de vista cognitivo y psicolingüístico, durante la lectura, la comunidad actúa como una verdadera inteligencia colectiva: el complejo proceso de pensamiento y construcción de significados e interpretación es comunitario, sus razonamientos, la solución de problemas, la identificación de elementos intertextuales, la elaboración de hipótesis de lectura, así como las estrategias utilizadas para interpretar ideas implícitas y explícitas.</p>
+         <p>Las investigaciones precedentes que analizan este fenómeno se han centrado en el análisis textual y la dispersión de los contenidos: crossmedia, transmedia, remedia, etc. o el carácter creativo de lectores (en tanto que individuos) y sus producciones hipertextuales: fanfics, remix, fanfilm, etc. A pesar de reconocer el carácter social de estas prácticas, son escasos los estudios que analizan el proceso de recepción textual por parte de la comunidad de lectura como inteligencia colectiva, que estudien el intercambio de propuestas hermenéuticas (headcanon) que acaban convirtiéndose en teorías fans o expliquen cómo es la construcción del fanon.</p>
+         <p>Esta práctica de lectura es eminentemente social: aunque el acto de lectura es individual (no el de relectura) los fans negocian significados de forma colaborativa y (re)creativa, diseccionan el canon para exprimir sus posibles interpretaciones (Harriss. <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/full/10.1177/0196859917712233">The producer as fan: forensic fandom and the good wife</ext-link>) y amplían su horizonte de expectativas. Para ello, a través de la pericia e inteligencia colectiva, se analizan tanto elementos textuales como paratextuales de forma globalizada. Se fomenta, así, la lectura compartida en la que los miembros consensúan todo aquello que tienen en común acerca de la historia, favoreciendo la elaboración de una archilectura, que facilitará a cada uno de los lectores ir un poco más allá de su nivel de competencia lectora.</p>
+         <p>Las teorías fans son propuestas hermenéuticas realizadas por lectores y compartidas en espacios de afinidad con objeto de ser discutidas y contrastadas. Lo realmente importante es que ya sea con el objetivo de inferir futuros contenidos, explicar determinados acontecimientos o plantear visiones alternativas, las teorías fans van acompañadas de sólidos argumentos y precisas referencias a elementos canónicos con objeto de cargarlas de verosimilitud. Además, dada la cantidad y variedad de posibilidades ofrecidas, el lector tan solo accede a interpretaciones de lectores competentes, o lo que Jason Mittell denomina fans forenses. Esto, posibilita a los lectores con baja competencia lectoliteraria comprender y acceder a otros niveles de interpretación con la ayuda de otros lectores.</p>
+         <p>Estas teorías se integran y son parte inherente del proceso de recepción de las narrativas: los lectores disfrutan del texto de forma individual y elaboran sus propias lecturas; posteriormente, ajustan y contrastan la interpretación en comunidad (fanon). Los usuarios llevan a cabo, de este modo, relecturas negociadas y consensuadas con el objeto de comprender y mantener activa la semiosis. Los lectores se resisten “a despedirse de sus textos favoritos y, para ello, realizan nuevas actividades sociales y creativas con las que seguir disfrutando de la trama o del desarrollo de sus personajes favoritos” (García-Roca 2016:49). Desde esta óptica, en ocasiones, se desbordan intencionalmente los límites de la interpretación con un fin lúdico y se plantea lo que Eco denomina “una estética del uso libre, aberrante, intencionado y malicioso de los textos” (1993:86). Se comparten, así, interpretaciones manifiestamente aberrantes. En ocasiones, son el resultado del exhaustivo análisis textual de lectores con una desarrollada competencia lectoliteraria en la que se recopila y reconstruye información de forma excepcionalmente creativa: se invita a la relectura y reinterpretación del texto.</p>
+         <p>La lectura virtualmente digital requiere de la sincronización de los usuarios: leer juntos y a la vez. Por ello, se requiere de la serialización de la narración con objeto de que todos los lectores posean el mismo canon disponible con sus respectivas incógnitas argumentales. Es en las pausas narrativas cuando se activa la participación y el carácter (re)activo de los lectores. Por tanto, es muy específica en cuanto a su localización temporal: hoy no podríamos realizar una lectura virtualmente digital de la saga Los Juegos del Hambre o Divergente ya que el canon está disponible y sus comunidades inactivas. Por tanto, esta lectura no es realizada por usuarios, sino por comunidades lectoras.</p>
+         <p>En estas prácticas se funden conceptos teóricos como cultura de la participación, es decir, “aquella que no tiene barreras para la expresión ciudadana, que apoya la creatividad y la puesta en común de creaciones propias y colectivas” (Aparici y Osuna 2013:138) e inteligencia colectiva entendida como “una inteligencia repartida en todas partes, valorizada constantemente, coordinada en tiempo real, que conduce a una movilización efectiva de las competencias […]. El objetivo de la inteligencia colectiva es el reconocimiento y el enriquecimiento mutuo de las personas” (Lévy 2004:20). De este modo, los usuarios actúan como auténticas comunidades de práctica, es decir, “groups of people who share a concern, a set of problems, or a passion about a topic, and who deepen their knowledge and expertise in this area by interacting on an ongoing basis” (Wenger, McDermott y Snyder 2002:4). Además de ser una comunidad interpretativa, se promueven prácticas letradas como remix: “mezcla alternativa de diferentes productos que da como resultado algo nuevo. Es un acto esencial de creatividad de Lectura-Escritura” (Lessig 2008:364), fanfiction, tertulias literarias y debates.</p>
+         <p>Por tanto, la lectura virtualmente digital resignifica el concepto de comunidad interpretativa (Fish. <ext-link ext-link-type="uri" xlink:href="https://www.hup.harvard.edu/catalog.php?isbn=9780674467262">Is there a text in this class?</ext-link>) que establece que cada lector aborda una obra literaria no como un individuo aislado sino como parte de una comunidad, y es esta la que produce significados. Claramente, en estos comportamientos se evidencia lo que Foucault denomina muerte o desaparición del autor en tanto que los fans se apropian de los textos (en este caso, en términos de Chartier). Si bien es cierto que el escritor domina el canon en su acepción de contenidos oficiales, pero no en su acepción de interpretación (fanon).</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Aparici, R., Osuna, S.(2013). "La cultura de la participación".
+               <italic>Revista Mediterránea de Comunicación. 4</italic>
+               (3), 137-148. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.14198/MEDCOM2013.4.2.07">https://doi.org/10.14198/MEDCOM2013.4.2.07</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aparici</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Osuna</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>La cultura de la participación</article-title>
+               <source>Revista Mediterránea de Comunicación</source>
+               <volume>4</volume>
+               <issue>3</issue>
+               <fpage>137</fpage>
+               <lpage>148</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.14198/MEDCOM2013.4.2.07">https://doi.org/10.14198/MEDCOM2013.4.2.07"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Chartier, R.,  Scolari, C.,  (2019).
+               <italic>Cultura escritura y textos en red</italic>
+               . : Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chartier</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scolari</surname>
+                     <given-names>C.A</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>Cultura escritura y textos en red</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Eco, U.,  (1993).
+               <italic>Lector in fabula. La cooperación interpretativa en el texto narrativo</italic>
+               . : Lumen
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Eco</surname>
+                     <given-names>U</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <source>Lector in fabula. La cooperación interpretativa en el texto narrativo</source>
+               <publisher-name>Lumen</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Ellithorpe, M.,  Brookes, S.(2018). "I didn’t see that coming: spoilers, fan theories, and their influence on enjoyment and parasocial breakup distress during a series finale".
+               <italic>Psychology of Popular Media Culture. 7</italic>
+               (3), 250-263. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/ppm0000134">https://doi.org/10.1037/ppm0000134</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ellithorpe</surname>
+                     <given-names>M.E</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brookes</surname>
+                     <given-names>S.E</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>I didn’t see that coming: spoilers, fan theories, and their influence on enjoyment and parasocial breakup distress during a series finale</article-title>
+               <source>Psychology of Popular Media Culture</source>
+               <volume>7</volume>
+               <issue>3</issue>
+               <fpage>250</fpage>
+               <lpage>263</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/ppm0000134">https://doi.org/10.1037/ppm0000134"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               García-Roca, A.(2016). "Prácticas lectoras en espacios de afinidad: formas participativas en la cultura digital".
+               <italic>_Revista de estudios sobre lectura. 15</italic>
+               (1), 42-51. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.18239/ocnos_2016.15.1.979">https://doi.org/10.18239/ocnos_2016.15.1.979</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>García-Roca</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Prácticas lectoras en espacios de afinidad: formas participativas en la cultura digital</article-title>
+               <source>_Revista de estudios sobre lectura</source>
+               <volume>15</volume>
+               <issue>1</issue>
+               <fpage>42</fpage>
+               <lpage>51</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.18239/ocnos_2016.15.1.979">https://doi.org/10.18239/ocnos_2016.15.1.979"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               García-Canclini, N. (2015).
+               <italic>Leer en papel y en pantallas: el giro antropológico</italic>
+               . En García-Canclini , N., Gerber Bicecci, V., López Ojeda, A., Nivón Bolán, E., Pérez Camacho, C., Pinochet Cobos, C., Winocur Iparraguirre, R (autor.);Hacia una antropología de los lectores.  (1-38).: Ariel
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>García-Canclini</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Leer en papel y en pantallas: el giro antropológico</chapter-title>
+               <year>2015</year>
+               <source>Hacia una antropología de los lectores</source>
+               <publisher-name>Ariel</publisher-name>
+               <fpage>1</fpage>
+               <lpage>38</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Gee, J., Hayes, E.,  (2012).
+               <italic>Nurturing affinity spaces and game-based learning</italic>
+               . : Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gee</surname>
+                     <given-names>J.P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hayes</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Nurturing affinity spaces and game-based learning</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Genette, G.,  (2001).
+               <italic>Umbrales</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Genette</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Umbrales</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Gray, J., Mittell, J.(2007). "Speculation on spoilers: lost fandom, narrative consumption and rethinking textuality".
+               <italic>Participations. 4</italic>
+               (1). Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.participations.org/Volume%204/Issue%201/4_01_graymittell.htm">https://www.participations.org/Volume%204/Issue%201/4_01_graymittell.htm</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gray</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mittell</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Speculation on spoilers: lost fandom, narrative consumption and rethinking textuality</article-title>
+               <source>Participations</source>
+               <volume>4</volume>
+               <issue>1</issue>
+               <fpage />
+               <lpage />
+               <ext-link ext-link-type="uri" xlink:href="https://www.participations.org/Volume%204/Issue%201/4_01_graymittell.htm">https://www.participations.org/Volume%204/Issue%201/4_01_graymittell.htm"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Guerrero-Pico, M.,  Scolari, C.(2016). "Narrativas transmedia y contenidos generados por los usuarios: el caso de los crossovers".
+               <italic>Cuadernos.info.</italic>
+               (38), 183-200. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7764/cdi.38.760">https://doi.org/10.7764/cdi.38.760</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Guerrero-Pico</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scolari</surname>
+                     <given-names>C.A</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Narrativas transmedia y contenidos generados por los usuarios: el caso de los crossovers</article-title>
+               <source>Cuadernos.info</source>
+               <volume />
+               <issue>38</issue>
+               <fpage>183</fpage>
+               <lpage>200</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7764/cdi.38.760">https://doi.org/10.7764/cdi.38.760"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Hellekson, K., Busse, K.,  (2006).
+               <italic>Fan fiction and fan communities in the age of the internet: new essays</italic>
+               . : McFarland
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hellekson</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Busse</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Fan fiction and fan communities in the age of the internet: new essays</source>
+               <publisher-name>McFarland</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Hills, M. (2012).
+               <italic>Psychoanalysis and digital fandom: theorizing spoilers and fans self-narratives</italic>
+               . En Lind, R (autor.);Produsing theory in a digital world. the intersection of audiences and production in contemporary theory.  (105-122).: Peter Lang
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hills</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Psychoanalysis and digital fandom: theorizing spoilers and fans self-narratives</chapter-title>
+               <year>2012</year>
+               <source>Produsing theory in a digital world. the intersection of audiences and production in contemporary theory</source>
+               <publisher-name>Peter Lang</publisher-name>
+               <fpage>105</fpage>
+               <lpage>122</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Jenkins, H.,  (2010).
+               <italic>Piratas de textos: fans, cultura participativa y televisión</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jenkins</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Piratas de textos: fans, cultura participativa y televisión</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Jenkins, H.,  (2008).
+               <italic>Convergence culture: la cultura de la convergencia de los medios de comunicación</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jenkins</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Convergence culture: la cultura de la convergencia de los medios de comunicación</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Jenkins, H.,  Ford, S.,  Green, J.,  (2013).
+               <italic>Spreadable media: creating value and meaning in a networked culture</italic>
+               . : New York University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jenkins</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ford</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Green</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>Spreadable media: creating value and meaning in a networked culture</source>
+               <publisher-name>New York University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Johnson, B., Rosenbaum, J.(2015). "Spoiler alert: consequences of narrative spoilers for dimensions of enjoyment, appreciation, and transportation".
+               <italic>Communication Research. 42</italic>
+               (8), 1068-1088. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0093650214564051">https://doi.org/10.1177/0093650214564051</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rosenbaum</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Spoiler alert: consequences of narrative spoilers for dimensions of enjoyment, appreciation, and transportation</article-title>
+               <source>Communication Research</source>
+               <volume>42</volume>
+               <issue>8</issue>
+               <fpage>1068</fpage>
+               <lpage>1088</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0093650214564051">https://doi.org/10.1177/0093650214564051"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Lessig, L.,  (2008).
+               <italic>Remix. Cultura de la remezcla y derechos de autor en el entorno digital</italic>
+               . : Icaria
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lessig</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Remix. Cultura de la remezcla y derechos de autor en el entorno digital</source>
+               <publisher-name>Icaria</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Lévy, P.,  (2004).
+               <italic>Inteligencia colectiva: por una antropología del ciberespacio</italic>
+               . : Organización Panamericana de la Salud
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lévy</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Inteligencia colectiva: por una antropología del ciberespacio</source>
+               <publisher-name>Organización Panamericana de la Salud</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Liebler, R.,  Chaney, K. (2007).
+               <italic>Canon vs. fanon: folksonomies of fan culture</italic>
+               . En MIT media in transition 5: creativity, ownership and collaboration in the digital age.  (1-16). Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://works.bepress.com/raizelliebler/10/">http://works.bepress.com/raizelliebler/10/</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Liebler</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chaney</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Canon vs. fanon: folksonomies of fan culture</chapter-title>
+               <year>2007</year>
+               <source>MIT media in transition 5: creativity, ownership and collaboration in the digital age</source>
+               <publisher-name />
+               <fpage>1</fpage>
+               <lpage>16</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://works.bepress.com/raizelliebler/10/">http://works.bepress.com/raizelliebler/10/"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Lluch, G. (2017).
+               <italic>Los jóvenes y adolescentes comparten la lectura</italic>
+               . En Cruces, F (autor.);¿Cómo leemos en la sociedad digital? Lectores, booktubers y prosumidores.  (31-54).: Ariel
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lluch</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Los jóvenes y adolescentes comparten la lectura</chapter-title>
+               <year>2017</year>
+               <source>¿Cómo leemos en la sociedad digital? Lectores, booktubers y prosumidores</source>
+               <publisher-name>Ariel</publisher-name>
+               <fpage>31</fpage>
+               <lpage>54</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Mittell, J.(2009). "Sites of participation: wiki fandom and the case of lostpedia".
+               <italic>Transformative Works and Cultures. 3</italic>
+               . Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3983/twc.2009.0118">https://doi.org/10.3983/twc.2009.0118</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mittell</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Sites of participation: wiki fandom and the case of lostpedia</article-title>
+               <source>Transformative Works and Cultures</source>
+               <volume>3</volume>
+               <issue />
+               <fpage />
+               <lpage />
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3983/twc.2009.0118">https://doi.org/10.3983/twc.2009.0118"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Rovira-Collado, J., Mateo, C. (2019).
+               <italic>Social networks for reading as a new literary training space</italic>
+               . En Escandell, D., Rovira-Collado, J (autor.);Current perspectives on literary reading.  (1-18).: John Benjamin
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rovira-Collado</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mateo</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Social networks for reading as a new literary training space</chapter-title>
+               <year>2019</year>
+               <source>Current perspectives on literary reading</source>
+               <publisher-name>John Benjamin</publisher-name>
+               <fpage>1</fpage>
+               <lpage>18</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>
+               Puente, A. (1996).
+               <italic>Cómo formar buenos lectores</italic>
+               . En Cerrillo, P., García-Padrino, J (autor.);Hábitos lectores y animación a la lectura.  (21-46).: Ediciones Universidad de Cuenca
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Puente</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Cómo formar buenos lectores</chapter-title>
+               <year>1996</year>
+               <source>Hábitos lectores y animación a la lectura</source>
+               <publisher-name>Ediciones Universidad de Cuenca</publisher-name>
+               <fpage>21</fpage>
+               <lpage>46</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>
+               Scolari, C. (2017).
+               <italic>El translector. Lectura y narrativas transmedia en la nueva ecología de la comunicación</italic>
+               . En Millán, J (autor.);La lectura en España: informe 2017.  (175-186).: Federación de Gremios de Editores de España
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scolari</surname>
+                     <given-names>C.A</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>El translector. Lectura y narrativas transmedia en la nueva ecología de la comunicación</chapter-title>
+               <year>2017</year>
+               <source>La lectura en España: informe 2017</source>
+               <publisher-name>Federación de Gremios de Editores de España</publisher-name>
+               <fpage>175</fpage>
+               <lpage>186</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>
+               Thomas, P.(2018). "Canon wars: a semiotic and ethnographic study of a wikipedia talk page debate concerning the canon of star wars".
+               <italic>The Journal of Fandom Studies. 6</italic>
+               (3), 279-300. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1386/jfs.6.3.279_1">https://doi.org/10.1386/jfs.6.3.279_1</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Canon wars: a semiotic and ethnographic study of a wikipedia talk page debate concerning the canon of star wars</article-title>
+               <source>The Journal of Fandom Studies</source>
+               <volume>6</volume>
+               <issue>3</issue>
+               <fpage>279</fpage>
+               <lpage>300</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1386/jfs.6.3.279_1">https://doi.org/10.1386/jfs.6.3.279_1"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B26">
+            <mixed-citation>
+               Völcker, M.(2017). "‘Spoiler!? I’m completely painless, I read everything’: fans and spoilers – results of a mixed method study".
+               <italic>Participations. Journal of Audience &amp; Reception Studies. 14</italic>
+               (1), 145-169. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.participations.org/Volume%2014/Issue%201/9.pdf">https://www.participations.org/Volume%2014/Issue%201/9.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Völcker</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>‘Spoiler!? I’m completely painless, I read everything’: fans and spoilers – results of a mixed method study</article-title>
+               <source>Participations. Journal of Audience &amp; Reception Studies</source>
+               <volume>14</volume>
+               <issue>1</issue>
+               <fpage>145</fpage>
+               <lpage>169</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.participations.org/Volume%2014/Issue%201/9.pdf">https://www.participations.org/Volume%2014/Issue%201/9.pdf"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B27">
+            <mixed-citation>
+               Wenger, E., McDermott, R., Snyder, W.,  (2002).
+               <italic>Cultivating communities of practice: a guide to managing knowledge</italic>
+               . : Harvard Business School Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wenger</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McDermott</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Snyder</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Cultivating communities of practice: a guide to managing knowledge</source>
+               <publisher-name>Harvard Business School Press</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000200254</article-id>
+         <article-id pub-id-type="publisher-id">00009</article-id>          
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>El sentido de la educación: del yo como antídoto a la globalización</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The meaning of education: from self as an antidote to globalization</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5767-6894</contrib-id>
+               <name>
+                  <surname>Pallarès-Piquer</surname>
+                  <given-names>Marc</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0463-4177</contrib-id>
+               <name>
+                  <surname>Planella-Ribera</surname>
+                  <given-names>Jordi</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7128-3560</contrib-id>
+               <name>
+                  <surname>Chiva-Bartoll</surname>
+                  <given-names>Oscar</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4427-1780</contrib-id>
+               <name>
+                  <surname>Albar</surname>
+                  <given-names>Javier</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad Jaume I, Facultad de Ciencias Humanas y Sociales. España</institution>
+            <institution content-type="normalized">Universidad Jaume I</institution>
+            <institution content-type="orgname">Universidad Jaume I</institution>
+            <institution content-type="orgdiv1">Facultad de Ciencias Humanas y Sociales</institution>
+            <country country="ES">España</country>
+            <email>pallarem@uji.es</email>
+            <email>ochiva@uji.es</email>
+         </aff>
+         <aff id="aff2">
+            <label>2</label>
+            <institution content-type="original">UOC, Facultad de Psicología y Ciencias de la Educación.    España</institution>
+            <institution content-type="normalized">UOC</institution>
+            <institution content-type="orgname">UOC</institution>
+            <institution content-type="orgdiv1">Facultad de Psicología y Ciencias de la Educación</institution>
+            <country country="ES">España</country>
+            <email>jplanella@uoc.edu</email>
+         </aff>
+         <aff id="aff3">
+            <label>3</label>
+            <institution content-type="original">Universidad Complutense, Facultad de Bellas Artes.   España</institution>
+            <institution content-type="normalized">Universidad Complutense</institution>
+            <institution content-type="orgname">Universidad Complutense</institution>
+            <institution content-type="orgdiv1">Facultad de Bellas Artes</institution>
+            <country country="ES">España</country>
+            <email>pjalbar@ucm.es</email>
+         </aff>
+      <aff id="aff4">
+            <label>1</label>
+            <institution content-type="original">Universidad Jaume I, Facultad de Ciencias Humanas y Sociales. España</institution>
+            <institution content-type="normalized">Universidad Jaume I</institution>
+            <institution content-type="orgname">Universidad Jaume I</institution>
+            <institution content-type="orgdiv1">Facultad de Ciencias Humanas y Sociales</institution>
+            <country country="ES">España</country>
+            <email>ochiva@uji.es</email>
+         </aff>         
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2019</year>
+         </pub-date>
+         <!--volume>0</volume-->
+         <issue>65</issue>            
+         <fpage>254</fpage>
+         <lpage>266</lpage>
+         <history>
+            <date date-type="received">
+               <day>23</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>07</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Vivimos tiempos en los que se ha pasado de concebir un acto de educar que proponía una relación medial a un acto de educar inscrito en una globalización que dicta la disolución del sujeto en una esfera vasta e impersonal. Esto nos ha portado a analizar el yo del alumnado que hoy acude a las aulas. A partir de una revisión teórica basada en el análisis hermenéutico de contenido y confrontación con la literatura sobre el tema, los resultados principales se centran en una reformulación del yo que pasa por la revalorización de la complementariedad latente entre la subjetividad heredada (de la ciencia y las filosofías recientes) y la subjetividad del hiperindividualismo. A pesar de encontrarnos en la era de la globalización, el artículo explicita que la educación no dispondría de muchas ejecuciones prácticas si en ella no se desarrollara un cierto grado de tropismo hacia la individualidad. En consecuencia, el yo, a pesar de ser habitante de colectividades atomizadas, concluimos que debe consolidarse como un antídoto, adaptado a la segmentación de las formas de vida de cada contexto, aunque este se encuentre condicionado por el consumismo y por las necesidades que dicta la (ciber)civilización tecnológica.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>We live in times when we have passed from conceiving an act of educating that proposed a medial relationship to an act of globalized education that dictates the dissolution of the subject in a vast and impersonal sphere. This has led us to analyse the self of the students who attend the classrooms today. Theoretical revision based on the hermeneutic analysis of content and confrontation with literature on the topic, the main results focus on a reformulation of the self that goes through the revaluation of the latent complementarity between the inherited subjectivity (from science and recent philosophies) and the subjectivity of hyper-individualism. Despite being in the era of globalization, the article explicates that education would not have many practical executions if it did not develop a certain degree of tropism towards individuality. Consequently, the self, despite being an inhabitant of atomized collectivities, must be consolidated as an antidote, adapted to the segmentation of the ways of life of each context, although this is conditioned by consumerism and by the needs dictated by the (cyber) technological civilization.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>educación</kwd>
+            <kwd>globalización</kwd>
+            <kwd>individualismo</kwd>
+            <kwd>ciudadanía</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>education</kwd>
+            <kwd>globalization</kwd>
+            <kwd>individualism</kwd>
+            <kwd>citizenship</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="22" />
+            <page-count count="13" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>La educación siempre ha tenido la posibilidad de pedirle a la utopía que tuviera en cuenta al presente y la utopía de requerirle a la educación que valorara exigir (incluso proyectar) un futuro diferente para la humanidad. En base a esta dualidad, podemos sugerir que sentirse incómodo con la realidad (objetivo nuclear de la educación, no lo olvidemos) no es negar nada, sino más bien, encontrar la manera de pararse a reflexionar y establecer los mecanismos necesarios para hacer evolucionar al mundo. Al fin y al cabo, como muy acertadamente apuntó Hugh Miller, los obstáculos son solo oportunidades con espinas, y los actos de educar y ser educados se anudan a las adversidades con la finalidad de que una determinada ejecución de la acción (educativa) se constituya y tome forma(s) en base a este complejo proceso de superación que se le presupone.</p>
+         <p>David Hume afirmó que el inicio de La Historia de la Guerra del Peloponeso de Tucídides fue la primera página de la historia universal; se trata de la descripción de una guerra con unos personajes que, condenados a las discrepancias, reducen el mundo y la relación con él a “simples” ejercicios de su libertad, dejando de lado todo lo que no emana de la actividad especulativa de la consciencia. Psicología de la ipseidad, ambición personal destinada a la conquista del otro, reconstrucción de la(s) realidad(es) a partir de razonamientos localizados en la consciencia (como Descartes describiría siglos después), lugar donde habita la ambición más irracional –que no solo aleja a las personas sino que hace más difícil conjuntar en ellas el alma y el cuerpo–, en este relato de Tucídides la pretensión y la acción, el ser y el parecer, hacen que ninguna actitud prosaica parezca tener cabida en unos pasajes de desconexión interhumana.</p>
+         <p>
+            A partir de actuaciones como la de esta obra, tal y como escribió Nietzsche, el mundo entero termina convirtiéndose en una fábula, que cada época histórica ha ido sellando con sus particulares remolinos, condicionados por diferentes elementos: “allí donde no existen Dioses reinan los fantasmas”, anunció Novalis. Sin embargo, con el paso de los siglos Dioses y fantasmas se han ido alternando sobre el escenario de lo que hemos convenido en llamar educación, que puede (y debe) ser la herramienta para minimizar los males que describió Tucídides; hablamos de un espacio- paradigma en el que el mundo de la vida constituye contextos (pre)conocidos intuitivamente en la situación de la acción (Riveiro, Blanco y Latorre.
+            <ext-link ext-link-type="uri" xlink:href="https://www.francoangeli.it/riviste/SchedaRivista.aspx?IDArticolo=63109&amp;Tipo=Articolo%20PDF&amp;idRivista=117">Conocimiento pedagógico</ext-link>
+            ), pero que tiene que complementarlos con la aportación de recursos y vivencias puestas al servicio de los procesos de interpretación de la realidad (para eso tenemos la pedagogía), hasta tal punto que “la educación ha terminado erigiéndose como una actividad comunitaria ligada a la cognición, las emociones y al deseo de aprender” (
+            <xref ref-type="bibr" rid="B22">Zufiaurre y Hamilton 2015</xref>
+            :167), esto es, una intersección para cicatrizar heridas, una praxis entendida como un hacer al que la pedagogía debe encontrarle un sentido accional y transformador. El ser humano piensa, Dios se ríe, la educación busca transformarlo todo y la pedagogía se erige en juez. El bien no se encuentra ni en la naturaleza ni en el transcurso de la historia, entonces, ¿qué nos queda?, ¿la educación?, ¿podemos recurrir a ella siempre que queramos para no estrellarnos en la desesperación nihilista?
+         </p>
+         <p>
+            Nos queda, como escribió Ikonnikov, “la pequeña bondad”, la que subyace fuera de discursos y sistemas, la que no se subordina a intereses tácitos, esto es, el gesto receptivo de un ser humano hacia otro, resignificado en una parte u otra de los confines de las generalidades (o de las abstracciones). De esta manera, la praxis (vida humana) no se solidifica como un paradigma biológico, sino antropológico, un hacer existencial a partir del cual se va reestructurando lo humano mismo (Villalobos.
+            <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/310/31053772001.pdf">La investigación educativa y la fenomenología de M. Heidegger</ext-link>
+            ), un devenir que va otorgando cada vez más responsabilidad a la educación (la educación como solución a los males sociales, claro), que se va configurando como una especie de orientación formativa de cada momento, calibrada a la condición social, humana, diacrónica y de especie (Pallarès-Piquer.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/ARIS.60635">Estructuras de acogida, progreso y sistema educativo</ext-link>
+            ).
+         </p>
+         <p>
+            A pesar de las etapas por las que ha pasado a lo largo de la historia, la educación no es ni más ni menos que estética, es decir, saber, sensibilidad e imaginación articuladas en torno a la des- subjetivación de un sujeto (Valladares.
+            <ext-link ext-link-type="uri" xlink:href="http://perfileseducativos.unam.mx/iisue_pe/index.php/perfiles/article/view/57915">La práctica educativa y su relevancia</ext-link>
+            ), que, mediante el acto de educar, obtiene mecanismos para evadirse del concreto cognoscible. Y lo hace en base a la experiencia y los acontecimientos que lo arman; dimensiones, todas ellas, inciertas e imprevisibles, pero condicionantes. Las metodologías educativas requieren, por lo tanto, ser transformadas a la velocidad de las obras de arte, que revelan los valores sociales de cada momento, tiempo o época; adquiriendo distintas formas de divergencia metodológica en busca de soluciones que ayuden a actualizar la educación formal (conviene tener muy presente también la cada vez más marginada educación artística y visual).
+         </p>
+         <p>Desde el momento en el que una parte de la sociedad le ha otorgado la misión de tener que ofrecer soluciones a casi todos los problemas sociales, a la educación se la ha colocado (de manera un tanto imprudente) en el lugar de la filosofía, de la sociología, de la psicología… El final de la xenofobia es el comienzo de la educación, se dice; la desaparición de las desigualdades sociales es el inicio de la educación, se piensa; el aniquilamiento de la violencia es el punto de inflexión de la educación, se demanda.</p>
+         <p>Educación… una (¿nueva?) palabra para una aspiración vieja, a la que se le exige que convierta su función principal en el sustrato de una sociedad que tiene que ser mejor, y que está en continua y vertiginosa transformación, concibiéndola, con estas elevadas pretensiones, como un único contexto, y desviando, de esta manera, al saber de lo que en realidad es su transcurso, es decir, apartando aspectos como el del saber de los caudales del autodescubrimiento y la fundamentación.</p>
+         <p>Proceso global centrado, en las últimas décadas, en la obsesión por alcanzar una matriz de sociedad ideal (gracias a su presunta capacidad cuasi medicinal), sistema (planificado por la política) que anhela el crecimiento de una mismidad cimentada para mantener el orden social dentro de procesos de articulación más amplios, paradigma prácticamente invulnerable, escalpelo anatómico social, (porque… ¿hay algo a lo que la educación no pueda poner remedio?), modelo (a veces incluso consensuado) de lo que es fundamento y propósito de todo, la educación, entendida como un elemento regulador capacitado para confiar el destino humano a la lógica (ni que sea la lógica social de la necesidad de “solucionarlo todo”), en realidad ¿dispone de una posibilidad de sí misma tan sólida como para yacer en un lugar confortable y sin estridencias que nos permita pensar que será siempre nuestra?</p>
+         <p>El panorama educativo actual se ve asaltado por dos situaciones nacidas de la inconcreción social propia de la sociedad postmoderna. Por un lado, el Yo-Otro, que es abordado continuamente por sucesos sobre los que no pueden interponerse aspectos incontrolables, que parecen suceder en algún lugar cercano, pero que, sin embargo, se sitúan fuera de nuestro radio de acción. Situaciones que conmocionan el contexto global, a través de las redes sociales, haciéndose hiperpresentes, ya que la visión del otro, su presencia, su rostro (Lévinas. El tiempo y el otro), invita al Yo-Otro a responder, provocando reacciones pulsionales, que demandan intervenciones inmediatas, las cuales, una vez atendidas de forma abstracta, se desvanecen.</p>
+         <p>Esta continua incidencia de noticias da referencia de un mundo en crisis, habitado por el fantasma de la desesperación, un mundo propio y ajeno, lejano y cercano, que pasa a ser objeto educativo, bien como causa motivadora o bien como factor apocalíptico.</p>
+         <p>Actualmente, al educando, le resulta más difícil conocer el nombre de sus vecinos, situar sus dificultades, trazar un mapa emocional de su barrio, determinar intervenciones concretas a largo plazo, que dar razón a la subjetividad humana que reciben de modo continuo, a través de las redes sociales (Jameson. El postmodernismo o la lógica cultural del capitalismo tardío). Hasta el punto de que, nunca como hasta ahora, a la pedagogía le ha resultado tan complejo definir quién es el Otro- Yo, y trazar acciones educativas que lo incluyan. El Yo-Otro y el Otro-Yo se han vuelto globales y soportan los problemas del mundo.</p>
+         <p>Por otro lado, en la hiperrealidad, aparecen una especie de recetas que, a modo de “bálsamo de fierabrás de Don Quijote”, buscan solucionar, globalmente, lo circunstancial de cada yo, negando, en cierto modo la importancia concreta de la socialización de la persona. Y así, poco a poco, se le han ido adjudicando a la educación objetivos, no solo utópicos, sino más bien irreales. Los currículos educativos se han ido llenando de actitudes éticas, que son imposibles de abordar cognitivamente, y que, sin embargo, en el ámbito de una escuela un tanto desfasada, alejada de las corrientes renovadoras, son aprendidos de este modo (Bourdieu y Passeron. La reproducción). Esta situación convierte a la educación en ciencia alquímica y a la pedagogía en el proceso metodológico que ha de lograr la piedra filosofal, una tarea casi imposible.</p>
+         <p>A la estela de todo ello, el objetivo de este artículo es ofrecer respuestas a todo esto en base a una concepción de la educación como esfera existencial en la que los acontecimientos pueden ir adquiriendo una nueva actualidad, marcada por un yo insertado en la globalidad y condicionado por las transformaciones del significado de la configuración básica de lo humano, en definitiva. Esto nos portará, por lo tanto, a preguntarnos si la educación será siempre nuestra en función de un análisis del yo del alumnado que hoy acude a las aulas y centrándonos en una reformulación del yo que, según la hipótesis inicial, pasa por la revalorización de la complementariedad latente entre la subjetividad heredada (de la ciencia y las filosofías recientes) y la subjetividad del hiperindividualismo que reina hoy en día.</p>
+         <p>Para dar respuesta a estas cuestiones el trabajo se afronta desde una aproximación metodológica hermenéutica, en tanto que este enfoque ofrece la posibilidad de interpretar nuevas direcciones y extraer conclusiones en horizontes de comprensión más amplios del fenómeno analizado. Desde el prisma interpretativo por el que optamos, y basándonos en el diálogo con los textos interpelados y con los principales significados sobre los que se fundamentan, se aspira a ofrecer una visión precisa y plena del sentido y posibilidades del devenir del yo del alumnado.</p>
+      </sec>
+      <sec>
+         <title>El yo antídoto</title>
+         <p>
+            Inmersa en una dinámica marcada por las interdependencias internas de los distintos subsistemas sociales, a la ciudadanía actualmente se le exige que se involucre en un esfuerzo constante de formación y reciclaje, que se preocupe por una asimilación de competencias prácticamente ilimitada y que se centre en una exigente búsqueda de empleo permanente. Ante tales circunstancias, en diferentes foros se está planteando el debate sobre las formas (que los humanos tenemos) de redescubrir las cualidades de los sujetos, integrados en interacciones incesantes y en procesos sociales multivariados; en el ámbito educativo esto se centra en indagar cómo la vida del alumnado que acude a las aulas siente la necesidad de reinventarse (Pallarès-Piquer y Chiva-Bartoll.
+            <ext-link ext-link-type="uri" xlink:href="https://revistas.comillas.edu/index.php/pensamiento/article/view/10731">El lugar del individuo en la era post-postmoderna</ext-link>
+            ), una necesidad focalizada en una especie de continua capitalización del yo (Rose.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/CBO9780511488856">Powers of freedom)</ext-link>
+            .
+         </p>
+         <p>
+            Se trata de un yo que deambula por un mundo en el que “la licuefacción se convierte en la ratificación de un tiempo predominantemente metafórico y connotativo” (Esteban 2011:69). No obstante, para poder llegar a esta concepción del yo, la historia ha recorrido un extenso camino; a partir de Descartes, la “consciencia del yo” se erigió en vía de partida, pues cogitatio se percibe como algo diferenciado de la extensio: de esta manera, “yo” y “cosa” se distinguen por principio, aunque se trata, a la postre, de una diferenciación óntica. Fue gracias al idealismo alemán y a Kant cuando el “yo” se aceptó como ontológicamente distinto de otras modalidades de cosas y también “se captó que todo ser en última instancia se remonta a la forma del ser yo. En esta fase, que abarca desde Kant hasta Hegel y Schelling, se descubrió el yo, el yo en cuanto constitución de ser no derivable (…) y en cuanto manera de ser, puesto que esta constitución ontológica consiste en un devenir (poner el yo)” (
+            <xref ref-type="bibr" rid="B14">Rombach 2004</xref>
+            :399). Posteriormente, la filosofía existencial y el expresionismo pusieron los cimientos para poder ampliar el yo hasta unos parámetros más amplios y profundos, haciendo posible que se concretara (y se fundamentara) incluso como contenido, canalizado hacia las distintas vertientes de su finitud.
+         </p>
+         <p>
+            De esta manera, y centrándonos en el presente, a pesar de esta capitalización aludida anteriormente, compartimos con Rombach que la pluralidad de situaciones en la que vivimos hoy conforma también una pluralidad de “yos”. De esta manera “el yo se constituye y se experimenta como su secuencia multidimensional” (
+            <xref ref-type="bibr" rid="B15">Rombach 2007</xref>
+            :169). Esta concepción implica que, aun con la proliferación de la era virtual, las transformaciones de los nexos de identificación de nuestro día a día se den situacionalmente, esto es, mediante análisis situacionales que se han ido desarrollando en medios vitales relativamente objetivos (García.
+            <ext-link ext-link-type="uri" xlink:href="http://produccioncientificaluz.org/index.php/utopia/article/view/23340">Ontopolítica y caosmunidad</ext-link>
+            ). Esto implica que, en las sociedades actuales, el mundo cooriginario al yo no solo sea posible “en” los seres humanos, sino que atribuye el sentido de ser a la totalidad de la vida misma, por eso, en algunos contextos determinados, la ausencia del horizonte del “por-mor-de-sí” del yo en ocasiones puede impedir pensarlo como resoluto a partir de su finitud (esencialmente en aquellas situaciones en las que el asentamiento del yo, propio del mundo global y de las sociedades basadas en las necesidades, solo se percibe como “posible” mediante una asunción de cierto tipo de subjetividades, mediante la compleja aceptación de los otros y a partir de la concepción del sentido de un tiempo cada vez más “ciberinsertado”).
+         </p>
+         <p>
+            Sea como sea, lo relevante es tener presente que el yo se erige en una dimensión de potencialidad constitutiva de la existencia humana que condiciona la procesualidad de todo lo que nos afecta como ciudadanos/as que vamos a ser educados y que, también, (con)viviremos con el resto de las personas. Esta dimensión es una (re)vitalización del yo que proyecta sus ejecuciones en las manifestaciones socioculturales de la historicidad y de la praxis (Comparada y Morgado.
+            <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.21664/22388869.2017v6i">Processo de avaliação</ext-link>
+            ), lo cual no garantiza que la educación sea “siempre nuestra” (de la sociedad en general), puesto que esta dimensión hace que tengamos que concebir la educación como: “La adquisición en el proceso de intervención de un conjunto de conductas que capacitan al educando para decidir y realizar su proyecto personal de vida y constituirse a sí mismo, utilizando la experiencia axiológica para dar respuesta, de acuerdo con las oportunidades, a las exigencias que se plantea en cada situación” (
+            <xref ref-type="bibr" rid="B20">Touriñán 2014</xref>
+            :9).
+         </p>
+         <p>
+            En pleno siglo XXI, la condición educativa de la “dimensión” personal se encuentra con retos tan ambiciosos como tener que evitar la pérdida de su esencia sustancial (Pallarès-Piquer.
+            <ext-link ext-link-type="uri" xlink:href="https://redie.uabc.mx/redie/article/view/1700">Recordando a Freire en época de cambios</ext-link>
+            ), y con objetivos como el de hacer frente a la globalización: el sustrato de lo individual versus la animación integrada del todo; de la tradicional adscripción a lo colectivo (en función de creencias y prácticas simbólicas compartidas) al despliegue irrefrenable de la globalización; hablamos del trayecto de la individuación entendido y aceptado como (simple) compañero de viaje de experiencias de plenitud de mayor magnitud, en definitiva. Pasamos, por consiguiente, de un acto de educar que propone (o que… ¿proponía?) una relación medial a un acto de educar inscrito en una globalización que dicta la disolución del sujeto en una esfera vasta, un tanto impersonal y, desde luego, casi siempre infinita (Sloterdijk. Extrañamiento del mundo).
+         </p>
+         <p>
+            Esta oleada de globalización nos arrastra hacia la determinación y la apertura de un “hacia afuera”, que es el que nos garantiza que podamos aseverar que continúa siendo “nuestra” (de la sociedad que establece su idiosincrasia), puesto que “invita a ir más allá de la escala nacional, tanto para entender los procesos de elaboración de la política educativa como las propias prioridades educativas nacionales” (
+            <xref ref-type="bibr" rid="B19">Tarabini 2013</xref>
+            :409). Es una tendencia que nos viene dada como mundialización económica y como generalización comunicacional, e incluso tiene la potestad de definir espacios sociales, políticos y culturales, y también de exigir nuevos intercambios y reasentamientos entre regiones.
+         </p>
+         <p>
+            Además, tal y como advierte muy acertadamente Carnoy (
+            <ext-link ext-link-type="uri" xlink:href="https://cintademoebio.uchile.cl/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fcintademoebio.uchile.cl%2Findex.php%2FCDM%2Farticle%2Fdownload%2F54192%2F56949%2F">Globalization and educational reform</ext-link>
+            ), la competitividad económica propia de la globalización se convierte, progresivamente, en la competitividad del sistema educativo. No obstante, el debate de si es posible (o conveniente) tratar al ser humano como un yo puro, en detrimento de algunas de sus determinaciones naturales y sociales, está siempre relacionado por los diversos condicionantes políticos de la actualidad (Luna. La insuficiencia del discurso racional).
+         </p>
+         <p>
+            En contraposición con la concepción de la individualidad que imponía el capitalismo de antaño, la individualidad de hoy no parece imponer espacios de subordinación y enfrentamiento entre nuestro yo y el mundo. Este hecho provoca incluso que algunos se planteen si, inmersos en una especie de reformulación del capitalismo, en realidad somos “¿lo suficientemente iguales como para que la homogeneización globalizadora tenga éxito? ¿O estará basado el universalismo de la globalización en un igualitarismo erróneo?” (
+            <xref ref-type="bibr" rid="B10">Luna 2009</xref>
+            :176). A todas luces, se trata de un mundo que, en la coyuntura actual, se termina convirtiendo en: “Un lugar de ‘inmersión’ donde se experimentan vibraciones y se corroe toda división entre lo interior y lo exterior. La cápsula de la racionalidad objetivadora debe ser rota liberando las sensaciones fuertes que permiten construir la identidad personal dotándola de sentido y plenitud. Aquí se insinúa toda una constelación de experiencias típicamente contemporáneas, desde esas nuevas ordalías que representan el deporte, el turismo de riesgo o las prácticas de ‘sexo inseguro’ a la evanescencia de sí en la realidad virtual o los transportes psíquicos ligados al consumo de ciertas sustancias” (
+            <xref ref-type="bibr" rid="B21">Vázquez 2006</xref>
+            :16).
+         </p>
+         <p>A pesar de contener todo un conjunto de constelaciones, tal y como explicita la cita anterior, creemos que la existencia individual, ante el huracán de la globalidad, debe disponer de una significación ética, comprometida con las raíces antropológicas que se le presuponen a todo acto educativo, guiada por premisas de vida buena (mencionamos la concepción socrática de la ética, según la cual se ocupa de descifrar cómo debe vivir alguien).</p>
+         <p>
+            Se trata, al fin y al cabo, de una orientación canalizada hacia una asunción pedagógica de la acción implementada en torno a unos fines muy determinados (Vázquez.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/athenead/v0n11.394">Tras la autoestima</ext-link>
+            ), marcados por un desarrollo personal, unos intereses y unas aspiraciones como agentes sociales, autónomos, que en realidad “expresan el desplazamiento permanente entre distintas producciones imaginales” (
+            <xref ref-type="bibr" rid="B4">Dipaola 2017</xref>
+            :255); hacemos referencia al desplazamiento, pues, como manifestación de una esfera de creatividad personal que podrá basar su capacidad de exploración en las potencialidades efectivas instauradas en la conformación de las identidades, que es lo que abre la posibilidad de evidenciar que: “El yo arrojado a nativitate a un horizonte de ejemplos se encuentra, de hecho, envuelto en una red de mutuas influencias personales y, en consecuencia, una aproximación realista al tema no podrá menos que reconocer el efecto de los ejemplos personales en la determinación de la moralidad. Otra cuestión será cómo, merced a su forma personal, los ejemplos despliegan su inmenso poder en el ánimo y en el corazón” (
+            <xref ref-type="bibr" rid="B7">Gomá 2009</xref>
+            :227).
+         </p>
+      </sec>
+      <sec>
+         <title>El relanzamiento del yo hacia el mundo</title>
+         <p>
+            Estamos inmersos en un momento histórico en el que, en plena segunda década del siglo XXI, ya no resulta tan sencillo recurrir ni a los ejemplos que apuntaba Gomá en la cita anterior, ni a la mayoría de los antiguos (y desfasados) marcos de significación (Moliner, Moliner y Sanhauja.
+            <ext-link ext-link-type="uri" xlink:href="https://cintademoebio.uchile.cl/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fcintademoebio.uchile.cl%2Findex.php%2FCDM%2Farticle%2Fdownload%2F54192%2F56949%2F">Percepciones sobre el concepto y la gestión de la diversidad</ext-link>
+            ); esto implica que se haga necesario relanzar el yo hacia el mundo, hacer vivir este mundo al alumnado como reflejo de su yo, un pacto en forma de “vivencia existencial” donde el alumnado pueda hallar sus propios intereses y expectativas, enriquecidas, y donde sea posible hacer valer su autenticidad, sobre todo en un momento en el que el objetivo de los sistemas educativos es que: “La enseñanza, en todas sus dimensiones, ayude a construir un saber práctico, contextualizado y situacional” (
+            <xref ref-type="bibr" rid="B12">Mentado, Medina y Cruz 2017</xref>
+            :30), que se marque como prioridad “la necesidad de reparar en el papel de la escuela y del profesorado en los procesos de construcción de ciudadanía, especialmente, desde el tamiz intercultural” (
+            <xref ref-type="bibr" rid="B18">Sierra, Caparrós, Vila y Martín 2017</xref>
+            :39).
+         </p>
+         <p>
+            No obstante, hablamos de hacer vivir una experiencia educativa que nos ubique no únicamente en el “ahora”, sino que se despliegue en el pasado, en el futuro y en lo simultáneo para fijar y calibrar un yo que se configure como fuente de vivencias, un yo que nos permita determinar que la educación no es solo un eje de referencia, sino un ámbito de realidad con significaciones intrínsecas (Zambrano.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.24320/redie.2018.20.1.1409">Prácticas pedagógicas para el desarrollo de competencias ciudadanas</ext-link>
+            ). Conviene, además, tener presente que el futuro no hace explícito, en sí mismo, contendido (educativo) alguno, como nos enseñó Husserl. El futuro es la retaguardia de percepciones que nos permiten el acceso a determinados sentidos, unos sentidos que “se nos aclaran únicamente al descubrir las potencialidades implícitas que existen en el horizonte de la experiencia. El sentido, por lo tanto, no nos lo representamos jamás como algo dado de un modo acabado, como se pretendiera en la tradición metodológica del pensamiento científico” (
+            <xref ref-type="bibr" rid="B5">Esteban 2002</xref>
+            :142).
+         </p>
+         <p>
+            No obstante, esta impronta del yo sobre lo educativo no implica la reducción del análisis a la estructura cognitiva de quien es educado (ni del espacio sociocultural en el que vive), es más bien un punto sobre el cual debe pivotar la estructuración de pautas de intervención pedagógica que analicen y expliquen el campo de la educación (Planella y Pallarès-Piquer.
+            <ext-link ext-link-type="uri" xlink:href="https://www.unav.edu/publicaciones/revistas/index.php/estudios-sobre-educacion/article/view/25201">Metafísica de la debilidad y pedagogía del cuidado</ext-link>
+            ).
+         </p>
+         <p>La clave de la formulación del yo radica en revalorizar la complementariedad latente entre la subjetividad heredada (de la ciencia y las filosofías recientes) y la subjetividad del hiperindividualismo (Bauman. La posmodernidad y sus descontentos). “¿Eres tú el que ha de venir o debemos esperar a otro?”, se nos preguntaba en el Evangelio de San Mateo; esperar a otro en forma de un yo que pueda devenir un antídoto implica entender el yo como reflejo de un ethos avivado por “quien educa”, que será el encargado de canalizarlo en cuanto elemento vivencial de inflexión y de incitación (dialógica, transformadora, etc.). Es un yo que permite el movimiento (el suyo y el de los otros) hacia límites y márgenes, la ingente conjetura de múltiples posibilidades y la apertura a los errores, las eventualidades y los aciertos que nos aguardan.</p>
+         <p>
+            Esta concepción del yo nos permite relacionarnos también con nosotros mismos en tanto que personas “autorresponsables y autodominadas, dotadas de la capacidad de transformarnos a nosotros mismos y [nos permite] hacer de nuestras propias vidas el objeto de prácticas de automodelado” (
+            <xref ref-type="bibr" rid="B17">Rose 1996</xref>
+            :95); pero sin olvidar que “el sentido inherente al significado de ‘educación’ proviene de la vinculación entre el yo, el otro y lo otro en cada acto educativo” (Touriñán 2014:19); y esta vinculación puede ser completada si se toma en consideración la genealogía del yo, es decir, si se tiene presente que el yo “salta fuera de la situación en cuanto [se toma como] la consecuencia de las situaciones anteriores” (Rombach 2004:165). Esto nos permite ser lo permanente en todas nuestras situaciones, y también hace posible que el yo no sea una substancia (porque el yo es la autovivencia de la situación que vivimos, sobrevenida a raíz de una multiplicidad situacional en las circunstancias motivadoras de su acercamiento a nuestra realidad actual). De esta manera, la subjetivación latente en todo lo que hemos ido apuntando en el presente trabajo no se circunscribe solo a una lógica de inclusión vertical “global-local”, sino también a la dinámica ”tradición-destino”, puesto que el yo atrae vivencias, desde su transcurso, en una aproximación que se transforma constantemente (y con acontecimientos cada vez nuevos), vivencias a partir de las cuales se cimienta la esfera del todo como un presente vivo que hace posible “escuchar el testimonio de lo subjetivo, que no siempre hace eco en el campo de lo social, pero que sin duda es ahí, en el ámbito de los social, en donde adquiere su valor y, por lo tanto, su verdad” (
+            <xref ref-type="bibr" rid="B3">Canto 2018</xref>
+            :165).
+         </p>
+         <p>
+            La construcción de este yo proporciona planos más agudos a la complejidad de una educación donde la casuística de las verdades absolutas y ciertas normativas homogenizadas de la administración monológica de lo educativo necesitan ser reestructuradas (Gómez, Gallo y Planella.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5209/ARIS.57351">Una educación poética del cuerpo o de lenguajes estético pedagógicos</ext-link>
+            ). No obstante, el conocimiento no es una cosa sino un proceso, y aquella lógica social que proclama que la educación es uno de los pilares de cualquier sociedad avanzada necesita estar en disposición de aceptar una visión del sujeto en tanto que activo, creativo y autorregulador. De esta manera: “Dado que se da por sentada una competencia inherente, hay una ‘construcción de democracia procedimental’ (…) una visión escéptica de las relaciones jerárquicas, un enfoque en el momento actual y en lo que está presente (en vez de lo que se echa en falta). Por lo tanto, las pedagogías de la competencia tienden a centrarse en el aprendiz y en lo que se ha logrado. El control es implícito o ‘invisible’; esto es, tiende a ser inherente a formas personalizadas de comunicación y a la adopción de la autorregulación” (
+            <xref ref-type="bibr" rid="B8">Hall, Thomson y Russell 2007</xref>
+            :607).
+         </p>
+         <p>Para poder aportar respuestas a la pregunta que planteábamos en la introducción, si la educación continúa siendo nuestra, esto es, si en las sociedades actuales tenemos todavía la capacidad de analizar todos sus vértices y de intuir todas sus proyecciones, necesitamos constatar la dignidad y la autonomía del individuo como tal: hace falta determinar si la reubicación en un marco establecido por él mismo que reivindicamos en este trabajo conlleva una restricción progresiva del espacio de la experiencia; ¿la no adscripción del horizonte a la exclusividad requerida por la globalización implica una minoración del espacio de la experiencia? ¿la revalorización proyectual del yo corroe en sí la experiencia inserta en este mundo (hiper)globalizado?</p>
+         <p>
+            Entendemos que no, sobre todo porque pensamos que educar(se) no es un acto cuya singularidad se vea reducida a la consecución de unas finalidades sociales circunscritas a un sistema educativo, sino una tarea en búsqueda constante de concepcion(es) sobre aquel ser humano que va a ser educado (Piquer, Chiva-Bartoll, Planella y López.
+            <ext-link ext-link-type="uri" xlink:href="https://www.iisue.unam.mx/perfiles/perfiles_articulo.php?clave=2019-163-123-137">Repensando la educación</ext-link>
+            ). Y también porque el hecho de entregar exclusivamente las llaves de todo lo educativo al horizonte de la globalización reduciría la existencia humana a una especie de caos y de insignificancia; si la globalización es un elemento nuclear a la hora de analizar lo educativo, no lo es menos todo lo “micro”, pues es una vía de aproximación al transcurso cotidiano del sistema educativo y un acercamiento “necesario para hacer que las reformas perduren; comprender y transformar la realidad de las aulas implica identificar las innovaciones en pequeña escala y la introducción de buenas prácticas en procesos de reforma educativa que se basan en el conocimiento boca a boca de maestros por maestros” (
+            <xref ref-type="bibr" rid="B9">Latapi 2008</xref>
+            :7).
+         </p>
+      </sec>
+      <sec>
+         <title>La educación en la era de la globalización</title>
+         <p>La globalización es una realidad, y la educación, como cualquier otro fenómeno social de primer orden, debe buscar, de la mejor manera posible, sus procesos relacionales con ella. Si bien es cierto que a través de la educación difícilmente podemos alcanzar la completa dilucidación de los “contenidos” del mundo, no lo es menos que, gracias a ella, tenemos la posibilidad de ensanchar la rigurosa deducción y la aceptación de situaciones que se producen a partir de la experiencia, por eso apuntamos que el yo, si se articula en momentos concretos del flujo de la tradición cultural de cada contexto, no parte con desventaja respecto de la tan valorada dimensión global. De hecho, la educación, como tal, no dispondría de muchas dinámicas ni ejecuciones prácticas si en ella no se llevase a cabo un cierto grado de tropismo hacia la individualidad, una tendencia a la particularidad concreta ontológicamente inervada en el devenir cultural de lo local, lo cercano y lo concreto.</p>
+         <p>
+            En las sociedades actuales encontramos inscritas unas individualidades que, proyectadas en la dinámica de los procesos, se traducen en deseo de pertinencia a colectividades de diferente índole (Gutiérrez Fresneda.
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15581/004.34.263-281">Las destrezas del pensamiento y el aprendizaje compartido para la mejora de la composición escrita</ext-link>
+            ). Lo colectivo (que no lo global) se convierte, por consiguiente, en la demanda de la estructura ontológica de la educación, como una manifestación más del Daisen. En medio de la fugacidad e inestabilidad de la vida, lo colectivo es una praxis que no puede (ni debe) limitarse a la constitución de un cuerpo universalista; es, antes que nada, una episteme, un constructo con mediaciones y correlaciones con otros órdenes antropológicos, órdenes que, cuando se tienen en cuenta (en el ámbito educativo) “se convierten en paradigmas a través de los cuales es posible caracterizar la actitud de un espacio de aprendizaje” (
+            <xref ref-type="bibr" rid="B16">Rojas 2018</xref>
+            :24).
+         </p>
+         <p>Esta caracterización ubica y re-significa el yo como agente y como medio de acceso (múltiple) a las formas del pensamiento racional circunscritas a la realidad fenoménica de la existencia, y nos permite afrontar situaciones como la que describe Marramao: La globalización parece señalar, más que el advenimiento de la ‘condición posmoderna’ (anunciado por Jean-François Lyotard en su escrito homónimo de 1979), un problemático y accidentado tránsito desde la modernidad-nación a la modernidad-mundo. Un tránsito para nada pacífico, cuya puesta en juego está representada por el campo de la tensión que viene esbozándose entre los dos principios estructurales antitéticos subyacentes a la dinámica moderna: el principio de la ‘mundialidad’ (constitutivo de la forma- mercado) y el principio de ‘territorialidad’ (constitutivo de la forma Estado) (Marramao. La pasión del presente).</p>
+         <p>
+            La educación constituye una estructura profunda que no se subordina a otras cosas, sino que fundamenta toda la vida humana. Forma parte de un acontecimiento que se reaprende en su ser y hacer, en base a derechos humanos que certifiquen libertad de expresión, interconexión dialógica y consensual con el resto de las personas con las que se convive. A pesar de ello, vivimos en una época en la que se van produciendo nuevas formas de relación social que, según Ascher, pueden ser consideradas como conmutativas y de “múltiples pertenencias sociales”, por eso afirma que: “Los diversos campos sociales son de naturaleza diferente. La participación en cada uno de ellos puede ser de manera más o menos voluntaria y duradera. Las interacciones pueden ser económicas, culturales, afectivas, recíprocas, jerárquicas, normalizadas, cara a cara, escritas, habladas, telecomunicadas, etc. Los campos son de escala variable (de ‘local’ a ‘global’) y más o menos abiertos (…) Y los individuos efectúan un code switching, es decir, intentan hacer malabarismos con los distintos códigos para poder pasar de uno a otro” (
+            <xref ref-type="bibr" rid="B1">Ascher 2007</xref>
+            :43).
+         </p>
+         <p>
+            Estas formas de relación social han provocado la configuración de las nuevas tecnologías del yo, dispositivos y técnicas con repercusiones en los seres humanos que establecen pautas de conducta que funcionan a distancia para moldear, de forma sutil, la conducta, los pensamientos y las acciones, y generan nuevas configuraciones de la identidad (Dean.
+            <ext-link ext-link-type="uri" xlink:href="https://cintademoebio.uchile.cl/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fcintademoebio.uchile.cl%2Findex.php%2FCDM%2Farticle%2Fdownload%2F54192%2F56949%2F">Governmentality</ext-link>
+            ), que abren líneas de investigación muy relevantes de cara al futuro.
+         </p>
+      </sec>
+      <sec>
+         <title>Consideraciones finales</title>
+         <p>
+            La dificultad para saltar de un código a otro que se apuntaba en la parte final del anterior apartado no debe ser óbice para que el individuo se desarrolle como persona en base a la posesión de una interioridad singular (y única); hablamos de una individualidad derivada de la plenitud interior y expresada en la obtención de experiencias que puedan conformar una vida de calidad, condicionada, no obstante, por el conjunto de elementos que “interaccionan entre sí y en medio de los cuales decidimos y apostamos por unas determinadas finalidades educativas pensando en el mejor futuro posible” (
+            <xref ref-type="bibr" rid="B13">Navarro Solano 2017</xref>
+            :73).
+         </p>
+         <p>Afirmación del yo como generador de potencialidades infinitas, fuente facilitadora de irreductibilidades humanas no subordinadas a la globalidad descarnada, creador de concreciones espaciotemporales típicas del ser humano –pero condicionadas por su conciencia–, las sociedades deben marcarse como objetivo prioritario establecer marcos de actuación donde se integre un yo empírico (un conjunto de ellos, más en concreto) que se mueva, analice y transforme los hechos y las cosas susceptibles de identificación.</p>
+         <p>No podemos obviar aquí el perspectivismo de Nietzsche, cuyos postulados acerca del atributo de aquella autonomía capacitada para otorgar al yo una potencia sin límites reafirma un mar de dudas sobre la dimensión de un yo que, normalmente, se encuentra subyugado a contextos normativos y/o legislativos preestablecidos. No obstante, para continuar considerando que la educación sigue siendo nuestra (esto es, que “pertenece” a la sociedad en la que se inserta), abogamos por un yo que remita a la realidad universal compartida por el resto (con sus consiguientes normas sociales, leyes, etc.), pero que también se alinee con un tipo de conciencia a través de la cual podamos auto aceptarnos como seres particulares.</p>
+         <p>Esta fundamentación permite concebir la condición del individuo como un actor capacitado para fracturar el hermetismo de ciertas normas y también de una parte de lo que es considerado como universal. Por eso cada persona es un ser particular, capaz no solo de moverse en los límites de las actualizaciones del orden establecido, sino también en aquellos marcos de actuación que, de una manera u otra, desestabilizan este orden (y que terminan produciendo cambios en las sociedades). Concretamos y reclamamos, pues, vínculos que anexionan la subjetividad de nuestros días con el ser humano autónomo, universal y, en cierta manera, desarbitrariedado.</p>
+         <p>
+            Así mismo, no podemos olvidar que empezar desde la toma de conciencia, en un mundo globalizado como el actual, implica tener en cuenta “una pluralidad de esferas diaspóricas que escapan, sea a la lógica territorial de las soberanías de los Estados-nación, ya sea al modo en el que la sociología ha entendido hasta ahora, a partir de Roland Robertson, el fenómeno del glo-cal (o de la glocalización)” (
+            <xref ref-type="bibr" rid="B11">Marramao 2011</xref>
+            :26).
+         </p>
+         <p>
+            En un mundo influenciado por las pretensiones de objetivación y por las múltiples planificaciones técnicas, el yo, a pesar de ser habitante de colectividades atomizadas, debe tener la potestad de consolidarse como un antídoto, adaptado a la segmentación de las formas de vida de cada contexto, aunque este contexto se encuentre condicionado por el consumismo y por las necesidades que dicta la (ciber)civilización tecnológica. Efectivamente, lo individual tiene la opción de ser reinterpretado como un intento por impulsar una autonomía que nos permita transitar de una forma analítica y activa en diferentes contextos; y esto debe poder producirse incluso si se trata de una concepción de lo individual que, en determinados momentos, necesite “esperar, padecer el destino de tener que cuidarse, construirse, esculpirse uno a sí mismo, compadecerse en esa tarea ineludible con los otros [puesto que] en ello se encuentra la más arraigada dimensión ética de la preeminencia (…) que nos habla de esta estética pedagógica del sí” (
+            <xref ref-type="bibr" rid="B6">Esteban 2011</xref>
+            :111), es decir, su inclusión en el paraguas de una educación sistematizada por una mirada pedagógica que no se entregue a la corriente globalizadora y que establezca principios de educación y de intervención para el control de la acción, de cada acción concreta.
+         </p>
+         <p>Entender y aceptar el yo como antídoto implica la pretensión de afrontar proyectos (cualquiera de ellos, el proyecto social esencial de ofrecer una educación de calidad, por ejemplo) en función de un determinado sentido del ser; al formar parte de un sustrato significativo del mundo, este ni se puede desarrollar desde el origen más remoto ni se puede limitar a los atributos de la globalidad, sino que cada acción y cada vivencia de la persona debe tener la posibilidad de erigirse en una vía de (auto)interpretación productiva del mundo en el que vive.</p>
+         <p>No estamos haciendo referencia a un yo ensalzado hacia la superación de una obsesión identitaria convertida en actitudes reactivas constituidas como contrapeso de la sociedad global, sino de un yo que complementa a cualquier tipo de fundamento, preparado para adentrarse en los procedimientos de definición del sujeto y para evitar distopias entre este sujeto y el mundo. Un yo con garantías que nos permitan afrontar los riesgos globales relacionados con la coyuntura que subyace entre el nuevo orden interestatal y la discriminación de gran parte de lo local.</p>
+         <p>
+            En realidad, es evidente que los correlatos de las distinciones funcionales que afectan al plano individual son siempre desplegados mediante procesos de individualización (Chillón.
+            <ext-link ext-link-type="uri" xlink:href="https://cintademoebio.uchile.cl/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fcintademoebio.uchile.cl%2Findex.php%2FCDM%2Farticle%2Fdownload%2F54192%2F56949%2F">Ser en el mundo sin ser en el mundo</ext-link>
+            ); la cuestión (y el reto) radica en nuestra capacidad para articular dicho proceso en las transformaciones de todo aquello que afecta al individuo y a su integración en unas sociedades que, cada vez más, tienden a una diferenciación mutua.
+         </p>
+         <p>
+            Una vez hemos llegado aquí, y recordando a Durkheim cuando afirmaba que “cuando la conciencia colectiva es fuerte, la conciencia individual es débil y a medida que se reblandece e indetermina la conciencia colectiva, se desencadena un proceso incipiente de fortalecimiento de la individualización” (
+            <xref ref-type="bibr" rid="B2">Beriain 2014</xref>
+            :37). Hay que reclamar una libertad existencial del yo como antídoto que sea, a la vez, su propio acantilado, una intersección situada al límite, pero en la que nada pueda interponerse en el intento por comprender al ser humano y en la pretensión por querer vivir en una sociedad que pueda aseverar que la educación sigue siendo suya.
+         </p>
+         <p>Y entonces, si el yo es, en su esencia, un acantilado, se puede constatar la hipótesis que apuntábamos en la introducción, pues la autofundamentación tiene la posibilidad de fijar unos confines, por eso, hoy, se hace tan necesario alcanzar, bajo la égida de las convenciones sociales, una convergencia entre educación y política que se sirva del yo como un elemento dinamizado y nervado por acciones humanas que transformen experiencia (propia y ajena) en evidencia; con ello, se podrá habilitar a las ciencias sociales y a la política para ensanchar los márgenes de la vida en dirección a una compleción que, ahora sí, pueda incluso tener un alcance universal. Hablamos, pues, de un yo capaz de habilitar el momento (cada momento) y de percibirlo no como un mecanismo exclusivo de creación de sentido, sino como un motor vivencial y una suma de afluentes que se sumen al vasto río de lo global, en definitiva.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Ascher, F.,  (2007).
+               <italic>Los nuevos principios del urbanismo</italic>
+               .  Madrid: Alianza
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ascher</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Los nuevos principios del urbanismo</source>
+               <publisher-name>Alianza</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Beriain, J. (2014).
+               <italic>Resacralizaciones y politeísmo moderno: la Lucha de los Dioses de Max Weber revisitada</italic>
+               . En Sánchez, C (coord.);El dinamismo de los valores. Creatividad en la sociedad moderna.  (23-52). Barcelona: Anthropos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Beriain</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Resacralizaciones y politeísmo moderno: la Lucha de los Dioses de Max Weber revisitada</chapter-title>
+               <year>2014</year>
+               <source>El dinamismo de los valores. Creatividad en la sociedad moderna</source>
+               <publisher-name>Anthropos</publisher-name>
+               <fpage>23</fpage>
+               <lpage>52</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Canto, R.(2018). "Malestares de guerra en tiempos de paz. El capital y su relación con el inconsciente".
+               <italic>Utopía y Praxis Latinoamericana.</italic>
+               (23), 159-170. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://produccioncientificaluz.org/index.php/utopia/article/view/23343">http://produccioncientificaluz.org/index.php/utopia/article/view/23343</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Canto</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Malestares de guerra en tiempos de paz. El capital y su relación con el inconsciente</article-title>
+               <source>Utopía y Praxis Latinoamericana</source>
+               <volume />
+               <issue>23</issue>
+               <fpage>159</fpage>
+               <lpage>170</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://produccioncientificaluz.org/index.php/utopia/article/view/23343">http://produccioncientificaluz.org/index.php/utopia/article/view/23343"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Dipaola, E.(2017). "Lazo social y globalización: las sociedades imaginales y un abordaje metodológico para su estudio".
+               <italic>Athenea Digital. 17</italic>
+               (1), 249-267. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/athenea.1843">https://doi.org/10.5565/rev/athenea.1843</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dipaola</surname>
+                     <given-names>E. M</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Lazo social y globalización: las sociedades imaginales y un abordaje metodológico para su estudio</article-title>
+               <source>Athenea Digital</source>
+               <volume>17</volume>
+               <issue>1</issue>
+               <fpage>249</fpage>
+               <lpage>267</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/athenea.1843">https://doi.org/10.5565/rev/athenea.1843"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Esteban, J.,  (2002).
+               <italic>Memoria, hermenéutica y educación</italic>
+               .  Madrid: Biblioteca Nueva
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Esteban</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Memoria, hermenéutica y educación</source>
+               <publisher-name>Biblioteca Nueva</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Esteban, J.,  (2011).
+               <italic>La condena hermenéutica. Ensayo sobre filosofía de la ambivalencia educativa</italic>
+               .  Barcelona: UOC
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Esteban</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <source>La condena hermenéutica. Ensayo sobre filosofía de la ambivalencia educativa</source>
+               <publisher-name>UOC</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Gomá, J.,  (2009).
+               <italic>Ejemplaridad pública</italic>
+               .  Madrid: Taurus Pensamiento
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gomá</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Ejemplaridad pública</source>
+               <publisher-name>Taurus Pensamiento</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Hall, C., Thomson, P., Russell, L.(2007). "Teaching like an artist: the pedagogic identities and practices of artists in schools".
+               <italic>British Journal of Sociology of Education. 28</italic>
+               (5), 605-619. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/01425690701505466">https://doi.org/10.1080/01425690701505466</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hall</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thomson</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Russell</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Teaching like an artist: the pedagogic identities and practices of artists in schools</article-title>
+               <source>British Journal of Sociology of Education</source>
+               <volume>28</volume>
+               <issue>5</issue>
+               <fpage>605</fpage>
+               <lpage>619</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/01425690701505466">https://doi.org/10.1080/01425690701505466"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Latapi, P.(2008). "¿Pueden los investigadores influir en la política educativa?".
+               <italic>Revista Electrónica de Investigación Educativa. 10</italic>
+               (1), 1-11. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://redie.uabc.mx/redie/article/view/187">https://redie.uabc.mx/redie/article/view/187</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Latapi</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>¿Pueden los investigadores influir en la política educativa?</article-title>
+               <source>Revista Electrónica de Investigación Educativa</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>11</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://redie.uabc.mx/redie/article/view/187">https://redie.uabc.mx/redie/article/view/187"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Luna, L.,  (2009).
+               <italic>La insuficiencia del discurso racional</italic>
+               .  Madrid: Biblioteca Nueva
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Luna</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>La insuficiencia del discurso racional</source>
+               <publisher-name>Biblioteca Nueva</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Marramao, G.,  (2011).
+               <italic>La pasión del presente. Breve léxico de la modernidad-mundo</italic>
+               .  Barcelona: Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Marramao</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <source>La pasión del presente. Breve léxico de la modernidad-mundo</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Mentado, T., Medina, J., Cruz, L.(2017). "Preparar para aprender: una manifestación del conocimiento didáctico del contenido en la práctica".
+               <italic>Estudios Sobre Educación. 33</italic>
+               , 27-48. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15581/004.33.27-48">https://doi.org/10.15581/004.33.27-48</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mentado</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Medina</surname>
+                     <given-names>J.L</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cruz</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Preparar para aprender: una manifestación del conocimiento didáctico del contenido en la práctica</article-title>
+               <source>Estudios Sobre Educación</source>
+               <volume>33</volume>
+               <issue />
+               <fpage>27</fpage>
+               <lpage>48</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15581/004.33.27-48">https://doi.org/10.15581/004.33.27-48"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Navarro Solano, M. (2017).
+               <italic>Impulsar una acción transformadora: educar para la democracia y el bien común</italic>
+               . En Núñez, L., Romero, C (coord.);Teoría de la educación, capacitar para la práctica.  (71-86). Madrid: Pirámide
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Navarro Solano</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Impulsar una acción transformadora: educar para la democracia y el bien común</chapter-title>
+               <year>2017</year>
+               <source>Teoría de la educación, capacitar para la práctica</source>
+               <publisher-name>Pirámide</publisher-name>
+               <fpage>71</fpage>
+               <lpage>86</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Rombach, H.,  (2004).
+               <italic>El hombre humanizado</italic>
+               .  Barcelona: Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rombach</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>El hombre humanizado</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Rombach, H.,  (2007).
+               <italic>El presente de la filosofía</italic>
+               .  Barcelona: Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rombach</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>El presente de la filosofía</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Rojas, D.(2018). "Diseño de una estrategia didáctica para la enseñanza y el aprendizaje de la realización cinematográfica".
+               <italic>KEPES. 15</italic>
+               (18), 11-44. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://190.15.17.25/kepes/downloads/Revista18_2.pdf">http://190.15.17.25/kepes/downloads/Revista18_2.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rojas</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Diseño de una estrategia didáctica para la enseñanza y el aprendizaje de la realización cinematográfica</article-title>
+               <source>KEPES</source>
+               <volume>15</volume>
+               <issue>18</issue>
+               <fpage>11</fpage>
+               <lpage>44</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://190.15.17.25/kepes/downloads/Revista18_2.pdf">http://190.15.17.25/kepes/downloads/Revista18_2.pdf"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Rose, N.,  (1996).
+               <italic>Inventing ourselves: psychology, power and personhood</italic>
+               .  Cambridge: Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rose</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>Inventing ourselves: psychology, power and personhood</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Sierra, J., Caparrós, E., Vila, E., Martín, V.(2017). "Hacia una ciudadanía democrática e intercultural. Apuntes para la formación del profesorado".
+               <italic>Publicaciones. 47</italic>
+               (53), 37. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://revistaseug.ugr.es/index.php/publicaciones/article/view/7196">http://revistaseug.ugr.es/index.php/publicaciones/article/view/7196</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sierra</surname>
+                     <given-names>J.E</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Caparrós</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vila</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Martín</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Hacia una ciudadanía democrática e intercultural. Apuntes para la formación del profesorado</article-title>
+               <source>Publicaciones</source>
+               <volume>47</volume>
+               <issue>53</issue>
+               <fpage>37</fpage>
+               <lpage />
+               <ext-link ext-link-type="uri" xlink:href="http://revistaseug.ugr.es/index.php/publicaciones/article/view/7196">http://revistaseug.ugr.es/index.php/publicaciones/article/view/7196"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Tarabini, A.(2013). "Els efectes de la globalització en la recerca educativa: reflexions a partir de l’agenda educativa global.".
+               <italic>Papers. 98</italic>
+               (2), 405-426. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/papers/v98n2.452">https://doi.org/10.5565/rev/papers/v98n2.452</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tarabini</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Els efectes de la globalització en la recerca educativa: reflexions a partir de l’agenda educativa global.</article-title>
+               <source>Papers</source>
+               <volume>98</volume>
+               <issue>2</issue>
+               <fpage>405</fpage>
+               <lpage>426</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5565/rev/papers/v98n2.452">https://doi.org/10.5565/rev/papers/v98n2.452"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Touriñán, J.(2014). "Dónde está la educación: definir retos y comprender estrategias".
+               <italic>Revista de Investigación en Educación. 12</italic>
+               (1), 6-31. 
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Touriñán</surname>
+                     <given-names>J. M</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Dónde está la educación: definir retos y comprender estrategias</article-title>
+               <source>Revista de Investigación en Educación</source>
+               <volume>12</volume>
+               <issue>1</issue>
+               <fpage>6</fpage>
+               <lpage>31</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Vázquez, F.,  (2006).
+               <italic>Tras la autoestima</italic>
+               .  San Sebastián: ercera Prensa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vázquez</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Tras la autoestima</source>
+               <publisher-name>ercera Prensa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Zufiaurre, B., Hamilton, D.,  (2015).
+               <italic>Cerrando círculos en educación</italic>
+               .  Madrid: Morata
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zufiaurre</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hamilton</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Cerrando círculos en educación</source>
+               <publisher-name>Morata</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

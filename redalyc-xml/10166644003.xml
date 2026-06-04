@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <issn pub-type="ppub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00003</article-id>
+         <article-id pub-id-type="doi">https://doi.org/10.4067/S0717-554X2021000100034</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Un enfoque de similaridad para los modelos económicos</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>An account of similarity for economic models</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-9997-3720</contrib-id>
+               <name>
+                  <surname>Ivarola</surname>
+                  <given-names>Leonardo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">CONICET, Buenos Aires</institution>
+            <institution content-type="normalized">CONICET</institution>
+            <institution content-type="orgname">CONICET</institution>
+            <country country="AR">Argentina</country>
+            <email>ivarola@economicas.uba.ar</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>70</issue>
+         <fpage>34</fpage>
+         <lpage>43</lpage>
+         <history>
+            <date date-type="received">
+               <day>07</day>
+               <month>10</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>13</day>
+               <month>12</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>En el presente trabajo se argumenta que las diferencias entre los modelos económicos son básicamente diferencias en su parte seleccionada del mundo real que estos modelos intentan representar. Por lo tanto, lo que resulta importante es su rango de aplicabilidad a un sistema objetivo particular. A este respecto, se proporciona un enfoque basado en la similaridad de los modelos con un sistema objetivo y con los propósitos de los modeladores. También se argumenta que los modelos varían en valores de similaridad. Estos valores ayudarán a los agentes a seleccionar el modelo que mejor cumpla la función de examinar algún fenómeno de interés.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>In the present paper it is argued that differences among economic models are basically differences in their selected part of the real world these models try to account for. Therefore, what turns to be important is their range of applicability to a particular target system. In this respect, an approach based on the similarity of models to a target system and to the modelers’ purposes is provided. It is also argued that models vary in values of similarity. These values will help agents to select the model that best meets the role of examining some phenomenon of interest.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>similaridad</kwd>
+            <kwd>modelos económicos</kwd>
+            <kwd>mecanismos potenciales</kwd>
+            <kwd>árbol posibilidades</kwd>
+            <kwd>realismo</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>similarity</kwd>
+            <kwd>economic models</kwd>
+            <kwd>mechanisms</kwd>
+            <kwd>possibility tree</kwd>
+            <kwd>realism</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="4" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="2" />
+            <page-count count="10" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>La construcción de modelos es, en economía, un aspecto fundamental de la investigación científica. Numerosos enfoques epistemológicos han intentado -aunque desafortunadamente sin un consenso aun- conceptualizar tanto la naturaleza de estos modelos como el tipo de conocimiento que los mismos proporcionan para propósitos de intervención, explicación o predicción. Modelos como “aislamientos”, “máquinas nomológicas”, “artefactos”, “mundos ficcionales”, “sistemas análogos”, “caricaturas”, “exploraciones conceptuales”, “mediadores” y tantos otros son enfoques epistémicos que, en mayor o menor medida, han pretendido comprender qué hacen los economistas cuando construyen sus modelos.</p>
+         <p>Ahora bien, más allá de cuál sea esta conceptualización, hay un problema de validez externa que es intrínseco a los modelos económicos. Cartwright (The Dappled World) ya ha alertado sobre esta problemática. Precisamente, la autora sostiene que, a diferencia de algunas disciplinas como la física, la economía carece de principios suficientemente robustos y universales como para inferir resultados. Como consecuencia de ello, los economistas necesitan introducir un número importante de supuestos “estructurales”. El problema de ello estriba en que las afirmaciones que se deriven de dichos modelos estarán fuertemente condicionadas por esa estructura impuesta de antemano. Se gana en validez interna, pero en detrimento de validez externa.</p>
+         <p>Más recientemente, Rodrik (Economics Rules) ha argumentado que las grandes teorías -al estilo de las desarrolladas por economistas como Smith o Marx- han quedado atrás, y que hoy en día parece más meritorio teorizar a menor escala. Diferentes configuraciones socioeconómicas requieren de diferentes modelos. De este modo, es más útil pensar a los modelos como uno entre muchos modelos posibles, que considerar a cualquiera de ellos como el modelo, entendido éste como un omnipresente que abarca la totalidad del entendimiento humano en el reino de lo económico.</p>
+         <p>Una posición análoga a las dos anteriores es defendida en el presente trabajo. Como idea general, se argumenta que los llamados mecanismos económicos no son universales, sino “potenciales” o “posibles”, y que los modelos que representan estos mecanismos son solo un modelo dentro de una biblioteca de modelos posibles, y no el modelo al que uno debe remitirse cada vez que intenta comprender la realidad socioeconómica. El fundamento epistémico que subyace a esta postura estriba en que el comportamiento de un mecanismo económico depende, inexorablemente, de un conjunto de condiciones que se deben cumplir, donde, a la postre, cualquier cambio en estas condiciones puede hacer que dicho mecanismo deje de funcionar o mute hacia un mecanismo alternativo. Se argumenta que la información acerca de estas condiciones es proporcionada por un determinado tipo de supuestos, a los que por ahora referiremos como “sustantivos”.</p>
+         <p>Si esto es cierto, entonces los modelos deberían entenderse en relación con su rango de aplicabilidad. No es que los supuestos de competencia perfecta, pleno empleo o inmovilidad de factores entre países sean necesariamente "falsos" o "irreales", sino que su ámbito de aplicabilidad no es congruente con lo que sucede en el mundo real cotidiano. Sin embargo, no significa que alguna economía o mercado, por excepcional que sea, trabaje muy cerca del pleno empleo o de la competencia perfecta. Por esta razón, parece más apropiado pensar a los modelos según su nivel de similaridad con la parte seleccionada del mundo sobre la cual se espera que los modeladores digan algo. Esta similaridad dependerá no solo de las características del sistema objetivo, sino también de los propósitos de los modeladores.</p>
+         <p>El artículo se articula de la siguiente manera. En la siguiente sección se presentará, a modo de ejemplo, un conjunto de modelos de comercio internacional, comenzando por el modelo neoclásico, para luego ir a escenarios alternativos. Se mostrará que las condiciones que deben cumplirse para su correcto funcionamiento, así como los mecanismos alternativos que pueden surgir mientras no se cumplan algunas de estas condiciones, son un elemento clave para la derivación de diferentes resultados. Luego se aseverará que, por lo general, existen varios modelos posibles para un mismo sistema objetivo. Esto se debe al hecho de que, en el reino de lo económico, prevalecen los "árboles de posibilidades" o "resultados abiertos": existe una multiplicidad de cursos de acción o caminos alternativos que se pueden seguir -en términos de posibilidad- luego de activar un factor causal particular. Posteriormente, se examinarán los diferentes tipos de supuestos utilizados en la modelización económica. Se argumentará que los supuestos sustantivos son cruciales para determinar qué caminos de un árbol de posibilidades puede seguir un proceso económico. En la última sección se mostrará que la discusión sobre la relación entre los modelos económicos y la forma en que brindan información sobre el mundo real está más relacionada con su posibilidad de ser aplicable a diferentes escenarios del mundo real, que con una cuestión de verosimilitud o veracidad. En este sentido, la similaridad entre los modelos y el sistema objetivo es clave, ya que es dicha similaridad la que permite a los agentes/modeladores seleccionar, de un menú de modelos posibles, aquél o aquellos que mejor cumplan un propósito particular.</p>
+      </sec>
+      <sec>
+         <title>A modo de ejemplo: los modelos de comercio internacional</title>
+         <p>El propósito de la presente sección no es otro que el de proporcionar un ejemplo acerca de cómo los modelos económicos no hacen afirmaciones universales, sino acotadas a un rango de aplicabilidad. Y para ello voy a tomar como caso algunos modelos de economía internacional.</p>
+         <p>El primero de ellos es el modelo neoclásico. Una de las derivaciones más importantes de este modelo es la afirmación de que cualquier país se beneficia cuando pasa de una situación de autarquía a otra de apertura comercial con otros países. No importa si el país es pequeño o grande, si se especializa en productos primarios o en manufacturas. Todos se benefician gracias al principio ricardiano de ventajas comparativas.</p>
+         <p>Uno podría preguntarse si el hecho de que cualquier país se beneficia cuando se incorpora al comercio internacional es algo universal e inmutable, o solo es algo que emerge luego de hacer algunas suposiciones. Samuelson, en una conversación con el matemático Stanislaw Ulam, le mostró que el principio de ventajas comparativas era tanto verdadero como no trivial.</p>
+         <p>Ahora bien, es justamente esta idea de “verdad” como “universalidad” lo que se va a poner en tela de juicio. Específicamente hablando, el modelo neoclásico de comercio internacional ratifica el principio de ventajas comparativas; empero, para llegar a ello, hay que hacer una serie de suposiciones, a saber:</p>
+         <p>Hay solo dos países.</p>
+         <p>Cada uno de ellos produce y consume dos bienes (x e y).</p>
+         <p>El consumidor busca maximizar su utilidad.</p>
+         <p>Los trabajadores y las empresas buscan maximizar el rendimiento de su actividad productiva.</p>
+         <p>El mercado es de competencia perfecta.</p>
+         <p>No existen costos de transporte ni barreras oficiales al comercio.</p>
+         <p>Los países tienen distintos tiempos de trabajo relativos, y, por consiguiente, distintos precios relativos.</p>
+         <p>Existe movilidad de factores dentro del país.</p>
+         <p>No existe movilidad de factores entre países.</p>
+         <p>Entonces, uno podría preguntarse “¿qué pasaría si las cosas fueran diferentes?”, esto es, que pasaría si alguno de estos supuestos no se cumpliese. Y esto, inexorablemente, nos conduce a otros senderos causales.</p>
+         <p>Para mostrar esto, consideremos en primer lugar el modelo de economía internacional de Prebisch-Singer. Este modelo presupone un mundo con dos clases de países: los países desarrollados (PD) que se especializan en la producción de manufacturas- y los países subdesarrollados (PSD) que se especializan en la producción de materias primas.</p>
+         <p>De acuerdo con las observaciones de Prebisch, el avance tecnológico y el consecuente aumento de salarios en los PD provoca un aumento de precios en dichos países, mecanismo que no se da en los PSD, cuyo desarrollo tecnológico es sustancialmente menor. El resultado de ello es un deterioro secular de los términos del intercambio, afectando así a los países que se especializan en materias primas.</p>
+         <p>Así, si hay un solo periodo (modelo estático), o si los términos del intercambio no cambian a través del tiempo, entonces prevalecerá el principio de ventajas comparativas; esto es, el consumo y la producción será mayor en comparación con una situación de autarquía. Pero si los términos del intercambio se deterioran, entonces al PSD le convendrá iniciar un proceso de sustitución de importaciones, ya que su frontera de posibilidades de consumo se hará cada vez más pequeña. El mecanismo inicial solo se ve alterado en uno de sus supuestos; empero el camino causal que se toma cambia sustancialmente.</p>
+         <p>Consideremos ahora el modelo de intercambio desigual de Emmanuel. Emmanuel levanta el supuesto de inmovilidad de capitales, argumentando que el mismo no es realista en tiempos modernos (posiblemente era más realista a principios de siglo XIX, cuando se formuló inicialmente la teoría de ventajas comparativas). El movimiento de capitales va desde los PD (con mejores salarios) a los PSD (con salarios más bajos). La idea detrás de esto es que, en los PSD, las empresas van a obtener una rentabilidad mayor. Peor aún, a fin de ganar terreno en el mercado de los PSD, los inversionistas extranjeros van a ofrecer sus bienes a precios más bajos que sus competidores locales. En el mercado internacional esto va a significar un deterioro de los términos del intercambio. Como se puede apreciar, las conclusiones son, en alguna medida, parecidas al modelo de Prebisch. Sin embargo, el camino causal es diferente, ya que es otro el supuesto modificado.</p>
+         <p>Finalmente, Anwar Shaikh cuestiona el principio mismo de ventajas comparativas. De acuerdo con este autor, tanto el modelo neoclásico como el propio modelo de Ricardo presuponen la teoría cuantitativa del dinero. En caso de que rigiera esta última, el ajuste en las variables monetarias permitiría que las ventajas absolutas que un país tiene sobre otro se transformen en ventajas comparativas. Sin embargo, Shaikh propone reemplazar esta teoría por la “ley del dinero de Marx”. Según esta ley, los excesos o deficiencias de dinero involucran cambios en las reservas de los bancos y, por consiguiente, en las tasas de interés.</p>
+         <p>Así, si el PSD tuviera un déficit en la balanza comercial, las reservas disminuirían, la tasa de interés aumentaría y por consiguiente la inversión caería; efecto que se vería acrecentado por la disminución en la producción local, que ocurre como consecuencia de las desventajas absolutas: es más barato importar un bien que producirlo uno mismo. Bajo escenarios como estos, el libre comercio solo produciría beneficios para el PD, pero en detrimento del PSD, el cual incurriría en un déficit y estancamiento crónicos. Una vez más, lo que se hizo fue cambiar un supuesto; y esto inició un mecanismo o sendero causal completamente diferente.</p>
+      </sec>
+      <sec>
+         <title>Los fenómenos económicos y la lógica de árboles de posibilidades</title>
+         <p>El apartado anterior permite ilustrar la idea de que los mecanismos económicos, lejos de tratarse de factores que funcionan universalmente o bajo una amplísima variedad de condiciones, refieren a contribuciones causales cuya manifestación en el mundo real depende de un conjunto de condiciones que se tienen que cumplir de antemano. Esto es tan así, que cualquier cambio en estas condiciones provocará una desviación en el resultado esperado: si se elimina el supuesto de no movilidad de factores entre países, o si se reemplaza la teoría cuantitativa del dinero por la teoría del dinero de Marx, o si los términos del intercambio se deterioran con el tiempo, entonces el mecanismo de ventajas comparativas no tendrá lugar (con el agregado de que los beneficios obtenidos por uno de los países será detrimental a los otros).</p>
+         <p>Esto nos hace pensar que las contribuciones causales económicas no tienen una relación lineal entre las condiciones iniciales y las finales, o entre las variables independientes y las dependientes. Al contrario, responden a la lógica de lo que he denominado “árbol de posibilidades” o “resultados de final abiertos”.</p>
+         <p>La noción de "árbol de posibilidades" refiere a la existencia de una multiplicidad de cursos de acción o caminos alternativos que se siguen -en términos de posibilidad- después de activar un factor causal particular. Sea X el factor causal que se dispara, y sea Y lo que se sigue de X. La noción de árbol de posibilidades significa que Y no es un fenómeno o evento dado, sino que equivale a un conjunto de eventos posibles Ya, Yb, ..., Yn, donde cualquiera de ellos puede continuar una vez que X se haya activado. Por ejemplo, si la autoridad gubernamental decide aumentar la oferta monetaria, los efectos potenciales son un aumento en la demanda de bonos, o un aumento en el nivel general de precios de bienes y servicios, o un mayor atesoramiento. Al correr tras un animal, existe la posibilidad de que este escape, aunque también es posible que decida atacarnos o quedarse paralizado. Al salir del estado de autarquía, una nación puede verse beneficiada o dañada. Todo depende de qué factores entren en juego en un momento determinado y cómo acaben interactuando.</p>
+         <p>En términos generales, el hecho de que una variable dependiente pueda tomar más de un valor depende, en gran medida, de las actividades que realizan las personas, así como también de la estructura subyacente del sistema objetivo.</p>
+         <p>Empecemos con el caso de las actividades de las personas. Éstas no surgen de la nada, sino que son un complejo de señales interpretadas, expectativas formadas, preferencias subjetivas y cambiantes a lo largo del tiempo, etc. En el modelo neoclásico, por ejemplo, los agentes pueden incrementar su preferencia relativa por un bien, y esta modificación alterará inicialmente la estructura de precios relativos, para luego transformar las relaciones de intercambio con otros países. Las expectativas son también cruciales en el curso causal de un árbol de posibilidades. Numerosas crisis financieras han surgido por la pérdida de confianza en algunos activos financieros, o con la creencia de que el valor de estos podría caer en un futuro cercano. Las profecías auto-cumplidas son un arma letal: el rumor acerca de la posible quiebra de un banco puede hacer que este mismo colapse.</p>
+         <p>Ahora bien, el correcto funcionamiento del mecanismo de ventajas comparativas depende no solo de las actividades de las personas, sino también y, sobre todo, de una estructura que subyace a dichas actividades. En los sistemas socioeconómicos coexisten una miríada de condiciones de fondo, como instituciones, valores nominales y reales de variables micro y macroeconómicas, normas sociales y culturales, etc. Algunos de ellos favorecen la aparición de regularidades económicas. Cartwright afirma que muchas de estas regularidades existen porque hay una máquina nomológica que las soporta. Una máquina nomológica es “una disposición fija (suficiente) de componentes, o factores, con capacidades (suficientemente) estables que, en el tipo correcto de entorno (suficientemente) estable, con operaciones repetidas, darán lugar al tipo de comportamiento regular que representamos en nuestras leyes científicas" (Cartwright 1999:50).</p>
+         <p>Sin embargo, también existen factores que pueden perturbar el buen funcionamiento de la máquina nomológica. Cuando esto ocurra, la regularidad económica resultante se interrumpirá. Cartwright y Efstathiou (Hunting causes and using them) llaman a esto el problema de los "facilitadores inestables". La noción de "facilitadores inestables" está relacionada con el hecho de que la contribución de un factor causal puede verse perturbada por cambios en las condiciones de fondo. En este sentido, el mecanismo de ventajas comparativas puede entenderse como una máquina nomológica que funciona según una estructura en la que los términos de intercambio no se deterioran con el tiempo, donde no hay movilidad de factores entre países, donde los precios relativos de los países son diferentes, etc. Sin embargo, cualquier cambio en su estructura subyacente romperá el mecanismo de ventajas comparativas. Esto es análogo a decir que el curso causal que venía teniendo lugar cambiará hacia otra “rama” del árbol de posibilidades.</p>
+      </sec>
+      <sec>
+         <title>Cerrando el árbol de posibilidades: el rol de los supuestos en los modelos económicos</title>
+         <p>Si interpretamos al modelo neoclásico (como a cualquiera de los otros modelos) como una máquina nomológica, entonces los supuestos de cada uno de ellos podrían entenderse como condiciones que deben cumplirse a fin de ensamblar la máquina o mecanismo correspondiente para su correcto funcionamiento. Si esto es cierto, entonces los supuestos del modelo que permiten este ensamblaje no serían otra cosa que afirmaciones que cumplen el rol de cerrar los caminos alternativos de un árbol de posibilidades. Dichos cierres son necesarios para que un proceso o fenómeno económico no se desvíe ni se interrumpa, sino que se dirija hacia un resultado particular.</p>
+         <p>Se dijo anteriormente que, una vez que se activa X, puede ocurrir Ya, Yb,...,Yn. Para que un fenómeno específico (v. gr.,Ya) se siga de X, un conjunto de condiciones adicionales “C” deberían de cumplirse. Supongamos que X representa la apertura de un país al comercio internacional, Ya los beneficios de tal apertura e Yb las pérdidas. Si un conjunto de condiciones C es cumplido de antemano, entonces se alcanzará Ya. En contraste, si las condiciones prevalecientes son distintas a C, tal que se puedan representar por un conjunto C*, entonces lo que se obtendrá es Yb, esto es:</p>
+         <p>
+            <xref ref-type="fig" rid="f1">Figura 1</xref>
+         </p>
+         <p>dónde "." y "→" representan los conectores lógicos "conjunción" y "condicional", respectivamente. Es muy importante conocer el contenido de los conjuntos de condiciones C y C*, ya que estos son los que especifican el camino que debe seguir un proceso causal. Por ejemplo, se podrían proponer los siguientes conjuntos:</p>
+         <p>Conjunto C</p>
+         <p>Los precios relativos de autarquía son diferentes de los precios internacionales.</p>
+         <p>Los países se especializan en la mercancía relativamente más barata.</p>
+         <p>Hay movilidad de factores dentro de los países, pero no entre ellos.</p>
+         <p>Existe un mercado de competencia perfecta.</p>
+         <p>Prevalece la teoría cuantitativa del dinero.</p>
+         <p>Los términos del intercambio son constantes en el tiempo.</p>
+         <p>Conjunto C*</p>
+         <p>Los precios relativos de autarquía son diferentes de los precios internacionales.</p>
+         <p>Los países se especializan en la mercancía relativamente más barata.</p>
+         <p>Hay movilidad de factores dentro de los países, pero no entre ellos.</p>
+         <p>Existe un mercado de competencia perfecta.</p>
+         <p>Prevalece la teoría cuantitativa del dinero.</p>
+         <p>Los términos del intercambio son decrecientes intertemporalmente.</p>
+         <p>Nótese que la única diferencia entre C y C* es la evolución de los términos del intercambio. Sin embargo, esto es suficiente para que un país comience a experimentar pérdidas en el mediano plazo. En general, los modelos de comercio internacional mencionados en la sección 2 son diferentes porque sus estructuras subyacentes son diferentes. Y estas estructuras son diferentes precisamente porque los supuestos de cada uno de estos modelos (que subyacen a sus respectivas estructuras) son diferentes.</p>
+         <p>Los supuestos de los modelos económicos son clave, ya que son estos los que determinan qué camino de un árbol de posibilidades tomará un proceso causal. En otras palabras, los modeladores económicos introducen supuestos para cerrar caminos alternativos de un árbol de posibilidades.</p>
+         <p>Sin embargo, no todos los supuestos del modelo cumplen la misma función. Por ejemplo, sería absurdo que el supuesto de curvas de indiferencia diferenciables en cada punto se tomara como condición a cumplir en un sistema objetivo. Dado que en la mayoría de los modelos económicos sus resultados se obtienen mediante una cadena previa de razonamientos deductivos, es plausible que muchos supuestos del modelo simplemente cumplan el papel heurístico de simplificar o facilitar dicho razonamiento.</p>
+         <p>En este marco, Kuorikoski y Lehtinen han examinado diferentes tipos de supuestos según el papel que desempeñan en los modelos económicos. Básicamente, distinguen entre supuestos sustantivos y auxiliares. Los supuestos sustantivos “se refieren a aspectos del mecanismo causal central del modelo sobre los cuales se intenta hacer afirmaciones importantes. Suelen ser supuestos que, se espera, tengan algún grado de mérito empírico, es decir, se cree que son más o menos ciertos en los sistemas sobre los que se espera que el modelo arroje algo de luz” (Kuorikoski y Lehtinen 2009:126). Los supuestos auxiliares, por otro lado, juegan un papel heurístico o de tratabilidad “son necesarios para hacer factibles las inferencias desde los supuestos sustantivos hacia las conclusiones” (Kuorikoski y Lehtinen 2009:126). Cuando en el modelo neoclásico se afirma que solo hay dos países o dos bienes, queda claro que se introducen con el único propósito de ganar tratabilidad: nadie esperaría encontrar un mundo donde solo existan dos bienes y dos países. Al contrario, lo que se espera es que el número de países o mercancías no afecte al resultado final. De hecho, modelos alternativos como los de Shaikh o Prebisch también asumen dos países y dos bienes. Dado que solo cumplen un rol de tratabilidad en el modelo, son claramente supuestos auxiliares. Sin embargo, cuando se afirma que los términos del intercambio son estables intertemporalmente, o que la teoría cuantitativa del dinero es lo que prevalece, se está hablando de supuestos sustantivos, ya que se incluyen con el propósito de tomar un camino particular en un árbol de posibilidades. El camino lógico causal de un mecanismo económico no debería cambiar (al menos sustancialmente) si se piensa que hay dos o más países, o si se utiliza el cálculo diferencial en lugar de una matemática más compleja. Pero sí se puede ver que, en la propia lógica de un árbol de posibilidades, hay afirmaciones que establecen una demarcación en el camino causal de un proceso económico.</p>
+         <p>Así, los supuestos económicos cumplen diferentes roles. Los supuestos auxiliares cumplen el rol de facilitar la tratabilidad o inferencia de resultados; los supuestos sustantivos, el papel de cerrar árboles de posibilidades. Queda una cuestión asociada con la forma en que los modelos económicos dicen algo sobre el mundo real. Esta pregunta se intentará responder en la siguiente sección, donde se incorporará un enfoque basado en la idea de “similaridad”.</p>
+         <p>
+            <fig id="f1">
+               <label>Figura 1</label>
+               <caption>
+                  <title>Figura 1</title>
+               </caption>
+               <graphic xlink:href="fig1.png" />
+               <attrib />
+            </fig>
+         </p>
+      </sec>
+      <sec>
+         <title>Similaridad</title>
+         <p>Puesto que los modelos con diferentes supuestos sustantivos refieren a diferentes nodos de un árbol de posibilidades, entonces estos representan diferentes escenarios. Si esto es cierto, entonces la discusión sobre la relación entre los modelos económicos y el modo en que brindan información sobre el mundo real no debería pensarse en términos de verosimilitud o veracidad, sino en su posibilidad de ser aplicables a diferentes escenarios del mundo real. En este sentido, en la presente sección se argumentará que el nivel de similaridad entre los modelos y la parte seleccionada del mundo de la que se espera aprender algo es crucial, ya que es esta similaridad la que permitirá a los agentes/modeladores seleccionar, de un menú de modelos, aquellos que mejor cumplan un propósito particular.</p>
+         <p>Sea entonces A un agente que usa un modelo M con el propósito P de aprender algo sobre una parte seleccionada del mundo real o sistema objetivo T. Esto significa que A no aprende examinando directamente a T, sino indirectamente examinando a M. Para que esto suceda, Mäki (Missing the world) dice que se debe lograr cierto grado de semejanza (o similaridad) entre M y T. El problema es que hay un menú de modelos posibles para T. ¿Cuál de ellos debería elegir el agente?</p>
+         <p>Una opción es confiar en la capacidad predictiva y/o explicativa de los modelos. Supongamos dos modelos M1 y M2 de los que se espera que den cuenta de un sistema objetivo T. De acuerdo con esta premisa, A elegiría el modelo que proporciona las predicciones más precisas, es decir, el modelo cuyas implicaciones estén más cerca de la realidad. Sin embargo, un modelo que proporciona las predicciones más precisas solo nos brinda información sobre hechos que han sucedido en el pasado, por lo que no tenemos base para esperar que esto continúe siendo válido en el futuro.</p>
+         <p>Esta situación está asociada no solo con el típico problema epistémico de hacer inferencias inductivas, sino también con la cuestión ontológica de que lo que prevalece en el ámbito de la economía no son causas estables, sino árboles de posibilidades. En otras palabras, es posible que un modelo M1 haya proporcionado mejores predicciones que M2. Pero esto no se debe a que M1 sea necesariamente "mejor" que M2, sino a que su rango de aplicabilidad ha sido más consistente con lo que ha sucedido hasta ahora en el mundo real.</p>
+         <p>Esto nos lleva a pensar en una segunda opción: no elegir a los modelos según su precisión predictiva, sino según su similaridad con la parte seleccionada del mundo de la que se espera aprender algo. Esta similaridad debe entenderse en términos comparativos con respecto a las estructuras que subyacen tanto a T como al menú de modelos. Siguiendo a Weisberg (Simulation and similarity), un modelo M y un sistema objetivo T son similares, bien cuando las variables y/o supuestos que los describen tienen valores cercanos, o bien cuando los atributos que comparten son mayores que los atributos que no comparten. Cuanto menor sea la distancia entre estos valores (o mayor sea la diferencia entre los atributos compartidos y no compartidos), mayor será el grado de similaridad.</p>
+         <p>Sea EMi la estructura de un modelo Mi. De acuerdo con lo que se ha afirmado más arriba, cada EMi no estaría conformada por el total de supuestos de cada modelo Mi, sino solo por sus supuestos sustantivos. Así, sea EMi un conjunto tal que EMi = {B1, B2, ..., Bl}, donde cada uno de los B-tuplas es un supuesto sustantivo del modelo i.</p>
+         <p>Asimismo, dado un conjunto de modelos C = {M1, M2, ..., Mn}, la tarea de A es encontrar un modelo M* que maximice la semejanza o similaridad con respecto a T.</p>
+         <p>Para llevar a cabo esta tarea, A recurrirá a los diferentes modelos y los comparará con T. Según Weisberg, la similaridad entre dos objetos depende tanto de las cosas que comparten como de las cosas que no comparten. Definamos Δ como el "conjunto de características". Las características contenidas en Δ pueden ser cuantitativas o cualitativas. Sean también mi y t los conjuntos de características en Δ que posee un modelo Mi y un sistema objetivo T, respectivamente. Siguiendo a Weisberg, la similaridad entre un modelo Mi y T puede expresarse mediante la siguiente ecuación:</p>
+         <p>
+            <xref ref-type="fig" rid="f2">Figura 2</xref>
+            (1)
+         </p>
+         <p>donde Si (Mi, T) representa el valor de similaridad de un modelo Mi con respecto a T, f (•) es una función de ponderación, y α, β y θ son ponderadores.</p>
+         <p>La función (1) enuncia que la similaridad entre Mi y T es una función de las características que comparten (θf (mi ∩t)), menos las características que no comparten (αf (mi - t) y βf (t - mi) ).</p>
+         <p>Ahora bien, las características de los modelos que resultan ser importantes para nuestro análisis solo están relacionadas con los supuestos sustantivos de estos, es decir, mi = Emi</p>
+         <p>por tanto,</p>
+         <p>
+            Si
+            <xref ref-type="fig" rid="f3">Figura 3</xref>
+            (2)
+         </p>
+         <p>El objetivo de A consiste en maximizar la similaridad entre Mi y T. Para ello, sea H un conjunto por el cual sus elementos son todos los valores de similaridad dados por cada una de las funciones (1), es decir, H = {S1 , S2, ..., Sn}, donde la tupla S representa el valor de similaridad de cada modelo en relación con T. Además, sea g una función que selecciona el elemento de H con valor máximo. Entonces podemos enunciar la siguiente ecuación:</p>
+         <p>
+            <xref ref-type="fig" rid="f4">Figura 4</xref>
+            (3)
+         </p>
+         <p>Por tanto, si A decidiese cambiar un supuesto auxiliar, dicha decisión no debería modificar el valor de similaridad. Sin embargo, este valor sí cambiará en tanto se modifique alguna suposición sustancial. Por ejemplo, si el supuesto de competencia perfecta es reemplazado por el supuesto de monopolio o de competencia imperfecta, o si se elimina el supuesto de no movilidad de factores entre países, o la teoría cuantitativa monetaria es reemplazada por otra, entonces es esperable que se encuentren diferentes niveles de similaridad.</p>
+         <p>Por último, aunque no menos importante, debemos decir que los diferentes valores de similaridad que un modelo tenga respecto de un sistema objetivo también dependen de los propósitos de los agentes. En el conocido modelo de segregación racial de Schelling, un tablero de ajedrez con fichas esparcidas en el mismo podría maximizar la similaridad con respecto a una ciudad en particular. Todo depende de lo que A espera representar. Si A solo quiere mostrar cómo se forman los guetos de forma dinámica, es probable que el nivel de similaridad sea lo suficientemente alto. Pero no va a ser así si A quiere explicar cómo se ha producido la segregación en ciudades concretas como Buenos Aires o Río de Janeiro, donde entran en juego factores tanto culturales como institucionales.</p>
+         <p>
+            <fig id="f2">
+               <label>Figura 2</label>
+               <caption>
+                  <title>Figura 2</title>
+               </caption>
+               <graphic xlink:href="fig2.png" />
+            </fig>
+         </p>
+         <p>
+            <fig id="f3">
+               <label>Figura 3</label>
+               <caption>
+                  <title>Figura 3</title>
+               </caption>
+               <graphic xlink:href="fig3.png" />
+            </fig>
+         </p>
+         <p>
+            <fig id="f4">
+               <label>Figura 4</label>
+               <caption>
+                  <title>Figura 4</title>
+               </caption>
+               <graphic xlink:href="fig4.png" />
+            </fig>
+         </p>
+      </sec>
+      <sec>
+         <title>Consideraciones finales</title>
+         <p>En el presente trabajo se ha intentado defender la idea de que los conocidos mecanismos económicos (representados a través de modelos) no refieren a contribuciones causales universales, sino tan solo a contribuciones posibles. Cada uno de estos mecanismos representa una ruta diferente en un "árbol de posibilidades", donde por árbol de posibilidades se entiende al conjunto de eventos posibles que se pueden seguir una vez que un factor causal se ponga en marcha.</p>
+         <p>En tanto representación de un mecanismo posible o potencial, un modelo solo nos dice qué sucedería si se cumplieran algunas circunstancias particulares. Estas circunstancias deben compararse con las características del sistema objetivo. Para que esta comparación sea viable, se ha utilizado el enfoque de similaridad propuesto por Weisberg. Específicamente, se ha argumentado que un modelo puede ser más o menos similar a un sistema objetivo; todo depende de qué parte seleccionada del mundo se espera examinar, así como también de cuáles son los propósitos del modelador.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Cartwright, N.,  (1999).
+               <italic>The dappled world</italic>
+               . : Cambridge University Press Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/CBO9781139167093">https://doi.org/10.1017/CBO9781139167093</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cartwright</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <source>The dappled world</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/CBO9781139167093">https://doi.org/10.1017/CBO9781139167093"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Kuorikoski, J., Lehtinen, A.(2009). "Incredible worlds, credible results".
+               <italic>Erkenntnis. 70</italic>
+               (1), 119-131. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10670-008-9140-z">https://doi.org/10.1007/s10670-008-9140-z</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kuorikoski</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lehtinen</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Incredible worlds, credible results</article-title>
+               <source>Erkenntnis</source>
+               <volume>70</volume>
+               <issue>1</issue>
+               <fpage>119</fpage>
+               <lpage>131</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10670-008-9140-z">https://doi.org/10.1007/s10670-008-9140-z"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

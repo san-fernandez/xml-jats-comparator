@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">https://doi.org/10.4067/S0717-554X2021000200135</article-id>
+         <article-id pub-id-type="publisher-id">00003</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>El conocimiento del ser humano y de la naturaleza en la estética de lo sublime de Kant</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The knowledge of the human being and of nature in Kant’s aesthetics of the sublime</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">0000-0003-4143-1854</contrib-id>
+               <name>
+                  <surname>Gutiérrez-Pozo</surname>
+                  <given-names>Antonio</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad de Filosofía, Universidad de Sevilla, Sevilla, España</institution>
+            <institution content-type="normalized">Universidad de Sevilla</institution>
+            <institution content-type="orgname">Universidad de Sevilla</institution>
+            <institution content-type="orgdiv1">Facultad de Filosofía</institution>
+            <country country="ES">España</country>
+            <email>agpozo@us.es</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2021</year>
+         </pub-date>
+         <issue>71</issue>
+         <fpage>135</fpage>
+         <lpage>149</lpage>
+         <history>
+            <date date-type="received">
+               <day>13</day>
+               <month>05</month>
+               <year>2021</year>
+            </date>
+            <date date-type="accepted">
+               <day>24</day>
+               <month>07</month>
+               <year>2021</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>El objetivo principal de este artículo es mostrar las importantes consecuencias antropológicas que tiene el análisis kantiano de lo sublime. A partir de la idea de lo sublime de Kant, primero, se desprende una alta estimación de la humanidad y, segundo, se deduce un concepto de ser humano como finitud infinita. Dado que lo sublime es además respeto por la naturaleza, también se infiere una concepción de la naturaleza opuesta a la que representa la modernidad científica, una naturaleza humanizada digna de admiración y respeto.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The main goal of this paper is to show the important anthropological consequences of the Kantian analysis of the sublime. From Kant’s idea of the sublime, first, a high estimation of humanity is inferred and, second, a concept of human being as infinite finitude is deduced. Since the sublime is also respect for nature, it also infers a conception of nature opposite to that represented by scientific modernity, a humanized nature worthy of admiration and respect.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>Kant</kwd>
+            <kwd>sublime</kwd>
+            <kwd>humanidad</kwd>
+            <kwd>naturaleza</kwd>
+            <kwd>belleza</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>Kant</kwd>
+            <kwd>sublime</kwd>
+            <kwd>humanity</kwd>
+            <kwd>nature</kwd>
+            <kwd>beauty</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="27" />
+            <page-count count="15" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>El análisis kantiano de lo sublime (das Erhabene) expuesto en su Kritik der Urteilskraft (KU) supone ante todo una indagación filosófica radical en el conocimiento del ser humano y, a partir de ella, en el conocimiento de la naturaleza. KU contiene dos interpretaciones opuestas de lo sublime fundadas, a su vez, sobre dos comprensiones distintas del concepto de humanidad. La primera es de carácter moral y la segunda de índole estética, diferencia que, a su vez, se funda sobre la división del ser humano en dos dimensiones: sensible y suprasensible. La experiencia estética representaría el nexo de estas dos dimensiones, esto es, la fusión indisoluble de lo sensitivo y lo inteligible, el placer y el concepto. Kant entiende por ‘sublime’, primero, el sentimiento de satisfacción que se desprende de nuestra elevación por encima de lo sensible, por encima de la naturaleza. Dado que la humanidad del ser humano consiste en esa elevación, lo sublime entonces coincide con nuestro propio destino moral. En segundo lugar, lo sublime para Kant conecta con la sensación de exceso y fascinación que experimentamos ante los espectáculos maravillosos y poderosos de la naturaleza. Este sentimiento de asombro cautivador de lo sublime supone una nueva sensibilidad hacia la naturaleza, comprendida ya como algo admirable a pesar del espanto que nos produce. Esta nueva sensibilidad implica que la humanidad se autocomprende humildemente como dominada por la naturaleza, pero en dicha comprensión se manifiesta una conciencia de la finita infinitud del ser humano, esto es, de su grandeza moral sobre la base de su pequeñez e insignificancia. En definitiva, aquel primer concepto de lo sublime se fundamenta sobre la idea de la independencia y superioridad de la humanidad en relación con la naturaleza, mientras que el segundo implica, al contrario, que el ser humano pertenece a la naturaleza.</p>
+      </sec>
+      <sec>
+         <title>Breve fenomenología de la belleza</title>
+         <p>Kant asegura que la teoría de lo sublime es “un simple apéndice (Anhang) del juicio estético” (Kant 1968b:246), de manera que su comprensión de lo sublime está construida sobre su previa comprensión de lo bello, la cual debe ser breve y fenomenológicamente esbozada. En concreto, pretendemos analizar la particularidad de la experiencia estética de lo bello en Kant en relación con su vertiente humana. La experiencia estética de entrada es ya propiamente humana y subjetiva: se da y es en el sujeto humano, no en el objeto estético que más bien es estético en tanto está impregnado de humanidad. El primer rasgo fundamental de la experiencia estética reside en su carácter desinteresado, lo que significa que se produce al margen de nuestras necesidades e intereses, sean prácticos o teóricos. Teniendo en cuenta que Kant define el interés (Interesse) como “la satisfacción (Wohlgefallen) que unimos a la representación de la existencia de un objeto” (Kant 1968b:204), en la experiencia estética, en tanto que desinteresada, “no se quiere saber si la existencia de la cosa (Sache) importa o si puede importarnos algo a nosotros o a otros, sino que se trata de cómo la juzgamos en la mera contemplación (bloβe Betrachtung)” (Kant 1968b:204).</p>
+         <p>Por tanto, lo estético tiene que ver con una experiencia enjuiciadora del sentimiento de placer o dolor que nos produce un objeto, y además ese juicio no se refiere a la realidad de ese objeto juzgado, en cuyo caso no sería estético, sino con el objeto en tanto que contemplado. En suma, la experiencia estética está constituida por un sentimiento de placer (Lust) o dolor (Unlust) relacionado exclusivamente con la representación de un objeto. Por tanto, cuando llamamos ‘bello’ a un objeto (lo que equivale según Kant a experimentarlo estéticamente) nos referimos tan solo a lo que produce en nosotros la representación del objeto y no a aquello en lo que dependemos de su existencia material. Nos relacionamos con la pura representación del objeto en actitud contemplativa, no con el objeto en tanto que existente real. Por eso un sujeto preocupado por objetos como cosas mundanas y por el rendimiento utilitario que puede arrancarles, no puede percibirlos estéticamente (desinteresada y contemplativamente). Esto significa que la experiencia estética kantiana supone cierto dominio del ser humano sobre la naturaleza en tanto que la convierte en objeto de su reflexión.</p>
+         <p>Esto es precisamente dejar de tratar las realidades como tales para considerarlas objetos. Por este motivo, el desinterés estético kantiano puede compararse con una especie de reducción fenomenológica o de epojé. De hecho, “Husserl toma la idea kantiana del desinterés (desinterestedness) en un sentido positivo como favor” (Andrews 2021:46). Dejamos de tratar el mundo como realidad material para reducirlo a objeto de nuestra conciencia de, a cogitatum (nóema) de nuestra cogitatio (nóesis). Para Husserl, este es el auténtico significado de la duda cartesiana, “solo que ahora, en lugar de que el mundo desaparezca, aparece bajo una luz totalmente nueva, no como algo absolutamente existente, ahí en sí, sino como ‘correlato de la conciencia’ (correlate of consciousness)” (Moran 2002:151). La experiencia estética contiene una dimensión de libertad pues el ser humano, al reducir el mundo a representación, se libera de su materialidad dominadora. Esta libertad es lo que permite la elevación de nuestro “sentimiento vital (Lebensgefühl)” (Kant 1968b:204), que es en lo que consiste en definitiva la experiencia estética, y lo que produce el sentimiento de placer y dolor. En suma, la experiencia estética contiene la posibilidad de la libertad, pero es una libertad de orden metafísico y no moral, puesto que no es consecuencia de ningún esfuerzo de la voluntad por ser libre frente a una resistencia fatal, sino que pertenece ontológicamente a aquella experiencia.</p>
+         <p>En tanto que es prerreflexivo, “puro sentimiento de sí (Selbstgefühl)” y “experiencia sin objeto” (Frank 2015:32), este sentimiento vital de elevación propio de la experiencia de lo bello implica un concepto de subjetividad que rompe con el cogito cartesiano, con el sujeto idealista como autoconciencia. El sujeto idealista tiende hacia el autoconocimiento y desdeña las etapas preconceptuales como el sentimiento de sí que se libera en aquella elevación estética de la belleza. Este sentimiento kantiano es, al tiempo, un sentimiento existencial y de placer y dolor. Esto quiere decir que ese sentimiento le revela al sujeto (antepredicativamente) su sí mismo y su existencia. No es un sentimiento reducible a un puro estado sensorial, ni mucho menos es una operación de naturaleza intelectual. No es tampoco el sentimiento concreto de ser afectado por representaciones con el que Kant define a lo estético, sino que más bien nos revela el hecho mismo de que somos seres sensibles y que en esta sensibilidad se juega nuestro ser más íntimo. De ahí el vínculo inexorable (repetimos) entre la antropología y la estética en general y, particularmente, la estética de lo sublime. El sentimiento de sí mismo nos muestra en Kant la “irreducibilidad del existir (Irreduzibilität der Existenz)” (Frank 2002:17), la imposibilidad radical de captar conceptualmente el puro hecho de existir. Kant enseña que la presencia de la existencia excede siempre al concepto. De aquí se desprende que el ser humano aquí se da a sí mismo de modo inmediato y no puede comprenderse predicativamente. En este plano existencial y no lógico ni conceptual se mueve el sentimiento vital de placer y dolor, que entonces se presenta tan inconcebible como el propio existir.</p>
+         <p>La estética kantiana nos descubre que no hace falta que el sujeto atienda a sí mismo para que se verifique la experiencia estética de lo bello, pues en ella el sujeto se vuelca hacia el objeto, convertido ya en simple entidad contemplativa. Ahora bien, este objeto estético, comprendido en clave idealista por Kant, es difícilmente diferenciable del objeto teórico, que también se reduce a correlato de la reflexión, lo que presupone además que la actitud estética y la teórica están muy cerca entre sí. En ambas se produce una desconexión mundana que las convierte en desinteresadas y contemplativas, y que Neumaier en su Ästhetische Gegenstände las compara con el “mundo 3” de Popper. La experiencia estética entonces no es algo absolutamente originario en Kant, pues es evidente que queda supeditada a la relación de las facultades que intervienen en el conocimiento y en la emisión de juicios. No olvidemos que el análisis estético de lo bello en Kant equivale al “análisis de los juicios de gusto”, los cuales no son juicios de conocimiento, lógicos, pero son juicios que implican la intervención de las facultades del conocer, la imaginación y el entendimiento, en un “juego libre (freie Spiel)” (Kant 1968b:203).</p>
+         <p>En la estética kantiana, el juicio prima sobre el placer. Es más, el primero es causa del segundo, puesto que el juicio estético, en tanto que representa la exigencia de universal aprobación de mi afirmación de belleza y con ello la universal comunicabilidad de mi estado de espíritu, causa placer al sujeto que juzga pues, al emitirlo, se siente universalmente comunicado con toda la humanidad, lo cual colma la natural y esencial sociabilidad humana, lo que le produce placer: “La inclinación (Hange) natural del ser humano a la sociabilidad (Geselligkeit) muestra fácilmente que el poder comunicar su estado de espíritu (Gemütszustand), incluso solo respecto de las facultades de conocer, implica un placer” (Kant 1968b:218). Exigir o pretender la universal aprobación de mi juicio de gusto es el elemento verdaderamente trascendental de la estética kantiana. Cuando pretendo a priori esta aprobación, me estoy comunicando trascendentalmente con toda la humanidad. Dicha comunicabilidad universal constitutiva de la experiencia estética es la característica fundamental de la estética kantiana, pues es lo que nos conecta con toda la humanidad: “Humanidad (Humanität) significa, por una parte, el sentimiento universal de simpatía (allgemeine Teilnehmungsgefühl), y por otra la facultad de poder comunicarse de manera íntima y universal, que son las notas que, unidas, constituyen la sociabilidad (Geselligkeit) humana, por medio de la cual se diferencia del aislamiento (Eingeschränktheit) de los animales” (Kant 1968b:355). En definitiva, el juicio es para Kant “la llave (Schlüssel) de la crítica del gusto” (Kant 1968b:216). Por tanto, la tan destacada autonomía kantiana de la estética solo tiene sentido dentro de la teoría del conocimiento en la que se encuadra la facultad de juzgar.</p>
+         <p>La estética kantiana persevera en su autonomía a pesar de localizarse tanto dentro de la epistemología como dentro de la ética. Esto es lo que Allison ha denominado heautonomy del juicio, esto es, que el juicio es “reflexivo y autorreferencial”, con una dimensión sobre el objeto (epistemológico o moral) y otra sobre sí mismo, “fuente y referente a la vez de su propia normatividad” (Allison 2001:41). Así, Kant distingue tres tipos de placeres en función de la categoría moral de ‘valor’. En el § 5 de KU, Kant diferencia lo agradable (Angenehm), que es lo que deleita (vergnügt) y nos hace disfrutar, y vale para los seres humanos y para los animales; la belleza (Schönheit) place (gefällt), y aunque vale solo para los seres humanos (animales racionales), gusta a los humanos no solo en tanto seres racionales (como si fuesen espíritus), sino también en tanto que son animales; y lo bueno (das Gute), que consiste en lo que es apreciado (geschätzt) y aprobado (gebilligt), de manera que es aquello cuyo valor objetivo es fundado, y vale para todo ser racional en general. Este nexo entre moral y estética establecido por Kant le permite mostrar cómo la humanidad del ser humano reside precisamente en el ámbito estético. Veamos. Los animales se limitan a un gozo físico o sensible, puramente cuantitativo. Los seres racionales ponen el bien en una meta exclusivamente racional, independiente de toda interferencia de la sensibilidad y el sentimiento. En consecuencia, ni los animales ni los seres puramente racionales pueden conocer lo bello: los primeros porque son prisioneros del cuerpo y la sensación, y los segundos, por el contrario, porque están totalmente desvinculados de esa dimensión corporal y sensible. Solo el ser humano, en tanto que “unión del alma y del cuerpo” (Kant 1968b:278) tiene acceso a la belleza. La experiencia de la belleza es algo exclusivo y definitorio del ser humano, en tanto ser que materializa lo valioso en algo sensible, corporal. Esto es lo que representa la experiencia estética de lo bello. Esta dimensión de lo estético como lugar de encarnación de significados, como lugar donde se fusionan lo ideal significativo con lo corporal, material y sensible, es recogida por Danto con su concepto de “significados encarnados (embodied meanings)” (Danto 2007:121).</p>
+      </sec>
+      <sec>
+         <title>La belleza como link. La tensión entre lo sensible y lo inteligible</title>
+         <p>Kant se plantea el problema de cómo justificar la dimensión de belleza en la naturaleza, cuya existencia no depende de nosotros, al contrario del arte, que es producto humano. Para poder explicar que lo natural sea bello, Kant introduce la mediación de la moralidad en la medida en que “lo bello es el símbolo (symbol) de lo moralmente bueno (morally good)” (Guyer 2006:326). En efecto, Kant afirma que “es un signo distintivo de un alma buena (guten Seele)” el hecho de considerar como bella a la naturaleza, de modo que “una disposición espiritual favorable al sentimiento moral permite la contemplación estética de la naturaleza” (Kant 1968b:298). Es un alma buena y moral la que supera sus intereses privados, y solo ella está capacitada para la contemplación desinteresada de la naturaleza como objeto estético y bello. Aquí en la estética, lo sensible y corporal es condición de posibilidad y no obstáculo y limitación, como ocurre en los ámbitos epistemológico y ético. La materialización propia de lo estético (en lo sensible se manifiesta lo ideal racional, lo moral) es una prueba de que la región del gusto estético es donde Kant localiza el lugar privilegiado de superación de lo sensible hacia lo suprasensible, pues “siempre necesitamos alguna forma de presentación sensible (sensible presentation) incluso para las ideas más abstractas de la razón” (Guyer 2006:331).</p>
+         <p>De ahí la trascendencia de la estética en la filosofía kantiana, y en especial de la experiencia de lo sublime, en tanto que es en ella por definición donde el sujeto se eleva por encima de lo sensible. Aunque en la experiencia estética del sentimiento de belleza parece primar lo sensible, Kant nos enseña que en ella existe un latente interés moral. Lo sensible se supera a sí mismo en la experiencia de la belleza hasta el extremo de que esa trascendencia es la que la define. Cuando tenemos una vivencia de la naturaleza que nos eleva, Kant considera que lo que realmente está ocurriendo (en clave platónica, según advierte Rockmore en Kant on art and truth after Plato) es que lo sensible nos remite a lo suprasensible, como si participase de esta región inteligible de la suprasensibilidad. Es claro que el peligro que corre aquí la estética (y del que Kant es plenamente consciente) no es otro que comprender “la belleza (Schönheit) como símbolo de la moralidad (Sittlichkeit)” (Kant 1968b:351). Ciertamente, la libertad de la imaginación creativa en la belleza puede ejercer de símbolo de la libertad de la voluntad en el acto moral. Esto convertiría a la estética en una introducción a la ética. Tauber señala que en el § 59 de KU, Kant “introduce a través de la educación estética (aesthetic education) una forma efectiva de realizar la ética dentro de la sociedad, una vía pedagógica (pedagogic way) que es más plausible que el entrenamiento práctico y el adoctrinamiento teórico directo de los principios morales” (Tauber 2006:33). En definitiva, la estética podría quedar absorbida por la ética.</p>
+         <p>La tensión entre lo sensible, corporal y sentimental, por una parte, y lo inteligible, ideal y espiritual, por otra, define la región de lo estético en Kant, y eso mismo es lo que la convierte en decisiva. No olvidemos que el esquematismo trascendental de la Kritik der reinen Vernunft, aunque “ha sido a veces interpretado como algo superfluo” (Allison 2004:202), era el punto decisivo de aquella obra, pues supone “el comienzo real de la posibilidad de los juicios sintéticos a priori” (Allison 2004:228). La estética juega para Kant este papel de esquema trascendental general de todo su pensamiento. Por mucho que intenta arrancar la estética de la emoción para alojarla en una dimensión espiritual y no material, y por mucho que insiste en la localización de lo sublime en la razón, el propio Kant reconoce que ni lo sublime, donde el espíritu parece elevarse sobre lo sensible, está totalmente al margen del cuerpo: “Pues según la ley de asociación, la imaginación (Einbildungskraft) hace depender nuestro estado de satisfacción (Zustand der Zufriedenheit) de condiciones físicas” (Kant 1968b:269). Y ello a pesar de que lo bello en la naturaleza necesita “una base fuera de nosotros”, de nuestro espíritu, pero “lo sublime solo en nosotros” (Kant 1968b:246).</p>
+         <p>Lo estético supone esencialmente afección, pues el juicio estético según Kant se refiere a la relación de las representaciones con el sentimiento de placer y dolor, relación “mediante la cual nada se designa (bezeichnet) en el objeto, sino que en ella el sujeto siente (fühlt) de qué manera es afectado (affiziert) por la representación” (Kant 1968b:204). El juicio estético describe el estado sentimental de la subjetividad, o sea, cómo el sujeto es afectado por las representaciones. Cuando la representación mira hacia el objeto representado es lógica/objetiva, de carácter cognoscitivo, y cuando mira hacia el sujeto mismo que representa es afectiva/subjetiva, de naturaleza estética. Ahora bien, donde hay sentimiento hay corporalidad. Kant apela a Epicuro para confirmar que “el placer (Vergnügen) y el dolor (Schmerz) son en último término corporales (…) porque la vida sin sentimiento del órgano corporal sería mera conciencia de su existencia, pero no sentimiento de bienestar o de malestar, es decir, sentimiento de la estimulación o inhibición de las fuerzas vitales” (Kant 1968b:277). Por tanto, para Kant la superación de la estética equivale a liberarse de la sensibilidad corporal, alcanzando así la existencia sin cuerpo y la verdadera realización del espíritu. Es evidente que esto último no puede lograrse en el campo de la estética, sino solo en el campo moral. Ahora bien, la estética, como símbolo de la moralidad, prefigura ese ámbito y ejerce de tránsito, de puente hacia la espiritualidad moral, igual que en Platón la belleza es la antesala del bien. A este respecto Fistioc ha hablado de la “belleza como link” (Fistioc 2002:136).</p>
+      </sec>
+      <sec>
+         <title>Sublime versus belleza: la violencia de la imaginación</title>
+         <p>Lo sublime kantiano responde a una actitud de superación del ámbito de la sensibilidad. Kant sostiene que la imaginación, en el sentimiento de lo sublime, “se siente ilimitada por esa supresión de sus barreras (Schranken) y esa abstracción [de los límites sensibles] es una exposición de lo infinito [que] ensancha el alma (Seele erweitert)” (Kant 1968b:274). La desmaterialización que supone lo sublime cuestiona incluso su pertenencia a la región estética. Así, poco después, el propio Kant no solo insiste en que lo sublime “se funda sobre ideas que miran más allá, por encima de todo interés sensible”, sino en que supone también “una separación (Absonderung) de toda sociedad”, de modo que “bastarse a sí mismo, no necesitar la sociedad sin ser insociable (ungesellig), sin huirla, es algo que se acerca a lo sublime como la victoria sobre las necesidades (Überhebung von Bedürfnissen)” (Kant 1968b:275). Así, Kant considera sublime la tristeza inspirada por “la visión de una región desértica en donde algunos desearían retirarse para no oír nada más del mundo ni saber de él” (Kant 1968b:276). La elevación sublime se acerca a la vivencia mística, es una experiencia de la soledad. De hecho, “la historia de la palabra sublime se remonta a la mística tardomedieval”, de manera que “para la mística cristiana el paradigma de lo sublime (Paradigma der Erhebung) es el viaje de Cristo al cielo” (Pöpperl 2007:14). Lo sublime no solo se aparta de lo sensible y de las necesidades materiales en su vuelo elevado hacia lo infinito, sino que además le da la espalda al rasgo decisivo de lo estético: la comunicabilidad universal de lo humano y la sociabilidad que lleva consigo. Su pertenencia a la estética todavía peligra más. Lo sublime se aparta de lo bello placentero pues “lo que nosotros, preparados por la cultura, llamamos sublime, aparecerá al hombre sin cultivar (rohen Mensch) simplemente como algo espantoso (abschreckend)” (Kant 1968b:265). Por esto mismo, el placer que pueda producir lo sublime de la naturaleza se debe a “otro sentimiento, el de su determinación (Bestimmung) suprasensible, el cual, por oscuro que pueda ser, reposa sobre una fundamentación moral (moralische Grundlage)” (Kant 1968b:292).</p>
+         <p>Parece lógico que el sentimiento de lo sublime sea menos comunicable que el de lo bello debido a que, como vimos, es una experiencia más bien propia de la soledad. Kant sostiene que “en tanto que emoción, el sentimiento de lo sublime no parece ser un juego (Spiel) sino seriedad (Ernst) en la actividad de la imaginación. Por esta razón es inconciliable con el encanto (Reizen)” (Kant 1968b:245). Pero la tensión entre lo bello y lo sublime no termina ahí, en el nexo de lo sublime con la soledad y la seriedad frente a la comunicabilidad de lo bello y su carácter lúdico. El propio Kant concibe lo sublime como compensación de lo bello, no como su contrario: “Lo sublime (Erhabene) es el contrapeso (Gegengewicht) de lo bello, pero no lo contrario, porque el esfuerzo y el intento de elevarse (erheben) a la captación (Fassung) del objeto despierta en el sujeto un sentimiento de su propia grandeza y fuerza; pero la representación pensante (Gedankenvorstellung) de lo sublime en la descripción o presentación puede y debe ser siempre bella” (Kant 1968c:243).</p>
+         <p>En la soledad de lo sublime el sujeto se vuelve sobre sí y se ensimisma, a diferencia del sentimiento de belleza, que conlleva una absorción en el objeto en la que “los sujetos están siempre al borde del olvido de sí mismos”, lo que la convierte en “base de toda comunicación”, de modo que “la autenticidad absorbida (absorbed authenticity) se convierte en la condición de la verdadera comunicación y la intersubjetividad” (Taylor 2009:583). De ahí que Kant se refiera a “la prioridad (Vorzug) de la belleza natural (Naturschönheit) sobre la belleza artística (Kunstschönheit)” (Kant 1968b:299). Este carácter paradigmático de lo bello natural se debe, según Kant, al hecho de que su apreciación “solo exige gusto, mientras que la belleza artística exige genio (Genie)”, y ello porque “una belleza natural es una cosa bella (schönes Ding) y la belleza artística es una bella representación (schöne Vorstellung) de una cosa”, de manera que “para juzgar una belleza natural no necesito tener previamente un concepto de lo que debe ser (sein solle) la cosa” (Kant 1968b:311).</p>
+         <p>En este sentido lo sublime se acerca más a lo bello del arte que a lo bello natural, puesto que lo sublime de la naturaleza exige más poder reflexivo y cultural que la belleza natural, que es más espontánea. Pero no por eso lo sublime “es producido por la cultura e introducido convencionalmente (konventionsmäβig) en la sociedad, sino que tiene sus bases en la naturaleza humana (menschlichen Natur)” (Kant 1968b:265). Lo sublime se asienta sobre lo distintivamente humano, el sensus communis o esencia suprasensible de la humanidad, que es lo que permite la universal comunicabilidad pues Kant presenta “la condición necesaria de la comunicabilidad universal de nuestro conocimiento como paráfrasis del sensus communis” (De Duve 2018:191). Paradójicamente, sobre esa base “lo sublime concierne a la soledad” (Ferguson 1992:32). Representa el sentimiento solitario del ensimismamiento: “Mientras que lo bello es social y se basa en el consenso y las reglas estéticas aceptadas, lo sublime es solitario (solitary)” (Pierce 2012:93). De aquí se deduce una relación problemática con la naturaleza, y ello porque para Kant el placer del nexo con lo natural se debe inversamente a un interés moral o cultural. Pero al primar el gusto sobre el genio, se detecta al tiempo una cierta voluntad naturalista.</p>
+         <p>¿Cuál es la naturaleza de la verdadera relación según Kant entre lo bello y lo sublime? ¿Es acaso lo sublime un simple añadido a su estética de la belleza o algo más sustancial? Esta pregunta conecta con la pregunta por el estatus que tiene en KU la analítica de lo sublime, si representa un elemento más o menos marginal de la estructura de la obra, o si juega un papel verdaderamente diferenciador en la misma. Grotz señala que “lo sublime conduce a Kant a los límites (Grenzen) de la estética” (Grotz 2017:116). Lo sublime se diferencia de lo bello, primero, porque en la belleza nos placemos con la forma, mientras que en lo sublime el objeto aparece sin límites. Esta experiencia de la desmesura y lo ilimitado que se abre en la contemplación del infinito es el núcleo de la estética kantiana de lo sublime. Lo sublime es elevación por encima de la finitud, trascendencia. En el pensamiento moderno de la subjetividad la infinitud ya no está fuera, en la naturaleza, sino en la propia intimidad del sujeto, ya que la representación del infinito “solo puede ser una idea de la razón, es decir, una representación intelectual a la que ninguna representación sensible puede ser adecuada” (Merritt 2012:39). Por ello mismo, por albergar el infinito en la subjetividad, el sentimiento de lo sublime, a diferencia de lo bello, no puede consistir en una serena contemplación, sino que contiene una fuerte conmoción del espíritu.</p>
+         <p>Sin embargo, sobre esta emoción dolorosa cimenta Kant el placer de lo sublime. Ciertamente, no solo lo sublime implica placer y dolor. Es que, en lo sublime “el placer (plaisir) procede del propio dolor (peine)” (Lyotard 1986:26). El espanto propio de lo sublime, producido por la experiencia de lo ilimitado, por el hecho de hallarse ante una objetividad carente de límites, apela a la razón misma, más allá del juego libre de la imaginación y el entendimiento en que se mueve la belleza. En lo sublime ya no se ama la naturaleza, amor desinteresado que define a la belleza, sino que se la “estima altamente (hochzuschätzen), incluso contra nuestro interés sensible” (Kant 1968b:267). Si en la belleza se desconectan los intereses sensibles, en lo sublime incluso el sujeto actúa contra ellos. Tal es la admiración y el respeto que siente por la naturaleza, que puede ir incluso contra su propia subjetividad.</p>
+         <p>Hay otra diferencia esencial entre lo sublime y lo bello. La belleza es el sentimiento que produce el libre juego de la imaginación y el entendimiento cuando la forma del objeto es idónea para causarla, o sea, cuando es perfecta para poner en acción las facultades de conocimiento como si fueran a conocer. Cuando esto ocurre producen un sentimiento en el sujeto que llamamos ‘belleza’. En verdad, “el juicio de gusto no tiene en su base nada más que la forma de la finalidad de un objeto” (Kant 1968b:221). Suponemos entonces que el objeto tiene la finalidad de adecuarse a nuestras facultades para producir tal armonía, aunque realmente no haya tal. Esto lo llama “finalidad sin fin (Zweckmäβigkeit ohne Zweck)” (Kant 1968b:226) o “finalidad formal”, es decir, la idoneidad del objeto como si tuviera el propósito de coincidir con nuestras facultades, aunque realmente no lo tenga. Es como si la naturaleza fuese un artista y no actuase ciega y mecánicamente. Igual que “el arte bello (schöne Kunst) es arte en tanto, al tiempo, parece ser naturaleza”, Kant nos recuerda que “la naturaleza era bella cuando al tiempo parecía (aussah) ser arte” (Kant 1968b:306).</p>
+         <p>Ahora bien, esta comunicación armoniosa entre la humanidad y la naturaleza, que el arte en general continúa alimentando en tanto el arte parece naturaleza, “libre de la violencia (Zwange) de las reglas arbitrarias, como si fuera un producto de la simple naturaleza” (Kant 1968b:306), esta comunicación, desaparece en la experiencia de lo sublime. Y es que se “separa totalmente la idea de lo sublime de la idea de una finalidad en la naturaleza” (Kant 1968b:246). El sentimiento de lo sublime se produce en nosotros sin la mediación racional, sin reflexión, y lo causa aquello “que está en desacuerdo con nuestra facultad de juzgar (Urteilskraft), inadecuado a nuestra facultad de representar (Darstellungsvermögen) y violento (gewalttätig) para la imaginación” (Kant 1968b:245). El objeto sublime resiste y se niega a ser idóneo para el juego libre de las facultades de conocer. Más bien, al contrario, se rebela contra esa idoneidad: “El sentimiento de lo sublime es un sentimiento de dolor (Unlust) que nace de la inadecuación (Unangemessenheit) de la imaginación con la apreciación de la razón” (Kant 1968b:257). La experiencia de lo sublime contiene “violencia (Gewalt) de la imaginación contra nuestra interioridad [y] violencia de la razón a la sensibilidad (Sinnlichkeit), violencia sin la cual no existiría la naturaleza humana” (Menninghaus 1991:14).</p>
+         <p>Este es el origen del terror que provoca lo sublime, que en él la naturaleza se nos desvela como “un infinito que es un abismo (Abgrund)” (Kant 1968b:265). Al comprobar la fuerza pavorosa de la naturaleza y compararla con nuestra finitud sentimos la “insignificante pequeñez (unbedeutenden Kleinigkeit) de nuestro poder de resistencia” (Kant 1968b:261). Sin embargo, la experiencia de esta naturaleza sublime, terrible y extraña, tan pavorosa, tan poco familiar, nos provoca placer porque aquella inadecuación nos permite volver a concordar con las ideas de razón, a las que siempre tendemos y nunca alcanzamos. Profundizar más en esta idea nos permitirá seguir nuestro hilo conductor.</p>
+      </sec>
+      <sec>
+         <title>La presentación negativa de lo sublime y la dignificación de la humanidad</title>
+         <p>“¿Quién querría llamar ‘sublime’ a las masas montañosas sin forma, amontonadas unas sobre otras en un desorden salvaje, con sus pirámides de hielo, o al mar sombrío y furioso etc?” (Kant 1968b:256). Este texto muestra cómo Kant condena toda posibilidad de considerar a la naturaleza como algo sublime. La contemplación de los espectáculos naturales puede producir una “sentimiento que eleva el alma (seelenerhebende Empfindung)” (Kant 1968b:265), pero en rigor lo sublime solo se puede predicar de la naturaleza indirectamente. En verdad, para Kant lo sublime se relaciona con la razón, la facultad de las ideas suprasensibles (mundo, alma y dios), ideas para las cuales no hay un correlato sensible e intuible. Lo sublime, que apunta a lo suprasensible, en tanto está vinculado con la razón, se produce en el sujeto a partir de una experiencia sensible. Este nexo lleva a Kant a afirmar que en lo sublime lo suprasensible se presenta negativamente en lo sensible, como una “presentación negativa (negative Darstellung)” (Kant 1968b:274). Lo sublime no puede manifestarse en ninguna forma sensible, pues apunta a las ideas de razón que exceden todo lo que se puede intuir.</p>
+         <p>Aunque de estas ideas de razón (y con ellas de lo sublime) “no es posible ninguna presentación (Darstellung) adecuada”, sin embargo “son traídas al espíritu y provocadas precisamente por esa inadecuación (Unangemessenheit) que se deja presentar sensiblemente” (Kant 1968b:245). Es decir, lo sublime, como las ideas de razón, se presentan negativamente: lo único sensible que se puede presentar de lo sublime y de las ideas de razón, impresentables sensiblemente, es su inadecuación, su negativa a ser presentadas sensiblemente. Lo único que se puede presentar sensiblemente de lo impresentable de forma sensible es en rigor su impresentabilidad. Advierte De Duve que, “aunque es imposible presentar lo impresentable (unpresentable), es posible presentar que existe lo impresentable” (De Duve 2018:158). Esta alegación de lo impresentable (imprésentable) en la misma presentación es lo que llamará Lyotard ‘posmoderno’. Por esto Kant afirma que en la Biblia no hay texto más sublime que aquel en que se prohíbe hacer “imágenes de lo que hay en el cielo, en la tierra y debajo de la tierra” (Kant 1968b:274). La clave es la negación de lo sensible que presupone. Esta prohibición de la representación, precisamente por negar lo sensible, contiene una presentación de lo infinito que provoca la imaginación y eleva el alma. Lo sublime contiene como elemento esencial una cierta fuerza o violencia contra lo sensible. Por eso puede definir Kant lo sublime como “un objeto (de la naturaleza) cuya representación determina al espíritu (Gemüt) a pensar la inaccesibilidad (Unerreichbarkeit) de la naturaleza como presentación (Darstellung) de ideas” (Kant 1968b:268).</p>
+         <p>Kant define lo sublime matemático (mathematisch Erhaben), que está fuera del sujeto, como “aquello en comparación con lo cual todo lo demás es pequeño” (Kant 1968b:250), de manera que esto absolutamente grande no puede darse en lo sensible. Ni podemos imaginar algo así, ni tenemos experiencia de esto absolutamente grande en la naturaleza. De hecho, debemos reconocer que la medida de cualquier apreciación de grandeza que hagamos de un objeto natural está en nosotros, y esto nos presenta como más grandes que el universo, en tanto que somos patrón de medida. Lo sublime dinámico (dynamisch Erhaben) se refiere a lo sensible que está en el sujeto y se experimenta cuando el poder natural, por fuerte que sea, es vencido por nuestra fuerza moral, por nuestro autodominio de las inclinaciones sensibles. Dada la relevancia estético/trascendental del desinterés, Kant sostiene que “quien se deja llevar por la inclinación (Neigung) y el apetito no puede juzgar sobre lo bello”, y del mismo modo “quien teme (fürchtet) no puede juzgar sobre lo sublime en la naturaleza” (Kant 1968b:261). Los juicios solo son válidos si se emiten desde una situación de libertad, cuando el sujeto no está dominado por pasiones. La contaminación sensible afecta a la objetividad de los juicios, pero nada tiene que ver con la moralidad y la dignidad humana del sujeto, la cual se debe más bien justo a lo contrario. La fuerza irresistible de la naturaleza nos permite conocer nuestra impotencia física en tanto seres naturales, pero nos descubre una facultad de juzgarnos independientes de la naturaleza y una superioridad (Überlegenheit) sobre ella en la que se funda una independencia en la cual la humanidad en nuestra persona permanece sin humillarse (unerniedrigt) aunque el ser humano tengo que someterse a aquel poder.</p>
+         <p>La naturaleza puede destruirnos como seres sensibles y mostrar su superioridad física y nuestra incapacidad, pero esto mismo eleva la infinitud de nuestra razón y nuestra dignidad humana, algo que “nos arroja fuera de la naturaleza al reino de las ideas y, en consecuencia, todo es visto como pequeño o inferior a la infinitud de la mente (mind)” (Doran 2015:225). La naturaleza entonces nos parece pequeña. Por tanto, lo sublime, sea matemático o dinámico, concluye en la dignificación y elevación de la humanidad mediante la valoración de la razón y la moralidad. En Kant esta dignidad humana se funda en su desapego y resistencia respecto de los intereses e inclinaciones sensible, y “todo afecto de carácter animoso, que excita la conciencia de nuestras fuerzas a vencer toda resistencia (Widerstand zu überwinden) es estéticamente sublime” (Kant 1968b:272). Esto implica que lo sublime, al oponerse a lo afectivo y sensible, tiende a localizarse en la región moral y a escaparse de la estética. Pero Kant incluye lo sublime en su KU y no en su Kritik der praktischen Vernunft. Hay que justificar entonces la dimensión estética de lo sublime.</p>
+      </sec>
+      <sec>
+         <title>Idea estética y genialidad</title>
+         <p>Mediante el concepto de genio, Kant enseña que la estética no es mera recepción contemplativa y pasiva, sino que es creación imaginativa de pensamiento. El concepto de genio permite a Kant darle a la naturaleza un papel bien distinto del que tenía como fuerza ciega, indiferente al destino de la conciencia humana. Para Kant no hay arte sin genio, pues “el genio es el talento (dote natural) (Naturgabe) que da la regla al arte” (Kant 1968b:307). Pero es que además “genio es la capacidad espiritual innata (angeborne Gemütsanlage) (ingenium) mediante la que la naturaleza da la regla al arte” (Kant 1968b:307). Por tanto, la naturaleza hace el arte a través de la conciencia genial. Lo propio de dicha conciencia es la producción de ideas estéticas, “entendiendo por idea estética (ästhetischer Idee) la representación (Vorstellung) de la imaginación que provoca constantemente a pensar (viel zu denken veranlaβt), sin que sin embargo pueda serle adecuado ningún pensamiento (Gedanke), es decir, ningún concepto (Begriff), y que por tanto ningún lenguaje alcanza del todo ni puede hacer comprensible” (Kant 1968b:314).</p>
+         <p>De aquí se desprende que la naturaleza es productora inagotable de pensamientos mediante la conciencia creativa e imaginativa del genio. Con el concepto de genio, la estética kantiana se introduce por fin en el terreno de la creatividad y convierte la naturaleza en agente productor. La genialidad, por ser natural, no puede aprenderse ni imitarse. Kant subraya que “hay que oponer totalmente el genio al espíritu de imitación (Nachahmungsgeiste). Como aprender (Lernen) no es sino imitar, la disposición y aptitud para aprender no puede, como tal aptitud, valer por genio” (Kant 1968b:308). La imitación es lo contrario de la genialidad, que es libre creación imaginativa de índole natural. Naturaleza y genialidad, tan cercanos, son ambos productores libres (no sometidos a técnicas de cálculo) de formas originales, frente al imitador que repite ejemplos originales preexistentes y creados naturalmente. Por tanto, el genio no solo no imita, sino que en tanto que crea modelos, es imitado. La genialidad produce “ejemplares (exemplarisch), que no surgen de la imitación, pero debiendo servir a la imitación de otros, o sea, de medida (Richtmaβe) o regla del juicio” (Kant 1968b:308).</p>
+         <p>Esta originalidad del genio se consuma en la noción de ‘idea estética’, con la cual Kant invierte el concepto de ideas de la razón de Kritik der reinen Vernunft. En efecto, “una idea estética no puede ser conocimiento (Erkenntnis) porque es una intuición (Anschauung) de la imaginación, para la que nunca se puede encontrar un concepto adecuado” (Kant 1968b:342). En cambio, “una idea de la razón (Vernunftidee) no puede ser conocimiento porque contiene un concepto de lo suprasensible al que no se puede dar nunca una intuición que se acomode (angemessen) con él” (Kant 1968b:342). La idea de razón es un concepto para el que no podemos imaginar ni intuir nada que le corresponda; la idea estética es, al contrario, una intuición imaginativa que excede todos los pensamientos que nos provoca. La idea estética es una “representación imaginativa que no se puede exponer (inexponible Vorstellung) y la idea de razón es indemostrable (indemonstrabeln)” (Kant 1968b:342). El concepto de idea estética rompe con lo que Kant hasta ese momento había adjudicado principalmente a lo estético: sentimiento, afectividad, sensibilidad. Ahora lo sensible apunta fundamentalmente hacia lo suprasensible, hacia el mundo de las ideas platónico, reconvertido ahora en trascendentalidad creativa de inteligibilidad de una subjetividad específica, la genial. La idea estética es algo sensible que no cesa de producir pensamientos, inteligibilidades, sin dejarse encerrar por ninguno. O sea, es una síntesis dinámica e interminable de lo sensible y lo suprasensible.</p>
+         <p>Tanto ha crecido el concepto kantiano de lo sensible en clave platónica que en la sensibilidad del sujeto y como dimensión trascendental de la misma late “el sustrato suprasensible (übersinnliche Substrat) de todas sus facultades y, consiguientemente, aquello en relación con lo cual armonizar todas nuestras facultades de conocimiento es el último fin dado por lo inteligible a nuestra naturaleza” (Kant 1968b:344). Este sustrato suprasensible es el ámbito último de la trascendentalidad del sujeto, lo que permite que podamos hablar en sentido estricto de ‘humanidad’. No hay humanidad sin lo trascendental, sin lo que trasciende lo sensible, como el mundo de las ideas platónico, pero localizado en la subjetividad trascendental. Por eso Kant, al referirse al hecho de que Platón entendía las ideas como arquetipos de las cosas, pudo afirmar que “comparando los pensamientos expuestos por un autor acerca de su tema, lleguemos a comprenderlo mejor de lo que él se comprendió (verstand) a sí mismo” (Kant 1968a:200). Kant cree que, al pensar las ideas platónicas en clave trascendental, está pensando lo que Platón pensaba en el fondo, aunque sin ser plenamente consciente de ello.</p>
+      </sec>
+      <sec>
+         <title>La experiencia sublime de la naturaleza: una mirada de poeta</title>
+         <p>El conocimiento de la dignidad del ser humano es inseparable en Kant del conocimiento moral y elevado también de la naturaleza. Tal es el fundamento de la conocida confesión filosófica de Kant:</p>
+         <p>“Dos cosas llenan el ánimo (Gemüt) de admiración (Bewunderung) y respeto (Ehrfurcht) siempre renovados y crecientes cuanto más reiterada y persistentemente se ocupa de ellas la reflexión (Nachdenken): el cielo estrellado sobre mí y la ley moral (moralische Gesetz) en mí” (Kant 1968d:161).</p>
+         <p>De aquí se desprende que la naturaleza es productora de cultura y moralidad, y como tal es conocida y apreciada. La naturaleza, que puede parecer ciega, brutal e indiferente, llega a ser amada por la reflexión cuando ésta descubre su orden y sentido internos. Kant escribe que “un observador de la naturaleza (Naturbeobachter) finalmente ama los objetos que al principio repugnaban a sus sentidos cuando descubre la gran finalidad (groβe Zweckmäβigkeit) de su organización, y su consideración recrea su razón” (Kant 1968d:160). Ahora bien, Kant sostiene que cuando llamamos sublime a la naturaleza no lo hacemos a partir de los conocimientos y conceptos que poseemos científicamente de ella. La consideración de la naturaleza como algo sublime, según Kant, no se basa en lo que pensamos sobre, sino que tiene una base más fenomenológico/poética. Primero porque se basa en la naturaleza tal y como se nos da, sin saberes añadidos, y segundo porque ese fenómeno debe ser visto con la mirada de poeta. Así, confirma Kant, “hace falta simplemente considerar el cielo tal como se le ve, es decir, como una vasta bóveda que lo engloba todo; y sólo por esta representación debemos establecer el carácter de sublime atribuido a este objeto por un juicio estético  [e igualmente] el espectáculo del océano no debe ser representado como nosotros lo pensamos, enriquecido por todo tipo de conocimientos, sino que hace falta, al contrario, poder encontrar sublime al océano simplemente como lo hacen los poetas (Dichter) y tras el espectáculo (Augenschein) que él ofrece a la mirada” (Kant 1968b:270).</p>
+         <p>Kant está legitimando aquí el nexo arte-naturaleza que ya hemos visto antes cuando afirmaba que el arte debía parecer naturaleza y la naturaleza algo hecho por un artista. Usamos metáforas de la naturaleza para aludir a sentimientos o actitudes morales. Pero esto no significa que las ideas estéticas sean meros signos de ideas racionales, simples formas indirectas de decir lo que se podría haber dicho directamente. Es cierto que Kant afirma que los poetas sensibilizan ideas de la razón, pero a pesar de ello la idea estética no es un signo traducible a un discurso racional y argumentativo. Insiste Kant en que “la idea estética es una representación de la imaginación unida a un concepto y a una tal gran diversidad de representaciones en el uso libre de la misma, que no se puede para ella hallar una expresión (Ausdruck) que indique un concepto determinado” (Kant 1968b:316). Por tanto, la noción misma de idea estética supone que lo sensible ya no es simplemente lo contrario de lo suprasensible, sino que lo sensible contiene lo suprasensible, pero no de modo que este último pueda ponerse en lugar de aquél. Lo sensible es en sí fuente de inteligibilidad suprasensible.</p>
+         <p>Dicho de otro modo: hay elementos suprasensibles que solo existen expresados en elementos sensibles imposibles de traducir a conceptos. Lo sublime representa una elevación hacia lo suprasensible. Por ello y de acuerdo con la tesis anterior, Kant defiende que “lo verdaderamente sublime no puede estar contenido en ninguna forma sensible (sinnlicher Form)” (Kant 1968b:245). Kant considera a la naturaleza como una grandiosa totalidad sublime que solo puede experimentarse en una suerte de estremecimiento casi sagrado, o sea, con una especie de mirada y emoción de poeta. Este es el sentimiento que nos produce la recepción de la naturaleza como algo sublime. Así se reincorpora profundamente lo sublime en la estética. De acuerdo con la tesis general que plantea Rescher en “Kant’s Neoplatonism”, sostenemos que esta comprensión casi divina de la naturaleza acerca a Kant a la comprensión renacentista neoplatónica de la naturaleza, que se encuentra ejemplarmente expresada por Bruno: “El mundo es un animal santo, sagrado y venerable” (Bruno 1980:690).</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusión: lo sublime como conciencia de nuestra finita infinitud</title>
+         <p>Kant busca un puente entre lo natural y lo humano, entre la naturaleza y la libertad, capaz de salvar “la gran grieta (Kluft) que separa lo suprasensible de los fenómenos (Erscheinungen)” (Kant 1968b:195). Aunque la naturaleza como totalidad sublime es impresentable, inexponible, lo propio de la relación cognoscitiva del ser humano con ella es avanzar en su conocimiento partiendo del amor y del respeto a esa naturaleza sublimada y divinizada. Lo sublime contiene un concepto de la naturaleza humanizada, que se funda sobre el respeto a la naturaleza y se aleja de la voluntad de poder moderna dominadora de una naturaleza deshumanizada o malhumanizada. El conocimiento de la naturaleza de la ciencia calculadora y cuantificadora reduce la naturaleza a objeto y materia prima a nuestra disposición. Esa naturaleza es agotable; es inagotable cuando nuestra actitud hacia ella es erótica y respetuosa. Entonces, nuestro conocimiento de ella, fundado sobre la profundidad sublime del ser humano, es interminable.</p>
+         <p>Lo sublime como trascendental del ser humano se proyecta sobre la naturaleza y nos permite descubrir su dimensión poética, simbólica, sagrada, como una realidad que excede todas nuestras concepciones. La pura presencia de la naturaleza se impone sin que podamos captarla. La naturaleza entonces, gracias a la experiencia de lo sublime, gana una dimensión de misterio. Así se establece el nexo que perseguía Kant entre humanidad y naturaleza. Contra el tópico moderno, Kant enseña que no somos superiores a la naturaleza. A diferencia de la comprensión del ser humano como ser racional separado de su parte natural, a diferencia del dualismo cartesiano, Kant no solo descubre que somos también seres naturales, sino que nuestra naturaleza nos define y no simplemente nuestra racionalidad. En nuestro ser natural está incluido aquel sentimiento de estremecimiento ante la misteriosa inconmensurabilidad de la naturaleza. La capacidad de asombro y temblor ante esa dimensión sublime nos define tanto como la racionalidad.</p>
+         <p>Partiendo del conocimiento del ser humano como ser racional e infinito, Kant nos enseña una actitud hacia la naturaleza bien distinta de la que adopta la ciencia objetivadora y que él mismo exponía en Kritik der reinen Vernunft. KU indica que el camino de la ciencia moderna es superficial y que nuestra propia dignidad nos exige otra actitud hacia nosotros mismos y la naturaleza. Esta disposición consiste en la combinación de pavor, serenidad y admiración ante lo terrible y enigmático del mundo y de la existencia, bien lejos de la soberbia actitud de dominio del sujeto moderno de la voluntad de poder. Esta postura está compendiada según Kant en la experiencia de lo sublime. Lo sublime consiste para Nietzsche en “el sometimiento artístico (künstlerische Bändigung) de lo espantoso (Entsetzlichen)” (Nietzsche 1980a:57). Kant anticipó con su idea de lo sublime el temple de la conciencia finita del ser humano enfrentada al abismo insondable e infinito del universo. Somos finitos pero racionales y la naturaleza, por potente que sea, no solo no nos impera, sino que despierta el conocimiento de la elevación sublime de nuestro ser moral y racional. “Representar cosas terribles y problemáticas es ya un instinto de poder (Instinkt der Macht) y grandeza (Herrlichkeit) en el artista” (Nietzsche 1980b:241). En Kant, lo sublime, arrostrar lo terrible que nos violenta y nos excede y revela nuestra insignificancia y finitud material, despierta la conciencia de nuestra finita infinitud, la conciencia de nuestra superioridad moral, de nuestra dignidad humana.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Allison, H.,  (2001).
+               <italic>Kant’s theory of taste. A reading of the critique of aesthetic judgment</italic>
+               . : Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Allison</surname>
+                     <given-names>H.E.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Kant’s theory of taste. A reading of the critique of aesthetic judgment</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Allison, H.,  (2004).
+               <italic>Kant’s trascendental idealism</italic>
+               . : Yale University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Allison</surname>
+                     <given-names>H.E.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Kant’s trascendental idealism</source>
+               <publisher-name>Yale University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Andrews, I.,  (2021).
+               <italic>Chance, phenomenology and aesthetics</italic>
+               . : Bloomsbury
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Andrews</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>2021</year>
+               <source>Chance, phenomenology and aesthetics</source>
+               <publisher-name>Bloomsbury</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Bruno, G.,  (1980).
+               <italic>L’immenso e gli innumerevoli ossia l’universo e i mondi</italic>
+               . : UTET
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bruno</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>1980</year>
+               <source>L’immenso e gli innumerevoli ossia l’universo e i mondi</source>
+               <publisher-name>UTET</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Danto, A.(2007). "Embodied meanings, isotypes, and aesthetics ideas".
+               <italic>Journal of Aesthetics and Art Criticism. 65</italic>
+               (1), 121-129. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1540-594X.2007.00243.x">https://doi.org/10.1111/j.1540-594X.2007.00243.x</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Danto</surname>
+                     <given-names>A.C.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Embodied meanings, isotypes, and aesthetics ideas</article-title>
+               <source>Journal of Aesthetics and Art Criticism</source>
+               <volume>65</volume>
+               <issue>1</issue>
+               <fpage>121</fpage>
+               <lpage>129</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1540-594X.2007.00243.x">https://doi.org/10.1111/j.1540-594X.2007.00243.x"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               De Duve, T.,  (2018).
+               <italic>Aesthetics at large</italic>
+               . : The University of Chicago Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>De Duve</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Aesthetics at large</source>
+               <publisher-name>The University of Chicago Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Doran, R.,  (2015).
+               <italic>The theory of the sublime from Longinus to Kant</italic>
+               . : Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Doran</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>The theory of the sublime from Longinus to Kant</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Ferguson, F.,  (1992).
+               <italic>Solitude and the sublime. Romanticism and the aesthetics of individuation</italic>
+               . : Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ferguson</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>1992</year>
+               <source>Solitude and the sublime. Romanticism and the aesthetics of individuation</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Fistioc, M.,  (2002).
+               <italic>The beautiful shape of the good: platonic and pythagorean themes in Kant's critique of the power of judgment</italic>
+               . : Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fistioc</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>The beautiful shape of the good: platonic and pythagorean themes in Kant's critique of the power of judgment</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Frank, M.(2002). "Selbstgefühl. Vorstufen einer präreflexivistischen Auffassung von Selbstbewusstsein im 18. Jahrhundert".
+               <italic>Jahrbuch der Friedrich Schlegel. Gesellschaft Athenäum 12. Jahrgang. Jahrbuch für Romantik . 12</italic>
+               , 9-32.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Frank</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <article-title>Selbstgefühl. Vorstufen einer präreflexivistischen Auffassung von Selbstbewusstsein im 18. Jahrhundert</article-title>
+               <source>Jahrbuch der Friedrich Schlegel. Gesellschaft Athenäum 12. Jahrgang. Jahrbuch für Romantik</source>
+               <volume>12</volume>
+               <issue />
+               <fpage>9</fpage>
+               <lpage>32</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Frank, M.,  (2015).
+               <italic>Präreflexives Selbstbewuβtsein. Vier Vorlesungen</italic>
+               . : Reclam
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Frank</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Präreflexives Selbstbewuβtsein. Vier Vorlesungen</source>
+               <publisher-name>Reclam</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Grotz, S. (2017).
+               <italic>Arbeit am Absoluten: das Erhabene in philosophiscer Perspektive</italic>
+               . En Leisch-Kiesl, M., Gottschlich, M., Winder, S (eds.);Ästhetische Kategorien. Perspektiven der Kunstwissenschaft und der Philosophie.  (101-124).: Transcript
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Grotz</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Arbeit am Absoluten: das Erhabene in philosophiscer Perspektive</chapter-title>
+               <year>2017</year>
+               <source>Ästhetische Kategorien. Perspektiven der Kunstwissenschaft und der Philosophie</source>
+               <publisher-name>Transcript</publisher-name>
+               <fpage>101</fpage>
+               <lpage>124</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Guyer, P.,  (2006).
+               <italic>Kant</italic>
+               . : Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Guyer</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Kant</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Kant, I.,  (1968a).
+               <italic>Kritik der reinen Vernunft</italic>
+               . : De Gruyter
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kant</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1968a</year>
+               <source>Kritik der reinen Vernunft</source>
+               <publisher-name>De Gruyter</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Kant, I.,  (1968b).
+               <italic>Kritik der Urteilskraft</italic>
+               . : De Gruyter
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kant</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1968b</year>
+               <source>Kritik der Urteilskraft</source>
+               <publisher-name>De Gruyter</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Kant, I.,  (1968c).
+               <italic>Anthropologie in pragmatischer Hinsicht</italic>
+               . : De Gruyter
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kant</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1968c</year>
+               <source>Anthropologie in pragmatischer Hinsicht</source>
+               <publisher-name>De Gruyter</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Kant, I.,  (1968d).
+               <italic>Kritik der praktischen Vernunft</italic>
+               . : De Gruyter
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kant</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1968d</year>
+               <source>Kritik der praktischen Vernunft</source>
+               <publisher-name>De Gruyter</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Lyotard, J.,  (1986).
+               <italic>Le Postmoderne expliqué aus enfants</italic>
+               . : Galilée
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lyotard</surname>
+                     <given-names>J-F.</given-names>
+                  </name>
+               </person-group>
+               <year>1986</year>
+               <source>Le Postmoderne expliqué aus enfants</source>
+               <publisher-name>Galilée</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Menninghaus, W.(1991). "Zwischen Überwältigung und Widerstand. Macht und Gewalt in Longinus und Kants Theorien des Erhabenen".
+               <italic>Poetica. 23</italic>
+               (1/2), 1-19.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Menninghaus</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <year>1991</year>
+               <article-title>Zwischen Überwältigung und Widerstand. Macht und Gewalt in Longinus und Kants Theorien des Erhabenen</article-title>
+               <source>Poetica</source>
+               <volume>23</volume>
+               <issue>1/2</issue>
+               <fpage>1</fpage>
+               <lpage>19</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Merritt, M. (2012).
+               <italic>The moral source of the Kantian sublime</italic>
+               . En Costelloe, T (autor.);The sublime. From antiquity to the present.  (37-49).: Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Merritt</surname>
+                     <given-names>M.M.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>The moral source of the Kantian sublime</chapter-title>
+               <year>2012</year>
+               <source>The sublime. From antiquity to the present</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <fpage>37</fpage>
+               <lpage>49</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Moran, D.,  (2002).
+               <italic>Introduction to phenomenology</italic>
+               . :  Routledge
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Moran</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Introduction to phenomenology</source>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Nietzsche, F.,  (1980a).
+               <italic>Die Geburt der Tragödie</italic>
+               . : De Gruyter
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nietzsche</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>1980a</year>
+               <source>Die Geburt der Tragödie</source>
+               <publisher-name>De Gruyter</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>
+               Nietzsche, F.,  (1980b).
+               <italic>Nachgelassene Fragmente</italic>
+               . : De Gruyter
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nietzsche</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>1980b</year>
+               <source>Nachgelassene Fragmente</source>
+               <publisher-name>De Gruyter</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>
+               Pierce, G.,  (2012).
+               <italic>Scapeland. Writing the landscape from Diderot’s ‘salons’ to the postmodern museum</italic>
+               . : Rodopi
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pierce</surname>
+                     <given-names>G.B.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Scapeland. Writing the landscape from Diderot’s ‘salons’ to the postmodern museum</source>
+               <publisher-name>Rodopi</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>
+               Pöpperl, C.,  (2007).
+               <italic>Auf der Schwelle: Ästhetik des Erhabenen und negative Theologie</italic>
+               . : Königshausen &amp; Neumann
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pöpperl</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Auf der Schwelle: Ästhetik des Erhabenen und negative Theologie</source>
+               <publisher-name>Königshausen &amp; Neumann</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B26">
+            <mixed-citation>
+               Tauber, Z.(2006). "Aesthetic education for morality: Schiller and Kant".
+               <italic>The Journal of Aesthetic Education. 40</italic>
+               (3), 22-47. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/4140178">https://www.jstor.org/stable/4140178</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tauber</surname>
+                     <given-names>Z.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>Aesthetic education for morality: Schiller and Kant</article-title>
+               <source>The Journal of Aesthetic Education</source>
+               <volume>40</volume>
+               <issue>3</issue>
+               <fpage>22</fpage>
+               <lpage>47</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/4140178">https://www.jstor.org/stable/4140178"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B27">
+            <mixed-citation>
+               Taylor, M.(2009). "Critical absorption: Kant’s theory of taste".
+               <italic>MLN. 124</italic>
+               (3), 572-591. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/29734528">https://www.jstor.org/stable/29734528</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Taylor</surname>
+                     <given-names>M.T.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Critical absorption: Kant’s theory of taste</article-title>
+               <source>MLN</source>
+               <volume>124</volume>
+               <issue>3</issue>
+               <fpage>572</fpage>
+               <lpage>591</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/29734528">https://www.jstor.org/stable/29734528"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

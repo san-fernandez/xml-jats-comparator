@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000100132</article-id>
+         <article-id pub-id-type="publisher-id">00011</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Análisis ético-político de los espaciamientos cognitivos, morales y estéticos</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Ethical-political analysis of cognitive, moral and aesthetic spaces</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7663-5481</contrib-id>
+               <name>
+                  <surname>Girado-Sierra</surname>
+                  <given-names>Jesús</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad de La Sabana, Bogotá, Colombia</institution>
+            <institution content-type="normalized">Universidad de La Sabana</institution>
+            <institution content-type="orgname">Universidad de La Sabana</institution>
+            <country country="CO">Colombia</country>
+            <email>jesus.girado@unisabana.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>64</issue>
+         <fpage>132</fpage>
+         <lpage>144</lpage>
+         <history>
+            <date date-type="received">
+               <day>08</day>
+               <month>01</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>03</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Este artículo presenta un análisis ético-político del fenómeno de discriminación como consecuencia de lo que Bauman llama espaciamientos sociales (cognitivos, morales y estéticos), explorando además las consecuencias biopolíticas que se derivan de estos. El soporte filosófico ha sido estructurado a partir de autores como Rorty, Walzer, Simmel, Nussbaum y Esposito, recurriendo al diálogo interdisciplinar con horizontes teóricos como los de la antropología social y la sociología. El aporte significativo de este texto está en que profundiza y amplía desde la filosofía la teoría de los espaciamientos sociales, recurriendo a conceptos como círculo del nosotros, fantasía de pureza, conciencia de inadecuación y experiencia emocional.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This paper presents an ethical-political analysis of the phenomenon of discrimination because of what Bauman calls social spacing (cognitive, moral and aesthetic), also exploring the biopolitical consequences derived from these. The philosophical support has been structured from authors like Rorty, Walzer, Simmel, Nussbaum and Esposito, resorting to interdisciplinary dialogue with theoretical horizons such as those of social anthropology and sociology. The significant contribution of this text is that it deepens and broadens the theory of social spacing from philosophy, using concepts such as circle of us, fantasy of purity, awareness of inadequacy, and emotional experience.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>espaciamiento</kwd>
+            <kwd>biopolitica</kwd>
+            <kwd>nosotros</kwd>
+            <kwd>pureza</kwd>
+            <kwd>inmunización</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>spacing</kwd>
+            <kwd>biopolicts</kwd>
+            <kwd>us</kwd>
+            <kwd>purity</kwd>
+            <kwd>immunization</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="22" />
+            <page-count count="13" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>Introducción</title>
+         <p>El “espacio” ha sido comprendido en las ciencias sociales como “principio de integración y base de una comunidad de intereses debidos a la proximidad, la contigüidad y la posibilidad de cooperación” (Malinowski 1984:83), también ha sido concebido como ente diferencial, posibilitador de procesos dialécticos y “terreno donde acontecen las relaciones de apropiación” (Lefebvre 2013:352). Gran parte de las reflexiones en torno al “espacio” se deben a la Escuela de Chicago, heredera de las reflexiones del filósofo Georg Simmel, el cual, al concebirlo como entidad neutra, advierte que este, en cuanto referente físico en sí mismo, no tiene mucha relevancia sociológica al momento de analizarlo, pues, solo adquiere sentido en cuanto aparece el entre-los-hombres, es decir, la intervención, la interacción y las dinámicas sociales como la construcción de identidad, el habitar, el trabajar, el ir de paso, entre otras; al respecto sostiene: “la acción recíproca que tiene lugar entre hombres se siente (se manifiesta) como el acto de llenar un espacio (…) En el momento en que (...) dos personas entran en acción recíproca, el espacio que existe entre ellos aparece lleno y animado” (Simmel 1977:645). Las tesis simmelianas hicieron que los análisis antropológicos, sociológicos, psicológicos y filosóficos, no solo le asignaran el adjetivo “social” al concepto de “espacio” sino que, como consecuencia, orientaran las investigaciones a la noción de “espacio social” (Salcedo. Del concepto de espacio social), la cual cobra sentido cuando, al analizar las dinámicas sociales, se observa la relevancia que adquiere la manera como se concibe, percibe y experimenta el espacio como condición de encuentro y desencuentro, pero también como condición en la creación de imaginarios (Castro. La risa del espacio) y portador de cargas semánticas asignadas que definen un adentro y un afuera.</p>
+         <p>En este horizonte, este artículo parte de la noción de “espacio social” como realidad que muestra una asombrosa relación simbiótica entre la dimensión física y social del espacio; de tal integración dinámica emergen fenómenos de planificación, clasificación, configuración de identidades, gestión emocional, discriminación y dispositivos biopolíticos, lo cual va trazando márgenes y creando distancias entre los individuos, es decir, en el paisaje humano va creando distanciamientos o espaciamientos sociales. De esto se infiere que la complejidad de la realidad social se manifiesta en la lucha cotidiana entre el habitar y el hábitat planificado, junto a las estrategias de administración de la vida, para imponer un orden que, en muchos casos, no resulta de un proceso deliberativo.</p>
+         <p>En tal sentido, lo que está en juego al analizar el fenómeno de discriminación y segregación en las sociedades contemporáneas -lo cual se da tanto en el espacio objetivo (físico) como en el espacio social- no son solo las fórmulas discursivas polivalentes que lo hacen visible, sino también las subyacentes realidades antropológicas que dan origen y sentido a las prácticas de construcción de un “nosotros”, frente a quienes se les representa como “los otros” (Todorov. Nosotros y los otros), partiendo del supuesto de que, como afirma Bauman, “cada uno de nosotros «construye» su propia variedad de «otros» a partir de la memoria sedimentada, seleccionada y procesada de encuentros pasados, comunicaciones, intercambios, trabajos conjuntos o batallas” (Bauman 2005:167). Esto es, dicha configuración de esos “otros” es hecha desde procesos que condicionan las dinámicas de encuentro, desencuentro, reconocimiento y des-reconocimiento entre las personas. En este horizonte, el mapa social en el que se configura un “nosotros” y un “los otros” es el resultado de una compleja interacción de procesos que Bauman, en cuanto heredero de la tradición sociológica de Simmel y Lefebvre, denomina “espaciamiento social”; diferenciando entre lo meramente físico y lo cualitativamente experimentado con otros seres humanos; señala entonces que, “debería vérselo como una interacción compleja de tres procesos entrelazados, aunque distintos -‘espaciamientos’ cognitivos, estéticos y morales-, y sus productos respectivos” (Bauman 2005:166).</p>
+         <p>Estas tres clases de espacio social o “no físico”, en tanto que emergen del entre-los-humanos, no deberían, sin embargo, ser vistos como meras “facetas” de un único paisaje social, toda vez que, como lo aclara Bauman, a través de estos tres espacios “se despliegan nociones de proximidad y distancia, cercanía y apertura; los tres mecanismos que producen el espacio son diferentes en cuanto a su pragmática y su resultado” (Bauman 2005:166); es decir, a cada espacio le corresponde una realidad antropológica: la primera es la cognitiva, la cual debe su configuración no solo a la proximidad o distancia intelectual entre las personas, sino también a los mecanismos de obtención y difusión del conocimiento; por otra parte, el espacio estético y el moral emergen de la realidad afectiva-emocional, la apertura o percepción del mundo y la búsqueda de experiencias intensas; y, específicamente, este último se urde mediante una “distribución desigual de responsabilidad sentida/asumida” (Bauman 2005:166).</p>
+         <p>A dicha tesis en torno a los espaciamientos sociales, constituidos por realidades antropológicas como lo cognitivo, lo moral y lo estético, se le suman en este texto reflexiones críticas sobre las consecuencias de la puesta en práctica de dispositivos biopolíticos de inmunización. A partir de estas dos claves de lectura, a la luz de los análisis descriptivos de las prácticas sociales y discursivas contemporáneas, se desarrolló la investigación que dio origen a este artículo; las interpretaciones ético-políticas se hicieron desde los planteamientos de autores como Goffman, Bauman, Elias, Todorov, Rorty, Walzer, Simmel, Nussbaum, Esposito, Levinas, Young, Sloterdijk, entre otros. El propósito es ofrecer un panorama más amplio para la comprensión y el tratamiento de las actuales socio-dinámicas de estigmatización y discriminación en las sociedades contemporáneas. Asimismo, los presupuestos teóricos y los resultados que se presentan en este texto no solo pretenden mostrar un camino de indagación que es preciso seguir recorriendo, sino que también aspiran a enriquecer futuras investigaciones crítico-analíticas, casos empíricos y descripciones densas.</p>
+      </sec>
+      <sec>
+         <title>El espaciamiento cognitivo</title>
+         <p>El aspecto cognitivo se refiere no solo a la cantidad y la calidad de conocimiento que las personas tienen de otros individuos, sino también al adecuado funcionamiento de los medios de obtención y difusión de dicho conocimiento (Habermas. On systematically distorted communication, Habermas. Teoría de la acción comunicativa, vol. II, Van Dijk Ideología y discurso, Sartori. Homo videns, Vattimo. La sociedad transparente, Castells. Comunicación y poder); ambos aspectos devienen en condiciones necesarias para que se estructuren relaciones basadas en la familiaridad, debido a que experimentan entrecruzamientos de sus trazos biográficos, pero también, porque se conciben como sujetadas a la misma estructura normativa. En otros términos, el saber que se comparten historias y perspectivas de vida, el reconocerse viviendo en la misma atmósfera legal o teniendo el mismo poder adquisitivo, el distinguirse como habitante de los mismos lugares, compartiendo la “fantasía de pureza” (Bauman 2001:14) social o, por el contrario, una especie de conciencia de inadecuación, resulta condición suficiente para que algunas personas reconozcan a otras como parte de su círculo del nosotros (Rorty. Contingencia, ironía y solidaridad) o, por ende, como extrañas a este. Así entonces, el aspecto cognitivo da en primera instancia una base “segura” al momento de concebir a ese “otro” como “uno de nosotros”. Es más, quienes no están en el campo de la intimidad son condenados al anonimato; es el caso de muchos inmigrantes pobres, individuos que inexorablemente son cotidianamente calificados como extraños o sobrantes. Sus vidas se convierten en un recipiente que se llena con relatos, “narrativas del crimen” (Do Rio Caldeira 2007:34), esto es, etiquetas o estigmas; más, pueden sufrir en casos extremos la más cruel indiferencia; sobre este fenómeno subraya: “Mientras más se alejan del polo de la intimidad, más se convierten en extraños (hasta que, en el extremo del anonimato, desaparecen totalmente de vista). De los extraños conocemos demasiado poco para comprometernos en una interacción, salvo la más superficial y rutinaria (en realidad, la presencia más disfrutable en este caso es la mutua abstención de interactuar). La ‘extrañeza’ de los extraños significa precisamente nuestra sensación de estar perdidos, de no saber cómo actuar y qué esperar, con la consiguiente falta de disposición a comprometernos. Evitar el contacto es la única salvación, pero incluso evitarlo por completo -si esto fuera posible- no nos salvaría de cierto grado de ansiedad e inquietud provocadas por una situación siempre impregnada del peligro de dar un paso en falso o cometer errores costosos” (Bauman 2005:170).</p>
+         <p>Así, muchas personas son inscritas en la categoría de “los otros” o concebidas como “los de-más”, es decir, son tratadas desde calificativos, relatos y etiquetas que las estigmatizan, mas, en el peor de los casos, pueden ser víctimas de la más fría indiferencia, al no ser consideradas como objetos del más mínimo interés. En cualquier caso, en cuanto individuos que generan in-certidumbre, son narrados como enemigos de la forma de vida segura que se ha construido, son concebidos como una real amenaza al orden conseguido; se les segrega lejos de los lugares donde habitan las personas adecuadas, establecidas y privilegiadas, al tratárseles en discursos oficiales y conversaciones cotidianas como peligrosos agentes del caos y la suciedad, como encarnación de los peores vicios, como animales, anomalías o vidas-antígenas. Lo que impera es lo que Norbert Elias llama “socio-dinámica de la estigmatización” (Simmel 2012:61), la cual obedece no solo a la distinción entre “gente conocida” y “extraños”, sino también a unas lógicas emocionales, donde los urbanitas se dividen entre quienes viven desde el orgullo por su condición de vida -desarrollando miedo y repugnancia hacia “los otros”- y quienes viven sintiendo vergüenza, humillación y desesperanza, al constituir el grupo de esos “otros”, extraños o pseudo-humanos.</p>
+         <p>Entonces, a partir de la dimensión cognitiva, se clasifica a las personas de acuerdo con el nivel de conocimiento que se tiene de ellas, de tal suerte que resulta relevante la familiaridad como condición de seguridad en el trato; por tanto, lo cognitivo deviene estructurante en el ámbito normativo o de las reglas de juego de las relaciones cotidianas. Esta es la razón por la cual es considerado como extraño a todo aquel que represente una amenaza, al ignorar o querer borrar alevosamente los límites garantes del orden y la pureza social; esto se pone de manifiesto en la actualidad en muchas sociedades (Delle, Alameda y Galán. Seis gráficos), al difundirse con naturalidad una visión aseptizada que promueve proyectos de “limpieza social” contra esos considerados “otros”, como si se tratara de expulsar una suciedad o a individuos que no solo son extraños con respecto a los nativos, sino con respecto a los humanos mismos.</p>
+         <p>A propósito, Bauman analiza la actitud que algunas sociedades asumen en la batalla contra extraños: “En esta guerra se despliegan intermitentemente dos estrategias alternativas, pero asimismo complementarias. Una primera antropofágica: aniquilar a los extraños devorándolos, para transformarles después metabólicamente en un tejido indistinguible del propio. Ésta era la estrategia de la asimilación: hacer semejante lo diferente; las distinciones culturales o lingüísticas, prohibir todas las tradiciones y lealtad salvo las dirigidas a alimentar la conformidad con el nuevo orden global; fomentar e imponer una y solo una medida de la conformidad. La otra estrategia era antropoemética: vomitar a los extraños, desterrarlos fuera de los confines del mundo ordenado y prohibirles toda comunicación con quienes permanecían dentro. Ésta era la estrategia de la exclusión: encerrar a los extraños entre muros visibles de los guetos o tras las prohibiciones invisibles, pero no por ello menos tangibles, de la comensalía, el connobium y el commercium” (Bauman 2001:28).</p>
+         <p>Sumado a esto, en la cotidianidad el trato con aquellos que no pertenecen al círculo del nosotros resulta basado en la desconfianza y la superficial cortesía, de tal suerte que el encuentro con “los otros” no suponga compartir biografías, ni desarrollar algún tipo de lazo confiable. De hecho, las normas sirven como dispositivos profilácticos para que los individuos que se conciben como nativos, originarios o establecidos, tengan una herramienta de protección que les permita un sentirse seguros o en un territorio libre de personas consideradas desechos sociales. Lo que está ocurriendo desde el punto de vista ético y antropológico es que, el nivel de lealtad, empatía y sentido de responsabilidad moral se torna dinámico (Walzer. Thick and thin, Rorty. Filosofía y futuro), debido a que se muestra denso y relativamente fuerte para con quienes están en el círculo del nosotros, mientras que deviene “delgado y frágil para los otros” (Sellars 1968:222). Aún más, las relaciones hacia estos extraños, al ser instrumentales (Simmel. El individuo y la libertad), basadas en la desconfianza y la desatención cortés (Goffman. The presentation of self), dan una evidente muestra del impacto negativo de cierta “desnutrición cognitiva” (Bauman 2005:174), que se manifiesta en el cuidarse de no atender el llamado al cuidado del otro, esto es, mantenerse siempre en “condiciones de neutralidad emocional o, mejor dicho, en condiciones libres del efecto perturbador de los afectos” (Bauman 2005:174).</p>
+         <p>Ahora bien, como resultado de la “desnutrición cognitiva” que cobra sentido desde el espaciamiento cognitivo entre el nosotros y “los otros”, lo que empieza a ocurrir es que incluso dentro del denominado círculo del nosotros, las personas se habitúan a construir sus relaciones desde cierta desatención cortés o desde intercambios donde se instrumentaliza a los otros, es decir, el rostro del otro y la mirada del otro se evitan, rehuyéndole a su infinitud, pero, también a la interpelación aguda que no solo llama al “no matarás”, si no al “cuida de mí” (Levinas 2002:74). El encuentro en las sociedades contemporáneas parece darse entre mónadas solitarias, distantes y desconfiadas, que solo se relacionan con los demás desde un “arte del desencuentro” (Bauman. Ética posmoderna), una “indiferencia cortés” (Goffman. The presentation of self) o un juego de “cooperación competitiva” (Park. La ciudad). No obstante, esta especie de “desnutrición cognitiva”, la cual conduce aparentemente a cierta “neutralidad emocional” (Bauman 2005:174), no supone estrictamente la supresión de la dimensión afectiva de los seres humanos, sino que se refiere específicamente a un estado de debilitamiento en el que se encuentra actualmente una emoción como la compasión; porque, por el contrario, estados emocionales como el miedo a los extraños, el orgullo por la situación privilegiada de cara a la condición vergonzosa y desesperanzada de otros, cobran hoy día cada vez más fuerza.</p>
+         <p>En este horizonte, el principal problema de las sociedades actuales ya no es cómo exterminar a esos considerados “otros”, sino cómo gestionar su molesta compañía; más, esto no quiere decir que la insuficiencia cognitiva que suponen incertidumbre y, por ende, un sentimiento de inseguridad, ya no lleve a las sociedades a campañas de “limpieza social”, sino que, por el contrario, en el mejor de los casos, la “desnutrición cognitiva” y la anemia emocional siguen detonando formas o estrategias cada vez más efectivas para “obtener control sobre el espacio social… esto es, confinar y reglamentar la libertad de los extraños y mantenerlos, de una vez por todas, donde les corresponde” (Bauman 2005:181).</p>
+         <p>En efecto, esos a quienes se les considera “extraños” son quienes están generalmente fuera del alcance del horizonte cognitivo, por tal razón, sobre ellos existe más ficción que certezas; es decir, sobre ellos solo se manejan etiquetas o relatos imprecisos, debido a que el espaciamiento cognitivo suele intentar llenarse con “mixofobia” (Bauman 2006:70) o, en el peor de los casos, con emociones como la repugnancia, dado que esos “extraños” empiezan a ser calificados como suciedad y “la suciedad es, como sabemos, algo fuera de lugar, que debería mantenerse lejos, ya que podría borrar las divisiones que sustentan el orden de las cosas” (Bauman 2005:184). De hecho, lo que queda en muchos casos para estas personas es el “fastidium” (Nussbaum 2006:119), en tanto que encarnan lo opuesto a la imagen de ser-humano que se ha construido desde la fantasía de pureza de algunos miembros privilegiados de la sociedad, quienes, movidos por “factores ideacionales” (Nussbaum 2006:107) que detonan “aporofobia” (Cortina. Aporofobia) o “proteofobia” (Bauman. Ética posmoderna), terminan sintiendo desagrado frente a gente que no les resulta muy conocida y, por tanto, sobre la cual no pueden tener certezas o junto a quienes no logran sentirse seguros. Asimismo, por lo general esos “otros” incomodan porque solo reflejan infortunio y suelen “recordar la propia vulnerabilidad o fragilidad humana que contantemente se intenta ocultar” (Nussbaum 2006:102). En todo caso, ese deseo de seguridad, pureza, orden e invulnerabilidad es el móvil de una acción biopolítica inmunitaria, en la que algunos pretenden hacer realidad su fantasía de pureza, en contra de los “desechos sólidos del proceso productivo llamado espacio social” (Bauman 2005:187). Esos concebidos como “desechos” son condenados al peor de los destinos malthusiano (Malthus. Ensayo sobre el principio de la población), o a vivir hacinados en vertederos humanos de donde se les toma como reciclaje para ser usados como mano de obra barata. Sin embargo, en el discurso dominante se promueve dicho proceso como algo “positivo”, pues, eliminar la impureza o la suciedad no es en sí mismo un acto negativo, sino un esfuerzo positivo por organizar el entorno (Douglas. Purity and danger, Ricoeur. Finitud y culpabilidad).</p>
+      </sec>
+      <sec>
+         <title>El espaciamiento moral</title>
+         <p>Dejando de lado la revisión crítica de la tesis del espaciamiento cognitivo, es necesario complementarla con un análisis en torno al papel que juega la dimensión moral en los fenómenos de estigmatización, exclusión, reclusión y expulsión de esos concebidos como “otros” o “extraños”. En este sentido, lo primero que hay que advertir es que mientras en el espacio cognitivo las categorías de proximidad, alejamiento y conocimiento del otro son fundamentales, en el espacio moral imperan categorías como responsabilidad, importancia, lealtad y afectos; en consecuencia, ya no se trata solo de considerar la toma de consciencia sobre el hecho de que se vive con “otros”, sino también de que el desafío de dicha convivencia es “vivir para esos otros” (Bauman 2005:188). Ahora, ese vivir para otros parece gestarse, a simple vista, desde una pugna constante entre la razón y los sentimientos; sin embargo, se trata más bien de una “encrucijada entre lealtades” (Walzer. Thick and thin, Rorty. Filosofía y futuro); es decir, el “extraño” representa a aquel del que no se sabe y, por tanto, del que se desconfía porque no se tiene con él ninguna familiaridad en tanto que no se ha creado una fuerte vinculación afectiva, por ende, no se le debe amistad, benevolencia y compasión, como condiciones de una lealtad densa que mueva a vivir para él, por el contrario, se le debe miedo, sospecha, rabia y repugnancia, como supuestos que detonan un vivir contra él.</p>
+         <p>Así entonces, en la configuración moral del círculo del nosotros y, por ende, de “los otros” se ponen en evidencia las emociones, en tanto suscitadas por el acervo de creencias que se conforman a partir de las narrativas cotidianas. En otras palabras, cuando un grupo de individuos cree que pertenece al lugar adecuado, privilegiado y puro de la sociedad, emociones como el orgullo y la esperanza se detonan, pero, al mismo tiempo, puede que cobren protagonismo la rabia, el miedo y repugnancia hacia aquellos narrados como inadecuados, extraños o impuros. En consecuencia, los grupos humanos estigmatizados suelen estar condenados a vivir desde emociones como la vergüenza, la humillación y la desesperanza, dado que, con el tiempo terminan por in-corporar una auténtica “conciencia de inadecuación” (Nussbaum 2006:219), esto es, los estigmatizados se reconocen a sí mismos como no ajustados a las expectativas sociales -económicas y raciales- de quienes experimentan orgullo al corresponder con ciertas condiciones de estirpe, consumo y apariencia. Dicho sentimiento de desajuste es resultado de un proceso moral en el que se mancha o estigmatiza la identidad de ciertos grupos (Goffman. Estigma: la identidad deteriorada), esto se da como corolario de una representación o descripción deteriorada de ciertos individuos, los cuales quedan inhabilitados para una plena aceptación e incorporación social. Los términos “mancha”, “estigma” y “deterioro” hacen referencia a una caracterización peyorativa, despectiva, ofensiva y desacreditadora, construida a través del tiempo por un grupo humano para referirse e interactuar con otro; siendo lo más significativo no la caracterización en sí, sino la connotación social que tiene esta; no obstante, a lo que se le debería prestar mayor atención es a las emociones que intervienen en todo este fenómeno de estigmatización, ya que estas son precisamente detonadas por esa caracterización que opera y toma forma en las creencias, los prejuicios, las etiquetas, las narrativas o los imaginarios alrededor de ciertos grupos humanos y, por ende, de los territorios que estos habitan, auto-segregándose para defenderse de la hostilidad del medio (Salcedo. Del concepto de espacio social), dado que terminan siendo “áreas sociales de seguridad en donde tendrán más posibilidades de defenderse, de auxiliarse mutuamente, de desarrollar la conciencia de comunidad” (Simmel 1977:697).</p>
+         <p>Ahora bien, es preciso en todo esto no perder de vista el vínculo entre lo cognitivo y lo moral, toda vez que “las emociones no son ciegas, sino que suponen una estructura cognitiva” (Nussbaum 2008:44), esto es, unas creencias o juicios valorativos soportados en prácticas discursivas generalmente dominantes. No obstante, esto no ha de ser entendido en el sentido de que el espaciamiento moral entre el círculo del nosotros y “los otros” se soporte o necesite de una justificación desde algún tipo de deber universal que parta del reconocimiento de una esencial igualdad, pues, por el contrario, lo que ha mostrado la historia es que “el compromiso con la ideología de «todos los hombres somos hermanos» no parece detener la intolerancia de personas que habrían tomado los derechos de hermandad con demasiada literalidad” (Bauman 2005:190). Por tanto, lo que sale a relucir en el espaciamiento moral es que la ‘responsabilidad moral’ no depende de una obligación ética universal que, sin más, lleve a las personas a reconocerse como iguales. Es más, lo que sucede en los fenómenos cotidianos de discriminación de los más vulnerables es que algunas personas dividen la realidad social entre humanos como ellos y pseudo-humanos (animales) como “los otros”. Esto pone de manifiesto cómo en el día a día se vive en medio de un juego de lealtades, sentimientos y emociones, luego de las cuales aparecen las argumentaciones, a modo de justificaciones de las acciones hacia los miembros del círculo del nosotros o hacia los otros. La justicia, se muestra en todo esto, en tanto fundamento moral y condición política, como una auténtica ampliación de la lealtad; así, lo que se ha descrito en la filosofía moral como una fricción entre sentimiento y razón -o entre confianza y obligación universal- (Baier. Hume ¿teórico moral de las mujeres?, Habermas y Rorty. Sobre la verdad, Habermas y Putnam. Normas y valores), no es más que la expresión de un desgarramiento por crisis de lealtades: “hacia un grupo más pequeño con respecto al reclamo de un grupo más extenso” (Rorty 2002:85), integrado incluso por aquellos estigmatizados como extraños.</p>
+         <p>No obstante, la lealtad y, por tanto, el sentimiento de responsabilidad moral se tornan densos al interior del círculo del nosotros cuando se está frente a los considerados como “otros”; es decir, el vínculo parece más fuerte al interior del nosotros como una forma de enfrentar a los “extraños”, independientemente de si luego las relaciones siguen siendo competitivas, frívolas o instrumentales. Tal parece que “sabemos quiénes somos solo cuando sabemos quiénes no somos, y con frecuencia solo cuando sabemos contra quiénes estamos” (Huntington 2005:22). De tal suerte entonces que, “según las cosas se ponen más feas, los lazos de la lealtad con los que nos son cercanos se estrechan, mientras los que nos unen con los lejanos se relajan” (Rorty 1998:106). En consecuencia, queda claro que el espaciamiento moral aparece con la construcción afectiva del círculo del nosotros en contraste con “los otros”, lo cual pone a las personas frente a la cruda realidad de que los vínculos sociales no se dan por la obediencia a un dictado de la razón de orientar la conducta hacia una obligación moral universal para con todos los seres humanos, sino por las siguientes razones: primero, porque todo desarrollo de un sentido de responsabilidad moral hacia “los otros” comienza como una ampliación de un esquema cooperativo primario (Baier. Hume ¿teórico moral de las mujeres?) o de la experiencia de confianza que se ha tenido previamente en el círculo del nosotros; por tal razón, el reclamo de una responsabilidad moral universal no es más que una forma de expresar el deseo de “dar a muchos la lealtad y el trato humano que se da de forma espontánea a los nuestros” (Rorty 1998:111); y, segundo, porque el “nosotros” es un “centro de gravedad narrativa” (Rorty 1998:109) a partir del cual las personas se auto-describen, dan sentido a sus acciones morales y se distinguen frente a otras formas de vida. Todo esto explica en parte por qué algunos individuos conciben como adecuada la estigmatización y exclusión de otras personas, usando expresiones de justificación, tales como: “es que no son como los nuestros”, “no comparten nuestras costumbres” o, en su forma más cruel, "these aren't people. These are animals", tal como lo afirmaba Donald Trump al referirse a algunos inmigrantes violentos (La Vanguardia. Trump llama ‘animales’ a los inmigrantes).</p>
+         <p>En este horizonte, valdría la pena repensar gran parte de las teorías morales que se han centrado en la consideración de que el problema de ampliar el círculo del nosotros está en la falta de racionalidad de algunas prácticas sociales y discursivas excluyentes; es hora de explorar la idea de que, en el espacio moral, la diferencia entre falta o presencia de racionalidad es la misma diferencia que existe entre una amenaza y una posibilidad: la posibilidad de “extender la identidad moral y ampliar la lealtad” (Rorty 1998:120) hacia quienes antes eran vistos como “extraños”. Asimismo, es importante poner atención al peligro que representa no solo la manipulación en la creación o ampliación de espaciamientos morales, sino también al cierre hermético de ese círculo del nosotros; cuando ambos peligros se consuman, las personas terminan tomando como criterio fundamental para distinguirse de otros grupos descripciones como “nosotros los europeos puros”, “nosotros los estadounidenses blancos” o “nosotros la gente decente”, imposibilitando la configuración de otras identidades o privándose de otras múltiples estructuras morales que pueden tener a su alcance (Breithaupt. Culturas de la empatía).</p>
+      </sec>
+      <sec>
+         <title>El espaciamiento estético y las estrategias biopolíticas</title>
+         <p>En lo que respecta al espaciamiento estético es necesario tener en cuenta dos aspectos: el primero, referido a una experiencia del espacio social como “un espectáculo en el que el valor de la diversión supera cualquier otra consideración” (Bauman 2005:191) y, en tal sentido, las personas en tanto habitan dicho espacio desde una apertura emocional, viven con un constante deseo de acumular experiencias o sensaciones; el segundo aspecto está orientado a la extensión espacial y social de cierta fantasía de pureza. Así entonces, el primer aspecto, donde la consideración del espaciamiento estético se hace desde nociones como experiencia, sensaciones y espectáculo, lo que sale a relucir es la teatralidad presente en las dinámicas humanas, en el sentido en que el infortunio de las personas a quienes se les califica como sobrantes o extrañas es tomado por la mayoría de los espectadores como mero entretenimiento. El segundo aspecto, el cual apunta a concebir el espaciamiento estético como vinculado a una fantasía de pureza, se refiere a cómo la exclusión de algunos grupos sociales responde a cierta búsqueda de asepsia social o de “control estético” y, por ende, el miedo y los muros cobran protagonismo en cuanto consumación de dicha fantasía de pureza como garantía de orden y seguridad; esta realidad de las actuales dinámicas sociales es una genuina muestra de la efectividad de programas biopolíticos que clasifican la vida y los espacios donde esta se desarrolla, bajo el criterio de la contaminación o la inmunización: “Los extraños pueden disfrutar únicamente si su extrañeza ya ha sido asegurada, si los espectadores la intuyen y tienen confianza de que la complacencia no representa ningún peligro […] Únicamente en el espacio bien administrado y vigilado es posible el disfrute estético de la ciudad. Solo entonces pueden los espectadores ‘estar en control’, en el sentido estético de la palabra. La belleza del ‘control estético’ -la clara belleza, una belleza no tocada por el temor del peligro, una conciencia culpable o la aprehensión de la vergüenza- es su inconsecuencialidad. Este control no interferirá con la realidad de los controlados, ni limitará sus opciones” (Bauman 2005:192).</p>
+         <p>En el espacio social parece haberse consumado la absurda búsqueda de entretenimiento que describía Huxley (Nueva visita a un mundo feliz), al punto de ver en la desgracia del otro simple contenido de distracción y diversión; así, la trama de la vida parece verse como una escenificación de un acto que debe ser evaluado estéticamente (Harvey. La condición posmoderna). En tal sentido, se comienza a clasificar a las personas de acuerdo con su contribución o su obstaculización al “control estético”, asunto del cual dependerá que entre los grupos sociales se establezcan espaciamientos estéticos. Es decir, algunas personas cuentan entre quienes pervierten el ideal de “control estético”, por tanto, frente a estas personas algunos grupos, al sentirse acechados, desarrollan estrategias de inmunización social, con el fin de evitar que se desdibuje la diferencia entre la vida-antígena (estéticamente inadecuada) y la vida-adecuada. Sin embargo, cuando el espaciamiento estético parece sustraído o amenazado, la práctica más recurrente es la de robustecer las estrategias de inmunización de los espacios y fomentar una teleciudad (Echeverría. Telépolis); desde la cómoda y controlada situación de la telepantalla los “extraños” pueden ser vistos en sus territorios como si fueran los que en verdad hacen realidad eso de vivir en un salvaje hábitat o en un “zoológico-humano” (Morris. El zoo humano). Gracias a la teleciudad aquellos “animales” con vidas salvajes, miserables y viciosas (Vega. Los mexicanos traen crimen y drogas) aparecen expuestos, pero de forma segura o controlada detrás de la telepantalla: “la teleciudad es el espacio estético último. Ahí los otros aparecen solamente como objetos de disfrute, sin ataduras; podemos hacer que desaparezcan de la pantalla y, por ende, del mundo cuando dejan de ser divertidos” (Bauman 2005:202).</p>
+         <p>Así entonces, aquello que inicia como una clasificación de los grupos teniendo como criterio su contribución o perversión del “control estético”, termina como una justificación para el espaciamiento estético entre los considerados adecuados y los calificados como vida-antígena; sin embargo, esto no acaba con la inmunización de ciertos espacios físicos, a donde no pueden entrar esos concebidos como suciedad, el recurso más seguro aún es verlos a través de la telepantalla. Todo esto es consecuencia de cierta “proteofobia” (Bauman 2005:187) o miedo a esos a quienes no se puede atender sino en un ambiente donde reine el “control estético”; no obstante, esto no está lejos de la proteofília, es decir, del deseo de experimentar la diversidad en el espacio social, siempre y cuando lo extraño esté controlado y dispuesto para ser disfrutado como atracción y entretenimiento, incluso si se tratara de un grupo de infortunados, en tanto que es algo que le acontece a esos “otros”, no a “alguno de los nuestros”.</p>
+         <p>Sin embargo, es necesario dar un paso más allá de esta primera comprensión del espaciamiento estético, por tal motivo, se hace necesaria una lectura biopolítica (Esposito. Filosofía y biopolítica) de dicho espaciamiento, desde la cual es posible entender cómo en algunas sociedades se da una “expresión y también una tendencia cada vez más fuerte a proteger la vida de los riesgos implícitos en la relación entre los hombres, en detrimento de la extinción de los vínculos” (Esposito 2006:10) y, por ende, donde la estética se concibe como una búsqueda de orden, belleza y pulcritud; sirviendo esto como criterio para clasificar los espacios y, por ende, administrar la vida como cuerpo. Ahora, no sería adecuado seguir interpretando la operatividad de estos criterios estéticos a partir de una teoría metafísica del poder, que lleve a considerar que estos son impuestos por una especie de macro-estructura (Foucault. Historia de la sexualidad); sería mejor comprender que dichos criterios se van convirtiendo en estructura-estructurante o habitus (Bourdieu. Réponses, Valladares. La ciudad, antecedentes y nuevas perspectivas), es decir, son urdidos cotidianamente, haciendo modus vivendi el estigma y la segregación.</p>
+         <p>Así entonces, una vez que se lee la discriminación y la exclusión desde la biopolítica, se observa cómo dicho fenómeno es una expresión de la lógica de la inmunitas, esto es, de “la privación, la negación y el quiebre del munus, o sea, del vínculo, la inclusión, el don y la restitución” (Esposito 2009a:14). Es una obstaculización de la reciprocidad, una restricción de la acción de acoger y re-conocer aquello que se ha declarado no-conocido, no-propio o no-puro. Mas, las estrategias biopolíticas de inmunización, al suponer el mal al que tratan de reaccionar, revelan una paradoja: se excluye a “los otros” solo en cuanto que se cree que personifican la negación del ideal de inmunidad; de tal suerte que se les combate a través de una “inclusión excluyente” o una “exclusión incluyente”, como en una dinámica dialéctica en la que el organismo social solo puede sobrevivir gracias a aquello que amenaza con dañarlo, por tal razón el declarado como “antígeno”, en última instancia, es necesario para darle fuerza al organismo que lo combate: “lo negativo no solo sobrevive a su cura, sino que constituye la condición de eficacia de ésta” (Esposito 2009a:18). Dicha paradoja se pone en evidencia al observar que, esos mismos a quienes se les considera “extraños” son empleados para sostener los proyectos de inmunización que agrandan los espaciamientos sociales entre ellos mismos y quienes los discriminan: son la mano de obra barata en la construcción de unidades residenciales fuertemente custodiadas, ayudan en la vigilancia de los centros de consumo, en el blindaje de los carros y, en definitiva, en el cuidado de los territorios donde reina el “control estético”. En otras palabras, se justifica su existencia y su intermitente “inclusión” en que son vistos como la más barata respuesta al peligro y la contaminación que representan algunos grupos sociales, a los cuales ellos irónicamente pertenecen.</p>
+         <p>A simple vista, la vida humana parece privada de cualquier otro valor que no sea el material. No obstante, lo que está sucediendo es una reducción de la vida al solo cuerpo como partícula útil en el gran organismo social; por tanto, lo que está imperando es la acción de prohibir el movimiento de algunas vidas-antígenas en los territorios inmunizados; y la dinámica de poder hacia dichos cuerpos se materializa en la vigilancia, no en el cuidado. Más aún, la reproducción de estos cuerpos genera una enorme preocupación, debido a que son concebidos como una verdadera amenaza viral que puede poner en riesgo la materialización del “control estético”. Los espaciamientos estéticos que se generan en tal realidad logran su máxima expresión en las estrategias biopolítica que se sostienen sobre narrativas de “los otros” como amenazas al organismo o cuerpo social, lo cual deriva en una perversa terapéutica social que promueve la immunitas como quiebre del munus o vínculo, y no de la communitas como “refuerzo y extensión del vínculo” (Esposito 2009b:111).</p>
+         <p>Ahora bien, la exacerbación de la inmunización conlleva a la auto-destrucción. Primero, porque “el recorte artificial del bios cada vez se achica más” (Esposito 2006:130), hasta que los grupos sociales se terminan aislando tanto de “los otros” que les resulta imposible vivir por sí mismos; segundo, porque se está en riesgo de un control exacerbado de la vida de los individuos, lo cual puede derivar en una especie de ataque hacia el propio cuerpo social, como reacción a la atmósfera de sospecha y a las estrategias de “limpieza social” que pueden terminar en perversos dispositivos tanatopolíticos (Foucault. El nacimiento de la biopolítica), es decir, “como en las enfermedades denominadas autoinmunes, el sistema inmunitario se hace lo suficientemente fuerte como para atacar al propio cuerpo al que debería salvar, causando su destrucción” (Esposito 2009b:132).</p>
+         <p>En suma, el espaciamiento estético puede derivar en estrategias biopolíticas de inmunización; algunas de estas pueden ser: la absoluta normalización de la vida, referida al “aprisionamiento del bios dentro de la ley de su destrucción” (Esposito 2009b:139), en tanto, el ejercicio del poder y el habitus promueven la discriminación y la clasificación de cierto tipo de grupos como vidas-antígenas, que deben ser excluidas y recluidas para hacer realidad la fantasía de pureza o el ideal de “control estético”. Otra estrategia es la doble clausura del cuerpo, con la cual se hace realidad en la construcción y conservación de cuerpos-sociales aparentemente purificados de cualquier inmundicia o contaminación, representada en los extraños o sobrantes del sistema; la doble clausura intenta subrayar no solo la dinámica de auto-encerramiento inmunitario de algunos grupos sociales con el fin de mantenerse diáfanos de acuerdo a su ideal de pureza, sino también a los dispositivos de vigilancia, persecución, castigo y encerramiento en zonas marginales o cárceles a quienes representan una amenaza al organismo social. Una última estrategia es la supresión anticipada del nacimiento, generalmente, evitando que las vidas-antígenas se reproduzcan aún más, para lo cual se incrementan las medidas para mantener un severo control demográfico entre estas personas.</p>
+      </sec>
+      <sec>
+         <title>Conclusiones</title>
+         <p>Este análisis filosófico de la discriminación y la exclusión, a partir de la clave de lectura de los espaciamientos sociales (cognitivos, morales y estéticos), los cuales devienen genuinos distanciamientos entre el nosotros y “los otros”, pone de relieve que uno de los problemas nucleares en las actuales dinámicas sociales es la relación emociones-espacio (tanto físico como social); o, dicho en términos de Sloterdijk (Esferas III), la construcción de espacios y la asignación de distintos sentidos a estos. De dicho tema se terminan derivando fenómenos como la conformación de identidades y la “topofilia” (Tuan. Topofilia), en los que la representación de “los otros” también depende del sentimiento frente al espacio que ocupan ellos, en contraste con aquel destinado para el desarrollo del círculo del nosotros; es decir, el significado de los espacios depende de la valoración estética que se hace del mismo, asunto en el cual “juegan un papel preponderante las emociones” (Tuan 2007:130). En razón de esto, las ponderaciones asimétricas de los espacios físicos están en una compleja integración dinámica con el sentido (simbólico) que las personas le asignan; así entonces, algunos espacios son concebidos como “vertederos humanos” (Bauman 2005:166), lugares para vivir desde la vergüenza y la desesperanza (Moïsi. Geopolítica de las emociones), otros, por el contrario, son pensados como territorios asépticos e inmunizados, donde se habita el mundo desde emociones como el orgullo y la esperanza.</p>
+         <p>Otras conclusiones que se siguen de este análisis se pueden sintetizar de la siguiente forma: primero, algunas sociedades se han convertido en eficientes productoras y reproductoras de discursos sobre el miedo, legitimando la implementación de dispositivos biopolíticos, para excluir y recluir a la vida considerada antígena para el cuerpo social; segundo, se han fragmentado los territorios y se han reforzado con cierta precisión quirúrgica las fronteras, todo esto con el objeto de impedir encuentros indeseados o la invasión territorial por parte de quienes son descritos como animales, suciedad o amenaza al “control estético”; en consecuencia, tercero, han tomado un gran protagonismo los muros -en las amenazas en el discurso y en la implementación real-, evidenciados no solo en las fronteras, sino también en la construcción de auténticas fortalezas en donde se puede experimentar el “control estético”, resguardándose así del peligro de aquellos que son la personificación del riesgo (a quienes solo se les permite ingresar a los enclaves para que sirvan al sostenimiento del ideal de orden y tranquilidad). Ahora bien, todas estas prácticas sociales y discursivas, basadas en el miedo, son corolario de la idea de que esos “otros” representan un riesgo para el disfrute del “control estético”. En tal sentido, el espacio social se torna cada vez más lugar de fricciones y conflictos entre unos que tienen miedo a que sus muros sean traspasados y otros que tienen miedo a seguir siendo excluidos, cruelmente confinados y condenados a la vergüenza y el destierro hacia las periferias.</p>
+         <p>En definitiva, tanto los que se auto-encierran como los excluidos comparten el mismo miedo al des-reconocimiento y la vulnerabilidad: “un fallo momentáneo de vigilancia basta para que los excluyentes sean excluidos. Un fantasma recorre este terreno de combate: el espectro de la exclusión, de la muerte metafórica” (Bauman 2013:69). La muerte metafórica es la condena al des-reconocimiento; es la invisibilización del rostro; es la “reducción del infinito a la completud de la cara o la máscara” (Levinas 2002:212); es la disminución de la persona a estereotipos, etiquetas y relatos inauténticos que desdicen de su dignidad (Buber. Yo y tú); y todo esto es producto de los espaciamientos sociales en tanto brechas cognitivas, morales y estéticas, las cuales se intentan llenar con narrativas deformadas que, aunque son una forma de simplificar la comprensión del mundo humano, terminan por ser impedimento para la justicia y la solidaridad, detonando miedos que terminan en la construcción de barricadas no solo simbólicas, sino también físicas, configurando una auténtica “estética de la seguridad”, donde las fortalezas de resguardo son tremendamente sofisticadas, no solo para resguardar contra la gente peligrosa, sino también para mostrar el estatus social de los encerrados: “cámaras sofisticadas, intercomunicadores y portones con apertura electrónica, sin hablar del proyecto y de la arquitectura defensivos, se convierten en afirmaciones de la posición social” (Do Rio Caldeira 2007:354). El miedo a la invasión y a la muerte metafórica está detrás de la creciente construcción de cercas, pero también a la eclosión de estereotipos o el lenguaje discriminatorio y segregador contra esos concebidos como “los otros” (Virilio. La inseguridad del territorio).</p>
+         <p>En definitiva, lo que los espaciamientos sociales y sus consecuentes estrategias biopolíticas de inmunización van produciendo en el paisaje social es una atmósfera de sospecha, de estigmatización, de humillación, de segregación y anulación de lo diferente. Es el miedo, incluso expresado como repugnancia, el que subyace a estos fenómenos y toma el control, quebrando cualquier tendencia a la solidaridad o la inclusión; detonando así dispositivos de vigilancia y castigo. Aún más, el miedo al “extraño” no solo se auto-refuerza con cada reproducción de las narrativas o discursos, sino que justifica la idea de “mantener cierta distancia social” (Navalles 2011:174), transformándose de manera significativa la experiencia de con-vivir y cuidar de los otros: “los encuentros en el espacio público se hacen cada día más tensos, hasta violentos, porque tienen como referencia los estereotipos y miedos de las personas. Tensión, separación y sospecha son las nuevas marcas de la vida pública” (Do Rio Caldeira 2007:363).</p>
+         <p>Sin embargo, este fenómeno no debe ser enfrentado con un intento de homogeneización. La tiranía de la uniformidad en realidad es la que subyace a muchas de las dinámicas de discriminación y exclusión; es decir, si la condición para reconocer a “los otros” es su similitud con nosotros, el desgaste de la dimensión moral y política en una sociedad es inminente, en tanto que no se trata de una genuina ampliación del círculo del nosotros en virtud del valor que tiene en sí mismo lo distinto (Breithaupt. Culturas de la empatía). En la convivencia, resulta entonces importante la aceptación, valoración y promoción de lo distinto, en el sentido en que las relaciones sociales deberían advertir la diferencia sin exclusión, pues, de lo contrario, se estaría frente a una perversa “dictadura de la homogeneización” (Young 1990:227) o ante el fenómeno de construcción de invernaderos humanos inmunizados (Vázquez. Peter Sloterdijk: espumas), donde no tenga lugar la vida-antígena.</p>
+         <p>Por último, y tomando la vía de la reforma y no de la revolución, es importante considerar, para hacer frente a estos actos crueles, la práctica de incentivar a las personas a que eduquen sus emociones, mediante “relatos que los pongan en contacto con la forma de vida de los otros” (Rorty 1998:172); gracias a la educación sentimental, los seres humanos no solo han logrado alcanzar cierto grado de benevolencia, sino que en ella reside la clave para seguir ampliando ese círculo del nosotros al incluir a “los otros”, ya que los análisis morales que acompañan algunas investigaciones de las ciencias sociales y humanas tienden a ignorar un caso muy común: “el de la persona cuyo trato con una franja bastante estrecha de bípedos implumes es moralmente impecable, pero que permanece indiferente ante el sufrimiento de los que no entran en esa franja, aquellos que considera pseudo-humanos” (Rorty 1998:177). La apuesta por la educación sentimental apunta no solo a que el miedo y la repugnancia hacia los “extraños” den paso al reconocimiento, el cuidado del otro y la solidaridad, sino también a que se mejore la justicia hacia ellos, partiendo del “imaginarse en esa situación” o generar simpatía con su infortunio. Esta sería una manera de contrarrestar la tendencia a perversos “controles estéticos” o sociedades con una inmunización exacerbada, en las que se narre a esos “otros” como no-humanos o virus que, al no ser considerados como del círculo del nosotros, están condenados a ser excluidos, cargando con el estigma social y la conciencia de inadecuación a la fantasía de orden y pureza. En suma, es preciso construir sociedades donde no se profundicen o amplíen los espaciamientos sociales, donde no se siga promoviendo la construcción de invernaderos inmunizados, sino que, por el contrario, se eduque en el rechazo a los actos crueles como la humillación, como punto de partida para una cultura del encuentro, el reconocimiento y la solidaridad.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Bauman, Z.,  (2001).
+               <italic>La posmodernidad y sus descontentos</italic>
+               .  Madrid: Akal
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bauman</surname>
+                     <given-names>Z.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>La posmodernidad y sus descontentos</source>
+               <publisher-name>Akal</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Bauman, Z.,  (2005).
+               <italic>Ética posmoderna</italic>
+               .  Buenos Aires: Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bauman</surname>
+                     <given-names>Z.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source>Ética posmoderna</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Bauman, Z.,  (2006).
+               <italic>Confianza y temor en la ciudad. Vivir con extranjeros</italic>
+               .  Barcelona: Arcadia
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bauman</surname>
+                     <given-names>Z.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Confianza y temor en la ciudad. Vivir con extranjeros</source>
+               <publisher-name>Arcadia</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Bauman, Z.,  (2013).
+               <italic>Miedo líquido: La sociedad contemporánea y sus temores</italic>
+               .  Barcelona: Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bauman</surname>
+                     <given-names>Z.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>Miedo líquido: La sociedad contemporánea y sus temores</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Do Rio Caldeira, T.,  (2007).
+               <italic>Ciudad de muros</italic>
+               .  Barcelona:  Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Do Rio Caldeira</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Ciudad de muros</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Esposito, R.,  (2006).
+               <italic>Biopolítica y filosofía</italic>
+               .  Buenos Aires: Grama
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Esposito</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Biopolítica y filosofía</source>
+               <publisher-name>Grama</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Esposito, R.,  (2009).
+               <italic>Inmunitas: protección y negación de la vida</italic>
+               .  Buenos Aires: Amorrortu
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Esposito</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Inmunitas: protección y negación de la vida</source>
+               <publisher-name>Amorrortu</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Esposito, R.,  (2009).
+               <italic>Comunidad, inmunidad y biopolítica</italic>
+               .  Barcelona: Herder
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Esposito</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <source>Comunidad, inmunidad y biopolítica</source>
+               <publisher-name>Herder</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Huntington, S.,  (2005).
+               <italic>Choque de civilizaciones</italic>
+               .  Buenos Aires: Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Huntington</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <source>Choque de civilizaciones</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Lefebvre, H.,  (2013).
+               <italic>La producción del espacio</italic>
+               .  Madrid: Capitán Swing
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lefebvre</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <source>La producción del espacio</source>
+               <publisher-name>Capitán Swing</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Levinas, E.,  (2002).
+               <italic>Totalidad e infinito</italic>
+               .  Salamanca: Sígueme
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Levinas</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Totalidad e infinito</source>
+               <publisher-name>Sígueme</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Malinowski, B.,  (1984).
+               <italic>Una teoría científica de la cultura</italic>
+               .  Madrid: Sarpe
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Malinowski</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>1984</year>
+               <source>Una teoría científica de la cultura</source>
+               <publisher-name>Sarpe</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Navalles, J.(2011). "Acercamientos a la distancia social".
+               <italic>Athenea Digital. 11</italic>
+               (2), 173-190. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=53719732011">http://www.redalyc.org/articulo.oa?id=53719732011</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Navalles</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Acercamientos a la distancia social</article-title>
+               <source>Athenea Digital</source>
+               <volume>11</volume>
+               <issue>2</issue>
+               <fpage>173</fpage>
+               <lpage>190</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=53719732011">http://www.redalyc.org/articulo.oa?id=53719732011"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Nussbaum, M.,  (2006).
+               <italic>El ocultamiento de lo humano</italic>
+               .  Buenos Aires: Katz
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nussbaum</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>El ocultamiento de lo humano</source>
+               <publisher-name>Katz</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>
+               Nussbaum, M.,  (2008).
+               <italic>Paisajes del pensamiento. La inteligencia de las emociones</italic>
+               .  Barcelona: Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nussbaum</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Paisajes del pensamiento. La inteligencia de las emociones</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>
+               Rorty, R.,  (1998).
+               <italic>Truth and progress</italic>
+               .  Cambridge: Cambridge University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rorty</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>Truth and progress</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>
+               Rorty, R.,  (2002).
+               <italic>Filosofía y futuro</italic>
+               .  Barcelona: Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rorty</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Filosofía y futuro</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>
+               Simmel, G.,  (2012).
+               <italic>El extranjero. Sociología del extraño</italic>
+               .  Madrid: Sequitur
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Simmel</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>El extranjero. Sociología del extraño</source>
+               <publisher-name>Sequitur</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>
+               Simmel, G.,  (1977).
+               <italic>Sociología 2: Estudio de las formas de socialización</italic>
+               .  Madrid: Revista de Occidente
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Simmel</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>1977</year>
+               <source>Sociología 2: Estudio de las formas de socialización</source>
+               <publisher-name>Revista de Occidente</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>
+               Sellars, W.,  (1968).
+               <italic>Science and metaphysics</italic>
+               .  New York: Humanities Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sellars</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <year>1968</year>
+               <source>Science and metaphysics</source>
+               <publisher-name>Humanities Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>
+               Tuan, Y.,  (2007).
+               <italic>Topofilia. Un estudio sobre percepciones, actitudes y valores del entorno</italic>
+               .  Barcelona: Melusina
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tuan</surname>
+                     <given-names>Y.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Topofilia. Un estudio sobre percepciones, actitudes y valores del entorno</source>
+               <publisher-name>Melusina</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>
+               Young, I.,  (1990).
+               <italic>Justice and the politics of difference</italic>
+               .  Princeton: Princeton University Press
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Young</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <source>Justice and the politics of difference</source>
+               <publisher-name>Princeton University Press</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.4" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000100001</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La incompatibilidad de la incertidumbre en economía con la lógica del <bold> <italic>homo economicus</italic> </bold> y con la construcción de sistemas cerrados</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Incompatibility of uncertainty in economics with the logic of the <bold> <italic>homo economicus</italic> </bold> and with the construction of closed systems</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-9997-3720</contrib-id>
+					<name>
+						<surname>Ivarola</surname>
+						<given-names>Leonardo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original"> (ivarola@economicas.uba.ar) CONICET (Buenos Aires, Argentina) </institution>
+					<institution content-type="normalized">Consejo Nacional de Investigaciones Científicas y Técnicas</institution>
+					<institution content-type="orgname">CONICET</institution>
+					<addr-line>
+						<named-content content-type="city">Buenos Aires</named-content>
+					</addr-line>
+					<country country="AR">Argentina</country>
+					<email>ivarola@economicas.uba.ar</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>58</issue>
+			<fpage>01</fpage>
+			<lpage>12</lpage>
+			<history>
+				<date date-type="received">
+					<day>26</day>
+					<month>11</month>
+					<year>2016</year>
+				</date>
+				<date date-type="accepted">
+					<day>09</day>
+					<month>01</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>La tesis principal del artículo es que la estrategia estándar de modelización económica basada en la construcción de sistemas cerrados y de agentes optimizadores es ineficaz para el tratamiento de la incertidumbre. Puesto que bajo incertidumbre los agentes económicos desconocen cuál es el resultado final de un curso de acción, las decisiones de estos no deberían ser representadas por el cálculo de optimización bajo restricciones. La construcción de sistemas axiomáticos deductivos que conducen a la derivación de un único resultado también será puesta en tela de juicio, y se propondrá su reemplazo por una lógica de investigación basada en simulaciones. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The purpose of this essay is to show that the standard approach of economic modelling (which consists of assuming closed systems and optimizing agents) is ineffective for the issue of uncertainty. Since under uncertainty economic agents do not know the final outcome of a course of action, their decisions should not be represented by the process of constrained optimization. The construction of axiomatic systems that lead to the derivation of a single result is also put into question; its replacement by a simulation-based approach is proposed.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>incertidumbre</kwd>
+				<kwd>homo economicus</kwd>
+				<kwd>modelos económicos</kwd>
+				<kwd>simulación</kwd>
+				<kwd>sistemas cerrados</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>uncertainty</kwd>
+				<kwd>homo economicus</kwd>
+				<kwd>economic models</kwd>
+				<kwd>simulation</kwd>
+				<kwd>closed systems.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="10"/>
+				<page-count count="12"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>La modelización estándar en economía consiste en diseñar sistemas cerrados donde se garantice la inferencia de resultados a través de una lógica axiomático deductiva. Asimismo, asume un agente representativo (el <italic>homo economicus</italic> ), el cual toma decisiones racionales gracias a su capacidad para conocer ex-ante los resultados de una alternativa de decisión o curso de acción. Si bien esta estrategia de modelización puede servir para la comprensión de vastos escenarios económicos, no lo es para aquellos que involucran <italic>incertidumbre</italic> . Bajo incertidumbre, los agentes desconocen cuál será el resultado final de una decisión. No hay aquí una racionalidad optimizadora, sino más bien una suerte de &quot;apuesta&quot; enmarcada en un escenario de azar irreductible. La figura del <italic>homo economicus</italic> es inútil en estos casos, ya que sin conocer los resultados pertinentes este agente es incapaz de optimizar. </p>
+			<p>En este sentido, en el presente trabajo se propondrá reemplazar dicha figura por la de un agente que pueda tomar decisiones en contextos de incertidumbre, al cual se denominará &quot;<italic>homo ludens</italic> &quot;. Se mostrará que las acciones de este agente involucran algo más complejo que los meros cálculos matemáticos que hace un <italic>homo economicus</italic> . Asimismo, se hará una crítica a la modelización de sistemas cerrados, en función de que esta estrategia involucra apegarse a un único resultado (aquel inferido en el modelo), desechando cualquier otra alternativa posible. Puesto que esto puede acarrear problemas tanto de validez externa (referente a la incapacidad de exportar los resultados de un modelo más allá de su respectivo dominio) como de exposición a <italic>cisnes negros</italic> , se propondrá reemplazar la modelización de sistemas cerrados por la de las simulaciones. A diferencia de los sistemas cerrados, en las simulaciones <italic>no sabemos</italic> cuál será el resultado final de una elección y/o decisión. No obstante, es una actividad que nos proporciona un conocimiento sobre <italic>posibilidades</italic> , lo cual nos permite superar tanto problema de validez externa, al tiempo que evitamos exponernos -al menos fácilmente- a cisnes negros. Un conocimiento sobre posibilidades y sobre las consecuencias de dichas posibilidades abre el camino a una nueva manera de pensar la racionalidad: no como estrategia de optimización, sino como la búsqueda, identificación y posterior elección de asimetrías positivas. </p>
+		</sec>
+		<sec>
+			<title>Construcciones distorsivas en economía. La omisión de la incertidumbre</title>
+			<p>Dentro de la filosofía de las ciencias sociales en general y de la economía en particular existe consenso en concebir al mundo real como un sistema <italic>complejo</italic> o <italic>desordenado</italic> . Miríada de causas operan permanentemente en este mundo, generando tanto efectos potenciadores como contrarrestantes de los factores causales que pretenden descubrirse. Para hacer frente a esta problemática, la ciencia está obligada a emplear métodos de modificación o de deformación del mundo, a los efectos de hacer a éste más inteligible. Estos intentos de brindar mayor inteligibilidad involucran construcciones distorsivas, como es el caso de los modelos económicos.</p>
+			<p>La construcción de modelos es la piedra angular de la economía. Tal es así que autores como <xref ref-type="bibr" rid="B7">Mäki han afirmado que &quot;hacer economía es hacer modelos&quot; (2002</xref>:10). Sin embargo, un problema de convertir a los modelos en la unidad básica del análisis económico es el posible alejamiento de aquello que se pretendía investigar en un principio: el mundo real. La introducción de numerosas distorsiones asumidas en los modelos económicos ha generado un interesante debate respecto de si estos nos informan algo sobre el mundo de la gente genuina, del trabajo, de la producción, etc., o si son simplemente juegos intelectuales o mundos imaginarios sin ninguna utilidad para propósitos más pragmáticos, como explicar ciertos procesos socioeconómicos o aplicar una determinada política. </p>
+			<p>La controversia generada en relación con esta temática no es menor. La economía es hoy en día una disciplina &quot;en disputa&quot;, donde no solo se cuestionan sus teorías y modelos, sino también su status como ciencia. Por un lado, están aquellos académicos que consideran que los modelos económicos son los portadores del conocimiento del mundo real, y que la tarea de la filosofía de la economía estriba en entender el status epistémico de dichos modelos. Pero, de la vereda de enfrente, están aquellos que sostienen que los modelos económicos no son otra cosa que juegos matemáticos. En este último caso, la crítica va por el lado del realismo de los supuestos que los economistas utilizan a la hora de construir sus modelos.</p>
+			<p>No obstante, las críticas que meramente apuntan a intensificar el grado de realismo de los supuestos puede ser considerada una postura &quot;ingenua&quot;. En primer lugar, el uso de supuestos irrealistas concierne no solo a la economía, sino a cualquier disciplina científica que utilice como unidad de análisis a los modelos. El científico comienza por lo general postulando una hipótesis acerca de la existencia de una posible contribución causal en el mundo real. Convertir tal conjetura en un modelo tratable requiere hacer varios supuestos irrealistas. </p>
+			<p>En este marco, Kuorikoski y Lehtinen consideran que no todos los supuestos deberían ser evaluados por su grado de realismo de la misma manera. En los modelos teóricos coexisten dos tipos de supuestos: los sustantivos y los auxiliares. Los supuestos substantivos, dicen ellos, &quot;conciernen a aspectos del mecanismo causal central del modelo acerca del cual uno intenta hacer afirmaciones importantes. Por lo general son supuestos que se espera que tengan algún grado de mérito empírico, es decir, que se considere que sean más o menos ciertos de los sistemas en los cuales se espera que el modelo arroje algo de luz&quot; (<xref ref-type="bibr" rid="B5">2009</xref>:8). Los supuestos auxiliares, por otro lado, cumplen una función heurística o de tratabilidad dentro del modelo. Estos &quot;se requieren a fin de hacer plausible las inferencias desde los supuestos substantivos a las conclusiones&quot; (<xref ref-type="bibr" rid="B5">2009</xref>:8). Supuestos como los de funciones de utilidad continua en todo su dominio o de que solo existen dos agentes en el mercado son utilizados con el único propósito de facilitar la inferencia de resultados. Los autores sostienen que, si los supuestos substantivos no son realistas o verosímiles, el contenido informativo de los modelos carecerá de relevancia epistémica. Empero, debe destacarse que la pretensión de un mayor realismo no es volcada hacia aquellos supuestos cuya función es meramente heurística o facilitadora de un análisis más profundo.</p>
+			<p>Sin embargo, el realismo de lo supuesto sí cobra relevancia cuando se introduce la noción de &quot;incertidumbre&quot;. Numerosos enfoques en economía omiten esta noción, o incluso la confunden con la de &quot;riesgo&quot;. De acuerdo con <xref ref-type="bibr" rid="B4">Knight (1921</xref>), en situaciones de riesgo los individuos pueden asignarles probabilidades a las alternativas posibles. En cambio, en situaciones de incertidumbre los individuos no tienen información sobre las cuales basar un cálculo de probabilidades. Es precisamente este último caso el que caracteriza a los mercados en particular y a la economía en general. </p>
+			<p>En un camino similar, Keynes aborda la problemática de la incertidumbre y su asociación con la formación de expectativas. La información de la que dispone el agente es insuficiente, no solo porque desconozca la totalidad de la información disponible, sino también porque su decisión involucra resultados a futuro. El contexto es incierto, por un lado, porque se desconoce la distribución de probabilidades de una alternativa de decisión, y por el otro, porque incluso muchas de estas alternativas o cursos de acción no son conocidos ex-ante. No hay una base teórica-científica sobre la cual formar juicios a futuro (los cuales son desconocidos por definición). No hay modo de saber, por ejemplo, a cuánto estará la onza de oro en el 2050, o cuál será la magnitud de una próxima guerra mundial (si es que se volviese a dar). Las decisiones terminan siendo entonces un producto de los estados de ánimo de las personas, de sus <italic>animal spirits</italic>:  &quot;Por conocimiento 'incierto', déjenme explicar, no quiero distinguir meramente lo que es sabido con certeza de lo que es únicamente probable. El juego de la ruleta no es objeto, en este sentido, de incertidumbre; ni el prospecto de ganarse una lotería. O, por otra parte, la expectativa de vida es solamente un poco incierta. Incluso el clima es solo moderadamente incierto. En el sentido en el que estoy usando el término es en el de que la posibilidad de una guerra europea es incierta, o el precio del cobre y la tasa de interés en 20 años, o la obsolescencia de un nuevo invento, o la posición de propietarios privados de riqueza en el sistema social en 1970. Sobre estos temas no hay bases científicas sobre las cuales formular ninguna probabilidad calculable. Simplemente no sabemos.&quot; (<xref ref-type="bibr" rid="B3">Keynes, 1937</xref>: 213-214).</p>
+			<p>La incertidumbre es entendida como el carácter situacional en el cual los agentes no pueden anticipar el resultado de una decisión. En condiciones de incertidumbre podemos hacernos una idea respecto de la posibilidad de ocurrencia de ciertos eventos, pero en concreto no tenemos una base teorética para determinar, ni siquiera con una cierta probabilidad, qué eventos van a ocurrir. Aquí se pueden apreciar dos elementos que van de la mano en el tratamiento de la incertidumbre: (1) no saber y (2) pensar en posibilidades. En la medida en que reconozcamos las limitaciones de nuestro conocimiento, nuestras pretensiones de conocer el futuro se reducirán a pensar en términos de eventos posibles.</p>
+			<p>Ahora bien, esta no es la actitud predominante en la investigación en economía. Por lo general se asumen agentes dotados no solo de racionalidad, sino también de un conocimiento ex-ante respecto de los resultados de una decisión (el conocido <italic>homo economicus</italic> ). Asimismo, y puesto que pensar en términos de eventos posibles puede hacer que la investigación científica se convierta en un análisis de ilimitados estados contrafácticos, dicha investigación suele tomar una postura simplificadora en la cual un sistema abierto y complejo se reduce a uno cerrado y simple, a fin de poder asegurar la inferencia de resultados. </p>
+			<p>En este marco, el propósito principal del presente trabajo consiste en examinar estos dos modos de construcciones distorsivas (la del <italic>homo economicus</italic> y la de los sistemas cerrados y simples) que, se argumentará, conducen a un incorrecto tratamiento de la incertidumbre. Se intentará mostrar que la pretensión de un mayor realismo para esta clase de suposiciones no está basada en una postura realista ingenua. Un mayor realismo no es <italic>per se</italic> más favorable. Sí, en cambio, es favorable cuando el reemplazo de supuestos por otros más realistas conduce a derivaciones de resultados más alineados con la realidad. En este sentido, una implicancia significativamente desfavorable de modelizar sobre la base de sistemas cerrados y simples y del <italic>homo economicus</italic> es la de exponerse a sucesos raros y trascendentes, también denominados &quot;cisnes negros&quot;.</p>
+		</sec>
+		<sec>
+			<title>Homo economicus</title>
+			<p>La Economía se define a partir de su raíz griega <italic>oikonomía</italic> , como administración del <italic>oikós</italic> , del hogar. Por este camino de &quot;administrador&quot; de recursos destinados a un fin llegamos al agente económico y a su tarea de optimización. La economía, al igual que otras ciencias, razona a partir de simplificaciones, idealizaciones, abstracciones y/o ficciones. La geometría, por ejemplo, presupone definiciones arbitrarias de <italic>punto</italic> como &quot;aquello que no tiene partes&quot; o <italic>línea</italic> como &quot;aquello que tiene longitud, pero no anchura&quot;. De acuerdo con economistas como <xref ref-type="bibr" rid="B8">John Stuart Mill, la economía procede de manera similar presuponiendo la existencia del <italic>homo economicus</italic> , el cual es entendido como &quot;un ser que invariablemente hace aquello mediante lo cual puede obtener la mayor cantidad de bienes necesarios, conveniencias y artículos de lujo, con la menor cantidad de trabajo y esfuerzo físico con que pueden ser obtenidos en el estado de conocimiento existente&quot; (1974</xref>:144).</p>
+			<p>El <italic>homo economicus</italic> es la unidad de análisis de muchísimos modelos económicos. Se trata de un agente racional, donde dicha racionalidad es entendida en términos instrumentales (o de relación medios-fines). Para ello deben asumirse ciertos supuestos como el de reflexividad, completitud, transitividad, deseabilidad, etc. No hay ningún tipo de juicio de valor involucrado en el proceso de elección; simplemente hay una adecuación de los medios a los fines u objetivos del agente. En otras palabras, el <italic>homo economicus</italic> se limita a realizar una actividad de optimización bajo restricciones, o más simplemente, a elegir la alternativa más deseable entre las alternativas posibles.</p>
+			<p>La figura más utilizada como representación del <italic>homo economicus</italic> es la de Robinson Crusoe, un individuo aislado que busca sobrevivir (fin) haciendo uso de su fuerza de trabajo y de los bienes disponibles (medios). En su forma más básica, este individuo dispone de una sola mercancía escasa (madera) que habrá de ser utilizada para satisfacer diferentes propósitos (construir una cabaña, hacer fogatas, etc.). El mundo de Robinson es precario, aunque en ciertos aspectos se asemeja al nuestro: los fines de los agentes son múltiples y la gran mayoría de los medios son escasos (aunque susceptibles de distinta aplicación). </p>
+			<p>Una particularidad de este mundo es que supone un orden, esto es, una disposición dada que le permite a Robinson medir la utilidad que le reportará su interacción con, por ejemplo, la madera de las que dispone. La tabla de valores que le permite hacer un orden de preferencias entre los diferentes bienes ya está dada de antemano. Con ella Robinson podrá decidir cuánto de su tiempo destinará a recolectar madera para hacer su refugio, cuánto para hacer fogatas, cuánto de su tiempo dedicará a descansar, etc. Así, dado un conjunto de alternativas de decisión o cursos de acción posibles, Robinson (y el <italic>homo economicus</italic> en general) ya conoce ex-ante la utilidad de cada una de ellas. Su acción consiste en elegir aquella alternativa que le reporte mayor utilidad, sujeto a determinadas restricciones. </p>
+			<p>Por consiguiente, dentro de la lógica operacional del <italic>homo economicus</italic> se halla el supuesto de que éste puede deducir sus acciones de un ranking de preferencias y de este modo maximizar su utilidad. Tanto bajo el supuesto de &quot;certeza&quot; como el de &quot;riesgo&quot; los agentes tienen la capacidad de elegir la alternativa de mayor utilidad entre un conjunto de opciones múltiples. En realidad, no hay propiamente hablando <italic>decisiones</italic> que tomar, sino <italic>cálculos</italic> por hacer. En condiciones de certeza, el resultado de cada alternativa de decisión es conocido ex-ante; el <italic>homo economicus</italic> simplemente elige aquella que le reporte mayor utilidad. En situaciones de riesgo, cada elección arroja un conjunto de resultados posibles, cuyo valor es conocido y a los cuales es posible asignar alguna probabilidad. En estos casos, el <italic>homo economicus</italic> elige aquella alternativa que le reporte la mayor utilidad esperada. </p>
+			<p>Sin embargo, este supuesto no se mantiene en tanto en el sistema objetivo a examinar prevalezca la <italic>incertidumbre</italic> , esto es, cuando las elecciones deben realizarse sobre la base de una información parcial o incompleta. Aquí los agentes desconocen la probabilidad de ocurrencia de algún evento y, en un sentido extremo, los escenarios futuros. Si asumimos un escenario con incertidumbre, el paradigma de la elección racional enfrenta un serio problema, ya que sería imposible para los actores deducir sus estrategias. Más precisamente, bajo incertidumbre los agentes no disponen de ninguna base para estimar en el presente los valores que en periodos subsiguientes adquirirán determinadas variables. Esto significa que no tienen ninguna razón para seleccionar uno de entre los múltiples cursos de acción posibles. </p>
+			<p>Una consecuencia casi inmediata de esto es la imposibilidad de optimizar bajo incertidumbre. En este marco, <xref ref-type="bibr" rid="B1">Alchian (1950</xref>) muestra que la lógica de la optimización tiene sentido solo bajo condiciones de certeza o riesgo. Cuando el escenario es incierto, los agentes no conocen (ni de manera segura, ni con una cierta probabilidad) cuál es o será el resultado de sus elecciones. En otras palabras, no conocen ni la utilidad ni la utilidad esperada de sus alternativas de decisión. Por consiguiente, no tendrán manera de identificar la mejor alternativa. La elección podrá estar fundada en intuiciones, estados de ánimo o incluso en criterios azarosos (como tirar una moneda al aire), pero es claro que en este escenario los agentes no disponen de un criterio racional para seleccionar una de entre las diferentes opciones. </p>
+		</sec>
+		<sec>
+			<title>Sistemas cerrados </title>
+			<p>La otra suposición cuasi-omnipresente en la investigación económica es la de modelar sistemas cerrados. Siguiendo a <xref ref-type="bibr" rid="B6">Lawson (2003</xref>), un sistema es cerrado cuando en él se observan regularidades o conjunciones constantes de eventos. En principio, este &quot;cierre&quot; puede hacerse de dos maneras: conceptual o empíricamente. El cierre empírico refiere a la implementación de situaciones experimentales: cuando se diseña un experimento se espera observar el comportamiento de un factor causal en aislamiento, lo cual se logra anulando la contribución de cualquier tipo de factores causales que se creen pueden provocar efectos perturbadores. En otras palabras, el experimento consiste precisamente en una intervención deliberada para garantizar que se cumplan ciertas condiciones especificadas, y de esta manera pueda manifestarse empíricamente la conexión principal de la regularidad que se desea evaluar.</p>
+			<p>No obstante, existen situaciones en las cuales los cierres empíricos no pueden ser llevados a cabo. Por ejemplo, y parafraseando a <xref ref-type="bibr" rid="B8">Mill</xref>, un economista que investiga los posibles beneficios del libre comercio en la economía de una nación no puede diseñar un experimento en la cual encuentre dos naciones exactamente iguales, salvo por el hecho de que una aplique una política proteccionista y otra de apertura al comercio mundial. En casos como estos, los &quot;cierres&quot; no son experimentales sino &quot;conceptuales&quot;, esto es, a través de modelos. </p>
+			<p>En un cierre conceptual el investigador establece cadenas de razonamientos a fin de inferir un resultado. Para que esto sea posible, deben asumirse un considerable número de supuestos, de forma tal que se pueda cerrar el sistema. Sin estos supuestos, el investigador sería incapaz de inferir ningún tipo de resultados. En otras palabras, los supuestos (o al menos la mayor parte de estos) cumplen el rol de configurar una cierta estructura que proporcione las premisas necesarias para que pueda ser llevada a cabo la inferencia deductiva. </p>
+			<p>Un buen ejemplo de estos cierres conceptuales es la noción de &quot;máquina nomológica&quot; desarrollada por <xref ref-type="bibr" rid="B2">Cartwright (1999</xref>). Ella considera que el mundo es &quot;desordenado&quot;, por lo cual las regularidades (o conjunciones constantes de eventos) son consecuencia del funcionamiento repetido de estructuras estables y protegidas de cualquier tipo de influencias exógenas, a los cuales la autora denomina &quot;máquinas nomológicas&quot;.</p>
+			<p>No obstante, un inconveniente que acarrea el uso de máquinas nomológicas en economía es el de la &quot;sobre-restricción&quot; de los modelos. A diferencia de las ciencias duras como la física o la astronomía, la economía carece de un número de principios suficientes como para hacer inferencias deductivas dentro de un modelo. Para que estas inferencias sean plausibles, es necesario dotar a un modelo de una estructura que no existe a priori. En otras palabras, es el propio modelador quien debe crear una estructura de manera arbitraria. El problema de ello radica en que los resultados inferidos terminarán dependiendo notablemente de dicha estructura.</p>
+			<p>En este marco, uno de los mayores problemas que implica la elaboración de modelos sobre-restringidos por factores estructurales estriba en la inviabilidad de extrapolar los resultados fuera de las condiciones establecidas en dicho modelo. Al diseñar un modelo (o experimento mental) se trata de lograr tanto validez <italic>externa</italic> como <italic>interna</italic> . Se tiene validez externa cuando el resultado obtenido dentro del experimento mental se mantiene fuera de su respectivo dominio. Por otra parte, una afirmación experimental es internamente válida cuando hay certeza de que no se han cometido inconsistencias en las inferencias realizadas. En este sentido, los modelos económicos están diseñados para asegurar validez interna: existe un esfuerzo deliberado en crear circunstancias muy especiales, de modo tal que exista una suficiente seguridad de que nada distorsione el resultado inferido. </p>
+			<p>Sin embargo, esta validez interna se logra a expensas de reducir la validez externa de los modelos. En este sentido, <xref ref-type="bibr" rid="B2">Cartwright</xref> asevera que existe un &quot;trade-off&quot; entre validez externa e interna: en la medida que pretendamos lograr validez interna, crearemos situaciones cada vez más artificiales para así hacer posible la deducción de resultados. Pero esto implica que los resultados se obtendrán solo en condiciones muy particulares (o en dominios muy específicos), lo cual no garantiza que se obtengan también en dominios más allá de los establecidos en el modelo. Así, los modelos económicos solo nos brindan información respecto de lo que sucedería bajo condiciones muy específicas, esto es, respecto de lo que sucedería en el mundo real si éste tuviese una estructura análoga a la del modelo en cuestión. Sin embargo, no permite de modo alguno responder a un rango de preguntas del tipo &quot;¿qué sucedería si las cosas fueran diferentes?&quot;, es decir, si los posibles escenarios del mundo real fuesen diferentes a nuestras suposiciones postuladas inicialmente.</p>
+			<p>Además de los problemas de validez externa, existe un problema más importante (en lo referente a sus consecuencias) y es el que, al modelar sistemas cerrados, nos exponemos a la aparición de &quot;cisnes negros&quot;. Desde el punto de vista epistemológico, un cisne negro es una <italic>rareza</italic> , un evento que habita fuera del reino de las expectativas normales. Dado que es un suceso altamente improbable, es prácticamente imposible de predecir. Asimismo, sus consecuencias son trascendentales, al punto de que cambian el rumbo de la historia. No toda rareza es un cisne negro. Para que un evento sea considerado como tal, el impacto que provoca en un determinado sistema debe ser importante. Ejemplos de ello son los éxitos de internet como Google, Facebook y YouTube, el atentado del 11-S, la crisis financiera de 2008 y, en general, casi todos los grandes inventos y descubrimientos de la historia humana.</p>
+			<p>La metáfora del &quot;cisne negro&quot; surge de la creencia ampliamente compartida en la antigüedad de que <italic>todos</italic> los cisnes eran blancos. Las pruebas empíricas eran (aparentemente) irrefutables, y cada dato empírico adicional aumentaba el grado de confirmación de ese enunciado universal. No obstante, el descubrimiento de Australia trajo consigo una sorpresa totalmente impensable para ese momento: la existencia de cisnes de plumaje negro. Este acontecimiento ilustra una grave limitación de nuestro aprendizaje basado en la <italic>confirmación</italic> de hechos. De acuerdo con <xref ref-type="bibr" rid="B9">Taleb (2007</xref>), en numerosas situaciones lo que no sabemos puede ser más importante que lo que sabemos. En la lógica del cisne negro prevalece la idea de prestar atención no a lo conocido, sino a lo improbable y a lo extremo, ya que son precisamente estos hechos los que terminan dominando nuestro mundo.</p>
+			<p>Ahora bien, esto es justamente lo que no se hace cuando se modelan sistemas cerrados. Puesto que el propósito central de esta estrategia estriba en inferir un resultado determinado, el sistema objetivo recibe toda clase de clausuras y condicionamientos que garanticen la obtención de dicho resultado. El problema con ello es que cualquier resultado alternativo es desestimado, por lo que pasa a ser una auténtica &quot;rareza&quot;. Un buen ejemplo de esto es la metáfora del &quot;pavo inductivista de Russell&quot;. Supongamos una granja avícola donde un granjero alimenta a su pavo todos los días a las nueve de la mañana. Puesto que el pavo es inductivista, infiere que el granjero siempre vendrá a las nueve de la mañana a darle de comer. Conforme pasan los días, su &quot;ley&quot; se hace más robusta, ya que cada dato adicional refuerza dicha regularidad. No obstante, en la víspera del día de acción de gracias, el granjero, en lugar de alimentarlo, le termina cortando la cabeza. El pavo construyó un modelo muy simple y con un muy alto grado de corroboración empírica. Sin embargo, en su modelo desestimó aquello que <italic>podría suceder</italic> , por más que hasta la fecha no hubiera sucedido nunca. Cuando se modelizan sistemas cerrados y simples, uno se termina apegando a un único resultado, dejando de lado otras posibilidades. El problema radica en que algunas de estas posibilidades pueden tener, en muchas ocasiones, consecuencias no solo negativas, sino también irreversibles.</p>
+		</sec>
+		<sec>
+			<title><bold>
+ <italic>Homo ludens</italic>
+</bold>:  el agente que &quot;apuesta&quot;</title>
+			<p>Contrario al enfoque de un individuo aislado que dispone de una mercancía escasa pero que conoce el resultado futuro de sus elecciones presentes, podemos plantear una nueva situación en donde Robinson se halle en un mundo incierto. En este nuevo escenario no hay un orden sino una inconmensurabilidad que Robinson debe enfrentar, medir y, en el mejor de los casos, dominar. Su fin no es el de optimizar, sino el de &quot;sobrevivir&quot;. Ahora bien, la decisión de <italic>cómo</italic> sobrevivir plantea una ramificación sobre el orden de prioridades. Robinson <italic>no sabe</italic> si su estancia en la isla será breve o extensa. Por tanto, es factible que sus decisiones involucren tanto intentar hacer su estadía lo más amena posible como crear señales para que lo rescaten. He aquí su primer problema económico: dada una mercancía escasa (madera), ésta puede ser utilizada como material de construcción de su hogar, o bien como combustible para encender fogatas cuya humareda en el día e iluminación en la noche sirvan como señal de auxilio. La madera de la cual dispone en la isla no es ilimitada; si se empeña en hacer sucesivas fogatas para que lo rescaten, es posible que en poco tiempo agote sus reservas de ramas y troncos. </p>
+			<p>Sin embargo, esta escasez de recursos es no es lo más trascendente. Lo verdaderamente importante para Robinson es su total y absoluto desconocimiento respecto de las utilidades de cada curso de acción. El orden de prioridades no está dado de antemano, sino que es Robinson quien debe producirlo. La incertidumbre a la que Robinson se encuentra hace del quehacer económico una tarea previa a la de &quot;elección entre alternativas&quot;, ya que debe establecer qué preferencias, qué unidades de medida, qué modos se tomarán como parámetros para después poder medir, comparar y (de ser posible) maximizar. Debe crear un orden allí donde no lo hay, y debe hacerlo sin apelar a algún tipo de certeza o probabilidad sobre el resultado. </p>
+			<p>Así, se puede decir que al <italic>homo economicus</italic> -aquel agente que es plenamente capaz de decidir en entornos de riesgo y/o certeza- le antecede un estratega, al que se lo denominará <italic>homo ludens</italic> . El <italic>homo ludens</italic> es quien da inicio a la serie, aquel que se pone a la cabeza del proceso de ordenamiento. En la isla, el náufrago deberá <italic>decidir</italic> , que es distinto de elegir o calcular. &quot;Elegir&quot; implica seleccionar o preferir alguna cosa sobre otra. Pero para que haya preferencias tienen que haber utilidades, y es lo que el <italic>homo ludens</italic> todavía desconoce. <italic>Decidir</italic> , por otro lado, involucra tomar una determinación, hacer un corte. Decidir está más del lado de hacer una &quot;apuesta&quot; que de una elección. El náufrago decide cuánto esfuerzo poner en las fogatas y cuánto en la construcción de la cabaña, en una elección no neutral, en una estrategia que no puede anticipar ex-ante su efectividad.</p>
+			<p>En la visión tradicional el <italic>homo economicus</italic> ya sabe, sobre la base de sus gustos y de la tecnología disponible, a qué atenerse, qué le dará más o menos satisfacción, qué le costará más o menos trabajo, etc. En tanto <italic>homo economicus</italic> , Robinson podrá conocer la frecuencia de navíos que puede avistar, asignar una probabilidad de que lo hagan en momentos en los que una fogata pueda ser avistada y ponderarla por la probabilidad de que la fogata esté encendida, etc. En contraste, en el caso del <italic>homo ludens</italic> el primer momento deberá ser decidido sin que ninguno de estos datos forme un conjunto consistente y completo. Pero aun así deberá tomar una <italic>decisión</italic> . A diferencia del <italic>homo economicus</italic> , el <italic>homo ludens</italic> no espera tener toda la información relevante, sino que inicia su experiencia con total conciencia de que está arriesgando, y de que el resultado solo lo conocerá experimentando. Salvo que en algún momento alguna nave llegue hasta la isla y esto se deba a que se distinguió fuego en la playa, no hay forma de determinar si hacer fogatas lo llevará hacia la &quot;salvación&quot;. Pero aun así el náufrago deberá decidir qué hacer con la leña juntada, esto es, deberá <italic>apostar</italic> por una u otra alternativa.</p>
+		</sec>
+		<sec>
+			<title>El homo ludens y la lógica de la simulación</title>
+			<p>Al igual que el <italic>homo economicus</italic> , el <italic>homo ludens</italic> se enfrenta a una multiplicidad de alternativas. Sin embargo, este último no conoce la utilidad de cada una de ellas. Por el contrario, se enfrenta a un azar irreductible, a un punto en el cual, dada esa multiplicidad de caminos, deberá optar por uno de ellos. Sus argumentos no son concluyentes, ni siquiera probabilísticamente hablando. Podrá equivocarse (a diferencia del <italic>homo economicus,</italic> que no se equivoca en sus cálculos), pero eso lo sabrá una vez que haya recorrido todo el camino.</p>
+			<p>La lógica del <italic>homo ludens</italic> plantearía entonces un cambio fundamental en el modo en que se construyen y se entienden los modelos económicos. Dicha modelización apela al método axiomático deductivo, donde a partir de un conjunto de supuestos se infiere un único resultado. Al tratarse de un sistema cerrado, la veracidad de las conclusiones está garantizada por la veracidad de las premisas. No hay incertidumbre en esta clase de escenarios. Empero es incompatible con la lógica del <italic>homo ludens</italic> . El <italic>homo ludens</italic> se enfrenta a un escenario abierto e incierto, por lo cual cualquier cierre conceptual lo llevaría a apegarse a un único resultado, exponiéndose así a la posible aparición de un cisne negro. </p>
+			<p>Contrario a ello, una postura que sí es compatible con la lógica del <italic>homo ludens</italic> es la del <italic>simulacro</italic> . En un modelo económico la estructura ya está dada de antemano. Esto complejiza la posibilidad de responder al rango de preguntas <italic>¿qué pasaría si las cosas fueran diferentes?</italic> , esto es, de responder qué pasaría si la estructura del mundo real fuese de diferentes maneras o tuviese distintos matices. En tanto <italic>homo economicus,</italic> el náufrago sabe si pasará o no un barco. Si pasa, sabe cuándo pasará. Si sabe que no lo pasarán a buscar, entonces trabajará las horas necesarias que le permita maximizar la relación trabajo-ocio. Empero, en tanto <italic>homo ludens</italic> , Robinson no sabe si lo pasarán a buscar o no, ni cuánta madera usar para leña y cuánta para construir su choza. La estructura del modelo deberá inventársela, esto es, <italic>simularla</italic> . Cabe mencionar que en el presente artículo la noción de &quot;simulación&quot; se la vincula con el análisis y la producción de posibles escenarios alternativos, y no con los tipos tradicionales de simulación tales como la simulación basada en el agente, la simulación de Monte Carlo, etc.</p>
+			<p>Lo que el <italic>homo ludens</italic> obtiene de hacer estas simulaciones es un conocimiento de estados contrafácticos posibles. Ex-ante no puede saber qué acontecerá. Sin embargo, sí puede hacerse una idea de lo que podría llegar a ocurrir si se dieran ciertas circunstancias. Por ejemplo, si existiesen animales salvajes, entonces sería viable no solo estar armado, sino también que su cabaña funcionase como &quot;bunker&quot;. Si el número de peces en el mar fuese abundante, entonces sería razonable que construyera redes y cañas de pescar. Si el mar fuese sumamente peligroso, tanto por sus olas como por la presencia de tiburones y otros depredadores, y que asimismo nunca observase el paso de barcos en el horizonte, entonces intentar escapar en balsa de la isla sería un suicidio. Si en la isla viviese una tribu de indígenas salvajes y caníbales, entonces no le convendría vivir cerca o hacer relaciones sociales con ellos. </p>
+			<p>Lo que se da aquí es un cambio a nivel epistémico: ya no se habla de la adquisición y/o posesión de un conocimiento seguro (que es lo que proporciona la modelización de sistemas cerrados). Lo que conocemos respecto del futuro son <italic>posibilidades</italic> o escenarios alternativos. Todo depende de qué estructura causal prevalezca en el mundo real. A través de las simulaciones no podremos saber de antemano cuál de las alternativas posibles prevalecerá y cuáles no. El clásico compromiso de usar un conocimiento seguro (o probablemente seguro) es reemplazado por un conocimiento acerca de posibilidades. Empero es esta clase de saber la que lo conduce al <italic>homo ludens</italic> a tomar decisiones. Un conocimiento sobre sistemas cerrados solo nos proporciona información respecto de lo que sucedería en un caso concreto. Sin embargo, el <italic>homo ludens</italic> no sabe si la estructura causal del mundo será correctamente representada por ese modelo (de hecho, sería un tanto imprudente de su parte creer eso, ya que dejaría de lado una miríada de cuestiones que podrían serle de utilidad para su toma de decisiones). Por consiguiente, deberá simular, esto es, deberá tratar de responder al rango de preguntas &quot;¿qué pasaría si las cosas fueran diferentes?&quot;.</p>
+			<p>Ahora bien, el hecho de desconocer no significa que las personas no puedan diseñar estrategias racionales que les permitan hacer frente a condiciones inciertas. Esto es lo que propone exactamente <xref ref-type="bibr" rid="B10">Taleb (2012</xref>): si las probabilidades de los eventos futuros son desconocidas, lo más razonable es apegarse a las <italic>consecuencias</italic> de los mismos. De acuerdo con Taleb, existen tres tipos de funciones subyacentes a escenarios que involucran resultados: convexas (o <italic>asimetría positiva</italic> ), cóncavas (o <italic>asimetría negativa</italic> ) y lineal. Cuando hablamos de linealidad, decimos que el efecto es proporcional a su causa, es decir, que el cambio en la variable dependiente es proporcional al cambio en la variable independiente. Cuando hay asimetría, el cambio en la variable dependiente fluye en una proporción diferente de la independiente. Por ejemplo, si le damos a alguien en la cabeza con una piedra de 1 kilo, el daño será mayor que si le damos dos veces con una piedra de 50 gramos, y menor aun si el golpe se hace diez veces con una piedra de 100 gramos. Si el efecto fuera <italic>lineal</italic> , los casos recién mencionados deberían tener el mismo efecto sobre la persona que recibe el o los golpes. Pero esto no es así: aquí cada incremento de peso provoca un daño proporcionalmente mayor; el efecto acumulado de pequeñas variaciones en la variable independiente es menor que un único efecto provocado por la suma de esas variaciones en la variable independiente.</p>
+			<p>Dado un mismo punto de referencia, cuando una función es convexa lo que se pierde (valores ubicados a la izquierda de la función) siempre es menor a lo que se gana (valores ubicados a la derecha de la función). Cuanto más convexa sea esta función, mayor será la diferencia entre lo ganado y lo perdido. Lo inverso sucede con la función cóncava: lo que se pierde siempre es mayor a lo que se gana (siempre haciendo referencia al dominio de los positivos). Taleb utiliza esta analogía para proponer el enfoque de la asimetría de los resultados bajo incertidumbre. Cuando la asimetría es positiva (o convexa), un agente tiene mucho para ganar y poco para perder. El resultado es claramente desconocido. Sin embargo, podemos hacernos una idea de las consecuencias de cada alternativa de decisión. La estrategia racional para Taleb no es la asignación de probabilidades a los eventos futuros, sino tomar decisiones basadas en las consecuencias: si el escenario involucra asimetría positiva, tendrá sentido seguir esa alternativa, ya que se tiene mucho para ganar y poco para perder. Si el escenario involucra asimetría negativa, lo racional será no actuar a favor de esa alternativa, ya que se tiene poco para ganar y mucho para perder. </p>
+			<p>La &quot;apuesta de Pascal&quot; es un caso que permite ilustrar tanto la asimetría positiva como la negativa. De acuerdo con Pascal, una persona racional debe ser religiosa, debido a que las consecuencias de creer o no en Dios son sustancialmente diferentes. Las opciones que se presentan en la apuesta son las siguientes: creer o no creer en Dios, y que éste exista o no. Supongamos que uno cree en Dios. Si Dios existe, la persona al morir gozará de una eternidad en el cielo; si no existe, su cuerpo terminará en el cementerio. <italic>No sabemos</italic> si el cielo existe o no, pero lo que sí existe es una &quot;asimetría positiva&quot;: si se gana, se gana mucho; si se pierde, las pérdidas son bajas (en este caso son nulas, ya que la persona no tiene posibilidad de arrepentirse). Similarmente, uno puede optar por ser no-creyente y las opciones son las mismas: que Dios exista, o que no exista. Si no existe, ni gana ni pierde. El problema es si Dios existe y la persona no fue creyente. En tal caso, le esperará una eternidad en el infierno. La asimetría es, en este caso, claramente negativa: independientemente de que Dios y el cielo existan o no, la persona tiene mucho para perder y poco para ganar. </p>
+			<p>El <italic>homo ludens</italic> desconoce las probabilidades de una decisión o curso de acción. Sin embargo, éste puede analizar las consecuencias de cada curso, y esas consecuencias serán la base para su toma de decisiones. Por ejemplo, es totalmente entendible que Robinson no decida salir a navegar en balsa, ya que desconoce si encontrará tierra o no. Empero, es posible que alguna vez aviste desde su isla un barco. Por consiguiente, deberá aprovechar al máximo esa oportunidad que le dio el azar. Y una manera de aprovecharlo sería, por ejemplo, teniendo una balsa a mano, o maderas disponibles para encender una gran fogata y ser así avistado por el barco. Lo que pierde será poco: algo de trabajo cortando leña, y el costo de oportunidad de no usar esa leña para otros propósitos. Sin embargo, lo que ganaría siendo rescatado es, para él, incalculable. </p>
+			<p>Así, en tanto <italic>homo ludens</italic> , Robinson se enfrenta a un escenario incierto, por lo que debe necesariamente simular escenarios alternativos. Ahora bien, si hace un buen análisis de las consecuencias de dichos escenarios, es plausible que las estrategias que termine tomando sean <italic>racionales</italic> . Como plantea Taleb, la racionalidad bajo incertidumbre no guarda relación alguna con las utilidades de una decisión o curso de acción, sino con sus resultados o consecuencias. El <italic>homo ludens</italic> puede ser un agente racional, pero para ello deberá actuar acorde a la identificación de aquellos escenarios que involucren asimetrías tanto positivas como negativas. </p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Consideraciones finales</title>
+			<p>La construcción estándar de modelos económicos está basada en la omnipresencia del <italic>homo economicus</italic> , un agente que, al conocer el resultado o la utilidad de los diferentes cursos de acción o alternativas de decisión, elige aquella combinación que le permite maximizar esa utilidad sujeto a restricciones de recursos. Este enfoque, si bien es sumamente útil en condiciones de certeza y/o de riesgo, no lo es en condiciones de incertidumbre. Bajo incertidumbre, las personas desconocen la utilidad de una elección. De ser así, no puede haber estrategia optimizadora, ya que para que ésta pueda darse, las personas deben conocer ex-ante las utilidades de sus elecciones. </p>
+			<p>Alternativamente al conocido <italic>homo economicus</italic> , se ha propuesto un agente que puede representar mejor la toma de decisiones bajo incertidumbre: el <italic>homo ludens</italic> . Como el <italic>homo ludens</italic> desconoce las utilidades de sus decisiones, su estrategia no es optimizadora, sino de &quot;supervivencia&quot;. Las decisiones del <italic>homo ludens</italic> no son fundamentadas en el cálculo optimizador del <italic>homo economicus</italic> ; al intervenir el azar, éstas están más asociadas con una suerte de &quot;apuesta&quot;. Ahora bien, se ha mostrado que la conducta del <italic>homo ludens</italic> , aunque no calculadora, puede no obstante ser racional. Para ello deberá examinar las consecuencias de una decisión, más que la probabilidad de que un evento ocurra o no. De acuerdo con Taleb, el análisis de estas consecuencias se asocia con la búsqueda de asimetrías positivas y negativas. El <italic>homo ludens</italic> , si desea ser racional, deberá sacarle el máximo provecho a las asimetrías positivas, al tiempo de evitar involucrarse en escenarios de asimetría negativa. </p>
+			<p>Para que esto pueda darse, la toma de decisiones del <italic>homo ludens</italic> debe tener en consideración la presencia de escenarios posibles a futuro. Sin embargo, esto no es posible en la lógica tradicional de modelización en economía. La construcción de modelos económicos involucra el cierre del sistema objetivo, a fin de alcanzar (vía inferencia deductiva) un resultado determinado. Empero, la modelización de sistemas cerrados impide llegar a conocer <italic>qué pasaría si las cosas fueran diferentes</italic> , esto es, qué pasaría si el mundo difiriese en ciertos aspectos de una concepción determinada. La construcción de sistemas cerrados es compatible con la lógica del <italic>homo economicus</italic> , pero no la es con la del <italic>homo ludens</italic> . El <italic>homo ludens</italic> necesita saber cuáles serán las consecuencias de tomar diferentes decisiones. Para ello deber simular, esto es, debe asumir diferentes escenarios posibles y examinar posteriormente sus consecuencias.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Alchian, A. 1950. Uncertainty, evolution and economic theory. Journal of Political Economy 58(3): 211-221. doi: 10.1086/256940</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alchian</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>1950</year>
+					<article-title>Uncertainty, evolution and economic theory</article-title>
+					<source>Journal of Political Economy</source> 
+					<volume>58</volume>
+					<issue>3</issue>
+					<fpage>211</fpage>
+					<lpage>221</lpage>
+					<pub-id pub-id-type="doi">10.1086/256940</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Cartwright, N. 1999. The dappled world . Cambridge: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cartwright</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>The dappled world</source> 
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Keynes, J. 1937. The general theory of employment. The Quarterly of Journal of Economics 51(2): 209-223. doi: 10.2307/1882087</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Keynes</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>1937</year>
+					<article-title>The general theory of employment</article-title>
+					<source>The Quarterly of Journal of Economics</source> 
+					<volume>51</volume>
+					<issue>2</issue>
+					<fpage>209</fpage>
+					<lpage>223</lpage>
+					<pub-id pub-id-type="doi">10.2307/1882087</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Knight, F. 1921. Risk, uncertainty, and profit . Boston: Houghton Mifflin.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Knight</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>1921</year>
+					<source>Risk, uncertainty, and profit</source> 
+					<publisher-loc>Boston</publisher-loc>
+					<publisher-name>Houghton Mifflin</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Kuorikoski, J. y Lehtinen, A. 2009. Incredible worlds, credible results. Erkenntnis 70(1): 119-131. doi: 10.1007/s10670-008-9140-z</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kuorikoski</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Lehtinen</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Incredible worlds, credible results</article-title>
+					<source>Erkenntnis</source> 
+					<volume>70</volume>
+					<issue>1</issue>
+					<fpage>119</fpage>
+					<lpage>131</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10670-008-9140-z</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Lawson, T. 2003. Reorienting economics . London: Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lawson</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>Reorienting economics</source> 
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Mäki, U. 2002. Fact and fiction in economics. Models, realism, and social construction . New York: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mäki</surname>
+							<given-names>U</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>Fact and fiction in economics. Models, realism, and social construction</source> 
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Mill, J.S. 1974. Essays on some unsettled questions of political economy . London: A. M. Kelley.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mill</surname>
+							<given-names>J.S</given-names>
+						</name>
+					</person-group>
+					<year>1974</year>
+					<source>Essays on some unsettled questions of political economy</source> 
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>A. M. Kelley</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation> Taleb, N. 2007. El cisne negro: el impacto de lo altamente improbable . Buenos Aires: Paidos. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Taleb</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>El cisne negro: el impacto de lo altamente improbable</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Paidos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation> Taleb, N 2012. Antifrágil: las cosas que se benefician del desorden . Buenos Aires: Paidos . </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Taleb</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Antifrágil: las cosas que se benefician del desorden</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Paidos</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

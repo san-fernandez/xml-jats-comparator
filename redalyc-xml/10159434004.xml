@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000100043</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Incommensurability, types of phenomena and relevant incompatibility (part II)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5329-5434</contrib-id>
+               <name>
+                  <surname>Céspedes</surname>
+                  <given-names>Esteban</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Instituto de Sistemas Complejos de Valparaíso, Chile</institution>
+            <institution content-type="normalized">Instituto de Sistemas Complejos de Valparaíso</institution>
+            <institution content-type="orgname">Instituto de Sistemas Complejos de Valparaíso</institution>
+            <country country="CL">Chile</country>
+            <email>estebancespedes@aol.com</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Jan-Mar</season>
+            <year>2019</year>
+         </pub-date>
+         <issue>64</issue>
+         <fpage>43</fpage>
+         <lpage>50</lpage>
+         <history>
+            <date date-type="received">
+               <day>23</day>
+               <month>07</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>14</day>
+               <month>01</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Abstract:</title>
+            <p>This is the second part of a three-part paper. In part I, some of the main issues regarding theoretical incommensurability and meaning invariance were considered, introducing the notion of a phenomenon type. Phenomenon types can be treated as subject matters in order to tackle the mentioned issues. Here, I show how a subject matter can be conceived as a common ground of two conflicting theories. However, crucial problems about realism and scientific progress remain. These are introduced in this part of the paper and will be tackled in part III.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>incommensurability</kwd>
+            <kwd>sense</kwd>
+            <kwd>reference</kwd>
+            <kwd>phenomenon type</kwd>
+            <kwd>scientific realism</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="1" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="2" />
+            <page-count count="8" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>3. The continuity of a subject matter</title>
+         <p>Howard Sankey (Scientific realism and the semantic incommensurability thesis) argues against the assumption that the incomparability of incommensurable theories implies reference discontinuity. He claims that the main problematic aspect of such an assumption is the fact that it is based on a description theory of reference. This kind of theory can be characterised in the following way:</p>
+         <p>(14) Description theory of reference. The reference of a term t involved in theory T is determined by the content of the descriptions derived from T.</p>
+         <p>Note that, following the definition of the notion of sense presented above, this theory claims that, in a certain manner, the reference of a term depends on its sense. Such is the notion of reference that was also presented earlier.</p>
+         <p>In order to grasp the problem that Sankey wants to point out, consider, for instance, the term “mass” associated with Newtonian mechanics. We may say, according to the description theory of reference, that the reference of “mass” depends on the contents of the descriptions that can be derived from Newtonian mechanics. Some of these descriptions may have, for example, the following form:</p>
+         <p>(15) Every object that has a mass m at a given spatio-temporal region t is an F.</p>
+         <p>With this description, we introduce a property, F, in order to consider part of the extension of the concept of mass, namely the set of objects to which we can attribute the predicate F. Now, we could associate proposition (15) with Newtonian mechanics as well as with special relativity theory. According to special relativity, the mass attributed to a system may vary depending on the velocity of the observer, while, according to Newtonian mechanics, mass does not vary in such a way. Thus, the extension of F according to Newtonian mechanics may differ from the extension of F according to special relativity. In that case, the reference of “mass” in Newtonian mechanics would also differ from the reference of “mass” in special relativity. As supposed, both theories cannot be compared because they refer to different things.</p>
+         <p>According to Sankey, even if the reference of a term can vary between theories, a broad reference overlap is still possible. The continuity of that term’s reference can be considered in order to compare them. If we assume that the reference of a term is independent from the descriptions in which it appears, incommensurability may not be as problematic as it seems. The thesis of the continuity of reference may be characterised as follows (Putnam. Explanation and reference, Kripke. Naming and necessity, Sankey. Scientific realism and the semantic incommensurability thesis):</p>
+         <p>(16) Continuity of reference. If the reference of a term t is fixed at a point of term-introduction, it may be conserved throughout variations of the descriptions in which t is involved.</p>
+         <p>The antecedent of this thesis expresses the main point of the causal theory of reference, which states that a term’s reference can be fixed in an initial stage and that the name may be passed from speaker to speaker in chains of interactions. Theoretical descriptions may vary but the reference remains fixed through a non-descriptive mechanism.</p>
+         <p>Based on these assumptions, the reference of a term does not vary depending on the theory with which it is associated. Even if two theories T1 and T2 are incommensurable regarding a term t, they could be compared based on the reference that has been conserved through communication since the initial introduction of t. According to such a baptism, the reference of t remains fixed and the differences that can be found between T1 and T2 regarding the meaning of t can be considered based on a common ground. There is thus an overlap of reference regarding t as conceived by T1 and T2. This implies, as Sankey argues, that “the content of theories may be compared by means of shared reference, despite translation failure due to semantic variance” (2008:69).</p>
+         <p>I agree with the idea that two incommensurable theories could be compared by focusing on the initial stages in which the term is used. However, for each term there are many instances that could be appropriately considered as a term-introduction, depending on our epistemic interests. Take, for example, the term “mass”. We may focus on the etymology of the English word “mass” and consider how it is related to the historic use of the Latin word “massa”. Alternatively, we may focus on how the term “mass” was first introduced in a scientific context. There does not seem to be a single relevant term-introduction point for a given theoretical term. Hence, it is difficult to fix a reference according to which two incommensurable theories may be compared.</p>
+         <p>Also, to assume the continuity of fixed reference might seem implausible regarding the idea that reference variation is in fact possible in the development of scientific theories (Fine. How to compare theories, Sankey &amp; Hoyningen-Huene. Incommensurability and related matters). The history of science shows us that reference of relevant terms may vary.</p>
+         <p>Now, one of Sankey’s main ideas is that reference can vary according to each theory, but it does not always vary completely: “[W]hile reference may vary with theory, it need not do so in wholesale fashion. On my view, reference changes in a piecemeal manner, dependent on the facts relating to the use of a given term. As such, reference is not necessarily subject to variation with overall shift in the way theories describe the entities which populate a common domain of application. Rather, it may remain stable through major alteration of the descriptive content which speakers associate with terms” (Sankey 2008:69).</p>
+         <p>This is a main feature of the so-called causal-descriptive theory of reference, which, according to Sankey, “leads to significant reduction in the potential for variation of reference between theories” (Sankey 2009:198). Thus, differing from the classical causal theory of reference, the causal-descriptive theory allows that descriptive mechanisms may modify a term’s reference. According to Sankey, the causal theory of reference must include the importance of description in relation to theoretical terms, mainly because we cannot just identify unobservable entities, like quarks, by ostension. Furthermore, Sankey’s account is in line with Kitcher’s idea, mentioned earlier, that reference is determined by different mechanisms.</p>
+         <p>But how can reference partly remain fixed and vary with theoretical descriptions as well, as Sankey argues? Paul Hoyningen-Huene and Eric Oberheim (Reference, ontological replacement and Neo-Kantianism) consider the unclarity on this issue, claiming that Sankey has not successfully shown that reference can remain constant between theories. It seems difficult to accept that the extension of a term may remain stable if its reference varies according to the theoretical descriptions in which it appears. The notion of a subject matter considered earlier and, particularly, its non-extensional character, is helpful here. We may also emphasise on a distinction between what we may call intensional reference and extensional reference. Following Mary Hesse (The structure of scientific inference), we can characterise intensional reference as follows:</p>
+         <p>(17) Intensional reference. Let t be a descriptive predicate term and F some object’s property. A non-symmetric relation R, holding from t to F, is a relation of intensional reference if and only if statements ascribing t to that object are true.</p>
+         <p>We do not need to focus on any notion of truth to interpret this definition. A general, intuitive one will do. However, a notion of truth based on simple correspondence between words and world, for example, may not be appropriate for the present purposes, if worlds are defined extensionally. Now, understanding correspondence as a set of causal links that hold between sentences involving t and instances of F (Hesse. The structure of scientific inference) should not be problematic. Of course, much depends on the notion of causation that we adopt. If we introduce a pragmatic notion of causation, we might obtain a pragmatic notion of intensional reference. By contrast, a physicalist notion of causation may imply some reductionistic notion thereof, based on a presupposed set of basic physical properties.</p>
+         <p>While the intensional reference of a term is determined by a direct and qualitative way, its extensional reference depends on how it relates to other terms, i.e. on how it is described within a descriptive whole. Now, instead of claiming that reference changes in a piecemeal manner, we can claim that only extensional reference varies.</p>
+         <p>
+            As proposed in this work, it is intensional reference what remains fixed when comparing two rival scientific theories, i.e. the reference of a term to some phenomenal type, which is the subject matter that both incompatible theories may address regarding the term in question. Again, how is it possible to compare meaning variant, rival theories? The answer is straightforward: We compare them by associating them, through intensional reference, with the same phenomenon type (
+            <xref ref-type="fig" rid="f1">Figure 1</xref>
+            ).
+         </p>
+         <p>Take again the example of the term planet, whose extensional reference differs between the Ptolemaic and the Copernican theory. The extensional reference of the term “planet” was not passed to any of those theories from the point in which the word “planet” (or πλανήτης) was first assigned to moving celestial objects. Actually, the characteristic of being a moving celestial object is part of the phenomenon type to which the term “planet” intensionally refers in both theories.</p>
+         <p>We should also focus on an issue regarding the use of terms, which is an important aspect of Sankey’s proposal. Sankey claims that the reference of a term may change gradually due to its use. However, it seems clear that when theoretical reference varies, its use within theories also varies. Take, for instance, the term “velocity” and compare its use in classical and relativistic mechanics. The use varies considerably. Now, even if the use of the term “velocity” varies in such a way that its reference cannot remain fixed between different theories, one may argue, following Sankey, that its early use can determine a reference that both classical and relativistic mechanics share. The questionable aspect with this strategy can be stated as follows. Even if we may agree that the early meaning of a term determines crucial features related to its actual meaning, it is more than acceptable to deny that one of such features is its actual, extensional reference, assuming that such a determination is conceived as direct determination Thus, considering the fact that the reference of theoretical terms varies with theory, if there is a feature of a term’s meaning that can be fixed at the beginning of some inquiry, it cannot be theoretical reference. It may be, however, a non-extensional correspondence between the term and the entities with which it is associated. And if features of extensional reference depend on its early meaning, the dependence is indirect, i.e. through description. In what follows, I will propose that the notion of a phenomenon type may allow us to grasp in a clear way what is shared between incommensurable theories.</p>
+         <p>I propose the following, based on the characterisation of incommensurability presented earlier. We can, on the one hand, accept a description theory of extensional reference and, on the other hand, focus on some relevant type of phenomenon that may be associated by intensional reference with a considered term. The features of the phenomenon type might be transferred communicationally between speakers and theories, as described by the causal theory of reference. Initially, such a phenomenon type does not have to be described unequivocally for all points of view. The way theories are related to phenomenon types might be understood as intentional reference. In a certain sense, this proposal is inspired in Sankey’s causal-descriptive account on reference. Both strategies are quite similar. However, while Sankey claims that reference changes in a piecemeal manner, I propose to consider two kinds of reference, one intensional and the other extensional. This is not a fundamental difference, if one treats each kind of reference as an aspect of a generic notion of reference. Under such an assumption, we could say that the reference of a term changes in a piecemeal manner; it changes regarding intensions and about extensions. We may then compare two incommensurable theories based on a given phenomenon type. In the case of the comparison between Newtonian mechanics and special relativity, we could say that the term “mass” is associated with the phenomenon of how objects resist to change their state of motion when they interact with other objects. This is not a unique, particular phenomenon that fixes the extension of the term “mass”, but a phenomenon type that could be considered as relevant regarding the development of that term within the history of scientific theories. Let us symbolise such a phenomenon type by Φ. The term associated with that phenomenon in Newtonian mechanics can be symbolised as mN and is defined according to that theory. The term associated with Φ within special relativity may be symbolised by mR. Of course, mN and mR are in conflict, but we can compare them based on Φ. Thus, two theories can be compared, even if they refer to different things.</p>
+         <p>Let us now turn again to the notion of a subject matter. When we claim that Newtonian mechanics and special relativity are about the same type of phenomenon, Φ, we also claim that they are about the same subject matter. Since a subject matter is defined as a system of differences, we can clearly see that these theories are about Φ, because Newtonian mechanics differs from special relativity theory regarding the descriptions of the phenomenon type symbolised by Φ. This difference can also be considered in relation with the descriptions that one could derive from each one of the two conflicting theories. Take the following proposition, where a is a material object:</p>
+         <p>(18) The mass of a is 1kg.</p>
+         <p>Given the incommensurability between Newtonian mechanics and special relativity regarding the concept of mass, (18) might be true according to the former and be false according to the latter. In other words, both theories have inconsistent results. However, this incoherence may be avoided as follows:</p>
+         <p>(19) mR(a) = 1kg or mN(a)≠ 1kg.</p>
+         <p>Which one of the possible descriptions involved here should we choose? The way in which one decides to answer this question is partly related to the stance one takes regarding realism, as discussed in the following section.</p>
+         <p>An important issue that both Sankey’s proposal and the one developed here seek to address is the problem of explaining the comparability of incommensurable theories even when incommensurability depends on semantic variance regarding sense as well as reference. Considering this problem, Martin (Referential variance and scientific objectivity; Ontological variance and scientific objectivity) argues that theory comparison can be achieved on the basis of bridge sentences, which would show that exact co-reference between theories is not necessary. Referential overlap would be enough, if it is expressed appropriately by bridge sentences. These have the status of empirical laws and should relate the terms according to which the theories are being compared. Suppose, following the examples just considered, that, for some predicate F and some object (or kind of object) a, theory T1 entails Fa, while another theory, T2, entails ¬Fa. Suppose further that F as employed in T1 is semantically different from F as employed in T2, regarding sense as well as reference. On what common ground can we then compare T1 and T2? Following Martin’s proposal, let β be the class of entities that constitute the extension of F in T1 and γ be the class corresponding to the extension of F in T2. Both theories could be compared if a principle like the following was established:</p>
+         <p>(20) Any object that is an element of β is also an element of γ.</p>
+         <p>Thus, T1 and T2 could conflict with regard to (20). Even if the semantic incompatibility of these theories is such that there is a difference regarding the referents of F, these are not completely unrelated, because of the bridge principle relating such referents.</p>
+         <p>Two points should be considered about Martin’s way of tackling incommensurability and the way proposed in this work to do it. First, I agree that bridge principles allow us to plausibly compare theories that are strongly incompatible regarding some of their terms. But what allows us to establish these principles? Martin claims that they should result from empirical investigation, rather than a priori speculation. The issue of distinguishing empirical investigation from a priori speculation will not be considered here, but be is as it may, there must be some linguistic mechanism according to which we target the predicates under comparison as being part of the same type of phenomena, and therefore, of a same subject matter.</p>
+         <p>Second, the bridge principles considered by Martin determine extensional relations between the theories being compared. These kinds of links might hold in many cases and even be confirmed empirically. But they are not necessary to establish points of comparison between incommensurable theories. As I have tried to argue, non-extensional, qualitative links between the relevant terms (as they appear in each theory) and common grounds constituted by phenomenon types are more crucial. They can ground theory comparison even when no extensional bridge principles are explicitly formulated. Furthermore, when they are explicitly formulated, extensional bridges depend on non-extensional ones.</p>
+         <p>Let us go back to the causal theory of reference. As already mentioned, one of the problems of the traditional version of this theory lies in the usually made assumption that, once fixed, reference does not vary with theory change. This is incoherent with the history of scientific development. To tackle this issue, Michael Devitt (Singular terms) proposes focusing on the fact that the causal networks that underlie scientific terms are not only grounded on the act of term introduction but are multiply grounded. This would be a basis to characterise reference change as change in the patterns of groundings over time (as Devitt says). Each use of a name or term establishes different causal linkages between the person and the object. Thus, reference varies when the patterns of those linkages vary regarding the instances in which a term is used. This account is coherent with the proposal presented in this work. It must be emphasised, however, that regardless of what the grounding objects are in themselves, what matters are the patterns of the causal networks that are grounded on them. In this sense, what matters are the phenomena involved in those patterns and how they are grouped in phenomenon types.</p>
+         <p>This emphasis gains more force when we distinguish names from general terms. It is obvious that the different patterns of reference regarding the name “Moon” are constituted by perceptual patterns grounded in the Moon, considered as an independent material object. Although that object, taken as a thing, must have some role in those causal networks of reference, what permits communication involving the use of the term “Moon” are the types of phenomena associated with it, regardless of what the Moon “really” is. Now, considering general scientific terms, the issue is the following. The grounding objects involved in the causal network that gives rise to the uses of the Newtonian notion of mass may be completely different from the objects that ground the causal network of the relativistic notion of mass. What those patterns have in common need not be a set of grounding objects but may be a set of phenomenon types. In the case of mass, for example, a relevant phenomenon type is, as mentioned earlier, the set of qualities related to how objects resist to change their state of motion when they interact with other objects. Now, against his view, one may say that whatever grounds this phenomenon type metaphysically constitutes the common ground. Accepting this, we would not have to talk about phenomenon types at all. To settle this issue, we must tackle the problem of scientific realism, the topic of the following section.</p>
+         <p>
+            <fig id="f1">
+               <label>fig1</label>
+               <caption>
+                  <title>Fig. 1. Although two mutually incommensurable theories, T1 and T2, may assign, by extensional reference, different meanings to a term t, they can be compared with regard to a same type of phenomenon, Φ.</title>
+               </caption>
+               <graphic xlink:href="0717-554X-cmoebio-64-00043-fig1.png" />
+               <attrib />
+            </fig>
+         </p>
+      </sec>
+      <sec>
+         <title>4. The possibility of realist scientific progress</title>
+         <p>
+            Another main problem usually associated with the acceptance of semantic incommensurability is related to scientific progress. According to
+            <xref ref-type="bibr" rid="B2">Sankey (2009</xref>
+            ), there cannot be an increment of the truth known about a type of entity when the two successive, competing theories involved do not refer to the same type of entity. Thus, incommensurability may conflict with a realist notion of scientific progress. In this section, I would like to challenge this position, arguing that there can be periods of scientific progress even if those periods involve incommensurable theories and even if the aims of those theories are not to describe an objective, independent reality.
+         </p>
+         <p>We may characterise a realist notion of scientific progress in the following way:</p>
+         <p>(21) Realist scientific progress. Scientific progress consists in the development of theories that investigate a set of entities (that is, a part of what there is) and any theoretical change may imply a better understanding of those entities.</p>
+         <p>Consider again mass. Suppose that mass is a real property of physical bodies, which can be treated as a type of entity. A form to describe what this property is may be the following:</p>
+         <p>(22) An object has mass if and only if it has M.</p>
+         <p>The symbol M may represent a property, a predicate or a set of properties and can be filled depending on the theory in which it is involved. The idea of a realist notion of scientific progress implies that our conception of M can be improved, such that our knowledge about the real property of mass may increase with theory change. Additionally, by improving our understanding of a property, we also improve our understanding of the things to which we predicate that property.</p>
+         <p>To grasp the idea that property M is a property that can be characterised by different theories in different ways, consider the following formulation, where T is some theory and MT is the property of mass postulated according to T:</p>
+         <p>(23) According to theory T, an object has mass if and only if it has MT.</p>
+         <p>Let T* be a theory that succeeds T and MT* the property according to which mass is characterised in T*. We may formulate this characterisation as follows:</p>
+         <p>(24) According to theory T*, an object has mass if and only if it has MT*.</p>
+         <p>We can then formulate scientific progress as follows:</p>
+         <p>(25) If the change from T to T* involves progress regarding our understanding of the property of mass, then MT* is a better characterisation of mass than MT.</p>
+         <p>The problem generated by semantic incommensurability is, following Sankey, the fact that we cannot formulate sentences like (25) about two incommensurable theories. Of course, the problem is only generated assuming that semantic incommensurability involves incompatibility of reference and that incompatibility of reference implies incomparability. In propositions (23) and (24) both MT and MT* are supposed to be different entities. Let again mN be the Newtonian term of mass and mR be the relativistic term of mass. When two theories are semantically incommensurable, we arrive at a pair of formulations like the following:</p>
+         <p>(26) According to theory T, we may predicate mN of an object a if and only if it has MT.</p>
+         <p>(27) According to theory T*, we may predicate mR of an object a if and only if it has MT*.</p>
+         <p>These propositions can be considered as parts of each theory and similar sentences can be formulated regarding other properties. These propositions show in which sense two incommensurable theories cannot be compared. Focusing on the relevant terms, T and T* have nothing in common. There does not seem to be a common measure to compare them. The crucial threat regarding realism is the fact that, assuming that T* succeeds T, mT* cannot be taken as an improvement of our understanding of the reality related to mT, because it does not refer to MT. Therefore, realist scientific progress from T to T*, based on the notion characterised in (27), is not possible. A way to resolve this issue will be shown in the next and final part of this article.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Bibliographic references</title>
+         <ref id="B1">
+            <mixed-citation>
+               Sankey, H.,  (2008).
+               <italic>Scientific realism and the rationality of science</italic>
+               .  Aldershot: Ashgate
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sankey</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Scientific realism and the rationality of science</source>
+               <publisher-name>Ashgate</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Sankey, H.(2009). "Scientific realism and the semantic incommensurability thesis".
+               <italic>Studies in History and Philosophy of Science Part A. 40</italic>
+               (2), 196-202. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.shpsa.2009.03.007">https://doi.org/10.1016/j.shpsa.2009.03.007</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sankey</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Scientific realism and the semantic incommensurability thesis</article-title>
+               <source>Studies in History and Philosophy of Science Part A</source>
+               <volume>40</volume>
+               <issue>2</issue>
+               <fpage>196</fpage>
+               <lpage>202</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.shpsa.2009.03.007">https://doi.org/10.1016/j.shpsa.2009.03.007"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

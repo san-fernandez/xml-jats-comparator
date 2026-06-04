@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.4" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000100061</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Hacia una sociología de la abstracción: observaciones acerca de la mediación entre lo conceptual y lo empírico</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Towards a sociology of abstraction: notes on the relationship between the conceptual and the empirical</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-8441-7855</contrib-id>
+					<name>
+						<surname>Cordero</surname>
+						<given-names>Rodrigo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-3916-4833</contrib-id>
+					<name>
+						<surname>Salinas</surname>
+						<given-names>Francisco J.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original"> (rodrigo.cordero@udp.cl) Escuela de Sociología, Universidad Diego Portales (Santiago, Chile) </institution>
+				<institution content-type="normalized">Universidad Diego Portales</institution>
+				<institution content-type="orgdiv1">Escuela de Sociología</institution>
+				<institution content-type="orgname">Universidad Diego Portales</institution>
+				<addr-line>
+					<named-content content-type="city">Santiago</named-content>
+				</addr-line>
+				<country country="CL">Chile</country>
+				<email>rodrigo.cordero@udp.cl</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original"> (f.lemus.15@ucl.ac.uk) Institute of Education, University College London (London, UK) </institution>
+				<institution content-type="normalized">University College London</institution>
+				<institution content-type="orgdiv1">Institute of Education</institution>
+				<institution content-type="orgname">University College London</institution>
+				<addr-line>
+					<named-content content-type="city">London</named-content>
+				</addr-line>
+				<country country="GB">United Kingdom</country>
+				<email>f.lemus.15@ucl.ac.uk</email>
+			</aff>
+			<pub-date pub-type="epub">
+				<month>03</month>
+				<year>2017</year>
+			</pub-date>
+			<issue>58</issue>
+			<fpage>61</fpage>
+			<lpage>73</lpage>
+			<history>
+				<date date-type="received">
+					<day>28</day>
+					<month>11</month>
+					<year>2016</year>
+				</date>
+				<date date-type="accepted">
+					<day>15</day>
+					<month>01</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>El artículo propone contribuir al estudio sociológico de la &quot;abstracción&quot; como una clave para comprender las complejas relaciones entre lo conceptual y lo empírico. Nuestro argumento es que la &quot;abstracción&quot; constituye un <italic>tercer término</italic> que desafía el divorcio entre ambos dominios en la sociología e interroga su compleja mediación en la vida social. Para ello, exploramos las posibilidades de una <italic>sociología de la abstracción</italic> como un ejercicio de observación tendiente a: (i) comprender la inmersión de las prácticas de abstracción de la teoría social de un modo inmanente a las dinámicas de abstracción de la sociedad; (ii) descifrar el movimiento concreto de los conceptos que dan forma a la sociedad y permiten la durabilidad a las relaciones sociales. En otras palabras, sostenemos, el trabajo sociológico de la abstracción consiste en un inevitable repliegue reflexivo que moviliza los conceptos para alcanzar lo que está más allá de los conceptos. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>This paper aims to contribute to the sociological study of &quot;abstractions&quot; as a key to comprehend the relations between the conceptual and the empirical. Our argument is that &quot;abstraction&quot; is a <italic>third term</italic> that challenges the customary divorce between these domains in sociology inasmuch as interrogates their complex mediation in social life. To do so, we explore the possibilities of a <italic>sociology of abstraction</italic> as an exercise of thinking and observation aimed at: (i) comprehending the immersion of social theory's practices of abstraction as immanent to the dynamics of abstraction of society; and (ii) deciphering the concrete movement of concepts that give form to society and durability to social relations. Thus, we intend to show that the project of a sociology of abstractions consists in an unavoidable reflexive retreat that displays concepts in order to reach what is beyond concepts. </p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>abstracción</kwd>
+				<kwd>conceptos</kwd>
+				<kwd>práctica teórica</kwd>
+				<kwd>sociología</kwd>
+				<kwd>sociedad</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>abstraction</kwd>
+				<kwd>concepts</kwd>
+				<kwd>theoretical practice</kwd>
+				<kwd>sociology</kwd>
+				<kwd>society</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>ICM-Iniciativa Científica Milenio</funding-source>
+					<award-id>NS130017</award-id>
+				</award-group>
+				<funding-statement>Núcleo Milenio &quot;Modelos de Crisis&quot;, proyecto NS130017, ICM-Iniciativa Científica Milenio</funding-statement>
+			</funding-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="41"/>
+				<page-count count="13"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec>
+			<title>El problema de la abstracción</title>
+			<p>Los sociólogos que enfatizamos la dimensión teórica del estudio de lo social, o que nos dedicamos a &quot;seguir&quot; conceptos en el mundo, a menudo enfrentamos el reproche de que tal ejercicio nos acerca peligrosamente a la filosofía y distrae la pretensión más fundamental de toda sociología: comprender y describir empíricamente el mundo social. En contraste con los rendimientos explicativos de las metodologías más avanzadas, suele decirse que la reflexión teórica es &quot;abstracta&quot; como sinónimo de su carácter meramente especulativo, vaciado de realidad y distanciado de problemas sociales concretos. Por cierto, el reproche contra la abstracción no es algo nuevo en el campo de la sociología. Cabe recordar el positivismo científico de Comte que se erige contra la teología y la metafísica, la temprana crítica de Marx al idealismo alemán o incluso los ácidos cuestionamientos de C. Wright Mills a la &quot;gran teoría&quot; representada por Talcott Parsons. Sin embargo, en la escena contemporánea el reproche ha renacido de la mano de un nuevo empirismo sociológico que, en pos de defender la vocación descriptiva y empírica de la disciplina, intenta con mayor fuerza liberar a lo concreto de las pantanosas aguas de lo abstracto. </p>
+			<p>A pesar del persistente reproche, existe un renovado interés por resituar la comprensión y estudio del fenómeno de la abstracción en la agenda sociológica contemporánea. Éste se manifiesta en nuevas aproximaciones para explorar las prácticas de producción de conocimiento, las formas de autocomprensión que actores e instituciones movilizan cotidianamente, y la articulación de formas altamente abstractas de coordinación social. En esta línea, es posible distinguir al menos cuatro variantes sociológicas que, de modo más o menos explícito, problematizan las dinámicas de abstracción en las sociedades contemporáneas: </p>
+			<p>La nueva sociología de las formas que analiza la abstracción como resultado de una cultura tecno-topológica, a veces llamada &quot;post-humana&quot;, en la que los objetos no-humanos subvierten la prioridad antropológica del sentido subjetivamente mentado. El reconocimiento de la agencia de los objetos supone dar un giro hacia una comprensión de lo social en la que los objetos significan y, por ende, remiten de modos concretos y prácticos a otros objetos-signo como el eje de la heterogénea articulación de formas sociales altamente abstractas (<xref ref-type="bibr" rid="B27">Latour, 2001</xref>; <xref ref-type="bibr" rid="B28">Law, 2008</xref>; <xref ref-type="bibr" rid="B29">Lury, 2012</xref>). </p>
+			<p>La nueva sociología del pensamiento, las ideas y los intelectuales, que congrega una variedad de esfuerzos tendientes a explorar los modos en que se produce la teorización como un ejercicio situado y resultado práctico, además de un interés genuino por comprender las formas en que se enseña y comunica públicamente el conocimiento sociológico (<xref ref-type="bibr" rid="B9">Baert, 2012</xref>; <xref ref-type="bibr" rid="B11">Camic y Gross, 2004</xref>; <xref ref-type="bibr" rid="B23">Fuller, 2006</xref>; <xref ref-type="bibr" rid="B26">Lamont, 2010</xref>).</p>
+			<p>Las nuevas sociologías críticas, que indagan el lugar de las abstracciones en el capitalismo contemporáneo, desde las dinámicas emergentes de reificación-alienación, las múltiples formas de representación e ideología, hasta las maneras en que los propios actores movilizan recursos normativos y metafísicos en las disputas morales (<xref ref-type="bibr" rid="B10">Boltanski, 2000</xref>; <xref ref-type="bibr" rid="B38">Toscano, 2008</xref>).</p>
+			<p>La nueva sociología filosófica, programa que propone resituar la pregunta por lo normativo en el centro de la agenda sociológica y, en concreto, explorar las concepciones de lo humano implícitas en las concepciones de lo social que forman nuestra existencia cotidiana y se despliegan en los múltiples conflictos normativos que ponen a prueba las prácticas e instituciones estructurantes de las sociedades modernas (<xref ref-type="bibr" rid="B13">Chernilo; 2014</xref>, <xref ref-type="bibr" rid="B14">2017</xref>). </p>
+			<p>En el contexto de América Latina, el alcance de estos debates ha sido más bien limitado pero no por ello dejan de existir importantes contribuciones. En particular, destacan: (i) los estudios sobre globalización y cambio conceptual realizados por Gina <xref ref-type="bibr" rid="B41">Zabludosvky (2007</xref>), (ii) los programas de investigación desarrollados por Daniel <xref ref-type="bibr" rid="B5">Alvaro (2013</xref>) y Pablo <xref ref-type="bibr" rid="B18">de Marinis (2012</xref>) en torno al concepto de &quot;comunidad&quot; como semántica central de la tradición sociológica y de los debates socio-políticos contemporáneos, (iii) las apropiaciones de la genealogía foucaultiana realizadas por Santiago <xref ref-type="bibr" rid="B12">Castro-Gómez (2011</xref>) y Arturo <xref ref-type="bibr" rid="B20">Escobar (1998</xref>) para una deconstrucción y crítica de los conceptos que articulan las dinámicas coloniales en América Latina, (iv) las investigaciones de Aldo <xref ref-type="bibr" rid="B32">Mascareño (2010</xref>) acerca de las semánticas que estructuran la modernidad Latinoamericana y sus procesos de diferenciación concéntrica y (v) los estudios de Claudio <xref ref-type="bibr" rid="B34">Ramos (2012</xref>) acerca de los ensamblajes conceptuales entre ciencia social y sociedad. </p>
+			<p>En el presente artículo proponemos contribuir a este debate, elaborando una defensa del lugar de la &quot;abstracción&quot; en la sociología como clave para indagar las complejas relaciones entre lo conceptual y lo empírico en el mundo social. Nuestro argumento es que la &quot;abstracción&quot; no es una deformación del pensamiento, sino que constituye una <italic>condición</italic> de posibilidad de la observación sociológica y un <italic>problema</italic> ineludible en la comprensión de las dinámicas de producción de lo social. En otras palabras, la abstracción constituye un <italic>tercer término</italic> entre lo conceptual y lo empírico.</p>
+			<p>Al situar el problema de esta manera, nuestra defensa de la abstracción persigue un doble propósito. El primero consiste en ofrecer elementos para una crítica del divorcio entre lo conceptual y lo empírico como si fuesen dos dominios diferentes. Nos parece que tal divorcio es problemático en tanto nutre y reproduce dos tentaciones bastante comunes en la investigación social. La <italic>tentación positivista</italic> de ver el mundo social como un objeto puramente empírico, es decir, como una realidad que puede ser descrita a partir de la colección de datos y comprendida mediante la observación directa desprovista de conceptos, pero al costo de no poder reconocer todo aquello que en la sociedad resulta inaccesible a la experiencia subjetiva y a cosas que en realidad son incomprensibles. Y <italic>la tentación idealista</italic> de confiar en la formulación lógica de esquemas analíticos coherentes y en el poder de los conceptos para hacer inteligible los vínculos entre procesos universales y experiencias concretas, pero al costo de hipostasiar los conceptos como unidades autónomas de significado que el cientista social puede definir y fijar externamente como si fuesen figuras de la geometría.</p>
+			<p>Sobre esta base, nuestro segundo propósito consiste en avanzar en la fundamentación de una <italic>sociología de la abstracción</italic> como una forma de indagación de las relaciones entre lo conceptual y lo empírico que se manifiesta en un doble nivel. Por un lado, esto supone comprender la inmersión de las prácticas de abstracción de la teoría social de un modo inmanente a las dinámicas de abstracción de la sociedad. Aquí apuntamos al carácter mundano y concreto del trabajo teórico-social como una experiencia práctica mediante la cual se desensorializa el mundo social dentro del mundo social. Por otro lado, nuestra aproximación supone descentrar la comprensión de la abstracción como un ejercicio intelectual que se realiza <italic>sobre</italic> la sociedad. Ello implica descifrar y seguir el movimiento concreto de las formas que se producen <italic>en</italic> la sociedad, dando durabilidad a las relaciones sociales y visibilidad al espacio de lo social. </p>
+			<p>Con todo, si la sociedad no es un objeto concreto en sí, sino que un producto relacional cuya totalidad no es transparente a la observación inmediata, el proyecto de una sociología de la abstracción puede ser definido como un inevitable repliegue reflexivo que moviliza los conceptos para alcanzar lo que está más allá de los conceptos.</p>
+		</sec>
+		<sec>
+			<title>La abstracción del pensamiento sociológico </title>
+			<p>En su clásico ensayo, &quot;El problema de la sociología&quot;, Georg Simmel argumenta en contra de la falacia que subyace a la pretensión de fundamentar el conocimiento de lo social en términos de una ciencia estrictamente empírica. En efecto, para Simmel &quot;toda ciencia se funda en una <italic>abstracción</italic> , por cuanto considera en uno de sus aspectos y desde el punto de vista de un concepto, en cada caso diferente, la totalidad de una cosa que no puede ser abarcada por ninguna ciencia&quot; (<xref ref-type="bibr" rid="B36">Simmel, 1986</xref>:14, énfasis agregado). En tanto ciencia de lo social, la sociología &quot;se basa en una abstracción a partir de la realidad concreta constituida por individuos, objetos y las relaciones particulares entre ellos&quot; (<xref ref-type="bibr" rid="B36">Simmel, 1986</xref>:15). Es precisamente la búsqueda de transformar las relaciones sociales en objeto científico lo que produce la necesidad de contar con un <italic>concepto de sociedad</italic> . Al confrontar el hecho problemático de la sociedad, tal concepto es un punto de partida inevitable para establecer qué constituye la realidad social, cómo observarla y de qué manera explicar su funcionamiento. </p>
+			<p>Uno de los aspectos más interesantes del argumento de Simmel consiste en la relación implícita que establece entre ciencia y cultura. A su juicio, el proceso de abstracción del pensamiento científico no solo es condición de posibilidad de la observación sociológica (dimensión epistémica-metodológica), sino que se encuentra anclado a la vitalidad de nuestra existencia como seres capaces de producir mundo (dimensión cultural-antropológica). En efecto, la abstracción sociológica de la sociedad siempre sucede dentro de la propia sociedad. La afirmación puede resultar banal para quienes entienden a la sociología como parte de las ciencias de la cultura y, en esa medida, como parte esencial de las formas de auto-comprensión que las sociedades modernas han creado para dar cuenta de sí mismas. Sin embargo, en Simmel la idea de que la abstracción tiene lugar dentro de la sociedad conlleva el diagnóstico de un conflicto irresoluble entre la vitalidad del pensamiento humano y la estabilización de formas socio-culturales que trágicamente se vuelven contra ese dinamismo. Lo que ocurre es la coagulación del pensamiento vivo en &quot;innumerables figuras que continúan existiendo en una peculiar autonomía con independencia del alma que las ha creado, así como de cualquier otra alma que las acepta o rechaza&quot; (<xref ref-type="bibr" rid="B37">Simmel, 2008</xref>:97). </p>
+			<p>Este sentido trágico que acompaña los procesos de creación cultural se acentúa en el trabajo de la ciencia de la sociedad, por cuanto el trabajo de creación conceptual que hace posible la observación se ve amalgamado por &quot;figuras&quot; que lo atraen por su poder interpretativo, pero cuya existencia petrificada luego termina produciendo &quot;lejanía e intangibilidad&quot; (<xref ref-type="bibr" rid="B37">Simmel, 2008</xref>:97). Esta ambivalencia es una intuición que Weber y Marx comparten con Simmel, toda vez que la capacidad de producir determinadas formas conceptuales se encuentra imbricada en la manera en que las relaciones sociales se encuentran históricamente organizadas. Así, sugiere Weber, &quot;la historia de las ciencias sociales es y sigue siendo un proceso continuo que pasa por el intento de ordenar la realidad analíticamente a través de la construcción de conceptos&quot; (<xref ref-type="bibr" rid="B39">Weber, 1949</xref>:105) y la reformulación de tales conceptos en base a nuevas fundaciones y la emergencia de problemas culturales concretos. </p>
+			<p>La necesidad y legitimidad de las &quot;abstracciones teóricas&quot; es el <italic>leitmotiv</italic> de la relectura que Talcott Parsons realiza de la tradición sociológica clásica y de su defensa de la idea de &quot;progreso&quot; en el trabajo científico. Con un acento marcadamente neokantiano y antipositivista, el argumento de Parsons es que &quot;no hay conocimiento empírico que no sea, en cierto sentido y hasta cierto grado, conceptualmente formado&quot; (<xref ref-type="bibr" rid="B33">Parsons, 1949</xref>:28). La abstracción no es por tanto una elección subjetiva del observador, sino que una necesidad epistemológica que se le impone para observar el mundo social. Así, una comprensión de lo empírico divorciada de lo conceptual ya constituye una abstracción conceptual y, por tanto, una opción teórica acerca de lo que constituye la sociedad como un dominio de realidad. </p>
+			<p>La abstracción, que Parsons llama <italic>realismo analítico</italic> , supone que el investigador teórico-social es capaz de destacar y relacionar conceptos dentro de un marco de análisis. El punto reside en la función &quot;analítica&quot; de la abstracción teórica en tanto permite construir modelos <italic>a priori</italic> para acceder a propiedades constitutivas de los objetos sociales, pero que no podemos observar directamente. Tal como en la física, &quot;podemos observar que un cuerpo dado tiene una masa dada, pero nunca podemos observar la 'masa' como tal&quot; (<xref ref-type="bibr" rid="B33">Parsons, 1949</xref>:34). La robustez de tal ejercicio de abstracción no depende de su adecuación con la realidad, sino más bien de la coherencia, tratamiento sistemático y permutaciones lógicas de las relaciones existentes entre sus componentes internos. La práctica teórico-social se ubica así en un plano lógico que, al aspirar a la completitud y autorreferencialidad analítica, despliega una forma de pensamiento que pretende comprender el mundo empírico a expensas de su lugar en el mundo empírico. </p>
+			<p>A diferencia de la conocida crítica de Mills a la &quot;gran teoría&quot; parsoniana, nuestro argumento es que el problema de Parsons no está en la abstracción de su teoría, sino en cómo entendió la abstracción teórica propia de la sociología. En efecto, no se trata de que los &quot;esquemas analíticos&quot; y &quot;marcos de referencia&quot; (la teoría voluntarista de la acción, por ejemplo), tal como los entiende Parsons, sean inútiles en las ciencias sociales. Por el contrario, se trata de entenderlos como regímenes conceptuales cuya operación semántica y rendimientos explicativos están inscritos en las vicisitudes propias de vivir y pensar dentro de la sociedad. En consecuencia, la abstracción en sociología es algo distinto a la construcción de esquemas analíticos coherentes y lógicos tendientes a producir teoría sistemática de la sociedad. La entendemos, volviendo a <xref ref-type="bibr" rid="B36">Simmel, como &quot;una particular disposición de la mirada&quot; (Simmel, 1986</xref>:26). Tal disposición sugiere una inclinación emocional hacia un objeto, una voluntad anticipatoria de poner en orden y el re-conocimiento de estar situado en un lugar que demarca el alcance, ángulo y nitidez de la observación. </p>
+			<p>Etimológicamente, el verbo griego <italic>θεωρειν</italic> [Theorein]-de donde proviene la expresión &quot;teoría&quot;- está compuesto de las expresiones <italic>Thea</italic> , teatro, y <italic>Orao</italic> , examinación (<xref ref-type="bibr" rid="B24">Heidegger, 2007</xref>:166). Quien hace teoría, examina los escenarios desde donde se hacen presente las entidades del mundo, aunque puede hacerlo con <italic>disposiciones</italic> radicalmente opuestas. En la teoría sociológica, está la disposición de quienes, <italic>à la</italic> Parsons, crean un teatro de abstracciones rígidas que se pueden examinar y manipular detalladamente con su maquinaria analítica; se trata de &quot;títeres&quot; que, de acuerdo a <xref ref-type="bibr" rid="B35">Schütz, actúan en perfecta armonía solo por voluntad del especialista (Schütz, 2003</xref>:70). Por otro lado, se encuentra una disposición a observar el inevitable rol del individuo <italic>en</italic> sociedad, a pesar de su aparente exterioridad producto de los procesos de abstracción sociocultural. En este sentido, la disposición simmeliana de la mirada en el trabajo de reflexión teórica -cuyo uso de herramientas conceptuales hace evidente su participación en lo social-, supone entrenar las capacidades de observación para dar cuenta del individuo, incluyendo al teórico social, <italic>como partícipe</italic> de lo social. </p>
+			<p>Así, la abstracción del pensamiento sociológico siempre se encuentra imbricada en un impulso mucho más concreto, como una experiencia práctica mediante la cual se desensorializa el mundo social dentro del mundo social. Si bien &quot;las teorías abstraen a partir de los datos de un tiempo y lugar determinados&quot;, y a pesar de que &quot;a menudo hablamos abstractamente cuando las analizamos&quot;, no debemos olvidar que éstas no son &quot;<italic>abstracciones flotantes</italic> sino <italic>obras</italic> de personas&quot; (<xref ref-type="bibr" rid="B4">Alexander, 2008</xref>:11, énfasis agregado). En consecuencia, no existe teorización <italic>sobre</italic> la sociedad que no esté situada <italic>en</italic> lo social ni ajena al trabajo concreto de alguien. Si la abstracción del pensamiento consiste en una traducción de la heterogeneidad social en términos discursivos, todo sociólogo debe optar por un acto de distancia no distante -una simmeliana &quot;disposición de la mirada&quot;- para observar lo social: las relaciones recíprocas en las que se integran los individuos no son materia obvia, sino un desafío constante para la comprensión humana.</p>
+			<p>En el plano semántico, el trabajo de la abstracción sociológica no &quot;flota&quot; en el aire como una entidad aislada de una realidad concreta que le resiste, sino que descansa en una red de conceptos &quot;que los grupos humanos han forjado laboriosamente en el curso de los siglos y donde han acumulado lo mejor de su capital intelectual&quot; (<xref ref-type="bibr" rid="B19">Durkheim, 1991</xref>:22). La historia y vida adquirida por tales conceptos generan así un horizonte común que incluye y conecta al teórico con lo social, pero que también lo trasciende como una constelación heterogénea de experiencias, objetos y significados que se proyectan en el tiempo. Es por ello que, en estricto rigor, la sociedad no puede ser conocida empíricamente con independencia de sus conceptos, ni tampoco el teórico social puede prescindir de la abstracción teórica para poder hacerlo en términos científicamente aceptables. </p>
+			<p>En el plano estructural, como observa Randall <xref ref-type="bibr" rid="B15">Collins, la abstracción del pensamiento no es un atributo individual, sino que &quot;la tendencia a largo plazo de una comunidad intelectual activa&quot; (1998</xref>:787) que produce cada vez mayores niveles de reflexividad, dando forma a conceptos y &quot;obras&quot; que son resultado de la especificación de los debates entre sus miembros y públicos. En efecto, dicho fenómeno sería imposible si es que estos individuos no participaran de la vida social, sin que sus escritos, conferencias y apuntes circularan por y para una red societal de colegas, estudiantes y editores que dan sentido a su práctica intelectual. Así como sería imposible de entender sin materializaciones institucionales concretas, tales como la universidad. En efecto, el pensamiento teórico-social no es un romántico espacio contemplativo aislado del mundo; su lugar primordial (aunque no exclusivo) está <italic>en medio</italic> del ajetreo propio de la vida académica contemporánea y, por lo tanto, no deja de ser cómplice y crítico de sus vicios y méritos. Aunque, cabe reconocer, que es la propia institución universitaria contemporánea la que, &quot;auditada&quot; y volcada a estándares de medición, ha creado las condiciones propicias que reifican la práctica puramente teórica y la devalúan como un espacio desde dónde <italic>pensar</italic> lo social.</p>
+			<p>En estas condiciones, la actividad reflexiva de la abstracción no es algo distinto del mundo social y la experiencia ordinaria del sentido común. Tal como sugiere Arendt, dicha creencia es un &quot;error metafísico&quot;. La abstracción no es sino el proceso en el cual, por medio de la &quot;imaginación&quot;, quien piensa puede llevar a imágenes y presentar dentro de sí (re-presentar) aquello que se expresa en el mundo. Este proceso opera siempre en el mundo fenoménico vivo, pues pensar es siempre pensar <italic>en</italic> y <italic>sobre</italic> algo. Seguramente puede aplicarse al teórico social lo que Hannah Arendt bellamente expresa respecto al &quot;pensamiento&quot; en <italic>La vida del espíritu</italic>:  &quot;En todas estas actividades reflexivas los hombres se mueven fuera del mundo de las apariencias y utilizan un lenguaje lleno de palabras abstractas que, por supuesto, por mucho tiempo han sido parte y parcela del discurso del día a día antes de que se volvieran la moneda de cambio de la filosofía. Para el pensamiento, entonces, no para la filosofía en un sentido técnico, la retirada del mundo de las apariencias es la única precondición esencial&quot; (<xref ref-type="bibr" rid="B6">1978</xref>:78).</p>
+			<p>Esta retirada del pensamiento opera como un proceso de desensorialización configurado como paréntesis dentro del mundo sensorial. Lo relevante es que esta capacidad de abstracción no es un monopolio de los &quot;pensadores de profesión&quot;, sino que un ejercicio esperable de toda persona en su sano juicio (<xref ref-type="bibr" rid="B6">Arendt, 1978</xref>:13). Basta recordar, en su informe sobre Eichmann, la descripción que Arendt hace de la irresponsabilidad con la que el teniente-burócrata Nazi no asume las consecuencias de sus actos, solo por el hecho de &quot;seguir órdenes&quot;. Ante la constatación de la irreflexiva estrechez fenomenológica de una experiencia carente de referencias simbólicas, el caso de Eichmann demuestra el sentido e importancia ética de la abstracción del pensamiento. En tanto pensar supone el desarrollo de habilidades de discernimiento que no vienen dadas simplemente por <italic>estar</italic> en el mundo, requiere entrenar nuestra imaginación para &quot;ir de visita&quot; (<xref ref-type="bibr" rid="B7">Arendt, 1989</xref>:43) en un espacio potencialmente público en el cual uno se puede mover desde una perspectiva a otra. </p>
+			<p>Si un individuo quiere dar cuenta de la sociedad con ayuda del pensamiento, entonces, necesariamente tendrá que aceptar que aquella reflexión nunca podrá abstraerse del todo de lo social. Pero también tendrá que aceptar que &quot;una civilización incapaz de salirse de sus abstracciones corrientes está condenada a la esterilidad&quot; (<xref ref-type="bibr" rid="B40">Whitehead, 1949</xref>:77). Así, entre la necesidad de aceptar la inmanencia socio-histórica del pensamiento y la búsqueda de trascendencia de los regímenes conceptuales dominantes de una época, resulta inconducente y hasta peligroso disociar completamente lo social del pensamiento. Pues, en definitiva, si la sociedad misma produce un sinnúmero de abstracciones para sostener su unidad relativa, la comprensión y crítica de la sociedad resulta científicamente limitada y normativamente estéril sin una comprensión y crítica de los conceptos. Es por ello que la abstracción que produce y moviliza el sociólogo no puede ser sino una abstracción concreta. </p>
+		</sec>
+		<sec>
+			<title>La abstracción de la sociedad</title>
+			<p>Lo anterior nos lleva a reconocer más directamente una segunda dimensión implícita en el ejercicio de abstracción en la sociología: el carácter abstracto que constituye a la sociedad moderna <italic>qua</italic> sociedad. Aquí cabe distinguir que por abstracción de la sociedad no entendemos &quot;complejidad&quot; social. Una cosa es, como bien afirman los teóricos sistémicos como Luhmann, señalar el aumento y diferenciación de elementos existentes dentro de un sistema que hace que en su interior éstos ya no puedan relacionarse todos entre sí simultáneamente. Pero otra distinta es la abstracción de la sociedad. </p>
+			<p>Por abstracción societal entendemos el proceso mediante el cual las relaciones sociales establecen, transforman y/o desvanecen símbolos o conceptos con independencia de las características y propiedades de los elementos particulares que están insertos en las mismas. Por ello, algo más abstracto no es necesariamente algo más general, grande o complejo.</p>
+			<p>Esto quiere decir que, para poder mantenerse, las relaciones sociales requieren de la producción constante de un sinnúmero de formas de abstracción. Es decir, una serie de mecanismos que facilitan la configuración del espacio social al producir una <italic>distancia performativa</italic> entre formas de coordinación con fuerza reguladora y las experiencias de sujetos y colectivos concretos: reglas y normas, representaciones y símbolos, saberes y costumbres, etc. A este nivel, la abstracción consiste entonces en las dinámicas societales a través de las cuales determinadas formas de vida emergen, racionalizan y objetivan en prácticas, instituciones y cuerpos de conocimiento con independencia de los elementos particulares que están insertos en las mismas. </p>
+			<p>Resulta evidente entonces por qué las abstracciones que nutren la reflexión y análisis sociológico no son meros constructos a priori o lógicos del intelecto humano (en este caso del cientista o teórico social), sino que resultados de procesos sociales e históricos concretos que se materializan en objetos e instituciones, prácticas y relaciones cotidianas. Esto quiere decir que la vida social no es una realidad puramente empírica (en el sentido positivista más vulgar) aprehensible como mero hecho objetivo, sino que está conceptualmente mediada por las formas de auto-comprensión y auto-organización que la sociedad misma produce. Lo empírico es un terreno dinámico y en la medida que las relaciones y entidades que lo componen se transforman, también lo hacen nuestras propias concepciones sobre &quot;qué es lo empírico y de qué manera importa&quot; (<xref ref-type="bibr" rid="B8">Adkins y Lury, 2009</xref>:6).</p>
+			<p>De acuerdo a este planteamiento, la abstracción no es sólo un <italic>medio intelectual</italic> imprescindible para la reflexión sociológica sobre lo social -como argumentamos en la sección previa-, sino que al mismo tiempo constituye un <italic>objeto de investigación</italic> empírica por derecho propio. En tanto la vida social produce sus propias abstracciones, la formación, validez y transformación de éstas requiere ser explicada de modo inmanente: es decir, estudiando su producción, circulación y fuerza regulatoria sobre relaciones sociales concretas, así como las maneras en que las acciones y relaciones sociales adquieren existencia material a través de ciertas formaciones y regímenes conceptuales.</p>
+			<p>Una de las contribuciones más importantes de la crítica de Marx a la economía política consiste en haber elaborado una manera de teorizar y comprender lo social en la cual el estudio y crítica de los conceptos es un momento ineludible en el estudio y crítica de la sociedad. Esto significa que el análisis de la configuración <italic>concreta</italic> de las relaciones sociales en el intercambio capitalista de mercancías tiene que ir de la mano del examen de los conceptos a través de los cuales este tipo de sociedad se comprende a sí misma y materializa a través de ciertas formas objetivas. La necesidad de establecer una mediación entre ambos niveles, conceptual y empírico, viene dado por el hecho mismo de querer comprender una sociedad que &quot;transforma cada producto del trabajo en un jeroglífico social&quot; (<xref ref-type="bibr" rid="B30">Marx, 1976</xref>:167), en objetos suprasensibles que desafían la comprensión directa, pero habitan, circulan y dan forma durable a lo social. Ello es así porque el intercambio capitalista transforma la forma-mercancía en un <italic>principio abstracto de coordinación</italic> social que expande la conectividad (pone en relación y hace equivalentes entidades heterogéneas con independencia de sus particularidades), así como en una <italic>fuente de significación</italic> que delinea la gramática de los vínculos sociales (produce el lenguaje a través del cual los actores leen el mundo y su experiencia concreta). </p>
+			<p>De esta manera, si en la sociedad capitalista &quot;los individuos están gobernados por abstracciones&quot; (<xref ref-type="bibr" rid="B31">Marx, 1973</xref>:164), que aunque reales operan divorciadas de la experiencia concreta, el proceso de abstracción de la sociedad (su transformación en concepto) tiene lugar &quot;no tanto en el pensamiento científico&quot;, sino que en la propia manera en que las relaciones sociales se organizan históricamente: &quot;algo así como un 'concepto' está implícito en la sociedad en su forma objetiva&quot; (<xref ref-type="bibr" rid="B2">Adorno, 2002</xref>:32). El desafío sociológicamente relevante consiste entonces en examinar empíricamente cómo esas abstracciones se tornan válidas y prácticamente verdaderas en las relaciones sociales como principios de visión y división del mundo. Metodológicamente, para capturar las formas crecientemente abstractas de las relaciones sociales, la sociología no puede sacrificar el &quot;momento especulativo&quot; de la reflexión teórica, ni tampoco fijar el significado de los conceptos (<xref ref-type="bibr" rid="B17">Cordero, 2017</xref>:153). Debe seguir el movimiento a través del cual los conceptos alcanzan existencia empírica y la realidad social adquiere la apariencia conceptual de ser algo en sí misma.</p>
+			<p>En este punto, tanto los enfoques positivistas como los fenomenológicos revelan su fracaso para observar y comprender las dinámicas de abstracción de la sociedad. Los primeros, al defender cierto ascetismo conceptual que devalúa la reflexión teórica en favor de la descripción bruta de hechos empíricos dispersos, transforman a la sociología en una &quot;técnica de especialistas privados de conceptos en medio del concepto&quot; (<xref ref-type="bibr" rid="B3">Adorno, 2005</xref>:38). En tanto los segundos, al confiar demasiado en el poder interpretativo de la experiencia subjetiva como medio de aprehensión de lo social, se refugian en la &quot;autarquía&quot; de los conceptos y la ilusión de que éstos poseen una identidad con el mundo (Adorno, 2005:12). Para superar la unidimensionalidad de ambas posiciones, tal como sugiere Adorno, la sociología necesita emplear conceptos para &quot;nombrar aquello que secretamente cohesiona el engranaje social&quot; pero que no es aprehensible &quot;simplemente a través de hallazgos empíricos&quot; (<xref ref-type="bibr" rid="B1">Adorno, 2001</xref>:19-20). Asimismo, requiere examinar la dimensión no-conceptual, material y experiencial de la realidad socio-histórica que da forma, pero al mismo tiempo excede, la pretensión de identidad de los conceptos que los actores emplean para hacer sentido del mundo. </p>
+			<p>Lo que subyace a esta aproximación es la necesidad de enriquecer nuestra comprensión acerca de las relaciones entre lo conceptual y lo empírico. Si aceptamos el argumento de <xref ref-type="bibr" rid="B22">Foucault (2002</xref>) acerca de las dinámicas de abstracción de las sociedades modernas, los conceptos no pueden ser entendidos como &quot;monumentos discursivos&quot;: a saber, meros productos intelectuales de la imaginación subjetiva, unidades fijas y coherentes de significado o herramientas clasificatorias que ayudan a medir las regularidades sociales externamente. Debemos considerarlos como verdaderas <italic>constelaciones</italic> de elementos aparentemente dispersos empíricamente en la sociedad, <italic>cristalizaciones</italic> de la manera en que las relaciones sociales se encuentran históricamente organizadas y de las cuales la observación sociológica misma participa. No cabe duda, como ya hemos dicho, la formación de conceptos es una necesidad cognitiva de la teorización social, pero es una práctica que está lejos de ser un acto soberano del sujeto. Requerimos conceptos para hacer inteligible la siempre elusiva configuración de las relaciones sociales en el mundo moderno y visualizar las conexiones concretas entre procesos universales y experiencias particulares. Ahora, los conceptos con los que trabajamos tienen una historia y vida adquirida, una genealogía y trayectoria que trascienden la particularidad de nuestras observaciones. Pero al mismo tiempo nos incluye en una historia referencial de performatividad, lucha y resistencia semántica. </p>
+			<p>Esto quiere decir que la teorización social debe operar con el presupuesto de que los conceptos no están fijos, sino que son <italic>complejas abstracciones sociales</italic> sin las cuales lo social no solo se desvanece, sino que resulta una realidad imposible. En otras palabras, los conceptos son encarnaciones históricas y materiales de la actividad discursiva en la vida social, por lo que operan como verdaderos repositorios de sentido a los que recurrimos para interpretar las contingencias del presente y a través de los cuales la propia sociedad halla su cristalización como concepto abstracto. Es por ello que la sociología debe ser capaz de considerar los conceptos de la teoría en relación con y transformarlos en los &quot;conceptos de la cosa misma, en lo que ésta pretende ser&quot; (<xref ref-type="bibr" rid="B1">Adorno, 2001</xref>:20). Así, más que apelar al ejercicio de definición y clarificación terminológica, el trabajo sociológico consiste en penetrar la apariencia de autosuficiencia y transparencia de los conceptos que circulan en la vida social. Es decir, revelar que los conceptos logran su existencia bajo ciertas condiciones y que el proceso social de su emergencia &quot;habita y se esconde dentro de las cosas mismas&quot; (<xref ref-type="bibr" rid="B3">Adorno, 2005</xref>:52). </p>
+			<p>Si la sociedad no puede ser conocida ni comprendida con independencia de sus conceptos, ello se debe a que vivimos en un territorio &quot;conceptualmente estructurado&quot; de relaciones. Así, aunque los conceptos comúnmente se estabilizan en relaciones de poder, consolidan en instituciones y anudan semánticamente al punto de parecer cajas negras, &quot;formar conceptos es una forma de vida y no una manera de inmovilizar la vida; es una forma de vivir en una movilidad relativa y no una manera de inmovilizar la vida&quot; (<xref ref-type="bibr" rid="B21">Foucault, 2000</xref>:475). De acuerdo a esta formulación, un concepto es siempre una innovación social y una respuesta material a las inquietudes que emergen de la inevitable contingencia de la vida humana. En esa medida, los conceptos &quot;registran&quot; los trazos de experiencias (<xref ref-type="bibr" rid="B25">Koselleck, 2011</xref>:32) y, al hacerlo, dejan de ser abstracciones inanimadas que tienen lugar en el pensamiento y los textos. Al ser <italic>abstracciones vivas</italic> , los conceptos constituyen principios de visión y organización del mundo en que vivimos. En la medida que los conceptos articulan relaciones posibles entre una multiplicidad de elementos, consiguen poder descriptivo y fuerza regulatoria sobre las relaciones sociales concretas. Al hacerlo, &quot;participan&quot; en dar forma a la realidad social y dirección a las transformaciones políticas (<xref ref-type="bibr" rid="B16">Cordero, 2016</xref>:62). </p>
+			<p>Esta doble premisa sugiere que los conceptos son componentes del mundo de objetos que buscan describir, por cuanto los actores los emplean para interpretar y dar forma a la realidad social. En esta capacidad, los conceptos establecen límites a lo que se puede decir y proveen un horizonte de experiencias posibles (permite que una serie de cosas puedan ser enunciadas, conocidas, transformadas e incluso olvidadas), así como también son vehículos para la acción e instrumentos para conducir el curso de la historia (permiten proyectar expectativas y anticipar resultados). </p>
+			<p>En otros términos, los conceptos posibilitan la existencia de lo social como un espacio conceptualmente estructurado de relaciones entre una heterogeneidad de objetos, al tiempo que la sociedad misma produce sus propias formas de abstracción dispersas en instituciones, leyes, formas de conocimiento, prácticas, etc. </p>
+			<p>Esta manera de comprender las formaciones conceptuales invita a reconocer el hecho de que un concepto -y el trabajo de conceptualización a través del cual se despliega en el mundo- es casi por definición un &quot;espacio&quot; abierto de disputas entre lo actual y lo posible, y por lo tanto es un sitio donde el potencial para la crítica y la desobediencia, así como de dominación y exclusión, están inscritos desde el inicio. Así, un concepto es menos un dominio estable de verdades sólidas que una serie de &quot;interrupciones&quot;, &quot;accidentes&quot; y &quot;brechas&quot;, y es menos una unidad de definiciones coherentes que una &quot;población dispersa&quot; de ideas, imágenes, saberes y presuposiciones acerca del mundo reunidas por el trabajo del propio concepto (<xref ref-type="bibr" rid="B22">Foucault, 2002</xref>:24). </p>
+			<p>El trabajo sociológico consiste en deshacernos de la fachada de auto-evidencia que mantienen los conceptos para indagar su momento de aparición y constitución, así como seguir su operación concreta para mostrar cómo su &quot;movilidad relativa&quot; inevitablemente crea &quot;la tranquilizadora forma de lo idéntico&quot; en torno a la que nuestras formas de vida se mueven (<xref ref-type="bibr" rid="B22">Foucault, 2002</xref>:13). La pretensión subyacente, sin embargo, no es que los conceptos vayan a revelar una verdad acerca del mundo social, más bien nos permiten observar algo acerca de ellos y sus relaciones con el mundo social. Una vez que los conceptos comienzan a perder la fuerza del nudo que ata lenguaje y experiencia, somos eventualmente capaces de ver el terreno fracturado en el cual ellos descansan.</p>
+		</sec>
+		<sec>
+			<title>Seguir a los conceptos para ir más allá de los conceptos</title>
+			<p>A lo largo del presente texto nos aproximamos al fenómeno de la abstracción, entendiendo que lo conceptual en ciencias sociales tiene sentido solamente cuando es expresión y expresa las complicaciones concretas que hacen que la vida en sociedad sea un espacio abierto y no una identidad clausurada. Si una de las tendencias de la vida social moderna es a reproducirse a través de formas abstractas (ni puramente conceptuales, ni puramente empíricas), la sociología no puede limitar su trabajo al dominio de preguntas empíricamente justificables ni descartar a priori el dominio de la especulación teórica. Si el pensamiento de la sociedad está vivo, es precisamente porque la <italic>abstracción</italic> es lo que alimenta las posibilidades y moviliza el trabajo de la comprensión crítica de lo social. </p>
+			<p>Trabajar con abstracciones no significa tener que pensar en términos más abstrusos. Significa mantenerse firme en el movimiento contradictorio entre lo conceptual y lo empírico, entre lo que no es pensamiento y lo que se transforma en material para el mismo, entre la comprensión y lo incomprensible de lo social. Esto se traduce en poner mayor importancia en la observación empírica de los regímenes conceptuales que dan forma a las instituciones sociales y a los conceptos que los actores movilizan en sus luchas sociales y políticas. El desafío metodológico de una sociología de la abstracción no está en desarrollar análisis lingüísticos o filológicos, sino en destilar la fuerza material y el poder normativo que los conceptos ejercen en la vida social. El trabajo consiste en desanudar los conceptos rígidos que parecen sostener las relaciones sociales. El punto no es declarar los conceptos falsos o inadecuados, sino que emplear conceptos para alcanzar lo que está más allá de los conceptos. </p>
+			<p>Si hay algo que podemos aprender de la mejor tradición sociológica es que los conceptos se mueven, y lo hacen a un ritmo y forma que escapa al arsenal de herramientas científicas y categorías pre-estructuradas que disponemos. Los conceptos se mueven, y lo hacen fijando posiciones, dejando huellas y estableciendo horizontes. Los conceptos se mueven, y lo hacen materializando teorías, prácticas, normas y arreglos institucionales. Los conceptos se mueven, y lo hacen disimulando estar quietos. </p>
+			<p>Muchas veces los sociólogos nos comportamos como especialistas sin conceptos, que descansan en la certidumbre de definiciones oficialmente sancionadas para reducir la incertidumbre de lo social; o como sensualistas sin corazón, que aceptan el horizonte que establece los márgenes de lo aceptado y lo posible en nuestra sociedad, para liberarse de la carga de utilizar los conceptos para ir más allá de los conceptos. La tarea de una sociología de la abstracción es precisamente trabajar para evitar aquello. </p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Adorno, T.W. 2001. Epistemología y ciencias sociales . Madrid: Cátedra.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Adorno</surname>
+							<given-names>T.W</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>Epistemología y ciencias sociales</source> 
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Cátedra</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Adorno, T.W. 2002. Introduction to sociology . Cambridge: Polity.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Adorno</surname>
+							<given-names>T.W</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>Introduction to sociology</source> 
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Polity</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Adorno, T.W. 2005. Negative dialectics . Abingdon, Oxon: Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Adorno</surname>
+							<given-names>T.W</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<source>Negative dialectics</source> 
+					<publisher-loc>Abingdon, Oxon</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Alexander, J. 2008. Las teorías sociológicas desde la segunda guerra mundial Barcelona: Gedisa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alexander</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Las teorías sociológicas desde la segunda guerra mundial</source> 
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Gedisa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Alvaro, D. 2013. El problema de la comunidad: Marx, Tönnies, Weber Buenos Aires: Prometeo. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alvaro</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>El problema de la comunidad: Marx, Tönnies, Weber</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Prometeo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Arendt, H. 1978. The life of the mind San Diego: Harcourt Inc.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arendt</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>1978</year>
+					<source>The life of the mind</source> 
+					<publisher-loc>San Diego</publisher-loc>
+					<publisher-name>Harcourt Inc</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation> Arendt, H. 1989. Lectures on Kant's political philosophy . Chicago: Chicago University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arendt</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>1989</year>
+					<source>Lectures on Kant's political philosophy</source> 
+					<publisher-loc>Chicago</publisher-loc>
+					<publisher-name>Chicago University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Adkins, L. y Lury, C. 2009. What is the empirical? European Journal of Social Theory 12(5): 5-20. doi: 10.1177/1368431008099641</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Adkins</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Lury</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>What is the empirical?</article-title> 
+					<source>European Journal of Social Theory</source> 
+					<volume>12</volume>
+					<issue>5</issue>
+					<fpage>5</fpage>
+					<lpage>20</lpage>
+					<pub-id pub-id-type="doi">10.1177/1368431008099641</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Baert, P. 2012. Positioning theory and intellectual interventions. Journal for the Theory of Social Behaviour 42(3): 304-325. doi: 10.1111/j.1468-5914.2012.00492.x </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Baert</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Positioning theory and intellectual interventions</article-title>
+					<source>Journal for the Theory of Social Behaviour</source> 
+					<volume>42</volume>
+					<issue>3</issue>
+					<fpage>304</fpage>
+					<lpage>325</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1468-5914.2012.00492.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Boltanski, L. 2000. El amor y la justicia como competencias: tres ensayos de sociología de la acción . Buenos Aires: Amorrortu. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boltanski</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>El amor y la justicia como competencias: tres ensayos de sociología de la acción</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Amorrortu</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Camic, C. y Gross, N. 2004. The new sociology of ideas, pp. 236-249. En: J.R. Blau. The Blackwell companion to sociology . Oxford: Blackwell Publishing.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Camic</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Gross</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<chapter-title>The new sociology of ideas</chapter-title>
+					<fpage>236</fpage>
+					<lpage>249</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Blau</surname>
+							<given-names>J.R</given-names>
+						</name>
+					</person-group>
+					<source>The Blackwell companion to sociology</source> 
+					<publisher-loc>Oxford</publisher-loc>
+					<publisher-name>Blackwell Publishing</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Castro-Gómez, S. 2011. Crítica de la razón latinoamericana . Bogotá: Pontificia Universidad Javeriana. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castro-Gómez</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Crítica de la razón latinoamericana</source> 
+					<publisher-loc>Bogotá</publisher-loc>
+					<publisher-name>Pontificia Universidad Javeriana</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Chernilo, D. 2014. The idea of philosophical sociology. British Journal of Sociology 65(2): 338-357. doi: 10.1111/1468-4446.12077</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chernilo</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>The idea of philosophical sociology</article-title>
+					<source>British Journal of Sociology</source> 
+					<volume>65</volume>
+					<issue>2</issue>
+					<fpage>338</fpage>
+					<lpage>357</lpage>
+					<pub-id pub-id-type="doi">10.1111/1468-4446.12077</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation> Chernilo, D. 2017. Debating humanity: towards a philosophical sociology . Cambridge: Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chernilo</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>Debating humanity: towards a philosophical sociology</source> 
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Collins, R. 1998. The sociology of philosophies. A global theory of intellectual change . Cambridge: Harvard University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Collins</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>The sociology of philosophies. A global theory of intellectual change</source> 
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Harvard University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Cordero, R. 2016. The temporalization of critique and the open riddle of history: on Reinhart Koselleck's contributions to critical theory. Thesis Eleven 137(1): 55-71. doi: 10.1177/0725513616674400</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cordero</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>The temporalization of critique and the open riddle of history: on Reinhart Koselleck's contributions to critical theory</article-title>
+					<source>Thesis Eleven</source> 
+					<volume>137</volume>
+					<issue>1</issue>
+					<fpage>55</fpage>
+					<lpage>71</lpage>
+					<pub-id pub-id-type="doi">10.1177/0725513616674400</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Cordero, R. 2017. Crisis and critique: on the foundations of social life . London: Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cordero</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>Crisis and critique: on the foundations of social life</source> 
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>De Marinis, P. 2012. Comunidad: estudios de teoría sociológica . Buenos Aires: Prometeo . </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Marinis</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Comunidad: estudios de teoría sociológica</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Prometeo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Durkheim, E. 1991. Las formas elementales de la vida religiosa . México: Colofón.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Durkheim</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<source>Las formas elementales de la vida religiosa</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Colofón</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Escobar, A. 1998. La invención del tercer mundo: construcción y deconstrucción del desarrollo . Bogotá: Norma.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Escobar</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>La invención del tercer mundo: construcción y deconstrucción del desarrollo</source> 
+					<publisher-loc>Bogotá</publisher-loc>
+					<publisher-name>Norma</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Foucault, M. 2000. Life: experience and science, pp. 465-478. En: J. Faubion. Essential works 1954-1984 . vol. 2. London: Penguin. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Foucault</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<chapter-title>Life: experience and science</chapter-title>
+					<fpage>465</fpage>
+					<lpage>478</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Faubion</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<source>Essential works 1954-1984</source> 
+					<volume>2</volume>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Penguin</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Foucault, M. 2000. 2002. The order of things: an archaeology of the human sciences . London: Routledge .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Foucault</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>The order of things: an archaeology of the human sciences</source> 
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Fuller, S. 2006. The intellectual . Cambridge: Icon Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuller</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>The intellectual</source> 
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Icon Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Heidegger, M. 2007. Filosofía, ciencia y técnica . Santiago: Editorial Universitaria.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Heidegger</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Filosofía, ciencia y técnica</source> 
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>Editorial Universitaria</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Koselleck, R. 2011. Introduction and prefaces to the Geschichtliche Grundbegriffe. Contributions to the History of Concepts 6(1): 1-37.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Koselleck</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Introduction and prefaces to the Geschichtliche Grundbegriffe</article-title>
+					<source>Contributions to the History of Concepts</source> 
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>37</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Lamont, M. 2010. How professors think: inside the curious world of academic judgment . Cambridge, Mass.: Harvard University Press. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lamont</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>How professors think: inside the curious world of academic judgment</source> 
+					<publisher-loc>Cambridge, Mass.</publisher-loc>
+					<publisher-name>Harvard University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Latour, B. 2001. La esperanza de pandora. Ensayos sobre la realidad de los estudios de la ciencia . Barcelona: Gedisa .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Latour</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>La esperanza de pandora. Ensayos sobre la realidad de los estudios de la ciencia</source> 
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Gedisa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Law, J. 2008. Actor network-theory and material semiotics, pp. 141-158. En: B. Turner. The new Blackwell companion to social theory Chicester: Willey-Blackwell.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Law</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<chapter-title>Actor network-theory and material semiotics</chapter-title>
+					<fpage>141</fpage>
+					<lpage>158</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Turner</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<source>The new Blackwell companion to social theory</source> 
+					<publisher-loc>Chicester</publisher-loc>
+					<publisher-name>Willey-Blackwell</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Lury, C. 2012. 'Bringing the world into the world': the material semiotics of contemporary culture. Distinktion. Scandinavian Journal of Social Theory 13(3): 247-260. doi: 10.1080/1600910X.2012.728144 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lury</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>'Bringing the world into the world': the material semiotics of contemporary culture</article-title>
+					<source>Distinktion. Scandinavian Journal of Social Theory</source> 
+					<volume>13</volume>
+					<issue>3</issue>
+					<fpage>247</fpage>
+					<lpage>260</lpage>
+					<pub-id pub-id-type="doi">10.1080/1600910X.2012.728144</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Marx, K. 1976. Capital: a critique of political economy . London: Penguin .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1976</year>
+					<source>Capital: a critique of political economy</source> 
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Penguin</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Marx, K. 1973. Grundrisse: foundations of the critique of political economy . London: Penguin .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marx</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1973</year>
+					<source>Grundrisse: foundations of the critique of political economy</source> 
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Penguin</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Mascareño, A. 2010. Diferenciación y contingencia en América Latina . Santiago: Editorial Universidad Alberto Hurtado.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mascareño</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Diferenciación y contingencia en América Latina</source> 
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>Editorial Universidad Alberto Hurtado</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Parsons, T. 1949. The structure of social action. A study in social theory with special reference to a group of recent European writers Illinois: The Free Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parsons</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>1949</year>
+					<source>The structure of social action. A study in social theory with special reference to a group of recent European writers</source> 
+					<publisher-loc>Illinois</publisher-loc>
+					<publisher-name>The Free Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Ramos, C. 2012. El ensamblaje de ciencia social y sociedad. Conocimiento científico, gobierno de las conductas y producción de lo social . Santiago: Editorial Universidad Alberto Hurtado .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramos</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>El ensamblaje de ciencia social y sociedad. Conocimiento científico, gobierno de las conductas y producción de lo social</source> 
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>Editorial Universidad Alberto Hurtado</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Schütz, A. 2003. El problema de la realidad social . Buenos Aires: Amorrortu .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schütz</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>El problema de la realidad social</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Amorrortu</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Simmel, G. 1986. Sociología 1: estudios sobre las formas de socialización . Madrid: Alianza.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Simmel</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>1986</year>
+					<source>Sociología 1: estudios sobre las formas de socialización</source> 
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Alianza</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Simmel, G. 2008. De la esencia de la cultura. Buenos Aires: Prometeo .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Simmel</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>De la esencia de la cultura</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Prometeo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Toscano, A. 2008. The culture of abstraction. Theory, Culture &amp; Society 25(4): 57-75. doi: 10.1177/0263276408091983 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Toscano</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>The culture of abstraction</article-title>
+					<source>Theory, Culture &amp; Society</source> 
+					<volume>25</volume>
+					<issue>4</issue>
+					<fpage>57</fpage>
+					<lpage>75</lpage>
+					<pub-id pub-id-type="doi">10.1177/0263276408091983</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Weber, M. 1949. The methodology of the social sciences Illinois: The Free Press .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Weber</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1949</year>
+					<source>The methodology of the social sciences</source> 
+					<publisher-loc>Illinois</publisher-loc>
+					<publisher-name>The Free Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Whitehead, A.N. 1949. La ciencia y el mundo moderno Buenos Aires: Editorial Losada. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Whitehead</surname>
+							<given-names>A.N</given-names>
+						</name>
+					</person-group>
+					<year>1949</year>
+					<source>La ciencia y el mundo moderno</source> 
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Editorial Losada</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Zabludosvky, G. 2007. Sociología y cambio conceptual . México: Siglo XXI</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zabludosvky</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Sociología y cambio conceptual</source> 
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Siglo XXI</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="financial-disclosure" id="fn1">
+				<p>Este artículo es parte del Núcleo Milenio &quot;Modelos de Crisis&quot;, proyecto NS130017, ICM-Iniciativa Científica Milenio</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

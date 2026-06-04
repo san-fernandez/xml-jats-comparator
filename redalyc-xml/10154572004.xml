@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.6" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+			<journal-title-group>
+				<journal-title>Cinta de moebio</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">0717-554X</issn>
+			<publisher>
+				<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales.</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.4067/S0717-554X2017000200157</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Teoría de la socialidad como interacción: hacia un análisis social naturalista, universal e interaccional</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>A theory of sociality as interaction: towards a naturalistic, universal and interactional social analysis</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jiménez-Albornoz</surname>
+						<given-names>Juan</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label> 1 </label>
+					<institution content-type="original">Programa Naciones Unidas para el Desarrollo (Santiago, Chile) ORCID: 0000-0003-4403-1178. (juan.jimenez@undp.org)</institution>
+					<institution content-type="orgname">Programa Naciones Unidas para el Desarrollo</institution>
+					<addr-line>
+						<named-content content-type="city">Santiago</named-content>
+					</addr-line>
+					<country country="CL">Chile</country>
+					<email>juan.jimenez@undp.org</email>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="epub">
+				<season>Apr-Sep</season>
+				<year>2017</year>
+			</pub-date>
+			<issue>59</issue>
+			<fpage>157</fpage>
+			<lpage>171</lpage>
+			<history>
+				<date date-type="received">
+					<day>12</day>
+					<month>01</month>
+					<year>2017</year>
+				</date>
+				<date date-type="accepted">
+					<day>24</day>
+					<month>03</month>
+					<year>2017</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen:</title>
+				<p>Este artículo defiende y desarrolla tres afirmaciones básicas que estimamos son necesarias para el despliegue de la ciencia social. En primer lugar, que no existe oposición entre lo social y lo natural; y que la sociología estudia un tipo particular de socialidad (aquella asociada a la cultura y la conciencia) que es parte integrante de un análisis más global de lo social. En segundo lugar, que una teoría universal de procesos es posible y que ella no se contrapone, sino que permite explicar, las características que se suelen aducir contra la posibilidad misma de una teoría general. En tercer lugar, que el espacio a partir del cual se despliega esa teoría, y que permite disolver algunas antinomias tradicionales del pensamiento social, es la interacción.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>This paper develops three basic statements we think are needed for the growth of social science. In the first place, that there is no opposition between society and nature, and that the social sciences study a kind of sociality (entailed on culture and consciousness) that is part of a more general analysis of the social world. In second place, that a universal theory of social processes is possible and it is not in opposition, but actually explains traits of social life usually thought as incompatible with the possibility of a general theory. In third place, that the space in which to build that theory, and one that allows to dissolve some traditional antinomies of social thought, is interaction.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>social analysis</kwd>
+				<kwd>naturalism</kwd>
+				<kwd>general theory</kwd>
+				<kwd>interaction</kwd>
+				<kwd>sociality.</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><bold>Palabras clave</bold>:</title>
+				<kwd>análisis social</kwd>
+				<kwd>naturalismo</kwd>
+				<kwd>teoría general</kwd>
+				<kwd>interacción</kwd>
+				<kwd>socialidad.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="25"/>
+				<page-count count="15"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Las ciencias sociales tienen entre sus características el de discutir permanentemente sus propias bases, y -por cierto- no alcanzar acuerdo en relación a ellas. Siendo debates ineludibles, sigue siendo atendible intentar responder esas preguntas básicas, dado que las diversas respuestas a ellas son relevantes para guiar la investigación.</p>
+			<p>En este artículo defenderemos una posición específica: que la mejor forma de producir conocimiento en las ciencias sociales es a través de una postura explícitamente naturalista (que la socialidad que analizamos es parte de la vida natural y no algo externo a ella); que propugne una teoría universal (que son tanto posibles como valiosas afirmaciones teóricas universales para dicha socialidad); y que el lugar donde se aplica ese modelo es en un análisis de la interacción. Un segundo argumento es que una parte importante de las críticas y resquemores, las que son bastante comunes en nuestras disciplinas ante este tipo de posición, se deben a errores: por ejemplo, que desarrollar una visión universalizante implica ineludiblemente un pretendido olvido del carácter histórico de la socialidad.</p>
+			<p>Las disputas básicas de las ciencias sociales no se agotan en las antedichas. No se discute en este artículo sobre neutralidad o compromiso, que es otro de los debates básicos en ciencias sociales. Sin embargo, este texto se basa en la premisa que los temas discutidos no solo son relevantes, sino que además están en relación entre sí, y luego tiene sentido tratarlos en conjunto. Una perspectiva naturalizante y universal muestra mayor potencia cuando la vida social es analizada desde el prisma de la interacción. Además, que estas tres posiciones en conjunto se refuerzan entre sí: que postular una visión naturalizante ayuda a comprender mejor por qué una teoría universal no tiene los problemas que usualmente se le plantean.</p>
+			<p>En las siguientes tres secciones de este texto nos dedicaremos a defender cada una de las afirmaciones básicas que postulamos. En la última sección, conclusiva, se defenderán los argumentos en torno a cómo se articulan dichas posiciones.</p>
+		</sec>
+		<sec>
+			<title>¿Qué analiza la ciencia social?</title>
+			<p>La división entre ciencias naturales y ciencias sociales es equivocada. Una división que, como lo muestra la siguiente cita en donde aparece como oposición, es muchas veces central en la autocomprensión de las ciencias sociales: “Les sciences humaines sont humanistes ou elles ne sont pas. Si on ne peut plus distinguer la nature et la culture, les sciences humaines entrent en crise. Car si tout est social ou culturel, si rien n’est plus naturel, les sciences humaines perdent leur sens en même temps qu’elles étendent leur empire” ( :14). </p>
+			<p>El caso es que lo social no es un tipo de objeto o un nivel de análisis, sino una dimensión que es aplicable a cualquier objeto o nivel. Las interacciones entre entidades rebasan lo que las ciencias llamadas sociales analizan. En lo que concierne a la conectividad como tal, hay múltiples propiedades que aplican a casi cualquier realidad. En los fenómenos de la vida, encontramos una serie de procesos sociales de gran importancia, como la competencia o la cooperación. En cada aspecto de la realidad hay una dimensión social, relacional, en juego. En este sentido, claramente las ciencias sociales no son, ni en la práctica han pretendido serlo, las ciencias generales de lo social.</p>
+			<p>Las posibilidades inscritas en esta constatación son relevantes. Pensemos en el caso ya clásico del uso de Maynard-Smith de herramientas originadas en teoría de juegos en biología, y la posterior recuperación de esas ideas desarrolladas en biología (como las estrategias evolutivamente estables) en ciencias sociales. Además, comentando publicaciones recientes se nos dice que “the review calls upon the animal social networks community to make more use of sophisticated statistical tools developed for analysis of human social networks” (Krause et al <xref ref-type="bibr" rid="B14">2015</xref>:214). </p>
+			<p>Si las ciencias sociales entonces son ciencias particulares de lo social, ¿cuál es la realidad cuya dimensión social estudian? Una posibilidad, que representa la práctica real de esas disciplinas, es la de pensarlas como el estudio social de una especie biológica en particular: el <italic>Homo sapiens</italic>. Ello no resulta adecuado porque dificulta observar y analizar las continuidades entre la vida social humana y otras socialidades. La elección de nuestra especie como foco del análisis social se basa muchas veces en una visión de un corte profundo entre lo humano y lo natural, y al estudiar solo las sociedades humanas dichos supuestos quedan sin mayor examen.</p>
+			<p>Así se puede observar que casi todas las características que se declaran como fundantes de dicha excepción (la cultura, el lenguaje, la conciencia, la moral, la tecnología, trabajo u otras) aparecen, aunque sea en forma limitada, en otras especies. Luego, si lo que interesa es la socialidad definida por esa característica, entonces resulta necesario incorporar también la vida social no-humana en la que dichas características aparecen. No puede reducirse lo que estudian estas ciencias a una realidad solo humana; y el término de ciencias sociales no puede ser equivalente al de ciencias humanas.</p>
+			<p>No obstante, la preocupación por la socialidad humana tiene sentido, no es un mero error; puesto que en ella aparecen con mayor claridad las características de una socialidad que amerita un estudio especial -aunque esa socialidad no sea exclusiva de los seres humanos. Ahora bien, este carácter diferenciado solo puede elucidarse tras un análisis comparativo en el cual la socialidad humana es puesta en iguales términos que otras. Se puede plantear, por ejemplo, que solo en las agrupaciones humanas parece resultar posible al mismo tiempo una alta división del trabajo (como en las especies eusociales) y que cada individuo es una unidad para la reproducción (siendo que en especies eusociales esa unidad es la colonia). Lo que permite incluso individualizar esa socialidad es perfectamente compatible con ubicarla como una de muchas socialidades.</p>
+			<p>De las diversas características que se han usado para fundar la separación de lo humano, se puede observar en esa socialidad un proceso de reflexivización: el lenguaje no es solo un sistema de comunicación más complejo que otros, sino además un sistema capaz de referirse a sí mismo, y que permite usar el propio lenguaje para cambiar el lenguaje (se definen nuevas palabras usando palabras); en las tecnologías podemos observar un paso desde el uso a la creación de herramientas, y luego a la creación de herramientas a partir de herramientas. Esta reflexivización genera entonces fenómenos específicos de socialidad: interacciones análogas a la guerra se dan entre las hormigas, pero no se dan análogos a la negociación de un tratado de paz, o de intercambio de prisioneros. Interacciones de cooperación y de competencia se observan en diversos ámbitos, pero para estudiar esa combinación de cooperación y competencia que es el intercambio mercantil se requiere un análisis particular. Esta reflexivización complejiza la vida social y aumenta la variabilidad, velocidad y capacidad de esta socialidad.</p>
+			<p>Pero, ¿no se podrá decir que esta reflexivización es exclusiva de la socialidad humana? ¿Qué ella constituye el rubicón entre la ’naturaleza’ y la ’cultura’? Y luego con ello re-encontrar la separación. Cabe recordar aquí que la reflexividad es en sí algo compuesto; así el cambio desde un sistema de comunicación de señales al lenguaje reflexivo tiene múltiples elementos a través de los cuales que se va desarrollando esa reflexividad (la capacidad de negar, la capacidad de referencia recursiva, la capacidad de crear nuevas palabras, la capacidad de referirse a cosas no existentes etc.). Lo que hemos dicho es válido más en general para otras características que se presumen distintivas: se ha mostrado que si uno identifica todos los elementos que forman el sistema humano de parentesco, es posible entender su emergencia sin necesidad de crear un salto entre lo natural y lo social como, por ejemplo, el tabú del incesto en Leví-Strauss: “They indicate [los datos primatológicos] that the exogamy configuration is eminently reducible and that it is not a self-explanatory system. They show that most of its components have their own taxonomic distributions and evolutionary theories” (:126). Esta argumentación se puede aplicar en general a las dimensiones usadas para separar. Imponer un punto en ese proceso como una escisión de la realidad nos dificulta su análisis.</p>
+			<p>Volviendo a la cuestión de la reflexivización, ella dice relación con una radicalización de la producción de variaciones en los procesos. En el mundo de los procesos físicos, el conjunto de estados posibles está definido, aun cuando no podamos quizás determinarlos todos. En el mundo de la vida el propio proceso produce nuevos estados y alternativas (fotosíntesis, movilidad etc.). Esta posibilidad de generar nuevos estados se radicaliza en la socialidad de la cual estamos hablando. Así el lenguaje permite más fácilmente modificar su propio código que la situación en el código genético. Por cierto, el hecho que esas capacidades sean intrínsecas a esos fenómenos no implica que ellos operen en todas las ocasiones; aunque la capacidad siempre esté presente, no se crean nuevas variaciones en cada interacción. E insistamos que esta es una socialidad que, si bien tiene como caso más desarrollado los seres humanos, no es exclusiva de ellos: no es tan solo que se puede hablar de cultura en especies de cetáceos, sino que se ha observado innovación cultural individual: “these researchers were able to track the transmission of this novel behavior from its apparent innovator, a single whale in 1980” ( :146). </p>
+			<p>Podemos nombrar lo específico de esta socialidad bajo palabras como cultura y conciencia. Esa sería la realidad respecto a la cual su dimensión social requiere ese estudio particular que denominamos ciencias sociales. Al mismo tiempo, emerge aquí un tema que es central para entenderla: la socialidad es una dimensión co-constitutiva de este tipo de realidad. Así, la realidad física tiene dimensiones de interacción, pero es posible realizar diversos análisis de ella sin darle mayor relevancia a la interacción. En la realidad biológica la dimensión relacional aumenta de relevancia; pero es al nivel de la cultura y la conciencia que la socialidad ya es constitutiva de dichas realidades: la cultura requiere sociedad, “es la existencia de una organización social la que hace posible (aunque no necesario) el desarrollo de una cultura” (Schaeffer <xref ref-type="bibr" rid="B19">2009</xref>:209) y la conciencia se desarrolla socialmente (pensemos en la relación de ella con el hecho social del lenguaje). Esos elementos que establecen un tipo particular de socialidad son posibles, a su vez, por el desarrollo de esa socialidad. Es por ello, entonces, que tiene sentido una ciencia específica de esa socialidad: porque la socialidad de la cultura y conciencia tiene características particulares; y es además una socialidad que es co-constitutiva de la propia capacidad para la cultura y la conciencia.</p>
+			<p>Al mismo tiempo, en las interacciones que cubren estas ciencias no solo participan agentes que tienen esas características: el campo de interacción de esos agentes incluye a otros agentes, pero también a múltiples otros elementos, los que no por ser ’objetos’ dejan de ser elementos que actúan. Este reconocimiento muchas veces se lo asocia a perspectivas recientes como la teoría del actor-red; pero en su versión básica ya estaba en autores olvidados de nuestra propia tradición. Así, por ejemplo, tenemos una observación realizada en América Latina a mediados del siglo XX sobre “lo poco que comprendería la vida social del Egipto, el sociólogo que se empeñara en desconocer las crecidas del Nilo” (De la Cuadra <xref ref-type="bibr" rid="B8">1957</xref>:29). Si bien el análisis de la teoría de actor-red se basa en la necesidad de incorporar como parte de la red actantes que no son humanos, es necesario recordar que el tipo de análisis de esa teoría solo tiene sentido si actantes con características de cultura y conciencia son parte. Para analizar “la sociedad de las estrellas” (Latour <xref ref-type="bibr" rid="B16">2008</xref>:31) no se requiere el análisis de la teoría del actor-red. Más allá de lo anterior, resulta crucial no olvidar que la relación entre los actores no se comprende si no se entiende que los actores tienen relaciones con el mundo y no solo entre ellos.</p>
+			<p>En suma, para poder entender este tipo de socialidad hay que reconocer que no hay quiebre entre los seres humanos y la naturaleza: “Cuando, como lo hace la Tesis [de la excepción humana], se opone el hombre biológico al hombre cultural, el problema de la génesis de este último es a la vez crucial e insoluble” (Schaeffer <xref ref-type="bibr" rid="B19">2009</xref>:181). Los seres humanos son representantes de esa socialidad, pero esta socialidad debe entenderse como inserta en el resto de la realidad.</p>
+			<p>Es necesario insistir que los seres que son parte de esta socialidad no han dejado, al adquirirla, de ser seres biológicos y físicos. No solo porque es su naturaleza biológica la que les ha permitido adquirir esas herramientas, ni tampoco solo porque comparten las características comunes de todo lo vivo, sino porque sus rasgos biológicos específicos afectan la forma concreta de su socialidad. Las dinámicas sociales particulares de los seres humanos no solo reflejan lo que sería intrínseco a una socialidad de la cultura y conciencia, sino también la naturaleza biológica concreta de su especie. Las dinámicas de género serían radicalmente distintas si los seres humanos se reprodujeran como las plantas en flor; y serían muy diferentes los procesos de trabajo si los seres humanos tuvieran el metabolismo de un lagarto. No tiene sentido separar lo natural de lo social o cultural en una especie que es naturalmente social y cultural. Y dada la relevancia que ha adquirido la especie en los ecosistemas mundiales para la evolución de otras especies, la presión evolutiva de la cultura no se limita a los seres humanos. La transmisión de la práctica de tener gatos ha resultado crucial para la expansión de esa especie, y ha tenido como efecto la extinción de otras.</p>
+			<p>Contra perspectivas de las ciencias sociales que rechazan toda relación entre biología y cultura, es necesario señalar las bases biológicas de la cultura; y contra perspectivas que enfatizan la dotación biológica separada de la cultura, es necesario indicar que la cultura y la conciencia representan un fuerte esfuerzo biológico que ha sido producto de presiones evolutivas importantes. Si la cultura no fuera relevante para el comportamiento humano, ¿cómo explicar el gasto energético que los seres humanos hacen en un sistema nervioso que tiene como una de sus diferencias específicas permitir la cultura, la conciencia y el lenguaje? La cultura y la naturaleza, para los seres que participan de esta socialidad, no son dimensiones que puedan pensarse en oposición: en relación al neolítico se nos dice que “éliminer les systèmes biologiques du champ de recherche en sciences sociales revient à s’interdire de comprendre l’évolution sociale dans la longue-durée” (<xref ref-type="bibr" rid="B6">Chorin y Holl 2013</xref>:164).</p>
+			<p>Esta socialidad es producto de un proceso que, como ya vimos no es exclusivo y es anterior al nacimiento de la especie humana. Es también un proceso que está en desarrollo, que no tiene un estado final determinado. Si se piensa hacia el pasado de nuestra especie, la creación de sistemas de comunicación como la escritura o el desarrollo de la agricultura con su cambio de nicho ecológico son parte del proceso de generación de la socialidad actual; y más en general, la capacidad para la transmisión cultural es previa al Homo sapiens o incluso a la línea de los homínidos. Si se piensa en procesos emergentes, se puede recordar la aparición de algoritmos automáticos que participan y modifican procesos sociales, siendo el caso más claro las Bolsas de Valores, donde puede suceder que “algorithmic trading programs attempting to sell at lower and lower prices in order to minimize short-term losses triggered a negative feedback” ( :3) y esto genera una caída del sistema. También se puede mencionar que el hecho mismo de la posibilidad de ingeniería genética que permita modificar la dotación de la especie (y de otras) es también una muestra de este proceso -más allá de las decisiones que se tomen al respecto. La posibilidad técnica de la clonación, prohibida jurídicamente, es un caso de una decisión social sobre la evolución de dicha socialidad: ¿ella controlará su propia reproducción? </p>
+			<p>Es una socialidad que no es algo dado, sino que se produce a sí misma y cuya producción está en marcha. Así, Castoriadis nos indica que en el pensamiento griego antiguo la “separación entre los humanos y la naturaleza -los animales, por ejemplo-, que no es un dato natural, sino el producto, el resultado de los actos humanos que establecen esta separación, que la constituyen” ( :308). La cita usa el lenguaje de la separación, pero ya hemos dicho que reconocer el carácter distintivo de esta socialidad no requiere ponerlo fuera de la naturaleza.</p>
+			<p>La ciencia social, entonces, analiza una esfera específica para la cual es pertinente un estudio particular, que no está separada del resto de la realidad. En ese sentido, se puede compartir afirmaciones como la siguiente: “Thus I shall be defending an account whereby social reality is seen to be distinct from, and yet dependent upon, non-social material” (Lawson <xref ref-type="bibr" rid="B17">2012</xref>:347). Los seres humanos en particular, y en general el ámbito social analizado, no son un ’imperio dentro de otro imperio’ (como ya criticaba Spinoza), sino que parte integral de la Naturaleza; y lo que ellos producen y crean es parte de la producción y de la creación del propio Universo. Como dice Spinoza en su <italic>Ética demostrada según el orden geométrico</italic>, la naturaleza es siempre la misma, y una y la misma en todas partes es su virtud y su potencia de actuar. En vez de oposición entre ciencias naturales y ciencias sociales o culturales, habría que pensar a estas últimas también como ciencias de la naturaleza: de la naturaleza en un ámbito específico, de la socialidad de seres con conciencia y capacidad simbólica.</p>
+		</sec>
+		<sec>
+			<title>La teoría en el análisis social</title>
+			<p>Teoría se dice de múltiples formas en las ciencias sociales. De forma mínima llamamos teoría a un conjunto de afirmaciones sobre una situación o proceso social (por ejemplo, una teoría sobre la sociedad-red, para usar el término de Castells). La forma más amplia es referirse a aseveraciones que se afirman para toda la vida social (una teoría de la conformación o disolución del orden social como tal). Sobre estas últimas afirmaciones se ha negado muchas veces su utilidad o validez en el análisis social, y en esta sección intentaremos mostrar que nada de lo que se plantea usualmente en contra de las afirmaciones teóricas universales resulta una crítica efectiva, y que dichas afirmaciones resultan ineludibles para el análisis social.</p>
+			<sec>
+				<title>La socialidad como proceso de creación histórico</title>
+				<p>Lo social es una creación, un proceso. Una conclusión posible de lo anterior es declarar que lo social, siendo estrictamente histórico, no puede tener conceptos generales; que plantear la idea que hay relaciones o situaciones universalmente existentes implica necesariamente convertir lo social en lo que no es, en algo natural, constituyendo ello un error categorial y una reificación. Dadas las múltiples ocasiones en que efectivamente se han planteado ciertas ideas como universales, que después la práctica ha mostrado que no lo son, razones no faltan a esta crítica.</p>
+				<p>Sin embargo, la conclusión no se desprende de la afirmación inicial. Si la vida social es inherentemente una creación del mismo proceso social, luego hay características universales de ella que permiten que así sea. Por ejemplo, nos dice que toda capacidad universal es una ilusión, producto del punto de vista escolástico que confunde la posición del analista con la del sujeto y olvida las condiciones sociales que permiten dicha construcción. Pero, en el mismo Bourdieu, la capacidad para incorporar o actuar a partir del <italic>habitus</italic> se presupone para todos los sujetos. El mismo hecho de encontrar afirmaciones generales en autores que defienden el carácter histórico de la vida social se encuentra, por ejemplo, en la siguiente cita: “a capitalist system cannot exist within any framework except that of a world economy” ( :24).</p>
+				<p>Existiendo características universales, entonces se sigue que tienen consecuencias, que hay afirmaciones derivables de ellas. Y estas derivaciones, como mínimo, pueden ser universales. Con ello entonces queda establecida una tarea teórica: establecer esas afirmaciones, sus consecuencias y confrontarlas con la realidad. </p>
+				<p>Se puede defender que estos no pasarían de ser asertos más bien triviales (pensemos en ‘toda comunidad desarrolla prácticas sociales’) y dicha tarea no sería muy interesante. Incluso que la única afirmación universal válida es aquella que establece el carácter intrínseco de lo histórico en la vida social. Aceptemos, por ahora, ese argumento y que esas afirmaciones universales básicas solo serían triviales. Sin embargo, de lo trivial del aserto inicial no se sigue que lo sean necesariamente sus consecuencias. Más aún, que un aserto sea trivial es también un asunto de perspectiva. Afirmaciones como las de Smith que “the extent of this division [of labour] must always be limited by the extent of that power [of exchange], or, in other words, by the extent of the market” ( :27) o la de Durkheim sobre como “the division of labour varies in direct proportion to the volume and density of societies” ( :201), claramente no fueron triviales al ser primero enunciadas. Y lo que se implica a partir de ellas tampoco lo es. Dado lo anterior, entonces tiene sentido el desarrollo de la tarea teórica universal ya mencionada.</p>
+				<p>Si lo que puede ser universal en las ciencias sociales es precisamente lo que permite que la vida social sea construida, entonces las afirmaciones universales tenderán a ser de procesos más que de resultados. Lo que resulte de un determinado proceso social será probablemente algo particular, pero no hay nada que evite el carácter universal de ese proceso. Si se observa con cuidado se podrá detectar que la mayoría de las afirmaciones que se critican como falsamente universales dicen relación con estructuras (las familias no siempre se han comportado o se estructuran de ese modo, ni los estados, ni los mercados, ni los grupos sociales). Y de estas estructuras es válido decir que son estructuras particulares que bien pueden ser resultado de procesos universales.</p>
+				<p>Se puede recordar que las ciencias históricas sobrepasan a las ciencias sociales, y que la biología tiende muchas veces a tener un carácter similar (algunas de sus disciplinas, como la paleontología, son completamente históricas). Ello porque si bien los procesos biológicos tienden a ser universales (y en particular así se usa la explicación darwinista), los resultados son siempre particulares. La existencia de insectos, de dinosaurios y de ornitorrincos no puede deducirse de los principios de la biología; y más en general, atributos como la homeotermia o la reproducción sexual son, en parte, producto de la historia de la vida. </p>
+				<p>En ciencias sociales podemos establecer lo mismo: una ciencia universal de procesos que generan resultados particulares e históricamente específicos. Lo cual a su vez nos plantea que la ciencia social universal no cubre, ni mucho menos, todos los intereses analíticos de nuestras disciplinas. De hecho, pensemos que en esta mirada conceptos tan relevantes, y tan discutidos, como Estado, estratificación social, mercado, familias, ciudades, organizaciones, democracia, no son conceptos teóricos generales. Todos ellos son resultados de procesos, resultados que pueden ser de amplia expansión (del mismo modo que, digamos, la reproducción sexual o la visión en la biología), pero que no son términos de una teoría universal (no ocurren en todos los procesos y agrupaciones sociales).</p>
+				<p>En este sentido, una teoría universal lo que hace es poner las herramientas y elementos que son requeridos para que puedan desarrollarse las explicaciones específicas y particulares. Todo análisis usa, ya sea implícito y/o explícito, elementos como relaciones, prácticas, normas, instituciones, actores colectivos, etc. Lo cual permite entonces preguntarse por los procesos mediante los cuales esos elementos son generados. Es ahí donde está la posibilidad e interés de una teoría social general.</p>
+			</sec>
+			<sec>
+				<title>La condición de sujetos de quienes se analizan</title>
+				<p>Otro argumento que también se plantea en la discusión sobre la universalidad de las afirmaciones de estas disciplinas, y que es independiente de la discusión anterior, es la circunstancia que las ciencias sociales estudian sujetos, no objetos; y que ello cambia la forma de aproximarse a estos temas. Por ejemplo, las afirmaciones no podrían ser universales porque al ser sujetos los analizados, ellos bien pueden hacerse cargo de esas afirmaciones, y con ello, cambiar su valor de verdad -ya sea para dejarlas invalidas o para producir su validez. Giddens ha sido particularmente enfático en esta crítica; y las afirmaciones de Foucault, aunque sin usar el concepto de sujeto, siguen también la misma línea. Ninguna teoría general daría cuenta de la radical reflexividad de la socialidad que analizamos.</p>
+				<p>Sin embargo, si bien la afirmación inicial es cierta, la conclusión no se sigue de ella. Es efectivo que el análisis social es sobre sujetos, o para decirlo de otro modo, los que son analizados tienen las mismas características de sus analistas. Además, el análisis es en sí mismo un proceso social. Sin embargo, de ello no se sigue que la validez de una afirmación universal se vea afectada. El hecho que determinadas posiciones en una red entreguen ventajas en negociaciones (lo que es un tema ampliamente discutido en teorías de intercambio y cuyas predicciones específicas parecen funcionar relativamente bien en términos empíricos), si es algo conocido por los actores puede cambiar muchas cosas (pueden intentar ponerse ellos mismos en esas posiciones, pueden intentar que ellas no existan); pero no cambia la validez de la afirmación en sí misma, y de hecho las acciones mencionadas se basan en dicha validez. Más allá de lo correcto del ejemplo concreto, muestra que no hay relación intrínseca entre el hecho que se trate con agentes y la universalidad de las afirmaciones. E incluso si el argumento anterior no fuera suficiente, de toda forma seguiría siendo cierto que ese carácter de sujetos es universal y por ello se podrían derivar afirmaciones universales.</p>
+				<p>Que el análisis social es en sí parte del proceso social, no algo separado de él, y que los analizados comparten las mismas características que el analizador son, de todas formas, aseveraciones fundamentales. Esto no tan solo porque es relevante para el investigador a fin de conocer el contexto en el que se inserta, y perder cualquier pretensión que tiene un acceso especial a la vida social, sino también en relación a los investigados. Porque ellos son también, en sus vidas cotidianas, investigadores de la vida social; ellos también se enfrentan con el requerimiento de conocer el contexto en el cual ellos se insertan. El involucramiento de la vida social con su investigación es algo que no solo atañe a agentes especializados, sino que es tarea de todos los actores. Esta relación intrínseca de los actores que son analizados con el conocimiento (y esta no admisibilidad de establecer una diferencia categorial entre investigadores e investigados) no obsta para la existencia de afirmaciones de carácter universal: hemos usado en el argumento una afirmación general (’los actores sociales son investigadores de su vida social’). Pero sí tiene consecuencias sobre los tipos de modelos que se pueden usar (o de las limitaciones que tienen los que se usan) para analizar la vida social.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>La interacción</title>
+			<p>Habiendo establecido el tipo de socialidad que será estudiado y la aceptabilidad de aseveraciones universales para su estudio, corresponde a continuación resolver la pregunta sobre a partir de qué punto será analizada dicha socialidad.</p>
+			<sec>
+				<title>El carácter basal de la interacción</title>
+				<p>La interacción es la unidad social elemental. Es la única unidad social que cuando se descompone disuelve de forma necesaria el carácter social de la situación. Es por ello que debe ser el punto de partida de todo análisis. Poner el eje de análisis en la interacción no precluye que la teoría usada para explicarlo sea de nivel sistémico (es lo que sucede en Luhmann) o individual (lo que sucede en Coleman). Lo que nos pone de manifiesto es que solo examinando la interacción es que se puede entender la producción de la socialidad.</p>
+				<p>Las alternativas a la interacción como unidad basal -partir de la acción social o desde un grupo- usualmente asumen la socialidad como algo dado. Esto ocurre de forma clara en toda explicación que se inicia con una socialidad ya constituida, ya sea una comunidad o una práctica o un lenguaje: explicamos a partir de esa socialidad, pero no como ella se forma. Sin embargo, lo mismo ocurre cuando observamos la alternativa de la acción social. En múltiples casos nos encontramos con que para explicar el carácter social de la acción es necesario un elemento social ya dado previamente: así, en Parsons son las normas, en Habermas el mundo de la vida, en una distribución de derechos. U ocurre que el elemento social es simplemente puesto como un elemento adicional, sin que se discuta cómo es posible que la aparición de <italic>alter egos</italic> construya efectivamente la sociabilidad, como es el caso de Weber. Al interior del accionalismo, solo en la tradición iniciada por Schutz (donde se dice que la socialidad es parte de la subjetividad) tenemos en cierta medida una excepción. Pero aún allí el carácter intersubjetivo está simplemente dado, es parte de los presupuestos básicos de la actitud natural: “presupongo simplemente que otros hombres también existen en este mundo mío” ( :26). En última instancia, detrás de lo anterior está lo que Dubet ha declarado como uno de los razonamientos clásicos de la sociología: la identidad de individuo y sociedad. Dada esa identidad sucede que introducimos la sociedad en el individuo y el individuo replica la sociedad y, entonces, la generación de la socialidad (de la relación entre los varios) desaparece como tema y como pregunta. </p>
+				<p>Iniciar con la interacción es plantear el problema de la constitución de la socialidad, sin tener ningún elemento ya dado. Entre las ideas de la tradición cabe recordar el concepto de la doble contingencia, que ha sido fructífera en relación al problema de generar una socialidad. Luhmann pregunta explícitamente por la constitución de la socialidad usando esta idea, y establece que la doble contingencia se soluciona a sí misma. La construcción posterior es sistémica, y constituye esa socialidad inmediatamente como unidad en vez de permanecer como interacción, o sea en vez de mantener el carácter irreductivamente plural; pero la construcción de socialidad se soluciona en la propia interacción.</p>
+				<p>Antes de entrar a examinar en profundidad esta disyuntiva, resultará útil una digresión previa. Para comprender bien este debate sobre el punto de partida es relevante mencionar que las alternativas individuales / colectivas no son equivalentes a la pregunta sobre acción y estructura, una de las tradicionales disyuntivas teóricas en sociología. A la disyuntiva de pensar la vida social en sus tres modos básicos: “el atomista, el estructural o sistémico y el de flujos” ( :70), es posible, por ejemplo, elegir como elemento inicial de análisis las interacciones, pero centrarse en un análisis de actor individual, de individualismo metodológico. Es la elección de Coleman como hemos mencionado. Algunos de los análisis recientes de sociología analítica también tienen esa orientación: “this form of methodological individualism conceives the actor and their actions as embedded in a dense web of contextual and relational interdependencies” ( :18). Del mismo modo uno puede tener como planteamiento básico una pregunta estructural sin usar respuestas estructurales. Pensemos en una pregunta como la siguiente: “the task of sociology can be seen as that of analysing the logic and consequences of social rule systems” ( :1). La pregunta es profundamente estructural, pero no requiere de ese mismo nivel para su respuesta. Si bien es cierto que las elecciones de punto de partida, de preguntas y de aproximaciones, están muchas veces asociadas, ello no es necesario. </p>
+				<p>Las elecciones de la acción social o de colectivos ya constituidos tienen sus razones, pero se puede mostrar que a través de la interacción se puede dar cuenta de esas motivaciones. </p>
+				<p>La elección de la acción social se fundamenta en la intuición que la acción ha de ser central porque el individuo es el único que realmente actúa: en la formulación clásica de Weber, en la cual si no existen probabilidades de tales acciones individuales, no hay Estado. Esto se puede reconocer en el caso de la interacción si postulamos que en ella los actores son los agentes que operan (no es la interacción la que ’actúa’ sino los actores); y nos permite evitar la idea del individualismo ontológico de que solo el individuo existe. Postura que olvida que las interacciones y entidades sociales más amplias son reales en el sentido que tienen propiedades que se aplican a ellas, que no aplican a los individuos. Solo una red, por ejemplo, puede tener un promedio de sus caminos y, esto, aunque los elementos (los lazos) que permiten formar esa propiedad sean producidos individualmente. Dado que “the properties involved for a couple are shared ‘relational goods’ (such as trust and reliance)” (<xref ref-type="bibr" rid="B1">Archer 2013</xref>:155), entonces esas propiedades interactivas son a su vez objeto de orientación por parte de los participantes y tienen realidad propia. Aunque se puede plantear que nadie niega la ’realidad’ de lo social pensado así, no es poco común que ello se olvide. Recordando a los clásicos, Simmel, después de plantear que la forma de las relaciones es la materia de la sociología, nos dice que, incluso para separar el estudio social del psicológico, “no cabe duda que todos los acontecimientos e instintos sociales tienen su lugar en el alma” (Simmel 2014:115). Más aún, la interacción nos dificulta per se aproximaciones que olviden que el individuo no está aislado: Por ejemplo, el uso de un ’agente representativo’ en buena parte de la literatura económica, donde “interactions between agents are usually neglected” (<xref ref-type="bibr" rid="B3">Bouchaud 2013</xref>:568). Esto no niega que existan análisis económicos de la interacción, sino que existe una práctica muy enraizada de análisis en la cual ellas no aparecen. Se puede reconocer al individuo como actor sin caer en esos problemas, si el centro del análisis es ya la interacción.</p>
+				<p>Por otra parte, la elección de una entidad colectiva se basa en la intuición según la cual es inherentemente falsa toda explicación individual. Ello no es solo porque los individuos nunca están aislados de su contexto, algo que el individualismo metodológico puede, en principio, reconocer, como lo hace el esquema micro-macro de Coleman. Sino más bien por las siguientes dos razones. Por un lado, la insistencia en que los parámetros estructurales no dependen de lo que pase en un individuo (si se quiere una aproximación durkheimiana). Lo que sucede en la sociedad es distinto de lo que sucede en los individuos: la insistencia que no se puede confundir las estructuras con los individuos. Por otro lado, recordar que los individuos son una producción social: sin una sociedad que lo produzca, que le genere sus habilidades, no hay individuo posible (y de hecho el individuo es una producción de una sociedad en particular). La interacción (a) resuelve inmediatamente el tema del contexto, (b) el individuo se lo analiza como una entidad distinta de la interacción, y (c) en la medida en que a través de ella se pueden generar las características de los individuos es posible buscar resolución al problema de la producción. Esto es importante porque en lo que concierne a los argumentos que plantean la separación estructura-individuo, ellos al final no se pueden seguir consistentemente: así no puede evitar desarrollar el concepto de interpenetración, aun cuando los seres humanos son oficialmente un entorno (pero no pueden ser tratados como si fueran cualquier entorno). Más en general, con la interacción evitamos la aporía de todo inicio en lo colectivo: que entonces no tenemos como explicar cómo se desarrolla y genera la vida colectiva.</p>
+			</sec>
+			<sec>
+				<title>La vida social como círculo</title>
+				<p>Escoger acciones o socialidades como elementos iniciales tiene sentido, como las intuiciones abordadas anteriormente muestran, pero al mismo tiempo es limitado, como los problemas que generan también muestran. Y ello es porque no dan cuenta de todo el proceso social. Ahora bien, elegir la interacción como punto de inicio implica poner la construcción de lo social y la doble relación entre actor individual y colectivo desde el inicio. A través de la interacción se puede dar razón de algo que es crucial para entender la vida social: que no hay elementos ’dados’ en ella, sino que el proceso es producido, y es producido a través de él mismo. Esto no equivale a autopoiesis, dado que no se exige la constitución como unidad ni la producción de un límite.</p>
+				<p>Esto implica entonces que la vida social es circular (que es lo que finalmente constituye una de las intuiciones más básicas de la teoría social): los actores crean estructuras que crean las condiciones que crean actores. Los individuos tienen habilidades que son generadas por un contexto que a su vez solo es posible por las acciones de dichos individuos. La interacción genera los procesos que la hacen posible: “the very terms or units involved in a transaction derive their meaning, significance, and identity from the (changing) functional roles they play within that transaction” ( 7:287). </p>
+				<p>Ahora bien, ¿cómo se puede entrar en el análisis de un proceso de esas características? En principio, con tal que se regenere en el análisis ese carácter circular se podría plantear que es algo irrelevante: con cualquiera de los puntos sería posible esa regeneración. </p>
+				<p>Pero como el sustrato corporal del individuo biológico puede asumirse como dado a una explicación social, entonces explorar la posibilidad de usarlo como punto de inicio tiene sentido. Sin embargo, no hay que olvidar que hay procesos que generan al individuo -su unidad no es dada, sino producida: el cuerpo no corresponde al concepto de persona (como, desde perspectivas distintas, tanto Luhmann como Harrison White han enfatizado). En la producción del individuo hay elementos sociales relevantes, como toda la tradición del interaccionismo simbólico nos recuerda, y detrás de la idea del yo está la idea de responsabilidad “son yoes de los que uno está obligado a hacerse cargo” (<xref ref-type="bibr" rid="B7">Cruz 2014</xref>:184) y ese hacerse cargo es una obligación que los otros producen. Ahora bien, dado el hecho pre-social del cuerpo biológico, la unidad del cuerpo puede darse por existente y entonces se puede partir de él para entender la construcción de la interacción y luego establecer cómo ese proceso genera a su vez individuos como unidades.</p>
+				<p>La ventaja de usar este proceso es metodológica. Nos obliga a generar todos los procesos y dinámicas sociales sin dar ninguno por dado, lo que es interesante para un análisis social. Pero no es un asunto ontológico: en la producción real de la vida social es cierto que siempre ha existido esa dinámica circular (el primer momento de la socialidad que estudiamos se construyó sobre otra socialidad y luego no hay momento cero sin socialidad). El hecho que esto no es un asunto ontológico de prioridad del individuo se refuerza si recordamos que los procesos sociales y la interacción operan del mismo modo si los nodos son individuos u organizaciones, y se pueden ocupar las mismas herramientas: es posible analizar “styles [uno de los conceptos básicos del autor] with much the same tools whatever the scale, size, or level of living, whether in a large organization or in the playground” ( :114). No hay un carácter ontológicamente basal del individuo para la vida social.</p>
+				<p>La mutua construcción que está en la base de la interacción no ha de hacernos olvidar que no es necesario que lo que participa de ese círculo esté íntegramente dentro de ese círculo. El individuo, incluso si se constituye a través de su participación en la vida social, solo es parcialmente social recordando a autores como Arendt o Dubet y así, por ejemplo, él piensa usando un elemento social como es el lenguaje y usando categorías sociales, pero sus pensamientos no son directamente sociales. De hecho, ya declaraba que el que cada individuo no sea solo social representa una de las condiciones básicas de la socialidad.</p>
+			</sec>
+			<sec>
+				<title>Los otros actores como generadores de estructura</title>
+				<p>Como en buena parte de las discusiones perennes de las ciencias sociales, las posiciones que parten de los actores y que parten de colectivos (y también muchas de las que intentan combinar estas dos perspectivas) suelen compartir supuestos comunes: la libertad o autonomía del actor frente a los límites que pone la estructura. </p>
+				<p>Pero más bien puede plantearse que lo que llamamos estructura social es una consecuencia de la autonomía de los otros actores. Dado que los otros autores son autónomos en relación a ego, entonces se sigue que sus acciones y las consecuencias de ellas se presentan ante ego como un hecho objetivo e independiente de su voluntad, que puede oponerse a ella.</p>
+				<p>En ese sentido, cuando partimos de la interacción, la oposición entre estructura y acción sencillamente desaparece. Supongamos el caso más simple de una díada. En este caso, es claro que hay actores y que toman decisiones. Del mismo modo, para cada actor es cierto también que no puede tomar cualquier determinación: alter representa un límite, y es porque alter es distinto a mí y puede hacer otras acciones que se manifiesta ese límite. No estará de más recordar que una de las intuiciones más básicas de estructura en Durkheim es precisamente esa oposición a la propia voluntad. Solo si los otros actores no fueran autónomos podría suceder que no habría oposición a la voluntad de ego, y para ese ego la sociedad sería pura acción (los únicos límites que reconocería serían los límites que provienen de otras realidades, distintas de lo social). En otras palabras, no solo la estructura y la libertad del actor no se oponen, sino que están integrados: es la libertad de los otros lo que se enfrenta a cada actor como estructura.</p>
+				<p>Esto se olvida porque se suele identificar ’el actor’ con el conjunto de actores. Archer cae en ello en repetidas ocasiones. Pensemos en su rechazo a que la estructura sea presente, porque si así fuera podríamos modificarla a nuestro antojo. Pero esto supone que el conjunto de las interacciones pudiera ser tratado como un actor, cuando de hecho el actor ni siquiera conoce todo ese entramado. En otras palabras, se olvida la pluralidad intrínseca de la vida social: “men, not Man, live on the earth and inhabit the world” ( :7). </p>
+				<p>Es así como también se piensa la sociedad como una unidad y en ese sentido es equivalente a un actor. La teoría de Luhmann es un caso clásico: en última instancia, los sistemas hacen todo lo que hacían las conciencias y los entornos no hacen todo lo que no hacían los objetos; y en ese sentido, sigue preso de la tradición de la filosofía de la conciencia. Es por ello que en estas teorías se puede oponer el actor (incluyendo en ello al conjunto de los actores) a una estructura pensada como algo separado de los actores. Pero la estructura, al menos la específicamente social, no se puede comprender si no se la entiende -al menos en parte- como el conjunto de actores cuya pluralidad es irreductible y no se puede reducir a la unidad. </p>
+				<p>La estructura, y en ella la estructura social, no se reduce solo a lo ya discutido. Por un lado, está la idea de la relevancia de las acciones pasadas, recordando el viejo adagio de Marx sobre que los hombres crean la historia, pero no en condiciones de su elección (que ha sido usado por Giddens y radicalizado por Archer). La vieja intuición que el pasado, al menos, facilita poder realizar las estructuras de nuevo, como muchas caminatas producen un camino. Además, aunque no sea ’social’ la materialidad de la vida social, también es crucial como parte de la estructura. </p>
+				<p>Pero la pluralidad de actores genera entonces una estructura estrictamente social. Y es a través de ella, y en las interacciones y relaciones que se crean entre ellos, que se abre una perspectiva para seguir explorando las relaciones entre acción y estructura. Así, los efectos del pasado en el presente no son algo que sea específico de la vida social (incluso opera para un Robinson Crusoe), y es cuando este efecto se piensa en dinámicas de interacción que se transforma en uno ‘social’.</p>
+				<p>Es en la interacción donde se puede observar -en estado mínimo- el juego entre el actor (cada uno de ellos) y la estructura (alter frente a cada ego y la forma en que ellos están relacionados) y, así entonces, es la unidad mínima donde aparecen los elementos básicos para el análisis social. A partir de la interacción es posible generar todos los otros elementos que son parte de la vida social. Si bien esos elementos luego actúan sobre la interacción, iniciar con la interacción tiene la ventaja de construir, y no asumir como dado, cada uno de los elementos con que se trabajará.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>En conclusión</title>
+			<p>A partir de los anteriores argumentos podemos resumir las principales ideas. Una ciencia social que se basa en la continuidad de la socialidad que ella analiza con el resto de la naturaleza no implica perder de vista sus características distintivas, y al mismo tiempo no separarla del resto de la realidad permite su mejor análisis. Una ciencia social requiere de afirmaciones universales, y ellas resultan compatibles con las críticas usuales sobre el carácter histórico o significativo de la vida social, más aún, plantear esas características presupone afirmaciones generales. Se sigue además que el tipo de afirmaciones universales cambia de carácter, y ha de centrarse más bien en procesos universales más que en estructuras o en objetos. Finalmente, el núcleo conceptual para el análisis social es la interacción, dado que permite -al mismo tiempo- incorporar las intuiciones básicas de las otras perspectivas tradicionales y disolver, o al menos aportar en la disolución de, algunas de las antinomias más básicas de las ciencias sociales.</p>
+			<p>Para cerrar el argumento queda entonces mostrar que estas distintas posiciones se refuerzan entre sí. Si queremos mostrar al mismo tiempo un carácter distintivo de la socialidad que analizamos (y que para estudiarla la mejor opción es su integración a la naturaleza), el análisis de la interacción se presenta como un caso bastante claro. Por un lado, hay elementos distintivos en los fenómenos de interacción (el análisis de conversación resultaría prácticamente imposible fuera de la socialidad que analizamos), pero al mismo tiempo la socialidad que analizamos no se entiende sin tomar en consideración dinámicas que sobrepasan el campo de nuestra socialidad (desde conectividad a análisis de cooperación/competencia). Si queremos mostrar la posibilidad, validez e importancia de afirmaciones universales y al mismo tiempo establecer su compatibilidad con el carácter significativo e histórico de la vida social, y determinar que las afirmaciones universales válidas son de procesos, nuevamente es a través de la interacción que esto queda más claro. La interacción que analizamos integra significación y opera a través de ella; pero ello no elimina la posibilidad de analizar procesos básicos de interacción de forma universal. Para que existan los objetos históricos que analizamos, se requiere que pasen a través de distintas dinámicas de interacción, y nada obsta que esos sean universales. </p>
+			<p>En resumen, lo que se propone es que la ciencia social, para desplegar su potencialidad, debe desarrollar una teoría de los procesos de interacción que permita, a partir de ella, construir todos aquellos procesos básicos de la vida social; todos los procesos que, en general, asumimos en la investigación social concreta (cosas como redes, prácticas sociales, estructuras de poder, etc.). Esta teoría de los procesos de interacción es al mismo tiempo una teoría universal, que enfatiza que la socialidad que estudia es parte inherente del mundo natural, que reconoce e integra el carácter histórico y subjetivo del mundo que estudia. Para poder aportar a la tarea de conocer el mundo, un análisis de la interacción naturalista y universal es una alternativa viable y relevante.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimiento</title>
+			<p>Este artículo fue presentado originalmente en el 9° Congreso Chileno de Sociología, realizado en Talca entre el 11 y el 14 de octubre de 2016 en el Grupo de Trabajo 10 “Epistemología y Método en Ciencias Sociales”. Se agradece a los participantes en dicha mesa por sus comentarios, también a Rodrigo Asún, Ronald Cancino, Thomas von Grievenitz y Alvaro León por sus observaciones de las versiones anteriores del texto y a los editores de la revista.</p>
+		</ack>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Archer, M.S. 2013. Collective reflexivity, pp. 145-161. En: C. Powell y F. Dépelteau. <italic>Conceptualizing relational sociology</italic>. New York: Palgrave. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Archer</surname>
+							<given-names>M.S</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<chapter-title>Collective reflexivity</chapter-title>
+					<fpage>145</fpage>
+					<lpage>161</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Powell</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dépelteau</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<source>Conceptualizing relational sociology</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Palgrave</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Arendt, H. 1958. <italic>The human condition</italic>. Chicago, IL: The University of Chicago Press. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arendt</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>1958</year>
+					<source>The human condition</source>
+					<publisher-loc>Chicago, IL</publisher-loc>
+					<publisher-name>The University of Chicago Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Bouchaud, J.P. 2013. Crises and collective socio-economic phenomena. <italic>Journal of Statistical Physics</italic> 151(3): 567-606. doi: 10.1007/s10955-012-0687-3</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bouchaud</surname>
+							<given-names>J.P</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Crises and collective socio-economic phenomena</article-title>
+					<source>Journal of Statistical Physics</source>
+					<volume>151</volume>
+					<issue>3</issue>
+					<fpage>567</fpage>
+					<lpage>606</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10955-012-0687-3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Castoriadis, C. 2006. <italic>Lo que hace a Grecia</italic>. Buenos Aires: Fondo de Cultura Económica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castoriadis</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Lo que hace a Grecia</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Chapais, B. 2008. <italic>Primeval kinship. How pair-bonding gave birth to human society</italic>. Cambridge, Mass: Harvard University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chapais</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Primeval kinship. How pair-bonding gave birth to human society</source>
+					<publisher-loc>Cambridge, Mass</publisher-loc>
+					<publisher-name>Harvard University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Chorin, D. y Holl, A.F.C. 2013. Le processus de néolithisation: socialiser la nature et naturaliser le société. <italic>European Journal of Sociology</italic> 54(2): 157-185. doi: 10.1017/S0003975613000106</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chorin</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Holl</surname>
+							<given-names>A.F.C</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Le processus de néolithisation: socialiser la nature et naturaliser le société</article-title>
+					<source>European Journal of Sociology</source>
+					<volume>54</volume>
+					<issue>2</issue>
+					<fpage>157</fpage>
+					<lpage>185</lpage>
+					<pub-id pub-id-type="doi">10.1017/S0003975613000106</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Cruz, M. 2014. <italic>Adiós, historia, adiós</italic>. Buenos Aires: Fondo de Cultura Económica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cruz</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>Adiós, historia, adiós</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>De la Cuadra, J. 1957. <italic>Prolegómenos a la sociología</italic>. Santiago: Editorial Jurídica de Chile.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De la Cuadra</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>1957</year>
+					<source>Prolegómenos a la sociología</source>
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>Editorial Jurídica de Chile</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Durkheim, E. 1997. <italic>The division of labour in society</italic>. New York: The Free Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Durkheim</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<source>The division of labour in society</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>The Free Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Emirbayer, M. 1997. Manifesto for a relational sociology. <italic>American Journal of Sociology</italic> 103(2): 281-317. doi: 10.1086/231209</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Emirbayer</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<article-title>Manifesto for a relational sociology</article-title>
+					<source>American Journal of Sociology</source>
+					<volume>103</volume>
+					<issue>2</issue>
+					<fpage>281</fpage>
+					<lpage>317</lpage>
+					<pub-id pub-id-type="doi">10.1086/231209</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>García Selgas, F.J. 2015. Tres modelos teóricos generales en sociología. <italic>Reis. Revista Española de Investigaciones Sociológicas</italic> 151: 65-82. <ext-link ext-link-type="uri" xlink:href="http://www.reis.cis.es/REIS/PDF/Reis_151_Article_041436259023248.pdf">http://www.reis.cis.es/REIS/PDF/Reis_151_Article_041436259023248.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García Selgas</surname>
+							<given-names>F.J</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Tres modelos teóricos generales en sociología</article-title>
+					<source>Reis. Revista Española de Investigaciones Sociológicas</source>
+					<volume>151</volume>
+					<fpage>65</fpage>
+					<lpage>82</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.reis.cis.es/REIS/PDF/Reis_151_Article_041436259023248.pdf">http://www.reis.cis.es/REIS/PDF/Reis_151_Article_041436259023248.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Gero, S. y Rendell, L. 2015. Oceanic societies: studying cetaceans with a social network approach, pp. 139-149. En: J. Krause; R. James; D.W. Franks y D.P. Croft. <italic>Animal social networks</italic>. Oxford: Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gero</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rendell</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<chapter-title>Oceanic societies: studying cetaceans with a social network approach</chapter-title>
+					<fpage>139</fpage>
+					<lpage>149</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Krause</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>James</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Franks</surname>
+							<given-names>D.W.</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Croft</surname>
+							<given-names>D.P.</given-names>
+						</name>
+					</person-group>
+					<source>Animal social networks</source>
+					<publisher-loc>Oxford</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Kluever, J. 2000. <italic>The dynamics and evolution of social systems</italic>. Dordrecht: Springer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kluever</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>The dynamics and evolution of social systems</source>
+					<publisher-loc>Dordrecht</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Krause, J; James, R; Franks, D.W; Croft, D.P. 2015. <italic>Animal social networks</italic>. Oxford: Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Krause</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>James</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Franks</surname>
+							<given-names>D.W</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Croft</surname>
+							<given-names>D.P</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Animal social networks</source>
+					<publisher-loc>Oxford</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Lange, A.C; Lenglet, M. y Seyfert, R. 2016. Cultures of high-frequency trading. <italic>Economy &amp; Society</italic> 45(2): 1-17. doi: 10.1080/03085147.2016.1213986</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lange</surname>
+							<given-names>A.C</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lenglet</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Seyfert</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Cultures of high-frequency trading</article-title>
+					<source>Economy &amp; Society</source>
+					<volume>45</volume>
+					<issue>2</issue>
+					<fpage>1</fpage>
+					<lpage>17</lpage>
+					<pub-id pub-id-type="doi">10.1080/03085147.2016.1213986</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Latour, B. 2008. <italic>Reensamblar lo social</italic>. Buenos Aires: Manantial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Latour</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Reensamblar lo social</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Manantial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Lawson, T. 2012. Ontology and the study of social reality. <italic>Cambridge Journal of Economics</italic> 36(2): 345-385. doi: 10.1093/cje/ber050</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lawson</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Ontology and the study of social reality</article-title>
+					<source>Cambridge Journal of Economics</source>
+					<volume>36</volume>
+					<issue>2</issue>
+					<fpage>345</fpage>
+					<lpage>385</lpage>
+					<pub-id pub-id-type="doi">10.1093/cje/ber050</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Manzo, G. 2014. <italic>Analytical sociology: actions and networks</italic>. Chichester: Wiley.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Manzo</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>Analytical sociology: actions and networks</source>
+					<publisher-loc>Chichester</publisher-loc>
+					<publisher-name>Wiley</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Schaeffer, J.M. 2009. <italic>El fin de la excepción humana</italic>. México: Fondo de Cultura Económica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schaeffer</surname>
+							<given-names>J.M</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>El fin de la excepción humana</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Schutz, A. y Luckmann, T. 1977. <italic>Las estructuras del mundo de la vida</italic>. Buenos Aires: Amorrortu.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schutz</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Luckmann</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>1977</year>
+					<source>Las estructuras del mundo de la vida</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Amorrortu</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Simmel, G. 2014. <italic>Sociología: estudios sobre las formas de socialización</italic>. México: Fondo de Cultura Económica.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Simmel</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>Sociología: estudios sobre las formas de socialización</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Smith, A. 2009. <italic>The wealth of nations</italic>. New York: Bantam Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Smith</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>The wealth of nations</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Bantam Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Vandenberghe, F. 2006. <italic>Complexités du posthumanisme</italic>. Paris: L’Harmattan. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vandenberghe</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Complexités du posthumanisme</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>L’Harmattan</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Wallerstein, I. 2004. <italic>World-system analysis</italic>. Durham, NC: Duke University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wallerstein</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<source>World-system analysis</source>
+					<publisher-loc>Durham, NC</publisher-loc>
+					<publisher-name>Duke University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>White, H.C. 2008. <italic>Identity and control</italic>. Princeton, NJ: Princeton University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>White</surname>
+							<given-names>H.C</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Identity and control</source>
+					<publisher-loc>Princeton, NJ</publisher-loc>
+					<publisher-name>Princeton University Press</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

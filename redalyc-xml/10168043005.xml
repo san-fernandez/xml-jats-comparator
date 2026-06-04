@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00005</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000200146</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Ciencias sociales irregulares</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Irregular social sciences</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9262-8879</contrib-id>
+               <name>
+                  <surname>Maldonado</surname>
+                  <given-names>Carlos Eduardo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad de Medicina, Universidad El Bosque, Bogotá. Colombia</institution>
+            <institution content-type="normalized">Universidad El Bosque</institution>
+            <institution content-type="orgname">Universidad El Bosque</institution>
+            <country country="CO">Colombia</country>
+            <email>maldonadocarlos@unbosque.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>68</issue>
+         <fpage>146</fpage>
+         <lpage>155</lpage>
+         <history>
+            <date date-type="received">
+               <day>25</day>
+               <month>03</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>13</day>
+               <month>06</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Este artículo sostiene que la regla en el mundo social es el cambio, en todas las escalas de tiempo, sin ciclos ni periodicidades. Por consiguiente, el tema que emerge inmediatamente es la irregularidad del mundo. Si esto es cierto, deben ser posibles unas ciencias sociales irregulares. El mejor antecedente para una idea semejante se encuentra en la comprensión del propio Mandelbrot acerca de los fractales y multifractales. Las ciencias sociales tratan radicalmente, de fenómenos irrepetibles, singulares. Estos han sido llamados como eventos raros. De esta suerte, una nueva epistemología emerge y es posible. Al final se muestra que existen nexos fuertes entre las ciencias sociales con la biología y la ecología. Pero en ese punto, el texto termina abierto.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This paper claims that change is the rule in the social world, in all scales of time, without cycles or periodic dynamics. Hereafter, the topic that immediately arises is the irregularity of the world. If this is true, then irregular social sciences are to be possible. The best antecedent of such an idea is to be found in Mandelbrot’s own understanding of fractals and multifractals. Thus, the social sciences radically deal with phenomena that are in no way repeated, for they are singular. Such events have been called as rare events. In thus tenure, a brand-new epistemology arises and is possible. At the end, some connections between the social sciences and biology and ecology are depicted. That, however, is where this text ends and remains open.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>eventos</kwd>
+            <kwd>complejidad</kwd>
+            <kwd>fractales</kwd>
+            <kwd>multifractales</kwd>
+            <kwd>asperezas</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>events</kwd>
+            <kwd>complexity</kwd>
+            <kwd>fractals</kwd>
+            <kwd>multifractals</kwd>
+            <kwd>roughness</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="3" />
+            <page-count count="10" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>Cuando nacen las ciencias sociales están marcadas por la mecánica clásica desarrollada por Galileo-Newton. La mecánica clásica es, simple y llanamente, la explicación del mundo y la realidad en términos reduccionistas (tres leyes únicamente), deterministas (el pasado determina el presente) y mecanicistas (un robusto aparato físico-matemático). En el curso del siglo XIX la mecánica clásica se fortalece con la mecánica estadística. Las contribuciones de Achenwall, A. Quetelet (Physique sociale, L’homme moyen), Laplace, y en el sigo XX Galton y Pearson, entre otros, son determinantes. La realidad social debe explicarse mediante leyes (científicas), y estas leyes, al cabo, son esencialmente probabilísticas, particularmente en el caso de los sistemas sociales humanos. De esa suerte, la estadística se convierte en el lenguaje normal de las ciencias sociales. Grosso modo, se impone así una comprensión mecanicista de la realidad social. Sin ser la única, esta es, de lejos, la corriente dominante (mainstream science) de trabajo, investigación y explicación en las ciencias sociales, hasta la fecha.</p>
+         <p>La idea de base no es difícil: la imagen que se tiene en las ciencias sociales se corresponde con la imagen que se tiene de la naturaleza en las ciencias exactas o naturales. Pues bien, tres ideas son dominantes sobre la naturaleza en la historia de Occidente: (a) la naturaleza como creación divina, (b) la naturaleza como entidad orgánica y (c) la naturaleza como máquina.</p>
+         <p>En el primer caso, la naturaleza obedece a planes de la divinidad y estos planes son, ulteriormente, de equilibrio y armonía. Ahora, el carácter orgánico de la naturaleza fue ampliamente dominante en la historia de la humanidad, pero a partir del siglo XVII es desplazada por la concepción de la naturaleza como una máquina. En cualquier caso, como unidad orgánica, la naturaleza sabe, por sí misma, de estabilidad y auto-conformación. Finalmente, la naturaleza es vista como una máquina que, si bien algunas partes pueden ser reparadas y remplazadas, finalmente obedece a principios físico-matemáticos de equilibrio a través de ciclos periódicos regulares. La historia de estas tres concepciones ha sido narrada numerosas veces.</p>
+         <p>Con la ciencia clásica termina siendo predominante, hasta el día de hoy, la concepción de la naturaleza como un reloj, justamente como la creación del Gran Relojero (por esta misma razón, no sin ironía, Dawkins se burlará mediante el recurso al llamado “relojero ciego”). La naturaleza es una gran máquina que sabe de ciclos y regularidades, y con ellos o a través de ellos, es finalmente un sistema de equilibrio natural.</p>
+         <p>Como con acierto señalaran tanto Weber como Prigogone, una visión semejante desencanta el mundo. Todo está sometido a estructuras rígidas; el lenguaje que termina por sedimentarse en esta comprensión es el de las instituciones. Aparece, al cabo, el institucionalismo y el neoinstitucionalismo. De esta suerte, emerge, una vez más el Uroboros, pues una explicación mecanicista del mundo social tiene como consecuencia la implementación mecanicista de organizaciones y acciones sociales y colectivas.</p>
+         <p>En este texto pretendo desplazar el foco de la mirada hacia un ángulo bastante poco apreciado en la epistemología y la filosofía de las ciencias sociales. Mientras que lo estándar es, por ejemplo, el debate entre funcionalismo y estructuralismo, o marxismo y neoinstitucionalismo, etnografía e investigación acción-participación, microhistoria y estudios culturales, entre muchos otros, sin olvidar el sempiterno debate entre ciencias sociales y ciencias naturales o exactas, poca o ninguna atención se ha prestado a la consideración acerca de la ausencia de ciclos en los fenómenos y las dinámicas sociales. Este es el tema de base de este texto.</p>
+         <p>La tesis que se defiende aquí es que el cambio existe en todas las escalas de tiempo, y no existen ciclos, ni periodicidades, ni regularidades en las dinámicas sociales, en ninguna acepción de la palabra. Como se aprecia, se trata de una tesis fuerte. Llamaré a este ángulo como ciencias sociales irregulares. Esta tesis implica tres argumentos. Primero, un reconocimiento rápido de la situación de las ciencias sociales hoy ante el mundo. Segundo, el texto ataca directamente el argumento sobre la irregularidad, y formula algo más en extenso la tesis de este texto. El tercer argumento explora las consecuencias de la tesis enunciada en varios dominios científicos y disciplinares. Al final, como conclusiones se señala que las ciencias sociales irregulares se encuentran en la misma longitud que la ecología y la biología y se presentan algunas razones. Se trata, evidentemente, de conclusiones abiertas.</p>
+      </sec>
+      <sec>
+         <title>Las ciencias sociales ante un mundo lleno de eventos raros</title>
+         <p>Las ciencias sociales nacen a la luz o a la sombra de la mecánica clásica y su estructura mental se corresponde con ésta. Este fue el sueño de Compte y las ciencias y disciplinas sociales que nacieron en el curso del siglo XIX y buena parte del siglo XX se ajustaron a este marco o criterio. La sociedad humana y sus temas y problemas fueron explicados en términos de equilibrios y estabilidad, o lo que es equivalente, de periodicidades, trayectorias, regularidades; no en última instancia hubo científicos sociales que hablaron de leyes de la economía, la historia y la sociedad. Sin la menor duda, el concepto de “fuerza” es la mejor expresión de una concepción mecanicista de la sociedad y los seres humanos (“fuerzas sociales”, “fuerza de trabajo”, “fuerzas de la historia”, y otras). Como quiera que sea, toda la ciencia moderna es ciencia que pivota en torno a las ideas de equilibrio y de estabilidad.</p>
+         <p>El objetivo de este texto no es el de elaborar esta historia (que ha sido contada numerosas veces). No obstante, al cabo, se llegó incluso a esa versión peligrosa de Luhmann de una sociedad (sistémica) sin sujetos (y que tanto agrada, por lo demás, a Habermas). Esta puede ser identificada, sin duda alguna, como una de las cumbres más altas de las ciencias sociales normales.</p>
+         <p>Mientras que las ciencias sociales, dicho grosso modo, explicaron las dinámicas sociales en acuerdo a estructuras, leyes, fuerzas y probabilidades y siempre buscando ver estabilidad, el siglo XX y lo que va del XXI, para decirlo de manera sintética, las asaltó constantemente con sorpresas. Sin ser exhaustivos, cabe mencionar la grande guerre drôle de 1914 que debería haber sido breve, fue eterna para ambas partes. Rusia vivió la revolución de los bolcheviques en un país que no tenía un gran desarrollo capitalista. Alemania conoció la República de Weimar y todas sus aventuras y avatares, al cabo de los cuales, sorpresivamente, un austríaco mediocre llegaría al poder con un partido minoritario. Se sembraban así las semillas de la segunda guerra mundial. Al mismo tiempo, E.E.U.U. conocía el Marte Negro de 1929. Japón vivió las dos bombas en Hiroshima y Nagasaki y el mundo supo de lo inimaginable. Luis Carlos Prestes se adelantó en Brasil a la gran marcha de Mao, una epopeya que solo ha recuperado la literatura, nunca la historia o la política. En medio de los años dorados y sus secuelas, 1977 conoció la crisis del petróleo. Antes, Mayo de 1968 significó muchas cosas: la teología de la liberación, los tanques soviéticos en Checoslovaquia, la crisis el neocolonialismo (francés e inglés) en África. En Noviembre de 1989 cayó el Muro de Berlín, algo que no vieron venir ni Tirios ni Troyanos. En 2008 se produjo una crisis sin igual en el mundo del libre mercado y aparecieron países “cerdos” (PIGS, el acrónimo para designar a Portugal, Irlanda, Grecia y España). En fin, un argentino jesuita sería elegido Papa, contra todos los pronósticos en la historia. Last but not least, en noviembre de 2019 irrumpe la primera pandemia en un mundo globalizado, la crisis del Covid 19, con dinámicas y consecuencias que nadie puedo anticipar de manera alguna. Cruzando transversalmente esta historia, se aprendieron tres cosas adicionales: el calentamiento global, la crisis climática y la idea de catástrofe ambiental.</p>
+         <p>Ante todos estos fenómenos las ciencias sociales (como de hecho todas las otras ciencias y disciplinas) solo pudieron hacer predicciones retrospectivas (lo cual, en verdad, es bastante poco inteligente), y elaboraron, en el mejor de los casos, modelos descriptivos. Todos éstos, y muchos otros, fueron acontecimientos imprevisibles, inauditos, sorprendentes. Literalmente, eventos raros; un concepto propio de la complejidad. Lo significativo de estos y otros fenómenos radica en la total ausencia de referentes en la historia y, por tanto, en su imposibilidad para ser explicados en términos de ciclos, periodicidades, regularidades (Maldonado El evento raro).</p>
+         <p>En este marco general nacieron las ciencias de la complejidad, con la intención de pensar y explicar dinámicas no-lineales, emergencias, turbulencias fluctuaciones, inestabilidades, autoorganización, transiciones de fase de primer y de segundo orden, y otras características próximas y semejantes. Pues bien, quiero sugerir que la casi totalidad de científicos, investigadores y académicos dedicados a la complejidad siguieron explicando los fenómenos, sistemas y comportamientos en términos de equilibrios dinámicos y de patrones (patterns). La idea de ciclos, regularidades y periodicidades continuó prevaleciendo. En realidad, la ciencia, por más que pretendiera ser de punta (spearhead science), continuó siendo influenciada por creencias culturales fuertemente acendradas. Y de todas, de lejos, la creencia en equilibrios estabilidades y regularidades armoniosas.</p>
+         <p>Subrayemos esta idea. Un evento raro tiene varios rasgos característicos: es irrepetible, no reproducible, por tanto, es altamente improbable, es singular y con respecto a él no cabe ningún tipo de generalizaciones. Pues bien, en rigor, y contra todas las apariencias y atavismos, la inmensa mayoría de fenómenos estudiados en ciencias sociales y humanas son eventos raros. Por ejemplo, jamás hubo una circunvolución de la tierra como la que llevó a cabo Magallanes; nunca más se descubrió un continente como América en 1492; no hubo otra revolución como la de 1789 o la de 1917 en Francia y en Rusia; jamás existió un análogon al Renacimiento italiano con sus características y avatares (a pesar de ese texto clásico de Panofsky Renacimiento y renacimientos en el arte occidental). Nunca volvió a existir un conquistador como Genghis Kan y su historia; jamás hubo una historia de amor con las consecuencias que existió entre Cleopatra, Augusto y César. La lista puede ampliarse a voluntad. La dificultad estriba en que la estructura mental de las ciencias sociales estuvo marcada por: a) creencias en una divinidad armoniosa y benevolente; b) la física clásica y la ingeniería y las ideas equilibrio y estabilidad; o bien, incluso c) por una concepción orgánica u organicista que sabía de regularidades, ciclos y balance, al cabo. Así las cosas, dicha estructura mental se acostumbró a pensar, acríticamente, en procesos generales, historia universal, y demás. Un error grave que le impidió ver la complejidad del mundo. Hasta que la complejidad, esto es, la aleatoriedad, la impredecibilidad, lo imposible e inimaginable, las asaltó por la puerta de atrás.</p>
+         <p>El primer argumento aquí es que ni siquiera la complejidad, avant ou après la lettre, estuvo en capacidad de ver y anticiparse a fenómenos altamente improbables. Verdaderos cisnes negros. La razón es que siguieron pensando en generalidades, procesos de universalización y ciclos y regularidades, y la mejor expresión para ello fue mediante la búsqueda de “patrones” (patterns). Ciertamente que las ciencias de la computación influyeron mucho en el surgimiento de la complejidad y que estas, a su vez, ayudaron al propio desarrollo de la computación. Sin embargo, con los patrones, la idea de equilibrios siguió permeando a las ciencias sociales. La bibliografía al respecto es amplia y conocida por los expertos en el tema. Todos los investigadores de complejidad siguieron pensando en ciclos y regularidades, menos uno: Benoit Mandelbrot. Cabe girar entonces la mirada hacia el segundo argumento aquí.</p>
+      </sec>
+      <sec>
+         <title>Entendiendo la irregularidad</title>
+         <p>Mandelbrot constituye un caso excepcional en el panorama científico actual, y de hecho en toda la historia de la ciencia. Padre de los fractales y los multifractales (geometría de fractales es el nombre formal), se caracterizó siempre por un fuerte espíritu de independencia. Poco antes de su muerte en octubre de 2010, escribe y publica sus memorias El fractalista (edición en inglés de 2012; traducción al español de 2014), en las que dejó en claro su carácter rebelde e inconformista, la historia de su vida y formación, así como su biografía intelectual, y la explicación precisa sobre qué significan propiamente los fractales.</p>
+         <p>En verdad, Mandelbrot expresamente lee su contribución a la ciencia, y por extensión a la cultura humana, la geometría de fractales, como una teoría de la irregularidad. Así lo deja ver ya desde el inicio de sus memorias: “Así pues, en estas memorias, déjenme decirles quien creo que soy y cómo es que llegué a trabajar durante años en la primera teoría de la irregularidad y a tener la recompensa de ver su transformación en un aspecto de una teoría de la belleza” (Mandelbrot 2014:13, énfasis añadido). Y más adelante: “Extraña, pero casi ineluctablemente, aquel cordel, aquella separata, terminó por conducirme a algunos de los temas principales de mi vida científica: la falta de uniformidad, la desigualdad, la irregularidad, y el concepto (así como la palabra) de fractalidad” (Mandelbrot 2014:161).</p>
+         <p>De este modo, la complejidad de un fenómeno no consiste (contra todas las apariencias) en su carácter no-lineal en el que suceden (o es posible encontrar) patrones, sino, mucho mejor, en la ausencia de cualquier tipo de regularidad. Así, la complejidad de un fenómeno o sistema es exactamente lo que se denomina un evento raro. Los eventos raros son irrepetibles y únicos.</p>
+         <p>En términos estadísticos, un evento irregular se explica como una cola larga y ha sido llamado igualmente como un “cisne negro” (por N. Taleb, no en vano un estadístico creativo y altamente crítico, casi iconoclasta); esto es, se trata de toda aquella clase de fenómenos que son altamente improbables. El énfasis debe tomarse en serio: extremadamente improbables. Huelga subrayar que un evento semejante es singular.</p>
+         <p>La dificultad (al mismo tiempo cognitiva, psicológica y emocional) radica en el deseo (wishful thinking) de querer atajar la aleatoriedad por donde sea; y acaso el mejor de los trajes concebidos hasta la fecha para contener a la aleatoriedad sea la idea de patrones. Pero, la verdad, la aleatoriedad es una persona fugaz y caprichosa, antojadiza y poco previsible, y siempre altamente seductora. Encanta, pero desespera, según parece.</p>
+         <p>Mucho más que su conocido libro fundamental, Geometría fractal de la naturaleza de 1982, es en un libro tardío donde aparecen sus ideas sobre irregularidad: Fractals and chaos. The Mandelbrot set and beyond de 2004. En este libro se hacen explícitos los fundamentos de los fractales, que son temas como las mediciones de Minkowski y sistemas caóticos hamiltonianos, aspectos bastante más técnicos que pueden quedar aquí provisoriamente de lado. El concepto mediante el cual cabe sintetizar la irregularidad en la naturaleza es el de aspereza o tosquedad (roughness). Podemos leer: “fractal and multifractal geometry provided the beginnings of a workable and useful approach based on the surprising fact that, both in nature and culture, roughness is very often fractal. In one field after another, fractal geometry became the first tool which made it possible to help shape a theory of roughness” (Mandelbrot 2004:195, énfasis añadido).</p>
+         <p>Mandelbrot habla de todas las demás geometrías que buscan simetrías y suavidad, esto es, por ejemplo, la geometría euclidiana, las geometrías no euclidianas de Bolyai, Lobachevsky y Riemann, la geometría de geodésicas y muchas otras, en contraste con la aspereza de los fractales, como de geometría sometidas (meek geometries). Se trata, digámoslo expresamente, de geometrías sometidas a los deseos y las creencias para ver en todas partes regularidades, ciclos, lisura, equilibrio y estabilidad. En otras palabras, la capacidad de ver irregularidades corresponde a un espíritu irreverente, libre, crítico o inconforme, digamos, con Kuhn y otros, revolucionario.</p>
+         <p>Digámoslo de manera franca y directa: la naturaleza cambia en todas las escalas de tiempo y sin ciclos ni regularidades. Una geometría que logre entender este aspecto no puede llamarse una geometría sometida a las creencias, siempre atávicas y acríticas. Es, por el contrario, una geometría con rasgos libertarios. La vida sucede, mucho más que en los llanos y los valles, en las comisuras, en los intersticios, en las montañas, los pliegues y los lugares de refugio naturales, como las cuevas y en las esquinas del mundo. Una metáfora semejante que no es para nada esquiva a las ciencias sociales y humanas.</p>
+         <p>De hecho, ya en la propia naturaleza, gracias a la ecología, notablemente, los trabajos de L. van Valen formularon hace tiempo ya, en 1973, la famosa hipótesis de la reina roja (como en Alicia en el País de las Maravillas). De acuerdo con esta hipótesis, en un ecosistema, las especies deben cambiar constantemente a fin de mantenerse en el sistema. En pocas palabras, la supervivencia o la adaptación implican cambios incesantes. El equilibrio, la estabilidad o la permanencia no existen en la naturaleza. Se trata de creencias a-científicas, por decir lo menos.</p>
+         <p>En la historia de la ciencia en general y en el caso de las ciencias de la complejidad en particular, las ideas de Mandelbrot han permanecido generalmente marginales. De lejos, hoy en día el panorama dominante (mainstream) son las redes complejas. Y bastante menos, el caos. Pero los fractales solo aparecen ante una mirada de expertos, no en la primera aproximación para neófitos y ciertamente no en la base de los que recién entran al estudio de este grupo de ciencias y disciplinas. Parte de la razón de esto estriba en el propio carácter independiente y no gregrario de Mandelbrot. Por ejemplo, por el hecho de que fue siempre reacio a participar en los circuitos de conferencias. En cualquier caso, los fractales (con notables contribuciones a numerosos campos como las finanzas, la geometría, la no-linealidad, el caos y las propias matemáticas), permanecen como provocación en el espectro académico y de investigación. Una parte importante estriba en sus dificultades técnicas: son matemáticas at its best.</p>
+         <p>Pues bien, hay una dúplice idea en la base de la irregularidad. Se trata del tiempo, que todo lo cambia, cuya primera unidad de base no depende directamente de los sistemas vivos y, a la vez, de los procesos de adaptación, subsiguientemente. De entrada, el tiempo es algo que los sistemas vivos no controlan, pero no es tampoco periódico ni cíclico, contra todas las creencias. Cabe considerar que los sistemas vivos no controlan el tiempo precisamente porque no hay una única temporalidad, sino muchas, innumerables temporalidades. Y en esto consiste la verdadera complejidad. Así las cosas, cabe decir que el tiempo es para los sistemas vivos el título en el que se condensan las fuerzas de la naturaleza: el medioambiente en general y en su indeterminación.</p>
+         <p>Cabe identificar, por ejemplo, los tiempos cósmicos (marcados por supernovas y por agujeros negros) y que dan lugar a tres tipos de mediciones: años luz, unidades astronómicas (UA) y parsecs. Asimismo, en el caso de la biosfera, que es en realidad, como mínimo un sistema de tres cuerpos, distinguimos las interacciones entre la Tierra y la luna, entre el sol y la Tierra, y entre el sol y la luna. Esto da lugar a fenómenos como los vientos, el magnetismo, los océanos y ritmos acuáticos. Existen, desde luego los ritmos circadianos, con todo y según los calendarios solares o lunares. Existen los llamados ciclos biogeoquímicos, que todo tienen menos un carácter periódico y regular. La climatología lo ha puesto suficientemente de manifiesto, con sus incidencias en la historia. Están, también, los tiempos moleculares, del sistema inmunológico, del genoma y de los sistemas nerviosos, el encefálico y el entérico (o mesentérico). Y encima, claro, los tiempos sociales, económicos, sexuales y emocionales. Entre muchos otros. Usando el lenguaje de la ecología, los sistemas vivos existen en las tensiones entre procesos homeorréticos y homeostáticos, y estas tensiones son esencialmente irregulares.</p>
+         <p>Como se aprecia sin dificultad, la irregularidad es la regla en la naturaleza. No se ve por qué habría de ser diferente en la sociedad y en la vida de los individuos. Y si se habla de ciclos, de patrones y de equilibrios dinámicos es, para decirlo rápidamente con Wittgenstein, porque el lenguaje se va de vacaciones, es decir, por mecanismos de economía de palabras y para efectos de simplificación y rapidez. En síntesis, la idea de irregularidad aparece como novedosa y atípica. Y sí, entonces no cabe elaborar al respecto modelos generales. Cada sistema complejo posee su propia complejidad. Y, así las cosas, es posible hacer ciencia de fenómenos particulares en cada caso: antropología de cada país, sociología de cada región, economía de cada bioma, historia de cada pueblo y cultura, en fin, lingüística de cada unidad idiomática, historia comparada, y demás. La riqueza del mundo y la naturaleza descansa exactamente en la diversidad y la multiplicidad, en la impermanencia y el cambio incesante.</p>
+      </sec>
+      <sec>
+         <title>Irregularidad y ecología de saberes</title>
+         <p>Los eventos raros son aquellos propios de la biología, la ecología, las ciencias sociales y humanas y las artes, particularmente. Es decir, se trata de los grupos de ciencias, disciplinas y parte de las humanidades que nada tienen que ver con cuerpos simples, sino con los más complejos de todos los sistemas: los sistemas sociales humanos. Siempre, esencialmente imprevisibles, con interacciones no-lineales, carentes de cualquier regularidad, variables y caprichosos.</p>
+         <p>En verdad, si algo confiere sentido a las instituciones humanas (horribile dictum) es su denodado esfuerzo por convertir a los seres humanos en agentes predecibles, controlables y manipulables; en una palabra, en sistemas físicos. Para ello, las instituciones humanas (sic) implementan rituales, conciben estrategias como Misión, Visión, Objetivos, Estrategia, Himno y Bandera, acentúan la idea de jerarquías, y destacan la necesidad del control por sobre todas las cosas; particularmente por encima de la libertad, la autonomía y el criterio propio. Y siempre, subterráneo, el estudio de riesgos, la prospectiva y las diferentes versiones de la planeación estratégica.</p>
+         <p>Y, sin embargo, para decirlo coloquialmente, siempre salta la liebre. Si es así, el paradigma de tipo fisicalista se desbarata en mil pedazos, pues los cuerpos físicos son inmensamente más simples que los sistemas vivos o sociales. Resulta, así, un embeleco pretender elaborar modelos generales, explicaciones universales, comprensiones lisas y planas, que pierden la riqueza de las diferentes geografías (física, humana, y demás).</p>
+         <p>Más exactamente, contra la ciencia y la filosofía tradicionales y normales, las ciencias sociales (análogamente a la biología y las ciencias de la vida) tratan de excepciones. Las excepciones son (por definición) irregulares, eventos raros. En otras palabras, se trata de atender, estudiar y comprender comportamientos irrepetibles, sistemas irreversibles, fenómenos impredecibles, cambios súbitos e imprevistos, acontecimientos únicos o singulares, inflexiones, situaciones límites. Esto es, como se aprecia fácilmente, todo lo contrario de lo que la tradición platónica-aristotélica trasmitió y la historia que se sigue o que depende de ella. Para estudiar esta clase de fenómenos, comportamientos y sistemas, emergen nuevos lenguajes, nuevas ciencias y disciplinas; y son adecuados, entonces, el empleo de isomorfismos, homeomorfismos, fractales y multifractales, lógicas no-clásicas y otras.</p>
+         <p>En términos epistemológicos, se trata de ver lo que nadie más ha visto (antes o hasta el momento), pensar en lo impensado, ver lo que (aún) no existe, en fin, pensar lo posible e incluso lo imposible, antes que simplemente lo real, en cualquier acepción de la palabra. Quisiera decirlo de manera breve y directa: emerge, así, una nueva epistemología (en y gracias a las ciencias sociales y humanas). Esta es la verdadera contribución de una ciencia (o ciencias) de la irregularidad.</p>
+         <p>En verdad, de manera típica la estructura mental predominante en Occidente fue deductiva, o también hipotético-deductiva. Es decir, se elaboraron rápidamente generalizaciones y se gestionó el mundo a partir de las mismas. En el lenguaje de la lógica puede decírselo de manera precisa: fue el imperio de los cuantificadores universales: “todos”, “siempre”, “nunca”, etc. Este tipo de ciencia o pensamiento pasó por alto las particularidades, las excepciones y estableció mapas generales de conocimiento y acción. El mundo, literalmente, se volvió regular, y por ello, estándar, promedio. La estadística llegó para darle racionalidad a un mundo semejante: ley de grandes números, medias, medianas, promedios, matrices, vectores y demás. Y todo lo demás: por fuera (desviaciones estándares, parametrización, y otros sistemas de exclusión). Fue, para decirlo en la voz de J. Ingenieros, “el hombre mediocre”. Manifiestamente, las irregularidades, los eventos raros, los acontecimientos atípicos y las excepciones no forman parte de la realidad; manifiestamente no de la ciencia (y la filosofía) normal. Puede decirse que pertenecen a la dimensión de lo posible, e incluso de lo imposible. Si es así, entonces se trata de pensar y conocer lo posible y lo imposible antes que lo real, como lo fáctico, y lo dado y lo a-la-mano (zuhanden sein).</p>
+         <p>En este marco, la cohomología es un campo de las matemáticas vinculado al estudio de los conjuntos abelianos, que abarca una amplia variedad de teorías (en matemáticas, una teoría es un campo sólidamente establecido, y no simplemente conjetural, como en física). Pues bien, la cohomología se ocupa exactamente de espacios, figuras y estructuras imposibles. Digamos, en referencia a la segunda sección arriba, que la gran mayoría de los fenómenos sociales son imposibles; esto es, eran imposibles hasta que aparecieron. Estos fenómenos imposibles son, exactamente, irregulares. Pues bien, es posible y necesario hacer ciencia de eventos irregulares. Las ciencias sociales y humanas son las primeras a entender este llamado. Al fin y al cabo, es la vida lo que está en juego.</p>
+         <p>Muchas de las teorías cohomológicas se vinculan estrechamente con la teoría de catástrofes (R. Thom), una de las teorías de las ciencias de la complejidad, tanto como con la geometría de fractales. Pues bien, este señalamiento tiene aquí por lo menos un valor indicativo: es posible hacer buena ciencia de irregularidades, y existe, mucho mejor todavía, un cierto ecosistema de ciencias, teorías y saberes de irregularidades: ciertamente marginales o alternativos, cuando se los mira con las luces de la ciencia normal (mainstream). La historia de la ciencia no es jamás la historia de acuerdos, pactos, convenios y tratados. Muy por el contrario, es la historia de debates, críticas, luchas, desacuerdos y disputas; argumentales y de demostraciones, eso sí.</p>
+         <p>Algunos de los componentes de una ecología de saberes irregulares incluyen el teorema de imposibilidad de Gödel, el cual rompe toda la tradición que cree en, y afirma, la importancia de tautologías; en otras palabras, quiebra la idea de la existencia de un sistema deductivo (las matemáticas) completo y consistente. Asimismo, cabe incluir el teorema de imposibilidad de Arrow, que tiene serias implicaciones en economía y ciencia política, incluso en medio de las debates entre Arrow y A. Sen; el estudio en general del colapso (J. Diamond) y de las sociedades y formas sociales que han fracasado (P. Ormerod); las cosmologías (que rivalizan con el modelo estándar, la teoría inflacionaria del big-bang), entre las cuales la cosmología cuántica tiene alta plausibilidad; algunas de las lógicas no-clásicas, como la lógica erotética (lógica de la pregunta) que muestra que a una respuesta es perfectamente legítimo responder con otra pregunta, en fin, incluso ese programa abierto que es la exobiología, una derivación importante de los programas SETI (Search for Extreterrestrial Intelligence) y la búsqueda de exoplanetas.</p>
+         <p>En todos y cada uno de los casos, se trata de investigar en términos de excepciones; es decir, de fenómenos no generalizables, irregularidades y eventos raros. Un nuevo y sugestivo panorama emerge ante la mirada sensible. Por decir lo menos, las ciencias sociales irregulares están en buena compañía, un reconocimiento importante en tiempos y espacios en los que el llamado a comprensiones cada vez más inter, trans, y multidisciplinarias va siendo mayor y con voz más fuerte.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusiones abiertas</title>
+         <p>En contextos de crisis sistémicas y sistemáticas, la ciencia generalista es inocua y peligrosa. Las ciencias sociales y humanas no tienen por qué ajustarse, ni reducirse a, los esquemas lógicos, metodológicos y epistemológicos sembrados por Platón y Aristóteles por la ciencia moderna. Más exactamente, las ciencias sociales pueden y deben cambiar. El camino que se abre ante ellas es la irregularidad: “El mundo cambió, por definición, de manera impredecible. Y ulteriormente todo el ecosistema del conocimiento se transformó, modificando ulteriormente la forma como la sociedad se ve a sí misma y se hace posible a sí misma” (Maldonado 2019:120).</p>
+         <p>Los sistemas sociales humanos son casos particulares de los sistemas vivos. Esta idea, antes que una inclinación a caer (¿nuevamente?) en el biologismo, significa que existen más semejanzas que diferencias entre la biología en sentido amplio, y concomitantemente, por tanto, también la ecología y las ciencias sociales y humanas. La condición para entender esta idea es poner sobre la mesa los cuatro rasgos más distintivos de la biología hoy: (a) el enfoque evo-devo-eco (esto es, la confluencia o integración entre evolución, desarrollo y ecología), (b) la biología de sistemas (y por tanto toda la importancia de las llamadas “ómicas”, que implican el estudio de redes e interacciones (glucómica, metabolómica, genómica, y otras), (c) la epigenética (cuyo mérito principal es el de poner de manifiesto que no existen dos cosas: naturaleza y cultura, sino una sola) y, (d) el descubrimiento reciente del cerebro entérico (es decir, que existen dos cerebros: el sistema encefálico y el sistema nervioso entérico o mesentérico que se encuentra en los intestinos con aproximadamente el mismo número de neuronas). Aquí, por razones de espacio tan sólo puede quedar señalada esta idea.</p>
+         <p>En la vastedad del universo, ningún fenómeno más impredecible e imposible que la vida, esto es, los sistemas vivos. Al universo le costó dos terceras partes de su historia (hasta donde sabemos) para ver el surgimiento de la vida, hace alrededor de 3.800 millones de años. Los sistemas vivos cumplen una función única y determinante, a saber: reducir la entropía y mantener baja la entropía. Solo así se hacen posibles a sí mismos. Y la forma como lo hacen consiste en la introducción incesante de asimetrías, discontinuidades y rupturas en el mundo; que es la forma técnica para hablar de creatividad, innovación, adaptación, aprendizaje y cambio. La idea no es difícil: a fin de permanecer, la mejor estrategia es el cambio. Y este sucede en todas las escalas de tiempo y sin ciclos ni regularidades. Una doble conclusión que debe quedar aquí, provisoriamente, abierta.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Maldonado, C.(2019). "Tres razones de la metamorfosis de las ciencias sociales en el siglo XXI".
+               <italic>Cinta de Moebio.</italic>
+               (64), 114-122. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2019000100114">https://doi.org/10.4067/S0717-554X2019000100114</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Maldonado</surname>
+                     <given-names>C.E.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Tres razones de la metamorfosis de las ciencias sociales en el siglo XXI</article-title>
+               <source>Cinta de Moebio</source>
+               <volume />
+               <issue>64</issue>
+               <fpage>114</fpage>
+               <lpage>122</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4067/S0717-554X2019000100114">https://doi.org/10.4067/S0717-554X2019000100114"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Mandelbrot, B.,  (2004).
+               <italic>Fractals and chaos. The Mandelbrot set and beyond</italic>
+               . : Springer Verlag
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mandelbrot</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Fractals and chaos. The Mandelbrot set and beyond</source>
+               <publisher-name>Springer Verlag</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Mandelbrot, B.,  (2014).
+               <italic>El fractalista. Memorias de un científico inconformista</italic>
+               . : Tusquets
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mandelbrot</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <source>El fractalista. Memorias de un científico inconformista</source>
+               <publisher-name>Tusquets</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article 
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+<journal-title-group>
+<journal-title>Cinta de moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">00010</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Artículos</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Intuición, racionalidad y confiabilidad</article-title>
+<trans-title-group xml:lang="en">
+	<trans-title>Intuition, rationality and reliability</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Miranda-Rojas</surname>
+<given-names>Rafael</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label>
+<institution content-type="original">Chile. Universidad Católica del Maule, Facultad de Ciencias Religiosas y Filosóficas  Correo electrónico: rafaelmirandarojas@gmail.com</institution>
+<institution content-type="normalized">Universidad Católica del Maule</institution>
+<institution content-type="orgname">Universidad Católica del Maule</institution>
+<country country="CL">Chile</country>
+<email>rafaelmirandarojas@gmail.com</email>
+</aff>
+<pub-date pub-type="epub">
+<season>Apr-Sep</season>
+<year>2018</year>
+</pub-date>
+<issue>62</issue>
+<fpage>261</fpage>
+<lpage>273</lpage>
+<history>
+<date date-type="received">
+<day>28</day>
+<month>04</month>
+<year>2018</year>
+</date>
+<date date-type="accepted">
+<day>16</day>
+<month>06</month>
+<year>2018</year>
+</date>
+</history>
+<permissions>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Resumen:</title>
+<p>El objetivo de este escrito es discutir el rol y validez de las intuiciones en el ámbito epistémico, en particular el rol de las denominadas intuiciones racionales y su característica de acceso a priori a ciertos ítems o de conocimiento o de creencia. Se analizará el supuesto de centralidad de las intuiciones en la argumentación filosófica. Este supuesto otorga un rol evidencial a una intuición I que un sujeto S tiene respecto a una proposición P. En otras palabras, dicha intuición sería un proceso confiable para acceder al valor de verdad de dicha proposición, cumplir el rol de conductora de verdad. El criterio de conductora de verdad es asociado generalmente o una creencia o a un ítem de conocimiento, y el afirmar que una intuición es confiable implica que es una vía de acceso al valor de verdad de cierto ítem de conocimiento o de creencia. Siguiendo a Cappelen, en este escrito afirmo que el supuesto de centralidad es errado, en primer lugar, porque una intuición racional no tiene por objetivo fundamentar, justificar o evidenciar la verdad o falsedad de una creencia o conocimiento, sino más bien cumplir un rol propedéutico y transmisor previo a la determinación de ese valor de verdad. Hay, por tanto, un criterio de dispensabilidad en el rol epistémico que le compete a una intuición y un rol de falseador epistémico indirecto vía descarte de hipótesis.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+	<title>Abstract</title>
+	<p>The aim of this paper is to discuss the role and validity of intuitions in the epistemic field, in particular the role of so-called rational intuitions and their characteristic of access to certain items of a priori knowledge or belief. The assumption of centrality of intuitions in philosophical argumentation will be analyzed. This assumption gives an evidential role to an intuition I that a subject S has regarding a proposition P. In other words, this intuition would be a reliable process to access the truth value of such a proposition, fulfilling the role of conductor of truth. The truth-conduciveness criterion is usually associated either with a belief or with an item of knowledge, and affirming that an intuition is reliable implies that it is a way of accessing the truth value of a certain item of knowledge or belief. Following Cappelen, here I affirm that the assumption of centrality is wrong, firstly because a rational intuition is not intended to ground, justify or evidence the truth or falsity of a belief or knowledge, but rather to fulfill a propaedeutic role and transmitter role before the determination of that truth value. There is, therefore, a criterion of dispensability in the epistemic role that corresponds to an intuition and an indirect epistemic defeater role via discarding hypotheses.</p>
+</trans-abstract>
+<kwd-group xml:lang="es">
+<title>Palabras clave:</title>
+<kwd>intuición</kwd>
+<kwd>racionalismo</kwd>
+<kwd>confiabilidad</kwd>
+<kwd>a priori</kwd>
+<kwd>evidencia</kwd>
+</kwd-group>
+<kwd-group xml:lang="es">
+<title>Keywords:</title>
+<kwd>instituton</kwd>
+<kwd>rationalism</kwd>
+<kwd>reliability</kwd>
+<kwd>a priori</kwd>
+<kwd>evidence</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="17"/>
+<page-count count="13"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introducción</title>
+<p>¿Cuál es el rol de una intuición en el ámbito epistémico? ¿Hay un estatuto ontológico específico de las denominadas intuiciones racionales? ¿Son las intuiciones un caso válido de acceso epistémico a priori? ¿Pueden estar empíricamente informadas, constituyendo de este modo un caso de racionalismo naturalista? ¿Es el supuesto de centralidad (centrality assumption) asociado a las intuiciones, correcto? Si no ¿no hay ningún rol epistémico relevante que cumplan las intuiciones? En este escrito, se analizará una estrategia propedéutica que permita relevar las intuiciones, evitando de este modo los problemas asociados al rol justificatorio y evidencial de una intuición. Esto quiere decir que el acceso a priori posibilista de una intuición I no tiene por objetivo afirmar si una proposición P es intuitivamente verdadera, o falsa, sino más bien establecer (vía casos hipotéticos) la plausibilidad teórico/práctica de las alternativas evaluadas de modo a priori. Si esto es correcto, es viable sostener un racionalismo moderado empíricamente informado, pues el nexo a priori–a posteriori permite establecer la validez de ciertos enunciados modales evaluables empíricamente. Por lo mismo, permite distinguir las denominadas ilusiones modales (modal illusions) de enunciados necesarios a posteriori (necessary a posteriori propositions). En efecto, el análisis de situaciones contrafácticas vía experimentos mentales (thought experiments) es uno de los principales escenarios pro relevancia de ciertas intuiciones en el ámbito filosófico. </p><p>En este punto consideraré la propuesta pro centralidad desarrollada por Wang, en vistas a dilucidar si hay alguna interpretación del supuesto de centralidad que exige una propuesta epistémica distinta de la enunciada. El racionalismo moderado propuesto pudiese entenderse como un caso de teoría basada en la intuición (intuition based theory), pero guardando la distinción de roles enunciada. Un objetivo subsidiario de este escrito es evaluar si el supuesto de centralidad propuesto por la denominada filosofía experimental presenta un problema de petición de principio: criticar el rol metodológico de ciertas suposiciones, pero a su vez establecer supuestos no empíricamente verificables que permitan derrotar (defeat) una propuesta a priorista extrema. Si el criterio de centralidad cumple el rol de premisa implícita contra un racionalismo extremo, entonces la crítica anteriormente enunciada es correcta.</p>
+</sec>
+<sec>
+<title>El supuesto de centralidad reconsiderado</title>
+<p>Desde que Saul Kripke planteara, en el contexto de la distinción entre propiedades necesarias y contingentes, la posibilidad intuitiva de que Nixon hubiese perdido la elección presidencial, una pregunta respecto al rol de la intuición en dicha afirmación quedó sin responder. Líneas antes de asignar el rol de evidencia a ciertas posturas intuitivas, Kripke colocaba en la balanza al hombre intuitivo versus el hombre no intuitivo (unintuitive man), siendo el hombre intuitivo el hombre común (ordinary man) y el no intuitivo, el filósofo. Con estas analogías Kripke anticipaba la relevancia que ciertas intuiciones podían tener en el ámbito filosófico, a la vez que exigía como desiderátum las mismas se acercasen al hombre común: no entender de entrada que la experticia era el lugar de una intuición racional, una intuición fundada en razones. Al respecto, sostiene: “Of course, some philosophers think that something’s having intuitive content is very inconclusive evidence in favor of it. I think it is very heavy evidence in favor of anything, myself. I really don’t know, in a way, what more conclusive evidence one can have about anything, ultimately speaking” (Kripke 1980:42).</p><p>Pero, al mismo tiempo, como se observa en la cita precedente, Kripke otorgaba un rol evidencial, casi infalible (“what more conclusive evidence one can have about anything”), a afirmaciones o posturas intuitivas. Esta fue una afirmación arriesgada. Lo fue, pues implicaba un sesgo (bias) a priorista respecto a que ciertas vías de conocimiento serían en algún sentido más conclusivas, y porque a la vez que se sostenía esa relevancia del acceso a priori, se asumía que dicho acceso era la vía a enunciados necesarios. Luego, por supuesto, esto se matizó con la defensa de enunciados necesarios a posteriori, empíricamente informados y la puerta a vías de acceso y justificación híbrida. </p><p>Dicho lo anterior, subyacen diversas preguntas respecto al rol de la intuición en el ámbito epistémico y filosófico, entre ellas: ¿Qué quiere decir que un sujeto S conozca o crea vía intuición? ¿Es racional que un sujeto S crea P fundado en intuiciones? ¿Qué ocurre si esa creencia intuitiva no es solo teórica, sino que influye en ciertas decisiones prácticas (decision making process) que ese sujeto S toma? </p><p>Que S intuya P implica, generalmente, que S aprehende de modo inmediato (immediate apprehension) la verdad de P, y que la verdad de P es comprendida intelectualmente, racionalmente: que una intuición es por lo tanto un parecer intelectual (intellectual seemings). Siguiendo a Stratton-Lake, que una intuición se comprenda como un parecer establece una analogía con un parecer perceptual (perceptual seeming), lo que en principio no exige que el valor de verdad de P se funde en dicho parecer. Es precisamente esta analogía la que motiva que inter alia Wang defienda la plausibilidad del denominado supuesto de centralidad. </p><p>Mi objetivo aquí es cuestionar que ello sea necesario, aceptar el supuesto en orden a defender la relevancia epistémica de una intuición. A diferencia de las apariencias perceptuales, el objeto directo de una intuición parece ser el valor de verdad de cierta proposición. La analogía reside, entonces, en el criterio de que cierto evento parezca ser de ese modo: “things appear to be that way” (Wang 2016:295). Si ello es un proceso epistémicamente confiable, depende entre otros aspectos de la probabilidad de error asociado a las creencias que son resultado de este proceso. </p><p>Al respecto afirma Stratton-Lake: “Intellectual seemings are the intellectual analogue of perceptual seemings. Just as certain things can seem perceptually to be a certain way, e.g., coloured, or straight, so certain propositions can seem to be true, or present themselves to the mind as true. These seemings are not beliefs, for something can seem true even though one does not believe it, e.g., it may seem true that there are more natural numbers than even numbers, but we know that is false, so do not believe it” (Stratton-Lake 2017:3).</p><p>En efecto, hay ciertas relaciones entre las creencias parecer verdadero y ser verdadero que es importante precisar. La relación enunciada en la cita establece que: </p><p>i) P parece verdadero (seems true) – S no cree p, pues S conoce que P es falso.</p><p>El ejemplo de los números naturales y pares es ejemplificador sobre este punto, pues conduce a evaluar a priori la plausibilidad y confiabilidad de cierta afirmación que prima facie parece verdadera. Ello quiere decir que si</p><p>ii) P parece verdadero – S cree P, pues S conoce que P es verdadero. </p><p>Ello no redunda en sostener que</p><p>iii) S conoce que P es verdadero porque P parece verdadero. </p><p>En otras palabras, no es a través de la intuición que se justifica en última instancia la verdad de cierto enunciado, por lo tanto, el nexo causal entre que P parezca verdadero y que P sea verdadero no es un caso de infalibilidad. Si lo anterior es correcto, se evita comprender una intuición como un caso de premisa implícita o escondida (hidden premise) de un argumento A, pues la conclusión de A no se funda en el seems true criterion. La consecuencia es que una intuición se comprende como no factiva (non factive): “an intuition that p in this sense does not entail that p” (Stratton-Lake 2017:4).</p><p>En esta misma línea, Wang ha profundizado en la validez epistémica del denominado supuesto de centralidad de las intuiciones en el ámbito filosófico, particularmente en la discusión contemporánea de la filosofía analítica. Este supuesto, analizado en detalle previamente por Cappelen, sostiene que la argumentación filosófica se basa de un modo discutible en intuiciones a priori no evaluables empíricamente. Peor aún, este supuesto sostiene que las intuiciones son evidencia de cierta tesis T o argumentación A en el ámbito filosófico. Una manera indirecta de validar empíricamente este supuesto de centralidad ha sido la desarrollada por Machery et al. a partir de la noción de variación inter cultural de intuiciones (cross cultural variation): </p><p>iv) Si las intuiciones varían, entonces no es correcto confiar en ellas como evidencia de cierta tesis T o argumento A. </p><p>Bastante discusión ha existido durante los últimos cinco años respecto a este tópico, y en alguna medida un supuesto paralelo de la misma ha sido que </p><p>v) el único modo de que una intuición sea confiable, racional, y relevante en filosofía, es que cumpla un rol evidencial o de justificador de alguna creencia o conocimiento. </p><p>Mi propósito aquí es someter a crítica este supuesto derivado del supuesto de centralidad: </p><p>vi) que una intuición solo puede ser epistémicamente confiable si cumple un rol evidencial. </p><p>Ya en el año 2002, Williamson proponía una estrecha relación entre evidencia y conocimiento, la denominada E = K teoría. La propuesta de identificación entre evidencia (E) y conocimiento (K) no se aplicaba solamente al mundo actual, sino que a cualquier situación contrafáctica: “equates S’s evidence with S’s knowledge, for every individual or community S in any possible situation” (Williamson 2007:185). Esta postura supone una lectura restrictiva evidencial, tal que el paradigma de la misma sea la evidencia empírica. Si ese es el caso, una intuición se aleja al menos directamente del paradigma por su carácter de acceso a priori. </p><p>Cappelen propuso, respecto a este supuesto, dos argumentos iniciales que una postura experimentalista parece considerar al momento de atribuir centralidad a una intuición racional: The Argument from ‘Intuition’-Talk y The Argument from Philosophical Practice. El primer argumento plantea el uso ubicuo del término intuitivamente en orden a otorgar validez a cierta postura, lo que Wang denomina loose sense. Por ejemplo, como dice Pust, intuitivamente torturar un ser sintiente por diversión es errado. Un ejemplo reciente y no meramente teórico la otorga Nandini en una entrevista realizada al científico Lori Marino respecto a la investigación invasiva en animales: “I was doing invasive work with rats and I realized that I could not continue doing so. It gave me nightmares because I just inherently knew it was wrong” <xref ref-type="bibr" rid="B11">Nandini (2018</xref>:2). </p><p>Este saber inherentemente que algo es errado ¿cómo es conocido? Ulteriormente, Marino otorga directrices que permiten comprender la justificación contrafáctica de una decisión respecto a si realizar ese tipo de investigación o no: “you have to find a way to do what you do and convince yourself that it’s justified. So the stories you tell yourself are things like: I’m doing this to help people, to cure some horrible disease. I am treating this animal humanely and according to all of the rules specified” (Nandini 2018:3). En casos como éste, la plausibilidad de cierta postura no descansa en la apelación a dicha intuición de que torturar a un ser sintiente es errado, y ese es probablemente el primer error de interpretación de enunciados como el anterior. </p><p>El segundo argumento, en palabras de Cappelen, consiste en que “a proponent of Centrality first specifies a set of features she thinks intuitive judgments have, say F1, . . .Fn, and then tries to show that the judgments philosophers rely on at central points in their arguments have F1, . . . , Fn . This kind of argument need not rely on how philosophers use ‘intuition’-terminology. The focus, instead, is on features of how we do philosophy -on the practice of arguing for philosophical views” (Cappelen 2012:6).</p><p>Hay otra arista implícita en el término “intuición” que es objeto de discusión: el carácter de proposición auto evidente (self evident) y necesariamente verdadera (necessarily true), si es el caso que es intuida como verdadera: el denominado criterio de parecer verdadero (seems true criteria). Una manera directa de evaluar si el acceso al valor de verdad de una proposición p, que S afirma, es preguntar al sujeto S cómo sabe o cree lo que dice conocer o creer. ¿Cómo conoce S que v.gr. torturar a un ser sintiente por diversión es errado? ¿Es su fundamentación última la mera intuición o la aplicación del criterio seems true? Si ese es el caso, ¿lo es debido a que la proposición se comprende como autoevidente (self evident) y, por lo tanto, aprehensible directamente e incluso a priori? </p><p>Sobre este punto, Koksvik analiza el rol fenomenológico de que un sujeto S tenga una intuición I. El autor comprende la intuición como un estado mental sui generis del que se derivan ciertas consecuencias teóricas y prácticas. En este sentido, S puede intuir tanto la corrección de ciertas intuiciones, como la falsedad o sin sentido de otras. Por ejemplo, es falso que S puede intuir que hay dos y cuatro personas dentro de una sala, si es el caso que es lógica y metafísicamente imposible. Del mismo modo, Rutledge explicita que una eventual consecuencia del rechazo de tesis morales intuitivamente correctas es la denominada parálisis moral (moral paralysis). Esta parálisis sería el resultado del escepticismo teísta (skeptical theism) discutido por el autor, en tanto las razones deliberativas para realizar A o B cumplirían el criterio de all things considered (todas las cosas consideradas): “if we accept the truth of ST, then the evidential weight of our intuitive judgments concerning the value of a given state of affairs amounts to precisely zero. As a result, anytime we deliberate about what to do or what to believe on the basis of our intuitions of value, then we are forced to shelve those intuitions. In such a scenario, they cannot inform us of what is most likely to occur or what will result in the greatest overall value; consequently, we won’t be able to complete the deliberative process” (Rutledge 2017:270).</p><p>Un caso de evaluación moral como el ejemplo dado parecería no requerir de evaluación empírica para determinar su corrección o incorrección: no sería necesario evaluar caso a caso si es correcto o no torturar o no a un ser sintiente por diversión. Y si ese fuese el caso, la situación contrafáctica evaluada parecería tener al menos un rol evidencial indirecto: dicho experimento mental (thought experiment) permitiría evaluar si la proposición p es intuitivamente verdadera, o intuitivamente falsa. Esto tiene diversas implicancias epistémicas y metafísicas. Por ejemplo, debería conllevar a la tesis de que una situación contrafáctica permite establecer un evento como hacedor de verdad (truth maker), del que la proposición p sería un portador de verdad (truth bearer). En esta línea, recientemente Efferson y Fehr han analizado la incidencia de códigos morales básicos que fundamentan la relevancia de la cooperación en la evolución de dichos códigos. El nexo con el rol de una intuición en el ámbito epistémico reside en que, a partir de análisis contrafáctico vía modelamiento computarizado (computer-based modelling analyses) se logra determinar la relevancia de la cooperación en un grupo de individuos. Según los autores: “Cooperation can be defined as a behaviour that is costly to the individual providing help, but which provides a greater overall societal benefit. For example, if Angela has a sandwich that is of greater value to Emmanuel than to her, Angela can increase total societal welfare by giving her sandwich to Emmanuel. This requires sacrifice on her part if she likes sandwiches. Reciprocity offers a way for benefactors to avoid helping uncooperative individuals in such situations” (Efferson y Fehr 2018:1).</p><p>De este modo, el proceso de decisión de una acción (decision making process) en el que participa una intuición vía ejemplificador contrafáctico permite apreciar la relevancia de evaluaciones morales conceptualmente fundadas, no necesariamente empíricamente evaluables en primera instancia (en el proceso de decisión analizado). Esta aplicación de casos hipotéticos se enmarca en el denominado método de casos (method of cases), el que pretende evaluar la centralidad epistémica de una intuición I, si y solo si una teoría T predice I. Por ejemplo, en una entrevista realizada a Amos Oz, se enuncia un análisis condicional con implicancias fácticas y éticas: "What would you do if your neighbor across the street sits down on the balcony, puts his little boy on his lap, and starts shooting machine-gun fire into your nursery? What would you do if your neighbor across the street digs a tunnel from his nursery to your nursery in order to blow up your home or in order to kidnap your family?" (Gouverich 2014:3).</p><p>Estas preguntas contrafácticas (y metafóricas) tienen por objetivo evaluar las intuiciones del sujeto S al que se le dirigen estas preguntas, y evaluar qué vía de acción es aceptable, o no. Otra razón por lo que parece implausible sostener el supuesto de centralidad es que parecería exigir necesidad de aprehensión de cierta proposición p vía intuición. Esto conduciría a sostener que </p><p>vii) S cree p si y solo si S intuye p. </p><p>Lo que en diversas situaciones (como creencias perceptuales) no es el caso. Si, en orden a defender la necesidad y centralidad de la intuición, se restringe a proposiciones verdaderas autoevidentes (self evident), el punto permanece, pues supondría que la justificación de verdades necesarias (leyes lógicas, proposiciones matemáticas) estén justificadas vía intuición. De allí que en lugar del supuesto de centralidad parece correcto sostener el criterio de dispensabilidad:</p><p>S puede creer p, independiente de si p es aprehendido vía intuición. </p><p>En palabras de Stratton-Lake, “intuition is a way in which we are aware of self-evident propositions, whereas self-evident propositions are the things that can be known in this way. Such propositions could…be believed without an intuition of them” (Stratton-Lake 2017:6). Por contraparte, siguiendo a Wang podría sostenerse el siguiente nexo creencia - intuición - evidencia: “one can only use the contents of one’s beliefs as evidence, for, plausibly, if one does not believe x then one is not treating it as a piece of knowledge” (Wang 2016:285).</p>
+</sec>
+<sec>
+<title>Confiabilidad, desacuerdo y variabilidad intuicional</title>
+<p>La confiabilidad evidencial que implica el supuesto de centralidad conduce al problema de la variabilidad de intuiciones entre distintas culturas (cross cultural variation) y, por ende, al denominado problema del desacuerdo (disagreement): el desacuerdo de diversas intuiciones derivaría en la tesis de que las intuiciones no pueden ser una vía de acceso confiable a cierta creencia o conocimiento. Williamson denomina a este el argumento de la no neutralidad (argument from non-neutrality): “Whether a proposition constitutes evidence is in principle uncontentiously decidable, in the sense that a community of inquirers can always in principle achieve common knowledge as to whether any given proposition constitutes evidence for the inquiry. . . in a debate over a hypothesis h, proponents and opponents of h should be able to agree whether some claim p constitutes evidence without first having to settle their differences over h itself” (Williamson 2007:210).</p><p>Las intuiciones no cumplirían el criterio de no neutralidad, pues asumirían la falsedad de cierta tesis T que se oponga a la que prima facie es intuida. En este sentido, el desiderátum de neutralidad parecería implicar el criterio de universalidad:</p><p>viii) I es evidencia de T si y solo si es imposible que S1 y S2 difieran respecto a I. </p><p>Este punto parece asumir, de modo similar, que no podría haber desacuerdo en diversos casos intuitivos. Pero, el argumento prosigue, hay desacuerdo y, por ende, se descarta neutralidad. Sin embargo, si se considera el caso análogo de la percepción, es importante tener claro que la neutralidad exigida (por analogía a una intuición I) no se funda en la neutralidad de los datos sensoriales, sino en que el acceso de S1 y S2 es neutral respecto a esos sense data, los datos sensoriales respecto a dos hipótesis opuestas H1 y H2. Si S1 afirma que una muralla está pintada de color negro, y S2 afirma que la misma muralla está pintada de color blanca, no será neutral la información que entreguen los datos sensoriales vía percepción. Wang entiende la neutralidad de la evidencia del siguiente modo, considerando el caso paradigmático del descriptivismo vs teoría causal en filosofía del lenguaje: “According to Evidence Neutrality, one cannot reject the descriptivist theory by putting forward evidence which presupposes the truth of the causal theory, for in that case the descriptivist will never, even in principle, accept that piece of evidence” (Wang 2016:287).</p><p>El punto central no es qué evidencia acepta cierta postura teórica, sino más bien qué evidencia se determina como verdadera, independiente de la postura teórica que se defienda. Tomando el caso analizado por Wang, no se trata de que una postura pueda elegir entre aceptar o no cierta evidencia: la neutralidad de la evidencia reside precisamente en que no se asume una dependencia entre evidencia - postura teórica específica. Discutir si este supuesto de neutralidad es correcto va más allá de lo que pretende abordar este escrito, pero por supuesto debe quedar planteada la pregunta de si es correcto asumir que una evidencia E es neutral en este sentido. Suponer otra cosa en el ámbito intuicional es suponer introspección. Siguiendo a Becker, el criterio de confiabilidad exigido a una intuición I en el ámbito epistémico exige el descarte de conocimiento por azar, el denominado criterio anti luck. La confiabilidad asignada a I descansa en que el proceso sea confiable (reliable process), y el cuestionamiento de fondo al rol epistémico de I es precisamente si I es confiable en este sentido, si permite acceder a cierto ítem de creencia o conocimiento con una probabilidad mayor a 0.5. Al mismo tiempo, se cuestiona si I cumple con el criterio denominado proper function: si hay un proceso confiable que permita afirmar que I es una vía de justificación y/o conocimiento. La estrategia anti luck desarrollada por ejemplo por Goldman enfatiza la idea del proceso apropiado como criterio diferenciador entre conocimiento y mera creencia. No obstante, el punto central del debate anti luck á la Gettier asume dos puntos: </p><p>ix) Que una creencia C no está justificada si dicha justificación es mera coincidencia evidencial, si hay una correlación no causal entre C y el conocimiento que se funda en C.</p><p>x) Que la evidencia coincide y que, por lo tanto, lo que justifica la creencia C es la evidencia empíricamente evaluable. </p><p>Debido a que una intuición I puede conducir a errores de juicio o de justificación, se asume el problema de la intuición es que no puede constituir un proceso apropiado o confiable para acceder a cierto conocimiento. Goldman observa un punto cercano al enfatizar la analogía con casos de conocimiento perceptual: “S has perceptual knowledge if and only if not only does his perceptual mechanism produce true belief, but there are no relevant counterfactual situations in which the same belief would be produced via an equivalent percept and in which the belief would be false” (Goldman 1976:786). </p><p>En casos de este tipo, se observa cómo el rol de ejemplificador contrafáctico intuitivo cumple el rol de servir como criterio para determinar si una creencia perceptual es o no un proceso confiable de conocimiento. El ejemplo desarrollado por Goldman muestra cómo una creencia perceptual puede ser evaluada por vías a priori, como lo es el caso de situaciones contrafácticas no actuales, meramente posibles. Sobre este punto sostiene Chudnoff: “Suppose you believe that p because it perceptually seems to you that p. This transition from perception to belief is not merely causal since it can make the belief rational” (Chudnoff 2014:20). Este tipo de nexo no meramente causal, sino que también racional, es lo que permite determinar que cierta intuición I cumpla el rol de guía de una acción A (guide action role). De ello podría colegirse que toda acción fundada en I sea racional, pero ello supera el alcance de afirmar que una intuición guíe cierta acción. Del mismo modo, el rol ejemplificador contrafáctico supone la validez del análisis conceptual a priori desarrollado vía intuición, cuyos casos paradigmáticos son los experimentos mentales, sobre los que recientemente Hendricks ha difundido un listado de siete casos que tienen entre sus aristas centrales la relevancia en el proceso de toma de decisiones. Entre estos experimentos mentales destacan el velo de ignorancia (veil of Ignorance); el asno de Buridan (Buridan´s ass) y el violinista de Thompson (Thompson´s violinist).</p>
+</sec>
+<sec>
+<title>Seems true - seems wrong. Errores epistémicos y el rol racional de una intuición como defeater epistémico indirecto</title>
+<p>Harper profundiza esta arista epistémica de una intuición, enfatizando cómo ella explica incluso los errores intuitivos en tanto un caso de análisis conceptual: “Upon discovery of a counterexample, this structure aids the search for a replacement hypothesis. The search is guided by heuristics. The heuristics of conceptual analysis are similar to those in other interesting areas of scholarship, and so hypotheses generated by it are of the right form to be applicable to diverse areas” (Harper 2012:235).</p><p>Efectivamente, el proceso de refutación de hipótesis vía contraejemplos permite afirmar que el análisis conceptual no descarta el análisis de casos, aun cuando sean hipotéticos. Para Harper, un caso paradigmático que evidencia cómo ciertas intuiciones permiten un progreso epistémico lo constituye el análisis desarrollado por Gettier y el contraste de ítems que intuitivamente parecen ser conocimiento, sin serlo. Las intuiciones pueden por tanto cumplir un rol de defeater epistémico indirecto, si es el caso que estas intuiciones otorgan razones para considerar cierta hipótesis como errada o al menos no confiable. El ejemplo de Smith desarrollado por Gettier sienta las bases de cómo un conocimiento perceptual y por lo tanto empírico puede ser analizado vía conceptual, lo que establece un nexo a priori - a posteriori relevante. El análisis conceptual, además, cumple un rol heurístico, que Harper analoga con la propuesta desarrollada por Lakatos en el ámbito de las matemáticas vía refutación - prueba. Este rol heurístico requiere como condición necesaria que se comprendan los conceptos involucrados en cierto ítem de creencia o conocimiento. Por ejemplo, recientemente sostiene Russell (identificando justificación a priori - intuición): “What is your justification in believing that 2 + 2 = 4? You are justified because you understand the concepts involved. You understand what all the terms in that simple sum mean and that, as a result, the sum of two and two is four. Philosophers call that sort of justification a priori justification, and describe it as justification independent of experience” (Russell 2018:1).</p><p>El proceso de comprensión (understanding), de acuerdo con la lectura racionalista estándar, es condición necesaria y suficiente para que cierta proposición p que S intuye, sea verdadera a partir del criterio seems true. En efecto, paralelo al criterio seems true asociado a ciertas intuiciones es viable ubicar un criterio opuesto, seems wrong, que es el que direcciona intuiciones como las morales en casos como el enunciado respecto a la tortura. Casos como el trolley problem han sido analizados recientemente a través de una serie de televisión titulada The Good Place, acercando de este modo los debates en torno a lo intuitivamente admisible, centrado en este caso en intuiciones éticas. Russell establece una relación inferencial entre tener cierta intuición I (no inferencial) y creer y/o actuar de cierto modo. En orden a defender este nexo, Russell demanda un rol justificador de I: “So fundamental moral principles and theories can receive justification, and be refuted, through a priori means. Because our moral reasoning in everyday situations always involves at least implicit appeal to fundamental moral principles, and the justification of those fundamental moral principles is a priori, the justification of all of our moral beliefs rests partly on A PRIORI justification” (Russell 2018:2).</p><p>En la misma línea, Chudnoff sostiene que, si bien el rol racional de una intuición I permite fundamentar ciertas inferencias, estas no son a su vez condición suficiente para que una intuición se entienda como racional. En otras palabras, la participación de cierta intuición I en un proceso inferencial no constituye aquello que permite fundamentar la racionalidad de dicha intuición I. Para Chudnoff, no obstante, el rol racional de una intuición es el rol justificatorio de la misma, y es esto lo que establece nexos inferenciales que eventualmente guían cierta acción (o el no realizarla) de un sujeto S. En efecto, hacia el final de su escrito, Chudnoff explicita que exigir justificación de una acción vía intuicional parece oponerse al criterio de dispensabilidad de la misma: “one might concede that intuitions are dispensable as guides to action” (Chudnoff 2014:29).</p><p>¿Se colige que guiar una acción o ejemplificar contrafácticamente las consecuencias de la misma son vías justificatorias a priori? No, principalmente porque entender de ese modo estos roles derivaría una vez más en afirmar un rol evidencial de una intuición. Por supuesto, este es el punto que una postura experimental rechaza, pues apunta a intuiciones que no requieren información empírica para ser comprendidas como verdaderas, su validez es exclusivamente a priori. En efecto, esta postura racionalista no moderada vulnera ciertos aspectos fundamentales de validez epistémica a favor de un nexo a priori – a posteriori no exclusivo ni excluyente, como el sostener que “Red is a colour” es un caso de información netamente apriorística, sin considerar la relevancia de la información perceptual que permite afirmar el valor de verdad de esa proposición, y de sus casos: “If a proposition seems true to you simply on the basis of your understanding of it, and not on the basis of empirical evidence, testimony, memory or reasoning, then you are having an intuition in a philosophical sense that it is true. ‘Red is a colour’ seems true to you solely on the basis of your understanding that proposition. That seeming true is a philosophical intuition, and it is what justifies you in believing that red is a colour. Many, but not all, philosophers hold that A PRIORI justification is based on philosophical intuitions” (Russell 2018:4).</p><p>Actualmente, parece errado sostener que en orden a que una intuición sea confiable, la misma no considere información empírica, no esté empíricamente informada. Es decir, S puede afirmar conocer que “Esta mesa es roja”, debido a que comprende en primera instancia que “rojo es un color”. Pero ello no conduce necesariamente a que el acceso a priori sea jerárquicamente superior, o incluso temporalmente previo al acceso a posteriori. Hay cierta plausibilidad en sostener que el nexo a priori – a posteriori es sincrónico, sin que ello derive en petición de principio conceptual o afirmar que S no comprende lo que observa perceptualmente si no tiene los conceptos de “rojo” o “color” en este ejemplo. Esta es una arista relevante de una propuesta racionalista moderada: </p><p>xi) Sostener la relevancia del análisis conceptual vía intuición per se, sin que ello derive en descartar la relevancia de cierta información empírica en el proceso de formación de una creencia vía intuicional. </p><p>Este se ha denominado el problema de calibración de una intuición, discutido por Chapman. Del mismo modo, reducir la vía a priori a la mera comprensión conceptual es bastante cercano a conocimiento vía estipulación, una característica central del denominado viejo racionalismo (old rationalism): “The philosophical debate about the possibility of authentic a priori knowledge, that is, non-stipulative, non-trivial knowledge of the way the world necessarily is, obtained sufficiently independently of any and all sense-experiential episodes and/or contingent natural facts, is no less important today than it was when Plato posited in the Meno that we are able to have such knowledge owing to a pre-natal close encounter that our disembodied souls had with the Forms, and when Descartes posited in the Meditations on First Philosophy that such knowledge is infallible because guaranteed by a non-deceiving God” (<xref ref-type="bibr" rid="B3">Chapman et al. 2013</xref>:1).</p><p>¿Qué quiere decir aquí suficientemente independiente (sufficiently independently)? Fundamentalmente, como observa Casullo, que la justificación de cierta creencia o conocimiento no resida en última instancia en la información empírica que participa en el proceso de acceso a dicha creencia o conocimiento. En contraste, el denominado nuevo racionalismo (new rationalism) busca conciliar los aportes relevantes del nexo a priori – a posteriori, sin descartar condiciones necesarias de lo que se entiende por intuición, entre ellas el carácter no inferencial (non-inferential). Como observa Russell, ciertos análisis desde la filosofía experimental comprenden el criterio seems true como equivalente a gut feelling á la Kahneman al sostener que no es viable confiar en un proceso que conduce a errores sistemáticos o preferencias implícitas (biases). Los sesgos o inclinaciones (biases) son comprendidas como errores de juicio (misjudgments) que inciden de modo sistemático e implícito en las opiniones y acciones de un sujeto S. Sobre este ítem, Richardson realiza una síntesis de sesgos, enfatizando su aspecto intuitivamente correcto. Particularmente, el que un sujeto S tenga una intuición I se asocia a los denominados sesgos o inclinaciones cognitivas (cognitive biases), analizadas por Weinberg. De esas inclinaciones, la denominada confirmation bias es la que se acerca mayormente a la crítica experimentalista al rol epistémico de una intuición. La descripción de este sesgo o inclinación es la siguiente: “You favor things that confirm your existing beliefs. We are primed to see and agree with ideas that fit our preconceptions, and to ignore and dismiss information that conflicts with them … it affects so much of our thinking through motivated reasoning. To help counteract its influence we ought to presume ourselves wrong until proven right” (Richardson 2018:2).</p><p>La sugerencia epistémica de presumir error se acerca al analizado criterio seems wrong relacionado con casos intuitivamente incorrectos. Sin embargo, dar este paso metodológico parece exigir una posición escéptica no solo respecto a la intuición que S cree, sino a cualquiera que se siga ulteriormente de la suspensión de juicio (o negación de la creencia previa) propuesta como posible solución. Es, en última instancia, desconfiar de cualquier creencia no confirmada. Gibson ha profundizado en los alcances de estos sesgos a través del libro escrito por Tom Nichols titulado The Death of Expertise: The Campaign Against Expertise and Why It Matters. En efecto, una arista central de la crítica experimentalista a la denominada armchair philosophy es precisamente que el filósofo carecería de un objeto propio de investigación. Por lo tanto, cada vez que se apela a cierta intuición, se estaría cometiendo el denominado Dunning-Kruger Effect: “the less competent people are, the greater the belief they tend to have in their own competence” (Gibson 2018:3). </p><p>El vínculo entre intuición y racionalidad busca descartar que el criterio seems true se entienda como estocásticamente correcto, la principal crítica a los casos tipo Gettier a partir del criterio anti luck. A su vez, siguiendo a Cassam, hay una línea muy delgada entre fundamentar cierta postura a partir de lo que a un sujeto S le parece, y la denominada epistemic insouciance (indiferencia epistémica), cuya principal característica es el no considerar como relevante el valor de verdad de una proposición p afirmada por dicho sujeto S. Más específicamente, el descarte de que la evidencia empírica sea relevante en afirmaciones que implican posturas respecto a la realidad, o que importe fundamentar en base a dichas evidencias alguna creencia C. Al respecto afirma Cassam: “The dictionary defines insouciance as a casual lack of concern. What Trump displayed in his encounter with Trudeau was a casual lack of concern about the facts. His insouciance was what might be called epistemic insouciance. This looks like a straightforward example of an epistemic vice, though not one that until now has been named by philosophers. If recent political events in the U.S and UK are anything to go by it is one of the defining epistemic vices of our age. Epistemic insouciance of the kind displayed by Trump means not caring about whether one’s claims have any basis in reality or any evidential backing. It means being overly casual and nonchalant about the challenge of finding answers to complex questions, partly as a result of a tendency to view such questions as less complex than they really are. Epistemic insouciance means viewing the need to find actual evidence in support of one’s views as a mere inconvenience, as something that is not to be taken too seriously. It is a particular form of not giving a shit” (Cassam 2018:1).</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusión: intuición y el rol de enunciados necesariamente verdaderos</title>
+<p>Finalmente, ¿qué ocurre con los casos de proposiciones necesarias? Como sostienen Chapman et al, una característica central de la defensa pro intuición racional, es que estas parecen ser la vía de aprehensión de ciertos ítems de conocimiento o creencia que no pueden ser adquiridos por vía empírica, cuyo ejemplo paradigmático son las verdades matemáticas y los principios lógicos, inter alia. En efecto, pareciera ser que no es problemático sostener que hay casos de enunciados necesarios a priori, cuyo acceso epistémico es vía intuición. Sin embargo, ello no deriva en sostener que la intuición es la justificación de la verdad de dichos enunciados necesarios (per hipótesis). Siguiendo a Casullo, el rol de la intuición en casos de este tipo es de transmisor de cierto ítem o contenido (de conocimiento o creencia), cuya fundamentación no es la intuición racional per se. El análisis conceptual que fundamenta esas creencias o conocimientos no fundamenta a partir de intuiciones, sino de pruebas o refutaciones establecidas en la disciplina que corresponda. Distinto es sostener que un sujeto S acceda en base a cierto background previo por vía intuitiva a ciertas verdades (matemáticas por ejemplo). A su vez, los casos de enunciados necesarios a posteriori, discutidos extensamente desde la década de 1970 y el trabajo seminal de Kripke, dan cuenta que no es completamente correcto descartar una interrelación entre lo a priori y lo a posteriori, presente del mismo modo en justificaciones híbridas de creencia y/o conocimiento. En casos de enunciados necesarios, el peso de la evidencia empírica y su carácter contingente parece requerir recursos racionales no estrictamente a-empíricos en el ítem de acceso a cierta creencia o conocimiento (la experiencia en un sentido laxo), pero sí en el ítem justificación, al menos parcialmente. Lo analizado en este escrito permite vislumbrar vías híbridas de acceso epistémico que eviten los diversos riesgos de confiabilidad explicitados, permita sostener la relevancia de vías a priori sin que ello exija un descarte de información empírica en la evaluación de dichos ítems de conocimiento, creencia, o toma de decisiones, lo que es parte de un racionalismo naturalista.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>Referencias bibliográficas</title>
+<ref id="B1">
+<mixed-citation>Cappelen, H. (2012). <italic>Philosophy without intuitions</italic>.  Oxford: Oxford University Press</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Cappelen</surname>
+<given-names>H. </given-names>
+</name>
+</person-group>
+<year>2012</year>
+<source>Philosophy without intuitions</source>
+<publisher-name>Oxford University Press</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B2">
+<mixed-citation>Cassam, Q. (2018). <italic>Epistemic insouciance</italic>.  The American Philosophical Association Blog post .  Recuperado de https://blog.apaonline.org/2018/03/23/epistemic-insouciance/</mixed-citation>
+<element-citation publication-type="legal-doc">
+<person-group person-group-type="author">
+<name>
+<surname>Cassam</surname>
+<given-names>Q.</given-names>
+</name>
+</person-group>
+<year>2018</year>
+<source>Epistemic insouciance</source>
+<publisher-name></publisher-name>
+<ext-link ext-link-type="uri" xlink:href="https://blog.apaonline.org/2018/03/23/epistemic-insouciance/">https://blog.apaonline.org/2018/03/23/epistemic-insouciance/</ext-link>
+</element-citation>
+</ref>
+<ref id="B3">
+<mixed-citation>Chapman, A., Ellis, A., Hanna, R., Hildebrand, T., Pickford, H. (2013). <italic>In defence of intuitions: a new rationalist manifesto</italic>.  Palgrave: Macmillan</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Chapman</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Ellis</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Hanna</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Hildebrand</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Pickford</surname>
+<given-names>H.</given-names>
+</name>
+</person-group>
+<year>2013</year>
+<source>In defence of intuitions: a new rationalist manifesto</source>
+<publisher-name>Macmillan</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B4">
+<mixed-citation>Chudnoff, E. (2014). <italic>Intuitions</italic>. En Booth, A., Rowbottom, D (autor.);The rational roles of intuition.  (9-35). Oxford: Oxford University Press</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Chudnoff</surname>
+<given-names>E. </given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>Intuitions</source>
+<chapter-title>The rational roles of intuition</chapter-title>
+<publisher-name>Oxford University Press</publisher-name>
+<fpage>9</fpage>
+<lpage>35</lpage>
+</element-citation>
+</ref>
+<ref id="B5">
+<mixed-citation>Efferson, C., Fehr, E.(2018). "Simple moral code supports cooperation". <italic>Nature.</italic> (555), 169-170. Recuperado de https://doi.org/0.1038/d41586-018-02621-x</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Efferson</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Fehr</surname>
+<given-names>E. </given-names>
+</name>
+</person-group>
+<year>2018</year>
+<article-title>Simple moral code supports cooperation</article-title>
+<source>Nature</source>
+<volume></volume>
+<issue>555</issue>
+<fpage>169</fpage>
+<lpage>170</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/0.1038/d41586-018-02621-x">https://doi.org/0.1038/d41586-018-02621-x</ext-link>
+</element-citation>
+</ref>
+<ref id="B6">
+<mixed-citation>Gibson, L. (2018). <italic>The mirage of knowledge. Tom Nichols dissects the dangerous antipathy to expertise</italic>. Harvard Magazine blog post.  Recuperado de https://www.harvardmagazine.com/2018/03/death-of-expertise-by-tom-nichols</mixed-citation>
+<element-citation publication-type="legal-doc">
+<person-group person-group-type="author">
+<name>
+<surname>Gibson</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>2018</year>
+<source>The mirage of knowledge. Tom Nichols dissects the dangerous antipathy to expertise</source>
+<publisher-name></publisher-name>
+<ext-link ext-link-type="uri" xlink:href="https://www.harvardmagazine.com/2018/03/death-of-expertise-by-tom-nichols">https://www.harvardmagazine.com/2018/03/death-of-expertise-by-tom-nichols</ext-link>
+</element-citation>
+</ref>
+<ref id="B7">
+<mixed-citation>Goldman, A.(1976). "Discrimination and perceptual knowledge". <italic>The Journal of Philosophy. 73</italic>(20), 771-791. Recuperado de https://doi.org/10.2307/2025679</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Goldman</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<year>1976</year>
+<article-title>Discrimination and perceptual knowledge</article-title>
+<source>The Journal of Philosophy</source>
+<volume>73</volume>
+<issue>20</issue>
+<fpage>771</fpage>
+<lpage>791</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2025679">https://doi.org/10.2307/2025679</ext-link>
+</element-citation>
+</ref>
+<ref id="B8">
+<mixed-citation>Gourevitch, P. (2014). <italic>An honest voice in Israel</italic>. The New Yorker blog post.  Recuperado de https://www.newyorker.com/news/news-desk/honest-voice-israel </mixed-citation>
+<element-citation publication-type="legal-doc">
+<person-group person-group-type="author">
+<name>
+<surname>Gourevitch</surname>
+<given-names>P. </given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>An honest voice in Israel</source>
+<publisher-name></publisher-name>
+</element-citation>
+</ref>
+<ref id="B9">
+<mixed-citation>Harper, A.(2012). "An oblique epistemic defence of conceptual analysis". <italic>Metaphilosophy. 43</italic>(3), 235-256. Recuperado de https://doi.org/10.1111/j.1467-9973.2012.01742.x</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harper</surname>
+<given-names>A. S.</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<article-title>An oblique epistemic defence of conceptual analysis</article-title>
+<source>Metaphilosophy</source>
+<volume>43</volume>
+<issue>3</issue>
+<fpage>235</fpage>
+<lpage>256</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-9973.2012.01742.x">https://doi.org/10.1111/j.1467-9973.2012.01742.x</ext-link>
+</element-citation>
+</ref>
+<ref id="B10">
+<mixed-citation>Kripke, S. (1980). <italic>Naming and necessity</italic>.  Cambridge: Harvard University Press</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kripke</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>1980</year>
+<source>Naming and necessity</source>
+<publisher-name>Harvard University Press</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B11">
+<mixed-citation>Nandini, M. (2018). <italic>Why it's morally wrong to use other sentient beings for our purpose -whether for food or research</italic>. Blog post.  Recuperado de https://www.alternet.org/animal-rights/why-its-morally-wrong-use-other-sentient-beings-our-purpose-whether-food-or-research</mixed-citation>
+<element-citation publication-type="legal-doc">
+<person-group person-group-type="author">
+<name>
+<surname>Nandini</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2018</year>
+<source>Why it's morally wrong to use other sentient beings for our purpose -whether for food or research</source>
+<publisher-name></publisher-name>
+<ext-link ext-link-type="uri" xlink:href="https://www.alternet.org/animal-rights/why-its-morally-wrong-use-other-sentient-beings-our-purpose-whether-food-or-research">https://www.alternet.org/animal-rights/why-its-morally-wrong-use-other-sentient-beings-our-purpose-whether-food-or-research</ext-link>
+</element-citation>
+</ref>
+<ref id="B12">
+<mixed-citation>Richardson, J. (2018). <italic>24 cognitive biases stuffing up your thinking</italic>. Blog post.  Recuperado de https://i.redd.it/mj0z512md7pz.jpg</mixed-citation>
+<element-citation publication-type="legal-doc">
+<person-group person-group-type="author">
+<name>
+<surname>Richardson</surname>
+<given-names>J. </given-names>
+</name>
+</person-group>
+<year>2018</year>
+<source>24 cognitive biases stuffing up your thinking</source>
+<publisher-name></publisher-name>
+<ext-link ext-link-type="uri" xlink:href="https://i.redd.it/mj0z512md7pz.jpg">https://i.redd.it/mj0z512md7pz.jpg</ext-link>
+</element-citation>
+</ref>
+<ref id="B13">
+<mixed-citation>Russell, B. (2018). <italic>Philosophical intuition: just what is ‘a priori’ justification?</italic>. Blog post.  Recuperado de https://aeon.co/ideas/philosophical-intuition-just-what-is-a-priori-justification</mixed-citation>
+<element-citation publication-type="legal-doc">
+<person-group person-group-type="author">
+<name>
+<surname>Russell</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<year>2018</year>
+<source>Philosophical intuition: just what is ‘a priori’ justification?</source>
+<publisher-name></publisher-name>
+<ext-link ext-link-type="uri" xlink:href="https://aeon.co/ideas/philosophical-intuition-just-what-is-a-priori-justification">https://aeon.co/ideas/philosophical-intuition-just-what-is-a-priori-justification</ext-link>
+</element-citation>
+</ref>
+<ref id="B14">
+<mixed-citation>Rutledge, J.(2017). "Skeptical theism, moral skepticism, and epistemic propriety". <italic>International Journal for Philosophy of Religion. 81</italic>(3), 263-272. Recuperado de https://doi.org/10.1007/s11153-016-9567-0</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rutledge</surname>
+<given-names>J. </given-names>
+</name>
+</person-group>
+<year>2017</year>
+<article-title>Skeptical theism, moral skepticism, and epistemic propriety</article-title>
+<source>International Journal for Philosophy of Religion</source>
+<volume>81</volume>
+<issue>3</issue>
+<fpage>263</fpage>
+<lpage>272</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11153-016-9567-0">https://doi.org/10.1007/s11153-016-9567-0</ext-link>
+</element-citation>
+</ref>
+<ref id="B15">
+<mixed-citation>Stratton-Lake, P. (2017). <italic>Intuitionism in ethics</italic>. The Stanford Encyclopedia of Philosophy .  Recuperado de https://plato.stanford.edu/archives/spr2017/entries/intuitionism-ethics/</mixed-citation>
+<element-citation publication-type="legal-doc">
+<person-group person-group-type="author">
+<name>
+<surname>Stratton-Lake</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>Intuitionism in ethics</source>
+<publisher-name></publisher-name>
+<ext-link ext-link-type="uri" xlink:href="https://plato.stanford.edu/archives/spr2017/entries/intuitionism-ethics/">https://plato.stanford.edu/archives/spr2017/entries/intuitionism-ethics/</ext-link>
+</element-citation>
+</ref>
+<ref id="B16">
+<mixed-citation>Wang, T.(2016). "Is intuition central in philosophy?". <italic>The Philosophical Forum. 47</italic>(3-4), 281-296. Recuperado de https://doi.org/10.1111/phil.12123</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>T. </given-names>
+</name>
+</person-group>
+<year>2016</year>
+<article-title>Is intuition central in philosophy?</article-title>
+<source>The Philosophical Forum</source>
+<volume>47</volume>
+<issue>3-4</issue>
+<fpage>281</fpage>
+<lpage>296</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/phil.12123">https://doi.org/10.1111/phil.12123</ext-link>
+</element-citation>
+</ref>
+<ref id="B17">
+<mixed-citation>Williamson, T. (2007). <italic>Philosophy of philosophy</italic>.  New York: Blackwell</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Williamson</surname>
+<given-names>T. </given-names>
+</name>
+</person-group>
+<year>2007</year>
+<source>Philosophy of philosophy</source>
+<publisher-name>Blackwell</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+</ref-list>
+<app-group>
+<app id="app1">
+<label>
+
+</label>
+<p>
+
+</p>
+</app>
+</app-group>
+</back>
+</article>

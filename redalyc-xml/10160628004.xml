@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2019000200179</article-id>
+         <article-id pub-id-type="publisher-id">00004</article-id>          
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Protocolo mixto para una revisión de literatura de economía política</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Mixed protocol for a literature review in political economy</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2213-0765</contrib-id>
+               <name>
+                  <surname>Eslava</surname>
+                  <given-names>Adolfo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7250-5532</contrib-id>
+               <name>
+                  <surname>Mazo-Zapata</surname>
+                  <given-names>Julián</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Universidad EAFIT.  Colombia</institution>
+            <institution content-type="normalized">Universidad EAFIT</institution>
+            <institution content-type="orgname">Universidad EAFIT</institution>
+            <country country="CO">Colombia</country>
+            <email>aeslava@eafit.edu.co</email>
+         </aff>
+         <aff id="aff2">
+            <label>1</label>
+            <institution content-type="original">Universidad EAFIT.  Colombia</institution>
+            <institution content-type="normalized">Universidad EAFIT</institution>
+            <institution content-type="orgname">Universidad EAFIT</institution>
+            <country country="CO">Colombia</country>
+            <email>jmazoza@eafit.edu.co</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2019</year>
+         </pub-date>
+         <!--volume>0</volume-->
+         <issue>65</issue>
+         <fpage>179</fpage>
+         <lpage>193</lpage>
+         <history>
+            <date date-type="received">
+               <day>05</day>
+               <month>04</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>26</day>
+               <month>06</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>El objetivo de este ensayo es presentar el procedimiento, hallazgos y lecciones de una revisión de literatura soportada en elementos estructurados y sistemáticos en una investigación cuyo objetivo es encontrar condiciones de satisfacción para una teoría integrada de la acción colectiva desde la economía política. El resultado de este ejercicio es la exposición de cómo la revisión sistemática de literatura interioriza en el aspecto metodológico de las investigaciones cualitativas la intuición de los autores, sin dejar de lado la asepsia de las revisiones estructuradas. El aporte radica entonces en discutir la importancia de la adopción de reglas para la búsqueda y revisión bibliográfica, al tiempo de advertir la necesidad de incorporar algunos criterios subjetivos para complementar dichas reglas rígidas que supone un protocolo estructurado.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This essay presents the procedure, findings and lessons of a review of literature supported by structured and systematic elements in a research whose objective is to find satisfaction conditions for an integrated theory of collective action from political economy. The result of this exercise is the exposition of how the systematic review of literature internalizes in the methodological aspect of qualitative research the intuition of the authors, without neglecting the asepsis of structured reviews. The contribution then lies in discussing the importance of adopting rules for searching and reviewing the literature, while noting the need to incorporate some subjective criteria to complement these rigid rules that are a structured protocol.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>revisión literatura</kwd>
+            <kwd>protocolo estructurado</kwd>
+            <kwd>acción colectiva</kwd>
+            <kwd>economía política</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>literature review</kwd>
+            <kwd>structured protocol</kwd>
+            <kwd>collective action</kwd>
+            <kwd>political economy</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="1" />
+            <table-count count="2" />
+            <equation-count count="0" />
+            <ref-count count="14" />
+            <page-count count="15" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>La revisión de literatura exige un protocolo, pero también es necesario realizar apuestas generales para orientar la identificación y análisis de la literatura. En este caso, las generalidades pasan por buscar una mezcla entre clásicos y aportes recientes. Cuando las indagaciones cuentan con algunos siglos de aportes, es indispensable acudir a la síntesis. Con una pregunta bien delimitada es posible realizar la primera tarea que consiste en establecer el corpus. Ese corpus teórico incluye las referencias a autores clásicos y más citados, de un lado, y las publicaciones recientes en revistas especializadas y reconocidas. En este punto, conviene construir una suerte de trazabilidad de las categorías analíticas por medio de las fuentes iniciales, ediciones críticas, mediadores e interpretaciones. Se trata de construir distinciones entre familias conceptuales, razón por la cual es valioso identificar comunidades académicas que han abordado la misma categoría y establecen diálogos entre sus interpretaciones.</p>
+         <p>A continuación, se expone la necesidad de tender puentes entre las reglas rígidas de la revisión estructurada de literatura (en adelante SLR por sus siglas en inglés) y las reglas menos rígidas de la síntesis investigativa. En economía, el apego a la SLR pone el acento en las publicaciones especializadas, pero resulta preciso ampliar el criterio de selección hacia la literatura clásica y aquella que, sin ser muy citada, constituye fuente valiosa para enriquecer la discusión.</p>
+      </sec>
+      <sec>
+         <title>1. Reglas e instituciones en la revisión de literatura</title>
+         <p>
+            Lo que aquí se pretende exponer es cómo se llevó a cabo una revisión estructurada de literatura que tuvo, en determinados momentos, decisiones subjetivas. Apoyados en
+            <xref ref-type="bibr" rid="B6">Massaro et.al. (2016)</xref>
+            , se hará un recuento conciso y argumentado de cómo se realizó el proceso de revisión de literatura para el proyecto de investigación que se ocupa, pero también se dejan expuestas las decisiones subjetivas que se tomaron y que, a la luz de Massaro, sesgarían la revisión hecha y por ende, las conclusiones investigativas; pero que, apoyados en Cooper (2010), estas decisiones más allá de las subjetivas: tienen un trasfondo de intuición y experiencia investigativa de quién las toma y ejecuta, para encauzar, junto con los estándares, rankings y reglas, la investigación hacia la conclusión que permita demostrar lo propuesto.
+         </p>
+         <sec>
+            <title>1.1 Revisión estructurada de literatura</title>
+            <p>
+               Se comenzará por explicar el por qué se opta por realizar una revisión de literatura estructurada, cómo justificar la manera en que se hizo y cómo encajan estos dos aspectos en la naturaleza del tema investigativo sustancial: la acción colectiva. Como bien apuntan T. Scandura y E. Williams (
+               <ext-link ext-link-type="uri" xlink:href="https://journals.aom.org/doi/abs/10.5465/1556348">Research methology in management</ext-link>
+               ), el motivo por el cual se ha comenzado a discutir sobre SLR en el mundo investigativo apunta a lograr que la materia prima con la cual se desarrolla la comprobación de una tesis, carezca de tergiversaciones propias del investigador; puesto que las elecciones sobre cómo fundamentar teóricamente, cómo medir y cómo analizar pueden afectar los tipos de conclusiones que se hallan. Es decir, la manera en que se justifica este método de revisión de literatura se entiende a través de los parámetros que una revisión estructurada brinda -y por su naturaleza misma exige- con el fin de blindar el análisis y posteriores conclusiones y resultados de distorsiones fruto del proceso inicial de estado del arte y marco teórico o modelo utilizado.
+            </p>
+            <p>El por qué se utiliza una SLR y los beneficios que su naturaleza constitutiva brinda a un proceso investigativo, dialogan fluidamente con el proyecto investigativo en el que se enmarca este ejercicio. Dicho proyecto tiene como nombre Teoría Integrada de la Acción Colectiva y la interdisciplinariedad de esta investigación (que se compone de cuatro líneas: filosofía del lenguaje, movimientos sociales, estrategia como práctica y economía política) demanda unas categorías básicas de análisis para utilizar en cada dimensión. Esto con miras a lograr un efecto de comparación y posibilitar una teoría integrada de la acción colectiva que se sostenga por su propia cuenta.</p>
+         </sec>
+         <sec>
+            <title>1.2 Diálogo entre “research synthesis” y “structured literature review”</title>
+            <p>La revisión de literatura es un paso obligado de todo método de investigación. Allí se pone a prueba la formulación del problema, se encuadra la relevancia teórica de la construcción conceptual y se brindan las orientaciones analíticas para abordar hechos y datos. Se trata del puente que une problema real con evidencia empírica. A pesar de su centralidad, las muy diversas contribuciones a la metodología de la investigación suelen desestimar la necesidad de contar con orientaciones precisas y rigurosas que garanticen validación y réplica del proceso por medio del cual se define el inventario de referencias que soportan la empresa investigativa. Por el contrario, los metodólogos otorgan mayor importancia a los procesos de diseño de la investigación, formulación del problema, discusiones epistemológicas, dilemas cuali-cuanti y presentación de resultados.</p>
+            <p>La práctica común para realizar una revisión de literatura en ciencias sociales es partir de un corpus teórico identificado mediante palabras clave, luego se somete a un proceso de depuración de la mano del conocimiento del investigador, pero también reservando algún lugar a serendipias. Con este insumo, se procede a un ejercicio de lectura y escritura para obtener una síntesis. En resumen, la revisión de literatura es una etapa de la investigación propensa a incurrir en arbitrariedades.</p>
+            <p>
+               Al respecto Harris
+               <xref ref-type="bibr" rid="B2">Cooper (2010</xref>
+               ) propone la siguiente cuestión: ¿qué procedimientos deben ser usados para hablar de investigación relevante? Resulta preciso tomar en serio los criterios de respuesta toda vez que, de esos procedimientos, depende el alcance riguroso y válido de la pesquisa en la literatura especializada. De esa manera, es posible lograr los cuatro propósitos de la revisión de literatura, a saber: (i) integrar aquello que otros han hecho y dicho, (ii) criticar trabajos académicos previos, (iii) tender puentes entre tópicos relacionados e (iv) identificar los asuntos centrales en el campo de estudio. En una palabra, sintetizar. Síntesis fundamentada en integración, crítica y conexiones. Este ejercicio sumario le exige al investigador vérselas con reglas para acometer la empresa.
+            </p>
+            <p>Ante la realidad de información voluminosa, se requieren reglas que eviten confusión. Asumir el reto de construir evidencia acumulativa pone el énfasis en la revisión de literatura, una que cumpla el doble propósito de ser más y mejor. Las reglas pueden ser garantía de transparencia. De allí, la necesidad de declararlas y acatarlas.</p>
+            <p>La Structured Literature Review arguye en favor de reglas rígidas mientras que la Research Synthesis permite relajar la exigencia, por ejemplo, de la métrica de validación propia de las técnicas cuantitativas. De esta forma, la revisión de literatura incursiona en la discusión entre reglas formales e informales, en las que unas y otras contribuyen al propósito único de lograr una síntesis fundamentada.</p>
+            <p>Vale decir que la regla informal tiene cabida siempre que esté declarada como criterio de respuesta a la cuestión por los procedimientos. Por ejemplo, una revisión de literatura puede obedecer a la regla formal que brindan los indicadores de citación e impacto de las publicaciones consultadas, pero también tiene lugar la regla informal que busca establecer contacto personal con investigadores concernidos en el campo del objeto de estudio.</p>
+            <p>Cabe señalar que tanto RS como SLR comparten la tarea de descifrar decisiones, formas de proceder y conclusiones de los investigadores. Mientras las revisiones rápidas conceden confiabilidad a las habilidades acumuladas del investigador, la búsqueda de procesos transparentes, científicos y replicables ubica la confiabilidad en las reglas en uso por parte de los académicos. No se trata entonces de identificar obstáculos entre la regulación de la indagación, sino por el contrario, de dar cuenta de las decisiones que exige el transcurrir de la investigación.</p>
+         </sec>
+         <sec>
+            <title>1.3 Cochrane collaboration y Campbell collaboration</title>
+            <p>La revisión estructurada de literatura que se propone como base para el proyecto investigativo se configura, entonces, como una revisión sistemática de literatura. Además, la revisión estructurada de literatura está pensada más para investigaciones cuantitativas (y también son las que más la han desarrollado), por lo que ciertas condiciones o parámetros riñen con las posibilidades reales de la investigación cualitativa.</p>
+            <p>
+               Aun así, la investigación cualitativa en revisiones sistemáticas ha dado avances a pasos insospechados en años anteriores y recorre el camino que también recorren otras ciencias con una investigación de índole diferente. Es ese el caso de Cochrane Collaboration, una red de investigadores que llevan a cabo una rigurosa y sistemática revisión de intervenciones en el área de la salud. Esta organización tiene como objetivo “reunir todas las pruebas que se ajustan a los criterios de elegibilidad pre especificados con el fin de abordar una pregunta de investigación específica” (
+               <xref ref-type="bibr" rid="B5">Higgins y Green 2011</xref>
+               :12).
+            </p>
+            <p>Para que Cochrane Collaboration, como red metódicamente estructurada, logre lo dicho anteriormente, se ha elaborado un Cochrane Handbook, en el cual describen minuciosamente cómo preparar un review al modo Cochrane, cómo realizarla, cómo repetirla periódicamente, entre otras cosas. Este mismo handbook contiene una serie de principios rectores que dan línea al actuar de la organización, la justifican y la proyectan. Los principios de Cochrane Collaboration (Higgins y Green 2011:13) son:</p>
+            <p>-Colaboración, fomentando internamente y externamente las buenas comunicaciones, la toma de decisiones abierta y el trabajo en equipo.</p>
+            <p>-Construir sobre la base del entusiasmo de las personas, mediante la participación y el apoyo de personas de diferentes habilidades y antecedentes.</p>
+            <p>-Evitar la duplicación a partir de una buena gestión y coordinación para maximizar la economía de esfuerzo.</p>
+            <p>-Minimizar el sesgo, a través de una variedad de enfoques como el rigor científico, garantizar una amplia participación y evitar conflictos de interés.</p>
+            <p>-Mantenerse al día, con el compromiso de asegurar que las revisiones Cochrane se mantengan mediante la identificación e incorporación de nuevas pruebas.</p>
+            <p>-Esforzarse por la relevancia, mediante la promoción de la evaluación de las intervenciones de atención de la salud utilizando los resultados que importan a las personas que toman decisiones en la atención de la salud.</p>
+            <p>-Promover el acceso, mediante una amplia difusión de los resultados de la colaboración, aprovechando alianzas estratégicas y promoviendo precios, contenidos y medios adecuados para satisfacer las necesidades de los usuarios de todo el mundo.</p>
+            <p>-Garantizar la calidad, ser abierto y responder a las críticas, aplicar los avances en la metodología y desarrollar sistemas para mejorar la calidad.</p>
+            <p>-Mantener una continuidad, asegurando que la responsabilidad de las revisiones, los procesos editoriales y las funciones clave se mantengan y se renueven.</p>
+            <p>-Permitir una amplia participación en la labor de la organización, reduciendo las barreras a la contribución y fomentando la diversidad.</p>
+            <p>
+               Aunque la Cochrane Collaboration representa grandes beneficios para la búsqueda incansable del conocimiento científico sin sesgo, sigue teniendo un carácter diferente al que posee la investigación cualitativa. Por ejemplo, Mary Dixon-Woods expresa que el carácter y la naturaleza de la pregunta en las reviews de Cochrane Collaboration, resultarían en una gran pérdida de información, observación y conclusiones si una investigación cualitativa se propusiera seguir dicha metodología. Además, agregan: “la investigación cualitativa sigue siendo esquiva, reflejando en parte la relativa falta de esfuerzo que se ha hecho para mejorar la indexación electrónica de artículos cualitativos. La gama de términos del tesauro que describen metodologías cualitativas es limitada y varía entre las bases de datos” (
+               <xref ref-type="bibr" rid="B3">Dixon-Woods et al 2006</xref>
+               :33).
+            </p>
+            <p>Pero esto no quiere decir la Cochrane Collaboration sea algo que ignorar o despreciar por parte de las investigaciones cualitativas. Su estructura, propósito metodológico y creación de convenciones son de admirar. Pero lo que más debe llamar la atención es su fin último como insumo para una mejor toma de decisiones que, en investigaciones cualitativas de carácter económico o social, terminarían siendo decisiones reflejadas en formulación de políticas públicas.</p>
+            <p>
+               Es así entonces como nace Campbell Collaboration: “Tomando nota del éxito de la Cochrane Collaboration, algunos en el Reino Unido comenzaron a preguntarse si debía iniciarse un movimiento análogo para cubrir las intervenciones sociales y educativas” (
+               <xref ref-type="bibr" rid="B10">Petrosino 2013</xref>
+               :9). Esta organización, denominada como una sister iniciative de Cochrane Collaboration, se propone la generación de conocimiento científico basado en la evidencia, el cual permita la mejor toma de decisiones en áreas como la educación, el crimen y la justicia, el bienestar social y el desarrollo internacional.
+            </p>
+            <p>
+               Así pues, los parámetros, motivaciones y resultados de Campbell Collaboration son los que interesan en el área disciplinar de interés (la economía política y las políticas públicas), atendiendo al tercer principio del Cochrane Handbook: “Evitar la duplicación mediante una buena gestión y coordinación para maximizar la economía de esfuerzo” (
+               <xref ref-type="bibr" rid="B5">Higgins y Green 2011</xref>
+               :13). El seguir este principio, con una metodología sistemática más que estructurada, permitiría un insumo que hoy no se tiene de información respecto a fenómenos sociales y económicos, basados en la experiencia. Aquí, una sencilla comparación del trabajo de las dos organizaciones abordadas anteriormente (ver
+               <xref ref-type="table" rid="gt1">Tabla 1</xref>
+               ).
+            </p>
+            <p>
+               <table-wrap id="gt1">
+                  <label>Tabla 1</label>
+                  <caption>
+                     <title>Tabla 1. Comparación entre redes de revisiones sistemáticas</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00179-tab1.png" />
+                  <table-wrap-foot>
+                     <fn id="TFN1">
+                        <p>Elaboración propia</p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
+            </p>
+         </sec>
+      </sec>
+      <sec>
+         <title>2. Protocolo</title>
+         <p>
+            Según Cooper: “Science is a cooperative, interdependent enterprise” (
+            <xref ref-type="bibr" rid="B2">2010</xref>
+            :1). La frase recuerda que, a pesar de los esfuerzos individuales comprometidos en un proceso investigativo, la tarea es esencialmente cooperativa. Se trata también de decisiones personales dependientes de otras decisiones, propias y ajenas. Así, contribuciones seminales, epígonos, colegas y estudiantes son vectores sobre los cuales puede fundamentarse alguna idea propia. En efecto, la investigación es un proceso cooperativo e interdependiente.
+         </p>
+         <p>De allí que las etapas de construcción del conocimiento configuran un escenario de interacción que tiende puentes hacia el pasado y hacia el futuro, que descubre interlocutores en pares académicos expertos como también en personas neófitas con aportaciones simples y reveladoras. Interacción que comparte conceptos, métodos y hallazgos.</p>
+         <p>En resumen, la labor científica consiste en armar un rompecabezas, uno de miles de piezas, con fragmentos a menudo uniformes que exigen perspectivas claras para comprender el lugar exacto, la contribución marginal, de cada pieza. El investigador está en la obligación de reconocer que en otro momento y en otro lugar, como también aquí y ahora, se indaga por lo mismo, quizá de otro modo, quizá con otros enfoques, pero al final todos trabajamos con el propósito de entender mejor el rompecabezas como un todo.</p>
+         <p>La forma corriente de circulación de conocimientos disponibles puede ser engañosa. Una síntesis se puede lograr con algunas búsquedas arbitrarias que, de la mano de habilidades del investigador y con mucha dosis de suerte, puede arrojar resultados verosímiles. No obstante, la síntesis con vocación integradora exige recorrer pasos previos para ubicar y evaluar la relevancia y pertinencia de las contribuciones existentes. En consecuencia, es posible obtener síntesis oprimiendo una tecla, pero, sin ejercicio previo de depuración con criterios razonables y justificables, es probable incurrir en desperdicios.</p>
+         <p>Los procesos de toma de decisiones públicas y privadas han venido remarcando la necesidad de someter el conjunto de iniciativas, decisiones y acciones al velo de la evidencia. Esto constituye motivación y oportunidad al mismo tiempo, puesto que permite conectar al investigador con la vida real.</p>
+         <p>En sintonía con la indagación por la evidencia disponible en el campo de las ciencias sociales y del comportamiento, la Research Synthesis se enfoca en estudios empíricos y busca sintetizar investigaciones pasadas con el fin de esbozar conclusiones generales provenientes de trabajos aislados, pero orientados por hipótesis similares o relacionadas. Además, el objetivo de esta RS es, siguiendo a Cooper, presentar el estado de la cuestión concerniente a la relación de interés para brindar luces acerca de asuntos que las investigaciones han dejado sin resolver.</p>
+         <p>Claramente se deduce la centralidad de un trabajo previo acerca de la relación de interés, por ejemplo, entre dos categorías analíticas y las hipótesis subyacentes. Esto es, antes de emprender la RS es necesario definir la relación entre X y Y, así como las posibles respuestas a, b, c, d, que la explican.</p>
+         <p>Con eso en mente (X = f(Y) ∴ a, b, c, d), la revisión de literatura comienza la búsqueda de síntesis para integrar. Allí el investigador toma las decisiones de foco (teorías, métodos y hallazgos) y de objetivo (temas centrales, puentes entre ellos, críticas e integración). Paso seguido, se declaran las técnicas sistemáticas adecuadas para asegurar identificación, priorización, síntesis e integración.</p>
+         <p>El protocolo se puede sintetizar entonces de la siguiente manera.</p>
+         <p>1. Formulación. X = f(Y) ∴ a, b, c, d</p>
+         <p>2. Focos y objetivos. Identificar …, …, …, …</p>
+         <p>3. Bases de datos. Priorizar α, β, γ, δ</p>
+         <p>4. Análisis. Sintetizar. →, ←</p>
+         <p>5. Conclusión. Integrar. X = α→ + ←β + γ→ + ←δ</p>
+      </sec>
+      <sec>
+         <title>3. Economía política de la acción colectiva</title>
+         <p>La economía política ha invitado a incursionar en la cuestión por el arraigo social que el mercado suele pasar por alto. Este planteamiento permite tomar distancia del predominio de las decisiones individuales y preguntar si el resultado del intercambio mercantil obedece a un proceso que convierte motivaciones, intenciones y contexto en condiciones de la acción colectiva (AC). Proponemos que la AC se fundamenta en acciones individuales que toman en consideración la suerte de los demás. En particular, se trata de acciones que remiten a la cooperación, a la noción de un nosotros.</p>
+         <p>
+            Aunque las discusiones acerca de la AC en las ciencias económicas no suelen detenerse en la definición, es importante resaltar que la aproximación heterodoxa que ofrece Samuel Bowles plantea retos que la economía política aún no resuelve. Veamos. Por AC se refiere a la acción conjunta intencional hacia fines comunes por parte de miembros de un grupo grande de personas que no tienen la capacidad de comprometerse a acuerdos vinculantes antes de actuar (es decir, actúan de manera no-cooperativa) y lo expresa como una “una tripleta familiar de ideas: que cuando los individuos actúan tratan de lograr algo; que la acción intencional está limitada por los efectos de la competencia; y que los resultados agregados de un gran número de personas que interactúan de esta manera no son deliberados” (
+            <xref ref-type="bibr" rid="B1">Bowles 2010</xref>
+            :10). En este sentido, a partir de definiciones existentes en la bibliografía propia del campo, nuestro proyecto busca compendiar las dimensiones que componen dichas definiciones para lograr identificar qué características constitutivas debería incluir una definición económica de la acción colectiva.
+         </p>
+         <p>En cuanto a cómo se estudia y cómo cambia, Mancur Olson es referente obligado para comprender la lógica de la AC, pero también es necesario acudir a Elinor Ostrom para conocer la propuesta de una teoría de segunda generación. Mientras Olson propone fines incluyentes o excluyentes, membresías basadas en el interés propio y tamaño del grupo para definir estado latente o acceso a privilegios, así como limitadas situaciones de deseable ocurrencia de acción colectiva, la politóloga galardonada con el Nobel de Economía se remite a las capacidades de las comunidades para resolver dilemas colectivos de provisión, compromiso y monitoreo de arreglos institucionales.</p>
+         <p>Para abordar el estudio y el cambio de la AC, en clave de economía política, es necesario también releer a Adam Smith y sus criterios de respuesta a la pregunta respecto a lo que mueve a los seres humanos para actuar. También se debe indagar respecto al papel del viejo institucionalismo en cabeza de John Commons cuando equipara instituciones con AC. Asimismo, es importante revisar las críticas a los postulados de la elección racional, como las hechas por Amartya Sen con el fin de darle lugar tanto a las acciones racionales como a las acciones razonables. Por último, en la literatura reciente se rastreará en revistas como World Development, American Economic Journal: Economic Policy y Experimental Economics.</p>
+         <sec>
+            <title>3.1 Procedimiento</title>
+            <p>
+               El siguiente ejercicio se justifica en la medida que un recuento preciso y detallado de cómo se realizó la revisión de literatura, permite dotar de bases bibliográficas fuertes al proyecto investigativo, y también, en clave de revisión sistemática, permite una réplica posterior hacia nuevas etapas investigativas o diferentes proyectos a los cuales el método utilizado les sea útil y eficiente. En palabras de otros autores, "la estrategia de búsqueda debe ser reportada en detalle suficiente para asegurar que la búsqueda pueda ser replicada" (
+               <xref ref-type="bibr" rid="B13">Tranfield et.al. 2003</xref>
+               :215).
+            </p>
+            <p>
+               <xref ref-type="bibr" rid="B6">Massaro et. al. (2016</xref>
+               :771) proponen como pasos para la revisión las siguientes etapas:
+            </p>
+            <p>1.	Escribir un protocolo de revisión de la literatura.</p>
+            <p>2.	Definir las preguntas que la revisión de la literatura se propone responder.</p>
+            <p>3.	Determinar el tipo de estudios y llevar a cabo una búsqueda exhaustiva de la literatura.</p>
+            <p>4.	Medir el impacto del artículo.</p>
+            <p>5.	Definir un marco analítico.</p>
+            <p>6.	Establecer la confiabilidad de la revisión de la literatura.</p>
+            <p>7.	Comprobar la validez de la revisión bibliográfica.</p>
+            <p>8.	Codificar los datos utilizando el marco analítico desarrollado.</p>
+            <p>9.	Desarrollar ideas y críticas a través del análisis del conjunto de datos.</p>
+            <p>10.	Desarrollar futuras trayectorias de investigación y preguntas</p>
+            <p>Así, en esta investigación, se determinó buscar en Scimago (Journal &amp; Country Rank) el ranking de los mejores journals en la línea de aporte a una teoría de acción colectiva que nos concierne: la economía política. El ranking parte del subject area “Economics, Econometrics and Finance”, para después ser filtrado de nuevo por subject categorie “Economics and Econometrics”.</p>
+            <p>
+               El conocimiento de este ranking es importante porque refleja las revistas que, en materia de economía, publican la producción de conocimiento de mayor calidad, con más altos estándares de revisión de pares y de mayor citación y referencia (ver
+               <xref ref-type="table" rid="gt2">Tabla 2</xref>
+               ). Es decir, este ranking permite indicar cuáles deben ser las fuentes a consultar si se quiere rastrear un tema en específico que se enmarque en una producción actual en estudios de economía.
+            </p>
+            <p>Teniendo claro cuáles son los mejores journals en el área disciplinar, el siguiente paso fue encontrar por medio del motor de búsqueda JStore los 40 artículos sobre acción colectiva con más impacto (número de descargas y número de referencias) en el periodo 2012-2016 en 7 de los journals encontrados en el ranking (se decidió no buscar en los journals de finanzas).</p>
+            <p>Una vez encontrados estos 40 artículos y teniendo en cuenta los 10 artículos de serendipia y clásicos, el gran desafío es de qué manera procesar la información en clave de las tres preguntas investigativas planteadas: qué es la acción colectiva, cómo se estudia la acción colectiva y cómo se transforma la acción colectiva.</p>
+            <p>
+               <table-wrap id="gt2">
+                  <label>Tabla 2</label>
+                  <caption>
+                     <title>Tabla 2. Ranking Scimago de Journals de Economía y econometría 2017</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00179-tab2.png" />
+                  <table-wrap-foot>
+                     <fn id="TFN2">
+                        <p>
+                           Elaboración propia desde
+                           <ext-link ext-link-type="uri" xlink:href="https://www.scimagojr.com/">www.scimagojr.com</ext-link>
+                        </p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
+            </p>
+         </sec>
+         <sec>
+            <title>3.2 Análisis de la información</title>
+            <p>
+               En el marco del proyecto de investigación, se expresa en las siguientes líneas un diagrama por cuadrantes (
+               <xref ref-type="fig" rid="gf1">Figura 1</xref>
+               ) con el objetivo principal de plantear una propuesta de ubicación espacial para los fenómenos de acción colectiva. El diagrama, entonces, se compondrá de dos ejes básicos (X y Y), los cuales representarán dos variables (una independiente X y una dependiente Y).
+            </p>
+            <p>El eje X medirá la acción colectiva a partir de las instituciones. El neoinstitucionalismo como corriente de la economía ha logrado ser muy afín a la ciencia política y, por lo mismo, ha sido muy utilizado en la economía política y el estudio de las políticas públicas. El principal argumento para ratificar a las instituciones como constitutivas de este eje y de su carácter de variable independiente, es la importancia de la naturaleza de las instituciones como reglas de juego, teniendo en cuenta el supuesto de que éstas son un factor determinante en el decidir y actuar de los individuos y de los grupos como suma de individuos.</p>
+            <p>La caracterización de las instituciones que nos ocupa es su formalidad o informalidad. Saber si la acción colectiva se da en un marco institucional formal o informal permite explicar o conocer, en gran medida, las causas y las consecuencias de la acción colectiva como tal.</p>
+            <p>
+               El eje Y medirá las motivaciones de la acción colectiva llevada a cabo por el grupo de individuos entendido como suma o como nosotros. La suma de individuos. El nosotros como agente se hará en referencia al actor que ejecuta -como toda acción- la acción colectiva. Concebir ésta como una acción llevada a cabo por un nosotros antes que por una suma de individuos, enmarca el análisis en un contexto de cooperación primordial. Esta cooperación le planta discusión a la maximización de beneficios propios como razón para la elección y abre la puerta para la convergencia de los individuos en un nosotros en el cual “el simple hecho de permitir la comunicación, o la ‘charla’ entre ellos, permite a los participantes reducir la sobreexplotación e incrementar las ganancias conjuntas, al contrario de lo que predicen las teorías de los juegos” (
+               <xref ref-type="bibr" rid="B9">Ostrom 2014</xref>
+               :16).
+            </p>
+            <p>Previo a la ubicación de las nociones de acción colectiva de la gran mayoría de artículos en el diagrama por cuadrantes, se hizo un ejercicio de generalización de esas nociones con el fin práctico de caracterizar y encontrar tendencias dentro del conocimiento que se tiene por ‘frontera’ en el ámbito económico. Así, se distinguen cuatro subgrupos cuando se habla de acción colectiva en la economía actual, en los cuales se podrían ubicar los 40 artículos que contienen las nociones abordadas y que, dados sus marcos temáticos y funcionales, pueden dar luces respecto a para qué sirve la AC (por qué se estudia) y cómo se aplica. Los subgrupos son:</p>
+            <p>Voting. En este subgrupo se ubican los artículos (y por ende nociones) que parten de la teoría de elecciones -hablando en sentido democrático- y cómo desde la decisión y el acto que representa votar, esta elección resultará en una acción colectiva final. El saber cómo se concibe la elección individual o grupal para tomar la decisión del voto y finalmente conformar la acción colectiva, es el pilar del cual se parte en este subgrupo y que ocupa el interés de este trabajo.</p>
+            <p>Game theory. Aquí se ubican los artículos que tienen, además de uso metodológico, el uso explicativo de la teoría de juegos para llegar a la conclusión de cómo se gesta la acción colectiva. La teoría de juegos propone modelos de interacción estructurada a partir de incentivos para predecir y explicar cómo los individuos toman decisiones. En este subgrupo la información y las reglas de juego (instituciones en sentido neoinstitucional) resultan realmente relevantes.</p>
+            <p>Bargaining. En esta sección se ubican las nociones de los artículos que utilizan como marco teórico el bargaining (que se podría traducir como negociación o regateo), en el cual la interacción entre los agentes deja claros sus intereses, ponderaciones y demandas. El barganing supone un estudio de la acción colectiva en clave de la interacción de dos agentes que establecen al final términos de acuerdo después de una dinámica de especulación, transacción y fijación de condiciones.</p>
+            <p>Public goods. Los bienes públicos se consolidan como un subgrupo de nociones de acción colectiva en la que se discute la naturaleza de provisión de bienes de naturaleza pública por parte explícita -o no- del Estado y de consumo de bienes de naturaleza pública por parte explícita -o no- de los ciudadanos (de forma particular, general o grupal). Esta categoría de public goods fue la que, puede decirse, inauguró la discusión de la AC como contraste a la elección racional en 1965 con el libro de Mancur Olson The logic of collective action: public goods and the theory of groups.</p>
+            <p>
+               <fig id="gf1">
+                  <label>Figura 1</label>
+                  <caption>
+                     <title>Figura 1. Diagrama por cuadrantes para clasificación de la acción colectiva</title>
+                  </caption>
+                  <graphic xlink:href="0717-554X-cmoebio-65-00179-fig1.png" />
+                  <attrib>Elaboración propia</attrib>
+               </fig>
+            </p>
+         </sec>
+      </sec>
+      <sec>
+         <title>4. Hallazgos</title>
+         <p>
+            Después del ejercicio descrito a lo largo de este texto, se ha llegado a ciertos hallazgos, confirmaciones de algunas sospechas previas y rechazo de otras; lo usual de una investigación que propone, prueba y encuentra el seguimiento de un vestigio: “A pesar de que nuestros oídos parecen haberse vuelto -si no inhábiles- cada vez más indiferentes para escuchar las resonancias históricas de los términos que empleamos a diario, la etimología puede abrirnos una primera puerta. Según ella, investigar deriva de la palabra latina investigare y ésta a su vez del vocablo vestigium” (
+            <xref ref-type="bibr" rid="B14">Vélez 2014</xref>
+            :236).
+         </p>
+         <p>Los hallazgos se pueden describir en tres conclusiones, a modo de generalidades, que pueden llegar a orientar cómo se encuentra el conocimiento de frontera en economía respecto a la acción colectiva. Los hallazgos son: i) continúa la predominancia racional, ii) hay una mayor tendencia a la razonabilidad y iii) las instituciones formales siguen en deuda.</p>
+         <p>
+            Aunque estos hallazgos son evidentes, tal vez el último no tanto, no deja de ser valioso el comprobarlos, lo cual no es preocupante tampoco. Ostrom apunta lo siguiente: “explain why some contextual variables enhance cooperation while others discourage it” (
+            <xref ref-type="bibr" rid="B8">Ostrom 2000</xref>
+            :154). Esto reseña la necesidad de superar la dicotomía que suponía el estudio de la acción colectiva e insta a trascenderlo, algo que se buscó en la clasificación de este trabajo a partir de la heurística propuesta. Cada vez más, se tienden puentes hacia no aceptar un absoluto en la manera de actuar colectivamente y las motivaciones para hacerlo.
+         </p>
+         <p>El predominio racional. Se observa entonces que aún sigue habiendo, de manera entendible, una predominancia del enfoque racional y de coordinación, por encima del enfoque razonable y de cooperación. La continua referencia a autores como Nash y los juegos de suma cero, apuntan a la manera en que el enfoque y supuesto clásico racional ha logrado explicar la acción colectiva sin abandonar su coherencia.</p>
+         <p>Tendencia a la razonabilidad. Ahora, aun teniendo en cuenta el anterior hallazgo, se encontró que otros trabajos concluyen que la acción colectiva también es motivada por la cooperación y la noción del nosotros. En cabeza de autores como Bowles y otros, se ha propuesto y expuesto cómo en la decisión de actuar con otros, no solo en pocas veces sino generalmente, es mejor a actuar solo y ponderar los intereses de manera individual.</p>
+         <p>Las instituciones formales siguen en deuda. Por último, también se encuentra que las instituciones formales siguen desincentivando la cooperación y la razonabilidad. El crowding out sigue siendo continuo protagonista al evaluar el impacto de las instituciones formales en el modo de actuar colectivamente y en el cómo y cuándo los individuos deciden hacerlo.</p>
+         <p>
+            Algo que reseñar es el avance en el campo de la acción colectiva suscrito a la economía como ciencia. Ostrom escribió: “Empirical and theoretical work in the future needs to ask how a large array of contextual variables affects the processes of teaching and evoking social norms; of informing participants about the behavior of others and their adherence to social norms; and of rewarding those who use social norms, such as reciprocity, trust, and fairness” (
+            <xref ref-type="bibr" rid="B8">Ostrom 2000</xref>
+            :154). Lo anterior, a modo de desafío, ha sido aceptado, abordado y confrontado. Es decir, la acción colectiva ha abierto un campo en el análisis económico, lo cual implica la utilización de metodologías propias del área para comprender el problema. La economía cada vez más asume la discusión de cómo argumentar por encima de supuestos. La acción colectiva y su estudio suponen, entonces, un avance en sí mismos, incluso más allá de los hallazgos que dicho estudio arroje.
+         </p>
+      </sec>
+      <sec sec-type="discussion">
+         <title>5. Discusión</title>
+         <p>En este apartado se propone de manera breve una heurística que permita darle grados a los ejes del diagrama y así lograr ubicarlos correctamente, para evitar caer en un enfoque maniqueísta y lograr un mayor panorama de análisis.</p>
+         <sec>
+            <title>5.1 De la competencia a la cooperación: la coordinación siempre será la clave</title>
+            <p>
+               Los extremos del eje Y, como ya se expuso, son la racionalidad y razonabilidad entendidas como Rawls en La idea de la justicia donde se esgrime la concepción de acción justa racional cuando el individuo identifica sus propias ventajas; y la razonable, cuando identifica términos de cooperación. Así, de manera general “los hombres están en desacuerdo acerca de cuáles principios debieran definir los términos básicos de su asociación. No obstante, podemos decir que a pesar del desacuerdo cada uno tiene una concepción de la justicia. Esto es, entienden la necesidad de disponer de un conjunto característico de principios que asignen derechos y deberes básicos y de determinar lo que consideran la distribución correcta de las cargas y beneficios de la cooperación” (
+               <xref ref-type="bibr" rid="B11">Rawls 2012</xref>
+               :18).
+            </p>
+            <p>
+               Esta idea está muy ligada a cómo se concibe la acción colectiva que se lleva a cabo. Pero, aun así, ambos extremos necesitan motivaciones, como bien lo menciona Richard Sennett de la siguiente manera: “Ni en los acuerdos comerciales ni en ningún otro aspecto de la vida el equilibrio entre competencia y cooperación se produce de manera natural, en el sentido inexorable, sin voluntad ni esfuerzo” (
+               <xref ref-type="bibr" rid="B12">Sennett 2012</xref>
+               :114).
+            </p>
+            <p>Cuando se pregunte entonces por el nosotros como agente, se hará referencia al actor que ejecuta (como toda acción) la acción colectiva. Concebir ésta como una acción llevada a cabo por un nosotros, antes que por una suma de individuos, enmarca el análisis en un contexto de cooperación primordial. Ahora, cuando se pregunta por el individuo como agente, se propone aquel sujeto calculador que busca colaborar en sentido competitivo, puesto que estaría bien con que otros perdieran (siempre y cuando él gane).</p>
+            <p>
+               A fin de cuentas, se evidencia que, si bien la racionalidad y razonabilidad son extremos, se encuentran entre sí algunos grados de posicionamiento como la competencia y la cooperación, en los cuales se entiende que la coordinación (la cual es posible gracias a las instituciones) es la clave para definir términos entre el agente y la acción colectiva como tal. La panacea de dicha coordinación la entiende Sennet como el equilibrio en su espectro de intercambio, diciendo que “donde mejor y más claramente se produce el equilibrio entre cooperación y competencia es en la zona central de ese espectro [hablando sobre el intercambio]. En los intercambios en donde todos ganan, la competencia puede producir beneficios mutuos, como en los intercambios mercantiles que imaginó Adam Smith” (
+               <xref ref-type="bibr" rid="B12">Sennett 2012</xref>
+               :108).
+            </p>
+         </sec>
+         <sec>
+            <title>5.2 Formalidad e informalidad: hacia la negación de un maniqueísmo en la compresión institucional</title>
+            <p>
+               Los extremos del eje X, como se dijo anteriormente, son las instituciones formales e informales. Instituciones formales entendidas como aquellas que “se refieren a los órganos estatales (tribunales, legislaturas, burocracias) y las normas estatales (constituciones, leyes, reglamentos)” (
+               <xref ref-type="bibr" rid="B4">Helmke y Levitsky 2004</xref>
+               :6) e instituciones informales entendidas como North en su texto seminal Instituciones, cambio institucional y desempeño económico, donde afirma que son aquellas “limitaciones informales surgidas para coordinar interacciones humanas repetidas y consisten en i) extensiones, interpretaciones y modificaciones de normas formales ii) normas de conducta sancionadas socialmente y iii) normas de conducta aceptadas internamente” (
+               <xref ref-type="bibr" rid="B7">North 1993</xref>
+               :58). En conclusión, las instituciones formales serán aquellas consagradas de manera escrita y las informales serán aquellas que si bien no lo están, también regulan y fungen como limitaciones sociales a los comportamientos y decisiones de los individuos.
+            </p>
+            <p>
+               Se propone entonces una serie de grados entre la formalidad y la informalidad de las instituciones, donde se esgrime el tipo de uso, su regularidad y su esencia estructural, así como su capacidad de cambio. Así pues, esta heurística del eje X es importante, en tanto ubicación, y en tanto análisis institucional; bien lo dijo North: “La diferenciación entre limitaciones formales e informales es de grado. Imaginemos un continuum de tabús, costumbres y tradiciones en un extremo y en otras constituciones escritas” (
+               <xref ref-type="bibr" rid="B7">North 1993</xref>
+               :66).
+            </p>
+            <p>Finalmente, el diagrama y la base de datos no robusta -ambos productos elaborados a partir de una revisión de literatura estructurada- permiten clasificar y, por lo tanto, analizar mejor, aquellos resultados encontrados en referencia a qué se entiende en economía política por acción colectiva. Ahora, además de los artículos de la SRL, también se parte de artículos entendidos como seminales y de artículos entendidos como serendipias, los cuales en conjunto y, en referencia a los primeros, conformarán un enfoque de “moneda” en la medida que se habrá abordado cómo se entiende clásicamente la acción colectiva y cómo, desde el conocimiento de frontera, se está entendiendo en este momento.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>Conclusiones</title>
+         <p>La revisión estructurada de literatura, entendida como forma de investigación, aporta asepsia al proceso científico. Es decir, esta permite evitar la intromisión de arbitrariedades que distorsionen la objetividad del ejercicio investigativo. Es entonces un valioso instrumento metodológico con el cual adaptar hábitos hacia una investigación cada vez más cercana a lo deseado: la realidad. Este tipo de iniciativas han funcionado en las investigaciones cuantitativas. ¿Cuál es el reto? Lograr encajar allí el quehacer cualitativo sin perder su propia esencia.</p>
+         <p>El abordaje del conocimiento de frontera es fundamental para saber sobre qué se está hablando, cómo se habla de ello y quiénes lo están haciendo; todo esto a partir del análisis proporcionado por los rankings, la indexación, las herramientas virtuales y los estándares internacionales. Esto ha permitido que el debate sea mayor y la interacción entre investigadores de una misma disciplina sea canal de impugnaciones, argumentaciones, discusiones y desarrollo del campo por sí mismo.</p>
+         <p>La revisión sistemática de literatura que aquí se describió, a partir del meta-análisis expuesto por Cooper, se propone reconciliar la brecha entre la esterilidad de la revisión estructurada de literatura y la subjetividad de las deliberaciones del investigador, que, guiado por su experiencia y pericia, utiliza lo que se llamó serendipias y clásicos. Otorgarle a la investigación el factor humano no es completamente errado. Permitirse seguir las intuiciones en el seguimiento del vestigio es, en esencia, experimentar. Tornar hipótesis en tesis.</p>
+         <p>En clave del propósito conciliatorio del proyecto de investigación en el cual se enmarca este protocolo, el cual espera lograr generar condiciones de satisfacción para una teoría integrada de la acción colectiva; una revisión de literatura, no estructurada, pero sí sistemática, permite generar convenciones y parámetros en los cuales lograr hacer conversar estructuralmente a la filosofía analítica, la ciencia política, la economía política, los estudios de los movimientos sociales y la investigación de operaciones.</p>
+         <p>Proyectos como la Campbell Collaboration son fundamentales de cara a la consolidación de la investigación como elemento i) evolutivo y ii) acumulativo del saber. Es decir, como elemento que cambia y en donde más que dogmas, se generan afirmaciones probadas. Y como elemento que, si bien cambia, también conserva lo ya aprendido como insumo para la generación de lo innovador. Mirar sin recelo, sino con ansias de aprendizaje a proyectos como la Cochrane Collaboration, ayudaría a la creación de nuevas estrategias para fortalecer la investigación estructurada y sistemática en las ciencias sociales y las políticas públicas.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Este trabajo se deriva del proyecto de investigación “Contribución al estado de la cuestión para una teoría integrada de la acción colectiva” del grupo de investigación “Sociedad, Política e Historias Conectadas” (categoría A1 Colciencias) de la Universidad EAFIT.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Bowles, S.,  (2010).
+               <italic>Microeconomía. Comportamiento, instituciones y evolución</italic>
+               .  Bogotá: Uniandes
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bowles</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Microeconomía. Comportamiento, instituciones y evolución</source>
+               <publisher-name>Uniandes</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Cooper, H.,  (2010).
+               <italic>Research synthesis and meta-analysis</italic>
+               .  London: Sage
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cooper</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Research synthesis and meta-analysis</source>
+               <publisher-name>Sage</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Dixon-Woods, M.,  Bonas, S., Booth, A., Jones, D., Miller, T., Sutton, A., Shaw, R., Smith, J., Young, B.(2006). "How can systematic reviews incorporate qualitative research? A critical perspective".
+               <italic>Qualitative research. 6</italic>
+               (1), 27-44. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1468794106058867">https://doi.org/10.1177/1468794106058867</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dixon-Woods</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bonas</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Booth</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>D. R</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sutton</surname>
+                     <given-names>A. J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shaw</surname>
+                     <given-names>R. L</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>J. A</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Young</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>How can systematic reviews incorporate qualitative research? A critical perspective</article-title>
+               <source>Qualitative research</source>
+               <volume>6</volume>
+               <issue>1</issue>
+               <fpage>27</fpage>
+               <lpage>44</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1468794106058867">https://doi.org/10.1177/1468794106058867"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Helmke, G., Levitsky, S.(2004). "Informal institutions and comparative politics: a research agenda".
+               <italic>Perspectives on Politics. 2</italic>
+               (4), 725-740. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S1537592704040472">https://doi.org/10.1017/S1537592704040472</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Helmke</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Levitsky</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <article-title>Informal institutions and comparative politics: a research agenda</article-title>
+               <source>Perspectives on Politics</source>
+               <volume>2</volume>
+               <issue>4</issue>
+               <fpage>725</fpage>
+               <lpage>740</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S1537592704040472">https://doi.org/10.1017/S1537592704040472"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Higgins, J., Green, S.,  (2011).
+               <italic>Cochrane handbook for systematic reviews of interventions</italic>
+               .  New York: John Wiley &amp; Sons
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Higgins</surname>
+                     <given-names>J.P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Green</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <source>Cochrane handbook for systematic reviews of interventions</source>
+               <publisher-name>John Wiley &amp; Sons</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Massaro, M., Dumay, J., Guthrie, J.(2016). "On the shoulders of giants: undertaking a structured literature review in accounting".
+               <italic>Accounting, Auditing &amp; Accountability Journal . 29</italic>
+               (5), 767-801. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1108/AAAJ-01-2015-1939">https://doi.org/10.1108/AAAJ-01-2015-1939</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Massaro</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dumay</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Guthrie</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>On the shoulders of giants: undertaking a structured literature review in accounting</article-title>
+               <source>Accounting, Auditing &amp; Accountability Journal</source>
+               <volume>29</volume>
+               <issue>5</issue>
+               <fpage>767</fpage>
+               <lpage>801</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1108/AAAJ-01-2015-1939">https://doi.org/10.1108/AAAJ-01-2015-1939"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               North, D.,  (1993).
+               <italic>Instituciones, cambio institucional y comportamiento económico</italic>
+               . , México: Fondo de Cultura Económica
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>North</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <source>Instituciones, cambio institucional y comportamiento económico</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Fondo de Cultura Económica</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Ostrom, E.(2000). "Collective action and the evolution of social norms".
+               <italic>Journal of Economic Perspectives. 14</italic>
+               (3), 137-158. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.14.3.137">https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.14.3.137</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ostrom</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Collective action and the evolution of social norms</article-title>
+               <source>Journal of Economic Perspectives</source>
+               <volume>14</volume>
+               <issue>3</issue>
+               <fpage>137</fpage>
+               <lpage>158</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.14.3.137">https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.14.3.137"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Ostrom, E.(2014). "Más allá de los mercados y los estados: gobernanza policéntrica de sistemas económicos complejos".
+               <italic>Revista Mexicana de Sociología. 76</italic>
+               (5), 15-70. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=32132112002">http://www.redalyc.org/articulo.oa?id=32132112002</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ostrom</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Más allá de los mercados y los estados: gobernanza policéntrica de sistemas económicos complejos</article-title>
+               <source>Revista Mexicana de Sociología</source>
+               <volume>76</volume>
+               <issue>5</issue>
+               <fpage>15</fpage>
+               <lpage>70</lpage>
+               <ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=32132112002">http://www.redalyc.org/articulo.oa?id=32132112002"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Petrosino, A.(2013). "Reflections on the genesis of the Campbell collaboration".
+               <italic>The Experimental Criminologist. 8</italic>
+               (2), 9-12.
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Petrosino</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Reflections on the genesis of the Campbell collaboration</article-title>
+               <source>The Experimental Criminologist</source>
+               <volume>8</volume>
+               <issue>2</issue>
+               <fpage>9</fpage>
+               <lpage>12</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Rawls, J.,  (2012).
+               <italic>Teoría de la justicia</italic>
+               . , México: Fondo de Cultura Económica
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rawls</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Teoría de la justicia</source>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Fondo de Cultura Económica</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Sennett, R.,  (2012).
+               <italic>Juntos: rituales, placeres y política de cooperación</italic>
+               .  Barcelona: Anagrama
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sennett</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Juntos: rituales, placeres y política de cooperación</source>
+               <publisher-name>Anagrama</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Tranfield, D., Denyer, D., Smart, P.(2003). "Towards a methodology for developing evidence‐informed management knowledge by means of systematic review".
+               <italic>British Journal of Management. 14</italic>
+               (3), 207-222. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1467-8551.00375">https://doi.org/10.1111/1467-8551.00375</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tranfield</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Denyer</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Smart</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Towards a methodology for developing evidence‐informed management knowledge by means of systematic review</article-title>
+               <source>British Journal of Management</source>
+               <volume>14</volume>
+               <issue>3</issue>
+               <fpage>207</fpage>
+               <lpage>222</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1467-8551.00375">https://doi.org/10.1111/1467-8551.00375"</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>
+               Vélez, M., .(2014). "La devoción de lo ignorado (breve escrito sobre la investigación en humanidades)".
+               <italic>Co-Herencia. 11</italic>
+               (20), 235-275. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17230/co-herencia.11.20.12">https://doi.org/10.17230/co-herencia.11.20.12</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vélez</surname>
+                     <given-names>M. V</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname />
+                     <given-names />
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>La devoción de lo ignorado (breve escrito sobre la investigación en humanidades)</article-title>
+               <source>Co-Herencia</source>
+               <volume>11</volume>
+               <issue>20</issue>
+               <fpage>235</fpage>
+               <lpage>275</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17230/co-herencia.11.20.12">https://doi.org/10.17230/co-herencia.11.20.12"</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

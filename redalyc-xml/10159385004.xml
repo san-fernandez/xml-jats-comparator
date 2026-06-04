@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article 
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+<journal-title-group>
+<journal-title>Cinta de moebio</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">0717-554X</issn>
+<publisher>
+<publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">00004</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Artículos</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Metálogo como herramienta de colaboración transdisciplinaria</article-title>
+<trans-title-group xml:lang="en">
+	<trans-title>Metalogue as a transdisciplinary collaboration tool</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Urquiza</surname>
+<given-names>Anahí</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Amigo</surname>
+<given-names>Catalina</given-names>
+</name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Billi</surname>
+<given-names>Marco</given-names>
+</name>
+<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Brandão</surname>
+<given-names>Guilherme</given-names>
+</name>
+<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Morales</surname>
+<given-names>Bárbara</given-names>
+</name>
+<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label>
+<institution content-type="original">Chile. Universidad de Chile, Centro de Ciencia del Clima y la Resiliencia  Correo electrónico: anahiurquiza@uchile.cl</institution>
+<institution content-type="normalized">Universidad de Chile</institution>
+<institution content-type="orgname">Universidad de Chile</institution>
+<country country="CL">Chile</country>
+<email>anahiurquiza@uchile.cl</email>
+</aff>
+<aff id="aff2">
+<label>2</label>
+<institution content-type="original">Chile. Universidad de Chile, Magíster en Análisis Sistémico Aplicado a la Sociedad  Correo electrónico: catamigo@gmail.com</institution>
+<institution content-type="normalized">Universidad de Chile</institution>
+<institution content-type="orgname">Universidad de Chile</institution>
+<country country="CL">Chile</country>
+<email>catamigo@gmail.com</email>
+</aff>
+<aff id="aff3">
+<label>3</label>
+<institution content-type="original">Chile. Universidad Adolfo Ibáñez, Escuela de Gobierno  Correo electrónico: marco.dg.billi@gmail.com</institution>
+<institution content-type="normalized">Universidad Adolfo Ibáñez</institution>
+<institution content-type="orgname">Universidad Adolfo Ibáñez</institution>
+<country country="CL">Chile</country>
+<email>marco.dg.billi@gmail.com</email>
+</aff>
+<aff id="aff4">
+<label>4</label>
+<institution content-type="original">Brasil. Instituto Nacional de Investigaciones Espaciales, Núcleo de Innovación Tecnológica  Correo electrónico: guilherme.brandao@inpe.br</institution>
+<institution content-type="normalized">Instituto Nacional de Pesquisas Espaciais</institution>
+<institution content-type="orgname">Instituto Nacional de Pesquisas Espaciais</institution>
+<country country="BR">Brasil</country>
+<email>guilherme.brandao@inpe.br</email>
+</aff>
+<aff id="aff5">
+<label>5</label>
+<institution content-type="original">Chile. Universidad de Chile, Centro de Ciencia del Clima y la Resiliencia  Correo electrónico: boraguirre@gmail.com</institution>
+<institution content-type="normalized">Universidad de Chile</institution>
+<institution content-type="orgname">Universidad de Chile</institution>
+<country country="CL">Chile</country>
+<email>boraguirre@gmail.com</email>
+</aff>
+<pub-date pub-type="epub">
+<season>Apr-Sep</season>
+<year>2018</year>
+</pub-date>
+<issue>62</issue>
+<fpage>182</fpage>
+<lpage>198</lpage>
+<history>
+<date date-type="received">
+<day>04</day>
+<month>03</month>
+<year>2018</year>
+</date>
+<date date-type="accepted">
+<day>16</day>
+<month>05</month>
+<year>2018</year>
+</date>
+</history>
+<permissions>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Resumen:</title>
+<p>La sociedad requiere de forma creciente la realización efectiva de instancias participativas dirigidas a fomentar la colaboración entre distintos ámbitos organizacionales, disciplinarios y socio-culturales. Los desafíos intrínsecos a este tipo de instancias requieren el desarrollo de metodologías que permitan insertar reflexividad dentro del ámbito dialógico y orientar el mismo hacia la creación de “boundary objects” que pueda servir de referente entre las distintas perspectivas involucradas, constituyéndose en un facilitador para la colaboración futura. Para responder a estas necesidades, el artículo elabora, a partir del concepto de metálogo originariamente propuesto por Gregory Bateson, una propuesta sistémico-constructivista de observación e intervención contextual, dirigida a fomentar reflexividad a partir de la promoción de observación de segundo orden. En este contexto de mayor reflexividad, se promueve la co-construcción de documentos donde se coordinen las perspectivas de los participantes y las expectativas de los arreglos estructurales y organizacionales en los que estos operan. El artículo justifica teóricamente y describe la técnica del metálogo, además de destacar aprendizajes, buenas prácticas y reflexiones derivadas de su aplicación en diversas experiencias transdisciplinarias en Chile.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+	<title>Abstract:</title>
+	<p>Contemporary society shows an increasing demand for participatory instances able to effectively foster the collaboration of diverse organizational, disciplinary and socio-cultural areas. The challenges intrinsic to such participatory instances require the development of methodologies that may allow for the insertion of reflexivity within the dialogical interaction, while also promoting the collective construction of "boundary objects": such objects, in turn, by serving as a common reference for the different perspectives involved in the dialogue, have the potential of facilitating the future collaboration among such perspectives. To respond to these demands -and inspired by the notion of metalogue originally introduced by Gregory Bateson- this paper elaborates a systemic-constructivist proposal of observation and contextual intervention, aimed at fostering reflexivity within dialogical-participatory instances by inducing their participants to perform a second-order observation of the distinctions mobilized within the interaction. Building upon this reflexivity, the metalogue pursues the co-construction of documents able to coordinate the perspectives of the participants and the expectations of the structural and organizational arrangements in which they operate. In addition to justifying and describing the technique of the metalogue, the paper highlights some lessons learned, good practices and proposals derived from its application in various transdisciplinary experiences in Chile.</p>
+</trans-abstract>
+<kwd-group xml:lang="es">
+<title>Palabras clave:</title>
+<kwd>reflexividad</kwd>
+<kwd>intervención</kwd>
+<kwd>contextual</kwd>
+<kwd>transdisciplina</kwd>
+<kwd>interfaz</kwd>
+<kwd>ciencia</kwd>
+<kwd>política</kwd>
+<kwd>constructivista</kwd>
+</kwd-group>
+<kwd-group xml:lang="en">
+<title>Keywords:</title>
+<kwd>reflexivity</kwd>
+<kwd>contextual</kwd>
+<kwd>intervention</kwd>
+<kwd>transdiscipline</kwd>
+<kwd>science</kwd>
+<kwd>policy</kwd>
+<kwd>interface</kwd>
+<kwd>constructivist</kwd>
+</kwd-group>
+<counts>
+<fig-count count="2"/>
+<table-count count="0"/>
+<equation-count count="0"/>
+<ref-count count="19"/>
+<page-count count="17"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>I. Introducción</title>
+<p>Los problemas complejos que enfrenta la sociedad contemporánea y la creciente necesidad de coordinación intersistémica, han potenciado que durante las últimas décadas se incremente la demanda para abordajes que fomenten el diálogo y la coordinación participativa entre actores procedentes de distintos contextos organizacionales, disciplinares o culturales, con el fin último de mejorar la capacidad de dar respuesta a problemas de relevancia común para los participantes.</p><p>Los problemas a los cuales pueden aplicarse estos enfoques dialógicos pueden tener alcance desde lo local a lo nacional o incluso supranacional, interesando tanto la fase de producción de conocimiento científico, como la planificación y evaluación de posibles soluciones, de los riesgos asociados, o incluso la puesta en marcha y monitoreo de dichas soluciones.</p><p>Asimismo, la literatura presenta una variedad de modelos conceptuales y metodológicos en términos de participación: las técnicas más tradicionales y comúnmente utilizadas incluyen referéndums, foros y consultas públicas, encuestas de opinión, comités de negociación y de asesoría, conferencias deliberativas abiertas, paneles ciudadanos y focus groups, pero a estas se suma una variedad de abordajes innovadores inspirados en las teorías de los sistemas complejos (R. Scholz et al. Transdisciplinary case studies), Bayesian Networks (M. Welp et al. Science-based stakeholder dialogues), psicología cognitivo-constructivista (A. Smajgl y J. Ward Evaluating participatory research) o enfoques de tipo performativo (M. Heras y D. Tabara Let’s play transformations!).</p><p>En este contexto, la adopción de enfoques dialógicos-participativos puede asociarse con distintos órdenes de justificaciones y principios (D. Ngar-yin Mah y P. Hills Participatory governance; A. Glucker et al. Public participation). Sin embargo, es posible reconocer al menos tres tipos de rendimientos en este tipo de enfoques:</p><p>“-Instrumental: effective participation makes decisions more legitimate and improves results. It aims to restore public credibility, diffuse conflicts, justify decisions, and limit future challenges to implementation by ‘creating ownership’. Policy goals are not open for discussion; only the details are (to a lesser or greater extent). It hereby supports incumbent interests.</p><p>-Substantive: nonexperts see problems, issues, and solutions that experts miss. It aims to increase the breadth and depth of information and thereby improve the quality of decisions; it ignores power issues (eg, related to problem framing). Unlike in the instrumental rationale, policy goals can be changed in a substantive rationale.</p><p>-Normative: democratic ideals call for maximum participation. It aims to counter the power of incumbent interests and allows all who are affected by a decision to have influence” (<xref ref-type="bibr" rid="B17">Wesselink et al. 2011</xref>:3).</p><p>El segundo rendimiento (sustantivo) es aquel que mayor importancia reviste para los objetivos del presente artículo. En este marco, la noción de participación se asocia a menudo con términos tales como multi, inter o transdisciplina. Si bien existe cierta confusión respecto del uso de estos términos, es posible clasificar los enfoques existentes a lo largo de un continuum que ubica, por un lado, desde la ciencia (mono)disciplinaria (una sola disciplina, con sus criterios teóricos y metodológicos bien definidos); seguido por una perspectiva “multidisciplinarity (several disciplines working parallel, with limited interaction, on a shared object of interest), interdisciplinarity (researchers from different disciplines working together in a way that their results can be integrated) and ‘transdisciplinarity’” (Spangenberg 2011:3). Esta última indica el otro lado del continuum, donde los límites disciplinarios se pierden completamente: “Transdisciplinarity is a reflexive, integrative, method-driven scientific principle aiming at the solution transition of societal problems and concurrently of related scientific problems by differentiating and integrating knowledge from various scientific and societal bodies of knowledge” (<xref ref-type="bibr" rid="B7">Lang et al. </xref>2012:3).</p><p>Esto, a su vez, puede ocurrir con dos grados de radicalidad: si solo se pretende articular diferentes disciplinas, es posible hablar de diálogo ‘científico’ o ‘académico’, cuyo objetivo se orienta a profundizar la comprensión de un fenómeno, combinar las bases de conocimiento, verificar su relevancia social o incluso construir programas comunes para el funcionamiento de la ciencia (transdisciplina modo-1). Por otra parte, si se pretende articular ciencia y público, orientada a guiar políticas públicas, informar la toma de decisiones y diseñar sistemas de monitoreo o evaluación de las mismas, se sitúa el diálogo en una interfaz ciencia-política (transdisciplina modo-2).</p><p>Más allá de la técnica específica que se utiliza, la caracterización de un proceso participativo depende también del tipo de actor que promueve y guía la participación, de los objetivos y propósitos que se asocian a la misma (T. Webler y S. Tuler Four perspectives on public participation), del nivel de interacción entre los participantes (J. Cent et al. Emerging multilevel environmental governance; M. Pieczcka y O. Escobar Dialogue and science), así como de la comprensión que tanto los promotores del proceso como quienes participan de ellos tengan de los distintos actores y sus roles dentro del diálogo (J. Mielke et al. Stakeholder involvement).</p><p>Dependiendo de la postura que se adopte respecto de estos factores, el diálogo irá adquiriendo formas distintas y producirá resultados diversos, lo que transforma el propio proceso de definición de propósitos y principios en los que dicho diálogo se apoya, en un aspecto de elevada complejidad que puede a su vez volverse objeto de deliberación dialógica. Cuando esto ocurre, el diálogo se transforma en un ejercicio autorreflexivo, una instancia fluida en la cual los límites y las condiciones de la participación están en constante redefinición en función de cómo se despliega el propio proceso participativo.</p><p>Esto último nos sugiere la utilidad de observar los procesos dialógicos como sistemas de comunicación que autoimplican las condiciones de su existencia y la posibilidad de su propia auto-observación. Esta premisa, que se apoya en la adopción de un enfoque sistémico-constructivista basado en los desarrollos teóricos de Niklas Luhmann, e inspirado por la noción de metálogo acuñada por Gregory Bateson, se vuelve la guía para proponer una metodología específica que se orienta justamente a promover un mayor grado de reflexividad, dentro de instancias dialógicas de tipo transdisciplinarias orientadas a facilitar la coordinación entre distintos actores y diversas racionalidades. </p><p>El presente artículo propone y discute una metodología sistémico-constructivista para facilitar la inserción de mayor reflexividad en instancias dialógicas participativas en el ámbito científico (articulando diferentes disciplinas) y en la interfaz entre ciencia y política, revisando además los resultados de algunas aplicaciones preliminares en el contexto chileno. </p><p>En el próximo apartado (II) se revisa la justificación, relevancia, obstáculos y desafíos que caracterizan a los enfoques dialógicos según la literatura. Posteriormente (III), se presenta el metálogo como estrategia de intervención sistémica, a partir de lo cual (IV) se revisan los lineamientos metodológicos y sus posibles rendimientos respecto de los desafíos identificados. Finalmente, se concluye indicando la relevancia de la técnica y rescatando algunas lecciones aprendidas, buenas prácticas y posibles espacios de profundización que se pueden extraer de algunas experiencias de su aplicación en el contexto chileno.</p>
+</sec>
+<sec>
+<title>II. Procesos dialógicos transdisciplinarios</title>
+<p>La creciente relevancia de la adopción de enfoques participativos o transdisciplinarios dentro de los espacios de producción de conocimiento o de la interfaz entre ciencia y política, suele asociarse tanto a las progresivas especializaciones y transformaciones de los sistemas modernos de conocimiento, como a las características específicas de los problemas que estos enfoques buscan abordar.</p><p>Respecto de lo primero, la literatura indica que la sociedad moderna va tomando gradualmente el aspecto de una democracia del conocimiento “where governance is being transformed by the mass creation and availability of knowledge” (<xref ref-type="bibr" rid="B5">Cornell et al. </xref>2013:1), resultando en una “cientización de la política” y, a la vez, en una “politización de la ciencia”. A eso la propia ciencia responde cambiando gradualmente su paradigma, desde el tradicional modo-1 (monodisciplinaria y centrada de forma prevalente en espacios académicos) a una modo-2, que ve a la ciencia solo como uno de los componentes de un proceso extensivo de producción de conocimiento, lo que demanda no solo la inclusión de más actores dentro de su producción, sino también el empleo de nuevos enfoques metodológicos y epistemológicos que atribuyan mayor relevancia a la pluralidad de formas de conocimiento, a la importancia de su robustez social y a su sensibilidad respecto del contexto de su aplicación (H. Nowotny et al. ‘Mode 2’ revisited: the new production of knowledge).</p><p>Estas consideraciones adquieren un peso aún más marcado en el caso de aquellos problemas que, además de trascender las tradicionales líneas de separaciones entre disciplinas científicas, tienden, por su propia naturaleza, a involucrar elevados niveles de incertidumbre epistemológica y de carga valórica que vuelven toda solución inherentemente riesgosa, arbitraria y controversial (S. Funtowicz y J. Ravetz Science for the post normal age) y requieren por lo tanto nuevas formas de gobernanza que “are critical and reflective, uncertainty-aware, quality-focused, foster plurality in scientific and normative perspectives on complex issues, and actively engage extended peer communities in the production, appraisal and use of knowledge” (Dankel et. al. 2017:1).</p><p>Es este el caso de los denominados wicked problems (por ejemplo, el cambio climático), que comparten ciertas características comunes: “they are life-threatening and urgent, have long-term impacts, are highly complex (systemic), and cannot be solved by simple remedies. As sustainability problems are «real-world» problems, stakeholders must express an interest in understanding the problem and exploring solution options. Moreover, stakeholders’ willingness to adopt and implement solutions increases when they have a strong ownership of the problem” (<xref ref-type="bibr" rid="B18">Wiek et al. 2012</xref>:8).</p><p>Abordarlos requiere, por lo tanto, abandonar los clásicos métodos reduccionistas en función de nuevas técnicas transdisciplinarias, experimentales y participativas, las cuales, además, pueden considerarse formas de investigación orientadas al problema (J. Allmedinger Quest for interdisciplinarity), es decir, dirigida a encontrar y promover soluciones transformativas para los problemas reales y urgentes que acechan la sociedad moderna, lo que a su vez requiere que estas incorporen tanto consideraciones teórico-metodológicas, como normativas y estratégico-operativas.</p><p>Los complejos desafíos a los cuales los procesos dialógicos participativos y transdisciplinarios intentan responder, se traducen en una variedad de barreras y límites para la realización eficaz de dichos procesos, los que se pueden resumir en:</p><p>a) La obligación de redefinir y renegociar constantemente el significado de los conceptos utilizados (R. Van Stigt et al. A user perspective on the gap between science and decision-making) así como la heterogeneidad de formas de conocimiento (J. Edelenbos et al. Co-producing knowledge) y de los criterios de validez asociados a las mismas (D. Hegger et al. Conceptualising joint knowledge production) debido a la pluralidad de semánticas y terminologías propias de cada tradición disciplinaria, organizacional y epistémica.</p><p>b) La tensión entre el impulso por dar cabida a la complejidad y especificidad de las diferentes racionalidades, formas de conocimiento y valores -en coherencia con el punto precedente- y el riesgo de conducir a resultados tan contingentes que pueden llegar a mermar tanto su generalización como su utilización para la toma de decisiones (J. Glicken Getting stakeholder participation ‘right’).</p><p>c) El peligro de que la participación se vuelva una instancia en la cual cada actor persigue sus propios intereses, ya sea influenciando en su favor la decisión que se tomará, o bien promoviendo la adopción de determinadas conceptualizaciones o interpretaciones instrumentales a las coaliciones de conocimiento a las cuales pertenece (A. Wesselink et al. Technical knowledge, discursive spaces and politics).</p><p>d) El costo (tanto en términos de dinero y otros recursos, como de tiempo) de llevar a cabo procesos participativos, la falta de incentivos (e incluso la presencia de desincentivos) económicos, políticos, culturales y/o profesionales, la ausencia de formación adecuada de científicos y tomadores de decisión para tomar parte en este tipo de instancias, y, en general, la dificultad de motivar una participación efectiva de los interesados (H. Wiklund Why high participatory ideals fail in practice).</p><p>Estos desafíos podrían resumirse afirmando que las instancias dialógico-participativas se encuentran constitutivamente enfrentadas a una infranqueable tensión entre proximidad y distancia. Estudios en el ámbito de proximidad, es decir, del grado en que se comparte la misma base de conocimiento (por ejemplo, en términos de formación disciplinaria), pertenencia organizacional, procedencia geográfica-territorial, relaciones sociales y de confianza y/o normas socio-institucionales, muestran que esta tiene el potencial de “reduce uncertainty and solve the problem of coordination, and, thus, facilitate interactive learning and innovation” (Boschma 2005:62). Sin embargo, indica el autor, “not only too little, but also too much proximity may be detrimental to interactive learning and innovation” (Boschma 2005:61), porque es justamente la distancia la que provee acceso a una mayor complejidad y diversidad de formas de conocimiento y perspectivas que, en la medida en que logren direccionarse hacia un objetivo común, pueden resultar muy fructíferas (ver también J. Knoben y L. Oerlemans Proximity and inter-organizational collaboration y P. Balland et al. Proximity and innovation).</p><p>De esta forma, entendemos que las instancias dialógico-participativas actualizan -y redefinen- un límite entre distintos horizontes de expectativas, intentando movilizar y hacer resonar esferas societales distantes entre sí. Ya sea para producir un conocimiento más complejo, en el caso de las instancias transdisciplinarias modo-1 o para probabilizar la coordinación de diferentes racionalidades en el logro de algún objetivo común. En el caso del modo-2, se intenta lograr una coordinación entre diferentes esferas societales, por medio de un ejercicio de aproximación progresiva, donde demasiada proximidad haría el trabajo estéril, mientras demasiada distancia volvería la comunicación imposible.</p><p>Clave para lograr este balance entre proximidad y distancia (entre traspasar los confines y mantenerlos) es la noción de boundary objects: “objects which are both plastic enough to adapt to local needs and constraints of the several parties employing them, yet robust enough to maintain a common identity across sites” (Star and Griesemer 1989:393). Estas características hacen que estos objetos límites (como actas, documentos de trabajo, informes, modelos o escenarios), construidos colaborativamente, puedan servir tanto de anclajes para promover el éxito del diálogo, como de premisas para futuras colaboraciones entre las distintas esferas que fueron movilizadas en su co-construcción (ver al respecto D. Cash et al. Knowledge systems for sustainable development; D. Hegger et al. Conceptualising joint knowledge production y D. <xref ref-type="bibr" rid="B7">Lang et al. </xref>Transdisciplinary research in sustainability science).</p><p>La propuesta de metálogo que se discute en el siguiente apartado busca, justamente, formalizar una metodología orientada a la construcción colaborativa de boundary objects y a fomentar mayor reflexividad en dicho proceso, tanto respecto de la diversidad de posturas de observación y expectativas que caracterizan a sus participantes, como de las soluciones que emergen dentro del diálogo mismo para hacer frente a dicha diversidad.</p>
+</sec>
+<sec>
+<title>III. El metálogo como intervención sistémica</title>
+<p>El antropólogo Gregory Bateson define la noción de metálogo así: “Un metálogo es una conversación sobre algún tema problemático. La conversación tiene que ser tal, que no solo los participantes discutan efectivamente el problema, sino que la estructura de la conversación en su totalidad sea también pertinente al mismo tema” (Bateson 1972:17).</p><p>Con eso el autor buscaba enfatizar que se trata de una particular forma de diálogo, cuyos participantes discuten tanto del problema en sí mismo, como de la forma en la que se trata el problema; por ende, el metálogo acoplaría comunicación y metacomunicación, observación de primer y de segundo orden.</p><p>La técnica del metálogo que presentamos en este artículo se obtiene a partir de una re-interpretación de la propuesta Batesoniana, a la luz de los desarrollos propuestos por el enfoque sistémico-constructivista impulsado por Niklas Luhmann.</p><p>Tanto para Luhmann, como para Bateson, el objeto primario de análisis social es la comunicación. Pero si en Bateson ésta quedaba todavía anclada a la realidad individual de los sujetos que participan de ella, para Luhmann la comunicación debe comprenderse como situada en un orden operacional distinto y propio, emergente y separado respecto de la psiquis de sus participantes. Aunque quede siempre acoplada con la psiquis de los individuos pensantes por medio del lenguaje, la comunicación es para Luhmann característica de los sistemas sociales, que son por su propia naturaleza sistemas operacionalmente clausurados y autorreferenciales. La noción de sociedad no apunta entonces ni a una esencia, ni a principios de integración morales, ni a una suma de individuos o Estados, sino únicamente a “la operación que produce y re-produce a la sociedad: eso es la comunicación” (Luhmann 2007:48). </p><p>A su vez, para Luhmann la comunicación debe entenderse como una observación: solo ocurre cuando un observador distingue entre una información comunicada y el acto por medio del cual ésta es dada a conocer. Como toda observación, la comunicación puede entonces solo ocurrir por medio de una distinción, es decir, una diferencia por medio de la cual se ve lo que se ve y nada más que eso. Y como toda distinción, es altamente contingente y ciega a si misma: al emplearse solo permite ver lo distinguido y no la unidad de la distinción usada para distinguirlo. Dicha distinción solo se hace visible por medio de un segundo acto de observación (denominado observación de segundo orden) que toma por objeto no lo observado, sino la forma (la distinción) usada para observar, y con ello, permite hacer visible su punto ciego (su unidad), así como la forma en que el observador observado “desparadojiza la paradoja de la observación” (Luhmann 1996:75). Eso, sin embargo, solo puede hacerse empleando otra distinción, a su vez ciega a su propia unidad: la observación de segundo orden no es, por lo tanto, una forma superior de observar o de comunicar, sino más bien un modo de observación, que permite introducir reflexividad sobre la forma en que se comunica aquello que se comunica: “Su objetivo consiste en hacer distinguibles las formas de distinguir a través de las cuales personas, grupos, comunidades, organizaciones y otras conformaciones de observadores producen sus experiencias de conocimiento. Su propio conocimiento emerge mediante operaciones de observación y descripción que indican cómo otros sistemas llevan a cabo sus operaciones y cómo, en dependencia de ellas, construyen sus mundos de realidad” (Arnold 2010:6).</p><p>Cada comunicación se basa en tres distinciones (información, acción comunicativa que la da a conocer y observación que distingue entre ambas), las cuales son contingentes y se realizan con independencia de las otras. Esto implica que se debe considerar a la comunicación como un acontecimiento altamente improbable, que solo se vuelve posible por medio de mecanismos de auto-condicionamiento que cada sistema social debe proveer por sí mismo: estructuras, que definen qué enlaces entre operaciones comunicativas han de considerarse aceptables, y semánticas, que almacenan el conjunto de distinciones disponibles para ser empleadas en la comunicación. Esto implica que estructuras y semánticas sean producidas de forma autónoma por cada sistema social, lo que hace extremadamente improbable la coordinación entre las operaciones y rendimiento de distintos sistemas.</p><p>El tipo de sistema en el que operan los metálogos es lo que se denomina sistema de interacción: “Social systems are interactions if they must recognize that their environment contains communications that cannot be controlled by the system. Interactions therefore need social boundaries. They conceive themselves as face-to-face interactions and use the presence of persons as a boundary-defining device” (Luhmann 1987:114).</p><p>Como indica su nombre, el sistema de interacción se estructura alrededor de la interacción entre los participantes, la que a su vez requiere que cada uno de ellos esté en condición de percibir que se percibe mutuamente con otros, por lo cual las selecciones de sentido que operan en sus comunicaciones se realizarán tomando en cuenta a los otros participantes.</p><p>Evidentemente, el caso ejemplar de esta situación se da en condiciones de co-presencialidad entre dichos participantes, aunque los recientes avances tecnológicos pueden permitir otras formas de percepción recíproca entre ellos (redes sociales, chats, videoconferencias, o incluso cadenas de mail entre múltiples participantes). La interacción es el más simple y más antiguo entre los sistemas sociales, ya que la distinción entre presentes y ausentes identifica claramente los límites del sistema, aunque esto se hace cada vez más complejo en la medida en que se hacen disponibles formas de presencia a distancia. </p><p>Los sistemas de interacción enfrentan también límites estructurales: además de la co-presencia, la interacción se desarrolla en un limitado ámbito temático, siendo la memoria de interacciones previas lo que funciona como referencia para interacciones futuras. Adicionalmente, dicho sistema se disuelve fácilmente en presencia de los conflictos, comunicaciones desagradables o poco interesantes, o ante intentos de establecer jerarquías, lo que tiende a empujar a los interlocutores a retirarse.</p><p>Es justamente para superar esta fragilidad que la sociedad ha ido desarrollando medios y estructuras que hacen posibles el éxito de comunicación no interactiva: teorías y metodologías científicas, programas políticos, normas jurídicas, premisas decisionales organizativas, etc. Pero, por otro lado, justamente debido a que prescinde de este tipo de estructuras, el sistema de interacción puede volverse una instancia privilegiada para cruzar los límites que ellas establecen (entre disciplinas, entre ciencia y política, entre organizaciones…) e incluso, reflexionar sobre dichos límites y abrir nuevas posibilidades de coordinación.</p><p>A diferencia de lo que ocurre en un sistema de interacción normal, en el caso de las instancias dialógicas-participativas, los temas no emergen espontáneamente en la comunicación, sino que son prefijados por quien promueve la realización del diálogo. Esto se debe a que dichas instancias representan una forma de intervención en las operaciones sistémicas acorde a los objetivos específicos, ya sea de un mandante externo o del propio sistema. En este contexto, es fundamental considerar que todo proceso de intervención se encuentra expuesto a una infranqueable tensión entre exigencias de coherencia y de autonomía: por un lado, su objetivo es proveer cierto grado de coordinación entre las operaciones y rendimientos del sistema (o de los sistemas) objeto de intervención y los objetivos de la intervención misma; por el otro, no puede pasar por alto la autonomía autorreferencial de los sistemas que se buscan regular: “La regulación del sistema es siempre por tanto autorregulación, sea que se refiera al sistema con ayuda de una distinción entre auto y heteroreferencia constituida internamente, o a su entorno” (Luhmann 2017:8).</p><p>Una intervención, en el mejor de los casos, puede intentar crear condiciones que se reflejen en las estructuras de autorregulación de estos últimos: “Las intervenciones son solo posibles en la forma de una condicionalización de las condiciones contextuales que entran como diferencias observables en la base de datos del sistema en cuestión” (Willke 2016:21). En otras palabras, solo son posibles bajo la forma de una orientación contextual, es decir, “como una invitación e incentivo a la autorregulación de sistemas (sociales y psíquicos) autónomos, operativamente clausurados y cognitivamente abiertos a su entorno sobre la base de sus propias distinciones“ (Mascareño 2011:1). </p><p>En lugar de intentar interferir directamente en la autonomía del sistema objetivo, la intervención contextual respeta dicha autonomía, ofreciendo al sistema nuevas distinciones en un lenguaje que este pueda entender, aumentando sus alternativas comunicacionales disponibles con el fin de lograr que aquel reconozca la ventaja de auto-orientarse, acomodando sus estructuras y operaciones en consonancia con dichos objetivos.</p><p>Es posible distinguir tres ámbitos diferentes de intervención a los cuales un metálogo puede dirigirse: disciplinas, organizaciones y grupos.</p><p>Las disciplinas “son subsistemas del sistema de la ciencia, se trata pues fundamentalmente de una diferenciación del sistema mismo” (Luhmann 1996:319); por lo mismo, cada una de ellas se rige por el mismo código (la búsqueda de la verdad), aunque ha establecido bordes que la definen como unidad en función de criterios de carácter teórico y metodológico, los programas, por medio del cual el sistema científico se estructura. Por lo mismo, intervenir dentro de cada disciplina significará emplear distinciones que puedan resonar con las específicas configuraciones teórico-metodológicas prevalentes dentro de cada una de ellas.</p><p>Por su parte las organizaciones “are social systems which are able to stabilize forms of action and behaviour by deciding about more or less strong conditions of membership and about their practices and procedures” (Nassehi 2005:8). Las organizaciones son maquinas decisionales porque se reproducen conectando decisiones a otras decisiones, o dicho de otra forma, autocondicionan sus propias decisiones por premisas decisionales tales como objetivos y tareas, vías de comunicación autorizadas y criterios de membrecía. Una intervención dentro de una organización será exitosa si se ajusta a dichas premisas decisionales, orientándose a los objetivos y tareas que la organización considera relevante, empleando las vías de comunicación que esta evalúa como adecuadas y canalizándose por personas que son aceptadas como miembros dentro de la organización, considerando también la posición que estos ocupan dentro de las jerarquías internas a la misma.</p><p>Finalmente, en el caso de los grupos, “su principio de constitución como sistema social está basado en un acoplamiento estricto de personas en «pertenencias» específicas que se definen autoselectivamente dentro del propio sistema” (Cadenas 2014:10). La pertenencia a un grupo es más difusa que la membrecía dentro de una organización, pero es más estable que la mera presencia dentro de una interacción; en los grupos la comunicación se orienta personalmente, dirigiéndose a una constante reactualización de la identidad de los participantes mediante reglas autoconstituidas de reconocimiento, así como a la mantención de la cultura grupal como forma de autoaseguramiento de sus posibilidades de latencia en el tiempo. Por lo cual, la intervención en un grupo requerirá alinearse con las reglas de autoreconocimiento (identidad) propia de cada grupo, con su cultura y los criterios de pertenencia que este define. En síntesis, en todos estos casos, la intervención contextual busca lograr resonancia del sistema objetivo (ya sea disciplina, organización o grupo) con los objetivos de la propia intervención. </p><p>Para que dicha resonancia sea posible, es fundamental que tanto el sistema interventor como el sistema objetivo desarrollen la capacidad reflexiva necesaria, por un lado, para reconocer y aceptar la diversidad y autonomía del otro y, por el otro, observar su interdependencia recíproca: “La reflexión se basa efectivamente en que un sistema reintroduzca permanentemente las diferencias entre el sistema y el entorno en el sistema, y que lo haga bajo el punto de vista de comparación de posibles identidades” (Willke 2016:15).</p><p>La reflexión implica una forma de auto orientación, a través de la cual los sistemas tematizan su propia identidad y los efectos que esta tiene sobre su entorno, así como los efectos que estas consecuencias puedan tener en el futuro para sí mismo, lo que abre la posibilidad de reorganizar el mismo entorno de una forma que sea menos amenazante para el propio sistema.</p><p>Frente a estos antecedentes, el metálogo que se propone a continuación se presenta como una metodología de observación e intervención orientada a promover reflexividad dentro de los sistemas intervenidos y, por ese medio, fomentar un mayor grado de articulación y coordinación entre las distintas racionalidades involucradas.</p>
+</sec>
+<sec>
+<title>IV. Principios generales de un metálogo</title>
+<p>Podríamos definir el metálogo como una metodología de observación e intervención dirigida a fomentar la coordinación entre participantes de un sistema interaccional, convocado alrededor de un tema de interés común. </p><p>El diálogo se realiza en un modo de segundo orden, con el fin de probabilizar la co-construcción de un boundary object capaz de resonar en los distintos ámbitos disciplinarios, organizaciones y/o grupos desde los que proceden los interlocutores. </p><p>Es posible distinguir dos niveles diferentes de operación del metálogo y de la reflexividad que este busca producir.</p><p>Primero, al nivel del sistema interaccional dentro del cual el diálogo opera, la reflexividad se produce al forzar la adopción de una modalidad de auto-observación de segundo orden en el interior del sistema interaccional intervenido: esto permite que los interlocutores se desacoplen de las distinciones que utilizan y las observen en relación con las otras, enfrentando su propia contingencia. De esta manera, se espera lograr una mayor abertura a la diversidad e interdependencia recíproca. </p><p>Segundo, la intervención que finaliza en la co-construcción dialógica de un boundary object podrá luego promover la reflexividad al nivel de los distintos ámbitos disciplinarios, organizaciones y/o grupos desde los cuales los interlocutores proceden: ello es posible porque, por un lado, la participación de los interlocutores facilita que el boundary object sea delineado en forma y lenguaje adecuado para resonar con las distintas estructuras y semánticas propias de cada uno de los contextos de procedencia de los participantes; por el otro, especialmente cuando los interlocutores son reconocidos como personas relevantes dentro de sus propias disciplinas, organizaciones o grupos de procedencia, se probabiliza que estas últimas adopten el boundary object como una auto-descripción legítima en sus propias racionalidades operativas.</p><p>Estos dos niveles de intervención operada por el metálogo, junto con las etapas que permiten realizar dicha intervención, quedan resumidos en la <xref ref-type="fig" rid="f1">Figura 1</xref> (intervención en el sistema interaccional) y en la <xref ref-type="fig" rid="f2">Figura 2</xref> (intervención en los sistemas relevantes en el entorno del primero, ya sean disciplinas, organizaciones o grupos).</p><p>Como puede apreciarse en las figuras, metodológicamente, la técnica contempla la realización de, al menos, una instancia de interacción presencial entre los participantes y la realización de un proceso iterativo de reflexividad mediado por un facilitador calificado, que realiza la intervención contextual promoviendo la observación anónima de las distinciones que emerjan desde el propio sistema interaccional. El anonimato evita el riesgo de atribuir las distinciones a la intencionalidad de los otros participantes (y los conflictos que de eso podrían surgir) en favor de una mayor concentración sobre el contenido informativo de dichas distinciones respecto de la problemática específica objeto del metálogo. Al mismo tiempo, facilita al observador cuestionar sus propias distinciones, ya que no se ve en la necesidad de defenderlas para mantener la posición lograda en el sistema interaccional y en el contexto organizacional o disciplinar de procedencia.</p><p>Durante el proceso de diálogo, se requiere un registro constante de las distinciones que circulan, con el fin de emplearlas para la construcción colaborativa del boundary object con el que se concluye la intervención. Este registro es fundamental para lograr que cada una de las racionalidades se vea reflejada en el proceso y en el producto final. El alcance del sistema (tanto la cantidad de participantes como la delimitación temática y temporal) depende de los objetivos que se persigan.</p><p>El punto de partida de un metálogo es establecer un objetivo claro respecto al por qué de la realización de la intervención. Este debe identificar específicamente los productos que se espera obtener (por ejemplo: la definición de una misión organizacional, de objetivos institucionales, de un concepto interdisciplinario o de prioridades para ser abordadas frente a un problema específico), así como el alcance temporal de la intervención y los participantes. Esto da forma al sistema de interacción, fijando el tema alrededor del cual este enlazará sus comunicaciones de una forma coherente con los objetivos de la intervención; sin embargo, para que dicho objetivo resuene con los horizontes de expectativas de los participantes y de los sistemas organizacionales que ellos representan, siempre debe haber un espacio para la negociación y ajuste de dicho objetivo.</p><p>A continuación, el facilitador prepara el contenido a ser discutido en la instancia de reunión física. Para alimentar dicho contenido, se aplica un cuestionario de respuesta abierta, ya sea de manera presencial o virtual. En este, se realizan preguntas orientadas a permitir a cada informante/participante establecer, individual y anónimamente, y a partir de su propia expertiz, las distinciones que considera necesarias para abordar el problema identificado. Para la construcción de dicho cuestionario, es de gran ayuda realizar una breve revisión de antecedentes o incluso entrevistas a informantes clave/expertos del sector, lo que permite asegurar la pertinencia de dichos instrumentos respecto del objetivo que se busca alcanzar. La información proporcionada por medio de los cuestionarios es sistematizada e integrada por el facilitador, quien elabora una forma visual integrada (ya sea un mapa mental, nube de conceptos u otro) que sintetice las distintas racionalidades expresadas en los cuestionarios, tratando de ofrecer un lenguaje común que sirva de base para las sucesivas fases del metálogo. </p><p>La siguiente etapa es el núcleo del procedimiento: ahí se centra la intervención contextual dirigida a promover reflexividad en las perspectivas individuales de los participantes y, por medio de ellos, de las disciplinas, organizaciones y/o grupos que estos representan. La situación ideal es que esta etapa considere la co-presencia física de los participantes, ya que la interacción directa facilita la creación de confianza mutua entre los mismos. Al comienzo de dicha sesión presencial, el facilitador presenta los resultados de la sistematización de los cuestionarios individuales y abre un espacio de reflexión individual, donde cada miembro puede observar sus propias distinciones en el contexto de las definiciones de los otros miembros, sin que ninguna de éstas sea atribuible a alguna persona. De esta forma, cada participante tiene la posibilidad de realizar una observación de segundo orden de su propia definición y re-ingresar lo distinguido en contexto con las demás distinciones propuestas por los otros participantes. A partir de esto, se espera que los participantes completen una ficha de trabajo con sus nuevas apreciaciones y definiciones, enriquecidas por la reflexividad recién lograda. Según sea el caso, esta ficha puede proponer las mismas preguntas del cuestionario pre-intervención u otras relacionadas con las siguientes etapas del trabajo, por ejemplo, identificación de propuestas, relaciones entre los elementos observados, oportunidades y desafíos, definición de prioridades y compromisos, etc.</p><p>A continuación, se abre un espacio de diálogo y discusión, a propósito de las mismas preguntas que cada participante ya ha desarrollado de forma individual, en al menos dos ocasiones (cuestionario previo y luego ficha de trabajo). Se sugiere para esta etapa incorporar la utilización de recursos didácticos, ya sea papelógrafos, post-it, plumones o una pizarra para facilitar la coordinación de las comunicaciones en el sistema interaccional. El facilitador aquí puede jugar el rol de integrar las diversas perspectivas en la medida que transcurre la intervención, promoviendo una traducción entre racionalidades que favorezca la discusión y coordinación. El registro en audio y la toma de acta detallada de la actividad es fundamental para la etapa posterior.</p><p>Ambas fases de la intervención (ficha de trabajo y discusión) pueden repetirse más de una vez (dentro de la misma sesión de trabajo o durante múltiples sesiones), ya sea porque se desea que los participantes pasen por múltiples iteraciones durante el proceso de observación de segundo orden y re-entry reflexiva o porque las características del problema que se enfrenta hace oportuno que éste se subdivida en partes o momentos a discutirse separadamente. En este caso, cada repetición debe constar de las mismas etapas de trabajo (cuestionario, retroalimentación, ficha de trabajo, discusión), aunque es posible concentrar en una sola sesión inicial la etapa de fijación de objetivos y en una sola sesión final la etapa de integración. </p><p>Asimismo, dependiendo del tamaño del sistema interaccional, es posible subdividir a los participantes en equipos de trabajo para discutir sobre los temas establecidos. Los equipos pueden formarse de manera espontánea o dirigida, y en el segundo caso, pueden quedar pre-asignados por el facilitador o derivar de los resultados de una de las etapas previas del metálogo. Es recomendable que en los equipos participen entre 5 y 9 personas, para facilitar la interacción entre ellos y que sean conformados con la mayor diversidad posible, para así favorecer que se confronten las diferencias desde ese nivel. Cada equipo deberá escoger un moderador y un encargado de tomar nota y sintetizar la discusión, para presentarla luego frente a un plenario donde se desarrolla un debate ampliado.</p><p>Una vez finalizada la instancia de intervención, el facilitador realiza una nueva integración, ahora incorporando toda la información producida: tanto los cuestionarios iniciales, como las fichas de trabajo individual, la discusión grupal y sus principales acuerdos (observable a partir de la transcripción del audio y/o del acta). Esta integración es la que posteriormente se constituye en el boundary object, el que debe al menos ser devuelto en una ocasión a las personas que participaron, para incorporar sus observaciones y comentarios. Después de generar este último espacio de retroalimentación, si existen controversias sobre ciertos puntos, o posiciones imposibles de articular, se recomienda incluir las diferencias en el documento, permitiendo así que las posiciones contrapuestas queden reflejadas y que, al mismo tiempo, se evidencien los conflictos latentes del tema. </p><p>Cuando el problema sea subdividido en partes o en equipos de trabajo, puede ser útil que el boundary object refleje dicha subdivisión y los resultados alcanzados dentro de cada instancia por separado, complementados con una introducción y conclusión que contextualicen y recompongan, respectivamente, dichos componentes. La conclusión en particular puede derivar en la etapa de plenario de la intervención, de una sesión final dentro de la misma o también puede ser realizada de forma individual por el facilitador, cuando la trazabilidad de la conclusión es evidente en el registro del proceso. </p>
+<p>
+	<fig id="f1">
+		<label>Figura 1</label>
+		<caption>
+			<title>Etapas del metálogo como intervención en un sistema interaccional (elaboración propia)</title></caption>
+		<graphic xlink:href="0717-554X-cmoebio-62-00182-gf1.jpg"/>
+	</fig>
+</p>
+<p><fig id="f2">
+<label>Figura 2</label>
+<caption><title>Etapas de intervención en las disciplinas / organizaciones / grupos del entorno relevante del metálogo (elaboración propia)</title></caption>
+<graphic xlink:href="0717-554X-cmoebio-62-00182-gf2.jpg"/>
+</fig></p>
+</sec>
+<sec sec-type="intro">
+<title>Reflexiones finales</title>
+<p>La técnica que proponemos en este artículo resulta especialmente provechosa para establecer diálogos fructíferos en contextos de trabajo transdisciplinario, precisamente por la capacidad de construir lenguajes comunes al promover la reflexividad respecto de las distinciones propias y la co-construcción de distinciones comunes. Esto permite lograr un mayor grado de coordinación entre los distintos participantes y las disciplinas, organizaciones y/o grupos de los que proceden, o al menos, definir el marco general en el que dicha coordinación podrá desarrollarse. Incluso en el caso en que no se logre la coordinación, es posible identificar ámbitos específicos para la realización de sucesivas instancias dialógicas. Ejemplos específicos de aplicación incluyen: la definición de lineamientos estratégicos y objetivos de investigación o intervención, la construcción de marcos teóricos-conceptuales comunes, la realización de diagnósticos, la determinación de compromisos, prioridades, estrategias y planes de acción y la creación y operación de grupos de trabajo inter y transdisciplinarios, entre otros.</p><p>Por lo mismo, consideramos que la difusión y progresivo perfeccionamiento de esta metodología tiene creciente relevancia frente a las crecientes demandas de mecanismos participativos y transdisciplinarios, tanto en el contexto nacional como internacional. Chile, en particular, ha visto durante los últimos años una multiplicación de modelos de coordinación descentralizada, tales como los “sistemas de deliberación” (Mascareño 2010:113), que buscan balancear la verticalidad de las instituciones democrático-representativas con la horizontalidad de las formas privadas de gobernanza. Estos últimos tuvieron un auge particular durante los gobiernos de Michelle Bachelet, aunque a menudo con límites en términos de la inclusión de los actores afectados, cierta tendencia hacia la tecnocratización y una insuficiente imparcialidad en equilibrar las asimetrías emergentes durante los procesos de negociación.</p><p>En particular, el uso de este tipo de instancias se ha ido multiplicando, especialmente en conexión con los problemas relacionados con la sustentabilidad: experiencias complejas y de gran alcance, tales como la construcción de escenarios para la mitigación del cambio climático o la definición participativa de la política energética de largo plazo del país, han marcado la discusión y han abierto el camino para una mayor aplicación de técnicas dialógicas en ciencia y política. Sin embargo, paralelamente también se han desarrollado una gran variedad de experiencias de menor tamaño, igualmente innovadoras y desafiantes.</p><p>Este provechoso contexto de exploración transdisciplinaria también ofrece algunas oportunidades para poner a prueba y mejorar técnicas como la que proponemos en este artículo. Durante los últimos tres años, se han realizado múltiples metálogos para el diseño e implementación de una variedad de instancias dialógico-participativas, tanto de modo-1 como de modo-2. Entre las primeras, vale la pena destacar el taller transdisciplinario para la definición de los lineamientos estratégicos del Programa para la Reducción del Riesgo de Desastres de la Universidad de Chile, donde se logró la coordinación de 7 disciplinas distintas en la construcción de un lenguaje común para comprender el riesgo entre agosto 2016 y abril 2017; la Red de Pobreza Energética, ambicioso programa de colaboración transdisciplinaria orientado a definir y operacionalizar el concepto de pobreza energética para su aplicación al caso de Chile en 2017, y la definición de los lineamientos estratégicos y de trabajo para el periodo 2018-2023 del Centro de Ciencia del Clima y la Resiliencia. Entre las segundas (modo-2), podemos mencionar el proceso que involucró a más de 30 expertos, funcionarios públicos y representantes de organismos internacionales, del ámbito privado y de la sociedad civil, en la revisión 2018 de la NDC (Nationally Determined Contributions) de Chile frente al cambio climático en relación al océano, así como el trabajo de la comisión multi-disciplinaria y multi-institucional encargada de definir las prioridades y lineamientos de I+D+I de resiliencia frente a desastres naturales por cuenta del Consejo Nacional de Investigación y Desarrollo.</p><p>Para terminar, presentamos a continuación algunas de las lecciones aprendidas a partir de estas experiencias, respecto de los rendimientos posibles de la técnica, desafíos y buenas prácticas que pueden apoyar la utilización exitosa de los metálogos para intervenir sistemas de interacción orientados a favorecer una mayor colaboración entre disciplinas, organizaciones y/o grupos, en particular en el contexto de problemas relacionados con la sustentabilidad.</p><p>La realización del cuestionario previo a la reunión es fundamental ya que facilita la discusión, en la medida que permite comenzar desde un punto base común, al tiempo que el sistema interaccional no se ve forzado a comenzar el diálogo desde cero, favoreciendo un uso eficiente del tiempo. Por otra parte, el carácter anónimo de dicho cuestionario permite evitar la carga personal atribuible a posturas individuales. Particularmente importante resulta el estímulo visual para la fase de retroalimentación, para permitir apreciar y poner en perspectiva las similitudes, diferencias e interacciones entre las distinciones propuestas que se ponen en diálogo.</p><p>Otro aspecto relevante es que el facilitador de la intervención sea una persona que no se encuentre en una posición de poder o superioridad jerárquica, para que la intervención no presente cargas hacia la priorización de una racionalidad por sobre las otras. También es un aporte que dicho facilitador haya recibido una formación adecuada en la realización y moderación de instancias de discusión colectiva. Así mismo, la síntesis de las diversas posturas y su articulación deben ser claramente registradas y transparentadas, logrando la trazabilidad del resultado final. Este desafío y la necesidad de construir documentos claros, lo más completos posibles, implican que el facilitador y su equipo (dependiendo del tamaño del sistema interaccional y extensión del proceso) deben contar al menos con conocimientos mínimos de análisis de contenido cualitativo y capacidad de redacción de documentos de trabajo.</p><p>Por otra parte, se ha identificado como un elemento positivo (en casos de sistemas interaccionales que tengan un alcance temporal mayor a una sesión) el identificar, durante cada reunión, los próximos pasos y definiciones a perseguir, para utilizarlos de base en la elaboración de nuevos cuestionarios y fichas de trabajo, así como la estructura de las siguientes intervenciones. Es fundamental que el uso del tiempo sea lo más efectivo posible, ya que los participantes deben mantener el compromiso durante todo el proceso. </p><p>Es bueno notar que, si bien se privilegia e incentiva la participación presencial, el metálogo como técnica permite incorporar las visiones de personas que no se encuentren presentes, mediante la observación de las respuestas elaboradas en el cuestionario inicial. Asimismo, una vez elaborada la síntesis integrativa final, esta puede volver a ser observada reflexivamente de forma individual y generar una nueva iteración de sus resultados a partir de la labor del facilitador. La posibilidad de incluir a más interlocutores, a través de la participación en los cuestionarios y revisión de avances, favorece la resonancia del “boundary object” en los espacios disciplinares, grupales y organizacionales, reforzando además la legitimidad del proceso.</p><p>Si bien esta técnica ya ha sido utilizada en diversos contextos, y con exitosos resultados, es fundamental seguir desarrollando las herramientas específicas para canalizar los diversos tipos de controversias que se generan en la interacción de múltiples racionalidades. A este respecto, es bueno señalar que la evolución de cada metálogo tiene carácter fuertemente contingente, dependiendo de las racionalidades involucradas y de la forma con la que estas se manifiestan en las fichas de trabajo y en el diálogo sucesivo. Por lo mismo, la metodología presentada en estas líneas debe contextualizarse y adecuarse dependiendo de las características de cada caso. Es fundamental considerarla como una técnica flexible y adaptativa. Como es el caso con la mayoría de las técnicas de tipo cualitativo, debe evitarse la tentación a una aplicación estandarizada e irreflexiva: para que el metálogo sea efectivamente capaz de introducir reflexividad e inducir colaboración en el sistema interaccional escogido, una condición mínima es que el metálogo, y su facilitador, se mantenga siempre reflexivo sobre sí mismo.</p>
+</sec>
+</body>
+<back>
+<ack>
+<title>Financiamiento</title>
+<p>El desarrollo de esta metodología ha sido posible gracias al espacio abierto por organizaciones donde existe una preocupación especial por la vinculación entre conocimiento y toma de decisiones. Bajo este marco agradecemos al Centro de Ciencia del Clima y la Resiliencia (Proyecto FONDAP CONICYT N°15110009), la Unidad de Redes Transdisciplinarias de la Vicerrectoría de Investigación y el Programa de Reducción de Riesgo de Desastres de la Universidad de Chile y al Consejo Nacional de Innovación para el Desarrollo en Chile. Los autores agradecen especialmente a la empresa de estudios Ecuante, espacio creativo en el contexto del cual se gestaron las primeras ideas de esta metodología.</p>
+</ack>
+<ref-list>
+<title>Referencias bibliográficas</title>
+<ref id="B1">
+<mixed-citation>Arnold, M.(2010). "Constructivismo sociopoiético". <italic>Revista Mad.</italic> (23), 1-8. Recuperado de https://doi.org/10.5354/0718-0527.2010.13629</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arnold</surname>
+<given-names>M. </given-names>
+</name>
+</person-group>
+<year>2010</year>
+<article-title>Constructivismo sociopoiético</article-title>
+<source>Revista Mad</source>
+<volume></volume>
+<issue>23</issue>
+<fpage>1</fpage>
+<lpage>8</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5354/0718-0527.2010.13629">https://doi.org/10.5354/0718-0527.2010.13629</ext-link>
+</element-citation>
+</ref>
+<ref id="B2">
+<mixed-citation>Bateson, G. (1972). <italic>Pasos hacia una ecología de la mente</italic>.  Buenos Aires: Lohlé-Lumen</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Bateson</surname>
+<given-names>G.</given-names>
+</name>
+</person-group>
+<year>1972</year>
+<source>Pasos hacia una ecología de la mente</source>
+<publisher-name>Lohlé-Lumen</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B3">
+<mixed-citation>Boschma, R.(2005). "Proximity and innovation: a critical assessment". <italic>Regional Studies . 39</italic>(1), 61-74. Recuperado de https://doi.org/10.1080/0034340052000320887</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Boschma</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>2005</year>
+<article-title>Proximity and innovation: a critical assessment</article-title>
+<source>Regional Studies </source>
+<volume>39</volume>
+<issue>1</issue>
+<fpage>61</fpage>
+<lpage>74</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/0034340052000320887">https://doi.org/10.1080/0034340052000320887</ext-link>
+</element-citation>
+</ref>
+<ref id="B4">
+<mixed-citation>Cadenas, H. (2014). <italic>La organización de las organizaciones sociales: aplicaciones desde perspectivas sistémicas</italic>. En Arnold, M., Cadenas, H., Urquiza, A (autor.);Organizaciones y grupos: loose coupling/strict coupling.  (153-170). Santiago: RIL Editores</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Cadenas</surname>
+<given-names>H.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>La organización de las organizaciones sociales: aplicaciones desde perspectivas sistémicas</source>
+<chapter-title>Organizaciones y grupos: loose coupling/strict coupling</chapter-title>
+<publisher-name>RIL Editores</publisher-name>
+<fpage>153</fpage>
+<lpage>170</lpage>
+</element-citation>
+</ref>
+<ref id="B5">
+<mixed-citation>Cornell, S., Berkhout, F., Tuinstra, W., Tàbara, J., Jäger, J., Chabay, I., Wit, B., Langlais, R., Mills, D., Moll, P., Otto, I., Petersen, A., Pohl , C., Kerkhof, L.(2013). "Opening up knowledge systems for better responses to global environmental change". <italic>Environmental Science and Policy.</italic> (28), 60-70. Recuperado de https://doi.org/10.1016/j.envsci.2012.11.008</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cornell</surname>
+<given-names>Sarah</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Berkhout</surname>
+<given-names>Frans</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Tuinstra</surname>
+<given-names>Willemijn</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Tàbara</surname>
+<given-names>J. David</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Jäger</surname>
+<given-names>Jill</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Chabay</surname>
+<given-names>Ilan</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Wit</surname>
+<given-names>Bert de</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Langlais</surname>
+<given-names>Richard</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Mills</surname>
+<given-names>David</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Moll</surname>
+<given-names>Peter</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Otto</surname>
+<given-names>Ilona M.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Petersen</surname>
+<given-names>Arthur</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Pohl </surname>
+<given-names>Christian</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Kerkhof</surname>
+<given-names>Lorrae van</given-names>
+</name>
+</person-group>
+<year>2013</year>
+<article-title>Opening up knowledge systems for better responses to global environmental change</article-title>
+<source>Environmental Science and Policy</source>
+<volume></volume>
+<issue>28</issue>
+<fpage>60</fpage>
+<lpage>70</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.envsci.2012.11.008">https://doi.org/10.1016/j.envsci.2012.11.008</ext-link>
+</element-citation>
+</ref>
+<ref id="B6">
+<mixed-citation>Dankel, D., Vaage, N., van der Sluijsaef, J.(2017). "Post-normal science in practice". <italic>Futures.</italic> (91), 1-4. Recuperado de https://doi.org/10.1016/j.futures.2017.05.009</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dankel</surname>
+<given-names>Dorothy J.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Vaage</surname>
+<given-names>Nora S.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>van der Sluijsaef</surname>
+<given-names>Jeroen P.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<article-title>Post-normal science in practice</article-title>
+<source>Futures</source>
+<volume></volume>
+<issue>91</issue>
+<fpage>1</fpage>
+<lpage>4</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.futures.2017.05.009">https://doi.org/10.1016/j.futures.2017.05.009</ext-link>
+</element-citation>
+</ref>
+<ref id="B7">
+<mixed-citation>Lang, D., Wiek, A., Bergmann, M., Stauffacher, M., Martens, P., Moll, P., Swilling, M., Thomas, C.(2012). "Transdisciplinary research in sustainability science: practice, principles, and challenges". <italic>Sustainability Science. 7</italic>(1), 25-43. Recuperado de https://doi.org/10.1007/s11625-011-0149-x</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lang</surname>
+<given-names>Daniel J.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Wiek</surname>
+<given-names>Arnim</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Bergmann</surname>
+<given-names>Matthias</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Stauffacher</surname>
+<given-names>Michael</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Martens</surname>
+<given-names>Pim</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Moll</surname>
+<given-names>Peter</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Swilling</surname>
+<given-names>Mark</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Thomas</surname>
+<given-names>Christopher J.</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<article-title>Transdisciplinary research in sustainability science: practice, principles, and challenges</article-title>
+<source>Sustainability Science</source>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>25</fpage>
+<lpage>43</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11625-011-0149-x">https://doi.org/10.1007/s11625-011-0149-x</ext-link>
+</element-citation>
+</ref>
+<ref id="B8">
+<mixed-citation>Luhmann, N. (2017). <italic>La economía de la sociedad</italic>. , México: Herder</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Luhmann</surname>
+<given-names>N. </given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>La economía de la sociedad</source>
+<publisher-loc>México</publisher-loc>
+<publisher-name>Herder</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B9">
+<mixed-citation>Luhmann, N. (2007). <italic>La sociedad de la sociedad</italic>. , México: Universidad Iberoamericana</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Luhmann</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<year>2007</year>
+<source>La sociedad de la sociedad</source>
+<publisher-loc>México</publisher-loc>
+<publisher-name>Universidad Iberoamericana</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B10">
+<mixed-citation>Luhmann, N. (1996). <italic>La ciencia de la sociedad</italic>. , México: Universidad Iberoamericana</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Luhmann</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<year>1996</year>
+<source>La ciencia de la sociedad</source>
+<publisher-loc>México</publisher-loc>
+<publisher-name>Universidad Iberoamericana</publisher-name>
+<fpage></fpage>
+<lpage></lpage>
+</element-citation>
+</ref>
+<ref id="B11">
+<mixed-citation>Luhmann, N. (1987). <italic>The micro-macro link</italic>. En Alexander, J (autor.);The evolutionary differentiation between society and interaction.  (112-131). Berkeley: University of California Press</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Luhmann</surname>
+<given-names>N. </given-names>
+</name>
+</person-group>
+<year>1987</year>
+<source>The micro-macro link</source>
+<chapter-title>The evolutionary differentiation between society and interaction</chapter-title>
+<publisher-name>University of California Press</publisher-name>
+<fpage>112</fpage>
+<lpage>131</lpage>
+</element-citation>
+</ref>
+<ref id="B12">
+<mixed-citation>Mascareño, A.(2010). "Coordinación social mediante políticas públicas: el caso chileno". <italic>Revista CEPAL .</italic> (101), 111-126. Recuperado de http://archivo.cepal.org/pdfs/revistaCepal/Sp/101111126.pdf</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mascareño</surname>
+<given-names>A. </given-names>
+</name>
+</person-group>
+<year>2010</year>
+<article-title>Coordinación social mediante políticas públicas: el caso chileno</article-title>
+<source>Revista CEPAL </source>
+<volume></volume>
+<issue>101</issue>
+<fpage>111</fpage>
+<lpage>126</lpage>
+<ext-link ext-link-type="uri" xlink:href="http://archivo.cepal.org/pdfs/revistaCepal/Sp/101111126.pdf">http://archivo.cepal.org/pdfs/revistaCepal/Sp/101111126.pdf</ext-link>
+</element-citation>
+</ref>
+<ref id="B13">
+<mixed-citation>Mascareño, A.(2011). "Sociología de la intervención: orientación sistémica contextual". <italic>Revista Mad.</italic> (25), 1-33. Recuperado de https://doi.org/10.5354/0718-0527.2011.15656</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mascareño</surname>
+<given-names>A. </given-names>
+</name>
+</person-group>
+<year>2011</year>
+<article-title>Sociología de la intervención: orientación sistémica contextual</article-title>
+<source>Revista Mad</source>
+<volume></volume>
+<issue>25</issue>
+<fpage>1</fpage>
+<lpage>33</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5354/0718-0527.2011.15656">https://doi.org/10.5354/0718-0527.2011.15656</ext-link>
+</element-citation>
+</ref>
+<ref id="B14">
+<mixed-citation>Nassehi, A.(2005). "Organizations as decision machines: Niklas Luhmann's theory of organized social systems". <italic>The Sociological Review. 53</italic>(1), 178-191. Recuperado de https://doi.org/10.1111/j.1467-954X.2005.00549.x</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nassehi</surname>
+<given-names>A. </given-names>
+</name>
+</person-group>
+<year>2005</year>
+<article-title>Organizations as decision machines: Niklas Luhmann's theory of organized social systems</article-title>
+<source>The Sociological Review</source>
+<volume>53</volume>
+<issue>1</issue>
+<fpage>178</fpage>
+<lpage>191</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1467-954X.2005.00549.x">https://doi.org/10.1111/j.1467-954X.2005.00549.x</ext-link>
+</element-citation>
+</ref>
+<ref id="B15">
+<mixed-citation>Spangenberg, J.(2011). "Sustainability science: a review, an analysis and some empirical lessons". <italic>Environmental Conservation. 38</italic>(3), 275-287. Recuperado de https://doi.org/10.1017/S0376892911000270</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Spangenberg</surname>
+<given-names>J.H.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<article-title>Sustainability science: a review, an analysis and some empirical lessons</article-title>
+<source>Environmental Conservation</source>
+<volume>38</volume>
+<issue>3</issue>
+<fpage>275</fpage>
+<lpage>287</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0376892911000270">https://doi.org/10.1017/S0376892911000270</ext-link>
+</element-citation>
+</ref>
+<ref id="B16">
+<mixed-citation>Star, S., Griesemer, J.(1989). "Institutional ecology, ‘translations’ and boundary objects: amateurs and professionals in Berkeley’s museum of vertebrate zoology, 1907-39". <italic>Social Studies of Science. 19</italic>(3), 387-420. Recuperado de https://www.jstor.org/stable/285080</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Star</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Griesemer</surname>
+<given-names>J. </given-names>
+</name>
+</person-group>
+<year>1989</year>
+<article-title>Institutional ecology, ‘translations’ and boundary objects: amateurs and professionals in Berkeley’s museum of vertebrate zoology, 1907-39</article-title>
+<source>Social Studies of Science</source>
+<volume>19</volume>
+<issue>3</issue>
+<fpage>387</fpage>
+<lpage>420</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/285080">https://www.jstor.org/stable/285080</ext-link>
+</element-citation>
+</ref>
+<ref id="B17">
+<mixed-citation>Wesselink, A., Paavola, J., Fritsch, O., Renn, O.(2011). "Rationales for public participation in environmental policy and governance: practitioners’ perspectives". <italic>Environment and Planning A . 43</italic>(11), 2688-2704. Recuperado de https://doi.org/10.1068/a44161</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wesselink</surname>
+<given-names>Anna</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Paavola</surname>
+<given-names>Jouni</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Fritsch</surname>
+<given-names>Oliver</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Renn</surname>
+<given-names>Ortwin</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<article-title>Rationales for public participation in environmental policy and governance: practitioners’ perspectives</article-title>
+<source>Environment and Planning A </source>
+<volume>43</volume>
+<issue>11</issue>
+<fpage>2688</fpage>
+<lpage>2704</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1068/a44161">https://doi.org/10.1068/a44161</ext-link>
+</element-citation>
+</ref>
+<ref id="B18">
+<mixed-citation>Wiek, A., Ness, B., Schweizer-Ries, P., Brand, F., Farioli, F.(2012). "From complex systems analysis to transformational change: a comparative appraisal of sustainability science projects". <italic>Sustainability Science. 7</italic>(1), 5-24. Recuperado de https://doi.org/10.1007/s11625-011-0148-y</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wiek</surname>
+<given-names>Arnim</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Ness</surname>
+<given-names>Barry</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Schweizer-Ries</surname>
+<given-names>Petra</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Brand</surname>
+<given-names>Fridolin S.</given-names>
+</name>
+</person-group>
+<person-group person-group-type="author">
+<name>
+<surname>Farioli</surname>
+<given-names>Francesca</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<article-title>From complex systems analysis to transformational change: a comparative appraisal of sustainability science projects</article-title>
+<source>Sustainability Science</source>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>5</fpage>
+<lpage>24</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11625-011-0148-y">https://doi.org/10.1007/s11625-011-0148-y</ext-link>
+</element-citation>
+</ref>
+<ref id="B19">
+<mixed-citation>Willke, H.(2016). "Formas de autoorientación de la sociedad". <italic>Revista Mad.</italic> (34), 1-35. Recuperado de https://doi.org/10.5354/0718-0527.2016.40608</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Willke</surname>
+<given-names>H.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<article-title>Formas de autoorientación de la sociedad</article-title>
+<source>Revista Mad</source>
+<volume></volume>
+<issue>34</issue>
+<fpage>1</fpage>
+<lpage>35</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5354/0718-0527.2016.40608">https://doi.org/10.5354/0718-0527.2016.40608</ext-link>
+</element-citation>
+</ref>
+</ref-list>
+<app-group>
+<app id="app1">
+<label>
+
+</label>
+<p>
+
+</p>
+</app>
+</app-group>
+</back>
+</article>

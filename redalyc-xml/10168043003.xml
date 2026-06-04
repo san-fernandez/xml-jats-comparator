@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00003</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000200120</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Una perspectiva situada sobre el conocimiento de la vida cotidiana</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>A situated perspective of knowledge of everyday life</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4648-2757</contrib-id>
+               <name>
+                  <surname>Sandoval</surname>
+                  <given-names>Juan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3822-3715</contrib-id>
+               <name>
+                  <surname>Guerra</surname>
+                  <given-names>Abel</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff01">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Facultad de Ciencias Sociales, Universidad de Valparaíso. Chile</institution>
+            <institution content-type="normalized">Universidad de Valparaíso</institution>
+            <institution content-type="orgname">Universidad de Valparaíso</institution>
+            <country country="CL">Chile</country>
+            <email>juan.sandoval@uv.cl</email>
+         </aff>
+         <aff id="aff01">
+            <label>1</label>
+            <institution content-type="original">Facultad de Ciencias Sociales, Universidad de Valparaíso. Chile</institution>
+            <institution content-type="normalized">Universidad de Valparaíso</institution>
+            <institution content-type="orgname">Universidad de Valparaíso</institution>
+            <country country="CL">Chile</country>
+            <email>abel.guerra@uv.cl</email>
+         </aff>
+         <pub-date pub-type="epub">
+            <season>Apr-Sep</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>68</issue>
+         <fpage>120</fpage>
+         <lpage>133</lpage>
+         <history>
+            <date date-type="received">
+               <day>15</day>
+               <month>03</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>23</day>
+               <month>06</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="es">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen:</title>
+            <p>Este ensayo tiene como propósito fundamentar teóricamente el carácter situado del conocimiento de la vida cotidiana. Como punto de partida, apoyándonos en la noción de “forma de vida” de Ludwig Wittgenstein, postulamos que nuestras decisiones son, fundamentalmente, usos prácticos de sistemas de reglas históricamente construidas y, por consiguiente, irreductibles a procedimientos algorítmicos de evaluación racional costo-beneficio. Posteriormente, para abordar la cuestión sobre las condiciones que hacen posible la incorporación subjetiva de estas reglas y, con ello, nuestro sentido práctico, recuperamos algunos planteamientos de las tesis del “trasfondo” de John Searle y habitus de Pierre Bourdieu. Luego de esta discusión, a partir de la perspectiva de los conocimientos situados de Donna Haraway, proponemos que la conformación de dicho sentido es siempre parcial, esto es, sujeto a prácticas articulatorias encarnadas. Finalmente, tras exponer sucintamente los principales aspectos críticos de las tesis “trasfondo” y habitus, argumentamos que la perspectiva de los conocimientos situados representa una alternativa plausible para fundamentar teórica y metodológicamente una nueva aproximación al conocimiento de la vida cotidiana.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract:</title>
+            <p>This essay argues for a situated character of knowledge of everyday life. As a starting point, relying on Ludwig Wittgenstein's notion of “form of life”, we propose that our decisions are fundamentally practical uses of historically constructed rules systems and, therefore, those are irreducible to algorithmic procedures of rational cost-benefit evaluation. Later, to address the question of the conditions that make possible the subjective incorporation of these rules and, with it, our practical sense, we recover some approaches from the “background” thesis of John Searle and habitus by Pierre Bourdieu. After this discussion, from Donna Haraway's perspective of situated knowledge, we propose that the conformation of that sense is always partial; that is, related to embodied articulatory practices. Finally, we argue that the perspective of situated knowledge represents a plausible alternative to theoretically and methodologically support an approach to knowledge of everyday life.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>forma de vida</kwd>
+            <kwd>trasfondo</kwd>
+            <kwd>habitus</kwd>
+            <kwd>conocimientos situados</kwd>
+            <kwd>articulación</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>form of life</kwd>
+            <kwd>background</kwd>
+            <kwd>habitus</kwd>
+            <kwd>situated knowledge</kwd>
+            <kwd>articulation</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="13" />
+            <page-count count="14" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introducción</title>
+         <p>Sin temor a equivocarnos afirmaríamos que la mayoría de los lectores de este texto se autodefinen como personas razonables y evalúan sus creencias y decisiones sobre el mundo y los demás como las más adecuadas que pueden asumir. De hecho, cuando los autores de este texto reflexionamos sobre cómo nos enfrentamos a la tarea de definir el grado de corrección de una idea que pretendemos desarrollar o la justicia de una decisión que debemos tomar, constatamos que siempre nos planteamos como una sentencia imperativa el que debemos ser razonables, obviando casi completamente la pregunta por “lo racional” de nuestra idea o decisión y actuando con un “sentido práctico” que procuramos sea lo más juicioso y sensato para una determinada circunstancia.</p>
+         <p>Pero ¿qué diferencia puede haber entre lo racional y lo razonable, que no refiera simplemente a que lo segundo es una suerte de expresión psicológicamente imperfecta de las capacidades de inferencia analíticamente formalizadas en lo primero? Una respuesta tentativa para iniciar una línea de argumentación puede ser que el mundo de lo “razonable”, es decir, el mundo de las creencias y la toma de decisiones en contextos culturales específicos, tiene más que ver con el problema de cómo los sujetos construyen históricamente un “sentido” o “razón práctica” sobre el mundo, que con la formalización racional del pensamiento lógico.</p>
+         <p>Los embates teóricos sobre la idea de una razón universal se han multiplicado desde los primeros anuncios de las críticas filosóficas de Nietzsche, al tiempo que han proliferado los diversos esfuerzos por resucitarla por la vía de la crítica, el consenso y la historia. Importantes filósofos y teóricos sociales durante todo el siglo XX y lo que llevamos de siglo XXI, han debatido sobre el valor de lo racional en nuestras vidas cotidianas y, si realizáramos un recuento detallado de los contenidos de aquellos debates, nos encontraríamos con una extraña polaridad. Por un lado, varios intentos por asegurar el valor fundante de lo racional a través de la formalización de unos procesos que poco tienen que ver con la vida social e histórica de los sujetos, y, por otro, no menos esfuerzos por borrar todo atisbo de racionalidad, negando los intentos teóricos destinados a la descripción de los procesos de construcción de un “sentido” o “razón práctica”.</p>
+         <p>El presente ensayo, más que ubicarse en la confrontación estéril entre una suerte de universalismo racionalista y un nihilismo irracional, se propone argumentar una perspectiva de lo históricamente “razonable”, es decir, una “razón práctica” que nos permite que las creencias y decisiones que asumimos en unas circunstancias materiales y simbólicas determinadas no sean arbitrarias. La “razón práctica”, en conexión con la noción aristotélica de phrónesis, constituye una región cuya seña de identidad no son los juicios apodícticos, sino el predominio de lo razonable sobre lo demostrable. El camino de lo razonable pretende preguntarse por cómo se construye y reproduce un sistema de convenciones capaz de establecer en cada momento una frontera borrosa, pero absolutamente real, entre lo correcto y lo incorrecto, lo verdadero y lo falso, lo bello y lo feo.</p>
+      </sec>
+      <sec>
+         <title>Razón práctica y forma de vida</title>
+         <p>Para comenzar este análisis, consideremos de manera general los diversos experimentos sobre las formas de razonamiento que se han venido difundiendo en los manuales de la psicología cognitiva, no con el objeto de repetir lo ya señalado en otras partes sobre cómo el ejercicio de una racionalidad no cooperativa termina perjudicando individualmente a los sujetos expuestos a una decisión, sino para destacar cómo el análisis de la psicología del pensamiento se sostiene sobre situaciones ideales, en las cuales los individuos poseen la cualidad de actuar e interactuar sobre la base de un plan coherente que intenta maximizar la satisfacción neta de sus preferencias y minimizar los costos, sin hacer referencia explícita a las circunstancias específicas en las que esos objetivos tienen sentido. La racionalidad aparece en estos diversos análisis como una facultad ligada exclusivamente al logos, constituyendo en palabras de Rorty (Objetividad, relativismo y verdad) “un ingrediente extra” que los seres humanos poseemos con independencia de las circunstancias espaciotemporales en las cuales nos tengamos que desenvolver. Pero ¿es posible describir esa cualidad sin referirnos a condiciones simbólico-materiales concretas que puedan hacer de esa situación un caso real?</p>
+         <p>Exploremos esta interrogante a través de un dilema ligado al problema de la coordinación. Imaginemos una situación en la que usted (sujeto A) y otra persona (sujeto B) quieren subir a un ascensor. En él hay suficiente espacio para ambos, pero por el tamaño de la puerta no pueden entrar los dos a la vez, razón por la cual necesariamente alguien debe hacerlo primero, y, como usted no tiene prisa, no le importa que la otra persona entre antes. Sin embargo, lo que sí quiere evitar, y aquí es donde radica el problema de coordinación, es que ni usted ni la otra persona intenten pasar primero pensando que el otro le cederá el paso, ni que ambos se queden esperando en la puerta a que el otro entre primero al ascensor.</p>
+         <p>Así planteado el problema, estaríamos ante una situación que, más allá de su simplicidad, tendría dos posibles equilibrios lógicos, a saber: el sujeto A espera y el sujeto B avanza, o el sujeto A avanza y el sujeto B espera. No obstante, en el momento en que situamos el problema en un tiempo y un espacio concreto, los equilibrios simétricos de lo racional se ven sobrepasados por el “simple” sentido de lo más razonable. Si pensamos por ejemplo que entre los sujetos A y B pueden existir jerarquías laborales o económicas, diferencias de géneros o edades, o que entre ambos medie la experiencia de haberse encontrado ya varias veces en la misma situación, con mucha probabilidad en esas circunstancias operará una convención que definirá claramente que es lo razonable en cada caso, mucho más allá de las probabilidades simétricas de nuestras elecciones. Así es como nos encontramos con varias formas ritualizadas de resolución de problemas, en las cuales aprendemos a desarrollar respuestas coherentes con circunstancias específicas sin necesidad de apelar a un proceso de razonamiento lógico, de modo que, la toma de decisiones en la vida cotidiana respondería a unos complejos procesos de conservación y cambio de las “reglas del juego” que nos hacen miembros de una comunidad de interpretantes.</p>
+         <p>Este caso nos permite ejemplificar que nuestras decisiones responden a la sedimentación de un sistema de reglas, las que, a pesar de tener un origen convencional, hacen que la vida social sea relativamente predecible, permitiéndoles a los protagonistas de nuestro ejemplo coordinar acciones sobre la base de un saber compartido. Estamos ante el asentamiento de las reglas de un juego, y como nos señaló Wittgenstein, todos los juegos y lenguajes están regidos por sistemas de reglas que un buen jugador debe saber y respetar para participar adecuadamente en el juego: “Considera por ejemplo, los procesos que llamamos juegos. Me refiero a juegos de tablero, juegos de cartas, juegos de pelota, juegos de lucha, etc. ¿Qué hay de común a todos ellos? -No digas: “Tiene que haber algo común a ellos o no los llamaríamos juegos” - sino mira si hay común a todos ellos.  Pues si miras no verás por cierto algo que sea común a todos, sino que verás semejanzas, parentescos y por cierto toda una serie de ellos. Como se ha dicho: ¡no pienses sino mira! Mira, por ejemplo, los juegos de tablero con sus variados parentescos” (Wittgenstein 1988:87).</p>
+         <p>Las reglas son de orden convencional, es decir, responden a una forma de asentamiento intersubjetivo de un orden normativo y, por lo tanto, excluyen cualquier pretensión de que un determinado juego -o lenguaje- se pueda sostener sobre la base de un orden natural. Sin embargo, que las reglas sean convencionales no implica que no sean reales; más bien, las reglas después de ser instituidas como tales en un sistema de prácticas determinado, deben ser respetadas para poder participar de ellas.</p>
+         <p>Es decir, dado un sistema de jerarquías, relaciones de poder, tradiciones, disposiciones corporales y criterios estéticos, no da lo mismo cualquier decisión ante un problema específico y, por el contrario, ante determinadas reglas del juego, puede existir una y sola una respuesta correcta. No obstante, esto no significa que estemos postulando algo así como “una realidad fuerte” que está ahí y que condiciona objetivamente lo que resulta razonable creer o hacer en un determinado contexto. Antes bien, lo que postulamos, siguiendo los argumentos de Wittgenstein y Putnam, es que la renuncia a la idea de que las cosas son de una manera con independencia de nosotros no implica necesariamente que debamos negar que nuestras creencias y decisiones transcurren en un escenario absolutamente “real” que establece sus condiciones de posibilidad.</p>
+         <p>Para ilustrar qué puede representar para nuestra discusión sobre lo “razonable” esta posición híbrida entre un realismo pragmático y un relativismo conceptual, podemos utilizar el análisis de Putnam sobre el ya famoso debate que enfrenta la lógica de Carnap a la lógica de Lezniewski, respecto del problema de si en un mundo con los elementos 1, 2 y 3, existen tres o siete objetos. Recordemos que el debate radica en que según Carnap en este mundo solo existen las unidades discretas 1, 2, y 3, en cambio, para los lógicos polacos existen los elementos 1, 2 y 3, más sus respectivas sumas mereológicas, es decir, 1+2, 2+3, 1+3, y 1+2+3. Entonces, ¿cuántos objetos hay realmente en este mundo imaginario? La respuesta de Putnam es esclarecedora: “Si escojo el lenguaje de Carnap, debo decir que hay tres objetos porque éstos son cuantos objetos hay. Si escojo el lenguaje del lógico polaco (...) debo decir que hay siete objetos, porque éstos son cuantos objetos hay (en el sentido de ‘objeto’ del lógico polaco). Hay ‘hechos externos’ y podemos decir cuáles son. Lo que no podemos decir -¬porque no tiene sentido- es que los hechos sean independientes de todas las elecciones conceptuales” (Putnam 1994:82).</p>
+         <p>De este modo, el filósofo norteamericano nos llama la atención sobre un hecho fundamental para entender la propuesta de una “razón práctica”, a saber, que las posibilidades de creer y decidir algo frente a un problema determinado no son arbitrarias, más bien, están material y simbólicamente ligadas a una tradición de la que somos parte. Lo anterior significa que en nuestro ejemplo la respuesta al problema de cuántos objetos hay en el mundo de los elementos 1, 2 y 3 depende directamente del esquema conceptual que utilicemos para hacer nuestras distinciones. Sin embargo, la respuesta de Putnam también nos señala con claridad que, desde el momento que nos ubicamos en la tradición de un esquema conceptual determinado, ya no hay convencionalidad posible, porque, dado un juego de lenguaje determinado, nos encontramos frente a “hechos objetivados” que están en el mundo para ser descubiertos y no legislados unilateralmente por nosotros, de manera que la definición de si en nuestro ejemplo hay tres o siete objetos solo se puede hacer una vez que se haya adoptado la perspectiva objetivadora de un determinado juego de lenguaje.</p>
+         <p>Hablar de “juegos de lenguaje” implica para la proposición teórica de este ensayo que los criterios que hacen más o menos razonable nuestras acciones se asientan en las bases de una tradición. Es decir, el sentido de adecuación o acierto de hacer algo en un momento determinado, como bien argumenta Dennett en su crítica a la autoridad de la primera persona, no se deriva del significado subjetivo y privado que un sujeto le puede asignar a su conducta, sino que los criterios que dan sentido a la acción se articulan en sistemas de reglas, esquemas conceptuales y aspectos convencionales asumidos como tradición histórica y que, desde una perspectiva wittgensteiniana, denominamos “forma de vida”.</p>
+         <p>Desde la teoría social del conocimiento (N. Pleasants. Wittgenstein and the idea of critical social theory), el concepto “forma de vida” puede ser entendido como un esquema normativo ligado a los procesos de estructuración y transformación histórica de un mundo de certezas. Esta noción de un esquema de la estructuración daría cuenta de la base material, activa y social de nuestra actividad cotidiana, de modo que todo análisis del sentido de una creencia o acción nos remitiría necesariamente a un lecho de prácticas, acuerdos, instituciones y jerarquías, sedimentadas en la historia de nuestra propia tradición. Como nos propone García Selgas: “La forma-de-vida no tiene la arbitrariedad de una elección libre, ni la fuerza de una ley de la naturaleza, y sin embargo, constituye, para toda acción material o/y lingüística, una base y una constricción: como concordancia y ‘acuerdo’ básico posibilita la participación en, y la corrección de, una práctica así como su sentido. (...) Admitir la base que para nosotros es la forma-de-vida, incluso que ésta puede variar como el lecho de un río, no conlleva necesariamente un relativismo o/y una clausura conceptual, pues como el mismo Wittgenstein ha mostrado, desde nuestra forma-de-vida, podemos imaginar o descubrir otras, y argumentar (e incluso actuar) a favor o en contra de algunos de sus propios ingredientes” (García Selgas 1992:118).</p>
+         <p>Sin embargo, este esquema de sedimentaciones estructurales que dan cuenta de una forma de vida no constituye una representación que guía nuestras acciones y creencias, más bien constituye una forma de sedimentación de hábitos, de prácticas materiales y simbólicas que “sostienen” nuestro hacer desde su asentamiento en nosotros mismos. Como ha señalado el propio filosofo vienés, el fundamento de nuestras creencias y acciones supuestamente bien fundamentadas yace en creencias y hábitos no fundamentados, es decir, cuando ya no tenemos contenidos cognitivos a los que apelar, solo nos queda decir que simplemente es así como actuamos. Estamos ante un sistema de reglas que establece los límites de lo posible desde un registro no exclusivamente cognoscitivo, al constituir una compleja forma de saber que describe el proceso por el cual las sedimentaciones históricas de nuestra forma de vida se asientan y reproducen en nosotros mismos.</p>
+      </sec>
+      <sec>
+         <title>Trasfondo, habitus y razonabilidad de la acción</title>
+         <p>Al llegar a este punto de nuestra argumentación nos proponemos explicar cómo es que los sujetos podemos actuar a través de un sentido práctico que se asienta en nuestro propio cuerpo. Si pensamos en cómo actuamos en nuestras vidas cotidianas, constataremos que cuando nos enfrentamos ante un problema debemos producir prácticas con el criterio temporal de la contingencia, es decir, debemos actuar, responder, decidir, con la urgencia del aquí y ahora, ya que la experiencia nos ha enseñado que una respuesta adecuada no vale nada si no se realiza en el momento adecuado. Para entender estas situaciones contingentes resulta necesario alejarse tanto de la teoría de la acción racional y su imagen de un sujeto racional omnipotente y capaz de una “reflexión” previa sobre todos los factores que están en juego en un determinado problema, como del sueño de la sociología durkheimiana de un sistema de representaciones colectivas capaz de determinar unilateralmente los contenidos de la conciencia por medio de un proceso libre de cualquier trámite subjetivo.</p>
+         <p>Ambas imágenes no resultan razonables en el contexto de nuestras vidas cotidianas, y, por ello, ni el sujeto calculador ni el sujeto autómata constituyen metáforas adecuadas para entender el problema básico de cómo se asienta en nosotros mismos un “conocimiento tácito”, una suerte de mundo Wittgensteniano de certezas implícitas que Bourdieu denominó “sentido práctico”. Para plantearlo en forma explícita, ¿cómo podemos entender ese asentamiento subjetivo que hace que las reglas de una “forma de vida” se transformen en un “saber práctico” automático e inconsciente? ¿Cómo es que la sedimentación histórica se hace cuerpo y subjetividad?</p>
+         <p>Para abordar este problema teórico nos resultará útil la noción de trasfondo propuesta originalmente por Searle para explicar el contexto que posibilita la acción intencional de los sujetos. Según este autor, los estados intencionales refieren a una particular propiedad de los estados mentales humanos en virtud de la cual éstos se dirigen a, o son sobre algún objeto o estado del mundo. Sin embargo, y aquí la relevancia de recuperar este planteamiento para los propósitos de este ensayo, los estados intencionales no funcionan en forma independiente, más bien cada uno se desarrolla en relación con otros estados intencionales, pudiendo decirse, por ejemplo, que una creencia cualquiera solo puede ser lo que es porque está localizada en una red que incluye otras creencias y deseos. De hecho, si intentáramos buscar los distintos hilos de esta red para explicarlos detalladamente, nos encontraríamos con la sorpresa de que estamos ante un camino infinito e imposible, porque como señala Searle, cualquier búsqueda en esta red alcanzaría inevitablemente una suerte de lecho de capacidades que en sí mismas no consisten en estados intencionales, pero que establecen un trasfondo de precondiciones para el funcionamiento de estos, y que puede ser definido como “(un) conjunto de capacidades mentales no representacionales que permiten que tengan lugar todas las representaciones” (Searle 1992:157).</p>
+         <p>En nuestro análisis, la idea de “trasfondo” nos sirve para destacar una serie de situaciones en las cuales las “razones” de una acción están depositadas en unas destrezas o habilidades mentales y corporales que, en virtud de un saber socialmente compartido, hacen más razonable una acción que otra. Lo que estamos proponiendo es que las bases de nuestra “razón práctica” sobrepasan los procesos conscientes de resolución de problema o decisión racional, y más bien, se asientan en una compleja mezcla de saberes muchas veces inconscientes y automáticos que cada ser biológico¬-social elabora a partir de sus relaciones con el mundo. Sin esa constitución biológica y sin el conjunto de relaciones sociales en las que estamos incorporados como sujetos, no podríamos creer en lo que creemos, ni estaríamos capacitados para actuar de la manera como lo hacemos. En palabras de García Selgas: “Es la sedimentación de la vida, de la vida que nos antecede y nos rodea y de la vida vivida, lo que alimenta y conforma el trasfondo de la intencionalidad, sin el que no podría haber actos intencionales definidos y, por ello, comprensibles. Es la sedimentación de la vida lo que hace posible el espacio social de interacción regulada (simbólicamente, en nuestro caso), de un agente capaz y con las disposiciones apropiadas, y de un capital (simbólico) intercambiable. Es la sedimentación de la vida humana lo que hace posible, como un marco o un trasfondo, la (re)producción y comprensión de los sentidos de las acciones” (García Selgas 1994:500).</p>
+         <p>De este modo, la noción de “trasfondo” correspondería a un contexto de capacidades, creencias, saberes y prácticas que, con una realidad primariamente biológica y necesariamente social, nos posibilita que sobrevivamos por medio de conductas y creencias cada día más razonables. En este sentido y sobrepasando la acepción original de Searle, la idea de “trasfondo” que proponemos como sustento de nuestra “razón práctica” refiere a la subjetivación de un saber compartido, un ámbito de conocimientos donde la “forma de vida” Wittgensteniana se hace cuerpo y subjetividad.</p>
+         <p>Para entender esta última proposición, los argumentos Bourdieu nos pueden resultar de gran utilidad. En su análisis del “sentido práctico”, el sociólogo francés sostiene que el mundo estructurado inculca en hombres y mujeres un conjunto de disposiciones duraderas que generan prácticas particulares denominadas habitus. Estas disposiciones producirían las prácticas, improvisaciones, actitudes y movimientos corporales que realizamos como sujetos, proporcionándonos una sensibilidad o “razón práctica” que nos posibilita ejecutar un número infinito de estrategias para afrontar situaciones también infinitas y cambiantes. Este concepto de habitus corresponde a una entidad prelingüística encarnada en los agentes y que hace posible la razonabilidad de nuestras acciones y, por tanto, podríamos calificarlo en el contexto de la argumentación de este ensayo como una manifestación del “trasfondo” de nuestra “razón práctica”.</p>
+         <p>Como señala el mismo Bourdieu: “Los condicionamientos asociados a una clase particular de condiciones de la existencia producen habitus, sistemas de disposiciones duraderas y transferibles, estructuras estructuradas predispuestas a funcionar como estructuras estructurantes, es decir, como principios generadores y organizadores de prácticas y representaciones que pueden estar objetivamente adaptadas a su meta sin suponer el propósito consciente de ciertos fines ni el dominio expreso de las operaciones necesarias para alcanzarlos” (Bourdieu 2008:86).</p>
+         <p>La noción de habitus nos sirve para entender el concepto de “trasfondo” como una suerte de subjetividad socializada, una forma de saber práctico que se encuentra escrito biológica y subjetivamente en el propio cuerpo, de modo que las reglas y hábitos que han sedimentado como una “forma de vida” son replicados en los propios seres biológicos a partir de un complejo proceso de “acoplamiento estructural”. Intentemos precisar esta descripción abstracta recordando aquel caso tantas veces discutido en los manuales de psicología de la percepción en el cual se analiza una suerte de “capacidad especial” de los esquimales para percibir varios tipos de color blanco en la nieve, es decir, un caso concreto en que las condiciones materiales de vida acumuladas por los esquimales como saber práctico les permite desarrollar unos esquemas de percepción y acción solo reproducibles desde esas especiales condiciones de vida. Suponemos que estamos de acuerdo en que este caso, junto a varios otros ligados a las habilidades de percepción musical, las destrezas físicas de un deporte, o el saber oral de una subcultura urbana, pueden constituir buenos ejemplos de cómo una “forma de vida” se inscribe como habilidades especiales en un sistema perceptivo-conductual determinado, mostrando cómo “la cognición no es representación sino acción corporizada, y que el mundo que conocemos no es pre-dado, sino que se enactúa a través de nuestra historia de acoplamiento estructural” (Varela, Thompson y Roch 1992:233).</p>
+         <p>Por ello, más allá de los esfuerzos por formalizar nuestros procesos de pensamiento a partir de una lógica inferencial, resultaría plausible entender que los sujetos resolvemos nuestros problemas por medio de un saber complejo, que en forma inconsciente y automática nos habilita para construir respuestas razonables. Pensemos en el caso de los estudiantes que responden a una pregunta de selección múltiple a partir del así denominado “sistema de descarte”. ¿Les parecería correcto describir ese, muchas veces errático, proceso heurístico de búsqueda de saber previo como un proceso racional? Ciertamente todos sabemos que en estos casos una pequeña cantidad de información acumulada a presión debe ser usada eficazmente a partir de unas habilidades instaladas en el propio cuerpo de los sujetos. En ese proceso concurren lecturas, hábitos y experiencias que no siempre tienen que ver con la pregunta en cuestión, pero que sin embargo pueden demostrar la habilitación del estudiante para resolver el problema. Del mismo modo, podríamos pensar en cómo resolvemos complejas situaciones en las cuales prácticamente no media tiempo alguno entre el problema y nuestra reacción, situaciones en las que el saber acumulado y sedimentado en unos hábitos socialmente compartidos nos posibilita casi sin pensar, hacer o decir lo que resultaba razonable.</p>
+         <p>Como lo muestra el ejemplo anterior, la independencia del habitus de cualquier acto que implique el seguimiento consciente de reglas es lo que hace posible vivir los múltiples juegos de lenguaje sin preguntarnos constantemente sobre sus condiciones de producción. Nacemos participando en un juego sin haberlo decidido, de manera que reflexionar sobre el sentido del mundo requiere suspender nuestra inmersión inconsciente en él y, con ello, revelar la arbitrariedad de sus reglas. Sin embargo, de ningún modo esto nos debería conducir a una explicación mecanicista sobre la acción, como si los sujetos estuviéramos causalmente determinados por unas reglas que nos son externas. Por el contrario, la cualidad estructurante del habitus lo aleja de un mero ejercicio de reproducción de esas reglas, en tanto que son incorporadas de acuerdo con la lógica específica de sus esquemas disposicionales. A su vez, que dichos esquemas sean el resultado de la acumulación de diversos tipos de capital a lo largo de las trayectorias de vida de los sujetos no quiere decir que seamos un simple depositario de un pasado que se sedimenta en forma de “letra muerta” en nosotros, porque más bien el habitus reactiva ese pasado en función de las circunstancias específicas del presente, reviviendo y transformando la realidad incorporada. Tal como lo afirma Bourdieu (Meditaciones pascalianas), con una clara inspiración heideggeriana, la disposición es, al mismo tiempo, exposición, por cuanto siempre estamos en el mundo poniéndonos en juego en una infinidad de situaciones. Esto quiere decir que las disposiciones configuradoras de nuestro habitus solo pueden ser referidas en su interacción con unas circunstancias específicas del presente, las que, en todo caso, pueden desencadenarlas o inhibirlas. Sobre este último aspecto quisiéramos enfatizar que, de la afirmación según la cual el habitus interactúa con el presente, no se deduce necesariamente que las disposiciones se manifiesten conductualmente; de hecho, basta pensar en las diversas maneras en las que administramos un verdadero “compás de inhibición” en determinadas situaciones frente a las cuales concluimos que “lo más razonable” es guardar silencio.</p>
+         <p>Desde esta perspectiva, proponemos que el sentido de lo razonable se produce a partir de un proceso de aprendizaje corporal, cuya ocurrencia no necesariamente está mediada por algún acto de consciencia reflexiva. A modo de ejemplo, podemos referir a las investigaciones antropológicas de Wacquant sobre el boxeo, en las cuales concluye que, para las condiciones de ejecución exitosa de este deporte, el seguimiento de secuencias de información es completamente prescindible, puesto que su aprendizaje ocurre inevitablemente en la práctica. Es más, la evaluación de la pericia de un boxeador no requiere la ejecución de un acto reflexivo, porque es una práctica que “consiste en una serie de intercambios estratégicos en los que los errores se pagan en el acto, la fuerza y la frecuencia de los golpes encajados establecen el balance instantáneo del resultado” (Wacquant 2006:66).</p>
+         <p>Si bien resulta innegable el estatus ontológico del cuerpo, sus límites, función social y el sentido de cada uno de sus movimientos depende de la articulación entre el habitus y el espacio social. Así, por ejemplo, las diferencias entre los gestos, posturas, movimientos y vestimenta de las mujeres que asumen los trabajos de cuidado al interior del hogar y el conjunto de disposiciones de los hombres volcados principalmente al mercado y a la vida pública, se inscriben meticulosamente en cada cuerpo de acuerdo con su posición dentro de sociedades caracterizadas por una marcada división sexual del trabajo. Que las relaciones semiótico-materiales de un campo social se inscriban en la constitución misma de nuestro cuerpo quiere decir que la objetivación de los esquemas corporales del habitus se manifiesta en una suerte de equivalencia entre el espacio físico y el espacio social, tal como lo sugiere Merleau-Ponty al afirmar que “así como la naturaleza penetra hasta el centro de mi vida personal y se entrelaza con ella, igualmente los comportamientos descienden hasta la naturaleza y se depositan en ella bajo la forma de un mundo cultural” (Merleau-Ponty 1993:359).</p>
+      </sec>
+      <sec>
+         <title>Articulación y conocimientos situados</title>
+         <p>Al llegar a este punto podemos volver a la pregunta central de nuestro ensayo: ¿cómo habitamos esa “realidad” que nos estructura y que, a su vez, estructuramos? Para abordar esta pregunta debemos alejarnos de cualquier forma de realismo que postule una relación de correspondencia entre nuestras representaciones y una realidad externa, porque supondría asumir una visión total y privilegiada del mundo, una especie de ojo de Dios con el poder de posicionarse en todos los lugares simultáneamente. Pero también debemos tomar distancia de la pretensión subjetivista del relativismo radical presente en algunas tesis del construccionismo social, al postular una suerte de reduccionismo lingüístico-verbal.</p>
+         <p>López-Silva (Realidades, construcciones y dilemas) ilustra con claridad lo anterior al advertir sobre algunas inconsistencias teóricas del construccionismo social radical como, por ejemplo, la imposibilidad de explicar formas de conocimiento pre-reflexivo como el de los recién nacidos que no son capaces de expresarse lingüísticamente, aun cuando, según sus mismos postulados, nuestra experiencia fenoménica dependería necesariamente del uso del lenguaje. De este modo, a pesar del intento de explicar toda vivencia humana a partir del lenguaje, las tesis del construccionismo radical no podrían dar cuenta de la singularidad de nuestras variadas experiencias pre-discursivas sedimentadas como realidad. Esta limitación del construccionismo radical le impediría abordar de buena manera las condiciones complejas de nuestra experiencia cotidiana, generando una suerte de reduccionismo lingüístico-verbal que nos atrapa en las consecuencias del relativismo.</p>
+         <p>Desde nuestra perspectiva, el relativismo radical nos ubicaría en la misma paradoja que el realismo objetivista: nos aleja de las condiciones concretas -materiales y simbólicas- a partir de las cuales actuamos en la vida cotidiana, porque “ambos niegan las apuestas de la localización, en la encarnación y en la perspectiva parcial. Ambos impiden ver bien. El relativismo y la totalización son ambos ‘trucos divinos’ que prometen, al mismo tiempo y en su totalidad, la visión desde todas las posiciones y desde ningún lugar” (Haraway 1995:329).</p>
+         <p>Contrariamente a las imágenes que nos proponen estas dos formas de reduccionismo, actuar en el mundo supone articularse con los diferentes elementos presentes en él. Pero con esta relación de articulación no nos referimos a la mera recombinación de elementos predefinidos y ya preexistentes, es decir, no nos referimos a la relación entre una agencia humana que se enfrenta a un mundo compuesto por un conjunto de “objetos mudos”, una suerte de mapa pasivo de rasgos externos frente a una interioridad activa y cognoscente; sino por el contrario, se trataría de relaciones de articulación en las que estas entidades reconstruyen sus rasgos constitutivos en la propia relación. Por ejemplo, así como la experiencia de los colores no es un atributo objetivo de la “realidad”, sino que responde a un complejo proceso de construcción sociocognitiva realizada por los propios sujetos, tampoco puede ser entendido como un puro atributo unilateral de la mente, ya que las bases cognitivas del procesamiento del color son absolutamente dependientes a sus posibilidades de articulación con las condiciones materiales derivadas del repertorio de frecuencias de onda de la luz.</p>
+         <p>De este modo, la idea de articulación destaca que nuestra acción en el mundo implica una (re)construcción siempre infinita e imposible, abierta a nuevas formas de relación entre los agentes que se encuentran, enfrentan y mezclan en la vida cotidiana. De ahí que Haraway nos proponga la articulación como una verdadera ontología: “Un mundo articulado tiene un número indeterminado de modos y localizaciones donde pueden realizarse conexiones. (...) En inglés antiguo, articular significa alcanzar términos de acuerdo. Quizá deberíamos volver a vivir en ese mundo ‘obsoleto’ y amoderno. Articular es significar. Es unir cosas, cosas espeluznantes, cosas arriesgadas, cosas contingentes” (Haraway 1999:150).</p>
+         <p>Lo relevante es que a partir de la noción de articulación es posible sostener una versión de “la objetividad” que no se fundamente en una relación isomórfica entre representación y realidad, pero que tampoco reduzca esta última a una especie de mundo como un código. Podríamos decir con María José Tacarone (Reflexiones sobre la tecnociencia desde una epistemología feminista) que Haraway propone un “constructivismo no radical” en el cual se conserva una forma mínima de realismo. Su propuesta es concebir la objetividad como el resultado de conocimientos situados, es decir, “conocimientos parciales, localizables y críticos, que admiten la posibilidad de conexiones llamadas solidaridad en la política y conversaciones compartidas en la epistemología” (Haraway 1995:329). Sobre esto último insiste nuestra autora cuando afirma que “la parcialidad y no la universalidad es la condición para que sean oídas las pretensiones de lograr un conocimiento racional” (Haraway 1995:335), en tanto que su propia incompletitud permite una apertura a la posibilidad de conexión con otras posiciones también parciales.</p>
+         <p>Sin embargo, esta perspectiva no implica que cada una de estas posiciones parciales se articulen simétricamente entre sí para configurar una representación completa de la realidad; por el contrario, en el argumento de Haraway la noción de articulación designa unos modos de relación que, lejos de pretender constituir una imagen especular de un mundo externo, se combinan de manera indeterminada y múltiple. Siguiendo la metáfora recuperada por Latour (Nunca fuimos modernos), la idea de articulación nos permite volver a atar el nudo gordiano entre los dos extremos del dualismo sujeto-objeto, toda vez que la realidad puede ser concebida como un tropo, esto es, como movimiento, giro, constitución contingente, pero no por ello como un efecto exclusivamente dependiente del agenciamiento humano. Haraway coincide con Latour respecto a la necesidad de relevar la participación de los “agentes-objetos” en las múltiples articulaciones semiótico-materiales de categorías etnoespecíficas como mente-cuerpo, estructura-acción o naturaleza-cultura y, por consiguiente, nos plantea la necesidad de comprender cómo se producen localmente las fronteras entre cada una de estas dimensiones.</p>
+         <p>Ahora bien, a partir de esta propuesta, ¿cómo se articulan entre sí las diferentes posiciones parciales para asegurar un sentido de lo razonable? ¿Cómo podríamos aproximarnos teóricamente a las múltiples formas de producción parcial del sentido de lo razonable? Para bosquejar una respuesta a esta pregunta nos parece fructífero el diálogo que se puede establecer entre la noción de “articulación” y la idea de “campo” desarrollada por Bourdieu. Este último término refiere a: “un campo de fuerzas, cuya necesidad se impone a los agentes que se han adentrado en él, y como un campo de luchas dentro del cual los agentes se enfrentan, con medios y fines diferenciados según su posición en la estructura del campo de fuerzas, contribuyendo de este modo a conservar o a transformar su estructura” (Bourdieu 1997:49).</p>
+         <p>Es decir, aquello que define un campo son las relaciones de fuerza entre las posiciones relativas de sus agentes, en virtud de las cuales su estructura puede o no variar y cuyas condiciones de origen y supervivencia dependen de su proximidad dentro del espacio social. Desde nuestra perspectiva, pensar con esta clave de lectura nos ayuda a fundamentar que el sentido de nuestra experiencia del mundo no depende de unos a priori kantianos de la consciencia, sino más bien, su definición es el resultado de procesos de diferenciación e identificación inscritos en relaciones de fuerza, en los cuales interviene una lógica específica de distribución del capital corporal, cultural, económico, social y simbólico de cada campo. Como lo ha descrito Bourdieu, cuestiones que nos pueden parecer razonables como “el buen gusto” o “la apreciación estética” no se explican por sí mismas, sino que se constituyen fenomenológicamente a partir de unos particulares modos de relaciones entre las lógicas de distribución del capital cultural y simbólico, que actúan con grados diferenciales de fuerza.</p>
+         <p>De lo anterior podemos deducir que la razonabilidad de nuestras prácticas en la vida cotidiana nunca es independiente de estas relaciones de fuerza, lo que no implica, sin embargo, que por ello no sean objetivas, puesto que desde la perspectiva de los conocimientos situados objetividad no significa universalidad. En efecto, si bien no contamos con unos fundamentos sólidos y universales para decidir en cada momento, porque éstos son contingentes a unas relaciones de fuerza en las cuales estamos insertos, cuando nos enfrentamos ante un conflicto específico en nuestra vida cotidiana, decidimos desde una experiencia corporal e histórica. Los procesos de articulación, al establecer relaciones contingentes entre algunos elementos del mundo, fijan y estabilizan transitoriamente algunos de estos elementos como una suerte de realidad de la vida cotidiana: “Son estos lugares hablados por varias voces y dramatizados por múltiples cuerpos los que nos permiten que cada vez que actuamos en/frente al mundo, emerjan «decisiones indecidibles» que nos movilizan a juzgar una parte de él como más verdadero o más razonable” (Sandoval 2004:171).</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusiones</title>
+         <p>El presente trabajo se propuso desarrollar una perspectiva situada del conocimiento de la vida cotidiana. Para ello construimos un ensamblaje teórico que nos permitiera abordar las condiciones de posibilidad de una “razón práctica” que articula aquello que es más razonable en nuestras vidas cotidianas y, de esta manera, diferenciar conceptualmente dicho término de lo racional. Con este objetivo, planteamos que las nociones forma de vida, trasfondo y habitus, aunque desde presupuestos diferentes, nos permiten argumentar que el sentido de lo razonable se encarna subjetivamente en nosotros, asegurando con ello que el mundo se nos presente como un conjunto de hechos familiares, ya sea a partir de capacidades biológicas pre-intencionales o en esquemas de acción y percepción que, mediante el cuerpo, interactúan con múltiples circunstancias de nuestro contexto histórico-social.</p>
+         <p>Es verdad que, como lo ha recogido parte de la literatura contemporánea, las categorías de “trasfondo” y habitus se sostienen sobre algunos supuestos problemáticos que podrían poner en duda su plausibilidad teórica. Por ejemplo, sobre la tesis del trasfondo, podemos mencionar las críticas formuladas por Arias (El problema de la conciencia en John R. Searle) respecto de la insostenibilidad del emergentismo causal a partir del cual Searle explica la relación entre las estructuras neurofisiológicas pre-intencionales y los estados intencionales, poniendo en cuestión el eje basal de la ontología social contenida en su propuesta filosófica. Con respecto a la tesis del habitus, si bien la capacidad estructuradora de esta noción lograría eximirla de asumir explicaciones causativas de la acción, también enfrenta algunos embates teóricos. Por ejemplo, podemos citar las críticas formuladas por Lahire (De la teoría del habitus a una sociología psicológica) en torno a la pretendida coherencia, durabilidad, homogeneidad y, en definitiva, organicidad de los esquemas disposicionales configuradores del habitus. Al respecto, Lahire nos muestra cómo el habitus de escritores y filósofos analizados en los trabajos de Bourdieu no necesariamente da cuenta de una trayectoria biográfica consistente en el tiempo, sino que se estructura a partir de numerosos procesos de socialización, muchos de ellos contradictorios entre sí y no siempre relacionados con sus prácticas disciplinarias.</p>
+         <p>Nuestra propuesta en este ensayo ha sido que la perspectiva de los conocimientos situados logra sortear parte de los nudos críticos propuestos en torno a estas nociones. Por lo anterior es que no solo proponemos dicha perspectiva como una alternativa a las limitaciones de la tesis del trasfondo y del habitus, sino también como un eje conceptual capaz de articular las proposiciones de ambas categorías con mayor rendimiento explicativo en el marco del objetivo de este texto.</p>
+         <p>Por ejemplo, las críticas dirigidas a la tesis del trasfondo pueden ser releídas desde la perspectiva de la articulación semiótico-material entre los agentes-objetos y los agentes-sujetos, planteamiento central de la perspectiva de los conocimientos situados, lo que posibilitaría aproximarse a lo razonable sin reducirlo a explicaciones causativas de la acción. Por ello, en este trabajo hemos insistido en la imposibilidad de que lo razonable se reduzca a una pura interacción lingüístico-verbal descorporeizada. Es innegable que vivenciamos sensorialmente el mundo a través de nuestra estructura neurofisiológica asentada en nuestro cuerpo y, mediante éste, nos articulamos con agentes-objetos para generar una realidad con sentido social e histórico. Desde esta perspectiva, nuestra idea de trasfondo no representa ninguna causalidad esencial, sino más bien, constituye un sistema de prácticas semiótico-materiales constituyentes de, y constituidas en, un proceso contingente de articulación.</p>
+         <p>Por otra parte, los planteamientos dirigidos a cuestionar la consistencia y homogeneidad del habitus, también pueden ser repensados a partir de la idea de articulación, toda vez que la propia Haraway reconoce que la heterogeneidad no solo es una cualidad de las conexiones intersubjetivas, sino que además esta misma actúa como condición de producción del sujeto. No se trata, sin embargo, de retornar a los postulados de un yo fragmentado, como si la cuestión de la unicidad del sujeto se resolviera simplemente invirtiendo el problema. En lugar de situarse en alguno de estos dos polos, como nos propone Lahire, es necesario preguntarse cuáles son las condiciones que hacen posible la producción de un sujeto plural. Desde esta perspectiva, si bien el conjunto de disposiciones y esquemas que constituyen el habitus son un resultado de la producción social e histórica, también constituyen las condiciones de posibilidad de la acción del sujeto, ya que la acción emerge en una práctica que constituye y reproduce al propio sujeto.</p>
+         <p>A partir de la noción de los conocimientos situados, nuestra propuesta es una relectura de las nociones de forma de vida, trasfondo y habitus a partir de la categoría de articulación. Contra la rigidez de nociones como estructura, sistema o función, en este trabajo proponemos seguir a los actores en sus múltiples actividades de articulación, sobrepasando las fronteras predefinidas de los sistemas y las funciones, e incluso redefiniéndolas desde unas reglas del juego que nunca están dadas de una vez y para siempre. De este modo, el mundo no se aprehende ni se construye, en el sentido literal, sino que es algo con lo cual dialogamos, negociamos y nos mezclamos a través de nuestras prácticas cotidianas, porque tanto los sujetos como el mundo somos ámbitos incompletos e interdependientes que se constituyen en tanto tales, en el momento mismo de la articulación. Por ello, nuestras decisiones en la vida cotidiana no se pueden leer como un puro algoritmo racional, más bien, cuando tomamos una decisión en una situación concreta, son las condiciones simbólicas y materiales presentes en esa situación y en nosotros mismos las que se articulan como una decisión.</p>
+         <p>Esta perspectiva no solo supone un desafío para teorizar cómo se constituyen nuestras decisiones en la vida cotidiana, sino también supone desafíos metodológicos y procedimentales sobre cómo estudiar dichos procesos de toma de decisiones, abordando los efectos de la acción discursiva que trascienden la situación comunicativa inmediata y ampliando los repertorios metodológicos más allá de las estrategias conversacionales, con el propósito de dar cuenta de las dimensiones simbólicas, corporales, materiales, espaciales y temporales que se ponen en juego cuando decidimos algo en la vida cotidiana. Como nos propone Bourdieu, investigar los múltiples ámbitos de la realidad social requiere reconstruir el conjunto de condiciones específicas que la hacen posible como práctica legítima.</p>
+         <p>Por lo tanto, para concluir el argumento de este ensayo, proponemos que la consecuencia fundamental de la relectura que postulamos de las nociones de forma de vida, trasfondo y habitus a partir de la categoría de articulación es que nuestra búsqueda teórica del asentamiento de los procesos de toma de decisión que se producen en la vida cotidiana ya no se pueden sostener en la figura de un procesador-ejecutor (como postulan los numerosos cognitivismos), pero tampoco en la imagen de un productor-hablante (postulado por una no menor cantidad de constructivismos), sino más bien, esta búsqueda debe estar centrada en la realidad corporal e histórica de un usuario-intérprete. Los sujetos somos usuarios/participantes de una “forma de vida” que, al estar asentada en nuestra propia subjetividad, nos permite interpretar los límites de la razonabilidad de nuestras propias acciones. No somos sujetos “racionales” ni mucho menos “irracionales”, nos escapamos del territorio de esas categorías polares a través de la puerta que nos abre la articulación de lo históricamente “razonable”.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <title>Agradecimiento</title>
+         <p>Este artículo fue escrito con el apoyo del Proyecto FONDECYT regular Nº 1180847, financiado por la Agencia Nacional de Investigación y Desarrollo de Chile.</p>
+      </ack>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Bourdieu, P.,  (1997).
+               <italic>Razones prácticas. Sobre la teoría de la acción</italic>
+               . : Anagrama
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <source>Razones prácticas. Sobre la teoría de la acción</source>
+               <publisher-name>Anagrama</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Bourdieu, P.,  (2008).
+               <italic>El sentido práctico</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bourdieu</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>El sentido práctico</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               García Selgas, F. (1992).
+               <italic>Por un uso constructivo de Wittgenstein en ciencia social</italic>
+               . En Serra, F., García Selgas, F (autor.);Ensayos de filosofía social.  (99-126).: Libertarias/Prodhufi
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>García Selgas</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Por un uso constructivo de Wittgenstein en ciencia social</chapter-title>
+               <year>1992</year>
+               <source>Ensayos de filosofía social</source>
+               <publisher-name>Libertarias/Prodhufi</publisher-name>
+               <fpage>99</fpage>
+               <lpage>126</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               García Selgas, F. (1994).
+               <italic>Análisis del sentido de la acción: el trasfondo de la intencionalidad</italic>
+               . En Delgado, J., Gutiérrez, J (autor.);Métodos y técnicas cualitativas de investigación en ciencias sociales.  (493-527).: Síntesis
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>García Selgas</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Análisis del sentido de la acción: el trasfondo de la intencionalidad</chapter-title>
+               <year>1994</year>
+               <source>Métodos y técnicas cualitativas de investigación en ciencias sociales</source>
+               <publisher-name>Síntesis</publisher-name>
+               <fpage>493</fpage>
+               <lpage>527</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Haraway, D.,  (1995).
+               <italic>Ciencia, cyborgs y mujeres: la reinvención de la naturaleza</italic>
+               . : Cátedra
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Haraway</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <source>Ciencia, cyborgs y mujeres: la reinvención de la naturaleza</source>
+               <publisher-name>Cátedra</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Haraway, D.(1999). "Las promesas de los monstruos: una política regeneradora para otros inapropiados/bles".
+               <italic>Política y sociedad. 30</italic>
+               , 121-164. Recuperado de
+               <ext-link ext-link-type="uri" xlink:href="https://revistas.ucm.es/index.php/POSO/article/view/POSO9999130121A ">https://revistas.ucm.es/index.php/POSO/article/view/POSO9999130121A</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Haraway</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <article-title>Las promesas de los monstruos: una política regeneradora para otros inapropiados/bles</article-title>
+               <source>Política y sociedad</source>
+               <volume>30</volume>
+               <issue />
+               <fpage>121</fpage>
+               <lpage>164</lpage>
+               <ext-link ext-link-type="uri" xlink:href="https://revistas.ucm.es/index.php/POSO/article/view/POSO9999130121A ">https://revistas.ucm.es/index.php/POSO/article/view/POSO9999130121A "</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Merleau-Ponty, M.,  (1993).
+               <italic>Fenomenología de la percepción</italic>
+               . : Planeta-Agostini
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Merleau-Ponty</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <source>Fenomenología de la percepción</source>
+               <publisher-name>Planeta-Agostini</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Putnam, H.,  (1994).
+               <italic>Las mil caras del realismo</italic>
+               . : Paidós
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Putnam</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <source>Las mil caras del realismo</source>
+               <publisher-name>Paidós</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>
+               Sandoval, J.,  (2004).
+               <italic>Representación, discursividad y acción situada</italic>
+               . : Editorial Universidad de Valparaíso
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sandoval</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Representación, discursividad y acción situada</source>
+               <publisher-name>Editorial Universidad de Valparaíso</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>
+               Searle, J.,  (1992).
+               <italic>Intencionalidad: un ensayo en la filosofía de la mente</italic>
+               . : Tecnos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Searle</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1992</year>
+               <source>Intencionalidad: un ensayo en la filosofía de la mente</source>
+               <publisher-name>Tecnos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>
+               Varela, F., Thompson, E., Roch, E.,  (1992).
+               <italic>De cuerpo presente</italic>
+               . : Gedisa
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Varela</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thompson</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Roch</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>1992</year>
+               <source>De cuerpo presente</source>
+               <publisher-name>Gedisa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>
+               Wacquant, L.,  (2006).
+               <italic>Entre las cuerdas: cuadernos de un aprendiz de boxeador</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wacquant</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Entre las cuerdas: cuadernos de un aprendiz de boxeador</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>
+               Wittgenstein, L.,  (1988).
+               <italic>Investigaciones filosóficas</italic>
+               . : Crítica
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wittgenstein</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>1988</year>
+               <source>Investigaciones filosóficas</source>
+               <publisher-name>Crítica</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

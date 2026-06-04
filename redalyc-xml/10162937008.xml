@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">cmoebio</journal-id>
+         <journal-title-group>
+            <journal-title>Cinta de moebio</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Cinta moebio</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0717-554X</issn>
+         <publisher>
+            <publisher-name>Universidad de Chile. Facultad de Ciencias Sociales</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00008</article-id>
+         <article-id pub-id-type="doi">10.4067/S0717-554X2020000100085</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Artículos</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Educación, biopolítica y experiencia a partir de Giorgio Agamben</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Education, biopolitics and experience from Giorgio Agamben</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9155-402X</contrib-id>
+               <name>
+                  <surname>Galindo-Hervás</surname>
+                  <given-names>Alfonso</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <institution content-type="original">Universidad de Murcia. España</institution>
+            <institution content-type="normalized">Universidad de Murcia</institution>
+            <institution content-type="orgname">Universidad de Murcia</institution>
+            <country country="ES">España</country>
+            <email>galindoh@um.es</email>
+         </aff>
+         <pub-date pub-type="epub-ppub">
+            <season>Jan-Mar</season>
+            <year>2020</year>
+         </pub-date>
+         <issue>67</issue>
+         <fpage>85</fpage>
+         <lpage>95</lpage>
+         <history>
+            <date date-type="received">
+               <day>08</day>
+               <month>11</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>04</day>
+               <month>01</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+               <license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <title>Resumen</title>
+            <p>El objetivo principal de este artículo es mostrar que determinadas tesis del filósofo italiano Giorgio Agamben, especialmente sus argumentos sobre la soberanía biopolítica occidental, la pérdida de experiencia y la idea de uso, son relevantes para reflexionar sobre algunas limitaciones y posibilidades impensadas de la institución educativa. Con este objetivo, se presentan algunas de las ideas nucleares de sus libros Homo sacer, El reino y la gloria, Infancia e historia y El uso de los cuerpos. Finalmente, se sugiere un posible uso de las tesis de Agamben para enriquecer el sentido de la actividad educativa. Este artículo presupone la convicción de que los abstractos y críticos argumentos filosóficos pueden ser útiles para contribuir a perfeccionar instituciones como la educación porque aportan una perspectiva que trasciende los legítimos requerimientos y responsabilidades que demandan soluciones meramente instrumentales.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The main objective of this article is to show that certain theses by the Italian philosopher Giorgio Agamben, especially his arguments about Western biopolitical sovereignty, loss of experience and the idea of use, are relevant in order to reflect on some unthinking limitations and possibilities of educational institution. To this end, some of the core ideas of his books Homo sacer, The Kingdom and the Glory, Infancy and History and The Use of Bodies are presented. Finally, it is suggested a possible use of Agamben’s theses to enrich the sense of educational activity. This article presupposes the conviction that abstract and critical philosophical arguments can be useful to contribute to perfecting institutions such as education because they provide a perspective that transcends the legitimate requirements and responsibilities that demand merely instrumental solutions.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave</title>
+            <kwd>Agamben</kwd>
+            <kwd>educación</kwd>
+            <kwd>biopolítica</kwd>
+            <kwd>experiencia</kwd>
+            <kwd>juego</kwd>
+            <kwd>uso</kwd>
+            <kwd>inoperatividad</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Agamben</kwd>
+            <kwd>education</kwd>
+            <kwd>biopolitics</kwd>
+            <kwd>experience</kwd>
+            <kwd>play</kwd>
+            <kwd>use</kwd>
+            <kwd>inoperativity</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0" />
+            <table-count count="0" />
+            <equation-count count="0" />
+            <ref-count count="8" />
+            <page-count count="11" />
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Un ejercicio de abstracción crítica sobre la institución educativa</title>
+         <p>El tema de la educación está relacionado de modo esencial con el tema de los campos de concentración. Sin comprender lo implicado en el hecho histórico de los campos de concentración es imposible comprender todos los frentes y los retos presentes en la cuestión de la educación: su viabilidad, su sentido, sus aporías, su legitimidad. Más aún: estrechamente vinculado con ello, el tema de la educación es inseparable del problema teológico relativo al dogma católico de la Santísima Trinidad, de manera que solo si se entiende el sentido de dicho dogma, se podrán entender los retos a los que se enfrenta la educación en el siglo XXI.</p>
+         <p>Que un párrafo como éste posea, pese a su tono abstracto y epatante, sentido y potencialidad hermenéutica (o sea, que sea histórica y epistemológicamente consistente, a la par que significativo e iluminador del presente), es mérito del filósofo italiano Giorgio Agamben (Roma, 1942). Ello no implica, sin embargo, que sea un párrafo de su autoría en sentido literal, pero sí que lo es en su sentido, alcance y presupuestos.</p>
+         <p>En general, un párrafo como éste es fruto de adoptar una perspectiva filosófica para reflexionar sobre la educación. En tal caso no se enfocan cuestiones como las ratios alumno-profesor, los temas transversales a los diferentes currículos o la ponderación de los estándares de aprendizaje evaluables, etc., sino que, sin despreciar dichas cuestiones, se adopta un punto de vista caracterizado por dos rasgos fundamentales: que es muy abstracto, lo cual permite establecer grandes continuidades de sentido (tanto diacrónica como sincrónicamente) y que trata de identificar grietas o fallas en las teorías o en los sistemas o en las normas establecidas que analiza.</p>
+         <p>Por estas razones, una reflexión específicamente filosófica sobre la educación puede proporcionar argumentos y puntos de vista que trasciendan, sin despreciarla, la mera atención a los instrumentos y medios técnicos del proceso educativo, enriqueciéndolo y tornándolo más sofisticado y consistente. La adopción de una perspectiva filosófica implica dar un paso atrás, detenerse y alejarse de la sola atención a lo empírico, y ello con la finalidad de establecer grandes comparaciones que permitan captar continuidades y divergencias con el pasado, o identificar aporías y excepciones en las teorías y discursos, o comprender los modelos normativos, axiológicos o antropológicos que puedan subyacer en una determinada metodología de enseñanza, o captar herencias teológicas pasadas presentes en nuestros actuales paradigmas educativos, o descubrir implicaciones políticas y/o económicas en determinados modelos educativos, etc. De esta manera se evita el progresivo empobrecimiento del discurso educativo, el cual parece en ocasiones incapaz de justificarse salvo apelando a criterios cuantitativos y estadísticos cuyo sentido permanece, sin embargo, sin fundamentar. Una perspectiva filosófica de análisis puede servir para evitar tal adopción irreflexiva y acrítica de metodologías, tras las que siempre se ocultan ideologías y finalidades particulares. Una filosofía de la educación, en suma, puede ayudar a que la institución educativa (la cual implica normas, tradiciones, códigos, agentes, expertos, discursos, usuarios, etc.) sea más auto-crítica y más consciente de las implicaciones normativas y axiológicas de sus protocolos y objetivos y, en esta medida, más fundada.</p>
+         <p>Aunque no se ha ocupado directa y explícitamente de ello, Agamben es autor de una compleja obra filosófica que puede contribuir a este objetivo de enriquecimiento de la institución de la educación. Adelantaré que en su obra existen dos indicadores fundamentales que dotan de una gran significatividad a la educación: el paradigma de la biopolítica (que implica -y es implicado por- el dispositivo de la antropogénesis) y la tesis acerca de la pérdida de la experiencia. Los expondré y analizaré seguidamente.</p>
+      </sec>
+      <sec>
+         <title>Educación y biopolítica</title>
+         <p>El pensamiento de Agamben, que se desarrolla adoptando una perspectiva muy abstracta y orientada a localizar las zonas aporéticas y contradictorias de nuestros conceptos e instituciones (y ello incluye todos los ámbitos normativos: jurídico, político, educativo, científico, estético, económico, religioso, etc.), contribuye a comprender la institución educativa en la medida en que permite remitirla a dos paradigmas protagonistas de su obra y que están esencialmente vinculados. En concreto, la educación sería una prueba (un índice y un factor más) de biopolítica soberana, que es, a su juicio, la ratio que atraviesa y une premodernidad y modernidad. En esta medida, la educación estaría implicada en el dispositivo de la antropogénesis que, en última instancia, se deja comprender como una signatura o secularización de la escatología cristiana de la salvación. Para comprender esta tesis, es preciso aclarar el sentido que posee la biopolítica en la obra del filósofo italiano.</p>
+         <p>Es posible explicar de manera sintética lo implicado en la biopolítica señalando que se trata de una categoría con la que Agamben (y otros antes que él, como Michel Foucault; o contemporáneos como Antonio Negri o Roberto Esposito, etc.) pretende identificar el principio o la lógica (el arkhé) del poder político en Occidente y, en esta medida, de los dispositivos constitutivos de la humanitas del ser humano. Ello ya nos ofrece una base para defender que emplea un punto de vista tan abstracto (ya que remite la política a empresa antropogenética y no a mera gestión de los asuntos comunes o tareas análogas) que le permite establecer una continuidad esencial entre el presente y el pasado premoderno. Esto es lo que le lleva a asumir la tesis básica del teorema de la secularización, a saber, que en los grandes conceptos políticos, jurídicos, económicos o históricos actuales existen herencias semánticas de la teología. En ello coincide con defensores del teorema como Carl Schmitt, Karl Löwith o, más recientemente, Reinhart Koselleck, que con el mismo pretendían identificar estratos semánticos pasados que están activos en instituciones, prácticas y conceptos actuales, afectando a su fundamento y determinando su sentido. A juicio de Agamben, la secularización es una signatura que actúa en el sistema conceptual de lo moderno reenviándolo al ámbito teológico premoderno. Así, signaturas como “gloria” u “orden”, entre otras, orientan la interpretación al remitir los conceptos a otras esferas de sentido, poniendo en contacto tiempos y ámbitos diferentes, y permitiendo identificar las fuerzas que atraviesan la historia desde la antropogénesis hasta la actualidad. Esto explica el siguiente párrafo definiendo su proyecto arqueológico: “La genealogía de un concepto o de una institución política puede encontrarse en un ámbito diferente de aquel que se da por descontado anticipadamente (por ejemplo, no en la ciencia política, sino en la teología) (...) la genealogía de los conceptos políticos modernos debe ser buscada predominantemente en los tratados De gubernatione Dei y en los escritos sobre la providencia (...) Una vez más la arqueología es una ciencia de las signaturas y es preciso seguir aquellas signaturas que desplazan los conceptos u orientan su consideración hacia ámbitos diversos” (Agamben 2008:128).</p>
+         <p>Desde estas premisas, que presuponen liberar el sentido de los conceptos de su atadura a una referencia o particularidad histórica para poder relacionarlos atravesando todas las épocas, Agamben propone paradigmas (homo sacer, campo de concentración, musulmán, liturgia, estado de excepción, etc.) que le posibilitan aprehender unitariamente tiempos y ámbitos distantes. Su carácter abstracto le permite elaborar una historia del gobierno en términos de una única matriz, o sea, en la que la política moderna y contemporánea carecerían de singularidad sustancial alguna respecto de la premoderna. Según tal historia, Occidente se funda sobre una lógica de producción de lo humano (es decir, sobre una lógica de consecuencias ontológicas) que se extiende desde la polis griega hasta la radicalización de la biopolítica contemporánea, la cual lleva al extremo la gestión de la vida como elemento original y sentido último de la política.</p>
+         <p>Una de las principales aportaciones teóricas de Agamben es su tesis de que, en Occidente, el poder político siempre ha sido a la vez soberano y gestor, es decir, siempre se ha legitimado por referencia a una idea de trascendencia y, a la par, por su eficacia gobernando la inmanencia. Expresado de otro modo: para él, el paradigma (supuestamente premoderno) de la soberanía jurídico-estatal es afín y coetáneo, desde la época de la Grecia clásica hasta el presente, al paradigma (supuestamente moderno) de la gubernamentalidad biopolítica. Ello implica disolver el umbral de la modernidad que permite diferenciar entre una comprensión pre-moderna de la política como teología política y una comprensión moderna de la misma como bio-política. Para Agamben, en Occidente, el poder político es a la vez teológico-político y bio-político, es decir, incluye las dimensiones de auctoritas y de potestas.</p>
+         <p>Agamben usa el paradigma epistemológico de la providencia para ilustrar la dimensión económica y gubernamental que posee el poder político en Occidente. Junto al tradicional modelo de la teología política, que legitima la soberanía por referencia a la realidad trascendente, él argumenta que la teología también está presente en la legitimación del poder como gestión inmanente, en la medida en que ésta tiene su modelo en el gobierno providencial de la creación por parte de Dios. Así se expresa en El reino y la gloria: “se puede decir que el dispositivo providencial (que no es él mismo más que una reformulación y un desarrollo de la oikonomia teológica) contiene algo similar a un paradigma epistemológico del gobierno moderno. (...) Providencia y destino, con el cortejo de nociones y conceptos en que se articulan (...) no son solo, en este sentido, conceptos teológico-filosóficos, sino categorías del derecho y de la política. El Estado moderno hereda, en efecto, ambos aspectos de la máquina teológica del gobierno del mundo, y se presenta tanto en la forma de Estado-providencia como en la de Estado-destino. A través de la distinción entre poder legislativo o soberano y poder ejecutivo o de gobierno, el Estado moderno asume sobre sí la doble estructura de la máquina gubernamental. (...) El paradigma económico-providencial es, en este sentido, el paradigma del gobierno democrático, así como el teológico-político lo es del absolutismo” (Agamben 2008:158).</p>
+         <p>Si en El reino y la gloria se atiende sobre todo a la dimensión económico-providencial del poder político (o sea, a su carácter de gobierno), en un importante ensayo anterior, Homo sacer, había analizado su dimensión de soberanía definiéndola por referencia a la modalidad biopolítica de gobierno. De esta forma, une el elemento teológico-político de la soberanía (índice de pre-modernidad) con el elemento de gestión de la vida (habitualmente considerado moderno). La tesis central es que el poder político soberano se legitima merced a la producción y gobierno de un cuerpo: “la producción de un cuerpo biopolítico es la aportación original del poder soberano” (Agamben 1998:16).</p>
+         <p>Para argumentar esta tesis, Agamben recurre a la figura del estado de excepción tal como fue teorizada por Carl Schmitt. La aportación del filósofo italiano es doble: identificar la paradoja de que el soberano esté, a la vez, fuera y dentro del orden jurídico (pues su acción es un acontecimiento externo a él que, sin embargo, le afecta, pues lo suspende) y afirmar que el ámbito en el que se ejerce privilegiadamente la acción soberana-excepcional es la vida natural, la nuda vida. Así, el caso excepcional le permite demostrar que el derecho no tiene más fundamento que la desnuda violencia infringida sobre la vida. Sirva como ilustración la siguiente frase de Estado de excepción: “el estado de excepción se presenta como la forma legal de lo que no puede tener forma legal. Por otra parte, si la excepción es el dispositivo original en virtud del cual el derecho se refiere a la vida y la incluye en él por medio de la propia suspensión, la teoría del estado de excepción se convierte entonces en una condición preliminar para definir la relación que liga al viviente con el derecho y, al mismo tiempo, le abandona a él” (Agamben 2004:10).</p>
+         <p>Como he subrayado, la aportación del filósofo italiano es mostrar la orientación del dispositivo soberano de la excepción a la vida corporal. Tal tesis le permite sostener la coexistencia de la política totalitaria (premoderna, pero también nazi) y la política gestora propia de los Estados de derecho contemporáneos. A su juicio, todos obedecen al mismo principio, que es a la vez teológico-político y bio-político, trascendente y productor de vida cualificada (bios) a partir de la mera vida natural (zoé). Agamben descubre los efectos de esta política tanto en la figura del derecho romano del homo sacer, como en la del prisionero del lager o en la de cualquier ciudadano contemporáneo del orbe occidental. Según él todos responden al patrón de la nuda vida aislada y sometida a la imposición violenta de vínculos que pretenden cualificarla, humanizarla, hacerla soporte de la identidad del Estado: “¿Qué es un campo de concentración? ¿Cuál es su estructura jurídico-política, esa estructura que permitió que pudieran llegar a suceder acontecimientos de tal índole? Todo esto nos conducirá a considerar el campo de concentración no como un simple hecho histórico o una aberración perteneciente al pasado (aunque todavía encontremos, eventualmente, situaciones comparables), sino, en algún modo, como la matriz oculta, el nómos del espacio político en que vivimos todavía” (Agamben 1998:211).</p>
+         <p>Así pues, Occidente se caracteriza por haber desarrollado una tarea metafísica -politizar la vida- en la que se decide acerca de la humanidad del ser vivo hombre, esto es, acerca de las relaciones entre naturaleza y cultura, zoé y bíos, phoné y logos, vida y forma-de-vida. No es arriesgado afirmar que, en esta tarea, uno de los dispositivos fundamentales es la institución educativa. Sobre todo, desde la Modernidad, cuando adquirió un sentido de gestión y conducción de los cuerpos. Como es sabido, Michel Foucault ha estudiado la emergencia de las técnicas anatomopolíticas y biopolíticas, orientadas, respectivamente, al disciplinamiento de los cuerpos en orden a maximizar su rendimiento en el contexto del incipiente Estado moderno y a la gestión de las poblaciones. Un famoso párrafo del texto Derecho de muerte y poder sobre la vida sintetiza el tránsito hacia una comprensión y ejercicio del poder político como administración de la vida, no como imposición de muerte. Para nuestros objetivos, merece traerse a colación la descripción de la anatomopolítica: “ese poder sobre la vida se desarrolló desde el siglo XVII en dos formas principales; no son antitéticas; más bien constituyen dos polos de desarrollo enlazados por todo un haz intermedio de relaciones. Uno de los polos, al parecer el primero en formarse, fue centrado en el cuerpo como máquina: su educación, el aumento de sus aptitudes, el arrancamiento de sus fuerzas, el crecimiento paralelo de su utilidad y su docilidad, su integración en sistemas de control eficaces y económicos, todo ello quedó asegundo por procedimientos de poder característicos de las disciplinas: anatomopolítica del cuerpo humano” (Foucault 2007:168).</p>
+         <p>Tales tecnologías disciplinarias individuales pueden considerarse el germen ilustrado y decimonónico de la actual comprensión de la educación. Basta echar un vistazo a la legislación educativa, a los programas de los grados universitarios de los futuros docentes o, por supuesto, al propio currículo de la enseñanza en los tramos de infantil, primaria y secundaria, para corroborar la presencia constante de una serie de objetivos que son consistentes y se dejan comprender desde las tesis sobre la biopolítica de Foucault desarrolladas por Agamben. Así mismo, las metodologías didácticas (estrategias, procedimientos, herramientas, etc.) son afines a dichos objetivos y contribuyen a lograrlos.</p>
+         <p>No debe inferirse que tales objetivos posean una apariencia o, aún menos, un contenido moralmente repulsivo, o socialmente disruptivo, o incompatible con la convivencia, los derechos humanos o los valores fundamentales aceptados por nuestra tradición y nuestra sociedad. Todo lo contrario; se trata de objetivos completamente consistentes con todo ello. Entre los mismos sobresalen valores tales como el consenso, la salud, la paz, el cuidado del medio ambiente, el esfuerzo, la higiene, el reciclaje, la obediencia, la participación, la formación permanente, la competitividad, el orden, el respeto a las normas, la productividad, los propios derechos humanos, etc. La institución educativa, sus normas, agentes, objetivos y protocolos, pretenden constituir ciudadanos integrados en el sistema. Ello exige una compleja y prolongada instrucción teórica y práctica. La misma incluye el aprendizaje tanto de contenidos conceptuales -como afirma Sloterdijk en Normas para el parque humano, la selección de lecturas siempre ha sido fundamental en el humanista objetivo de la humanización- como actitudinales y procedimentales. Todos ellos entreverados por los valores consagrados por la constitución, que los inspiran y se dejan transmitir por ellos y que, además, cuentan con asignaturas específicas que monográficamente los enseñan, como las diversas variantes de ética y educación para la ciudadanía.</p>
+         <p>¿Dónde radica el valor hermenéutico de teorías y argumentos como los de Agamben -los cuales introducen una perspectiva altamente crítica- en orden a comprender mejor la institución educativa? Precisamente en que nos permiten ver más allá de la bella apariencia de ese ideal humanista y así identificar aporías, inconsistencias, lados oscuros que han permanecido ocultos, consecuencias negativas impensadas e impensables, etc.</p>
+         <p>A propósito de ello, si hay una consecuencia esencial, y literalmente negativa, de la biopolítica antropogenética occidental diagnosticada por Agamben y que puede ayudar a comprender implicaciones de la institución educativa ocultas a la mirada superficial, se trata de la pérdida de (la) experiencia que supone, que implica, que acarrea, que exige. Es lo que examinaré a continuación.</p>
+      </sec>
+      <sec>
+         <title>Educación y (pérdida de la) experiencia</title>
+         <p>Uno de los temas que permite dotar de continuidad la prolífica obra de Agamben es el de la pérdida de experiencia. Éste constituye un ámbito de reflexión que ha ocupado a diversos autores desde el primer tercio del siglo XX. Filósofos como Adorno o Benjamin, u otros más cercanos como Oakeshott, Koselleck o el mismo Foucault, han diagnosticado un empobrecimiento o incluso una destrucción de la experiencia como efecto de la cultura de masas posterior a la guerra mundial. En la misma medida, han propuestos diversas alternativas para hacer frente a las consecuencias nihilistas de tal pérdida.</p>
+         <p>Agamben ha desarrollado un diagnóstico análogo en el libro Infancia e historia, cuyo significativo subtítulo es Destrucción de la experiencia y origen de la historia. Su posición es enunciada desde el inicio del texto: “En la actualidad, cualquier discurso sobre la experiencia debe partir de la constatación de que ya no es algo realizable. Pues así como fue privado de su biografía, al hombre contemporáneo se le ha expropiado su experiencia: más bien la incapacidad de tener y transmitir experiencias quizás sea uno de los pocos datos cierto de que dispone sobre sí mismo” (Agamben 2007:7).</p>
+         <p>Una de las aportaciones singulares del autor de Homo sacer es la relativa a la etiología de la pérdida de la experiencia. Él ya no apela al factor extraordinario de la guerra, sino que eleva la vida ordinaria en una megalópolis contemporánea a factor causante de la imposibilidad de hacer y transmitir experiencias. Su argumento desgrana diferentes circunstancias, propias de la vida en una gran ciudad, que explicarían dicha situación. Entre otras, el amontonamiento acelerado de acontecimientos sin el sosiego posibilitador de su conversión en experiencia. Relacionado con ello, la ausencia de figuras dotadas de la autoridad necesaria (es decir, de la experiencia necesaria) para provocar y garantizar, a su vez, una experiencia usando la palabra. En sus propias palabras, “la expropiación de la experiencia estaba implícita en el proyecto fundamental de la ciencia moderna” (Agamben 2007:13). La razón es que, al entronizar la certeza de la ley científica y remitir el conocimiento a ésta, expulsó como incompatible la experiencia en su sentido tradicional, a saber, como acontecimiento de pasibilidad e imprevisibilidad. Desde entonces, la experiencia es inconcebible al margen del conocimiento. No era así en la cultura premoderna, cuando la experiencia se comprendía como indicio de multiplicidad y finitud, y el conocimiento, como una esfera autónoma y diferenciada que apuntaba a la unidad y a lo trascendente. Para el hombre premoderno, la unión de ambas no era un presupuesto, sino un evento misterioso, un punto arquimédico indecible que anticipaba -y por ello se vinculaba- a la ciencia moderna y a su sujeto sustantivado, solo que en ésta ya no era inefable, sino todo lo contrario. Por el contrario, para el sujeto moderno, la experiencia se convirtió en un activismo acelerado y que jamás concluye en una posesión; en otras palabras, un hacer que nunca es un tener.</p>
+         <p>El autor de Infancia e historia desarrolla una sugerente exposición de esta deriva. El primer hito lo halla en don Quijote, que representaría al sujeto que hace experiencia sin tenerla, mientras que Sancho Panza representaría lo opuesto. Con Hegel, la filosofía habría tratado de reunir experiencia y conocimiento en la figura del espíritu absoluto, pero con la consecuencia de reducirla a mera experiencia de la propia conciencia (esto es, a autoconciencia) y, en esta medida, a mero conocimiento. La psicología del siglo XIX y su desarrollo como psicología científica remitieron a la figura de un sujeto sustancial la coexistencia de los fenómenos fisiológicos y los psíquicos, pero de esta manera demostraban la imposibilidad de contemplar la experiencia a la vez como proceso fisiológico y psíquico. Por último, Agamben alude a la filosofía de la vida, que habría tratado de sortear la escisión entre experiencia y conocimiento concibiendo la conciencia no como una realidad sustancial estática, sino como flujo, experiencia vivida ella misma. Pero llegan a callejones sin salida: Dilthey la acaba reduciendo a literatura; Bergson, a intuición mística; Husserl, a experiencia muda pre-subjetiva.</p>
+         <p>A partir de esta historia de la imposibilidad de “tener” experiencias y su reemplazo por el mero “hacer” experiencias, Agamben se propone elaborar una teoría de la experiencia. Su reto es identificar los rasgos de la experiencia en tanto que realidad anterior al lenguaje, muda, así como su relación con él. Tal reto presupone, y confirma a la vez, que la experiencia pura no puede darse en el sujeto, ya que éste se constituye por el lenguaje (esto es, por su capacidad de ejercer la función de sujeto del discurso) y, en esta medida, por la expropiación de la experiencia. Así lo expresa el autor: “Una experiencia originaria, lejos de ser algo subjetivo, no podría ser entonces sino aquello que en el hombre está antes del sujeto, es decir, antes del lenguaje: una experiencia ‘muda’ en el sentido literal del término, una in-fancia del hombre, cuyo límite justamente el lenguaje debería señalar. Una teoría de la experiencia solamente podría ser en este sentido una teoría de la in-fancia, y su problema central debería formularse así: “¿existe algo que sea una in-fancia del hombre? ¿Cómo es posible la in-fancia en tanto que hecho humano? Y si es posible, ¿cuál es su lugar?” (Agamben 2007:64).</p>
+         <p>Es importante no confundir el sentido del argumento de Agamben. Su teoría de la experiencia ni la remite a la infancia, ni sustancializa ésta como realidad psíquica anterior a la constitución de la subjetividad. Ello implica que la experiencia no es algo anterior al lenguaje en un sentido cronológico y que dejaríamos atrás al adquirirlo. La experiencia coexiste con el lenguaje y emerge en el proceso por el que éste la expropia. Es decir: la experiencia consiste en el mutuo referirse de infancia y lenguaje, naturaleza y cultura; o sea, la unidad de la diferencia entre lo humano y lo no humano. Por ello no es una realidad histórica alcanzable como objeto, sino un proceso inacabable que da lugar a la historia: “Como infancia del hombre, la experiencia es la mera diferencia entre lo humano y lo lingüístico. Que el hombre no sea desde siempre hablante, que haya sido y sea todavía in-fante, eso es la experiencia” (Agamben 2007:70).</p>
+         <p>La teoría agambeniana de la experiencia demuestra que el hombre no se reduce a su ser lingüístico, sino que posee una infancia que le ha sido/es expropiada y que recupera al experimentar: “En este sentido, experimentar significa necesariamente volver a acceder a la infancia como patria trascendental de la historia” (Agamben 2007:74). En Agamben esta tesis es crucial porque constituye la base de la ética. La razón es que la voz (phoné) previa al lenguaje (logos) constituye un más allá de la representación y de la historia, esto es, de las formas de vida, vocaciones, limitaciones y órdenes concretos. Y ello es el índice y el factor más claro de una vida más allá de la soberanía y de la biopolítica; de una vida que haga justicia al carácter potencial del hombre, esto es, que renuncie a toda imposición de una forma de vida concreta. Bellamente lo ha expresado en La comunidad que viene: “El hecho del que debe partir todo discurso sobre la ética es que el hombre no es, ni ha de ser o realizar ninguna esencia, ninguna vocación histórica o espiritual, ningún destino biológico. Solo por esto puede existir algo así como una ética: pues está claro que si el hombre fuese o tuviese que ser esta o aquella sustancia, este o aquel destino, no existiría experiencia ética posible, y solo habría tareas que realizar. (…) Hay, de hecho, alguna cosa que el hombre es y tiene que pensar, pero esto no es una esencia, ni es tampoco propiamente una cosa: es el simple hecho de la propia existencia como posibilidad y potencia” (Agamben 1996:31).</p>
+         <p>Una constante de la filosofía de Agamben es la denuncia de los dualismos que consignan al existente a tener que realizar una propiedad, una esencia, una vocación o forma de vida. Dualismos como phoné-logos o zoé-bios, que son producto de los dispositivos antropogenéticos propios de la cultura occidental (y muy especialmente del lenguaje predicativo, que escinde y reifica al sujeto), conducen a una concepción del existente como cuerpo destinado a encarnar una forma o vocación. A su juicio, por el contrario, el existente no tiene más propiedad que su ser así, ni más deber ético que exhibir su posibilidad o potencia, que ser tal cual es, que identificarse con la exposición de su propia inactualidad. Ésta es la famosa frase que da inicio a La comunidad que viene: “El ser que viene es el ser cualsea” (Agamben 1996:9).</p>
+         <p>Del argumento de Agamben se deduce que la felicidad del hombre exige superar la lógica medios-fines que reproduce la escisión entre la vida y sus formas en orden a culpabilizarla. Dicha lógica instrumental es la que subyace a los diferentes dispositivos biopolíticos y antropogenéticos de la cultura de Occidente. Sustraerse a esa lógica implica concebir la existencia como un hábito, el de exponer en toda forma el propio ser amorfo sin pretender superarlo. Dicho hábito obedece a la lógica del gesto, que no es ni medio con vistas a un fin (poiesis) ni fin sin medios (praxis). “La característica del gesto es que por medio de él no se produce ni se actúa, sino que se asume y se soporta. Es decir, el gesto abre la esfera del ethos como esfera propia por excelencia de lo humano. (…) El gesto es la exhibición de una medialidad, el hacer visible un medio como tal. Hace aparecer el-ser-en-un-medio del hombre y, de esta forma, le abre la dimensión ética” (Agamben 2001:53).</p>
+         <p>Agamben se sirve de las categorías de forma-de-vida, uso e inoperatividad para pensar una alternativa al apresamiento de la vida por parte de los dispositivos soberanos biopolíticos. Aunque dichas categorías están presentes desde el inicio de su obra, donde más explícitamente desarrolla su funcionalidad es en el reciente libro El uso de los cuerpos. Allí reivindica la ontología modal spinoziana como la idónea para pensar la vida como realidad inseparable de su forma; a esto es a lo que llama “forma-de-vida”, una vida que se genera en/por el hábito de ella misma en tanto que potencia: “La forma-de-vida no es algo así como un sujeto, que preexiste al vivir y le da sustancia y realidad. Por el contrario, se genera viviendo, es «producida por eso mismo de lo cual es forma», y no tiene, por tanto, respecto del vivir, prioridad alguna, ni sustancial ni trascendental. Es solo una manera de ser y vivir, que no determina de ninguna manera al viviente, así como tampoco está determinada por él en modo alguno y, no obstante, le es inseparable” (Agamben 2017:401).</p>
+         <p>Agamben comprende la forma-de-vida sirviéndose de la categoría de uso. La forma-de-vida consiste en el uso habitual de la potencia de vivir; en el hábito de existir más allá de la escisión entre potencia y acto, sujeto y objeto; como uso (no utilitarista y sin apropiación) de uno mismo y del mundo. Y, a su vez, explica este concepto de uso recurriendo a una categoría central en su obra: inoperatividad (inoperosità). Ésta consiste en un estado que restaura la potencialidad de los seres y la mantiene intacta, esto es, que convierte a los seres en inoperativos. Y la contemplación sería la actividad que convierte a cada ser en inoperoso, esto es, en puro uso de sí, en forma-de-vida. Selecciono un párrafo significativo: “El uso es constitutivamente una práctica inoperosa, que puede darse únicamente sobre la base de una desactivación del dispositivo aristotélico potencia/acto, que asigna a la energeia, al ser-en-obra, la primacía sobre la potencia. El uso es, en este sentido, un principio interno a la potencia, que impide que esta se agote simplemente en el acto y la empuja a trastocarse a sí misma, a hacerse potencia de la potencia, a poder la propia potencia (y, por ende, la propia impotencia). La obra inoperosa, que resulta de esta suspensión de la potencia, expone en el acto la potencia que la ha llevado a ser (…). Volviendo inoperosas las obras de la lengua, de las artes, de la política y de la economía, ella muestra qué puede el cuerpo humano, lo abre a un nuevo uso posible” (Agamben 2017:182).</p>
+         <p>Más allá del sesgo ético y ontológico que Agamben otorga a la potencialidad del ser humano, que remite a la esfera de la experiencia que es la infancia, su reivindicación radical y abstracta de dicho carácter potencial es relevante para profundizar en algunas deficiencias y en algunas posibilidades de nuestras instituciones y metodologías educativas. Es lo que examinaré a continuación. En concreto, analizaré una estrategia educativa errónea por cuanto anula una de las conductas que aún son prueba en el niño de habitar ese umbral entre lo semiótico y lo semántico, la lengua y el habla, la infancia y la historia; en suma, prueba (índice y factor) de experiencia. Me refiero al juego. Tras ello, dedico un apartado a presentar alternativas a dicha instrumentalización del juego; en concreto, a mostrar la existencia de actividades que reúnen condiciones para hacer justicia a la ilimitada potencialidad humana y, en esta medida, a evitar la sobredeterminación de cualquier acto por finalidades heterogéneas a ellos: la instrucción, el aprendizaje, la integración, etc.</p>
+      </sec>
+      <sec>
+         <title>La instrumentalización educativa del juego y de la experiencia corporal</title>
+         <p>El juego es sumamente relevante en el pensamiento de Agamben. Por lo que atañe a nuestros objetivos, hay que destacar que es índice y factor de experiencia y, en esta medida, de la infancia en tanto que umbral de naturaleza y cultura. En Infancia e historia, y partiendo de una referencia a la descripción del país de los juguetes en la famosa novela de Collodi, desarrolla una sugerente explicación de cómo el juego altera el tiempo sagrado y el tiempo fijo del calendario por su funcionalidad profanadora. Ahora bien, matiza que todo juego conserva una parte de rito y, en esta medida, de capacidad para hacer cristalizar los acontecimientos en estructuras (al igual que todo rito tiene algo de juego). Y define la historia como el producto de las transformaciones del rito en juego y del juego en rito.</p>
+         <p>Las dimensiones ontológica y antropológica del juego sugeridas en la reflexión de Agamben son postergadas y rebajadas en la institución educativa contemporánea merced a la instrumentalización o funcionalización pedagógicas del mismo. Ello implica una reducción de la experiencia, puesto que la experiencia de la que el juego es índice y factor queda sobredeterminada (y, en esta medida, anulada) por la utilidad cívica que se pretende extraer de él.</p>
+         <p>Aunque en el ámbito de la educación reglada el cuerpo es profusamente reivindicado y movilizado, ello siempre se hace con fines distintos de él mismo, esto es, con fines instructivos, educativos. Hoy nadie cuestiona la centralidad del cuerpo en la práctica educativa, impulsada por filosofías como la del francés Maurice Merleau-Ponty, que contribuyó a superar el tradicional desprecio dualista del mismo y el paralelo protagonismo y privilegio de lo conceptual. Pero ni siquiera esta corriente fenomenológica ha logrado superar totalmente la funcionalización pedagógica del cuerpo que lo reduce a instrumento y fuente de significado, subestimando dimensiones que resisten la intencionalidad humana. En este sentido, y de la mano de Joris Vlieghe, puede afirmarse que Merleau-Ponty ni prioriza ni emancipa realmente el cuerpo, pues lo considera relevante solo en cuanto es soporte y eficaz herramienta de objetivos educacionales. Además, defiende la centralidad educativa del cuerpo a partir de un argumento puramente intelectualista y dualista, a saber: que posee una intencionalidad pre-reflexiva que es la fuente de toda constitución de significado.</p>
+         <p>Paralela y subsiguientemente a esta instrumentalización del juego en el sistema educativo, que lo rebaja a estrategia pedagógica, existe una sobredeterminación y subsunción de la experiencia corporal personal, que obedece y se pone al servicio del informe de los saberes expertos. Desde las premisas de Agamben, el abandono de la infancia implica un abandono de la experiencia. El que se da en la institución educativa es un caso particular de tal abandono -y consiguiente pérdida- que acaece en la vida hiper-reglamentada de las ciudades contemporáneas. En éstas, la experiencia corporal es subsumida y reducida a mero ejercicio físico, a higiene o a satisfacción de los cánones de lo normal en cada etapa establecida para el crecimiento. Como argumenta Žižek, nuestras sociedades gestionan la experiencia corporal como una mercancía más, disolviéndola y remitiéndola a consumo de lo que ofrece la industria en el marco del mercado y orientada por las ciencias biomédicas (Žižek. La suspensión política de la ética).</p>
+         <p>Lo que debemos preguntarnos es si la filosofía de Agamben es capaz de inspirar comprensiones del juego que no lo reduzcan a medio, a instrumento, sino a gesto que vuelva inoperantes a los existentes. O, más en general, si es posible identificar prácticas que posean la virtud que Agamben atribuye al uso, y que es justamente esa: hacer emerger una forma-de-vida; una vida reducida al hábito de la potencia de existir más allá de acto alguno; una vida que, por ello mismo, permanece siempre abierta a comenzar de nuevo. Solo de este modo sería posible compensar la pérdida de la infancia y de la experiencia.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>El valor educativo de algunas experiencias y prácticas inoperantes</title>
+         <p>Para desarrollar un enfoque alternativo en el que el valor de la presencia del cuerpo en la educación no se reduzca a su funcionalidad, el teórico de la educación Joris Vlieghe ha recurrido a las tesis sobre la naturaleza de la acción, el gesto y la potencialidad de Agamben. Así mismo, invoca un argumento de Jean-Luc Nancy, que denuncia el reemplazar el espíritu por el cuerpo, al que se comprende como educacionalmente importante en la medida en que es capaz de realizar actividades que se suponían exclusivas de la mente. Partiendo de ello, identifica acontecimientos y prácticas en el quehacer educativo durante las cuales coincidimos con nuestros cuerpos y emerge una experiencia de potencialidad. Su conclusión es que ciertas prácticas corporales son por sí mismas educacionalmente relevantes: la risa colectiva, la performance de calistenia en grupo, etc. En sus propios términos, se trata de experiencias y prácticas al otro lado o más allá del significado (on the other side of meaning) y, en esta medida, índice y factor de una experiencia plena y totalmente corporal (fully bodily experience), ajena a toda teleología. Por ello su valor educativo no radica en que sean útiles para aumentar la motivación, la creatividad o la cohesión del grupo, ya que ello implicaría instrumentalizarlas y seguir sin tomar en serio el cuerpo. Su valor educativo radica en su carácter de experiencias puras en tanto que ayunas de razón suficiente y de un por qué. En tales experiencias coincidimos con nuestra propia carne y queda excluida toda expresión de significado y funcionalidad. Son, en palabras de Vlieghe, prácticas heterogéneas a la instrucción social, prácticas que testimonian que todo puede comenzar de nuevo, que testimonian una potencialidad irreductible y trascendente a toda intencionalidad subjetiva (Vlieghe. <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/abs/10.1080/17449642.2016.1240387">The educational meaning of tiredness</ext-link>).</p>
+         <p>En esta línea, el mismo autor ha desarrollado una interesante concepción del cansancio (tiredness) como experiencia que, a diferencia del agotamiento (exhaustion), hace imposible diferenciar entre incapacidad de actuar, aunque se quiera, (inability) y falta de voluntad, aunque se pueda (unwillingness). A su juicio, el valor educativo de las prácticas escolares que producen cansancio radicaría justamente en ello, es decir, en que interrumpen la armonía entre capacidad y voluntad para la que se nos entrena en orden a gobernar nuestras vidas. En este sentido, el cansancio se opondría al ideal de auto-determinación permitiendo experimentar una potencialidad más allá de toda actualización, o sea, una potencialidad siempre disponible.</p>
+         <p>De las reflexiones y propuestas de Vlieghe podemos inferir, como resumen, que la dimensión educativa de estas experiencias y prácticas se halla en que quiebran e invalidan toda expectativa, toda lógica, todo principio, orden y jerarquía, procurando una igualdad radical: la vehiculada en el hecho de que somos nuda carne, nuda vida. El valor práctico, ético y político, de ello es que de este modo lo que se experimenta es la contingencia de todo orden y principio y, en esta medida, la posibilidad de una vida individual y colectiva sin regulación, sin identidades, sin roles. Ello abre la posibilidad de novedad, de acontecimiento; la posibilidad tout court.</p>
+         <p>Tal vez un reto de la institución educativa sea identificar experiencias y prácticas que, anulando cualesquiera objetivos educativos e instructores, encuentren su valor justamente en trascenderlos y, de este modo, constituirse en índices y en factores de una igualdad y unas posibilidades no totalizables, inéditas y situadas más allá de las procuradas hasta ahora por nuestras instituciones.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias bibliográficas</title>
+         <ref id="B1">
+            <mixed-citation>
+               Agamben, G.,  (1996).
+               <italic>La comunidad que viene</italic>
+               . : Pre-Textos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <source>La comunidad que viene</source>
+               <publisher-name>Pre-Textos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>
+               Agamben, G.,  (1998).
+               <italic>Homo sacer. El poder soberano y la nuda vida</italic>
+               . : Pre-Textos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <source>Homo sacer. El poder soberano y la nuda vida</source>
+               <publisher-name>Pre-Textos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>
+               Agamben, G.,  (2001).
+               <italic>Medios sin fin. Notas sobre la política</italic>
+               . : Pre-Textos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <source>Medios sin fin. Notas sobre la política</source>
+               <publisher-name>Pre-Textos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>
+               Agamben, G.,  (2004).
+               <italic>Estado de excepción</italic>
+               . : Pre-Textos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Estado de excepción</source>
+               <publisher-name>Pre-Textos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>
+               Agamben, G.,  (2007).
+               <italic>Infancia e historia</italic>
+               . : Adriana Hidalgo
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Infancia e historia</source>
+               <publisher-name>Adriana Hidalgo</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>
+               Agamben, G.,  (2008).
+               <italic>El reino y la gloria. Para una genealogía teológica de la economía y del gobierno</italic>
+               . : Pre-Textos
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>El reino y la gloria. Para una genealogía teológica de la economía y del gobierno</source>
+               <publisher-name>Pre-Textos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>
+               Agamben, G.,  (2017).
+               <italic>El uso de los cuerpos</italic>
+               . : Adriana Hidalgo
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Agamben</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>El uso de los cuerpos</source>
+               <publisher-name>Adriana Hidalgo</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>
+               Foucault, M.,  (2007).
+               <italic>Historia de la sexualidad 1. La voluntad de saber</italic>
+               . : Siglo XXI
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Foucault</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>Historia de la sexualidad 1. La voluntad de saber</source>
+               <publisher-name>Siglo XXI</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
